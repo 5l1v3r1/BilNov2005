@@ -1,0 +1,438 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 08 31 11 :25 :00 .köprüde intihar bombacısı izdihamı :965 ölü ..</sentence>
+<sentence num="1">ırak'ın başkenti bağdat'ta bir köprü üzerinde intihar eylemcileri bulunduğu söylentisi üzerine çıkan izdihamda 965 kişi öldü ,yüzlerce kişi yaralandı .</sentence>
+<sentence num="2">izdahamda ölenlerin sayısının 1000'e ulaşmasından endişe ediliyor .</sentence>
+<sentence num="3">ölenlerin çoğunun kadın ve çocuk olduğu bilgisi gelirken ,ırak içişleri bakanlığı sözcüsü adnan abdülrahman ,el ayma köprüsündeki izdihamda ölen kadın ve çocukların ya boğularak ya da ezilerek öldüğünü kaydetti .</sentence>
+<sentence num="4">sözcü ,şu ana kadar izdihamda ölenlerin sayısının 965 ,yaralı sayısının da yüzlerce olduğunu belirtti .</sentence>
+<sentence num="5">köprüdeki izdiham ,kalabalık arasındaki bir intihar bombacısının eylem yapmaya hazır olduğu söylentisi üzerine çıktı .</sentence>
+<sentence num="6">kalabalık ,paniğe kapılınca facia yaşandı .</sentence>
+<sentence num="7">görgü tanıkları ,kazimiye türbesine giden sokakların dar olmasının ,kurtarma görevlilerinin ölülere ve yaralılara ulaşmasını neredeyse imkansız kıldığı belirtilirken ,ölü sayısının artmasından endişe ediliyor .</sentence>
+<sentence num="8">polis yetkilileri ,köprünün çöktüğünü ve insanların nehre düştüğünü söylediler .</sentence>
+<sentence num="9">şiilerin 7 .imamı musa kazım'ı anma töreni dolayısıyla başkent bağdat'ın çeşitli kesimlerinden ve diğer vilayetlerden yaklaşık bir milyon kişinin musa kazım türbesi civarında toplandığı bildirildi .</sentence>
+<sentence num="10">ölü sayısı bini bulabilir izdahamda ölenlerin sayısının 1000'e ulaşmasından endişe ediliyor .</sentence>
+<sentence num="11">ırak sağlık bakanlığı'ndan doktor cesib latif ali ,ölenlerin sayısının 1000'i bulabileceğini belirtti .</sentence>
+<sentence num="12">ali ,reuters ajansına yaptığı açıklamada ,bir saat önce ölü sayısı 695 idi .</sentence>
+<sentence num="13">ancak ,sayının 1000'i bulacağını sanıyoruz dedi .</sentence>
+<sentence num="14">sağlık bakanı ,2 bakanın istifasını istedi ırak sağlık bakanı abdülmüttalib muhammed ali ,bağdat'ta dicle nehri üzerindeki köprüde çıkan ve yüzlerce kişinin ölümüyle sonuçlanan izdihamdan ,içişleri ve savunma bakanlarının sorumlu olduğunu iddia ederek ,bu bakanların istifa etmesini istedi .</sentence>
+<sentence num="15">muhammed ali ,düzenlediği basın toplantısında ,içişleri bakanı beyan cabr ve savunma bakanı sadun el duleymi'nin izdiham olayından sorumlu olduklarını ifade ederek ,arkadaşlarımdan ya bugünkü olayla ilgili tüm sorumluluğu üzerlerine almalarını ya da istifa etmelerini istiyorum dedi .</sentence>
+<sentence num="16">ırak sağlık bakanı muhammed ali ,geçen yıl abd'ye büyük direniş gösteren şii lider mukteda sadr hareketine yakınlığıyla biliniyor .</sentence>
+<sentence num="17">öte yandan ,içişleri bakanı beyan cabr ,devlet televizyonuna yaptığı açıklamada ,köprü üzerindeki şii kalabalık arasında ,bir intihar saldırganı olduğu söylentisini çıkaran bir teröristin yüzlerce kişinin öldüğü izdihama neden olduğunu söyledi .</sentence>
+<sentence num="18">cabr ,olayın ,bir teröristin kalabalık arasında bir intihar saldırganı olduğu söylentisini yaymasından sonra izdiham çıkmasından ibaret olduğunu söyledi .</sentence>
+<sentence num="19">bu arada ,ırak islam devrimi yüksek konseyi liderlerinden ammar el hekim ,dinci militanların ve devrik devlet başkanı saddam hüseyin yanlılarının ,köprü üzerinde kasten izdiham çıkardıklarını söyledi .</sentence>
+<sentence num="20">el hekim ,olanlardan teröristleri ,saddamcıları ve radikal dincileri sorumlu tuttuklarını ifade etti .</sentence>
+<sentence num="21">3 günlük yas ilan edildi dicle nehri üzerindeki köprüde yüzlerce kişinin ölmesinin ardından ırak'ta 3 günlük ulusal yas ilan edildi .</sentence>
+<sentence num="22">resmi bir kaynak ,yüzlerce kişinin ölümünün ardından başbakan ibrahim caferi'nin ülkede 3 günlük yas ilan ettiğini belirtti .</sentence>
+<sentence num="23">dünyadaki kanlı izdihamlar bağdat'ta bugün bir köprü üzerinde yüzlerce kişinin ölmesine yol açan izdiham ,dünyada son 20 yılda meydana gelen en kanlı izdihamlar arasında geliyor .</sentence>
+<sentence num="24">dünyada daha önceki büyük izdihamlar şöyle sıralanıyor :12 mart 1988 :nepal'in başkenti katmandu'da fırtına patlak verince ,stadyumdaki seyirciler sığınacak yer aradı .</sentence>
+<sentence num="25">izdihamda 100'den fazla insan öldü .</sentence>
+<sentence num="26">15 nisan 1989 :ingiltere'nin sheffield kentinde liverpool nottingham forest maçı başladıktan 6 dakika sonra biletsiz liverpool seyircileri maça girmek için hillsborough stadyumunun kapılarına yüklendi ,96 kişi boğularak ya da ezilerek can verdi .</sentence>
+<sentence num="27">liverpool seyircileri ,29 mayıs 1985'te de brüksel'deki heysel stadyumunda juventus taraftarlarına saldırarak izdihama neden olmuşlardı .</sentence>
+<sentence num="28">izdihamda 39 kişi ölmüştü .</sentence>
+<sentence num="29">2 temmuz 1990 :mekke'nin güneyindeki mina tünelinde çıkan izdihamda 1426 hacı adayı öldü .</sentence>
+<sentence num="30">24 mayıs 1994 :mina'da şeytan taşlama töreni sırasında izdihamdan 270 hacı adayı öldü .</sentence>
+<sentence num="31">13 ağustos 1994 :brazzaville'de (kongo )bir kilisede vaftiz töreninden sonra çıkan izdihamda çoğu çocuk 150 kişi hayatını kaybetti .</sentence>
+<sentence num="32">9 nisan 1998 :mina'da çıkan izdihamda 118 hacı adayı can verdi .</sentence>
+<sentence num="33">9 mayıs 2001 :accra (gana )stadyumunda maç sırasındaki izdihamda 126 seyirci öldü .</sentence>
+<sentence num="34">1 şubat 2004 :mina'da yine izdiham .</sentence>
+<sentence num="35">bilanço :251 ölü .</sentence>
+<sentence num="36">25 ocak 2005 :hindistan'ın satara bölgesinde hindu hacılar arasındaki izdihamda 257 kişi hayatını kaybetti .?</sentence>
+<sentence num="37">abd :erdoğan'ın ırak görüşleri 'doğru yaklaşım '...?</sentence>
+<sentence num="38">ırak'ta bir gazeteci daha öldürüldü ...?</sentence>
+<sentence num="39">şehit annesi amerikalıların kafalarını karıştırdı ?</sentence>
+<sentence num="40">ırak'ta 2 amerikan askeri öldürüldü ...?</sentence>
+<sentence num="41">ırak'ta havan topu saldırısı :5 ölü ...?</sentence>
+<sentence num="42">ırak sağlık bakanlığı :769 ölü ,307 yaralı ?</sentence>
+<sentence num="43">ırak içişleri bakanlığı :''ölü sayısı 965 ''.</sentence>
+</doc>
+<doc>
+<id>141533</id>
+<sentence num="0">2005 08 31 11 :29 :00 .Bağdat'ta canlı bomba paniği :640 ölü .</sentence>
+<sentence num="1">Bağdat'ta canlı bomba paniği :640 ölü Irak'ın başkenti Bağdat'ta bir köprü üzerinde intihar eylemcileri bulunduğu söylentisi üzerine çıkan izdihamda 640 kadar kişinin öldüğü bildirildi .?</sentence>
+<sentence num="2">Irak'ta 3 günlük yas ilan edildi Irak Sağlık Bakanlığı yardımcısı Celil El Şumari ,Sünni Ademiye ve Şii Kazımiye mahallesini bağlayan Dicle nehri üzerindeki El Ayma köprüsünde çıkan izdihamda 500 kadar kişinin öldüğünü söyledi .</sentence>
+<sentence num="3">Polis yetkilileri ,köprünün çöktüğünü ve insanların nehre düştüğünü söylediler .</sentence>
+<sentence num="4">Şiilerin 7 .imamı Musa Kazım'ı anma töreni dolayısıyla başkent Bağdat'ın çeşitli kesimlerinden ve diğer vilayetlerden yaklaşık bir milyon kişinin Musa Kazım türbesi civarında toplandığı bildirildi .</sentence>
+<sentence num="5">El Cezire televizyonu ise olayda 200'den fazla ölü bulunduğunu duyurdu .</sentence>
+<sentence num="6">Bu arada ,İçişleri Bakanlığı'ndan bir sözcü ,Reuters ajansına yaptığı açıklamada ölü sayısının 640 olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>141536</id>
+<sentence num="0">2005 08 31 11 :32 :00 .Irak'ta bombacı paniği Irak Sağlık Bakanlığı ,ölü sayısının bini bulabileceğini açıkladı .</sentence>
+<sentence num="1">Olay Dicle üzerindeki El Ayma köprüsünde meydana geldi İlgili Galeri Foto Galeri için tıklayınız Irak'ın başkenti Bağdat'ta düzenlenen Şii törenine giden kalabalığa bir intihar bombacısının karıştığı söylentileri üzerine Dicle nehri üzerindeki bir köprüde çıkan izdihamda ölenlerin sayısı 965'e yükseldi .</sentence>
+<sentence num="2">Ülkede üç günlük yas ilan edildi .</sentence>
+<sentence num="3">Sağlık Bakanlığı ölü sayısının bini bulabileceğini açıklamıştı .</sentence>
+<sentence num="4">İzdihamda 475 kişinin de yaralandığı belirtiliyor .</sentence>
+<sentence num="5">Dini bir törene katılmak üzere Bağdat'ın kuzeydoğusundaki Kadmiya camiine giden binlerce kişi ,bir intihar bombacısının kendini havaya uçurmak üzere olduğu söylentisi nedeniyle paniğe kapıldı .</sentence>
+<sentence num="6">Panik ortamında kalabalığın bir bölümü izdihamda ,bir bölümü de boğularak hayatını kaybetti .</sentence>
+<sentence num="7">Görgü tanıkları bölgeye çıkan sokakların dar olduğunu ve kurtarma ekiplerinin ölü ve yaralılara ulaşmasının zor olduğunu belirtiyor .</sentence>
+<sentence num="8">Bu durumun ölü sayısını artırmasından endişe ediliyor .</sentence>
+<sentence num="9">Doğan Haber Ajansı muhabiri Can Hasasu ,olayın ardından bölgenin boşaltılmadığını ve halktan hala camiye doğru gidenler olduğunu belirtti .</sentence>
+<sentence num="10">Saldırının ana hedefinin ulusal muhafız güçleri olduğunu söyleyen Hasasu ,izdiham meydana gelmeden önce bölgede saldırı beklentisi olduğunu kaydetti .</sentence>
+<sentence num="11">Şiilerin kutsal mekanlarından biri olan Kadmiya camiine giden kalabalık ,dini liderleri Musa El Kadhim'in şehit olmasının yıldönümünde anma töreni düzenliyordu .</sentence>
+<sentence num="12">Törenlere ,olaylara rağmen ara verilmedi .</sentence>
+<sentence num="13">Bir iddiaya göre ise ,izdihamdan önce 50 kişi içtikleri meyve suyundan ötürü zehirlenerek öldü .</sentence>
+<sentence num="14">Olayın ardından Irak Başbakanı İbrahim Caferi üç gün yas ilan etti .</sentence>
+<sentence num="15">İçişleri ve Savunma bakanlarına istifa çağrısı MEZHEP ÇATIŞMASI DEĞİL Irak Savunma Bakanı Sadun El Duleymi ,başkent Bağdat'ta Dicle üzerinden geçen köprüde yüzlerce kişinin ölmesinin ,mezhepler arası çatışmayla ilgisinin olmadığını söyledi .</sentence>
+<sentence num="16">Savunma Bakanı Duleymi ,televizyondaki açıklamasında ,köprü faciası dışında sabah yedi kişinin havan topu saldırısında öldüğünü ,ölenlerin çıkan paniğe bağlı hayatını kaybettiğini belirtti .</sentence>
+<sentence num="17">Irak Sağlık Bakanı Abdülmüttalib Muhammed Ali ise ,İçişleri Bakanı Beyan Cabr ve Savunma Bakanı Sadun El Duleymi'nin izdiham olayından sorumlu olduklarını ifade ederek ,''arkadaşlarımdan ya bugünkü olayla ilgili tüm sorumluluğu üzerlerine almalarını ya da istifa etmelerini istiyorum ''dedi .</sentence>
+<sentence num="18">Muhammed Ali ,geçtiğimiz yıl ABD'ye büyük direniş gösteren Şii lider Mukteda Sadr hareketine yakınlığıyla biliniyor .</sentence>
+<sentence num="19">İçişleri Bakanı Beyan Cabr ise ,devlet televizyonuna yaptığı açıklamada ,köprü üzerindeki Şii kalabalık arasında ,'bir intihar saldırganı olduğu 'söylentisini çıkaran bir teröristin yüzlerce kişinin öldüğü izdihama neden olduğunu söyledi .</sentence>
+<sentence num="20">Cabr ,olayın ,bir teröristin kalabalık arasında bir intihar saldırganı olduğu söylentisini yaymasından sonra izdiham çıkmasından ibaret olduğunu söyledi .</sentence>
+<sentence num="21">Irak İslam Devrimi Yüksek Konseyi liderlerinden Ammar El Hekim ise ,dinci militanların ve devrik Devlet Başkanı Saddam Hüseyin yanlılarının ,köprü üzerinde kasten izdiham çıkardıklarını söyledi .</sentence>
+<sentence num="22">El Hekim ,olanlardan teröristleri ,Saddamcıları ve radikal dincileri sorumlu tuttuklarını ifade etti .</sentence>
+<sentence num="23">Üç ayrı roket saldırısı Binlerce kişinin Kadmiya camiine yürüdüğü sırada düzenlenen üç ayrı roket saldırısında da yedi kişi öldü .</sentence>
+<sentence num="24">Başkent Bağdat da güne patlama sesleriye uyandı .</sentence>
+<sentence num="25">Reuters muhabiri Bağdat Havaalanı yakınında altı patlama sesi duyulduğunu belirtti ancak ABD ordusu bölgede herhangi bir saldırı kaydetmedi .</sentence>
+<sentence num="26">Irak'ta anayasa taslağının referanduma sunulma sürecinde dini ve etnik gruplar arasındaki tansiyon yüksek .</sentence>
+<sentence num="27">Parlamento anayasa taslağı üzerindeki çalışmalarını geçtiğimiz pazar günü tamamladı .</sentence>
+<sentence num="28">Taslağın önümüzdeki ekim ayının 15'inden önce çoğunluk oyunu alarak onaylanması gerekiyor .</sentence>
+<sentence num="29">Anayasa çalışmalarının tamamlanmasına karşılık Saddam yanlısı Sünniler ile Usame Bin Ladin'e bağlı direnişçiler eylemlerine son vermiyor .</sentence>
+</doc>
+<doc>
+<id>141539</id>
+<sentence num="0">2005 08 31 11 :35 :00 .Bağdat'ta İzdiham :500 Ölü .</sentence>
+<sentence num="1">Irak'ın başkenti Bağdat'ta bir köprüde yaşanan izdiham sonucu en az 500 kişinin öldüğü bildirildi .</sentence>
+</doc>
+<doc>
+<id>141566</id>
+<sentence num="0">2005 08 31 12 :16 :00 .Bağdat'taki izdihamda ölenlerle ilgili çelişkili rakamlar veriliyor .</sentence>
+<sentence num="1">Bağdat'taki izdihamda ölenlerle ilgili çelişkili rakamlar veriliyor Irak'ın başkenti Bağdat'ta Dicle nehri üzerindeki köprüde çıkan izdihamda ölenlerin sayısıyla ilgili çelişkili rakamlar veriliyor .</sentence>
+<sentence num="2">Azemiye bölgesi polis komutanı Tuğgeneral Halid Hasan ,El Ayma köprüsündeki izdihamda 308 kişinin öldüğünü ,bu kişilerin çıkan izdihamda ya da nehre düşerek boğulduğunu söyledi .</sentence>
+<sentence num="3">Hasan ,olayın kalabalığın köprüyü geçmeye çalışırken meydana geldiğini belirtti .</sentence>
+<sentence num="4">Üç hastaneden gelen bilgilere göre ise ölü sayısı en az 186 .Görgü tanıkları ,Kazimiye türbesine giden sokakların dar olmasının ,kurtarma görevlilerinin ölülere ve yaralılara ulaşmasını neredeyse imkansız kıldığı belirtilirken ,ölü sayısının artmasından endişe ediliyor .</sentence>
+</doc>
+<doc>
+<id>141579</id>
+<sentence num="0">2005 08 31 12 :30 :00 .Irak İçişleri Bakanlığı :640 kişi öldü .</sentence>
+<sentence num="1">Irak İçişleri Bakanlığı ,Şii töreninde meydana gelen izdihamda ölü sayısını 640 olarak duyurdu .</sentence>
+<sentence num="2">GÜVENLİK KAYNAKLARI :ÖLÜ SAYISI 637 Irak'ın başkenti Bağdat'ta Dicle nehri üzerindeki köprüde çıkan izdihamda ölenlerin sayısının 637'ye çıktığı bildirildi .</sentence>
+<sentence num="3">Güvenlik kaynakları ,El Ayma köprüsündeki izdihamda 637 kişinin öldüğünü ,238 kişinin yaralandığını belirtti .</sentence>
+<sentence num="4">Bir polis kaynağı da Reuters ajansına yaptığı açıklamada ,izdihamda 537 kişinin öldüğünü ,255 kişinin yaralandığını söyledi .</sentence>
+<sentence num="5">AZAMİYE POLİSİ :ÖLÜ SAYISI 308 Azemiye bölgesi polis komutanı Tuğgeneral Halid Hasan ,El Ayma köprüsündeki izdihamda 308 kişinin öldüğünü ,bu kişilerin çıkan izdihamda ya da nehre düşerek boğulduğunu söyledi .</sentence>
+<sentence num="6">Hasan ,olayın kalabalığın köprüyü geçmeye çalışırken meydana geldiğini belirtti .</sentence>
+<sentence num="7">Üç hastaneden gelen bilgilere göre ise ölü sayısı en az 186 .Görgü tanıkları ,Kazimiye türbesine giden sokakların dar olmasının ,kurtarma görevlilerinin ölülere ve yaralılara ulaşmasını neredeyse imkansız kıldığı belirtilirken ,ölü sayısının artmasından endişe ediliyor .</sentence>
+<sentence num="8">Sağlık Bakan Yardımcısı Celil El Şumari ,Sünni Ademiye ve Şii Kazımiye mahallesini bağlayan Dicle nehri üzerindeki El Ayma köprüsünde çıkan izdihamda 500 kadar kişinin öldüğünü açıklamıştı .</sentence>
+<sentence num="9">Köprüdeki izdihamın ,kalabalık arasındaki bir intihar bombacısının eylem yapmaya hazır olduğu söylentisi üzerine çıktığı bildirilmişti .</sentence>
+<sentence num="10">Daha önce Kazimiye türbesi civarında düzenlenen havan topu ve roketatar saldırısında 7 kişinin öldüğü belirtilmişti .</sentence>
+<sentence num="11">Bağdat'ın çeşitli kesimlerinden ve diğer vilayetlerden Şiiler bugün Şiilerin 7 .imamı Musa Kazım'ı anma töreni için Kazimiye türbesi civarında toplandı .</sentence>
+</doc>
+<doc>
+<id>141587</id>
+<sentence num="0">2005 08 31 12 :48 :00 .Irak'ta 3 gün yas ilan edildi .</sentence>
+<sentence num="1">Resmi bir kaynak ,yüzlerce kişinin ölümünün ardından Başbakan İbrahim Caferi'nin ülkede 3 günlük yas ilan ettiğini belirtti .</sentence>
+<sentence num="2">Bu arada ,İçişleri Bakanlığı'ndan bir sözcü ,Reuters ajansına yaptığı açıklamada ölü sayısının 640 olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>141589</id>
+<sentence num="0">2005 08 31 12 :51 :00 .Irak'ta 3 günlük yas ilan edildi .</sentence>
+<sentence num="1">Irak'ta 3 günlük yas ilan edildi Irak'ın başkenti Bağdat'ta Dicle nehri üzerindeki köprüde çıkan izdihamda yüzlerce kişinin ölmesinin ardından Irak'ta 3 günlük ulusal yas ilan edildi .</sentence>
+<sentence num="2">Resmi bir kaynak ,yüzlerce kişinin ölümünün ardından Başbakan İbrahim Caferi'nin ülkede 3 günlük yas ilan ettiğini belirtti .</sentence>
+<sentence num="3">Bu arada ,İçişleri Bakanlığı'ndan bir sözcü ,Reuters ajansına yaptığı açıklamada ölü sayısının 640 olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>141632</id>
+<sentence num="0">2005 08 31 13 :59 :00 .Bağdat'ta ölenlerin çoğu kadın ve çocuk .</sentence>
+<sentence num="1">Bağdat'ta ölenlerin çoğu kadın ve çocuk Irak'ın başkenti Bağdat'ta Dicle nehri üzerindeki köprüde çıkan izdihamda ölenlerin çoğunun kadın ve çocuk olduğu belirtildi .</sentence>
+<sentence num="2">Irak İçişleri Bakanlığı sözcüsü Adnan Abdülrahman ,El Ayma köprüsündeki izdihamda ölenlerin çoğunun kadın ve çocuklardan oluştuğunu ,bunların çoğunun da ''ya boğularak ya da ezilerek öldüğünü ''kaydetti .</sentence>
+</doc>
+<doc>
+<id>141653</id>
+<sentence num="0">2005 08 31 14 :35 :00 .Son 20 yılın en kanlı ikinci izdihamı .</sentence>
+<sentence num="1">Irak İçişleri Bakanlığı sözcüsü Adnan Abdülrahman ,El Ayma köprüsündeki izdihamda ölenlerin çoğunun kadın ve çocuklardan oluştuğunu ,bunların çoğunun da ''ya boğularak ya da ezilerek öldüğünü ''kaydetti .</sentence>
+<sentence num="2">Sözcü ,şu ana kadar izdihamda ölenlerin sayısının 648 ,yaralı sayısının da 322 olduğunu belirtti .</sentence>
+<sentence num="3">SON 20 YILIN EN KANLI İKİNCİ İZDİHAMI Bağdat'ta bugün bir köprü üzerinde yüzlerce kişinin ölmesine yol açan izdiham ,dünyada son 20 yılda meydana gelen en kanlı izdihamlar arasında geliyor .</sentence>
+<sentence num="4">Dünyada daha önceki büyük izdihamlar şöyle sıralanıyor :12 Mart 1988 :Nepal'in başkenti Katmandu'da fırtına patlak verince ,stadyumdaki seyirciler sığınacak yer aradı .</sentence>
+<sentence num="5">İzdihamda 100'den fazla insan öldü .</sentence>
+<sentence num="6">15 Nisan 1989 :İngiltere'nin Sheffield kentinde Liverpool Nottingham Forest maçı başladıktan 6 dakika sonra biletsiz Liverpool seyircileri maça girmek için Hillsborough stadyumunun kapılarına yüklendi ,96 kişi boğularak ya da ezilerek can verdi .</sentence>
+<sentence num="7">Liverpool seyircileri ,29 Mayıs 1985'te de Brüksel'deki Heysel stadyumunda Juventus taraftarlarına saldırarak izdihama neden olmuşlardı .</sentence>
+<sentence num="8">İzdihamda 39 kişi ölmüştü .</sentence>
+<sentence num="9">2 Temmuz 1990 :Mekke'nin güneyindeki Mina tünelinde çıkan izdihamda 1426 hacı adayı öldü .</sentence>
+<sentence num="10">24 Mayıs 1994 :Mina'da şeytan taşlama töreni sırasında izdihamdan 270 hacı adayı öldü .</sentence>
+<sentence num="11">13 Ağustos 1994 :Brazzaville'de (Kongo )bir kilisede vaftiz töreninden sonra çıkan izdihamda çoğu çocuk 150 kişi hayatını kaybetti .</sentence>
+<sentence num="12">9 Nisan 1998 :Mina'da çıkan izdihamda 118 hacı adayı can verdi .</sentence>
+<sentence num="13">9 Mayıs 2001 :Accra (Gana )stadyumunda maç sırasındaki izdihamda 126 seyirci öldü .</sentence>
+<sentence num="14">1 Şubet 2004 :Mina'da yine izdiham .</sentence>
+<sentence num="15">Bilanço :251 ölü .</sentence>
+<sentence num="16">25 Ocak 2005 :Hindistan'ın Satara bölgesinde Hindu hacılar arasındaki izdihamda 257 kişi hayatını kaybetti .</sentence>
+</doc>
+<doc>
+<id>141716</id>
+<sentence num="0">2005 08 31 16 :02 :00 .Irak Sağlık Bakanlığı ,İçişleri ve Savunma bakanlarının istifasını istedi .</sentence>
+<sentence num="1">Irak Sağlık Bakanlığı ,İçişleri ve Savunma bakanlarının istifasını istedi Irak Sağlık Bakanı Abdülmüttalib Muhammed Ali ,Bağdat'ta Dicle nehri üzerindeki köprüde çıkan ve yüzlerce kişinin ölümüyle sonuçlanan izdihamdan ,İçişleri ve Savunma bakanlarının sorumlu olduğunu iddia ederek ,bu bakanların istifa etmesini istedi .</sentence>
+<sentence num="2">Muhammed Ali ,düzenlediği basın toplantısında ,''İçişleri Bakanı Beyan Cabr ve Savunma Bakanı Sadun El Duleymi'nin izdiham olayından sorumlu olduklarını ''ifade ederek ,''Arkadaşlarımdan ya bugünkü olayla ilgili tüm sorumluluğu üzerlerine almalarını ya da istifa etmelerini istiyorum ''dedi .</sentence>
+</doc>
+<doc>
+<id>141731</id>
+<sentence num="0">2005 08 31 16 :33 :00 .Bağdat'taki izdihamda ölenlerin sayısının bine yükselmesinden korkuluyor .</sentence>
+<sentence num="1">Bağdat'taki izdihamda ölenlerin sayısının bine yükselmesinden korkuluyor Irak'ın başkenti Bağdat'taki köprüde çıkan izdahamda ölenlerin sayısının 1000'e ulaşmasından endişe edildiği bildirildi .</sentence>
+<sentence num="2">Irak Sağlık Bakanlığı'ndan doktor Cesib Latif Ali ,Dicle nehri üzerindeki El Ayma köprüsünde çıkan izdihamda ölenlerin sayısının 1000'i bulabileceğini belirtti .</sentence>
+<sentence num="3">Ali ,Reuters ajansına yaptığı açıklamada ,''Bir saat önce ölü sayısı 695 idi .</sentence>
+<sentence num="4">Ancak ,sayının 1000'i bulacağını sanıyoruz ''dedi .</sentence>
+</doc>
+<doc>
+<id>141743</id>
+<sentence num="0">2005 08 31 16 :50 :00 .Bağdat'ta ölü sayısı 1000'i aşabilir .</sentence>
+<sentence num="1">Irak'ın başkenti Bağdat'taki köprüde çıkan izdahamda ölenlerin sayısının 1000'e ulaşmasından endişe edildiği bildirildi .</sentence>
+<sentence num="2">Irak Sağlık Bakanlığı'ndan doktor Cesib Latif Ali ,Dicle nehri üzerindeki El Ayma köprüsünde çıkan izdihamda ölenlerin sayısının 1000'i bulabileceğini belirtti .</sentence>
+<sentence num="3">Ali ,Reuters ajansına yaptığı açıklamada ,''Bir saat önce ölü sayısı 695 idi .</sentence>
+<sentence num="4">Ancak ,sayının 1000'i bulacağını sanıyoruz ''dedi .</sentence>
+<sentence num="5">İÇİŞLERİ BAKANI :İZDİHAMIN SORUMLUSU BİR TERÖRİST Irak Sağlık Bakanı Abdülmüttalib Muhammed Ali ,Bağdat'ta Dicle nehri üzerindeki köprüde çıkan ve yüzlerce kişinin ölümüyle sonuçlanan izdihamdan ,İçişleri ve Savunma bakanlarının sorumlu olduğunu iddia ederek ,bu bakanların istifa etmesini istedi .</sentence>
+<sentence num="6">Muhammed Ali ,düzenlediği basın toplantısında ,''İçişleri Bakanı Beyan Cabr ve Savunma Bakanı Sadun El Duleymi'nin izdiham olayından sorumlu olduklarını ''ifade ederek ,''Arkadaşlarımdan ya bugünkü olayla ilgili tüm sorumluluğu üzerlerine almalarını ya da istifa etmelerini istiyorum ''dedi .</sentence>
+<sentence num="7">Irak Sağlık Bakanı Muhammed Ali ,geçen yıl ABD'ye büyük direniş gösteren Şii lider Mukteda Sadr hareketine yakınlığıyla biliniyor .</sentence>
+<sentence num="8">Öte yandan ,İçişleri Bakanı Beyan Cabr ,devlet televizyonuna yaptığı açıklamada ,köprü üzerindeki Şii kalabalık arasında ,''bir intihar saldırganı olduğu ''söylentisini çıkaran bir teröristin yüzlerce kişinin öldüğü izdihama neden olduğunu söyledi .</sentence>
+<sentence num="9">Cabr ,''Olayın ,bir teröristin kalabalık arasında bir intihar saldırganı olduğu söylentisini yaymasından sonra izdiham çıkmasından ibaret olduğunu ''söyledi .</sentence>
+<sentence num="10">Sünni Ademiye ve Şii Kazımiye mahallesini bağlayan Dicle nehri üzerindeki El Ayma köprüsünde çıkan izdihamda çoğu kadın ve çocuk 648 kadar kişi ölmüştü .</sentence>
+<sentence num="11">Gelen ilk haberlerde de köprüdeki izdihamın ,kalabalık arasındaki bir intihar saldırganının eylem yapmaya hazır olduğu söylentisi üzerine çıktığı kaydedilmişti .</sentence>
+<sentence num="12">Bu arada ,Irak İslam Devrimi Yüksek Konseyi liderlerinden Ammar El Hekim ,dinci militanların ve devrik Devlet Başkanı Saddam Hüseyin yanlılarının ,köprü üzerinde kasten izdiham çıkardıklarını söyledi .</sentence>
+<sentence num="13">El Hekim ,''Olanlardan teröristleri ,Saddamcıları ve radikal dincileri sorumlu tuttuklarını ''ifade etti .''</sentence>
+<sentence num="14">KÖPRÜ FACİASININ MEZHEP AYRILIĞIYLA İLGİSİ YOK ''Irak Savunma Bakanı Sadun El Duleymi ,başkent Bağdat'ta Dicle üzerinden geçen köprüde 700'e yakın kişinin ölmesinin ,''mezhepler arası çatışmayla ilgisinin olmadığını ''söyledi .</sentence>
+<sentence num="15">Savunma Bakanı Duleymi ,televizyondaki açıklamasında ,''köprü faciası dışında sabah 7 kişinin havan topu saldırısında öldüğünü ,ölenlerin çıkan paniğe bağlı hayatını kaybettiğini ''belirtti .</sentence>
+<sentence num="16">Köprüde ,bir intihar eylemcisinin varlığı üzerine çıkan söylentinin paniği yarattığı bildirilmişti .</sentence>
+<sentence num="17">Sağlık Bakan Yardımcısı Celil El Şumari ,Sünni Ademiye ve Şii Kazımiye mahallesini bağlayan Dicle nehri üzerindeki El Ayma köprüsünde çıkan izdihamda yüzlerce insanın öldüğünü açıklamıştı .</sentence>
+<sentence num="18">Köprüdeki izdihamın ,kalabalık arasındaki bir intihar bombacısının eylem yapmaya hazır olduğu söylentisi üzerine çıktığı ,daha önce Kazımiye türbesi civarında düzenlenen havan topu ve roketatar saldırısında 7 kişinin öldüğü belirtilmişti .</sentence>
+<sentence num="19">Bağdat'ın çeşitli kesimlerinden ve diğer vilayetlerden Şiiler bugün Şiilerin 7 .imamı Musa Kazım'ı anma töreni için Kazımiye türbesi civarında toplandı .</sentence>
+<sentence num="20">Köprüde çıkan izdihamda ölenlerin sayısının 1000'e ulaşmasından endişe edildiği de bildirildi .</sentence>
+<sentence num="21">Irak Sağlık Bakanlığı'ndan Dr .Cesib Latif Ali ,Dicle nehri üzerindeki El Ayma köprüsünde çıkan izdihamda ölenlerin sayısının 1000'i bulabileceğini belirtti .</sentence>
+<sentence num="22">Ali ,Reuters ajansına yaptığı açıklamada ,''Bir saat önce ölü sayısı 695 idi .</sentence>
+<sentence num="23">Ancak sayının 1000'i bulacağını sanıyoruz ''demişti .</sentence>
+</doc>
+<doc>
+<id>141793</id>
+<sentence num="0">2005 08 31 17 :53 :00 .Bağdat'ta İzdiham :700 Ölü .</sentence>
+<sentence num="1">Irak'ta gözyaşı dinmiyor .</sentence>
+<sentence num="2">Ülke ,yine bir büyük facia yaşadı .</sentence>
+<sentence num="3">Başkent Bağdat'ta bir köprü üzerinde ,(saldırı söylentisi )üzerine çıkan izdihamda 700'e yakın kişi öldü ,yüzlerce kişi yaralandı .</sentence>
+<sentence num="4">Ölü sayısının bine çıkmasından korkuluyor .</sentence>
+<sentence num="5">Ülkede yas ilan edildi .</sentence>
+<sentence num="6">Ajanslar ,Şiilerin 7'nci imamı Musa Kazım'ı anma töreni dolayısıyla Kazımiye camisine doğru giden Şii kalabalığın ,El Ayma köprüsüden geçtiği sırada ,intihar saldırısı söylentisi üzerine paniğe kapılarak Dicle nehrine atladığını duyurdu .</sentence>
+<sentence num="7">Güvenlik kaynakları da ,ölümlerin panik üzerine çıkan izdiham ve insanların nehre atlaması sonucu meydana geldiğini bildirdi .</sentence>
+<sentence num="8">İçişleri Bakanı Beyan Cabr da ,devlet televizyonuna yaptığı açıklamada ,köprü üzerindeki Şii kalabalık arasında ,bir intihar saldırganı olduğu söylentisini çıkaran bir teröristin ,yüzlerce kişinin öldüğü izdihama neden olduğunu söyledi .</sentence>
+<sentence num="9">Her gün onlarca insanın hayatını kaybettiği Irak'ta ,(yine saldırı olacak korkusu )yüzünden yaratılan izdiham ,hiç kimsenin tahmin edemeyeceği boyutta ,büyük bir drama dönüştü .</sentence>
+<sentence num="10">700'ye yakın ölü yüzlerce yaralı haberi ,facianın büyüklüğünü gözler önüne serdi .</sentence>
+<sentence num="11">Ölenlerin çoğunun kadın ve çocuk olduğu kaydediliyor .</sentence>
+<sentence num="12">Irak Sağlık Bakanlığı yetkilileri ,faciada ölenlerin sayısının bine ulaşacağını dile getiriyor .</sentence>
+<sentence num="13">Irak Başbakanı İbrahim Caferi'nin yaşanan faciadan sonra ülkede üç günlük yas ilan ettiği açıklandı .</sentence>
+<sentence num="14">Irak Savunma Bakanı Sadun El Duleymi ,700'e yakın kişinin ölmesinin ,mezhepler arası çatışmayla ilgisinin olmadığını söyledi .</sentence>
+<sentence num="15">Bu arada Irak Sağlık Bakanı Abdülmüttalib Muhammed Ali ,yüzlerce kişinin ölümüyle sonuçlanan izdihamdan ,İçişleri ve Savunma bakanlarının sorumlu olduğunu iddia ederek ,bu bakanların istifasını istedi .</sentence>
+<sentence num="16">Sezer ve Erdoğan'dan Başsağlığı Mesajı Cumhurbaşkanı Ahmet Necdet Sezer ,Irak Devlet Başkanı Celal Talabani'ye gönderdiği mesajda ,dini bir tören sırasında başgösteren panik sonucu çok sayıda kişinin yaşamını yitirmesinden duyduğu üzüntüyü dile getirdi .</sentence>
+<sentence num="17">Sezer ,mesajında ,Irak hükümetiyle izdihamda hayatını kaybedenlerin ailelerine başsağlığı ve yaralananlara acil şifa diledi .</sentence>
+<sentence num="18">Başbakan Recep Tayyip Erdoğan da ,Irak Başbakanı İbrahim Caferi'ye yazılı birer mesaj göndererek ;Bağdat'ta meydana gelen olayın ardından Irak halkının acısını paylaşıyoruz mesajını verdi .</sentence>
+<sentence num="19">Dışişleri Bakanı Abdullah Gül de ,Irak Dışişleri Bakanı Hoşyar Zebari'yi arayarak Türkiye'nin ihtiyaç duyulması halinde her türlü yardıma hazır olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>141900</id>
+<sentence num="0">2005 08 31 21 :00 :00 .Irak Sağlık Bakanlığı :769 ölü ,307 yaralı .</sentence>
+<sentence num="1">Irak'ın başkenti Bağdat'ta ,bugün bir köprüde çıkan izdihamda ölenlerin sayısının 769'a yükseldiği bildirildi .</sentence>
+<sentence num="2">Irak Sağlık Bakanlığı'ndan Dr .Sivedi Kerim ,izdihamda 769 kişinin öldüğünü ,bir kısmı ağır olmak üzere 307 kişinin de yaralandığını açıkladı .</sentence>
+<sentence num="3">İzdihamda ölenlerin sayısına ilişkin en son 695 rakamı verilmiş ,ancak bu sayının artarak 1000'e ulaşmasından korkulduğu belirtilmişti .</sentence>
+<sentence num="4">İzdihamın ,kalabalık arasındaki bir intihar bombacısının eylem yapmaya hazır olduğu söylentisi üzerine çıktığı bildirilmişti .</sentence>
+</doc>
+<doc>
+<id>141907</id>
+<sentence num="0">2005 08 31 21 :19 :00 .Bağdat'taki facianın son bilançosu .</sentence>
+<sentence num="1">Irak Sağlık Bakanlığı'ndan Dr .Sivedi Kerim ,izdihamda 769 kişinin öldüğünü ,bir kısmı ağır olmak üzere 307 kişinin de yaralandığını açıkladı .</sentence>
+<sentence num="2">İzdihamda ölenlerin sayısına ilişkin en son 695 rakamı verilmiş ,ancak bu sayının artarak 1000'e ulaşmasından korkulduğu belirtilmişti .</sentence>
+<sentence num="3">İzdihamın ,kalabalık arasındaki bir intihar bombacısının eylem yapmaya hazır olduğu söylentisi üzerine çıktığı bildirilmişti .</sentence>
+<sentence num="4">AA .</sentence>
+</doc>
+<doc>
+<id>141936</id>
+<sentence num="0">2005 08 31 22 :30 :00 .Irak'ta ölü sayısı 852'ye yükseldi ...</sentence>
+<sentence num="1">Irak'ın başkenti Bağdat'taki bir köprüde çıkan izdihamda hayatını kaybedenlerin sayısının 852'ye yükseldiği bildirildi .</sentence>
+<sentence num="2">Irak Sağlık Bakanlığı'ndan Dr .Cesib Latif Ali ,yerel saatle 22 .</sentence>
+<sentence num="3">30 itibariyle ölü sayısının 852 olduğunun doğrulandığını ,ayrıca bu rakamın halen artmakta olduğunu söyledi .</sentence>
+<sentence num="4">Sağlık Bakanlığı'ndan bir başka yetkili Dr .Sivedi Kerim ,son olarak 769 kişinin öldüğünü ,bir kısmı ağır olmak üzere 307 kişinin de yaralandığını açıklamıştı .</sentence>
+<sentence num="5">Bağdat'taki izdihamın ,kalabalık arasındaki bir intihar bombacısının eylem yapmaya hazır olduğu söylentisi üzerine çıktığı bildirilmişti .</sentence>
+<sentence num="6">Büyük can kaybı nedeniyle Irak Başbakanı İbrahim Caferi ,ülkede 3 günlük yas ilan etmişti .</sentence>
+</doc>
+<doc>
+<id>141952</id>
+<sentence num="0">2005 08 31 23 :08 :00 .Irak'ta Facia :852 Ölü .</sentence>
+<sentence num="1">Irak'ın başkenti Bağdat'taki bir köprüde çıkan izdihamda hayatını kaybedenlerin sayısının 852'ye yükseldiği bildirildi .</sentence>
+<sentence num="2">Ölü sayısının 1000'e çıkmasından korkulurken yaralı sayısının 300'ü geçtiği açıklandı .</sentence>
+<sentence num="3">Irak Sağlık Bakanlığı'ndan bir yetkili ,ölü sayısının 852'ye yükseldiğini doğruladı ve bu sayının artmakta olduğunu söyledi .</sentence>
+<sentence num="4">İçişleri Bakanı Beyan Cabr ,devlet televizyonuna yaptığı açıklamada ,el Ayma Köprüsü üzerindeki Şii kalabalık arasında ,bir intihar saldırganı olduğu söylentisini çıkaran bir teröristin ,yüzlerce kişinin öldüğü izdihama neden olduğunu söylemişti .</sentence>
+<sentence num="5">Ajanslar ,Şiiler'in 7 .İmamı Musa Kazım'ı anma töreni dolayısıyla Kazımiye Camisi'ne doğru giderken yaşanan panik sırasında çok sayıda kişinin Dicle Nehri'ne atladığını duyurmuştu .</sentence>
+<sentence num="6">Ülkede 3 Günlük Yas Büyük can kaybı nedeniyle Irak Başbakanı İbrahim Caferi ,ülkede 3 günlük yas ilan etti .</sentence>
+<sentence num="7">Bu arada Irak Sağlık Bakanı Abdülmüttalib Muhammed Ali ,yüzlerce kişinin ölümüyle sonuçlanan izdihamdan ,içişleri ve savunma bakanlarının sorumlu olduğunu iddia ederek bu bakanların istifasını istedi .</sentence>
+</doc>
+<doc>
+<id>141964</id>
+<sentence num="0">2005 08 31 23 :40 :00 .Bağdat'ta canlı bomba söylentisi faciaya yol açtı :965 ölü .</sentence>
+<sentence num="1">Bağdat'ta canlı bomba söylentisi faciaya yol açtı :965 ölü Irak'ın başkenti Bağdat'ta bir köprü üzerinde törene katılan Şiilerin ,intihar eylemcileri bulunduğu söylentisi üzerine çıkan izdihamda ölü sayısı saat 23 :30 itibariyle 965'ye yükseldi .</sentence>
+<sentence num="2">Yaralı sayısı ise 475 .?</sentence>
+<sentence num="3">Irak'ta 3 günlük yas ilan edildi Olay dün Şiilerin 7 .imamı Musa Kazım'ı anma törenleri sırasında yaşandı .</sentence>
+<sentence num="4">Yaklaşık 1 milyon Iraklı El Ayma Köprüsü'nden geçerken İçimizde intihar bombacısı var .</sentence>
+<sentence num="5">söylentisi büyük panik ve arbedeye yol açtı .</sentence>
+<sentence num="6">Sünni Azamiye ve Şii Kazımiye mahallelerini birbirine bağlayan köprüde çıkan izdihamda korkuluklar kırıldı ve birçok kişi nehre düştü .</sentence>
+<sentence num="7">Muhtemel saldırıdan kurtulmak veya düşenleri kurtarmak için nehre atlayanlar da ölü sayısının artmasına sebep oldu .</sentence>
+<sentence num="8">Sandallar dün Dicle'den saatlerce ceset topladı .</sentence>
+<sentence num="9">Sağlık Bakanlığı'ndan Dr .Cesib Latif Ali ,yerel saatle 22 .</sentence>
+<sentence num="10">30 itibariyle ölü sayısının 852 olduğunun doğrulandığını belirtmişti .</sentence>
+<sentence num="11">Ali ,daha önceki bir açıklamasında ise can kaybı sayısının 1000'i bulmasından endişe ettiklerini aktarmıştı .</sentence>
+<sentence num="12">Köprüdeki facia mart 2003'teki işgalden bu yana meydana gelen en kanlı olay olarak kayıtlara geçti .</sentence>
+</doc>
+<doc>
+<id>141965</id>
+<sentence num="0">2005 08 31 23 :45 :00 .Irak İçişleri Bakanlığı :Ölü sayısı 965 .Irak'ın başkenti Bağdat'taki bir köprüde ,intihar eylemcisi söylentisinin neden olduğu izdihamda ölenlerin sayısının 965'e ulaştığı açıklandı .</sentence>
+<sentence num="1">Reuters ajansının haberine göre ,Irak İçişleri Bakanlığı yetkilileri ,gece yarısına doğru can kaybı sayısının 965'e tırmandığını ,yaralı 475 kişinin ise tedavi gördüğünü söyledi .</sentence>
+<sentence num="2">Sağlık Bakanlığı'ndan Dr .Cesib Latif Ali ,yerel saatle 22 .</sentence>
+<sentence num="3">30 itibariyle ölü sayısının 852 olduğunun doğrulandığını belirtmişti .</sentence>
+<sentence num="4">Ali ,daha önceki bir açıklamasında ise can kaybı sayısının 1000'i bulmasından endişe ettiklerini aktarmıştı .</sentence>
+<sentence num="5">Bağdat'taki izdihamın neden olduğu çoğu kadın ve çocuk yüzlerce can kaybı nedeniyle Irak Başbakanı İbrahim Caferi ,ülkede 3 günlük yas ilan etmişti .</sentence>
+</doc>
+<doc>
+<id>141987</id>
+<sentence num="0">2005 09 01 00 :53 :00 .Bağdat'taki izdihamda son rakam .</sentence>
+<sentence num="1">Reuters ajansının haberine göre ,Irak İçişleri Bakanlığı yetkilileri ,gece yarısına doğru can kaybı sayısının 965'e tırmandığını ,yaralı 475 kişinin ise tedavi gördüğünü söyledi .</sentence>
+<sentence num="2">Sağlık Bakanlığı'ndan Dr .Cesib Latif Ali ,yerel saatle 22 .</sentence>
+<sentence num="3">30 itibariyle ölü sayısının 852 olduğunun doğrulandığını belirtmişti .</sentence>
+<sentence num="4">Ali ,daha önceki bir açıklamasında ise can kaybı sayısının 1000'i bulmasından endişe ettiklerini aktarmıştı .</sentence>
+<sentence num="5">Bağdat'taki izdihamın neden olduğu çoğu kadın ve çocuk yüzlerce can kaybı nedeniyle Irak Başbakanı İbrahim Caferi ,ülkede 3 günlük yas ilan etmişti .</sentence>
+<sentence num="6">AA .</sentence>
+</doc>
+<doc>
+<id>142024</id>
+<sentence num="0">2005 09 01 08 :15 :00 .Bağdat'ta köprüde ölenlerin sayısı 953'e yükseldi .</sentence>
+<sentence num="1">Irak'ta Dicle üzerindeki köprüde çıkan panikte ölenlerin cenazesi için binlerce kişi Bağdat'a gelirken ,ölü sayısı 953 olarak açıklandı .</sentence>
+<sentence num="2">İçişleri Bakanlığı ,bugün yaptığı açıklamada ,köprüdeki panikte 953 kişinin öldüğünü ,815 kişinin de yaralandığını bildirdi .</sentence>
+<sentence num="3">Yüzlerce kişi hastanelerde ölen yakınlarını ararken ,cenazelerden bir kısmı teşhis edilerek ailelerce teslim alındı .</sentence>
+<sentence num="4">Cenazelerin bir kısmı ,dünyanın en büyük mezarlığı olduğu söylenen Necef'teki Vadi el Selam'a götürülürken ,cenaze törenleri için binlerce kişi Bağdat'a geldi .</sentence>
+<sentence num="5">Bazı ailelerse ,Sadr semtinin sokaklarına büyük taziye çadırları kurdu .</sentence>
+<sentence num="6">İmam Musa'nın ölüm yıldönümü için toplanan kalabalık ,aralarında bir intihar komandosu bulunduğu söylentisinin duyulması üzerine paniğe kapılmıştı .</sentence>
+<sentence num="7">Bazılarının kendilerini köprüden nehre attıkları olayda ölenlerin çoğunun kadın ve çocuk olduğu bildirilmişti .</sentence>
+</doc>
+<doc>
+<id>142056</id>
+<sentence num="0">2005 09 01 09 :16 :00 .Bağdat'ta çıkan izdihamda ölenlerin sayısı 953'e yükseldi .</sentence>
+<sentence num="1">Bağdat'ta çıkan izdihamda ölenlerin sayısı 953'e yükseldi Irak'ta Dicle üzerindeki köprüde çıkan panikte ölenlerin cenazesi için binlerce kişi Bağdat'a gelirken ,ölü sayısı 953 olarak açıklandı .</sentence>
+<sentence num="2">İçişleri Bakanlığı ,bugün yaptığı açıklamada ,köprüdeki panikte 953 kişinin öldüğünü ,815 kişinin de yaralandığını bildirdi .</sentence>
+<sentence num="3">Yüzlerce kişi hastanelerde ölen yakınlarını ararken ,cenazelerden bir kısmı teşhis edilerek ailelerce teslim alındı .</sentence>
+<sentence num="4">Cenazelerin bir kısmı ,dünyanın en büyük mezarlığı olduğu söylenen Necef'teki Vadi el Selam'a götürülürken ,cenaze törenleri için binlerce kişi Bağdat'a geldi .</sentence>
+</doc>
+<doc>
+<id>142083</id>
+<sentence num="0">2005 09 01 09 :56 :00 .Cenazeler için binlerce kişi Bağdat'ta .</sentence>
+<sentence num="1">İzdihamda hayatını kaybedenlerden birinin yakınları ...</sentence>
+<sentence num="2">İlgili Galeri Foto Galeri için tıklayınız Irak'ta dün Dicle nehri üzerindeki köprüde çıkan panikte ölen en az 965 kişinin cenaze töreni için binlerce kişi Bağdat'a akın etti .</sentence>
+<sentence num="3">Yüzlerce kişi hastanelerde ölen yakınlarını ararken ,cenazelerden bir kısmı teşhis edilerek aileler tarafından teslim alındı .</sentence>
+<sentence num="4">Cenazelerin bir kısmı dünyanın en büyük mezarlığı olduğu söylenen Necef'teki Vadi el Selam'a götürülürken ,cenaze törenleri için binlerce kişi Bağdat'a geldi .</sentence>
+<sentence num="5">Bazı aileler ise Sadr semtinin sokaklarına büyük taziye çadırları kurdu .</sentence>
+<sentence num="6">Başkent Bağdat'ın kuzeydoğusundaki Kadmiya camiinde dün düzenlenen Şii törenine giden kalabalığa bir intihar bombacısının karıştığı söylentileri üzerine Dicle nehri üzerindeki bir köprüde çıkan izdihamda çoğu kadın ve çocuk en az 965 kişi hayatını kaybetmişti .</sentence>
+<sentence num="7">475 kişinin de yaralandığı olayda kalabalığın bir bölümü izdihamda ,bir bölümü de boğularak hayatını kaybetti .</sentence>
+<sentence num="8">Binlerce Şii dini liderleri Musa El Kadhim'in şehit olmasının yıldönümünde anma töreni düzenleyecekti .</sentence>
+<sentence num="9">İçişleri ve Savunma bakanlarına istifa çağrısı İRAN'DAN TAZİYE IRNA ajansının haberine göre ,Cumhurbaşkanı Ahmedinecad ,Irak Devlet Başkanı Celal Talabani ve Başbakan İbrahim Caferi'yi arayarak ,dün Bağdat'taki bir köprüde intihar eylemcisi söylentisinin yol açtığıi zdiham nedeniyle ölenler için Irak hükümetine ve halkına taziyelerini iletti .</sentence>
+<sentence num="10">Ahmedinecad'ın ,Irak'taki terör saldırılarına karşı İran ,Irak ve Suriye arasında bölgesel üçlü bir yapı oluşturulması önerisinde bulunduğu belirtildi .</sentence>
+<sentence num="11">Irak Devlet Başkanı Talabani'nin bu öneriye sıcak baktığı ifade edildi .</sentence>
+<sentence num="12">Terörist eylemlerden duyduğu 'derin üzüntüyü 'dile getiren Ahmedinecad ,terörün her türlüsünü kınadıklarını ve Irak hükümetine ,terörizme karşı mücadelede yardıma hazır olduklarını vurguladı .</sentence>
+<sentence num="13">Bu arada Irak Sağlık Bakanı Abdülmüttalib Muhammed Ali ,İçişleri Bakanı Beyan Cabr ve Savunma Bakanı Sadun El Duleymi'nin izdiham olayından sorumlu olduklarını ifade ederek ,''arkadaşlarımdan ya bugünkü olayla ilgili tüm sorumluluğu üzerlerine almalarını ya da istifa etmelerini istiyorum ''dedi .</sentence>
+<sentence num="14">Muhammed Ali ,geçtiğimiz yıl ABD'ye büyük direniş gösteren Şii lider Mukteda Sadr hareketine yakınlığıyla biliniyor .</sentence>
+<sentence num="15">İçişleri Bakanı Beyan Cabr ise ,devlet televizyonuna yaptığı açıklamada ,köprü üzerindeki Şii kalabalık arasında ,'bir intihar saldırganı olduğu 'söylentisini çıkaran bir teröristin yüzlerce kişinin öldüğü izdihama neden olduğunu söyledi .</sentence>
+<sentence num="16">Cabr ,olayın ,bir teröristin kalabalık arasında bir intihar saldırganı olduğu söylentisini yaymasından sonra izdiham çıkmasından ibaret olduğunu ifade etti .</sentence>
+<sentence num="17">Irak İslam Devrimi Yüksek Konseyi liderlerinden Ammar El Hekim ise ,dinci militanların ve devrik Devlet Başkanı Saddam Hüseyin yanlılarının ,köprü üzerinde kasten izdiham çıkardıklarını belirtti .</sentence>
+<sentence num="18">El Hekim ,olanlardan teröristleri ,Saddamcıları ve radikal dincileri sorumlu tuttuklarını söyledi .</sentence>
+</doc>
+<doc>
+<id>142119</id>
+<sentence num="0">2005 09 01 10 :40 :00 .Köprü faciasında korkunç rakamlar .</sentence>
+<sentence num="1">İçişleri Bakanlığı ,bugün yaptığı açıklamada ,köprüdeki panikte 953 kişinin öldüğünü ,815 kişinin de yaralandığını bildirdi .</sentence>
+<sentence num="2">Yüzlerce kişi hastanelerde ölen yakınlarını ararken ,cenazelerden bir kısmı teşhis edilerek ailelerce teslim alındı .</sentence>
+<sentence num="3">Cenazelerin bir kısmı ,dünyanın en büyük mezarlığı olduğu söylenen Necef'teki Vadi el Selam'a götürülürken ,cenaze törenleri için binlerce kişi Bağdat'a geldi .</sentence>
+<sentence num="4">Bazı ailelerse ,Sadr semtinin sokaklarına büyük taziye çadırları kurdu .</sentence>
+<sentence num="5">İmam Musa'nın ölüm yıldönümü için toplanan kalabalık ,aralarında bir intihar komandosu bulunduğu söylentisinin duyulması üzerine paniğe kapılmıştı .</sentence>
+<sentence num="6">Bazılarının kendilerini köprüden nehre attıkları olayda ölenlerin çoğunun kadın ve çocuk olduğu bildirilmişti .</sentence>
+</doc>
+<doc>
+<id>142607</id>
+<sentence num="0">2005 09 02 00 :13 :00 .Köprü Faciasında 965 Kişi Öldü .</sentence>
+<sentence num="1">Irak'ın başkenti Bağdat'taki El Ayma köprüsünde yaşanan facianın bilançosu ağırlaşıyor .</sentence>
+<sentence num="2">İzdihamda ölenlerin sayısı 965 ,yaralananların sayısı ise 815 olarak açıklandı .</sentence>
+<sentence num="3">Faciada yakınlarını kaybedenler yas tutarken ,Bağdat cenaze törenleri için binlerce kişinin akınına uğradı .</sentence>
+<sentence num="4">Bağdat'ta ,izdihamda hayatını kaybedenlerin cenazeleri kaldırılmaya başlandı .</sentence>
+<sentence num="5">Yüzlerce kişi ise hastanelerde hala ölen yakınlarını arıyor .</sentence>
+<sentence num="6">Yetkililer izdihamın bilançosunun artabileceğini ölü sayısının bini geçebileceğini bildiriyorlar .</sentence>
+<sentence num="7">Bağdat'ta dün Şii imamı Musa Kazım'ın şehit edilmesinin yıldönümü nedeniyle düzenlenen anma törenlerinde toplanan kalabalık ,aralarında bir intihar komandosu bulunduğu söylentisinin duyulması üzerine paniğe kapılmıştı .</sentence>
+<sentence num="8">Aşırı izdiham sonucu ,Sünni Ademiye ve Şii Kazımiye mahallesini bağlayan Dicle nehri üzerindeki El Ayma köprüsü çökmüştü .</sentence>
+</doc>
+<doc>
+<id>144167</id>
+<sentence num="0">2005 09 05 10 :58 :00 .Irak'ta köprüdeki izdihamda yaralanan 23 çocuk İspanya'ya götürüldü .</sentence>
+<sentence num="1">Irak'ta köprüdeki izdihamda yaralanan 23 çocuk İspanya'ya götürüldü Irak'ın başkenti Bağdat'ta 31 Ağustos'ta bir köprü üzerinde meydana gelen ve yüzlerce kişinin ölümüne yol açan izdihamda yaralananlardan 23 çocuk ,uçakla İspanya'ya götürüldü .</sentence>
+<sentence num="2">Irak'ta görev yapan İspanyol askeri birliklerine bağlı uçakla sabaha karşı Madrid'deki Torrejon askeri havaalanına getirilen 23 Iraklı çocuğun ,bölgedeki Gomez Ulla adlı hastaneye nakledildikleri bildirildi .</sentence>
+</doc>
+<doc>
+<id>144654</id>
+<sentence num="0">2005 09 06 09 :00 :00 .'Canlı bomba var 'katliamı böyle oldu .</sentence>
+<sentence num="1">31 Ağustos'ta Bağdat'ta bir dini tören için Kazımiye Camii'ne gitmekte olan bir milyona yakın Şii'nin İmamlar Köprüsü nden geçişi sırasında ,kalabalıktaki bir kişinin Aramızda canlı bomba var diye bağırması üzerine çıkan panik ve izdiham sonucu 965 Iraklının öldüğü facianın video görüntüleri ,dün AFP tarafından yayımlandı .</sentence>
+<sentence num="2">Görüntülerde köprü üzerinde biriken binlerce kişinin birbirini nasıl ezdiği ve bunlardan bazılarının köprüden düşüşü net biçimde görülüyor .</sentence>
+<sentence num="3">NASIL OLMUŞTU ?</sentence>
+<sentence num="4">Bağdat'ın çeşitli kesimlerinden ve diğer vilayetlerden Şiiler ,Şiilerin 7 .imamı Musa Kazım'ı anma töreni için Kazımiye Türbesi civarında toplandı .</sentence>
+<sentence num="5">Facia ,1 milyonu bulan kalabalığın katıldığı törenin yolu üzerinde yaşandı .</sentence>
+<sentence num="6">Akın akın gelen Şiiler ,Sünni Azemiye ve Şii Kazımiye Mahallesi'ni birbirine bağlayan Dicle Nehri üzerindeki İmamlar Köprüsü'nü geçerken kimliği belirsiz biri ,Aramızda intihar bombacısı var diye bağırdı .</sentence>
+<sentence num="7">Bunun üzerine paniğe kapılan kalabalık ,köprüden uzaklaşmak için birbirini ezmeye ve köprüden aşağı Dicle Nehri'ne atlamaya başladı .</sentence>
+<sentence num="8">Görgü tanıkları ,Kazımiye Türbesi'ne giden sokakların dar olması yüzünden kurtarma görevlilerinin köprü üzerindeki faciaya müdahale edemediğini ve bu nedenle de yaralılara zamanında ulaşılamadığını belirttiler .?</sentence>
+<sentence num="9">Afganistan'da 12 Taliban militanı öldürüldü ?</sentence>
+<sentence num="10">Paris'te 16 kişinin öldüğü yangını 4 genç kız çıkarmış !?</sentence>
+<sentence num="11">Mısır'da kültür merkezinde yangın :25 ölü .</sentence>
+</doc>
+<doc>
+<id>145229</id>
+<sentence num="0">2005 09 07 00 :12 :00 .Köprü faciası onlara ders oldu .</sentence>
+<sentence num="1">Irak'ta yükselen Şii ve Sünni çekişmesinin önüne geçen ve 1056 kişinin ölümüne neden olan köprü faciasında hayatlarını kaybedenler için Sünniler ve Şiiler bir araya gelerek anma programı düzenledi .</sentence>
+<sentence num="2">Azamaiye bölgesinde düzenlenen anma programında birlik beraberlik mesajları verildi .</sentence>
+<sentence num="3">Törende ,'Sünni ve Şiiler kardeştir 'sloganı atılması dikkat çekti .</sentence>
+<sentence num="4">Irak'ta hazırlanan yeni anayasa taslağı nedeniyle Sünni ve Şii gruplar arasında gerginlik belirmişti .</sentence>
+<sentence num="5">Geçtiğimiz gün Sünni ve Şii bölgelerini birbirine bağlayan Eyyime Köprü üzerinde Kazimiye bölgesindeki törenlere katılmak üzere geçen binlerce Şii ,burada çıkan panik nedeniyle 1056 kişi hayatını kaybetmişti .</sentence>
+<sentence num="6">Panik nedeniyle suya atlayan Şiileri kurtaran Sünniler arasında 3 kişinin ölmesi ise kavgalı iki tarafı birleştirdi .</sentence>
+<sentence num="7">Olayda her iki taraf da hayatlarını kaybedenler için bugün birlik beraberlik mesajları verdi .</sentence>
+<sentence num="8">Sünni Irak İslam Partisi ile Ehli Sünnet ve Azamiye halkı tarafından İmam Azam Camii önünde düzenlenen törene Şii milletvekilleri ile Sünni üst düzey yetkililer katıldı .</sentence>
+<sentence num="9">Anma programına gruplar halinde gelen Şiilerin de katılması dikkat çekti .</sentence>
+<sentence num="10">Yoğun güvenlik önlemlerinin alındığı törende hayatlarını kaybedenlerin yakınlarının göz yaşlarına hakim olamaması dikkat çekti .</sentence>
+<sentence num="11">Burada Sünni ve Şiiler tarafından verilen kardeşlik mesajları ise iki kesimden de taktir topladı .</sentence>
+<sentence num="12">Yapılan törende konuşan Sünni Vakfı Heyeti eski Başkanı Adnan El Duleymi ,Iraklıların her zaman kardeş olduğunu vurguladı .</sentence>
+<sentence num="13">Duleymi şöyle konuştu :Bu kardeşliği kimse bozamaz .</sentence>
+<sentence num="14">Sünniler her zaman Şiilerin yardımına koşar .</sentence>
+<sentence num="15">Bu Şiiler için de geçerlidir .</sentence>
+<sentence num="16">Burada bir kez daha iki grup arasında yaşanan kardeşlik ortaya konulmuştur .</sentence>
+<sentence num="17">Şimdi en büyük acı Telafer acısıdır .</sentence>
+<sentence num="18">Telafer'de olan olay büyük bir faciadır .</sentence>
+<sentence num="19">Buradaki saldırılar durdurulsun .</sentence>
+<sentence num="20">dedi .</sentence>
+<sentence num="21">Olay sonrasy ulaşıma kapanan köprüden yoğun güvenlik önlemleri altında geçen Irak Milli Güvenlik Müsteşarı Muafak El Rubayi ve Bağdat bayan Belediye Başkanı Nesrin Pervari köprüden yaya olarak geçerek Sünni bölgesinde yapılan törene katıldılar .</sentence>
+<sentence num="22">Törende söz alan Muafak El Rubayi ,Sünniler ile Şiiler burada kardeşliklerini gösterdi .</sentence>
+<sentence num="23">Saddam ve Zerkavi ,Sünni ve Şii çatışması çıkarmak istedi .</sentence>
+<sentence num="24">Ama yenilgiye uğradılar .</sentence>
+<sentence num="25">Azamiye bölgesi halkı ,Kazimiye bölgesinde boğulan insanları kurtarmaya çalışmıştır .</sentence>
+<sentence num="26">Köprü olayı Sünni ve Şiilerin tek ağızla 'yaşasın Irak 'demelerine sepep oldu .</sentence>
+<sentence num="27">dedi .</sentence>
+<sentence num="28">Tören sonrası ,'Sünni ve Şiiler kardeştir ','Bu vatan satılamaz ,başkalarına verilemez 'sloganları atıldı .</sentence>
+<sentence num="29">Facianın meydana geldiği köprü üzerinde ise ölenlerin anısına binlerce mum yakılarak bırakıldı .</sentence>
+<sentence num="30">CİHAN .</sentence>
+</doc>
+<doc>
+<id>146168</id>
+<sentence num="0">2005 09 08 14 :07 :00 .Her ana doğurmaz böyle bir arslan .</sentence>
+<sentence num="1">Irak'ta 1056 kişinin hayatını kaybettiği köprü faciasında Dicle nehrine düşen Şiileri kurtarırken boğulan Osman adlı Sünni genç ,Şii ve Sünniler arasında birlik ve kardeşliğin sembolü haline geldi .</sentence>
+<sentence num="2">Şii ve Sünniler günlerdir toplu halde Osman'ın ailesine taziyede bulunuyor .</sentence>
+<sentence num="3">HABER :TURAN KIŞLAKÇI Irak'ta Osman adlı genç ,Irak savaşından sonra adeta kopma noktasına gelen Şii ve Sünni gruplar arasındaki birlik ve kardeşliğin yeni sembolü haline geldi .</sentence>
+<sentence num="4">Geçtiğimiz hafta Irak'ta meydana gelen köprü faciasında Dicle nehrine düşen insanları kurtarmak için nehre atlayan 18 yaşındaki Osman ,6 kişiyi kurtardıktan sonra 7 .kişiyi de kurtarmak üzere iken boğulmuştu .</sentence>
+<sentence num="5">Osman'ın babası Ali el Ubeydi oğlu ile gurur duyduğunu belirtirken ,annesi de Osman'ın tüm arkadaşları Şii idi .Şii ve Sünnilerin birliği onun en büyük hayaliydi dedi .</sentence>
+<sentence num="6">Osman'ın hikayesi Irak'a yayıldıktan sonra ,Irak parlamentosunda bulunan Şii Dava Partisi'nden bir bayan parlamenter Osman'ın ailesine 7 bin dolar bağışta bulundu .</sentence>
+<sentence num="7">Irak Sağlık Bakanlığı da Osman'ın anne ve babasının tüm sağlık giderlerinin her yıl bakanlıkça karşılanacağını belirtti .</sentence>
+<sentence num="8">Bin kişiyi öldüren fısıltı Geçtiğimiz hafta Sünni ve Şii bölgelerini birbirine bağlayan Eyyime Köprüsü üzerinde Kazimiye bölgesindeki İmam Musa'yı anma törenlerine katılmak üzere toplanan bir milyona yakın Şiiler ,köprüde intihar bombacısı olduğu yönündeki fısıltılar üzerine paniğe kapılmış ve insanlar korkuya kapılarak kaçışmaya başlamıştı .</sentence>
+<sentence num="9">Panik sırasında insanların birbirlerini ezmesi üzerine çoğu kadın ve çocuk 1056 kişi hayatını kaybetmişti .</sentence>
+<sentence num="10">Panik nedeniyle suya atlayan Şiileri kurtarmaya çalışan Sünnilerden 3 kişinin ölmesi ise kavgalı iki tarafı birleştirdi .</sentence>
+<sentence num="11">Köprü faciası birleştirdi Olay sonrası ulaşıma kapanan köprüden yoğun güvenlik önlemleri altında geçen Irak Milli Güvenlik Müsteşarı Muafak er Rubayi ve Bağdat bayan Belediye Başkanı Nesrin Pervari köprüden yaya olarak geçerek Sünni bölgesinde yapılan törene katıldılar .</sentence>
+<sentence num="12">Törende söz alan Muafak er Rubayi ,Sünniler ile Şiiler burada kardeşliklerini gösterdi .</sentence>
+<sentence num="13">Saddam ve Zerkavi ,Sünni ve Şii çatışması çıkarmak istedi .</sentence>
+<sentence num="14">Ama yenilgiye uğradılar .</sentence>
+<sentence num="15">Azamiye bölgesi halkı ,Kazimiye bölgesinde boğulan insanları kurtarmaya çalışmıştır .</sentence>
+<sentence num="16">Köprü olayı Sünni ve Şiilerin tek ağızla 'yaşasın Irak 'demelerine sepep oldu .</sentence>
+<sentence num="17">dedi .</sentence>
+<sentence num="18">Tören sonrası ,'Sünni ve Şiiler kardeştir ','Bu vatan satılamaz ,başkalarına verilemez 'sloganları atıldı .</sentence>
+<sentence num="19">Facianın meydana geldiği köprü üzerinde ise ölenlerin anısına binlerce mum yakılarak bırakıldı .</sentence>
+<sentence num="20">BAĞDAT'TA SAYGI DURUŞU Irak'ın başkenti Bağdat'ta köprü faciasında hayatını kaybedenler anısına 1 dakikalık saygı duruşu yapıldı .</sentence>
+<sentence num="21">Bunun üzerine Irak Başbakanı Dr .İbrahim Caferi'nin talimatı üzerine dün Bağdat genelinde resmi dairelerde ve sokaklarda ,geçtiğimiz günlerde Kazımiye bölgesinde yapılan törenlere katılmak için giden binlerce Şiinin geçtiği el Ayma köprüsü üzerinde çıkan ve 1056 kişinin hayatına mal olan facia dolayısıyla 1 dakikalık saygı duruşu yapılırken ölenler için Fatiha okundu .</sentence>
+<sentence num="22">1 dakikalık saygı duruşunda trafik polisleri Bağdat'ta yolları keserek herkesi saygı duruşuna davet etti .</sentence>
+<sentence num="23">Yeni Şafak .</sentence>
+</doc>

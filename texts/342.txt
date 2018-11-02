@@ -1,0 +1,423 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 10 03 12 :55 :00 .nobel tıp ödülü marshall ve warren'a ..</sentence>
+<sentence num="1">tıp dalında verilen ödül ,bu yıl verilen ilk nobel ödülü oldu ilgili haberler ?</sentence>
+<sentence num="2">nobel barış ödülü yunus ve bankasına ?</sentence>
+<sentence num="3">nobel edebiyat ödülü için kemal ve pamuk ?</sentence>
+<sentence num="4">yusuf islam'a 'nobeller nobeli '?</sentence>
+<sentence num="5">marquez'den 10 yıl sonra yeni bir roman ?</sentence>
+<sentence num="6">nobel edebiyat ödülü elfriede jelinek'e 2005 nobel tıp ödülünü avustralyalı barry j .marshall ve j .robin warren kazandı .</sentence>
+<sentence num="7">ikili ,ödülü gastrit ve sindirim sistemi hastalığında rol oynayan bakteri üzerine yaptıkları çalışmayla aldı .</sentence>
+<sentence num="8">marshall ile warren ,1982'de helikobakter pilori tipi bakteri mikrobunun ,onikiparmak barsağı ve midede iltihaba neden olduğunu belirlediler .</sentence>
+<sentence num="9">avustralya'nın perth kentinde patolog hekim olan warren ve marshall helikobakter piloriyi ,iltihap oluşumu gastrit ile yara oluşumu ülserde kesin belirlediler .</sentence>
+<sentence num="10">eskiden hayat tarzına ,aşırı sinirli olmaya bağlı olduğu zannedilen ülserin antibiyotiklerle kısa tedavi yolunun açılması da nobel kurulu'nun takdirinde baş sırada yer aldı .</sentence>
+<sentence num="11">54 yaşındaki marshall ile 68 yaşındaki warren ,1 milyon 300 bin dolarlık ödülü paylaşacak .</sentence>
+<sentence num="12">2004'te abd'li bilim adamları richard axel ile linda b .buck ,koku alma duyusuna ilişkin çalışmaları ile nobel tıp ödülüne layık görülmüştü .</sentence>
+<sentence num="13">1991'den bu yana kazanlar :2003 :paul c .lauterbur (abd )ve peter mansfield (ingiltere )2002 :sydney brenner (ingiltere ),john e .sulston (ingiltere )ve h .robert horvitz (abd )2001 :leland h .hartwell (abd ),r .timothy (tim )hunt (ingiltere )ve paul m .</sentence>
+<sentence num="14">nurse (ingiltere )2000 :arvid carlsson (isveç ),p .greengard ve e .kandel (abd )1999 :guenter blobel (almanya ve abd vatandaşı )1998 :robert f .</sentence>
+<sentence num="15">furchgott ,louis j .ıgnarro ve ferid murad (abd )1997 :stanley b .prusiner (abd )1996 :peter c .doherty (avustralya ),m .</sentence>
+<sentence num="16">zinkernagel (isviçre )1995 :christiane nuesslein volhard (almanya )edward b .lewis ve eric p .wieschaus (abd )1994 :alfred g .</sentence>
+<sentence num="17">gilman ve martin rodbell (abd )1993 :richard j .roberts ve phillip a .</sentence>
+<sentence num="18">sharp (ingiltere )1992 :edmond h .fischer (abd ve isviçre vatandaşı )edwin g .</sentence>
+<sentence num="19">krebs (abd )1991 :erwin neher ve bert sakmann (almanya )ilgilenenler için nobel ödülleri resmi sayfası .</sentence>
+</doc>
+<doc>
+<id>159977</id>
+<sentence num="0">2005 10 03 13 :40 :00 .Nobel Tıp Ödülü ,gastrit ve ülser bakterisine gitti .</sentence>
+<sentence num="1">2005 Nobel Tıp Ödülü'nü ,Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren'ın kazandığı açıklandı .</sentence>
+<sentence num="2">İsveç Stockholm Karolinska Enstitü Nobel Kurulu'nun açıklamasına göre ,Marshall (54 )ile Warren (68 ),''gastrit ve ülsere bakterinin yol açtığını belirlemeleriyle ''büyük ödüle layık görüldü .</sentence>
+<sentence num="3">İki bilim adamı ,10 milyon kronluk (1 ,29 milyon dolar )ödülü paylaşacak .</sentence>
+<sentence num="4">Marshall ile Warren ,1982'de ''helikobakter pilori ''tipi bakteri ''mikrobunun '',onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirlediler .</sentence>
+<sentence num="5">Marshall ,Warren'ın çalışmalarına yardım eden hekim .</sentence>
+<sentence num="6">Avustralya'nın Perth kentinde patolog hekim olan Warren ,hastaların yüzde 50'sinin mide diplerinde oluşan ülserde ''helikobakter pilori kıvrım bakterileri ''nin etkin olduğunu saptadı .</sentence>
+<sentence num="7">Karolinska Nobel Kurulu'nun liyakat kaydına göre ,Marshall ile Warren'ın izlediği bakteri ,onikiparmak bağırsağı ülserlerinin yüzde 90'ında ,mide ülserlerinin de yüzde 80'inde etkindi .</sentence>
+<sentence num="8">Marshall ile Warren ,helikobakter pilori'yi ,iltihap oluşumu gastrit ile yara oluşumu ülserde kesin belirlediler .</sentence>
+<sentence num="9">Eskiden hayat tarzına ,aşırı sinirli olmaya bağlı olduğu zannedilen ülserin antibiyotiklerle kısa tedavi yolunun açılması da ,Nobel Kurulu'nun takdirinde baş sırada yer aldı .</sentence>
+<sentence num="10">SON 15 YILIN ÖDÜLLERİ 2004 :Richard Axel ve Linda B .Buck'a (ABD ).</sentence>
+<sentence num="11">2003 :Paul C .Lauterbur (ABD )ve Peter Mansfield (İngiltere ).</sentence>
+<sentence num="12">2002 :Sydney Brenner (İngiltere ),John E .Sulston (İngiltere )ve H .Robert Horvitz (ABD ).</sentence>
+<sentence num="13">2001 :Leland H .Hartwell (ABD ),R .Timothy (Tim )Hunt (İngiltere )ve Paul M .Nurse (İngiltere ).</sentence>
+<sentence num="14">2000 :Arvid Carlsson (İsveç ),Paul Greengard ve Eric Kandel (ABD ).</sentence>
+<sentence num="15">1999 :Guenter Blobel (Almanya ve ABD vatandaşı ).</sentence>
+<sentence num="16">1998 :Robert F .Furchgott ,Louis J .Ignarro ve Ferid Murad (ABD ).</sentence>
+<sentence num="17">1997 :Stanley B .Prusiner (ABD ).</sentence>
+<sentence num="18">1996 :Peter C .Doherty (Avustralya ),Rolf M .Zinkernagel (İsviçre ).</sentence>
+<sentence num="19">1995 :Christiane Nuesslein Volhard (Almanya )Edward B .Lewis ve Eric P .Wieschaus (ABD ).</sentence>
+<sentence num="20">1994 :Alfred G .Gilman ve Martin Rodbell (ABD ).</sentence>
+<sentence num="21">1993 :Richard J .Roberts ve Phillip A .Sharp (İngiltere ).</sentence>
+<sentence num="22">1992 :Edmond H .Fischer (ABD ve İsviçre vatandaşı )Edwin G .Krebs (ABD ).</sentence>
+<sentence num="23">1991 :Erwin Neher ve Bert Sakmann (Almanya ).</sentence>
+<sentence num="24">1990 :Joseph E .Murray ve E .Donnall Thomas ,(ABD ).</sentence>
+</doc>
+<doc>
+<id>159998</id>
+<sentence num="0">2005 10 03 14 :12 :00 .Nobel Ödülü Avustralyalı İki Hekime .</sentence>
+<sentence num="1">2005 Nobel Tıp Ödülü'nü ,Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren'ın kazandığı açıklandı .</sentence>
+<sentence num="2">İsveç Stockholm Karolinska Enstitüsü Nobel Kurulu'nun açıklamasına göre ,Marshall ile Warren ,gastrit ve ülsere bakterinin yol açtığını belirlemeleriyle ,büyük ödüle layık görüldü .</sentence>
+<sentence num="3">İki bilim adamı ,10 milyon kronluk (1 ,29 milyon dolar )ödülü paylaşacak .</sentence>
+</doc>
+<doc>
+<id>160015</id>
+<sentence num="0">2005 10 03 14 :32 :00 .Nobel Tıp Ödülü Avustralyalı hekimlere .</sentence>
+<sentence num="1">İsveç Stockholm Karolinska Enstitü Nobel Kurulu'nun açıklamasına göre ,Marshall (54 )ile Warren (68 ),''gastrit ve ülsere bakterinin yol açtığını belirlemeleriyle ''büyük ödüle layık görüldü .</sentence>
+<sentence num="2">İki bilim adamı ,10 milyon kronluk (1 ,29 milyon dolar )ödülü paylaşacak .</sentence>
+<sentence num="3">Marshall ile Warren ,1982'de ''helikobakter pilori ''tipi bakteri ''mikrobunun '',onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirlediler .</sentence>
+<sentence num="4">Marshall ,Warren'ın çalışmalarına yardım eden hekim .</sentence>
+<sentence num="5">Avustralya'nın Perth kentinde patolog hekim olan Warren ,hastaların yüzde 50'sinin mide diplerinde oluşan ülserde ''helikobakter pilori kıvrım bakterileri ''nin etkin olduğunu saptadı .</sentence>
+<sentence num="6">Karolinska Nobel Kurulu'nun liyakat kaydına göre ,Marshall ile Warren'ın izlediği bakteri ,onikiparmak bağırsağı ülserlerinin yüzde 90'ında ,mide ülserlerinin de yüzde 80'inde etkindi .</sentence>
+<sentence num="7">Marshall ile Warren ,helikobakter pilori'yi ,iltihap oluşumu gastrit ile yara oluşumu ülserde kesin belirlediler .</sentence>
+<sentence num="8">Eskiden hayat tarzına ,aşırı sinirli olmaya bağlı olduğu zannedilen ülserin antibiyotiklerle kısa tedavi yolunun açılması da ,Nobel Kurulu'nun takdirinde baş sırada yer aldı .</sentence>
+</doc>
+<doc>
+<id>160551</id>
+<sentence num="0">2005 10 04 12 :30 :00 .Nobel ödülünü kazanan profesör ,projesinde kobaylık yapmış !..</sentence>
+<sentence num="1">2005 Nobel Tıp Ödülü'nü kazanan Avustralyalı profesör Barry Marshall ,ülsere stresin yol açmadığı teorisini kanıtlamak için kendisini kobay yaptığını bildirdi .</sentence>
+<sentence num="2">Meslektaşı Robin Warren ile ödülü paylaşan Marshall ,gazetecilere yaptığı açıklamada ,''ülsere ve gastrite bakterilerin neden olduğunu kanıtlamak için kendisini bir laboratuar faresi yaptığını ''söyledi .</sentence>
+<sentence num="3">Teorisini kanıtlamak için bir bakteri kokteyli içtiğini açıklayan Marshall ,bakteriyi içtikten sonra midesinin bulandığını ,kustuğunu ve karnının ağrıdığını anlattı .</sentence>
+<sentence num="4">Marshall ,ancak bu belirtilerden antibiyotik ve asit salgılanmasını engelleyen ilaçlarla kurtulduğunu belirtti .</sentence>
+<sentence num="5">Marshall ,ülsere ve gastrite bakterinin neden olduğunu kanıtlamak için kendini kobay yapmaktan başka seçeneği olmadığını ifade etti .</sentence>
+<sentence num="6">İsveç Stockholm Karolinska Enstitü Nobel Kurulu ,Marshall ve Warren'ı ,''gastrit ve ülsere bakterinin yol açtığını belirlemeleriyle ''büyük ödüle layık görmüştü .</sentence>
+</doc>
+<doc>
+<id>160603</id>
+<sentence num="0">2005 10 04 13 :47 :00 .Nobel Fizik Ödülü'ne üç kişi ortak .</sentence>
+<sentence num="1">2005 Nobel Tıp Ödülü'nü ise Avustralyalı Barry J .Marshall ve J .Robin Warren kazandı İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Nobel Barış Ödülü Yunus ve bankasına ?</sentence>
+<sentence num="3">Nobel Edebiyat ödülü için Kemal ve Pamuk ?</sentence>
+<sentence num="4">Yusuf İslam'a 'Nobeller Nobeli '?</sentence>
+<sentence num="5">Marquez'den 10 yıl sonra yeni bir roman ?</sentence>
+<sentence num="6">Nobel Edebiyat Ödülü Elfriede Jelinek'e Nobel 2005 Fizik Ödülü ,bu yıl üç bilim adamı arasında paylaştırıldı .</sentence>
+<sentence num="7">İsveç Bilimler Akademisi'nden yapılan açıklamada ,ödülün lazerle çalışan hassas spektroskopinin geliştirilmesine katkıları nedeniyle ABD'li John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch'e verildiği belirtildi .</sentence>
+<sentence num="8">İsveç Bilimler Akademisi'nden yapılan açıklamada ,ödülün lazerle çalışan hassas tayfölçerin (spektroskopi )geliştirilmesine katkıları nedeniyle ABD'li John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch'e verildiği belirtildi .</sentence>
+<sentence num="9">Üç bilim adamı da optik fiziğin dallarında ödülü aldı .</sentence>
+<sentence num="10">Dünya yörüngesinde uydulardan yararlanarak küresel yer saptamada da (GPS )kullanılan lazerle en hassas yer ölçümlerine katkı sağlayan üç bilim adamından Alman Haensch ile ABD'li Hall ,tayfölçerle optik taramanın geliştirilmesi ,Glauber de atomaltı kuantum (ışık zerresi )parçacığının optik bilimde işlevi konusundaki çalışmaları sayesinde evrensel büyük ödüle layık görüldü .</sentence>
+<sentence num="11">Colorado Üniversitesi öğretim üyesi olan 71 yaşındaki John Hall ,Münih Ludwig Maximilian Üniversitesi öğretim üyesi 63 yaşındaki Theodor Haensch ve Harvard Üniversitesi hocası 80 yaşındaki Glauber ,GPS sistemi ve hassas saatlerin yapımı ve frekansların 15 haneli 'en hassas 'ölçümlerini sağlayan çalışmalarda bulundu .</sentence>
+<sentence num="12">Nobel ödülünü kazanan bu üç bilimadamı yaklaşık 1 .</sentence>
+<sentence num="13">29 milyon dolarlık ödülü paylaşacak .</sentence>
+<sentence num="14">Dün açıklanan 2005 Nobel Tıp Ödülü'nü ise Avustralyalı Barry J .Marshall ve J .Robin Warren kazandı .</sentence>
+<sentence num="15">İkili ,ödülü gastrit ve sindirim sistemi hastalığında rol oynayan bakteri üzerine yaptıkları çalışmayla aldı .</sentence>
+<sentence num="16">2004 Nobel Fizik Ödülü ise ABD'li bilim adamları David J .Gross ,H .David Politzer ve Frank Wilczek'e verilmişti .</sentence>
+<sentence num="17">1985'ten bu yana kazananlar İsveç Kraliyet Bilimler Akademisi tarafından verilen Nobel Fizik Ödülü'nü 1985'ten bu yana kazananların listesi şöyle :1985 :Klaus von Klitzing (Almanya )1986 :Ernst Ruska ,Gerd Binnig (Almanya ),Heinrich Rohrer (İsviçre )1987 :Johannes Georg Bednorz (Almanya ),Karl Alexander Mueller (İsviçre )1988 :Leon M .Lederman ,Melvin Schwartz ,Jack Steinberger (ABD )1989 :Norman Foster Ramsey ,Hans Dehmelt (ABD ),Wolfgang Paul (Almanya )1990 :Jerome Friedman ,Henry Kendall (ABD ),Richard Taylor (Kanada )1991 :Pierre Gilles de Gennes (Fransa )1992 :Georges Charpak (Fransa )1993 :Russell A .Hulse ,Joseph H .Taylor Jr (ABD )1994 :Bertram N .Brockhouse (Kanada ),Clifford G .Shull (ABD )1995 :Martin L .Perl ,Frederick Reines (ABD )1996 :David M .Lee ,Douglas D .Osheroff ,Robert C .Richardson (ABD )1997 :Steven Chu ,William D .Phillips (ABD ),Claude Cohen Tannudji (Fransa )1998 :Robert B .Laughlin ,Daniel C .Tsui (ABD ),Horst L .Stoermer (Almanya )1999 :Gerardus't Hooft ,Martinus Veltman (Hollanda )2000 :Zhores Alferov (Rusya ),Herbert Kroemer ,Jack Kilby (ABD )2001 :Wolfgang Ketterle (Almanya ),Eric Cornell ,Carl Wieman (ABD )2002 :Masatoşi Koşiba (Japonya ),Raymond Davis ,Riccardo Giacconi (ABD )2003 :Aleksey A .Abrikosov (ABD ),Vitali L .Ginzburg (Rusya ),Anthony J .Leggett (İngiletere ABD )İlgilenenler için Nobel Ödülleri resmi sayfası .</sentence>
+</doc>
+<doc>
+<id>160757</id>
+<sentence num="0">2005 10 04 16 :27 :00 .Nobelli prof .tezini ispat için kobay oldu .</sentence>
+<sentence num="1">Meslektaşı Robin Warren ile ödülü paylaşan Marshall ,gazetecilere yaptığı açıklamada ,''ülsere ve gastrite bakterilerin neden olduğunu kanıtlamak için kendisini bir laboratuar faresi yaptığını ''söyledi .</sentence>
+<sentence num="2">Teorisini kanıtlamak için bir bakteri kokteyli içtiğini açıklayan Marshall ,bakteriyi içtikten sonra midesinin bulandığını ,kustuğunu ve karnının ağrıdığını anlattı .</sentence>
+<sentence num="3">Marshall ,ancak bu belirtilerden antibiyotik ve asit salgılanmasını engelleyen ilaçlarla kurtulduğunu belirtti .</sentence>
+<sentence num="4">Marshall ,ülsere ve gastrite bakterinin neden olduğunu kanıtlamak için kendini kobay yapmaktan başka seçeneği olmadığını ifade etti .</sentence>
+<sentence num="5">İsveç Stockholm Karolinska Enstitü Nobel Kurulu ,Marshall ve Warren'ı ,''gastrit ve ülsere bakterinin yol açtığını belirlemeleriyle ''büyük ödüle layık görmüştü .</sentence>
+</doc>
+<doc>
+<id>161483</id>
+<sentence num="0">2005 10 05 17 :40 :00 .'Nobel'den akılda kalanlar ...</sentence>
+<sentence num="1">Ödülü 2 kez kazanmış tek kişi kim ?</sentence>
+<sentence num="2">Dinamitin mucidi İsveçli işadamı Alfred Bernhard Nobel'in (1833 1896 )dünyaya bilimde ,edebiyat ve barışta en büyük katkıları sağlamış insanlar için vasiyetnamesiyle kurulan vakfın ödülleri 105 yıl önce verilmeye başladı .</sentence>
+<sentence num="3">2005 Nobel Kimya Ödülü'nü ,Fransız bilim adamı Yves Chauvin ile Amerikalı bilim adamları Robert H .Grubbs ile Richard R .Schcrock ,''organik sentezde çifte ayrıştırma yöntemlerini geliştirme ''çalışmalarından ötürü ,doğa ürünlerin yolunu açması bakımından kazandı .</sentence>
+<sentence num="4">X ışınlarını bulmasıyla ilk ödülün Fizik dalında Wilhelm Röntgen'e verildiği 1901 yılından beri Nobel ödüllerinde Kimya dalında hatırlanan beş hadise şöyle :1901'de Hollandalı Jacobus H .van't Hoff ,kimya biliminde dinamik temeller ve yüzey geriliminde geçirgenlik araştırmasından ilk ödülü aldı .</sentence>
+<sentence num="5">Stockholm'deki Nobel Komitesi ,I .Dünya Savaşı'ndan ötürü 8 yıl ödülü veremedi .</sentence>
+<sentence num="6">1918'de Fritz Haber ,bombaların yapımına dolaylı katkı sağladığı için en çok münakaşa götürür Nobel sahibi oldu .</sentence>
+<sentence num="7">Onun geliştirdiği formülle azot ile amonyağın karışımından patlayıcılar yapılmaya başlamıştı .</sentence>
+<sentence num="8">Haber'in geliştirdiği formülle tarıma çok yayılan gübreler de yapılmaya başladı .</sentence>
+<sentence num="9">Haber ,sonra gerçekten ''en zehirli savaş belası gazların ''geliştirilmesi için çalışmış oldu .</sentence>
+<sentence num="10">I .Dünya Savaşı'nda deriyi kaldırarak yaralayan ''İperit '',kimyasal ölüm gazı olarak kullanıldı .</sentence>
+<sentence num="11">Sonradan Naziler ,II .Dünya Savaşı'nda ''ziklon B ''ve ''Sarin ''gazlarıyla toplama kamplarında da Yahudilerle Çingeneleri katletmeye başladı .</sentence>
+<sentence num="12">Haber ,Yahudiydi .</sentence>
+<sentence num="13">105 yılda yalnız üç kadın Nobel Kimya'yı kazandı :1903'te eşi Pierre Curie ile Fizik Ödülü'nü paylaşan Marie Curie ,radyum ve polonyum elementlerinin bulunmasıyla 1911'de Kimya'yı kazandı .</sentence>
+<sentence num="14">Curie'nin kızı Irene Joliot Curie ,1935 Kimya Ödülü'nü kocası Frederic Joliot ile ''yeni radyoaktif elementlerin bireşimlenmesiyle ''paylaştı .</sentence>
+<sentence num="15">1964'e gelindiğinde ,İngiliz bilimadamı Dorothy Crowfoot Hodgkin ödülü kazandı .</sentence>
+<sentence num="16">Alanı ,B12 vitamininin yapısının belirlenmesiydi .</sentence>
+<sentence num="17">LİNUS PAULİNG 1954'te Amerikalı Linus Pauling ,kimyasal bağın yapısı üzerine çalışmasıyla Kimya Ödülü'nü aldı .</sentence>
+<sentence num="18">Pauling ,1962'de atom bombası denemelerinin temelli yasaklanması için çalışmalarından Nobel Barış Ödülü'nü de kazandı ve tarihte Nobel Ödülü'nü iki kez (hem de iki ayrı dalda )kazanmış tek kişi oldu .</sentence>
+<sentence num="19">2005 Nobel Tıp Ödülü'nü ,Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren ,''gastrit ve ülsere bakterinin yol açtığını belirlemeleriyle ''pazartesi günü kazandılar .</sentence>
+<sentence num="20">Hassas tayfölçerin (spektroskop )geliştirilmesine katkıları nedeniyle Amerikalı John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch ,optik fiziğin ortak dallarında Nobel Fizik Ödülü'nü dün (salı )paylaştılar .</sentence>
+<sentence num="21">Evrensel büyük ödül sayılan Nobeller'in 2005 Kimya Ödülü'nü Fransız bilim adamı Yves Chauvin ile Amerikalı bilim adamları Robert H .Grubbs ile Richard R .Schcrock bugün (çarşamba )kazandılar .</sentence>
+<sentence num="22">İsveç'in başkenti Stockholm'deki Kraliyet Bilimler Akademisi ,üç kimyageri ,''organik sentezde çifte ayrıştırma yöntemlerini geliştirme ''ve doğaya zarar vermeyen plastik ürünlerinin yolunun açılmasından ötürü ödüle layık buldu .</sentence>
+<sentence num="23">Nobeller'de yarın Edebiyat'ın açıklanması bekleniyor .</sentence>
+<sentence num="24">Ancak Edebiyat Ödülü'nü veren İsveç Akademisi'nin perşembe günü ödül saatini hala açıklamaması ,''ödülün bu yıl verilmeyebileceği ''anlamına da geliyor .</sentence>
+<sentence num="25">Cuma günü Nobel Barış Ödülü ,10 ekim pazartesi de ,1968'de İsveç Merkez Bankası'nca tesis edilen ve 1969'dan beri verilen Nobel Ekonomi Ödülü'nün açıklanması bekleniyor .'</sentence>
+<sentence num="26">DOĞRU YAŞAM ÖDÜLÜ '''Alternatif Nobel ''olarak da bilinen ''Doğru Yaşam Ödülleri '',bu yıl iki Kanadalı ,bir Malezyalı ve bir Botsvanalı arasında paylaşıldı .</sentence>
+<sentence num="27">Bir hafta önce ,Kanadalı Maude Barlow ve Tony Clarke ,adil ticaret ve içme suyunun temel insan hakları kapsamına alınması konularındaki uzun süreli örnek çalışmaları dolayısıyla ödüle layık görülürken ,Malezya'dan İrene Fernandez kadınlara ve göçmen işçilere karşı şiddetin durdurulması çalışmasıyla ödüle hak kazandı .</sentence>
+<sentence num="28">Barlow ,Clarke ve Fernandez ,ödülü ,atalarının topraklarından gönderilmesine direnmesiyle tanınan ''Kalahari'nin İlk İnsanları ''örgütüyle ,örgütün kurucusu Row Sesena ile paylaştı .</sentence>
+<sentence num="29">Kendisini ve sanatını ,doğduğu Oaxaca'nın kültürel miras ve çevresinin korunmasına adayan Meksikalı sanatçı Francisco Toledo da onur ödülüne layık görüldü .</sentence>
+<sentence num="30">İsveçli Alman yazar Jakob von Uexkull tarafından 1980 yılında kurulan vakıf tarafından ''insanlığın karşı karşıya olduğu sorunlara diğer insanlara örnek olacak şekilde çözüm sunanları desteklemek ''amacıyla verilen 2 milyon kronluk (345 bin YTL )ödül ,İsveç parlamentosunda 9 aralıkta düzenlenecek törenle sahiplerine sunulacak .</sentence>
+<sentence num="31">Uexkull ,''Doğu Yaşam Ödülü ''nün de Nobel dalı sayılması için uzun zaman çalıştı ama Nobel Komitesi'ni ikna edemedi .</sentence>
+<sentence num="32">Nobel ödülleri de ,her yıl olduğu gibi Alfred Nobel'in ölüm yıldönümü olan 10 aralıkta Stockholm ve Oslo'da kazananlara sunuluyor .</sentence>
+</doc>
+<doc>
+<id>162224</id>
+<sentence num="0">2005 10 07 09 :36 :00 .Nobel Barış Ödülü sahibini bulacak .</sentence>
+<sentence num="1">Muhammed El Baradey ve kurumu Nobel Barış Ödülü'ne aday gösterildi İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Nobel Barış Ödülü Yunus ve bankasına ?</sentence>
+<sentence num="3">Nobel Edebiyat ödülü için Kemal ve Pamuk ?</sentence>
+<sentence num="4">Yusuf İslam'a 'Nobeller Nobeli '?</sentence>
+<sentence num="5">Marquez'den 10 yıl sonra yeni bir roman ?</sentence>
+<sentence num="6">Nobel Edebiyat Ödülü Elfriede Jelinek'e 2005 Nobel Barış Ödülü'nün sahibi bugün açıklanacak .</sentence>
+<sentence num="7">Adaylar arasında uluslararası kuruluşlardan ,sanatçılara kadar pek çok kurum ve kişinin adı bulunuyor .</sentence>
+<sentence num="8">Ödülün sahibi Türkiye saatiyle 12 .00'de açıklanacak .</sentence>
+<sentence num="9">Ödülü kimin alacağı tartışmaları sürerken ,favoriler arasında 'Uluslararası Atom Enerji Kurumu 've bu kurumun başkanı Muhammed El Baradey dikkat çekiyor .</sentence>
+<sentence num="10">Bu iki adayı ise Balkanlar'dan Namibya'ya kadar birçok alanda çatışmaların durdurulması için çaba harcayan eski Finlandiya Devlet Başkanı Martti Ahtisaari izliyor .</sentence>
+<sentence num="11">Adaylar arasında iki de sanatçı bulunuyor .</sentence>
+<sentence num="12">Bu isimler yoksulluğa karşı düzenlenen 'Live 8 'konserlerinin mimarı Bob Geldof ve U2 grubunun solisti Bono .</sentence>
+<sentence num="13">Bu yıl Nobel Barış Ödülü'ne 199 aday gösterildi .</sentence>
+<sentence num="14">Muhammed El Baradey ve Martti Ahtisaari ödülü kazanacak favoriler olarak gösteriliyor .</sentence>
+<sentence num="15">Ahtissari ,Endonezya ile Aceh arasındaki ağustosta yapılan anlaşmanın mimarlarından biri olarak gösteriliyor .</sentence>
+<sentence num="16">Sözkonusu çatışmada 15 bin kişi yaşamını yitirmişti .</sentence>
+<sentence num="17">Maathai kazanmıştı Geçtiğimiz yıl Kenya Çevre Bakanı Yardımcısı Wangari Maathai ,Nobel Barış Ödülü'nü kazanmıştı .</sentence>
+<sentence num="18">Kenya'da çevre bakan yardımcısı olarak görev yapan Maathai ,altın madalyasını ve Nobel diplomasını Norveç'in başkenti Oslo'da düzenlenen törenle almıştı .</sentence>
+<sentence num="19">Maathai ödülü alan ilk Afrikalı kadın oldu .</sentence>
+<sentence num="20">Maathai ,ormanların yok olmasını önlemek amacıyla Afrika'da milyonlarca ağaç dikilmesine yönelik bir kampanya başlattığı için ödüle layık görülmüştü .</sentence>
+<sentence num="21">2005 Nobel Kimya Ödülü :Nobel Kimya Ödülü'nü bu yıl Fransız bilim adamı Yves Chauvin ile ABD'li bilim adamları Robert H .Grubbs ile Richard R .Schrock kazandı .</sentence>
+<sentence num="22">2005 Nobel Fizik Ödülü :Nobel 2005 Fizik Ödülü ,bu yıl üç bilim adamı arasında paylaştırıldı .</sentence>
+<sentence num="23">Ödülü lazerle çalışan hassas spektroskopinin geliştirilmesine katkıları nedeniyle ABD'li John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch kazandı .</sentence>
+<sentence num="24">2005 Nobel Tıp Ödülü :Bu yıl Nobel Tıp Ödülü'nü Avustralyalı Barry J .Marshall ve J .Robin Warren kazandı .</sentence>
+<sentence num="25">İkili ,ödülü gastrit ve sindirim sistemi hastalığında rol oynayan bakteri üzerine yaptıkları çalışmayla aldı .</sentence>
+<sentence num="26">Kemal ve Pamuk da aday Uluslararası PEN Kulüpleri Federasyonu ,Nobel Edebiyat Ödülü için Yaşar Kemal ve Orhan Pamuk'u aday göstereceğini açıklamıştı .</sentence>
+<sentence num="27">İsveç Nobel Akademisi ,uluslararası yazar topluluğu PEN'den ,2005 Nobel Edebiyat Ödülü için aday önermelerini istemişti .</sentence>
+</doc>
+<doc>
+<id>162365</id>
+<sentence num="0">2005 10 07 12 :05 :00 .Nobel Barış Ödülü Baradey'in oldu .</sentence>
+<sentence num="1">Baradey ,2005 yılı Nobel Ödülü'nün sahibi oldu Nobel Barış Ödülü'nü Uluslararası Atom Enerjisi Kurumu (UAEK )ile kurumun Başkanı Muhammed El Baradey kazandı .</sentence>
+<sentence num="2">Baradey ,nükleer enerjinin askeri amaçlı kullanımının engellenmesi ve barışçı kullanımı için harcanan çabaları nedeniyle bu yılki Nobel Barış Ödülü'nü almaya hak kazandı .</sentence>
+<sentence num="3">63 yaşındaki Baradey ,Uluslararası Atom Enerjisi Kurumu'na 1997 yılında başkan olmuştu .</sentence>
+<sentence num="4">Uluslararası Atom Enerjisi Kurumu ile Baradey'in ,atom bombaları nedeniyle Hiroşima ve Nagasaki'de yaşanan felaketlerden 60 yıl sonra ödül almasının anlamlı olduğu ifade edildi .</sentence>
+<sentence num="5">Nobel Komitesi ,ödüller için düzenlenen törende günümüzde nükleer enerji ile ilgili faaliyetlerin hız kazandığına dikkat çekerek ,bu yöndeki çalışmaların uluslararası kurumlar tarafından takip edilmesi gerekliliğinin altını çizdi .</sentence>
+<sentence num="6">Komite bu konuda Uluslararası Atom Enerjisi Kurumu ile Baradey'in yaptığı çalışmalarının önemine de değindi .</sentence>
+<sentence num="7">Baradey :Şeref duydum Muhammed El Baradey ,Avusturya'nın başkenti Viyana'da düzenlediği basın toplantısında ,Nobel komitesinin ödülle ilgili olarak kendisini aramadığını ,kazandığı haberini televizyondan öğrendiğini belirtti .</sentence>
+<sentence num="8">Baradey ,ödülün kendisi ve başkanlığını yaptığı kuruma ,İran ve kuzey Kore'nin nükleer programlarıyla ilgili sorunların çözümünde 'çok gereksinim duyulan desteği 'vereceğini söyledi .</sentence>
+<sentence num="9">Ödülün kendisine büyük bir sorumluluk yüklediğini de kaydeden Baradey ,''çok mahçup oldum ve şeref duydum ''dedi .</sentence>
+<sentence num="10">Baradey ,UAEK'nin barış için tarafsız bir kurum olmaya çalıştığını belirterek ,''tüm faaliyetlerimizde ,tarafsız ,nesnel olmaya ve bütünlük içinde çalışmaya inanmayı sürdüreceğiz ''diye konuştu .</sentence>
+<sentence num="11">BM NOBEL'E ALIŞKIN Uluslararası Atom Enerjisi Kurumu (UAEK )ve başkanı Muhammed El Baradei ile 2005 Nobel Barış Ödülü'nü kazanan BM ,bu ödüle çalışanları ve kuruluşlarıyla birçok defa layık görüldü .</sentence>
+<sentence num="12">1945'te kurulan BM ,insani yönde çalışmaları ve dünya barışını korumadaki rolü nedeniyle ,bugüne kadar verilen barış ödüllerinin yaklaşık dörtte birini aldı .</sentence>
+<sentence num="13">Kuruluşundan bu yana ödüle layık görülen BM kuruluşları ve çalışanları şöyle :1949 :Dünya Gıda ve Tarım Örgütü (FAO )direktörü John Boyd Orr .1954 :Mülteciler Yüksek Komiserliği .</sentence>
+<sentence num="14">1961 :BM'nin 1953 1961 arası Genel Sekreteri Dag Hammarskjold .</sentence>
+<sentence num="15">1965 :Dünya Çocuk Fonu (UNICEF ).</sentence>
+<sentence num="16">1969 :Uluslararası Çalışma Örgütü (ILO ).</sentence>
+<sentence num="17">1981 :Mülteciler Yüksek Komiserliği .</sentence>
+<sentence num="18">1988 :Barış Gücü .</sentence>
+<sentence num="19">2001 :BM ve Genel Sekreter Kofi Annan .</sentence>
+<sentence num="20">2005 :UAEK ve Başkanı Muhammed El Baradei .</sentence>
+<sentence num="21">Favoriler arasında Ahtisaari de vardı Nobel Barış Ödülleri için favoriler arasında Finlandiya Devlet Başkanı Martti Ahtisaari de bulunuyordu .</sentence>
+<sentence num="22">Ahtisaari ,Balkanlardan Namibya'ya kadar birçok alanda çatışmaların durdurulması için çaba harcadığı için favoriler arasındaydı .</sentence>
+<sentence num="23">Söz konusu çatışmalarda 15 bin kişi yaşamını yitirmişti .</sentence>
+<sentence num="24">Adaylar arasında yoksulluğa karşı düzenlenen 'Live 8 'konserlerinin mimarı Bob Geldof ve U2 grubunun solisti Bono da bulunuyordu .</sentence>
+<sentence num="25">Bu yıl Nobel Barış Ödülü'ne 199 aday gösterildi .</sentence>
+<sentence num="26">Uluslararası PEN Kulüpleri Federasyonu ,Nobel Edebiyat Ödülü için Yaşar Kemal ve Orhan Pamuk'u aday göstereceğini açıklamıştı .</sentence>
+<sentence num="27">İsveç Nobel Akademisi ,uluslararası yazar topluluğu PEN'den ,2005 Nobel Edebiyat Ödülü için aday önermelerini istemişti .</sentence>
+<sentence num="28">Maathai kazanmıştı Geçtiğimiz yıl Kenya Çevre Bakanı Yardımcısı Wangari Maathai ,Nobel Barış Ödülü'nü kazanmıştı .</sentence>
+<sentence num="29">Kenya'da çevre bakan yardımcısı olarak görev yapan Maathai ,altın madalyasını ve Nobel diplomasını Norveç'in başkenti Oslo'da düzenlenen törenle almıştı .</sentence>
+<sentence num="30">Maathai ödülü alan ilk Afrikalı kadın oldu .</sentence>
+<sentence num="31">Maathai ,ormanların yok olmasını önlemek amacıyla Afrika'da milyonlarca ağaç dikilmesine yönelik bir kampanya başlattığı için ödüle layık görülmüştü .</sentence>
+<sentence num="32">2005 Nobel Kimya Ödülü :Nobel Kimya Ödülü'nü bu yıl Fransız bilim adamı Yves Chauvin ile ABD'li bilim adamları Robert H .Grubbs ile Richard R .Schrock kazandı .</sentence>
+<sentence num="33">2005 Nobel Fizik Ödülü :Nobel 2005 Fizik Ödülü ,bu yıl üç bilim adamı arasında paylaştırıldı .</sentence>
+<sentence num="34">Ödülü lazerle çalışan hassas spektroskopinin geliştirilmesine katkıları nedeniyle ABD'li John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch kazandı .</sentence>
+<sentence num="35">2005 Nobel Tıp Ödülü :Bu yıl Nobel Tıp Ödülü'nü Avustralyalı Barry J .Marshall ve J .Robin Warren kazandı .</sentence>
+<sentence num="36">İkili ,ödülü gastrit ve sindirim sistemi hastalığında rol oynayan bakteri üzerine yaptıkları çalışmayla aldı .</sentence>
+<sentence num="37">Nobel Barış Ödülü'ne ilişkin bazı bilgiler Ödülün geçmişteki adayları arasında Nazi Almanyası lideri Adolf Hitler (1938 )ile dağılan Sovyetler Birliği'nin eski lideri Josef Stalin de (1945 İkinci Dünya Savaşı'nın sona ermesine katkılarından dolayı )yer aldı .</sentence>
+<sentence num="38">1979 yılında Rahibe Teresa ödülünü almak için Oslo'daki törene katılmayı reddetti ve para ödülünün yoksullar için harcanmasının daha iyi olacağını söyledi .</sentence>
+<sentence num="39">Bunun üzerine tören iptal edildi .</sentence>
+<sentence num="40">Nobel Barış Ödülü'ne en fazla Uluslararası Kızılhaç Teşkilatı (1917 1944 ve 1963 )layık görüldü .</sentence>
+<sentence num="41">Kızılhaç'ın kurucusu İsviçreli Henri Dunant da 1901'de verilen ilk ödülü paylaşanlardan biri oldu .</sentence>
+<sentence num="42">1973'te Vietnam Savaşı'nın sona erdirilmesindeki çabaları dolayısıyla ABD Dışişleri Bakanı Henry Kissinger'a verilen ödülü almaya giden ABD'nin Oslo Büyükelçisi ,protestocuların kar topu saldırılarına maruz kaldı .</sentence>
+<sentence num="43">Ateşkes görüşmelerindeki Kuzey Vietnamlı görüşmeci Le Duc Tho ise kendisine de verilen ,Nobel'in tarihindeki en tartışmalı bu ödülünü reddetti .</sentence>
+<sentence num="44">Adolf Hitler ,Nobel Barış Ödülü'nün 1935'de Nazi karşıtı yazar Carl van Ossietzky'ye verilmesinden sonra Almanların bu ödülü kabul etmesini yasakladı .</sentence>
+<sentence num="45">Bu karar 1930'larda kimya ve tıp ödüllerine layık görülen üç Alman bilim adamını etkiledi .</sentence>
+</doc>
+<doc>
+<id>162570</id>
+<sentence num="0">2005 10 07 15 :35 :00 .Nobel ,Mısır'ı seviyor .</sentence>
+<sentence num="1">Uluslararası Atom Enerjisi Kurumu (UAEK )ile birlikte Nobel 2005 Barış Ödülü'nü kazanan Muhammed El Baradei ,Nobel'e uzanan dördüncü Mısırlı oldu .</sentence>
+<sentence num="2">Mısır devlet televizyonunun normal yayın akışını keserek duyurduğu Nobel sevincinde spiker ,''El Baradei ,Nobel'i kazanan 4 .Mısırlı oldu ''anonsunu yaptı .</sentence>
+<sentence num="3">Mısır'da daha önce ,suikasta kurban giden eski Devlet Başkanı Enver Sedat 1979 yılında Nobel Barış Ödülü'nü ,yazar Necip Mahfuz 1988 yılında Nobel Edebiyat Ödülü'nü ,bilimadamı Ahmed Zevayil ise 1999 yılında Nobel Kimya Ödülü'nü kazanmıştı .</sentence>
+<sentence num="4">Kahire hükümeti ,henüz ödülle ilgili bir resmi açıklama yapmadı .</sentence>
+<sentence num="5">Ancak Mısır televizyonu ,El Baradei'nin Mısır Dışişleri Bakanı Ahmet Ebul Geyt'ten kutlama telefonu aldığını duyurdu .</sentence>
+</doc>
+<doc>
+<id>163577</id>
+<sentence num="0">2005 10 10 10 :30 :00 .Nobel mi kazanmak istiyorsunuz ?</sentence>
+<sentence num="1">İşte size Nobel rehberi .</sentence>
+<sentence num="2">Nobel ödüllü bir bilim adamı ,nobel kazanmayı düşleyen diğer bilim adamlarına altın öğütler verdi .</sentence>
+<sentence num="3">1996'da Fizyoloji ve Tıp Nobel ödülünü alan Avustralyalı bilim adamı Peter Doherty ,''Yeni Başlayanlar İçin Nobel Rehberi ''adlı bir kitap yayınladı .</sentence>
+<sentence num="4">Hücre bağışıklık sisteminin yapısını keşfettikleri için İsviçreli meslektaşı Rolf Zinkernagel ile birlikte ödüle layık görülen Doherty ,otobiyografi niteliğindeki kitabında daha çok bir bilim adamının yaşamını anlatıyor ,ama kitabın ''Nasıl Nobel Kazanırsınız ?''</sentence>
+<sentence num="5">başlıklı son bölümü Nobel kazanmak için yapılması ve yapılmaması gerekenleri anlatıyor .</sentence>
+<sentence num="6">Ödülü kazanmak isteyen bilim adamlarının ,Nobel Ödül komitesi tarafından fark edilmelerinin 50 yıl kadar sürebileceğini belirten Doherty ,bu kadar süre bekleyebilmek ve hayatta kalabilmek için ,''iyi alışkanlıklar erken çağlarda başlar ,dengeli yiyin için ,tatile çıkın ,sigara içmeyin ve aşırı alkol ve keyif verici ilaçlardan uzak durun ,düzenli egzersiz yapın ,tehlikeli sporlardan sakının ve intihara yönelik eğilimler konusunda profesyonel yardım alın ''dedi .</sentence>
+<sentence num="7">Nobel kazanmanın bir el kitabı ya da kursu olmadığını belirten Doherty ,''olaya sayısal olarak bakarsak ,bir çoğumuzun Olimpiyatlarda altın madalya alma şansı ,nobel ödülü kazanma şansından daha fazla ''diyor .</sentence>
+<sentence num="8">Doherty ,''Büyük problemleri çözmeye çalışan ve gerçekten büyük keşifler yapın ''diyor ama ,Nobel düzeyindeki büyük problemleri çözebilecek düzeyde insan zekasının seyrek olduğunu ,aslında bu tür zekalara ''neredeyse yabancı canlı türü sayılabilecek ''kadar seyrek rastlandığını belirtiyor .''</sentence>
+<sentence num="9">Ama keşif farklıdır .</sentence>
+<sentence num="10">Kimse bir şeyi keşfedeceğim diye karar veremez ,ama bir keşif yapmanın ve sonuç almanın yolları vardır ''diyen Doherty ,''hiçbir şeyi göründüğü gibi kabul etmeyin ve geleneksel olmayan tarzda düşünme alışkanlığı kazanın .</sentence>
+<sentence num="11">Sıkı çalışın ,zeki çalışın ve birazcık da şansın yardımıyla beklenmedik şeyler bulma ihtimali kendisini gösterecektir ''diyor .</sentence>
+<sentence num="12">Doherty ,bir konudan diğerine atlayan zeki insanların genellikle çok az şey başardığını da kaydetti .</sentence>
+<sentence num="13">2005 Nobel Tıp Ödülü'nü kazanan Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren ,ödül almak için 23 yıl beklediler .</sentence>
+<sentence num="14">1982'de ''helikobakter pilori ''tipi bakteri ''mikrobunun '',onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirlemişlerdi .''</sentence>
+<sentence num="15">İnsanlar hem kelimelerle hem resimlerle düşünürler .</sentence>
+<sentence num="16">Aydınlatıcı fikirler acayip zamanlarda çıkar ,örneğin duşta ya da bir dağın tepesinde ''diyen Doherty ,buna örnek olarak İlya Meşkinov'un 1908 tıp ödülünü kazanmasına neden olan keşfi ,bir plajda denizyıldızı larvası toplarken ve iltihaplı hücre yoğunlaşmalarını gözlemlerken yaptığını ,1993 Nobel kimya ödülünü kazanan Kary Mullis'e ödülü kazandıran fikrinse aklına ,gece tek başına araba sürerken geldiğini kaydetti .</sentence>
+<sentence num="17">Ödül peşindeki bilim adamlarının fikirlerini çok fazla kişiye söylememelerini ,yoksa fikirlerinin ''çalınabileceğini ''kaydeden Doherty ,''bir mailde farkında olmadan yapılan bir yorum ,bir rakibe gerekli ipuçlarını sağlayabilir ''diyor .</sentence>
+<sentence num="18">Bilim adamlarının keşiflerini eğlendirici bir dille de yazmaları gerekiyor .</sentence>
+<sentence num="19">Doherty bunu ,''bilim iyi ,okunabilir ve akılda kalabilir bir hikaye anlatmaktır .</sentence>
+<sentence num="20">Şekspir olmanız gerekmez ama üst düzeyde bir bilim adamı olarak tanınmak isteyen biri ,açık ,anlaşılır bir İngilizce ile yazabilmelidir ''sözleriyle anlatıyor .</sentence>
+</doc>
+<doc>
+<id>163608</id>
+<sentence num="0">2005 10 10 11 :00 :00 .Nobel'e giden yolda altın öğütler .</sentence>
+<sentence num="1">1996'da Nobel kazanan Peter Doherty Nobel ödüllü bir bilim adamı ,Nobel kazanmayı düşleyen diğer bilim adamlarına altın öğütler verdi .</sentence>
+<sentence num="2">1996'da Fizyoloji ve Tıp dalında Nobel Ödülü'nü alan Avustralyalı bilim adamı Peter Doherty ,'Yeni Başlayanlar İçin Nobel Rehberi 'adlı bir kitap yayımladı .</sentence>
+<sentence num="3">Hücre bağışıklık sisteminin yapısını keşfettikleri için İsviçreli meslektaşı Rolf Zinkernagel ile birlikte ödüle layık görülen Doherty ,otobiyografi niteliğindeki kitabında daha çok bir bilim adamının yaşamını anlatıyor .</sentence>
+<sentence num="4">Ama asıl ilginç olan kitabın 'Nasıl Nobel Kazanırsınız ?'</sentence>
+<sentence num="5">başlıklı son bölümü .</sentence>
+<sentence num="6">Bölüm ,Nobel kazanmak için yapılması ve yapılmaması gerekenleri anlatıyor .</sentence>
+<sentence num="7">Öneriler Doherty ,ödülü kazanmak isteyen bilim adamlarının ,Nobel Ödül Komitesi tarafından fark edilmelerinin 50 yıl kadar sürebileceğini belirterek bu kadar süre bekleyebilmek ve hayatta kalabilmek için şu öğütleri veriyor :İyi alışkanlıklar erken çağlarda başlar .</sentence>
+<sentence num="8">Dengeli yiyin için ,tatile çıkın ,sigara içmeyin ,aşırı alkol ve keyif verici ilaçlardan uzak durun .</sentence>
+<sentence num="9">Düzenli egzersiz yapın ,tehlikeli sporlardan sakının ve intihara yönelik eğilimler konusunda profesyonel yardım alın .</sentence>
+<sentence num="10">Olimpiyat altını şansı daha fazla Nobel kazanmanın bir el kitabı ya da kursu olmadığını belirten Doherty ,olaya sayısal olarak bakarsak ,birçoğumuzun olimpiyat altını alma şansı ,Nobel ödülü kazanma şansından daha fazla diyor .</sentence>
+<sentence num="11">Doherty ,büyük problemleri çözmeye çalışan ve gerçekten büyük keşifler yapın diyor ama Nobel düzeyindeki büyük problemleri çözebilecek düzeyde insan zekasının seyrek olduğunu ,aslında bu tür zekalara neredeyse yabancı canlı türü sayılabilecek kadar seyrek rastlandığını belirtiyor .</sentence>
+<sentence num="12">Keşif farklıdır Kimse bir şeyi keşfedeceğim diye karar veremez ,ama bir keşif yapmanın ve sonuç almanın yolları vardır diyen Doherty ,hiçbir şeyi göründüğü gibi kabul etmeyin ve geleneksel olmayan tarzda düşünme alışkanlığı kazanın .</sentence>
+<sentence num="13">Sıkı çalışın ,birazcık da şansın yardımıyla beklenmedik şeyler bulma ihtimali kendisini gösterecektir diyor .</sentence>
+<sentence num="14">2005 Nobel Tıp Ödülü'nü kazanan Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren ,ödül almak için 23 yıl beklediler .</sentence>
+<sentence num="15">1982'de 'helikobakter pilori 'tipi bakteri 'mikrobunun ',onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirlemişlerdi .</sentence>
+<sentence num="16">Her yerde karşınıza çıkabilir İnsanlar hem kelimelerle hem resimlerle düşünürler .</sentence>
+<sentence num="17">Aydınlatıcı fikirler acayip zamanlarda çıkar .</sentence>
+<sentence num="18">Örneğin duşta ya da bir dağın tepesinde diyor Doherty ve şu örnekleri veriyor :İlya Meşkinov ,1908 Tıp Ödülü'nü kazanmasına neden olan keşfini ,bir plajda denizyıldızı larvası toplarken ve iltihaplı hücre yoğunlaşmalarını gözlemlerken yaptı .</sentence>
+<sentence num="19">1993 Nobel Kimya Ödülü'nü kazanan Kary Mullis'e ödülü kazandıran fikir ,aklına ,gece tek başına araba sürerken geldiğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>163808</id>
+<sentence num="0">2005 10 10 15 :21 :00 .Ekonomi ödülleri sahiplerini buldu .</sentence>
+<sentence num="1">Ekonomi ödülleri sahibini buldu Nobel Ekonomi Ödülü ,İsrail ve ABD çifte vatandaşı Robert J .Aumann ile ABD vatandaşı Thomas C .Schelling'e verildi .</sentence>
+<sentence num="2">İsveç Bilimler Akademisi ,Aumann ile Schelling'in ,ekonomik işbirliği ve çatışma konularına oyun kuramı kapsamında getirdikleri açıklamadan ötürü ödüle layık görüldüklerini açıkladı .</sentence>
+<sentence num="3">Aumann ile Schelling'in çalışmaları ,fiyat savaşları ve ticaret savaşları gibi ekonomik çatışmaların ve bazı toplulukların ortak kaynakları işletmede başka topluluklardan neden daha başarılı olduğunun anlaşılmasına katkı sağlıyor .</sentence>
+<sentence num="4">Akademiden yapılan açıklamada ,iki iktisatçının bulgularının ,güvenlik ve silahsızlanma politikalarının belirlenmesi ,pazarda fiyat oluşumunun kestirilmesi ,ekonomik ve politik müzakerelerin yürütülme biçimlerinin belirlenmesi gibi konularda pratik uygulama alanı bulduğu ifade edildi .</sentence>
+<sentence num="5">Aumann çifte vatandaş Akademinin 10 milyon kronluk (1 .</sentence>
+<sentence num="6">30 milyon dolar )prestijli ödülünü paylaşanlardan 75 yaşındaki Aumann ,Almanya doğumlu olmakla birlikte ABD ve İsrail çifte vatandaşı .</sentence>
+<sentence num="7">Hala Kudüs'teki İbrani Üniversitesi'nde ders veren Aumann ,gerçek olayların kuram üzerindeki etkileriyle ilgileniyor .</sentence>
+<sentence num="8">Ödülün diğer ortağı 84 yaşındaki Schelling ise ABD'de Maryland Üniversitesi öğretim kadrosunda yer alıyor .</sentence>
+<sentence num="9">Aynı zamanda Harvard Üniversitesi'nde de ömür boyu profesörlük payesine sahip olan Schelling ,küresel güvenlik ve silahlanma yarışını ekonomik açıdan ele alan çalışmalarıyla tanınıyor .</sentence>
+<sentence num="10">Beş dalda ödüller sahibini buldu Nobel Ödülleri 2005 ,ekonomi ile beraber beş dalda sahiplerini buldu .</sentence>
+<sentence num="11">2005 Nobel Kimya Ödülü'nü Fransız bilim adamı Yves Chauvin ile ABD'li bilim adamları Robert H .Grubbs ile Richard R .Schrock kazandılar .</sentence>
+<sentence num="12">Üç kimyager ,organik sentezde çifte ayrıştırma (metatez )yöntemlerini geliştirme çalışmalarından dolayı ödüle layık bulundu .</sentence>
+<sentence num="13">Nobel 2005 Fizik Ödülü de ,bu yıl üç bilim adamı arasında paylaştırıldı .</sentence>
+<sentence num="14">İsveç Bilimler Akademisi'nden yapılan açıklamada ,ödülün lazerle çalışan hassas spektroskopinin geliştirilmesine katkıları nedeniyle ABD'li John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch'e verildiği belirtildi .</sentence>
+<sentence num="15">2005 Nobel Tıp ödülünü ise Avustralyalı Barry J .Marshall ve J .Robin Warren kazandı .</sentence>
+<sentence num="16">İkili ,ödülü gastrit ve sindirim sistemi hastalığında rol oynayan bakteri üzerine yaptıkları çalışmayla aldı .</sentence>
+<sentence num="17">Nobel Barış Ödülü'nü de Uluslararası Atom Enerjisi Kurumu (UAEK )ile kurumun Başkanı Muhammed El Baradey kazandı .</sentence>
+<sentence num="18">Baradey ,nükleer enerjinin askeri amaçlı kullanımının engellenmesi ve barışçı kullanımı için harcanan çabaları nedeniyle bu yılki Nobel Barış Ödülü'nü almaya hak kazandı .</sentence>
+<sentence num="19">1980'den beri Nobel Ekonomi Ödülü'nü kazananlar 2004 :Finn E .Kydland (Norveç ),Edward C .Prescott (ABD )2003 :Robert F .Engle III (ABD ),Clive W .J .Granger (İngiltere )2002 :Daniel Kahneman (ABD ),Vernon L .Smith (ABD )2001 :George A .Akerlof (ABD ),A .Michael Spence (ABD ),Joseph E .Stiglitz (ABD )2000 :James J .Heckman (ABD ),Daniel L .McFadden (ABD )1999 :Robert A .Mundell (Kanada )1998 :Amartya Sen (Hindistan )1997 :Robert C .Merton (ABD ),Myron S .Scholes (ABD )1996 :James A .Mirrlees (İngiltere ),William Vickrey (ABD )1995 :Robert E .Lucas Jr .(ABD )1994 :John C .Harsanyi (ABD ),John F .Nash Jr .(ABD ),Reinhard Selten (Almanya )1993 :Robert W .Fogel (ABD ),Douglass C .North (ABD )1992 :Gary S .Becker (ABD )1991 :Ronald H .Coase (İngiltere )1990 :Harry M .Markowitz (ABD ),Merton H .Miller (ABD ),William F .Sharpe (ABD )1989 :Trygve Haavelmo (Norveç )1988 :Maurice Allais (Fransa )1987 :Robert M .Solow (ABD )1986 :James M .Buchanan Jr .(ABD )1985 :Franco Modigliani (ABD )1984 :Richard Stone (İngiltere )1983 :Gerard Debreu (ABD )1982 :George J .Stigler (ABD )1981 :James Tobin (ABD )1980 :Lawrence R .Klein1980 Lawrence R .Klein .</sentence>
+</doc>
+<doc>
+<id>165435</id>
+<sentence num="0">2005 10 13 12 :33 :00 .Nobel Edebiyat Ödülü Pinter'ın .</sentence>
+<sentence num="1">Harold Pinter ,1 .3 milyon dolarlık ödülün de sahibi oldu 2005 Nobel Edebiyat Ödülü'nü Irak savaşı karşıtlığıyla tanınan İngiliz oyun yazarı ,senarist ,şair ,tiyatro yönetmeni ve aktör Harold Pinter aldı .</sentence>
+<sentence num="2">Pinter ödüle ,oyunlarında günlük konuşmaların altındaki uçurumu sergilemesi ve baskının kapalı kapılarını zorla açmasından dolayı layık görüldü .</sentence>
+<sentence num="3">Çağımızın oyun yazarları arasında seçkin bir yere sahip olan Pinter ,'The Room '(Oda ,1957 )ve 'The Birthday Party '(Doğumgünü Partisi ,1958 )gibi ilk oyunlarında bile ,eleştirmenlerin sonradan 'Pintervari 'gibi bir sıfat yaratmalarına yol açan kendine özgü tiyatro teknikleri ve temalara yer vermiştir .</sentence>
+<sentence num="4">Pintervari sözü ,sabit bir mekanda geçen ,neden tuhaf davrandıklarını ne izleyici ne de kendilerinin anlayabildiği ,ancak bu davranışlarıyla insan ilişkilerindeki örtük şiddeti açığa vuran ve denetimli bir psikolojik tedirginlik atmosferi yaratan az sayıda karakterin yer aldığı oyunları tanımlamak için kullanılır .</sentence>
+<sentence num="5">Bu 'tehlikeli komediler'in muğlaklığa varan çokanlamlılığı ve gizemli yapısı kimilerince yerilmiş ,ama Pinter'ın karmaşık ve olağanüstü güzellikteki dil kullanımı başarısında temel etken olmuştur .</sentence>
+<sentence num="6">İlk oyunla kötü başlangıç 'The Birthday Party ',Pinter'in profesyonel tiyatrolar tarafından sahneye konan ilk oyunuydu .</sentence>
+<sentence num="7">Oyun çok kısa bir süre sahnelenebildi .</sentence>
+<sentence num="8">Çünkü eleştirmenlerden çok sert eleştiriler almış ,hatta onlardan biri oyunu saçmalık derecesinde karanlık bulmuştu .</sentence>
+<sentence num="9">İki yıl sonra Pinter'in ikinci uzun oyunu 'The Caretaker '(Kapıcı ,1960 )sahnelendiğinde hem izleyici hem de eleştirmenler tarafından görece daha gerçekçi ve eğlenceli bir atmosferi olduğu ,kısmen de karanlık üslubunun sanatının bütünsel bir unsuru olduğunun farkına varıldığı için başarılı bulundu .</sentence>
+<sentence num="10">Sık sık en önemli yapıtı olduğu ileri sürülen 'The Homecoming'in (Yuvaya Dönüş ,1965 )oynanmasından sonra Pinter'dan artık büyük bir tiyatro yazarı olarak söz ediliyordu .</sentence>
+<sentence num="11">Sinemada Pinter O zamandan bu yana tiyatro ,sinema ,radyo ve televizyon için bir dizi önemli yapıt üretti ,sinema yönetmeni Joseph Losey'le birlikte çalışıp 'The Servant '(Genç Hizmetçiler ),'The Accident '(Kaza Gecesi )ve 'The Go Between '(Arabulucu )filmlerinin senaryosunu yazarak sinema çevresiyle uzun yıllar sürdüreceği bir ilişkiye girdi .</sentence>
+<sentence num="12">John Fowles'ın 'Fransız Teğmenin Karısı '(1981 )adlı romanını ,Marcel Proust'un 'Yitik Zamanın Ardında 'başlıklı dev roman dizisini (yapımcı şirketle çıkan bir anlaşmazlık sonucu bu büyük proje gerçekleştirilemedi )ve kendi oyunu 'İhanet'i sinemaya uyarladı .'</sentence>
+<sentence num="13">Öfkeli Genç Adamlar'dan Pinter'ın ilk yapıtları ,İngiliz yazarların 'Öfkeli Genç Adamlar 'denen kuşağının etkin olduğu bir dönemde yazılmıştı .</sentence>
+<sentence num="14">Bu yazarların (Osborne ,Wesker ,Arden )yapıtlarında tipik olarak işçi sınıfından kişilerin iç karartıcı ortamlarda maddi zorluklar ve yoğun düş kırıklığıyla dolu hayatları konu ediliyordu .</sentence>
+<sentence num="15">1950'li yıllar aynı zamanda Samuel Beckett'in 'Godot'yu Beklerken 've Eugene Ionnesco'nun 'Sandalyeler 'gibi oyunlarının dahil edildiği Uyumsuz Tiyatro adı verilen ,felsefi bir nihilizmi dışavuran ve gerçekçi karakter psikolojisini ve natüralist tiyatronun neden sonuç ilişkilerine dayanan olay örgüsünü bir kenara bırakan yeni bir tiyatro akımının ortaya çıkmasına da sahne olmuştu .</sentence>
+<sentence num="16">Eleştirmenler Pinter'ın oyunlarının bu iki akımın özgün bir bileşimi olduğuna dikkat çeker .</sentence>
+<sentence num="17">Pinter'ın diğer önemli oyunları şunlardır :'The Dumb Waiter '(Gitgel Dolap ,1957 ),'A Slight Ache '(İnce Bir Sızı ,1958 ),'The Collection '(Yeni Modeller ,1961 ),'Old Times '(Eski Günler ,1971 ),'No Man's Land '(Issız Topraklar ,1978 ),'The Hothouse '(Limonluk ,1982 ),'A Kind of Alaska '(Alaska Gibi Bir Yer )ve 'The Mountain Language'dir (Dağ Dili ).</sentence>
+<sentence num="18">İngiltere'nin yaşayan en büyük oyun yazarı olarak tanımlanan 1930 doğumlu Pinter'ın 'Git Gel Dolap ','Doğumgünü Partisi ','İhanet ','Aldatma 'gibi oyunları Türkiye'de de sahnelendi .</sentence>
+<sentence num="19">Politik bir yazar olarak Pinter ABD Başkanı George Bush ve İngiltere Başbakanı Tony Blair'in politikalarına muhalefet eden Pinter ,savaş başlamadan önce ,2002 yılında İngiliz yayın kuruluşu BBC'ye verdiği bir demeçte ,İngiltere'nin ABD'nin yanında durmasından utanç duyduğunu ''söylemişti .</sentence>
+<sentence num="20">ABD'nin 2003'te Irak'a müdahale etmesine öfkeyle karşı çıkan Pinter ,aynı yıl Irak savaşıyla ilgili savaş karşıtı şiirlerinin yer aldığı bir kitap yayımladı ,2004'te ise Blair'in azledilmesini isteyen bir kampanyaya katıldı .</sentence>
+<sentence num="21">2002'de kanser olduğu açıklanan Pinter ,Nobel'den önce de birçok ödül kazandı .</sentence>
+<sentence num="22">Bunlar arasında Shakespeare Ödülü ,Avrupa Edebiyat Ödülü ,Pirandello Ödülü ,David Cohen İngiliz Edebiyat Ödülü ,Laurence Olivier Ödülü ,Moliere Ödülü ve 14 üniversiteden onursal unvanı bulunuyor .</sentence>
+<sentence num="23">Adaylar güçlüydü Bu yılın Nobel Edebiyat Ödülü adayları arasında Adonis ismini kullanan Suriye asıllı şair Ali Ahmed Said ,Çek yazar Milan Kundera ,Danimarkalı yazar Inger Christensen ve İsveçli şair Tomas Tranströmer de bulunuyordu .</sentence>
+<sentence num="24">Ayrıca ödülün açıklanmasının gecikmesinde ,jürinin Türk yazar Orhan Pamuk isminde anlaşamadığı yönünde spekülasyonlar yapılmıştı .</sentence>
+<sentence num="25">Geçtiğimiz yıl Jelinek kazandı Edebiyat Ödülü'nü 2004'te Avusturyalı oyun yazarı ve romancı Elfriede Jelinek almıştı .</sentence>
+<sentence num="26">1946 doğumlu Jelinek ,eserlerinde yer verdiği seslerin müzikal akışı ,toplum klişeleri ve klişelerin baskın gücünün absürdlüğünü ortaya koyması ile ödüle hak kazanmıştı .</sentence>
+<sentence num="27">Uç noktalar arasında gidip gelen bir yazar olarak tanınan Elfriede Jelinek'in 'Arzu ','Piyanist 've 'Sevda Kadınları 'adlı romanları Türkçe'ye de çevrildi .</sentence>
+<sentence num="28">Jelinek romanlarında ,cinselliği cüretkar biçimde dile getiriyor .</sentence>
+<sentence num="29">Jelinek ,özellikle 'Piyanist 'adlı romanı yönetmen Michael Haneke tarafından filme uyarlandıktan sonra tüm dünyada tanınan bir yazar haline geldi .</sentence>
+<sentence num="30">Ülkemizde de basılan kitap ,bir süre sonra yasaklanan yayınlar arasında yerini aldı .</sentence>
+<sentence num="31">Jelinek istifa getirdi Geçtiğimiz yıl Elfriede Jelinek'e verilen Nobel Edebiyat Ödülü'nün yankıları bu yıl ortaya çıktı .</sentence>
+<sentence num="32">İsveç Akademisi'nin bir üyesi ,2004 yılı seçimi yüzünden istifa ettiğini açıkladı .</sentence>
+<sentence num="33">Akademinin 1983'ten bu yana üyesi olan Knut Ahnlund ,Nobel Edebiyat Ödülü'ne Avusturyalı Elfriede Jelinek'in sürpriz bir şekilde seçilmesinin ,'ödülün değerine onarılmaz zarar verdiğini 'belirtti .</sentence>
+<sentence num="34">Jelinek'in çalışmasını 'sanatsal yapıdan uzak 'olarak nitelendiren Ahnlund ,2004 Nobel Ödülü'nün tüm gelişen güçlere onarılmaz hasar vermekle kalmayıp ,edebiyatı sanat olarak görenlerin kafasını karıştırdığını ifade etti .</sentence>
+<sentence num="35">Ödülü reddedenler Rudyard Kipling ,Knut Hamsun ,William Butler Yeats ,Eugene O'Neill ,Hermann Hesse ,Andre Gide ,T .S .Eliot ,Albert Camus ,Kenzaburo Oe ,John Steinbeck ,Gabrial Garcia Marquez ,Nobel Edebiyat Ödülü'nü kazanan isimlerden bazıları .</sentence>
+<sentence num="36">Boris Pasternak ve Jean Paul Sartre ise Edebiyat Ödülü tarihinde yeri farklı olan iki isim .</sentence>
+<sentence num="37">Pasternak 1958'de ,Sartre ise 1964'te ödülü reddettiler .</sentence>
+<sentence num="38">Jean Paul Sartre'ın ödül törenine gelerek ,'evinde yer olmadığı 'için ödülü reddetmesi ödüller tarihinin en önemli olaylarından biriydi .</sentence>
+<sentence num="39">Ret cevabının arkasındaki gerçek ise Cezayirlilerin Fransa'ya karşı sürdürdüğü bağımsızlık savaşıydı .</sentence>
+<sentence num="40">Beş dalda ödüller sahibini buldu Nobel'de bu yıl Edebiyat Ödülü ile birlikte altı dalda ödüller sahiplerini buldu :2005 Nobel Kimya Ödülü'nü Fransız bilim adamı Yves Chauvin ile ABD'li bilim adamları Robert H .Grubbs ile Richard R .Schrock kazandılar .</sentence>
+<sentence num="41">Üç kimyager ,organik sentezde çifte ayrıştırma (metatez )yöntemlerini geliştirme çalışmalarından dolayı ödüle layık bulundu .</sentence>
+<sentence num="42">Nobel 2005 Fizik Ödülü de ,bu yıl üç bilim adamı arasında paylaştırıldı .</sentence>
+<sentence num="43">Ödül ,lazerle çalışan hassas spektroskopinin geliştirilmesine katkıları nedeniyle ABD'li John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch'e verildi .</sentence>
+<sentence num="44">2005 Nobel Tıp Ödülü'nü ise Avustralyalı Barry J .Marshall ve J .Robin Warren kazandı .</sentence>
+<sentence num="45">İkili ödülü ,gastrit ve sindirim sistemi hastalığında rol oynayan bakteri üzerine yaptıkları çalışmayla aldı .</sentence>
+<sentence num="46">Nobel Barış Ödülü'nü ,Uluslararası Atom Enerjisi Kurumu ile kurumun Başkanı Muhammed El Baradey kazandı .</sentence>
+<sentence num="47">Baradey ,nükleer enerjinin askeri amaçlı kullanımının engellenmesi ve barışçı kullanımı için harcanan çabalarından dolayı ödülü almaya hak kazandı .</sentence>
+<sentence num="48">Nobel Ekonomi Ödülü ise İsrail ve ABD çifte vatandaşı Robert J ..Aumann ile ABD vatandaşı Thomas C .Schelling'e verildi .</sentence>
+<sentence num="49">Aumann ile Schelling ,ekonomik işbirliği ve çatışma konularına oyun kuramı kapsamında getirdikleri açıklamadan ötürü ödüle layık görüldüler .</sentence>
+<sentence num="50">Edebiyat Ödülü'nü kazananlar 1901 :Sully Prudhomme ,Fransa 1902 :Theodor Mommsen ,Almanya 1903 :B .Bjornson ,Norveç 1904 :Frederic Mistral ,Fransa ve J .Echegaray ,İspanya 1905 :H .Sienkiewicz ,Polonya 1906 :Geosue Carducci ,İtalya 1907 :Rudyard Kipling ,İngiltere 1908 :Rudolf Eucken ,Almanya 1909 :Selma Lagerlof ,İsveç 1910 :Paul von Heyse ,Almanya 1911 :Maurice Maeterlinck ,Belçika 1912 :Gerhart Hauptmann ,Almanya 1913 :Sir R .Tagore ,Hindistan 1914 :Ödül Verilmedi 1915 :Romain Rolland ,Fransa 1916 :V .von Heidenstam ,İsveç 1917 :Karl Gjellrup ,Danimarka ve H .Pontoppidan ,Danimarka 1918 :Ödül Verilmedi 1919 :Carl Spitteler ,İsviçre 1920 :Knut Hamsun ,Norveç 1921 :Anatole France ,Fransa 1922 :J .Benavente y Martinez ,İspanya 1923 :William Butler Yeats ,İrlanda 1924 :Wladyslaw Reymont ,Polonya 1925 :George Bernard Shaw ,İrlanda 1926 :Grazia Deledda ,İtalya 1927 :Henri Bergson ,Fransa 1928 :Sigrid Undset ,Norveç 1929 :Thomas Mann ,Almanya 1930 :Sinclair Lewis ,ABD 1931 :Eric Axel Karlfeldt ,İsveç 1932 :John Galsworthy ,İngiltere 1933 :İvan Bunin ,SSCB 1934 :Luigi Pirandello ,İtalya 1935 :Ödül verilmedi 1936 :Eugene O'Neill ,ABD 1937 :Roger Martin du Gard ,Fransa 1938 :Pearl S .Buck ,ABD 1939 :Frans Eemil Sillanpa ,Finlandiya 1943 :Ödül verilmedi 1944 :J .V .Jensen ,Danimarka 1945 :Gabriela Mistral ,Şili 1946 :Hermann Hesse ,İsviçre 1947 :Andre Gide ,Fransa 1948 :T .S .Eliot ,İngiltere 1949 :William Faulkner ,ABD 1950 :Bertrand Russell ,İngiltere 1951 :Par Lagerkvist ,İsveç 1952 :François Mauriac ,Fransa 1953 :Sir Winston Churchill ,İngiltere 1954 :Ernest Hemingway ,ABD 1955 :Halldör Laxness ,İzlanda 1956 :Juan Ramon Jimenez ,İspanya 1957 :Albert Camus ,Fransa 1958 :Boris Pasternak ,SSCB (Ödülü reddetti )1959 :Salvatore Quasimodo ,İtalya 1960 :Saint John Perse ,Fransa 1961 :Ivo Andric ,Yugoslavya 1962 :John Steinbeck ,ABD 1963 :Georgios Seferis ,Yunanistan 1964 :Jean Paul Sartre ,Fransa (Ödülü reddetti )1965 :Mikhail Şolohov ,SSCB 1966 :Shumuel Yosef Agnon ,İsrail ve Elly Sachs ,İsveç 1967 :Miguel Angel Asturias ,Guatemala 1968 :Yasunari Kawabata ,Japonya 1969 :Samuel Beckett ,İrlanda 1970 :Aleksandr Soljenitsin ,SSCB 1971 :Pablo Neruda ,Şili 1972 :Heinrich Böll ,AFC 1973 :Patrick White ,Avustralya 1974 :Eyvind Johnson ,İsveç ve Harry Martinson ,İsveç 1975 :Eugenio Montale ,İtalya 1976 :Saul Bellow ,ABD 1977 :Vicente Aleixandre ,İspanya 1978 :Isaac Bashevis Singer ,ABD 1979 :Odisseus Elitis ,Yunanistan 1980 :Czesraw Milosz ,ABD 1981 :Elias Canetti ,Bulgaristan 1982 :Gabrial Garcia Marquez ,Kolombiya 1983 :William Golding ,İngiltere 1984 :Jaroslav Seifert ,Çekoslovakya 1985 :Claude Simon ,Fransa 1986 :Wole Soyinka ,Nijerya 1987 :Joseph Brodsky ,ABD 1988 :Necib Mahfuz ,Mısır 1989 :Camilo Jose Cela ,İspanya 1990 :Octavio Paz ,Meksika 1991 :Nadine Gordimer ,Güney Afrika 1992 :Derek Walcott ,St .Lucian 1993 :Toni Morrison ,ABD 1994 :Kenzaburo Oe ,Japonya 1995 :Seamus Heaney ,İrlanda 1996 :Wislawa Szymborska ,Polonya 1997 :Dario Fo ,İtalya 1998 :Jose Saramago ,Portekiz 1999 :Günter Grass ,Almanya 2000 :Gao Xingjian ,Çin 2001 :V .S .Naipaul ,İngiltere 2002 :Imre Kerttesz ,Budapeşte 2003 :John Maxwell Coetzee ,Güney Afrika 2004 :Elfriede Jelinek ,Avusturya .</sentence>
+</doc>
+<doc>
+<id>197431</id>
+<sentence num="0">2005 12 10 20 :38 :00 .2005 Nobel ödülleri sahiplerini buldu .</sentence>
+<sentence num="1">2005 Nobel ödülleri sahiplerini buldu 2005 Nobel edebiyat ,tıp ,fizik ,kimya ve ekonomi ödülleri ,İsveç'in başkenti Stockholm'de düzenlenen törende ,sahiplerine ,İsveç Kralı 16'ncı Carl Gustaf tarafından teslim edildi .</sentence>
+<sentence num="2">Törende ,kanser tedavisi gördüğü bilinen Nobel edebiyat ödülünün bu yılki sahibi yazar Harold Pinter'in ödülünü ,yayıncısı Stephen Page teslim aldı .</sentence>
+<sentence num="3">1982'de ''helikobakter pilori ''tipi bakteri ''mikrobunun '',onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirleyen Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren'a Nobel Tıp Ödülü takdim edildi .</sentence>
+<sentence num="4">Lazerle çalışan hassas tayfölçerin (spektroskopi )geliştirilmesine katkıları nedeniyle ödüle layık görülen Amerikalı John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch ,Nobel 2005 Fizik Ödülü'nü teslim aldı .</sentence>
+<sentence num="5">2005 Nobel Kimya Ödülü'nü kazanan Fransız bilimadamı Yves Chauvin ile Amerikalı bilim adamları Robert H .Grubbs ile Richard R .Schrock da ödülü teslim almak üzere törende hazır bulundu .</sentence>
+<sentence num="6">İsrail ve ABD çifte vatandaşı Robert J .Aumann ile ABD vatandaşı Thomas C .Schelling Nobel Ekonomi Ödülü'nü aldı .</sentence>
+<sentence num="7">2005 Nobel Barış Ödülü ,Norveç'in başkenti Oslo'da düzenlenen törende ,Uluslararası Atom Enerjisi Kurumu (UAEK )ve kurumun Başkanı Muhammed El Baradei'ye verilmişti .</sentence>
+</doc>
+<doc>
+<id>197433</id>
+<sentence num="0">2005 12 10 20 :52 :00 .Nobel Ödülleri sahiplerini buldu .</sentence>
+<sentence num="1">Törende ,kanser tedavisi gördüğü bilinen Nobel edebiyat ödülünün bu yılki sahibi yazar Harold Pinter'in ödülünü ,yayıncısı Stephen Page teslim aldı .</sentence>
+<sentence num="2">1982'de helikobakter pilori tipi bakteri mikrobunun ,onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirleyen Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren'a Nobel Tıp Ödülü takdim edildi .</sentence>
+<sentence num="3">Lazerle çalışan hassas tayfölçerin (spektroskopi )geliştirilmesine katkıları nedeniyle ödüle layık görülen Amerikalı John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch ,Nobel 2005 Fizik Ödülü'nü teslim aldı .</sentence>
+<sentence num="4">2005 Nobel Kimya Ödülü'nü kazanan Fransız bilimadamı Yves Chauvin ile Amerikalı bilim adamları Robert H .Grubbs ile Richard R .Schrock da ödülü teslim almak üzere törende hazır bulundu .</sentence>
+<sentence num="5">İsrail ve ABD çifte vatandaşı Robert J .Aumann ile ABD vatandaşı Thomas C .Schelling Nobel Ekonomi Ödülü'nü aldı .</sentence>
+<sentence num="6">2005 Nobel Barış Ödülü ,Norveç'in başkenti Oslo'da düzenlenen törende ,Uluslararası Atom Enerjisi Kurumu (UAEK )ve kurumun Başkanı Muhammed El Baradei'ye verilmişti .</sentence>
+</doc>
+<doc>
+<id>197457</id>
+<sentence num="0">2005 12 10 22 :40 :00 .Nobel ,Edebiyat ,Tıp ,Fizik ,Kimya ve Ekonomi ödülleri sahiplerini buldu .</sentence>
+<sentence num="1">2005 Nobel edebiyat ,tıp ,fizik ,kimya ve ekonomi ödülleri ,İsveç'in başkenti Stockholm'de düzenlenen törende ,sahiplerine ,İsveç Kralı 16'ncı Carl Gustaf tarafından teslim edildi .</sentence>
+<sentence num="2">Törende ,kanser tedavisi gördüğü bilinen Nobel edebiyat ödülünün bu yılki sahibi yazar Harold Pinter'in ödülünü ,yayıncısı Stephen Page teslim aldı .</sentence>
+<sentence num="3">1982'de ''helikobakter pilori ''tipi bakteri ''mikrobunun '',onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirleyen Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren'a Nobel Tıp Ödülü takdim edildi .</sentence>
+<sentence num="4">Lazerle çalışan hassas tayfölçerin (spektroskopi )geliştirilmesine katkıları nedeniyle ödüle layık görülen Amerikalı John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch ,Nobel 2005 Fizik Ödülü'nü teslim aldı .</sentence>
+<sentence num="5">2005 Nobel Kimya Ödülü'nü kazanan Fransız bilimadamı Yves Chauvin ile Amerikalı bilim adamları Robert H .Grubbs ile Richard R .Schrock da ödülü teslim almak üzere törende hazır bulundu .</sentence>
+<sentence num="6">İsrail ve ABD çifte vatandaşı Robert J .Aumann ile ABD vatandaşı Thomas C .Schelling Nobel Ekonomi Ödülü'nü aldı .</sentence>
+<sentence num="7">2005 Nobel Barış Ödülü ,Norveç'in başkenti Oslo'da düzenlenen törende ,Uluslararası Atom Enerjisi Kurumu (UAEK )ve kurumun Başkanı Muhammed El Baradei'ye verilmişti .</sentence>
+<sentence num="8">Muhammed El Baradei de törendeki konuşmasında ,hiçbir ülkenin nükleer silah elde etmediğinden emin olmak gerektiğini ,nükleer silahsızlanma konusunda da ,nükleer güce sahip ülkelerin somut girişimlerde bulunması gerektiğini ifade etmişti .</sentence>
+<sentence num="9">Stockholm'deki takdim töreninde ödül sahipleri ayrıca ,altın madayla ,diploma ve yaklaşık 10 milyon İsveç kronu (1 ,3 milyon dolar )değerinde çekle de ödüllendirildi .</sentence>
+<sentence num="10">Ödülü paylaşanların ,çeki de aralarında paylaşacağı belirtildi .</sentence>
+<sentence num="11">Nobel ödüllerinin takdim töreni ,geleneksel olarak Stockholm'de ,ödülün kurucusu Alfred Nobel'in ölüm yıldönümü olan 10 Aralık'ta yapılıyor .</sentence>
+</doc>
+<doc>
+<id>197599</id>
+<sentence num="0">2005 12 11 11 :43 :00 .Nobel ödülleri sahiplerini buldu .</sentence>
+<sentence num="1">Tören 10 aralıkta yapılıyor İlgili Galeri Foto Galeri için tıklayınız İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Nobel Edebiyat ödülü için Kemal ve Pamuk ?</sentence>
+<sentence num="3">Yusuf İslam'a 'Nobeller Nobeli '?</sentence>
+<sentence num="4">Marquez'den 10 yıl sonra yeni bir roman ?</sentence>
+<sentence num="5">Nobel Edebiyat Ödülü Elfriede Jelinek'e ?</sentence>
+<sentence num="6">Nobel Kimya Ödülü protein araştırmasına 2005 Nobel edebiyat ,tıp ,fizik ,kimya ve ekonomi ödülleri ,İsveç'in başkenti Stockholm'de düzenlenen törende sahiplerine teslim edildi .</sentence>
+<sentence num="7">İsveç Kralı 16'ncı Carl Gustaf tarafından ödüllerin dağıtıldığı törende ,Nobel edebiyat ödülünün bu yılki sahibi yazar Harold Pinter'in ödülünü kanser tedavisi gördüğü için yayıncısı Stephen Page aldı .</sentence>
+<sentence num="8">1982'de 'helikobakter pilori 'tipi bakteri 'mikrobunun ',onikiparmak bağırsağı ve midede iltihaba neden olduğunu belirleyen Avustralyalı hekimler Barry J .Marshall ile J .Robin Warren'a da Nobel Tıp Ödülü verildi .</sentence>
+<sentence num="9">Lazerle çalışan hassas tayfölçerin (spektroskopi )geliştirilmesine katkıları nedeniyle ödüle layık görülen Amerikalı John L .Hall ve Roy J .Glauber ile Alman Theodor W .Haensch ,Nobel 2005 Fizik Ödülü'nü teslim aldı .</sentence>
+<sentence num="10">2005 Nobel Kimya Ödülü'nü kazanan Fransız bilim adamı Yves Chauvin ile ABD'li bilim adamları Robert H .Grubbs ile Richard R .Schrock da ödülü teslim almak üzere törende hazır bulundu .</sentence>
+<sentence num="11">Robert J .Aumann ile Thomas C .Schelling ise Nobel Ekonomi Ödülü'nü aldı .</sentence>
+<sentence num="12">2005 Nobel Barış Ödülü ise Norveç'in başkenti Oslo'da düzenlenen törende ,Uluslararası Atom Enerjisi Kurumu ve kurumun Başkanı Muhammed El Baradey'e verilmişti .</sentence>
+<sentence num="13">Stockholm'deki takdim töreninde ödül sahipleri ,altın madayla ,diploma ve yaklaşık 1 .3 milyon dolar değerinde çekle de ödüllendirildi .</sentence>
+<sentence num="14">Ödülü paylaşanlar ise çeki de aralarında paylaşacak .</sentence>
+<sentence num="15">Nobel ödüllerinin takdim töreni ,geleneksel olarak Stockholm'de ,ödülün kurucusu Alfred Nobel'in ölüm yıldönümü olan 10 aralıkta yapılıyor .</sentence>
+</doc>
+<doc>
+<id>200504</id>
+<sentence num="0">2005 12 16 09 :00 :00 .Ülser bakterisini bulan Nobelli doktordan ,Amerikan laboratuvarına dava .</sentence>
+<sentence num="1">2005 Nobel tıp ödülünü bir meslektaşıyla paylaşan Avustralyalı profesör Barry Marshall ,telif hakkını ödemediği gerekçesiyle bir Amerikan laboratuvarını mahkemeye verdi .</sentence>
+<sentence num="2">Bir Avustralya gazetesinin haberine göre ,Prof .Marshall ,Ballard Medikal Ürünler adlı laboratuvarı ,kendi icadı olan ülser teşhis aletini ürettiği halde telif ücretini ödememekle suçladı ve firma aleyhinde Perth federal mahkemesinde dava açtı .</sentence>
+<sentence num="3">Profesör ,Amerikan firmasının ,1998'den beri telif hakkı ödemediğini ileri sürerek ,8 milyon dolar talep etti .</sentence>
+<sentence num="4">Dava konusunun ,ülsere yol açan ''helicobacter pilori ''adlı bakterinin tespit edilmesini sağlayan jel içeren plastik test cihazı olduğu belirtildi .</sentence>
+<sentence num="5">Marshall ve Robin Warren ,ülsere sanılanın aksine stresin değil bakterinin yol açtığını ve bunun antibiyotikle tedavi edilebileceğini gösteren çalışmalarıyla Nobel ödülünü kazanmışlardı .</sentence>
+</doc>

@@ -1,0 +1,244 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 11 14 02 :12 :00 .esenboğa havalimanı'nda yangın çıktı ..</sentence>
+<sentence num="1">esenboğa havalimanı'nda yangın çıktı esenboğa havalimanı'nda saat 00 .15 sıralarında yangın çıktı .</sentence>
+<sentence num="2">havalimanının kafeterya kısmında başladığı tahmin edilen yangın kısa sürede büyüdü .</sentence>
+<sentence num="3">devlet hava meydanları işletmesi (dhmi )genel müdürü mahmut tekin ,esenboğa havalimanı'nda çıkan yangının kontrol edildiğini ,yangında can kaybı olmadığını bildirdi .</sentence>
+<sentence num="4">tekin ,yangının esenboğa havalimanı iç hatlar terminali'nde saat 23 .50'de çıktığını belirtti .</sentence>
+<sentence num="5">ilk belirlemelere göre ,iç hatlar terminali'ndeki usaş kafeteryası'nda başlayan yangının daha sonra bütün terminali kapladığını bildiren tekin ,şunları söyledi :''yangın şu an itibarıyla kontrol altına alındı .</sentence>
+<sentence num="6">iç hatlar terminali kullanılamaz hale geldi .</sentence>
+<sentence num="7">soğutma çalışmaları devam ediyor .</sentence>
+<sentence num="8">soğutma çalışmalarını kurumun ,büyükşehir ve çubuk belediyelerinin itfaiye ekipleri yerine getiriyor .''.</sentence>
+</doc>
+<doc>
+<id>181854</id>
+<sentence num="0">2005 11 14 02 :45 :00 .Ylıdırım :Esenboğa'da çıkan yangın kontrol altına alındı .</sentence>
+<sentence num="1">Ylıdırım :Esenboğa'da çıkan yangın kontrol altına alındı Ulaştırma Bakanı Binali Yıldırım ,Esenboğa Havalimanı'nda gece yarısı çıkan yangının şu an itibarıyla kontrol altına alındığını ,yangının İç Hatlar Terminali dışındaki diğer kısımlara sıçramasının önlendiğini bildirdi .</sentence>
+<sentence num="2">Ulaştırma Bakanı Binali Yıldırım ,Esenboğa Havalimanı'nda çıkan yangının ardından olay yerine gelerek yetkililerden bilgi aldı .</sentence>
+<sentence num="3">Yıldırım ,Havalimanı'ndan ayrılırken gazetecilere yaptığı açıklamada ,yangının gece yarısı civarında İç Hatlar Terminali'ndeki kafeteryada başladığını belirtti .</sentence>
+<sentence num="4">Yangına Devlet Hava Meydanları İşletmesi'ne (DHMİ )ait itfaiye araçlarının müdahale ettiğini bildiren Yıldırım ,yangının büyümesi üzerine çeşitli belediyelere ait itfaiyelerin de söndürme çalışmalarına destek verdiğini anlattı .</sentence>
+<sentence num="5">Yangının şu an itibariyle kontrol altına alındığını ,diğer kısımlara sıçramasının önlendiğini ifade eden Yıldırım ,soğutma çalışmalarının ise halen devam ettiğine işaret etti .</sentence>
+<sentence num="6">Yıldırım ,yarın Havalimanı'ndaki havayolu trafiğinin aksamaması için gerekli tedbirlerin alınacağını belirterek ,mümkün olduğunca yolcuların mağdur edilmemesine çalışılacağını söyledi .</sentence>
+<sentence num="7">Bakan Yıldırım ,yarım saat içinde Havalimanı'na bir uçağın iniş yapacağını bildirerek ,uçaktaki yolcuların Havalimanı'nın diğer kısımlarından giriş yapacaklarını ifade etti .</sentence>
+<sentence num="8">Öte yandan yangının ardından Ankara Vali Yardımcısı Hayati Soylu ile Ankara Emniyet Müdürü Ercüment Yılmaz da Havalimanı'na gelerek yetkililerden bilgi aldı .</sentence>
+<sentence num="9">Yangına tanık olan eski bakan ,TBMM eski başkanlarından İsmet Sezgin de İstanbul'dan Ankara'ya gelen uçakta yolculuk ettiğini anlatarak ,''yangını uçağın penceresinden gördük .</sentence>
+<sentence num="10">Neredeyse yön değiştirip Havalimanı'na inmeyecektik .</sentence>
+<sentence num="11">Ama daha sonra terminalin ayrı bir kısmına uçağımız iniş yaptı ''dedi .</sentence>
+</doc>
+<doc>
+<id>181862</id>
+<sentence num="0">2005 11 14 03 :40 :00 .Kurutuz :Kafeteryada başlayan yangın çatıya sıçradı .</sentence>
+<sentence num="1">Kurutuz :Kafeteryada başlayan yangın çatıya sıçradı Ankara Büyükşehir Belediyesi İtfaiye Daire Başkanı Faruk Kurutuz ,Esenboğa Havalimanı'ndaki yangının büyük ihtimalle terminaldeki kafeteryadan başladığını ,daha sonra çatıya sıçradığını bildirdi .</sentence>
+<sentence num="2">Kurutuz ,gazetecilere yaptığı açıklamada ,yangının söndürüldüğünü ancak soğutma çalışmalarının devam ettiğini belirtti .</sentence>
+<sentence num="3">Yangın nedeniyle ölen ya da yaralanan olmadığını kaydeden Kurutuz ,''büyük ihtimalle kafeteryadan başlayan yangın daha sonra çatıya sıçradı ''dedi .</sentence>
+<sentence num="4">Faruk Kurutuz ,yangının ilk kesin çıkış nedeninin gündüz saatlerinde yapılacak incelemeden sonra belirleneceğini ifade etti .</sentence>
+<sentence num="5">Kurutuz ,yangına 34 itfaiye aracı ve 57 personelle müdahale ettiklerini açıkladı .</sentence>
+<sentence num="6">İtfaiye personelinin ''hayati tehlike ''altında yangına müdahalede bulunduğunu kaydeden Kurutuz ,yetkililerden itfaiyecilere de yıpranma hakkı (itibari hizmet süresi )tanınmasını istediklerini söyledi .</sentence>
+<sentence num="7">Öte yandan Havalimanı'na bir yolcu uçağı indi .</sentence>
+<sentence num="8">Devlet Hava Meydanları İşletmesi yetkilileri ,yolcuların işlemlerinin yapıldığını ifade ettiler .</sentence>
+</doc>
+<doc>
+<id>181863</id>
+<sentence num="0">2005 11 14 05 :23 :00 .Havalimanında yangın paniği !</sentence>
+<sentence num="1">Ankara Esenboğa Havalimanı B Terminali'nin saat 23 :45 sıralarında kafeterya kısmında yangın çıktı .</sentence>
+<sentence num="2">Kafeteryada başlayan yangın kısa sürede büyüyerek binanın çatısını tutuşturdu .</sentence>
+<sentence num="3">Giderek büyüyen alevler çatı kısmının tamamını sardı .</sentence>
+<sentence num="4">Havalimanı yetkilileri yangın yerine itfaiye ekiplerini çağırdı .</sentence>
+<sentence num="5">Hızlı bir şekilde olay yerine gelen itfaiye ekipleri ,yetersiz kalınca takviye ekipler talep etti .</sentence>
+<sentence num="6">Olay yerine sevk edilen çok sayıda itfaiye ekibi yangına müdahale etti .</sentence>
+<sentence num="7">O sırada başlayan sağanak yağış da itfaiyecilerin yardımına yetişti .</sentence>
+<sentence num="8">Yaklaşık 2 saat 45 dakika süren çalışmanın ardından yangın kontrol altına alınarak söndürüldü .</sentence>
+<sentence num="9">Yangının söndürülmesinin ardından itfaiye ekipleri soğutma çalışması yaptı .</sentence>
+<sentence num="10">Yangın sonrası terminal kullanılamaz hale gelirken olayda ölen ya da yaralanan olmadı .</sentence>
+<sentence num="11">Öte yandan ,yangından dolayı Esenboğa Havalimanı'na iniş yapacak uçaklar rötarlı bir şekilde inişlerini gerçekleştirdi .</sentence>
+<sentence num="12">İniş yapan uçakların yolcuları ,havalimanının kargo bölümünden çıkış yapmak zorunda kaldı .</sentence>
+<sentence num="13">Polis ,yangınla ilgili geniş çaplı soruşturma başlattı .</sentence>
+<sentence num="14">cihan .</sentence>
+</doc>
+<doc>
+<id>181905</id>
+<sentence num="0">2005 11 14 08 :42 :00 .Esenboğa'daki yangın söndürüldü .</sentence>
+<sentence num="1">Yangının ardından terminal kullanılamaz hale geldi İlgili Galeri Foto Galeri için tıklayınız Ankara Esenboğa Havalimanı iç hatlar terminalinde geceyarısı yangın çıktı .</sentence>
+<sentence num="2">Terminal yangın sonrası kullanılamaz hale geldi .</sentence>
+<sentence num="3">İç hatlar terminalinde geceyarısı mutfakta başlayan yangın ,kısa sürede büyüyerek bütün terminali kapladı .</sentence>
+<sentence num="4">Yangın Esenboğa'daki itfaiye ile şehir merkezinden ve Çubuk İtfaiyesi'nden gelen destek ekiplerin çalışmaları sonucu kontrol altına alındı .</sentence>
+<sentence num="5">Yangında en fazla hasar terminalin çatısında meydana geldi .</sentence>
+<sentence num="6">Yangında elektronik sistemlerin bazıları hasar gördüğü için bilet kontrol ve biniş işlemleri manuel olarak yapılıyor .</sentence>
+<sentence num="7">Devlet Hava Meydanları İşletmesi Genel Müdürü Mahmut Tekin ,iç hat yolcularının geçişlerinin vip ve kargo terminallerinden sağlandığını söyledi .</sentence>
+<sentence num="8">Ankara Büyükşehir Belediyesi İtfaiye Daire Başkanı Faruk Kurutuz ,yangının çıkış sebebinin bugün yapılacak araştırmadan sonra belli olacağını açıkladı .</sentence>
+<sentence num="9">Ulaştırma Bakanı Binali Yıldırım da havalimanında incelemeler yaptı .</sentence>
+<sentence num="10">THY'den yolculara uyarı Ankara Esenboğa Havalimanı'nda çıkan yangın nedeniyle kullanılamaz hale gelen iç hatlar terminalde ise aksaklıkların olmaması için tedbirler alındı .</sentence>
+<sentence num="11">Türk Hava Yolları'ndan yapılan açıklamada ,yolcuların bilet işlemlerini alana gelmeden halletmeleri isteniyor .</sentence>
+<sentence num="12">Yangın nedeniyle Esenboğa Havalimanındaki tüm elektronik sistemler devre dışı kaldı ve B terminali yerine yolculara A terminalinde hizmet veriliyor .</sentence>
+<sentence num="13">Esenboğa Havalimanı'nı kullanacak yolcuların sıkıntı yaşamaları için kriz masası oluşturuldu .</sentence>
+<sentence num="14">Yolcuların ,bilet işlemlerini alana gelmeden satış ofislerinden tamamlamaları ve 40 dakika yerine uçuş hareket saatinden bir buçuk saat önce alana gelmeleri isteniyor .</sentence>
+<sentence num="15">Uçuşlarda bir sorun yok Ankara Vali Yardımcısı Hayati Soylu ise ,Esebenboğa Havalimanı B terminalinde dün gece çıkan yangın sonrasında iç ve dış hat uçuşlarında herhangi bir sorun yaşanmadığını bildirdi .</sentence>
+<sentence num="16">Hayati Soylu ,yangının B Terminali'nde bulunan bir restorantın mutfak bölümünde firitöz cihazının içinde kalan sıcak yağın ateşle teması sonucunda meydana geldiğini ve daha sonra çatıya sıçradığını söyledi .</sentence>
+<sentence num="17">Soylu ,yangının söndürülmesi için yoğun çaba sarfedildi .</sentence>
+<sentence num="18">Eğer yangın A terminaline sıçramış olsaydı ,Ankara Esebenoğa Havalimanı diye bir şey kalmazdı dedi .</sentence>
+<sentence num="19">Yangın söndürmede itfaye ekipleri ve görevlilerinin olağanüstü bir çalışma ortaya koyduğunu da vurgulayan Soylu ,can kaybının olmamasınınsevindirici olduğunu söyledi .</sentence>
+<sentence num="20">Soylu ,''yangının bir kasıt sonucu çıktığına ihtimal vermiyorum .</sentence>
+<sentence num="21">İhmal olabilir .</sentence>
+<sentence num="22">Çubuk Cumhuriyet Savcısı çalışmalarını sürdürüyor .</sentence>
+<sentence num="23">Sonuç ondan sonra ortaya çıkacak .</sentence>
+<sentence num="24">Tespitler yapıldıktan sonra gerçek ortaya çıkacaktır ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>181939</id>
+<sentence num="0">2005 11 14 09 :32 :00 .Esenboğa'daki Yangın Söndürüldü .</sentence>
+<sentence num="1">Ankara Esenboğa Havalimanı'nda yangın çıktı .</sentence>
+<sentence num="2">İtfaiye ekiplerinin müdahalesiyle söndürülen yangında ,İç Hatlar Terminali kullanılamaz hale geldi .</sentence>
+<sentence num="3">Havalimanında iç hat uçuşları diğer terminallerden gerçekleştiriliyor .</sentence>
+<sentence num="4">Saat 23 :50 sıralarında İç Hatlar Terminali'ndeki USAŞ Kafeteryası'nda başlayan yangın ,daha sonra bütün terminali kapladı .</sentence>
+<sentence num="5">İtfaiye ekiplerinin yoğun çalışmasıyla kontrol altına alınan yangın sonucu İç Hatlar Terminali kullanılamaz hale geldi .</sentence>
+<sentence num="6">Ulaştırma Bakanı Binali Yıldırım ,yangının ardından Esenboğa Havalimanı'na gelerek yetkililerden bilgi aldı .</sentence>
+<sentence num="7">Yıldırım şunları söyledi :Aşağı yukarı gece yarısı iç hatlar giriş terminalindeki bir kafeteryada yangın başlamış ve derhal itfaiye araçları müdahale etmiş .</sentence>
+<sentence num="8">ancak büyümesi üzerine Büyükşehirden de ,civar bölgelerden de itfaiye araçları destek verdi .</sentence>
+<sentence num="9">Şu an itibariyle de iç hatlar gidiş terminali içerisinde kontrol altına alındı .</sentence>
+<sentence num="10">Diğer kısımlara sıçraması önlendi .</sentence>
+<sentence num="11">Binali Yıldırım ,havalimanında bugünkü uçuşların aksamaması için gerekli önlemlerin alındığını ve uçuşların diğer bölümler kullanılarak devam edeceğini kaydetti .</sentence>
+<sentence num="12">Öte yandan yangının ardından Ankara Vali Yardımcısı Hayati Soylu ile Ankara Emniyet Müdürü Ercüment Yılmaz da Havalimanı'na gelerek yetkililerden bilgi aldı .</sentence>
+<sentence num="13">Hayati Soylu TRT'ye yaptığı açıklamada ,yangının kafetaryanın mutfak kısmında fritözün ateş alması sonucu çıktığını tahmin ettiklerini söyledi .</sentence>
+<sentence num="14">Soylu şu açıklamalarda bulundu :Süratle bacaya sirayet etmiş bacanın tutuşmasıyla oradaki elektrik kabloları çok yoğun ,elektrik sistemi olduğu için süratle tüm bacaya ve itfaiyeinin bütün çabasına rağmen çatının tamamının yanması önlenememiştir .</sentence>
+<sentence num="15">İç Hatlar terminali kullanılmayacak durumda hasar görmüştür .</sentence>
+<sentence num="16">Hayati Soylu ,hasar tespit çalışmalarının ardından İç Hatlar Terminali'nin süratle yeniden hizmete sunulacağını kaydetti .</sentence>
+</doc>
+<doc>
+<id>182049</id>
+<sentence num="0">2005 11 14 11 :25 :00 .THY :Esenboğa'da hizmetlerin aksamaması için gerekli tedbirleri aldık .</sentence>
+<sentence num="1">Türk Hava Yolları (THY ),Ankara Esenboğa Havalimanı'nda çıkan yangın sonucunda kullanılamaz hale gelen 'B terminali yerine ,'A 'terminalinden hizmet verildiğini bildirdi .</sentence>
+<sentence num="2">THY'den yapılan açıklamada ,saat 00 .15'de Esenboğa Havalimanı'nda çıkan yangın sonucu kullanılamaz hale gelen İç Hatlar Terminali'nde yürütülen hizmetlerin aksamaması için gerekli tüm tedbirlerin alındığı bildirildi .</sentence>
+<sentence num="3">Esenboğa Havalimanı'nı kullanacak yolcuların mağdur olmamaları için THY ,DHMİ ,emniyet ve mülki idare amirliği ekiplerince kriz masası oluşturulduğu belirtilen açıklamada ,şöyle denildi :THY ,yürütülen hizmetlerin aksamaması için gerekli tüm tedbirleri almıştır .</sentence>
+<sentence num="4">İlgili ekiplerini Ankara Esenboğa Havalimanı'na yönlendiren THY ,yaşanan sıkıntıların giderilmesi için çalışmalarını sürdürmektedir .</sentence>
+<sentence num="5">Yangın sonucu kullanılamaz hale gelen ve tüm elektronik sistemleri devre dışı kalan 'B 'terminali yerine ,'A 'terminalinden hizmet vermeye devam etmektedir .</sentence>
+<sentence num="6">Esenboğa Havalimanı'nı kullanacak yolcularımızın bilet işlemlerini ,alana gelmeden önce şehir satış ofislerimizden tamamlamaları ve uçuş hareket saatinden 1 .5 saat önce alana gelmeleri gerekmektedir ..</sentence>
+</doc>
+<doc>
+<id>182106</id>
+<sentence num="0">2005 11 14 12 :30 :00 .Vali Yardımcısı :Eğer yangın A terminaline sıçrasaydı Esenboğa kalmazdı .</sentence>
+<sentence num="1">Ankara Vali Yardımcısı Hayati Soylu ,Esebenboğa Havalimanı B Terminali'nde dün gece çıkan yangın sonrasında iç ve dış hat uçuşlarında herhangi bir sorun yaşanmadığını bildirdi .</sentence>
+<sentence num="2">Soylu ,Esenboğa Havalimanı'nda düzenlediği basın toplantısında ,yangınla ilgili bilgi verdi .</sentence>
+<sentence num="3">Hayati Soylu ,yangının B Terminali'nde bulunan bir restorantın mutfak bölümünde firitöz cihazının içinde kalan sıcak yağın ateşle teması sonucunda meydana geldiğini ve daha sonra çatıya sıçradığını söyledi .</sentence>
+<sentence num="4">Soylu ,Yangının ilk etapta emniyet görevlileri ,Türk Hava Yolları ve DHMİ personeli ile vatandaşlar tarafından söndürülmeye çalışıldığını ,yangının büyümesi üzerine Esenboğa Havalimanı itfaiye ekiplerinin müdahale ettiğini anlattı .</sentence>
+<sentence num="5">Soylu ,şunları kaydetti :B Terminali'nde başlayan yangının A Terminali'ne sıçramaması için Esenboğa Havalimanı'ndaki itfaiye ekipleri yoğun çaba sarfetti .</sentence>
+<sentence num="6">Eğer yangın A Terminali'ne sıçramış olsaydı ,Ankara Esebenoğa Havalimanı diye bir şey kalmazdı .</sentence>
+<sentence num="7">Gecenin ilerleyen saatlerinde Ankara Büyükşehir belediyesi itfaiye ekiplerinin de müdahalesiyle yangın bir felakete dönüşmeden söndürüldü .</sentence>
+<sentence num="8">Can kaybının olmaması sevindirici .</sentence>
+<sentence num="9">Esenboğa Havalimanı'ndaki iç ve dış hat uçuşlarında herhangi bir sorun yok .</sentence>
+<sentence num="10">Soylu ,yangınla ilgili Kriz Masası oluşturduklarını belirterek ,hasar tespit çalışmalarının DHMİ tarafından yapılacağını söyledi .</sentence>
+<sentence num="11">Hayati Soylu ,Ne yapılacağı keşif sonrasında ortaya çıkacaktır .</sentence>
+<sentence num="12">Şu anda daha önce dış hatlar olarak kullandığımız A Terminali'ni iç ve dış hatlar olarak düzenledik .</sentence>
+<sentence num="13">İç hat yolcularımız rahatlıkla burayı kullanabilecekler diye konuştu .</sentence>
+<sentence num="14">Vali Yardımcısı Soylu ,3 Aralık'ta başlayacak Hac dönemini de sorunsuz atlatmak için çalışmaların devam ettiğini belirterek ,Hacı adaylarımızdan isteğimiz ,Esenboğa Havalimanı'na yoğunluk oluşturacak hareketlerden kaçınmaları dedi .</sentence>
+<sentence num="15">Yangın söndürmede itfaye ekipleri ve görevlilerinin olağanüstü bir çalışma ortaya koyduğunu da vurgulayan Soylu ,can kaybının olmamasının sevindirici olduğunu söyledi .</sentence>
+<sentence num="16">Soylu ,gazetecilerin yangında ihmali olanlar hakkında soruşturma açılıp açılmadığı konusundaki bir soru üzerine de ,Yangının bir kasıt sonucu çıktığına ihtimal vermiyorum .</sentence>
+<sentence num="17">İhmal olabilir .</sentence>
+<sentence num="18">Çubuk Cumhuriyet Savcısı çalışmalarını sürdürüyor .</sentence>
+<sentence num="19">Sonuç ondan sonra ortaya çıkacak .</sentence>
+<sentence num="20">Tespitler yapıldıktan sonra gerçek ortaya çıkacaktır cevabını verdi .</sentence>
+<sentence num="21">Devlet Hava Meydanları İşletmesi Genel Müdürlüğü'nden yapılan yazılı açıklamada da yangında ,İç Hatlar Terminali'nin tamamen kullanılamaz hale geldiği ,ancak seferlerin aksamaması için her türlü tedbirin alındığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>182129</id>
+<sentence num="0">2005 11 14 12 :57 :00 .Soylu :İç ve dış hat uçuşlarında sorun yok .</sentence>
+<sentence num="1">Soylu :İç ve dış hat uçuşlarında sorun yok Ankara Vali Yardımcısı Hayati Soylu ,Esebenboğa Havalimanı B Terminali'nde dün gece çıkan yangın sonrasında iç ve dış hat uçuşlarında herhangi bir sorun yaşanmadığını bildirdi .</sentence>
+</doc>
+<doc>
+<id>182153</id>
+<sentence num="0">2005 11 14 13 :23 :00 .Vali Soylu :Esebenoğa yok olabilirdi .</sentence>
+<sentence num="1">Ankara Vali Yardımcısı Hayati Soylu ,Esebenboğa Havalimanı B Terminali'nde dün gece çıkan yangın sonrasında iç ve dış hat uçuşlarında herhangi bir sorun yaşanmadığını bildirdi .</sentence>
+<sentence num="2">Soylu ,Esenboğa Havalimanı'nda düzenlediği basın toplantısında ,yangınla ilgili bilgi verdi .</sentence>
+<sentence num="3">Hayati Soylu ,yangının B Terminali'nde bulunan bir restorantın mutfak bölümünde firitöz cihazının içinde kalan sıcak yağın ateşle teması sonucunda meydana geldiğini ve daha sonra çatıya sıçradığını söyledi .</sentence>
+<sentence num="4">Soylu ,Yangının ilk etapta emniyet görevlileri ,Türk Hava Yolları ve DHMİ personeli ile vatandaşlar tarafından söndürülmeye çalışıldığını ,yangının büyümesi üzerine Esenboğa Havalimanı itfaiye ekiplerinin müdahale ettiğini anlattı .</sentence>
+<sentence num="5">Soylu ,şunları kaydetti :B Terminali'nde başlayan yangının A Terminali'ne sıçramaması için Esenboğa Havalimanı'ndaki itfaiye ekipleri yoğun çaba sarfetti .</sentence>
+<sentence num="6">Eğer yangın A Terminali'ne sıçramış olsaydı ,Ankara Esebenoğa Havalimanı diye bir şey kalmazdı .</sentence>
+<sentence num="7">Gecenin ilerleyen saatlerinde Ankara Büyükşehir belediyesi itfaiye ekiplerinin de müdahalesiyle yangın bir felakete dönüşmeden söndürüldü .</sentence>
+<sentence num="8">Can kaybının olmaması sevindirici .</sentence>
+<sentence num="9">Esenboğa Havalimanı'ndaki iç ve dış hat uçuşlarında herhangi bir sorun yok .</sentence>
+<sentence num="10">Soylu ,yangınla ilgili Kriz Masası oluşturduklarını belirterek ,hasar tespit çalışmalarının DHMİ tarafından yapılacağını söyledi .</sentence>
+<sentence num="11">Hayati Soylu ,Ne yapılacağı keşif sonrasında ortaya çıkacaktır .</sentence>
+<sentence num="12">Şu anda daha önce dış hatlar olarak kullandığımız A Terminali'ni iç ve dış hatlar olarak düzenledik .</sentence>
+<sentence num="13">İç hat yolcularımız rahatlıkla burayı kullanabilecekler diye konuştu .</sentence>
+<sentence num="14">Vali Yardımcısı Soylu ,3 Aralık'ta başlayacak Hac dönemini de sorunsuz atlatmak için çalışmaların devam ettiğini belirterek ,Hacı adaylarımızdan isteğimiz ,Esenboğa Havalimanı'na yoğunluk oluşturacak hareketlerden kaçınmaları dedi .</sentence>
+<sentence num="15">Yangın söndürmede itfaye ekipleri ve görevlilerinin olağanüstü bir çalışma ortaya koyduğunu da vurgulayan Soylu ,can kaybının olmamasının sevindirici olduğunu söyledi .</sentence>
+<sentence num="16">Soylu ,gazetecilerin yangında ihmali olanlar hakkında soruşturma açılıp açılmadığı konusundaki bir soru üzerine de ,Yangının bir kasıt sonucu çıktığına ihtimal vermiyorum .</sentence>
+<sentence num="17">İhmal olabilir .</sentence>
+<sentence num="18">Çubuk Cumhuriyet Savcısı çalışmalarını sürdürüyor .</sentence>
+<sentence num="19">Sonuç ondan sonra ortaya çıkacak .</sentence>
+<sentence num="20">Tespitler yapıldıktan sonra gerçek ortaya çıkacaktır cevabını verdi .</sentence>
+<sentence num="21">Devlet Hava Meydanları İşletmesi Genel Müdürlüğü'nden yapılan yazılı açıklamada da yangında ,İç Hatlar Terminali'nin tamamen kullanılamaz hale geldiği ,ancak seferlerin aksamaması için her türlü tedbirin alındığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>182272</id>
+<sentence num="0">2005 11 14 14 :59 :00 .Esenboğa Havalimanı'ndaki yangının nedeni belirlenemedi .</sentence>
+<sentence num="1">Esenboğa Havalimanı'ndaki yangının nedeni belirlenemedi Ankara Esenboğa Havaalanı'nda Usaş tarafından işletilen kafeteryaların mutfağında meydana gelen yangının nedeninin henüz belirlenemediği bildirildi .</sentence>
+<sentence num="2">Usaş Uçak Servisi A .Ş .'den Borsa'ya gönderilen açıklamada ,Ankara Esenboğa Havalimanı İç Hatlar B Terminali'nde ,şirket tarafından işletilen kafeteryaların mutfağında günlük operasyonun saat 21 .45'te tamamlandığı ,yangının kafeteryaların ve mutfağın kapalı olduğu saatlere denk gelen dün gece 23 .50'de çıktığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>182277</id>
+<sentence num="0">2005 11 14 15 :00 :00 .Esenboğa'daki yangının çıkış nedeni belirlenemedi .</sentence>
+<sentence num="1">Ankara Esenboğa Havaalanı'nda Usaş tarafından işletilen kafeteryaların mutfağında meydana gelen yangının nedeninin henüz belirlenemediği bildirildi .</sentence>
+<sentence num="2">Usaş Uçak Servisi A .Ş .'den Borsa'ya gönderilen açıklamada ,Ankara Esenboğa Havalimanı İç Hatlar B Terminali'nde ,şirket tarafından işletilen kafeteryaların mutfağında günlük operasyonun saat 21 .45'te tamamlandığı ,yangının kafeteryaların ve mutfağın kapalı olduğu saatlere denk gelen dün gece 23 .50'de çıktığı belirtildi .</sentence>
+<sentence num="3">Açıklamada ,yangının çıkma nedeninin henüz belirlenemediği kaydedilerek ,''Bu terminaldeki restoran ,kafeterya ve bar ünitelerimizdeki faaliyetler henüz tespit edilemeyen bir süre için durdurulmuştur .</sentence>
+<sentence num="4">Dış hatlar A terminalindeki ünitelerimiz ,iç ve dış hat olarak faaliyetlerine devam etmektedir ''denildi .</sentence>
+</doc>
+<doc>
+<id>186788</id>
+<sentence num="0">2005 11 22 13 :44 :00 .Yangında hasar gören Esenboğa Havalimanı'nın B Terminali yenilenecek .</sentence>
+<sentence num="1">Yangında hasar gören Esenboğa Havalimanı'nın B Terminali yenilenecek Esenboğa Havalimanı'nda çıkan yangın sonucunda kullanılamaz hale gelen iç hatlar B Terminali yenilenecek .</sentence>
+<sentence num="2">14 Kasım'da çıkan yangında kullanılamaz hale gelen B Terminali'nin bilirkişi ve hasar tespit çalışmaları tamamlandı .</sentence>
+<sentence num="3">Devlet Hava Meydanları İşletmeleri (DHMİ ),vatandaşların mağduriyetinin bir an önce giderilmesi için ,B Terminali'nin yenilenmesine karar verdi .</sentence>
+<sentence num="4">DHMİ Baş Müdürü Yılmaz Keleş ,havalimanını kullanan yolcuların mağdur olmaması için her türlü önlemi aldıklarını söyledi .</sentence>
+<sentence num="5">Yangında ,B Terminali gidiş yolcu kısmının büyük hasar gördüğünü anımsatan Keleş ,vatandaşların mağduriyetinin giderilmesi iç hatları ,dış hatlar yolcu kısmına açarak sorunu geçici olarak halletmeye çalıştıklarını söyledi .</sentence>
+<sentence num="6">Hac mevsiminin başlamasıyla yaşanabilecek yoğunluğu da dikkate aldıklarını vurgulayan Keleş ,DHMİ olarak buna çözüm bulmaya çalıştıklarını anlattı .</sentence>
+</doc>
+<doc>
+<id>189916</id>
+<sentence num="0">2005 11 28 12 :05 :00 .Esenboğa Havalimanı B Terminali 1 ay içinde hizmete açılacak .</sentence>
+<sentence num="1">Esenboğa Havalimanı B Terminali 1 ay içinde hizmete açılacak Esenboğa Havalimanı'nda çıkan yangın sonucunda kullanılamaz hale gelen iç hatlar B Terminalini yenileme çalışmalarına bugün başlandı .</sentence>
+<sentence num="2">14 Kasım'da çıkan yangında kullanılamaz hale gelen B Terminali'nin bilirkişi incelemesi ve hasar tespit çalışmalarının ardından ,ihaleyi alan TAV firması ,bugün yenileme inşaatına başladı .</sentence>
+<sentence num="3">Devlet Hava Meydanları İşletmeleri (DHMİ ),vatandaşların mağduriyetinin bir an önce giderilmesi için B Terminali'nin yenilenmesine karar vermişti .</sentence>
+<sentence num="4">DHMİ Baş Müdürü Yılmaz Keleş ,konuya ilişkin A .</sentence>
+<sentence num="5">A muhabirine yaptığı açıklamada ,vatandaşların mağdur olmamasının ,öncelikli hedefleri olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>200149</id>
+<sentence num="0">2005 12 15 15 :01 :00 .Esenboğa Havalimanı'nın B Terminali yenileme inşaatı tamamlandı .</sentence>
+<sentence num="1">Esenboğa Havalimanı'nın B Terminali yenileme inşaatı tamamlandı Esenboğa Havalimanı'nda çıkan yangın sonucunda kullanılamaz hale gelen iç hatlar B Terminalinde yenileme çalışmaları tamamlandı .</sentence>
+<sentence num="2">İç hat hizmetleri yarından itibaren yeniden B terminalinde yapılacak .</sentence>
+<sentence num="3">14 Kasım'da çıkan yangında kullanılamaz hale gelen B Terminali'nin bilirkişi incelemesi ve hasar tespit çalışmalarının ardından ihaleyi alan TAV firması ,1 Aralık'ta yenileme inşaatına başlamıştı .</sentence>
+<sentence num="4">Devlet Hava Meydanları İşletmeleri (DHMİ ),vatandaşların mağduriyetinin bir an önce giderilmesi için B Terminali'nin yenilenmesine karar vermiş ,yenileme çalışmalarını yürüten TAV firmasına da 1 ay süre tanımıştı .</sentence>
+<sentence num="5">TAV da inşaatın bir an önce bitirilmesi için 1 Aralık'ta çalışmalara başlamıştı .</sentence>
+<sentence num="6">Yangın sonrasında yenilenen B terminali ,yarın düzenlenecek törenle yeniden hizmete girecek .</sentence>
+<sentence num="7">TAV Proje Müdürü Nuray Demirer ,inşaatın hedeflenen tarihten önce aslına uygun olarak yenilendiğini söyledi .</sentence>
+</doc>
+<doc>
+<id>200794</id>
+<sentence num="0">2005 12 16 13 :51 :00 .Esenboğa Havalimanı İç Hatlar Terminali yeniden açılıyor .</sentence>
+<sentence num="1">Esenboğa Havalimanı İç Hatlar Terminali yeniden açılıyor Esenboğa Havalimanı'nda çıkan yangın nedeniyle kullanılamaz hale gelen İç Hatlar Terminali ,onarım çalışmalarının tamamlanmasının ardından 18 Aralık Pazar günü yeniden hizmete açılıyor .</sentence>
+<sentence num="2">Devlet Hava Meydanları İşletmesi Genel Müdürlüğü'nden verilen bilgiye göre ,13 Kasım 2005 tarihinde İç Hatlar Giden Yolcu Terminali'nde çıkan yangının ardından kullanılamaz hale gelen terminal binasında ,onarım ve çatı yapım çalışmaları kısa sürede tamamlandı .</sentence>
+<sentence num="3">Onarım çalışmalarının tamamlanmasıyla İç Hatlar Terminali ,18 Aralık Pazar günü saat 00 .00'da yeniden hizmete açılacak .</sentence>
+</doc>
+<doc>
+<id>201987</id>
+<sentence num="0">2005 12 19 00 :02 :00 .Esenboğa Havalimanı iç hatlar terminali yeniden hizmete açıldı .</sentence>
+<sentence num="1">Esenboğa Havalimanı iç hatlar terminali yeniden hizmete açıldı Esenboğa Havalimanı'nda çıkan yangın nedeniyle kullanılamaz hale gelen İç Hatlar Terminali ,bu gece yeniden hizmete girdi .</sentence>
+<sentence num="2">Esenboğa Havalimanı'nda ,13 Kasım 2005 tarihinde meydana gelen yangında İç Hatlar Giden Yolcu Terminali kullanılamaz hale gelmişti .</sentence>
+<sentence num="3">İç Hatlar Terminali ,onarım çalışmalarının tamamlanmasının ardından bu gece yeniden hizmete açıldı .</sentence>
+</doc>
+<doc>
+<id>201989</id>
+<sentence num="0">2005 12 19 00 :05 :00 .Esenboğa'da İç Hatlar Devrede .</sentence>
+<sentence num="1">Bir süre önce çıkan yangında kullanılmaz hale gelen Ankara Esenboğa Havalimanı İç Hatlar Terminali yeniden hizmet vermeye başladı .</sentence>
+<sentence num="2">Kısa zamanda onarılan iç hatlar terminali devreye sokuldu .</sentence>
+<sentence num="3">Esenboğa iç hatlar terminali 13 Kasım'da çıkan yangında kullanılmaz hale gelmişti .</sentence>
+<sentence num="4">Bu süre içinde yolculara dış hatlar terminalinde hizmet veriliyordu .</sentence>
+</doc>
+<doc>
+<id>201997</id>
+<sentence num="0">2005 12 19 02 :00 :00 .</sentence>
+<sentence num="1">Esenboğa Havalimanı iç hatlar terminali yeniden hizmete açıldı .</sentence>
+<sentence num="2">Esenboğa Havalimanı'nda çıkan yangın nedeniyle kullanılamaz hale gelen İç Hatlar Terminali ,bu gece yeniden hizmete girdi .</sentence>
+<sentence num="3">Esenboğa Havalimanı'nda ,13 Kasım 2005 tarihinde meydana gelen yangında İç Hatlar Giden Yolcu Terminali kullanılamaz hale gelmişti .</sentence>
+<sentence num="4">İç Hatlar Terminali ,onarım çalışmalarının tamamlanmasının ardından bu gece yeniden hizmete açıldı .</sentence>
+</doc>

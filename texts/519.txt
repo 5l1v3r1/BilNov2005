@@ -1,0 +1,302 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 04 25 06 :43 :00 .japonya'da tren kazası ..</sentence>
+<sentence num="1">japonya'da meydana gelen tren kazasında 37 kişi öldü ,en az 200 kişi yaralandı .</sentence>
+<sentence num="2">kyodo haber ajansı ,kazanın ,osaka kenti yakınlarındaki bir kavşak noktasında 7 vagonluk trenin bir arabaya çarparak raydan çıkması sonucu meydana geldiğini duyurdu .</sentence>
+<sentence num="3">televizyon görüntülerinde trenin daha sonra bir apartmana çarptığı ,birinci vagonunun ezildiği ,ikinci ve üçüncü vagonların ise raydan çıktığı görüldü .</sentence>
+<sentence num="4">ölenlerden ne kadarının binadakiler ,ne kadarının trendekiler olduğu konusunda henüz sağlıklı bilgi yok .</sentence>
+<sentence num="5">yolcuların bir kısmının vagonların arasında mahsur kaldığı ve kurtarma çalışmalarının sürdüğü kaydedildi .</sentence>
+</doc>
+<doc>
+<id>68106</id>
+<sentence num="0">2005 04 25 07 :00 :00 .Japonya'da tren kazası :54 ölü ,417 yaralı .</sentence>
+<sentence num="1">Japonya'nın batısında Osaka kenti yakınlarında meydana gelen tren kazasında ölü sayısının 54 ,yaralı sayısının 417 olduğu bildirildi .</sentence>
+<sentence num="2">580 yolcu taşıyan 7 vagonlu tren önce bir araca çarparak raydan çıktı ,ardından 9 katlı bir apartmana çarptı .</sentence>
+<sentence num="3">Yetkililer ,23 yaşındaki acemi makinistin hatası veya aşırı hız üzerinde durulduğunu söyledi .</sentence>
+<sentence num="4">Makinistin yavaş kaldığı için bir istasyonda durmadığı ve geri dönerek yolcuları bıraktığı ,sonradan hızlanmak zorunda kaldığı kaydedildi .</sentence>
+<sentence num="5">Enkaz altında sıkışmış 4 yaralıya kazadan 12 saat sonra yalnız su verilebildi .?</sentence>
+<sentence num="6">1900'den bu yana en büyük tren kazaları Kyodo haber ajansı ,kazanın ,Osaka kentinin yakınında bir kavşak noktasında Batı Japonya Trenyolu şirketine ait 7 vagonluk bir trenin bir arabaya çarparak raydan çıkması üzerine meydana geldiğini duyurdu .</sentence>
+<sentence num="7">Yolcuların vagonların arasında mahsur kaldığının belirtildiği haberde ,kurtarma çalışmalarının sürdüğü kaydedildi .</sentence>
+<sentence num="8">Televizyon görüntülerinde bir apartman binasına çarpan trenin birinci vagonunun ezildiği ,ikinci ve üçüncü vagonların ise raydan çıktığı görüldü .</sentence>
+<sentence num="9">580 yolcu taşıyan 7 vagonlu tren önce bir araca çarptıktan sonra raydan çıktı ve 9 katlı bir apartmana girdi .</sentence>
+<sentence num="10">Kazanın olduğu Amagasaki kenti ,başkent Tokyo'nun 410 km batısında .?</sentence>
+<sentence num="11">Taliban ,belediye başkanının bürosuna saldırdı :6 ölü ?</sentence>
+<sentence num="12">Pavloviç ,Lahey'e teslim olmaya gitti ...?</sentence>
+<sentence num="13">Evsizler ,bir binayı işgal etti ?</sentence>
+<sentence num="14">Venezüella ,ABD ile askeri işbirliğine son verdi .</sentence>
+</doc>
+<doc>
+<id>68107</id>
+<sentence num="0">2005 04 25 07 :00 :00 .Japonya'da tren kazası :37 ölü ,200 yaralı .</sentence>
+<sentence num="1">Japonya'da tren kazası :37 ölü ,200 yaralı Japonya'nın batısında bir trenin kavşak noktasında raydan çıkarak bir apartman binasına çarpması sonucu 37 kişinin öldüğü ,en az 200 kişinin yaralandığı bildirildi .</sentence>
+<sentence num="2">Kyodo haber ajansı ,kazanın ,Osaka kentinin yakınında bir kavşak noktasında Batı Japonya Trenyolu şirketine ait 7 vagonluk bir trenin bir arabaya çarparak raydan çıkması üzerine meydana geldiğini duyurdu .</sentence>
+<sentence num="3">Yolcuların vagonların arasında mahsur kaldığının belirtildiği haberde ,kurtarma çalışmalarının sürdüğü kaydedildi .</sentence>
+<sentence num="4">Televizyon görüntülerinde bir apartman binasına çarpan trenin birinci vagonunun ezildiği ,ikinci ve üçüncü vagonların ise raydan çıktığı görüldü .</sentence>
+</doc>
+<doc>
+<id>68123</id>
+<sentence num="0">2005 04 25 08 :28 :00 .Tren apartmana girdi :37 ölü .</sentence>
+<sentence num="1">Japonya'nın batısında bir trenin kavşak noktasında raydan çıkarak bir apartman binasına çarpması sonucu 37 kişinin öldüğü ,en az 200 kişinin yaralandığı bildirildi .</sentence>
+<sentence num="2">Kyodo haber ajansı ,kazanın ,Osaka kentinin yakınında bir kavşak noktasında Batı Japonya Trenyolu şirketine ait 7 vagonluk bir trenin bir arabaya çarparak raydan çıkması üzerine meydana geldiğini duyurdu .</sentence>
+<sentence num="3">Yolcuların vagonların arasında mahsur kaldığının belirtildiği haberde ,kurtarma çalışmalarının sürdüğü kaydedildi .</sentence>
+<sentence num="4">Televizyon görüntülerinde bir apartman binasına çarpan trenin birinci vagonunun ezildiği ,ikinci ve üçüncü vagonların ise raydan çıktığı görüldü .</sentence>
+<sentence num="5">AA .</sentence>
+</doc>
+<doc>
+<id>68173</id>
+<sentence num="0">2005 04 25 09 :47 :00 .Japonya'daki tren kazasında ölenlerin sayısı 49'a çıktı .</sentence>
+<sentence num="1">Japonya'daki tren kazasında ölenlerin sayısı 49'a çıktı Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında en az 49 kişinin öldüğü bildirildi .</sentence>
+<sentence num="2">Yetkililer ,340 kişinin de yaralandığı kazaya ,makinist hatasının veya aşırı hızın yol açma olasılığı üzerinde durulduğunu söylediler .</sentence>
+<sentence num="3">Makinistin ,kazadan önce bir istasyondan durmadan geçtiğini belirten yetkililer ,enkaz altında sıkışmış kazazedeler bulunduğunu kaydettiler .</sentence>
+</doc>
+<doc>
+<id>68214</id>
+<sentence num="0">2005 04 25 10 :34 :00 .Japonya'da Tren Kazası :49 Ölü .</sentence>
+<sentence num="1">Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında en az 49 kişinin öldüğü ,340 kişinin de yaralandığı bildirildi .</sentence>
+<sentence num="2">Kyodo haber ajansı ,kazanın ,Osaka kenti yakınında bir kavşak noktasında 7 vagonluk bir trenin raydan çıkması üzerine meydana geldiğini duyurdu .</sentence>
+<sentence num="3">Yetkililer de ,kazaya ,trenin bir otomobile çarpmasının yanısıra ,makinist hatasının veya aşırı hızın yolaçmış olabileceğini belirtti .</sentence>
+<sentence num="4">Televizyon görüntülerinde 9 katlı bir apartmana çarpan trenin birinci vagonunun ezildiği ,ikinci ve üçüncü vagonların ise raydan çıktığı görüldü .</sentence>
+<sentence num="5">Ölen kişilerin ne kadarının binadakiler ,ne kadarının trendekiler olduğu konusunda henüz sağlıklı bilgi edinilemedi .</sentence>
+<sentence num="6">Kazada bazı yolcular vagonlar arasında mahsur kalırken ,kurtarma çalışmaları sürdürülüyor .</sentence>
+</doc>
+<doc>
+<id>68232</id>
+<sentence num="0">2005 04 25 10 :50 :00 .Japonya'da 40 yılın en büyük kazası .</sentence>
+<sentence num="1">Kazada ,ilk anda 37 olarak açıklanan ölü sayısı daha sonra arttı .</sentence>
+<sentence num="2">Yetkililere göre ,kazada hayatını kaybedenlerin sayısı 49'a yükselirken ,yaralananların sayısı da 220'nin üzerinde .</sentence>
+<sentence num="3">Başkent Tokyo'nun yaklaşık 400 kilometre uzağında meydana gelen kaza sonucu trenin üç vagonu yoldan çıkarken ,bu vagonlardan biri ,bir apartmana çarptı .</sentence>
+<sentence num="4">Trende ,okullarına giden öğrencilerin de bulunduğu belirtildi .</sentence>
+<sentence num="5">Halen yüzlerce kurtarma görevlisi ,olayın meydana geldiği Amagasaki kasabasında bulunuyor .</sentence>
+<sentence num="6">Yaralılarsa ,sedyeler üzerinde feribotlarla taşınıyor .</sentence>
+<sentence num="7">Bazı yolcuların tren içinde mahsur kaldıkları bildiriliyor .</sentence>
+<sentence num="8">Yolcular kaza sonrası ,trenin çok hızlı hareket ettiğini ve yoldan çıkmadan hemen önce sarsılmaya başladığını söylüyor .</sentence>
+<sentence num="9">Trende ,yaklaşık 600 yolcu olduğu sanılıyor .</sentence>
+<sentence num="10">Trenin 23 yaşındaki makinistinin yaklaşık bir yıl önde göreve başladığı açıklandı .</sentence>
+<sentence num="11">Bir görgü tanığı ,trenin bir istasyonu atladığını ve daha sonra geri dönmek zorunda kaldığını ve ortaya çıkan gecikmeyi kapatmak için de ,acele ettiğini savundu .</sentence>
+<sentence num="12">Japon hükümetinden bir yetkili ise ,''Çok çeşitli senaryolar var ,ama biz şu anda kazanın nedenini tam olarak bilmiyoruz ''dedi .</sentence>
+<sentence num="13">BBC muhabiri Jonathan Head ,Japonya'daki demiryolu sisteminin ,dünyanın en güvenlileri arasında gösterildiğini ve bu ülkede her gün yaklaşık 60 milyon kişinin demiryolunu kullandığını söylüyor .</sentence>
+<sentence num="14">Olaysa ,ülkede 40 yıldan bu yana meydana gelen en büyük tren kazası .</sentence>
+<sentence num="15">Son olarak 1991'de Shigaraki kentinde meydana gelen kazada ,42 kişi ölmüş ,600'den fazla kişi de yaralanmıştı .(</sentence>
+<sentence num="16">bbc ).</sentence>
+</doc>
+<doc>
+<id>68543</id>
+<sentence num="0">2005 04 25 16 :08 :00 .Japonya'da Tren Kazası :57 Ölü .</sentence>
+<sentence num="1">Japonya'nın batısında bir trenin raydan çıkarak dokuz katlı bir binaya çarpması sonucu meydana gelen kazada ölenlerin sayısı 57'ye yükseldi .</sentence>
+<sentence num="2">440'dan fazla kişinin de yaralandığı kaza ,ülkede son 40 yıl içinde meydana gelen en ağır bilançolu tren kazası ..</sentence>
+<sentence num="3">Kazanın nedenini araştıran yetkililer ,aşırı hız ya da makinist hatası olması olasılığı üzerinde duruyor .</sentence>
+<sentence num="4">580 yolcu taşıyan trenin ,9 katlı bir apartmana çarptıktan sonra birinci vagonu ezildi ,ikinci ve üçüncü vagonları ise raydan çıktı .</sentence>
+<sentence num="5">Ölenlerden kaçının binadakiler ,kaçının trendekiler olduğu konusunda henüz sağlıklı bilgi edinilemedi .</sentence>
+</doc>
+<doc>
+<id>68642</id>
+<sentence num="0">2005 04 25 18 :42 :00 .Japonya'da tren kazası :54 ölü ,417 yaralı .</sentence>
+<sentence num="1">Japonya'da tren kazası :54 ölü ,417 yaralı Japonya'nın batısında Osaka kenti yakınlarında meydana gelen tren kazasında ölü sayısının 54 ,yaralı sayısının 417 olduğu bildirildi .</sentence>
+<sentence num="2">Yetkililer ,23 yaşındaki ''acemi ''makinistin hatası veya aşırı hız üzerinde durulduğunu söyledi .</sentence>
+<sentence num="3">Makinistin ''yavaş kaldığı için ''bir istasyonda durmadığı ve geri dönerek yolcuları bıraktığı ,sonradan hızlanmak zorunda kaldığı kaydedildi .</sentence>
+<sentence num="4">Enkaz altında sıkışmış 4 yaralıya kazadan 12 saat sonra yalnız su verilebildi .</sentence>
+</doc>
+<doc>
+<id>68784</id>
+<sentence num="0">2005 04 26 04 :25 :00 .Japonya'da tren faciası :73 ölü .</sentence>
+<sentence num="1">Binaya çarpan tren onlarca kişinin ölmesine neden oldu İlgili Galeri Foto Galeri için tıklayınız Japonya'da dün bir banliyö treninin raydan çıkarak apartmana çarpması sonucu meydana gelen kazada ölenlerin sayısı 73'e yükseldi .</sentence>
+<sentence num="2">Kazada 400'ü aşkın da yaralı var .</sentence>
+<sentence num="3">Japon hükümeti kaza sonrasında kriz masası oluşturdu .</sentence>
+<sentence num="4">Yetkililer ölü sayısının artabileceğinden endişe ediyor .</sentence>
+<sentence num="5">Tren kazası ,Osaka kentinin yakınında bir kavşak noktasında Batı Japonya Trenyolu şirketine ait yedi vagonluk bir trenin bir arabaya çarparak raydan çıkması üzerine meydana geldiği sanılıyor .</sentence>
+<sentence num="6">Bazı yolcular vagonlar arasında mahsur kalırken ,kurtarma çalışmaları devam ediyor .</sentence>
+<sentence num="7">Bir polis sözcüsü şimdiye kadar 300'den fazla yaralının hastaneye kaldırıldığını açıkladı .</sentence>
+<sentence num="8">Yetkili ,yaralılar arasında apartmanda yaşayanların olup olmadığını bilmediğini de söyledi .</sentence>
+<sentence num="9">Makinist ağır yaralı Bir demiryolları yetkilisi makinistin ağır yaralı olduğunu belirtti .</sentence>
+<sentence num="10">Yetkili makinistin bir yıldan az tecrübeye sahip olduğunu ,ancak yanında bulunan diğer makinistin 15 yıldan fazla tecrübeye sahip olduğunu açıkladı .</sentence>
+<sentence num="11">400'den fazla kişinin kişinin yaralandığı ,yedi vagonlu trende 580 civarında yolcu bulunuyordu .</sentence>
+<sentence num="12">Japonya'da son tren kazası 2000 yılında meydana gelmiş ve beş kişi hayatını kaybetmişti .</sentence>
+<sentence num="13">1991'deki tren kazasında ise ,42 kişi yaşamını yitirmiş ,600 kişi yaralanmıştı .</sentence>
+</doc>
+<doc>
+<id>68791</id>
+<sentence num="0">2005 04 26 07 :04 :00 .Japonya'da tren kazası :73 ölü ,442 yaralı .</sentence>
+<sentence num="1">Japonya'da tren kazası :73 ölü ,442 yaralı Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında ölenlerin sayısı 73'e çıktı .</sentence>
+<sentence num="2">Yetkililer ,son 40 yılda ülkede en büyük tren kazasının meydana geldiğini ,kazada 73 kişinin öldüğünü ,442 kişinin yaralandığını bildirdiler .</sentence>
+<sentence num="3">Yetkililer ,enkaz altında kalan 3 kişinin yaralı olarak kurtarıldığını ,enkazda kalan başka kişiler olduğunu ve kurtarma çalışmalarının sürdüğünü belirttiler .</sentence>
+</doc>
+<doc>
+<id>68803</id>
+<sentence num="0">2005 04 26 07 :58 :00 .Japonya'da iki günde iki tren kazası meydana geldi .</sentence>
+<sentence num="1">Japonya'da iki günde iki tren kazası meydana geldi Japonya'da ,onlarca kişinin ölümüne neden olan tren kazasından iki gün sonra ikinci bir kaza daha meydana geldi .</sentence>
+<sentence num="2">İbaraki polis sözcüsü Takayuki Muto ,başkent Tokyo'nun 85 kilometre kuzeydoğusundaki Nimori'de bir yolcu treninin ,hemzemin geçitte bir kamyona çarptığını söyledi .</sentence>
+</doc>
+<doc>
+<id>69053</id>
+<sentence num="0">2005 04 26 13 :00 :00 .Yıldırım :Japonya'daki tren kazası yargısız infazın hata olduğunu gösterdi .</sentence>
+<sentence num="1">Ulaştırma Bakanı Binali Yıldırım ,Japonya'daki tren kazalarının hız aşımı ve insan hatasından kaynaklandığının anlaşıldığını belirterek ,''Kazaların nedenlerini ,sonuçlarını anlayıp dinlemeden yargısız infaz yapmanın ne kadar hata olduğu son örnekte de ortaya çıktı ''dedi .</sentence>
+<sentence num="2">Yıldırım ,Hurdacılar Sitesi PTT Şubesi'nin açılışında gazetecilerin Japonya'daki tren kazalarına ilişkin sorusu üzerine ,dün yaşanan tren kazasında hayatını kaybeden çok sayıda insan olduğunu ve 400'ün üzerinde de yaralı bulunduğunu anımsattı .</sentence>
+<sentence num="3">Japon halkına başsağlığı dileyen Yıldırım ,dünyanın her ülkesinde bu tür kazalar yaşandığını ,22 Nisan'da da Hindistan'da bir tren kazası meydana geldiğini ifade etti .</sentence>
+<sentence num="4">Japonya'daki tren kazasından gelen ilk bilgilerin ;hız aşımı ve insan hatasından kaynaklandığı yönünde olduğunu belirten Yıldırım ,''Kazaların olmamasını temenni etmekle birlikte ,kazaların nedenlerini ,sonuçlarını anlayıp dinlemeden yargısız infaz yapmanın ne kadar hatalı bir şey olduğu bu son örnekte de ortaya çıkıyor ''dedi .</sentence>
+<sentence num="5">Kazaların yüzde 90'nın insan hatasından kaynaklandığını vurgulayan Yıldırım ,insanlığın kazalarda ölenlerin sayısını azaltmak için çaba sarfettiğini ancak tamamen kazaları sona erdirme imkanı bulunmadığını kaydetti .</sentence>
+</doc>
+<doc>
+<id>69155</id>
+<sentence num="0">2005 04 26 14 :39 :00 .Yıldırım'dan Japonya örnekli savunma .</sentence>
+<sentence num="1">Yıldırım ,''Kazaların nedenlerini ,sonuçlarını anlayıp dinlemeden yargısız infaz yapmanın ne kadar hata olduğu son örnekte de ortaya çıktı ''dedi .</sentence>
+<sentence num="2">Yıldırım ,Hurdacılar Sitesi PTT Şubesi'nin açılışında gazetecilerin Japonya'daki tren kazalarına ilişkin sorusu üzerine ,dün yaşanan tren kazasında hayatını kaybeden çok sayıda insan olduğunu ve 400'ün üzerinde de yaralı bulunduğunu anımsattı .</sentence>
+<sentence num="3">Japon halkına başsağlığı dileyen Yıldırım ,dünyanın her ülkesinde bu tür kazalar yaşandığını ,22 Nisan'da da Hindistan'da bir tren kazası meydana geldiğini ifade etti .</sentence>
+<sentence num="4">Japonya'daki tren kazasından gelen ilk bilgilerin ;hız aşımı ve insan hatasından kaynaklandığı yönünde olduğunu belirten Yıldırım ,''Kazaların olmamasını temenni etmekle birlikte ,kazaların nedenlerini ,sonuçlarını anlayıp dinlemeden yargısız infaz yapmanın ne kadar hatalı bir şey olduğu bu son örnekte de ortaya çıkıyor ''dedi .</sentence>
+<sentence num="5">Kazaların yüzde 90'nın insan hatasından kaynaklandığını vurgulayan Yıldırım ,insanlığın kazalarda ölenlerin sayısını azaltmak için çaba sarfettiğini ancak tamamen kazaları sona erdirme imkanı bulunmadığını kaydetti .</sentence>
+</doc>
+<doc>
+<id>69333</id>
+<sentence num="0">2005 04 26 17 :35 :00 .Japonya'daki tren kazasında ölenlerin sayısı 76'ya yükseldi .</sentence>
+<sentence num="1">Japonya'daki tren kazasında ölenlerin sayısı 76'ya yükseldi Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında ölenlerin sayısı 76'ya yükseldi .</sentence>
+<sentence num="2">Polis ,enkazdan bugün 3 cesetin daha çıkarıldığını ,kazada yaralananların sayısının da 456 olduğunu bildirdi .</sentence>
+<sentence num="3">Arama kurtarma çalışmalarının sürdüğü belirtildi .</sentence>
+</doc>
+<doc>
+<id>69366</id>
+<sentence num="0">2005 04 26 18 :01 :00 .Japonya'daki kazada ölü sayısı 76'ya çıktı .</sentence>
+<sentence num="1">Polis ,enkazdan bugün 3 cesetin daha çıkarıldığını ,kazada yaralananların sayısının da 456 olduğunu bildirdi .</sentence>
+<sentence num="2">Arama kurtarma çalışmalarının sürdüğü belirtildi .</sentence>
+<sentence num="3">580 yolcu taşıyan 7 vagonlu tren ,bir araca çarptıktan sonra raydan çıkmış ve 9 katlı bir apartmana girmişti .</sentence>
+<sentence num="4">Japonya'da Kasım 1963'te Tokyo yakınlarında meydana gelen tren kazasında 160 yolcu hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>69495</id>
+<sentence num="0">2005 04 26 23 :54 :00 .Japonya'daki tren kazasında ölenlerin sayısı 82'ye yükseldi .</sentence>
+<sentence num="1">Japonya'daki tren kazasında ölenlerin sayısı 82'ye yükseldi Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında ölenlerin sayısı 82'ye yükseldi .</sentence>
+<sentence num="2">Yetkililer ,enkazdan bugün çıkarılan cesetlerle birlikte ölü sayısının 82'ye yükseldiğini ,yaralı sayısınınsa 450'inin üzerinde olduğunu söyledi .</sentence>
+<sentence num="3">Bu arada kurtarma görevlilerinin tren enkazından 2 kişiyi kurtardığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>69496</id>
+<sentence num="0">2005 04 26 23 :55 :00 .Japonya'daki tren kazasında ölenlerin sayısı 82'ye yükseldi .</sentence>
+<sentence num="1">Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında ölenlerin sayısı 82'ye yükseldi .</sentence>
+<sentence num="2">Yetkililer ,enkazdan bugün çıkarılan cesetlerle birlikte ölü sayısının 82'ye yükseldiğini ,yaralı sayısınınsa 450'inin üzerinde olduğunu söyledi .</sentence>
+<sentence num="3">Bu arada kurtarma görevlilerinin tren enkazından 2 kişiyi kurtardığı belirtildi .</sentence>
+<sentence num="4">Polis sözcüsü ,enkazda hala bilinmeyen sayıda kurban olduğunu bildirirken ,NHK haber ajansı da vagonlarda hala cesetler bulunduğunu ,ölü sayısının artmasının muhtemel olduğunu duyurdu .</sentence>
+<sentence num="5">580 yolcu taşıyan 7 vagonlu tren ,bir araca çarptıktan sonra raydan çıkmış ve 9 katlı bir apartmana girmişti .</sentence>
+</doc>
+<doc>
+<id>69497</id>
+<sentence num="0">2005 04 27 00 :00 :00 .Japonya'daki tren kazasında ölenlerin sayısı 100'ü aşabilir .</sentence>
+<sentence num="1">Japonya'daki tren kazasında ölenlerin sayısının 100'ü aşabileceği açıklanırken ,başkent Tokyo yakınlarındaki Yokohama'da da bir tren otomobile çarptı .</sentence>
+<sentence num="2">Trenin ,hemzemin geçitte bir otomobile çarpması sonucu araç sürücüsü ağır yaralandı .</sentence>
+<sentence num="3">Öte yandan ,Osaka kenti yakınlarındaki tren kazasından sonra enkazdan 91 ceset çıkarıldığı ,ölü sayısının 100'ü aşabileceği bildirildi .</sentence>
+<sentence num="4">Yetkililer ,enkazda canlı bulma olasılığının sürdüğünü kaydettiler .</sentence>
+</doc>
+<doc>
+<id>69507</id>
+<sentence num="0">2005 04 27 00 :34 :00 .Japonya'daki Tren Kazasında Bilanço .</sentence>
+<sentence num="1">Japonya'nın Osaka kenti yakınında önceki gün meydana gelen tren kazasının bilançosu ağırlaşıyor .</sentence>
+<sentence num="2">Kazada ölenlerin sayısı 91'e yükseldi .</sentence>
+<sentence num="3">Kazanın meydana geldiği bölgede zamana karşı yarışan kurtarma ekipleri ,enkaz altından canlı çıkarma olasılığının giderek azalmasına karşın arama çalışmalarını sürdürüyor .</sentence>
+<sentence num="4">Kyodo Haber Ajansı ,halen 50'den fazla kişinin kayıp olduğunu duyururken ,Japon polisi ölü sayısının artabileceğini bildirdi .</sentence>
+<sentence num="5">Kazada yaralananların sayısı da 450'yi geçti .</sentence>
+<sentence num="6">Kazanın nedenini araştıran yetkililer ,aşırı hızın etkisi üzerinde duruyor .</sentence>
+<sentence num="7">Ancak aşırı hızın tek başına böyle bir felakete yol açamayacağı bildiriliyor .</sentence>
+<sentence num="8">Trenin Osaka kenti yakınında raylardan çıkarak bir binaya çarpmasıyla meydana gelen kaza ,demiryolu ulaşımının sıklıkla kullanıldığı Japonya'da son 40 yıl içindeki en ağır bilançolu tren kazası .</sentence>
+<sentence num="9">Bu arada Japonya'dan bir tren kazası haberi daha geldi .</sentence>
+<sentence num="10">Başkent Tokyo'nun güneyindeki bir hemzemin geçitte bir yolcu treniyle bir araç çarpıştı .</sentence>
+<sentence num="11">Kazada aracın sürücüsü yaralandı .</sentence>
+</doc>
+<doc>
+<id>69539</id>
+<sentence num="0">2005 04 27 06 :32 :00 .Osaka'daki tren kazasında ölü sayısı 91 .Pazartesi günü meydana gelen olayda 450'nin üzerinde yaralı var Japonya'nın Osaka kentinde meydana gelen tren kazasında ölenlerin sayısı 91'e yükseldi .</sentence>
+<sentence num="1">Son olarak Yokohama'da da bir tren hemzemin geçitte bir araca çarptı .</sentence>
+<sentence num="2">Kazada aracın şoförü ağır yaralandı .</sentence>
+<sentence num="3">Son olay ülkede pazartesi gününden bu yana meydana gelen üçüncü tren kazası oldu .</sentence>
+<sentence num="4">Dün de başkent Tokyo'nun kuzeyinde bir tren hemzemin geçitte bir kamyona çarpmış ve sürücüsü hafif yaralamıştı .</sentence>
+<sentence num="5">Osaka'da meydana gelen kazada ölenlerin sayısı ise resmi açıklamalara göre 91'e yükseldi .</sentence>
+<sentence num="6">Ölü sayısının 100'e ulaşmasından endişe ediliyor .</sentence>
+<sentence num="7">Kazada yaralı sayısı 450'nin üzerinde .</sentence>
+<sentence num="8">Aşırı hız felaket getirdi Kaza ,aşırı hız yaptığı tahmin edilen bir banliyö treninin raydan çıkıp ,dokuz katlı bir apartmana çarpmasıyla meydana gelmişti .</sentence>
+<sentence num="9">Makinistin ,en fazla 70 kilometreyle girmesi gereken viraja ,saatte 133 kilometre hızla girdiği ileri sürülüyor .</sentence>
+<sentence num="10">Polis ,açılan soruşturma çerçevesinde ,demiryolu şirketine baskın düzenledi .</sentence>
+</doc>
+<doc>
+<id>69594</id>
+<sentence num="0">2005 04 27 09 :20 :00 .Japonya'da tren otomobille çarpıştı .</sentence>
+<sentence num="1">Trenin ,hemzemin geçitte bir otomobile çarpması sonucu araç sürücüsü ağır yaralandı .</sentence>
+<sentence num="2">Öte yandan ,Osaka kenti yakınlarındaki tren kazasından sonra enkazdan 91 ceset çıkarıldığı ,ölü sayısının 100'ü aşabileceği bildirildi .</sentence>
+<sentence num="3">Yetkililer ,enkazda canlı bulma olasılığının sürdüğünü kaydettiler .</sentence>
+</doc>
+<doc>
+<id>70207</id>
+<sentence num="0">2005 04 27 23 :22 :00 .Japonya'da Bilanço Ağırlaşıyor .</sentence>
+<sentence num="1">Japonya'da Pazartesi günü meydana gelen tren kazasında bilanço ağırlaşıyor .</sentence>
+<sentence num="2">Kazada ölenlerin sayısı 95'e yükselirken ,enkaz altındaki yaklaşık 50 kişinin yaşamından da umut kesildi .</sentence>
+<sentence num="3">Japonya'da son 40 yılda yaşanan en büyük tren kazasının ardından enkaz altından 18 ceset daha çıkarıldı .</sentence>
+<sentence num="4">Metal yığınına dönüşen vagonların kaldırılması ,tüm teknolojik imkanlara karşın güçlükle yürütülürken ,halen enkaz altında bulunan yaklaşık 50 kişinin yaşamından da umut kesildi .</sentence>
+<sentence num="5">Kazayla ilgili soruşturma yürüten yetkililer ,makinistin ,bir sonraki istasyona gecikeceği kaygısıyla ,hız sınırını aştığını belirttiler .</sentence>
+<sentence num="6">Osaka kenti yakınlarında meydana gelen kazada ,580 yolcu taşıyan tren raylardan çıkarak 9 katlı bir binaya çarpmıştı .</sentence>
+</doc>
+<doc>
+<id>70271</id>
+<sentence num="0">2005 04 28 06 :36 :00 .Japonya'da Bilanço Ağırlaşıyor .</sentence>
+<sentence num="1">Demiryolu ulaşımı açısından dünyanın en gelişmiş ülkelerinden biri olan Japonya'da geçen Pazartesi günü meydana gelen tren kazasında bilanço ağırlaşıyor .</sentence>
+<sentence num="2">Kazada ölenlerin sayısı 104'e ulaştı .</sentence>
+<sentence num="3">Enkaz altında kalan çok sayıda kişinin de hayatından ümit kesildiği bildiriliyor .</sentence>
+<sentence num="4">Japonya'da son 40 yılda yaşanan en ağır tren kazasında metal yığınına dönüşen vagon enkazlarının kaldırılması ,tüm teknolojik imkanlara karşın güçlükle yürütülüyor .</sentence>
+<sentence num="5">Tren makinistinin kaza sırasında ,saatte 100 kilometre bir hız yaptığı haber veriliyor .</sentence>
+<sentence num="6">Osaka kenti yakınlarında meydana gelen kazada ,580 yolcu taşıyan tren raylardan çıkarak 9 katlı bir binaya çarpmış ,üstü üste binen 7 vagon metal yığınına dönüşmüştü .</sentence>
+<sentence num="7">Kazada 450 kişi de yaralanmıştı .</sentence>
+</doc>
+<doc>
+<id>70274</id>
+<sentence num="0">2005 04 28 07 :10 :00 .Japonya'daki tren kazasında ölenlerin sayısı 101'e yükseldi .</sentence>
+<sentence num="1">Japonya'daki tren kazasında ölenlerin sayısı 101'e yükseldi Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında ölenlerin sayısı 101'e yükseldi .</sentence>
+<sentence num="2">Yetkililer ,enkazdan bugün çıkarılan 4 cesetle birlikte ölü sayısının ,101'e yükseldiğini belirttiler .</sentence>
+<sentence num="3">580 yolcu taşıyan 7 vagonlu tren ,bir araca çarptıktan sonra raydan çıkmış ve 9 katlı bir apartmana girmişti .</sentence>
+</doc>
+<doc>
+<id>70278</id>
+<sentence num="0">2005 04 28 07 :26 :00 .Japonya'da ölü sayısı 101'e yükseldi .</sentence>
+<sentence num="1">Enkazda arama kurtarma çalışmaları devam ediyor Japonya'nın batısındaki Osaka kenti yakınlarında meydana gelen tren kazasında ölenlerin sayısı 101'e yükseldi .</sentence>
+<sentence num="2">Olayda 450'ye yakın da yaralı bulunuyor .</sentence>
+<sentence num="3">Enkazda arama kurtarma çalışmalarına devam eden yetkililer ,bugün çıkarılan dört cesetle birlikte olaydaki ölü sayısının ,101'e yükseldiğini belirtti .</sentence>
+<sentence num="4">Kaza ,aşırı hız yaptığı tahmin edilen ve 580 yolcu taşıyan yedi vagonlu bir banliyö treninin raydan çıkıp ,dokuz katlı bir apartmana çarpmasıyla meydana gelmişti .</sentence>
+<sentence num="5">Makinistin ,en fazla 70 kilometreyle girmesi gereken viraja ,saatte 133 kilometre hızla girdiği ileri sürülüyor .</sentence>
+<sentence num="6">Polis ,açılan soruşturma çerçevesinde ,demiryolu şirketine baskın düzenledi .</sentence>
+<sentence num="7">Son tren kazası 2000'de oldu Japonya'da son tren kazası 2000 yılında meydana gelmiş ve beş kişi hayatını kaybetmişti .</sentence>
+<sentence num="8">1991'deki tren kazasında ise ,42 kişi yaşamını yitirmiş ,600 kişi yaralanmıştı .</sentence>
+<sentence num="9">Otobüs kazası :Üç ölü ,17 yaralı Bu arada Japonya'nın kuzeyinde ,bir yolcu otobüsünün karayolunu bölen bariyere çarpması sonucu üç kişi öldü ,17 kişi de yaralandı .</sentence>
+<sentence num="10">Osaka'dan yola çıkarak Sendai'ye giden otobüsün ,Fukushima yakınında karayolunu ayıran bir bariyere çarptıktan sonra yol dışına doğru yuvarlandığı ,ancak başka araçların kazadan etkilenmediği açıklandı .</sentence>
+</doc>
+<doc>
+<id>70451</id>
+<sentence num="0">2005 04 28 11 :44 :00 .Japonya'da ölü sayısı 101'e yükseldi .</sentence>
+<sentence num="1">Enkazda arama kurtarma çalışmalarına devam eden yetkililer ,bugün çıkarılan dört cesetle birlikte olaydaki ölü sayısının ,101'e yükseldiğini belirtti .</sentence>
+<sentence num="2">Kaza ,aşırı hız yaptığı tahmin edilen ve 580 yolcu taşıyan yedi vagonlu bir banliyö treninin raydan çıkıp ,dokuz katlı bir apartmana çarpmasıyla meydana gelmişti .</sentence>
+<sentence num="3">Makinistin ,en fazla 70 kilometreyle girmesi gereken viraja ,saatte 133 kilometre hızla girdiği ileri sürülüyor .</sentence>
+<sentence num="4">Polis ,açılan soruşturma çerçevesinde ,demiryolu şirketine baskın düzenledi .</sentence>
+</doc>
+<doc>
+<id>70590</id>
+<sentence num="0">2005 04 28 14 :31 :00 .Japonya'da tren kazasında ölenlerin sayısı 106'ya yükseldi .</sentence>
+<sentence num="1">Japonya'da tren kazasında ölenlerin sayısı 106'ya yükseldi Japonya'nın batısında yer alan Osaka kenti yakınlarındaki tren kazasında ölenlerin sayısı 106'ya yükseldi .</sentence>
+<sentence num="2">Trenin 23 yaşındaki makinisti Ryujiro Takami'nin cesedinin de bulunduğunu bildiren kurtarma ekipleri ,enkazdaki arama çalışmalarının sona erdiğini ,ancak kaza yerindeki aramalara devam edileceğini kaydetti .</sentence>
+<sentence num="3">30 kadar kazazedenin ailesi ise hala yakınlarının cesetlerinin bulunmasını bekliyor .</sentence>
+</doc>
+<doc>
+<id>70613</id>
+<sentence num="0">2005 04 28 15 :02 :00 .Tren faciasında son rakam :106 ölü .</sentence>
+<sentence num="1">Trenin 23 yaşındaki makinisti Ryujiro Takami'nin cesedinin de bulunduğunu bildiren kurtarma ekipleri ,enkazdaki arama çalışmalarının sona erdiğini ,ancak kaza yerindeki aramalara devam edileceğini kaydetti .</sentence>
+<sentence num="2">30 kadar kazazedenin ailesi ise hala yakınlarının cesetlerinin bulunmasını bekliyor .</sentence>
+<sentence num="3">Yetkililer ,makinistin planlanan zamandan 90 saniye geç yola çıktığını ve zaman açığı yüzünden ceza almamak için hız yapmış olabileceğini belirttiler .</sentence>
+<sentence num="4">Japonya Ulaştırma Bakanı Kazuo Kitagawa da gazetecilere yaptığı açıklamada ,hükümetin ,makinistlerin eğitimi konusunda daha sıkı önlemler alması gerektiğini vurguladı .</sentence>
+<sentence num="5">580 yolcu taşıyan 7 vagonlu tren ,25 Nisan'da başkent Tokyo'nun 410 kilometre batısındaki Amagasaki'de bir araca çarptıktan sonra raydan çıkmış ve 9 katlı bir apartmana girmişti .</sentence>
+</doc>
+<doc>
+<id>70751</id>
+<sentence num="0">2005 04 28 17 :45 :00 .Japonya'daki Kazanın Bilançosu .</sentence>
+<sentence num="1">Demiryolu ulaşımı açısından dünyanın en gelişmiş ülkelerinden biri olan Japonya'da geçen Pazartesi günü meydana gelen tren kazasında bilanço ağırlaşıyor .</sentence>
+<sentence num="2">Kazada ölenlerin sayısı 106'ya yükseldi .</sentence>
+<sentence num="3">Enkaz altında kalan çok sayıda kişinin hayatından da ümit kesildiği bildiriliyor .</sentence>
+<sentence num="4">Japonya'da son 40 yılda yaşanan en ağır tren kazasında metal yığınına dönüşen vagon enkazlarının kaldırılması ,tüm teknolojik imkanlara karşın güçlükle yürütülüyor .</sentence>
+<sentence num="5">Kurtarma çalışmaları sırasında ,makinist Ryujiro Takami'nin cesedinin de bulunduğu bildirildi .</sentence>
+<sentence num="6">Enkazda olduğu tahmin edilen 30 kişinin cesedine ise henüz ulaşılamadı .</sentence>
+<sentence num="7">Kurtarma ekipleri ,aramalara devam edileceğini açıkladı .</sentence>
+<sentence num="8">Yetkililer ,makinistin planlanan zamandan 90 saniye geç yola çıktığını ve zaman açığı yüzünden ceza almamak için hız yapmış olabileceğini belirtildi .</sentence>
+<sentence num="9">Japonya Ulaştırma Bakanı Kazuo Kitagawa da gazetecilere yaptığı açıklamada ,hükümetin ,makinistlerin eğitimi konusunda daha sıkı önlemler alması gerektiğini vurguladı .</sentence>
+<sentence num="10">Osaka kenti yakınlarında meydana gelen kazada ,580 yolcu taşıyan tren raylardan çıkarak 9 katlı bir binaya çarpmış ,üst üste binen 7 vagon metal yığınına dönüşmüştü .</sentence>
+<sentence num="11">Kazada 450 kişi de yaralanmıştı .</sentence>
+</doc>

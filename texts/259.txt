@@ -1,0 +1,1169 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 10 11 10 :45 :00 .mütefekkir şair attila ilhan vefat etti ..</sentence>
+<sentence num="1">ünlü şair ve yazar atilla ilhan vefat etti .</sentence>
+<sentence num="2">ilhan'ın ,gece saatlerinde evinde hayatını kaybettiği bildirildi .</sentence>
+<sentence num="3">atilla ilhan'ın yarın istanbul'da toprağa verilmesinin planlandığı kaydedildi .</sentence>
+<sentence num="4">hayatı ünlü şair ve yazar attila ilhan ,50 yılı aşkın süreyle türk edebiyatına şiir ,roman ve deneme gibi eserleriyle hizmet verdi .</sentence>
+<sentence num="5">maçka'daki evinde 80 yaşında vefat eden ilhan ,''ben sana mecburum '',''ayrılık sevdaya dahil ''gibi ünlü şiirleriyle edebiyatla ilgilenen ,ilgilenmeyen geniş kitlelerin gönlünü kazandı .</sentence>
+<sentence num="6">ünlü oyuncu çolpan ilhan'ın ağabeyi ilhan ,izmir'in menemen ilçesinde 1925 yılında doğdu .</sentence>
+<sentence num="7">attila ilhan ,ilk ve orta öğreniminin büyük bölümünü izmir ve babasının işi dolayısıyla gittikleri farklı bölgelerde tamamladı .</sentence>
+<sentence num="8">izmir atatürk lisesi 1 .sınıfındayken mektuplaştığı bir kıza yazdığı nazım hikmet şiirleriyle yakalanmasıyla 1941 yılında 16 yaşındayken tutuklanan ilhan ,okuldan uzaklaştırıldı .</sentence>
+<sentence num="9">üç hafta gözetim altında kalan ilhan ,2 ay hapiste yattı .</sentence>
+<sentence num="10">attila ilhan ,''türkiye'nin hiçbir yerinde okuyamayacağına ''dair belge verilince ,eğitim hayatına ara vermek zorunda kaldı .</sentence>
+<sentence num="11">ilhan ,danıştay kararıyla 1944 yılında okuma hakkını tekrar kazandı ve istanbul ışık lisesi'ne yazıldı .</sentence>
+<sentence num="12">attila ilhan ,lise son sınıftayken ''chp şiir armağanı ''nda ''cebbaroğlu mehemmed ''şiiriyle ikincilik ödülünü pek çok ünlü şairi geride bırakarak aldı .</sentence>
+<sentence num="13">daha sonra istanbul üniversitesi hukuk fakültesi'ne kaydolan ilhan'ın ,bu yıllarda ''yığın ve gün ''gibi dergilerde ilk şiirleri yayınlanmaya başladı .</sentence>
+<sentence num="14">ilhan ,1948'de ilk şiir kitabı ''duvar ''ı kendi imkanlarıyla yayınladı .</sentence>
+<sentence num="15">1949 yılında üniversite ikinci sınıftayken ''nazım hikmet'i kurtarma hareketine ''katılmak üzere ilk kez paris'e giden ilhan ,1951 yılında ''gerçek ''gazetesinde bir yazısından dolayı kovuşturmaya uğrayınca yine paris'e gitti .</sentence>
+<sentence num="16">paris yılları 1949 yılında ,üniversite ikinci sınıftayken nazım hikmet'i kurtarma hareketine katılmak üzere ilk kez paris'e gitti .</sentence>
+<sentence num="17">bu harekette aktif rol oynadı .</sentence>
+<sentence num="18">fransız toplumu ve orada bulunduğu çevreye ilişkin gözlemleri daha sonraki eserlerinde yer alan bir çok karakter ve olaya temel oluşturmuştur .</sentence>
+<sentence num="19">türkiye'ye geri dönüşünde sıklıkla başı polisle derde girdi .</sentence>
+<sentence num="20">sansaryan han'daki sorgulamalar ölüm ,tehlike ,gerilim temalarının işlendiği eserlerinde önemli rol oynamıştır .</sentence>
+<sentence num="21">bir kaç kez gözaltına alındı .</sentence>
+<sentence num="22">istanbul paris izmir üçgeni 1951 yılında gerçek gazetesinde bir yazısından dolayı kovuşturmaya uğrayınca paris'e tekrar gitti .</sentence>
+<sentence num="23">fransa'daki bu dönem attil ilhan'ın fransızca'yı ve marksizmi öğrendiği yıllardır .</sentence>
+<sentence num="24">1950'li yılları istanbul izmir paris üçgeni içerisinde geçiren attil ilhan ,bu dönemde ismini yavaş yavaş türkiye çapında duyurmaya başladı .</sentence>
+<sentence num="25">yurda döndükten sonra ,hukuk fakültesi'ne devam etti .</sentence>
+<sentence num="26">ancak son sınıfta gazeteciliğe başlamasıyla beraber öğrenimini yarıda bıraktı .</sentence>
+<sentence num="27">sinemayla olan ilişkisi ,yine bu dönemde ,1953'te vatan gazetesinde sinema eleştirileri yazmasıyla başlar .</sentence>
+<sentence num="28">sanatta çok yönlülük 1957'de gittiği erzincan'da askerliğini yaptıktan sonra ,tekrar istanbul'a dönüş yapan attil ilhan sinema çalışmalarına ağırlık verdi .</sentence>
+<sentence num="29">onbeşe yakın senaryoya ali kaptanoğlu adıyla imza attı .</sentence>
+<sentence num="30">sinemada aradığını bulamayınca ,1960'ta paris'e geri döndü .</sentence>
+<sentence num="31">sosyalizmin geldiği aşamaları ve televizyonculuğu incelediği bu dönem ,babasının ölmesiyle birlikte yazarın izmir dönemini başlattı .</sentence>
+<sentence num="32">sekiz yıl izmir'de kaldığı dönemde ,demokrat izmir gazetesinin başyazarlığını ve genel yayın yönetmenliğini yürüttü .</sentence>
+<sentence num="33">aynı yıllarda ,şiir kitabı olarak yasak sevişmek ve aynanın içindekiler serisinden bıçağın ucu yayınlandı .</sentence>
+<sentence num="34">1968'te evlendi ,15 yıl evli kaldı .</sentence>
+<sentence num="35">istanbul'a dönüş 1973'te bilgi yayınevi'nin danışmanlığını üstlenerek ankara'ya taşındı .</sentence>
+<sentence num="36">sırtlan payı ve yaraya tuz basmak 'ı ankara'da yazdı .</sentence>
+<sentence num="37">81'e kadar ankara'da kalan yazar fena halde leman adlı romanını tamamladıktan sonra istanbul'a yerleşti .</sentence>
+<sentence num="38">istanbul'da gazetecilik serüveni milliyet ve gelişim yayınları ile devam etti .</sentence>
+<sentence num="39">bir süre güneş gazetesinde yazan attil ilhan ,1993 1996 yılları arasında meydan gazetesinde yazmaya devam etti .</sentence>
+<sentence num="40">1996 yılından beri köşe yazılarını cumhuriyet gazetesi'nde sürdürmektedir .</sentence>
+<sentence num="41">1970'lerde türkiye'de televizyon yayınlarının başlaması ve geniş kitlelere ulaşmasıyla beraber attil ilhan da senaryo yazmaya geri dönüş yaptı .</sentence>
+<sentence num="42">sekiz sütuna manşet ,kartallar yüksek uçar ve yarın artık bugündür halk tarafından beğeniyle izlenilen diziler oldu .</sentence>
+<sentence num="43">ali kaptanoğlu adını kullandı senaryolarında ali kaptanoğlu adını kullandı .</sentence>
+<sentence num="44">belli başli filmleri :yalnızlar rıhtımı (lütfi akad ),ateşten damlalar (memduh ün ),rıfat diye biri (ertem gönenç ),şoför nebahat (metin erksan ),devlerin öfkesi (nevzat pesen ),ver elini ıstanbul (aydın arakon ).</sentence>
+<sentence num="45">romanları 'sokaktaki adam '(1953 ),'zenciler birbirine benzemez '(1957 ),'kurtlar sofrası '(1963 ),'bıçağın ucu '(1973 ),'sırtlan payı '(1974 ,(yunus nadi roman armağanı ),'yaraya tuz basmak '(1978 ),'dersaadet'te sabah ezanları '(1981 ),'o karanlıkta biz '(1988 ),'fena halde leman '(1980 ),'haco hanım vay '(1984 )deneme ve anı 'abbas yolcu '(gezi notları ,1957 ),'yanlış kadınlar yanlış erkekler '(1985 ),'hangi sol '(1970 ),'hangi batı '(1972 ),'hangi seks '(1976 ),'hangi sağ '(1980 ),'hangi atatürk '(1981 ),'hangi edebiyat '(1993 ),'hangi laiklik '(1995 ),'faşizmin ayak sesleri '(1975 ),'batı'nın deli gömleği '(1981 ),'gerçekçilik savaşı '(1980 ),'sağım solum sobe '(1985 ),'ulusal kültür savaşı '(1986 ),'aydınlar savaşı '(1991 ),'kadınlar savaşı '(1992 ),'ikinci yeni savaşı '(1983 ),'sosyalizm asıl şimdi '(1991 )senaryoları 'ver elini istanbul ','rıfat diye biri ','yalnızlar rıhtımı ','şoför nebahat ','devlerin öfkesi 'şiirleri 'duvar '(1948 ),'sisler bulvarı '(1954 ),'yağmur kaçağı '(1955 ),'ben sana mecburum '(1960 ),'bela çiçeği '(1961 ),'yasak sevişmek '(1968 ),'tutuklunun günlüğü '(1973 ,tdk şiir ödülü ),'böyle bir sevmek '(1977 ),'elde var hüzün '(1982 ),'korkunun krallığı '(1987 ),'ayrılık sevdaya dahil '(1993 )en çok bilinen ve hemer her sevgilinin birbirine okumadan edemediği şiiri ben sana mecburum ben sana mecburum bilemezsin adını mıh gibi aklımda tutuyorum büyüdükçe büyüyor gözlerin ben sana mecburum bilemezsin içimi seninle ısıtıyorum ağaçlar sonbahara hazırlanıyor bu şehir o eski istanbul mudur ?</sentence>
+<sentence num="46">karanlıkta bulutlar parçalanıyor sokak lambaları birden yanıyor kaldırımlarda yağmur kokusu ben sana mecburum sen yoksun sevmek kimi zaman rezilce korkudur insan bir akşam üstü ansızın yorulur tutsak ustura ağzında yaşamaktan kimi zaman ellerini kırar tutkusu birkaç hayat çıkarır yaşamasından .</sentence>
+</doc>
+<doc>
+<id>164145</id>
+<sentence num="0">2005 10 11 10 :46 :00 .Attila İlhan hayatını kaybetti .</sentence>
+<sentence num="1">Attila İlhan ,80 yaşındaydı Şair ve yazar Attila İlhan dün gece evinde hayatını kaybetti .</sentence>
+<sentence num="2">İlhan'ın cenazesi ,13 ekim perşembe günü İstanbul'da toprağa verilecek .</sentence>
+<sentence num="3">Attila İlhan için ilk olarak ,cumartesi günleri 'Attila İlhan'la Yolculuk 'programını yaptığı Mecidiyeköy'deki Kanaltürk Televizyonu'nun önünde tören düzenlenecek .</sentence>
+<sentence num="4">Saat 10 .00'da yapılması planlanan bu törenin ardından ,Atatürk Kültür Merkezi'nde de bir tören gerçekleştirilecek .</sentence>
+<sentence num="5">İlhan'ın cenazesi ,daha sonra Teşvikiye Camii'nde öğleyin kılınacak namazın ardından Aşiyan Mezarlığı'nda defnedilecek .</sentence>
+<sentence num="6">Attila İlhan 15 haziran 1925'te İzmir Menemen'de doğdu .</sentence>
+<sentence num="7">İlk şiiri 1941 yılında yayımlandı .</sentence>
+<sentence num="8">Şairliğinin ilk 10 yılında İkinci Dünya Savaşı'nın Avrupa'yı saran bezginlik çöküntülerini gergin bir duygusallık içinde yansıtan destansı şiirler yazdı .</sentence>
+<sentence num="9">1955'ten sonra toplumcu gerçekçilikten kopmaksızın artistik abartmalarla yalnız insanın duygu dünyasını işledi .</sentence>
+<sentence num="10">Aynı BİZE YAZIN Görüşlerinizi bize yazın Okur görüşleri için tıklayıngerilim ,benzetmelerle zenginleştirilmiş ,kendine özgü söz dizimi olan romanlarına da yansıdı .</sentence>
+<sentence num="11">Yazdığı senaryolarda Ali Kaptanoğlu adını kullandı ,roman ve şiirin yanısıra gezi notları ve deneme anı türünde kitaplar da yayımladı .</sentence>
+<sentence num="12">İlk romanı 'Sokaktaki Adam 'yayımlandığında 10 roman yazmıştı .</sentence>
+<sentence num="13">Bunlar hiç gün ışığına çıkmadı .</sentence>
+<sentence num="14">Attila İlhan bunun sebebini bir söyleşide şöyle açıklıyordu :Birçok roman yazdım önceden .</sentence>
+<sentence num="15">Ama neden yayımlamadım ?</sentence>
+<sentence num="16">Çok akıllıca bir sebebi vardı .</sentence>
+<sentence num="17">Çünkü biliyorum ki yazarlar ilk romanlarında kendilerini anlatır .</sentence>
+<sentence num="18">O da romancılık değildir .</sentence>
+<sentence num="19">Günlük tutmaktır .</sentence>
+<sentence num="20">İLGİLİ YORUMLAR Doğan Hızlan Edebiyat eleştirmeni :Attila İlhan kişiliği ,konuşmaları ve yaşamıyla da ilgi çekici bir insandı .</sentence>
+<sentence num="21">Edebiyatçının değişik alanlardaki özgünlük öğelerini aynı kişilikte barındıran bir adamdı .</sentence>
+<sentence num="22">Şair olarak çok tanınıyor ,aşk şiirleri dilimizde ...</sentence>
+<sentence num="23">Her iyi yazar ,her zaman iyi bir konuşmacı olmaz .</sentence>
+<sentence num="24">O hem iyi bir yazardı ,hem iyi konuşurdu .</sentence>
+<sentence num="25">Kendisini de ,eserlerini de çok sevdiğim bir dostumu yitirdim ...</sentence>
+<sentence num="26">Edebiyatın başı sağolsun .</sentence>
+<sentence num="27">Ataol Behramoğlu Şair :O olmasa ben olmazdım .</sentence>
+<sentence num="28">Türk edebiyatının dışında algılandı ,bu haksızlıktır .</sentence>
+<sentence num="29">Romanları 'Sokaktaki Adam '(1953 ),'Zenciler Birbirine Benzemez '(1957 ),'Kurtlar Sofrası '(1963 ),'Bıçağın Ucu '(1973 ),'Sırtlan Payı '(1974 ,Yunus Nadi Roman Armağanı ),'Yaraya Tuz Basmak '(1978 ),'Dersaadet'te Sabah Ezanları '(1981 ),'O Karanlıkta Biz '(1988 ),'Fena Halde Leman '(1980 ),'Haco Hanım Vay '(1984 )Deneme ve anı 'Abbas Yolcu '(Gezi notları ,1957 ),Yanlış Kadınlar Yanlış Erkekler ,(1985 ),'Hangi Sol '(1970 ),'Hangi Batı '(1972 ),'Hangi Seks '(1976 ),'Hangi Sağ '(1980 ),'Hangi Atatürk '(1981 ),'Hangi Edebiyat '(1993 ),'Hangi Laiklik '(1995 ),'Faşizmin Ayak Sesleri '(1975 ),'Batı'nın Deli Gömleği '(1981 ),'Gerçekçilik Savaşı '(1980 ),'Sağım Solum Sobe '(1985 ),'Ulusal Kültür Savaşı '(1986 ),'Aydınlar Savaşı '(1991 ),'Kadınlar Savaşı '(1992 ),'İkinci Yeni Savaşı '(1983 ),'Sosyalizm Asıl Şimdi '(1991 )Senaryoları 'Ver Elini İstanbul ,'Rıfat Diye Biri ','Yalnızlar Rıhtımı ','Şoför Nebahat ','Devlerin Öfkesi 'Şiirleri 'Duvar '(1948 ),'Sisler Bulvarı '(1954 ),'Yağmur Kaçağı '(1955 ),'Ben Sana Mecburum '(1960 ),'Bela Çiçeği '(1961 ),'Yasak Sevişmek '(1968 ),'Tutuklunun Günlüğü '(1973 ,TDK Şiir Ödülü ),'Böyle Bir Sevmek '(1977 ),'Elde Var Hüzün '(1982 ),'Korkunun Krallığı '(1987 ),'Ayrılık Sevdaya Dahil '(1993 )Cnnturk .</sentence>
+<sentence num="30">com okurlarının görüşleri .</sentence>
+</doc>
+<doc>
+<id>164149</id>
+<sentence num="0">2005 10 11 10 :48 :00 .Şair Attila İlhan vefat etti .</sentence>
+<sentence num="1">Şair Attila İlhan vefat etti Ünlü şair ve yazar Attila İlhan vefat etti .</sentence>
+<sentence num="2">İlhan'ın ,gece saatlerinde evinde hayatını kaybettiği bildirildi .</sentence>
+<sentence num="3">Attila İlhan'ın cenazesi ,13 Ekim Perşembe günü Teşvikiye Camii'nde öğleyin kılınacak namazın ardından Aşiyan Mezarlığı'nda defnedilecek .</sentence>
+<sentence num="4">Attila İlhan için ilk olarak ,cumartesi günleri ''Attila İlhan'la Yolculuk ''programını yaptığı Mecidiyeköy'deki Kanaltürk Televizyonu'nun önünde tören düzenlenecek .</sentence>
+<sentence num="5">Saat 10 .00'da yapılması planlanan bu törenin ardından ,Atatürk Kültür Merkezi'nde (AKM )de bir tören gerçekleştirilecek .</sentence>
+<sentence num="6">Ünlü şair ve yazar Attila İlhan ,50 yılı aşkın süreyle Türk edebiyatına şiir ,roman ve deneme gibi eserleriyle hizmet verdi .</sentence>
+<sentence num="7">Maçka'daki evinde 80 yaşında vefat eden İlhan ,''Ben Sana Mecburum '',''Ayrılık Sevdaya Dahil ''gibi ünlü şiirleriyle edebiyatla ilgilenen ,ilgilenmeyen geniş kitlelerin gönlünü kazandı .</sentence>
+<sentence num="8">Ünlü oyuncu Çolpan İlhan'ın ağabeyi İlhan ,İzmir'in Menemen ilçesinde 1925 yılında doğdu .</sentence>
+<sentence num="9">Attila İlhan ,ilk ve orta öğreniminin büyük bölümünü İzmir ve babasının işi dolayısıyla gittikleri farklı bölgelerde tamamladı .</sentence>
+<sentence num="10">Attila İlhan ,lise son sınıftayken ''CHP Şiir Armağanı ''nda ''Cebbaroğlu Mehemmed ''şiiriyle ikincilik ödülünü pek çok ünlü şairi geride bırakarak aldı .</sentence>
+<sentence num="11">Daha sonra İstanbul Üniversitesi Hukuk Fakültesi'ne kaydolan İlhan'ın ,bu yıllarda ''Yığın ve Gün ''gibi dergilerde ilk şiirleri yayınlanmaya başladı .</sentence>
+<sentence num="12">İlhan ,1948'de ilk şiir kitabı ''Duvar ''ı kendi imkanlarıyla yayınladı .</sentence>
+<sentence num="13">1949 yılında üniversite ikinci sınıftayken ''Nazım Hikmet'i kurtarma hareketine ''katılmak üzere ilk kez Paris'e giden İlhan ,1951 yılında ''Gerçek ''gazetesinde bir yazısından dolayı kovuşturmaya uğrayınca yine Paris'e gitti .</sentence>
+<sentence num="14">Yurda döndükten sonra Hukuk Fakültesi'ne devam eden ,ancak son sınıfta gazeteciliğe başlamasıyla beraber öğrenimini yarıda bırakan İlhan'ın sinemayla olan ilişkisi ,yine bu dönemde 1953'te Vatan Gazetesi'nde sinema eleştirileri yazmasıyla başladı .</sentence>
+<sentence num="15">Sekiz yıl İzmir'de kaldığı dönemde ''Demokrat İzmir ''gazetesinin başyazarlığını ve genel yayın yönetmenliğini yürüten İlhan ,1973'te Bilgi Yayınevi'nin danışmanlığını üstlenerek Ankara'ya taşındı .</sentence>
+<sentence num="16">Başkentte 1981 yılına kadar kalan İlhan ,''Fena Halde Leman ''adlı romanını tamamladıktan sonra İstanbul'a yerleşti .</sentence>
+<sentence num="17">Burada gazetecilik serüvenine Milliyet ve Gelişim Yayınları ile devam eden İlhan ,bir süre de Güneş ve Meydan gazetelerinde yazılar yazdı .</sentence>
+<sentence num="18">Attila İlhan ,1996 yılından itibaren de köşe yazılarını Cumhuriyet gazetesinde sürdürdü .</sentence>
+<sentence num="19">ESERLERİ ''Sekiz Sütuna Manşet '',''Kartallar Yüksek Uçar ''ve ''Yarın Artık Bugündür ''gibi beğenilen dizilerin senaryosunu da yazan İlhan ,ayrıca Ali Kaptanoğlu adıyla ''Şoför Nebahat '',''Yalnızlar Rıhtımı '',''Devlerin Öfkesi ''gibi filmlerin senaryo yazarlığını yaptı .</sentence>
+<sentence num="20">Attila İlhan'ın şiir ,roman ve gezi notları ve deneme türündeki bazı kitapları da şunlar :''Duvar '',''Sisler Bulvarı '',''Ben Sana Mecburum '',''Böyle Bir Sevmek '',''Ayrılık Sevdaya Dahil '',''Kurtlar Sofrası '',''Sırtlan Payı '',''Fena Halde Leman '',''Abbas Yolcu '',''Hangi Sol '',''Faşizmin Ayak Sesleri '',''Batının Deli Gömleği '',''Yanlış Erkekler Yanlış Kadınlar '',''Allah'ın Süngüleri ''.</sentence>
+</doc>
+<doc>
+<id>164152</id>
+<sentence num="0">2005 10 11 10 :50 :00 .Şair yazar Attila İlhan hayatını kaybetti .</sentence>
+<sentence num="1">Şair yazar Attila İlhan hayatını kaybetti .</sentence>
+<sentence num="2">Gece saatlerinde Maçka'daki evinde vefat eden 80 yaşındaki ünlü şair ve yazar Attila İlhan'ın yarın İstanbul'da toprağa verilmesi planlanıyor .</sentence>
+<sentence num="3">Attila İlhan'ın cenazesi ,13 Ekim Perşembe günü İstanbul'da toprağa verilecek .</sentence>
+<sentence num="4">Alınan bilgiye göre ,Attila İlhan için ilk olarak ,cumartesi günleri Attila İlhan'la Yolculuk programını yaptığı Mecidiyeköy'deki Kanaltürk Televizyonu'nun önünde tören düzenlenecek .</sentence>
+<sentence num="5">Saat 10 .00'da yapılması planlanan bu törenin ardından ,Atatürk Kültür Merkezi'nde (AKM )de bir tören gerçekleştirilecek .</sentence>
+<sentence num="6">İlhan'ın cenazesi ,daha sonra Teşvikiye Camii'nde öğleyin kılınacak namazın ardından Aşiyan Mezarlığı'nda defnedilecek .</sentence>
+<sentence num="7">Hayatı Ünlü şair ve yazar Attila İlhan ,50 yılı aşkın süreyle Türk edebiyatına şiir ,roman ve deneme gibi eserleriyle hizmet verdi .</sentence>
+<sentence num="8">Maçka'daki evinde 80 yaşında vefat eden İlhan ,Ben Sana Mecburum ,Ayrılık Sevdaya Dahil gibi ünlü şiirleriyle edebiyatla ilgilenen ,ilgilenmeyen geniş kitlelerin gönlünü kazandı .</sentence>
+<sentence num="9">Ünlü oyuncu Çolpan İlhan'ın ağabeyi İlhan ,İzmir'in Menemen ilçesinde 1925 yılında doğdu .</sentence>
+<sentence num="10">Attila İlhan ,ilk ve orta öğreniminin büyük bölümünü İzmir ve babasının işi dolayısıyla gittikleri farklı bölgelerde tamamladı .</sentence>
+<sentence num="11">İzmir Atatürk Lisesi 1 .sınıfındayken mektuplaştığı bir kıza yazdığı Nazım Hikmet şiirleriyle yakalanmasıyla 1941 yılında 16 yaşındayken tutuklanan İlhan ,okuldan uzaklaştırıldı .</sentence>
+<sentence num="12">Üç hafta gözetim altında kalan İlhan ,2 ay hapiste yattı .</sentence>
+<sentence num="13">Attila İlhan ,Türkiye'nin hiçbir yerinde okuyamayacağına dair belge verilince ,eğitim hayatına ara vermek zorunda kaldı .</sentence>
+<sentence num="14">İlhan ,Danıştay kararıyla 1944 yılında okuma hakkını tekrar kazandı ve İstanbul Işık Lisesi'ne yazıldı .</sentence>
+<sentence num="15">Attila İlhan ,lise son sınıftayken CHP Şiir Armağanı nda Cebbaroğlu Mehemmed şiiriyle ikincilik ödülünü pek çok ünlü şairi geride bırakarak aldı .</sentence>
+<sentence num="16">Daha sonra İstanbul Üniversitesi Hukuk Fakültesi'ne kaydolan İlhan'ın ,bu yıllarda Yığın ve Gün gibi dergilerde ilk şiirleri yayınlanmaya başladı .</sentence>
+<sentence num="17">İlhan ,1948'de ilk şiir kitabı Duvar ı kendi imkanlarıyla yayınladı .</sentence>
+<sentence num="18">1949 yılında üniversite ikinci sınıftayken Nazım Hikmet'i kurtarma hareketine katılmak üzere ilk kez Paris'e giden İlhan ,1951 yılında Gerçek gazetesinde bir yazısından dolayı kovuşturmaya uğrayınca yine Paris'e gitti .</sentence>
+<sentence num="19">Yurda döndükten sonra Hukuk Fakültesi'ne devam eden ,ancak son sınıfta gazeteciliğe başlamasıyla beraber öğrenimini yarıda bırakan İlhan'ın sinemayla olan ilişkisi ,yine bu dönemde 1953'te Vatan Gazetesi'nde sinema eleştirileri yazmasıyla başladı .</sentence>
+<sentence num="20">Sekiz yıl İzmir'de kaldığı dönemde Demokrat İzmir gazetesinin başyazarlığını ve genel yayın yönetmenliğini yürüten İlhan ,1973'te Bilgi Yayınevi'nin danışmanlığını üstlenerek Ankara'ya taşındı .</sentence>
+<sentence num="21">Başkentte 1981 yılına kadar kalan İlhan ,Fena Halde Leman adlı romanını tamamladıktan sonra İstanbul'a yerleşti .</sentence>
+<sentence num="22">Burada gazetecilik serüvenine Milliyet ve Gelişim Yayınları ile devam eden İlhan ,bir süre de Güneş ve Meydan gazetelerinde yazılar yazdı .</sentence>
+<sentence num="23">Attila İlhan ,1996 yılından itibaren de köşe yazılarını Cumhuriyet gazetesinde sürdürdü .</sentence>
+<sentence num="24">Şiirlerinden Örnekler ?</sentence>
+<sentence num="25">SEN BENİM HİÇ BİR ŞEYİMSİN ?</sentence>
+<sentence num="26">MARİA MİSSAKİAN ?</sentence>
+<sentence num="27">YAĞMUR KAÇAĞI ?</sentence>
+<sentence num="28">ŞAHANE SERSERİ ?</sentence>
+<sentence num="29">CİNAYET SAATİ ?</sentence>
+<sentence num="30">YİRMİBEŞİNCİ KISIM ?</sentence>
+<sentence num="31">İSTANBUL AĞRISI ?</sentence>
+<sentence num="32">PORNO ?</sentence>
+<sentence num="33">AYSEL GİT BAŞIMDAN ?</sentence>
+<sentence num="34">BEN SANA MECBURUM ?</sentence>
+<sentence num="35">MÜJGAN'A AŞK ŞARKILARI ?</sentence>
+<sentence num="36">BÜYÜK YOLLARIN HAYDUDU ?</sentence>
+<sentence num="37">KARANTİNALI DESPİNA ?</sentence>
+<sentence num="38">JİLET YİYEN KIZ ?</sentence>
+<sentence num="39">SÜLEYMAN ?</sentence>
+<sentence num="40">GEÇ KALMIŞ ÖLÜ ?</sentence>
+<sentence num="41">ZEYNEP BENİ BEKLE ?</sentence>
+<sentence num="42">SULTAN I YEG H ?</sentence>
+<sentence num="43">YAMYAM KADINLAR ?</sentence>
+<sentence num="44">KIRMIZI PAZAR ?</sentence>
+<sentence num="45">ELDE VAR HÜZÜN ?</sentence>
+<sentence num="46">BELMA SEBİL ?</sentence>
+<sentence num="47">ASKIDA YAŞAMAK ?</sentence>
+<sentence num="48">PİA ?</sentence>
+<sentence num="49">BÖYLE BİR SEVMEK ?</sentence>
+<sentence num="50">ÜÇÜNCÜ ŞAHSIN ŞİİRİ ?</sentence>
+<sentence num="51">AĞUSTOS ÇIKMAZI ?</sentence>
+<sentence num="52">NÖBET DEĞİŞİMİ ?</sentence>
+<sentence num="53">O SÖZLER Kİ ?</sentence>
+<sentence num="54">KALK GİDELİM KADINLAR BALLADI Eserleri Romanları Sokaktaki Adam (1953 ).Zenciler Birbirine Benzemez (1957 ).Kurtlar Sofrası (1963 ).Aynanın İçindekiler :Bıçağın Ucu (1973 ).Sırtlan Payı (1974 )Yunus Nadi Roman Armağanı .</sentence>
+<sentence num="55">Yaraya Tuz Basmak (1978 ).Dersaadet'te Sabah Ezanları (1981 ).'O Karanlıkta Biz '(1988 ).Fena Halde Leman (1980 ).Haco Hanim Vay (1984 ).Deneme ve anı Abbas Yolcu (gezi notları )(1957 ).Yanlış Kadınlar Yanlış Erkekler (1985 ).Anilar ve Acilar 1 .</sentence>
+<sentence num="56">Hangi Sol (1970 ).2 .</sentence>
+<sentence num="57">Hangi Batı (1972 ).3 .</sentence>
+<sentence num="58">Hangi Seks (1976 ).4 .</sentence>
+<sentence num="59">Hangi Sağ (1980 ).5 .</sentence>
+<sentence num="60">Hangi Atatürk (1981 ).6 .</sentence>
+<sentence num="61">Hangi Edebiyat (1993 ).7 .</sentence>
+<sentence num="62">Hangi Laiklik (1995 ).Atilla İlhan 'in Defteri .</sentence>
+<sentence num="63">1 .Faşizmin Ayak Sesleri (1975 ).2 .Batı'nın Deli Gömleği (1981 ).3 .Gerçekçilik Savaşı (1980 ).4 .Sağım Solum Sobe (1985 ).5 .Ulusal Kültür Savaşı (1986 ).6 .Aydınlar Savaşı (1991 ).7 .Kadınlar Savaşı (1992 ).8 .'İkinci Yeni 'Savaşı (1983 ).9 .Sosyalizm Asıl Şimdi (1991 ).Senaryoları Ver Elini İstanbul .</sentence>
+<sentence num="64">Rıfat Diye Biri .</sentence>
+<sentence num="65">Yalnızlar Rıhtımı .</sentence>
+<sentence num="66">Şoför Nebahat .</sentence>
+<sentence num="67">Devlerin Öfkesi .</sentence>
+<sentence num="68">TV Filmi :Paranın Kiri (1979 ).TV Dizileri :Sekiz Sütuna Manşet (1982 ).Kartallar Yüksek Uçar (1983 ).Yarın Artık Bugündür (1986 ).Yıldızlar Gece Büyür (1992 ).Teleflaş .</sentence>
+</doc>
+<doc>
+<id>164181</id>
+<sentence num="0">2005 10 11 11 :25 :00 .Attila İlhan'a göre ölüm kavramı .</sentence>
+<sentence num="1">Ünlü şair ,mütefekkir ve araştırmacı Attila İlhan ,ömrünün son döneminde Türkiye'yi içine düştüğü yanlış kavramlardan kurtarıp ,düşünceleri doğru bir yöne çekebilmek için müthiş bir gayret sarf etmişti .</sentence>
+<sentence num="2">Son dönemdeki siyasi düşüncelerini ,Türkiye Cumhuriyeti'nin Temel Felsefesi Laiklik Değil ,Anti emperyalizimdir diye özetleyen ve Kuvvayi Milliye ruhu ile yurdu yanlış fikir ve bilgi yığınından kurtarmak için olağanüstü çaba sarf eden Attila İlhan ,Doğulu ve Batılı arasındaki önemli bir farkın da ölüm olduğunu idrak etmişti .</sentence>
+<sentence num="3">Attila İlhan ölüm konusundaki fikirlerini kendisiyle 2023 dergisi adına yapılan bir söyleşi sırasında dile getirmişti .</sentence>
+<sentence num="4">Müteveffa düşünür ,aydınları eleştirerek başladığı söyleşini Doğu ve Batı kültürlerinin ölüme bakış açısını analiz ederek sürdürüyordu .</sentence>
+<sentence num="5">haber7 olarak o söyleşinin en can alıcı bölümünü sunuyoruz şimdi sizlere :Türk Aydını Türk Değildir !</sentence>
+<sentence num="6">Bugün yaşadığımız çağı nasıl tanımlıyorsunuz ?</sentence>
+<sentence num="7">Neo liberalizm olarak parlatılan değerlerin ve post modernizmin insanlığa sunduğu vizyon nedir ?</sentence>
+<sentence num="8">Benim bütün meselelere bakışım evrenseldir .</sentence>
+<sentence num="9">Ben meselelere dar çerçevede bakmam .</sentence>
+<sentence num="10">En geniş t birle söyleyeyim size ;21 .yüzyılın başında yeryüzü Batı'nın yavaş yavaş indifaka gittiğini görüyor .</sentence>
+<sentence num="11">Batı medeniyeti ,ki keşiflerde başladı ,II .Cihan Harbi'ne kadar dünyaya h kimdi ,yavaş yavaş bu h kimiyetini kaybediyor .</sentence>
+<sentence num="12">O h kimiyeti ,o medeniyet öncülüğünü de Doğu'dan almıştı .</sentence>
+<sentence num="13">Çünkü daha evvel ondan şanlı şöhretli ,güçlü ve zengin olan Doğu'ydu .</sentence>
+<sentence num="14">Batı'ya intikal ettirdiler onlar :sonra Batılılar özellikle Uzakdoğu gemiciliğini ustaca başardıkları ve ateşli sil hları geliştirdikleri için yeryüzüne h kim olma yoluna gittiler ve ramak kaldı ,az daha oluyorlardı ,ama Sovyetler İhtil li ve Türkiye İhtil li oldu ve bu iki gelişme onları karmakarışık yaptı .</sentence>
+<sentence num="15">Arkadan Hitler çıktı ve Cihan Harbi'ne girmek zorunda kaldılar .</sentence>
+<sentence num="16">Şimdi bu ,Batı medeniyetinin gerisindeki liberalleri korkuya düşürdü .</sentence>
+<sentence num="17">Bunu hissediyorlar .</sentence>
+<sentence num="18">Çünkü son 50 senedir Batı'da ortaya çıkmış dünya tarafından benimsenecek ne bir şair var ,ne bir romancı var ,ne bir müzisyen var ,ne bir mucit var .</sentence>
+<sentence num="19">S dece bilgisayar üzerinde oyunlar oynuyorlar ve bunları dünyaya yutturmaya çalışıyorlar .</sentence>
+<sentence num="20">19 .asır deyince Fransa'da dünya çapında 5 tane adam sayabilirim .</sentence>
+<sentence num="21">H lbuki şimdi sayamam .</sentence>
+<sentence num="22">Bugünkü Fransa'da kim var desen şüpheli .</sentence>
+<sentence num="23">Onanlar da Fransız sömürgelerinden gelmiş ,Fransızlaşmış Araplar falan İngiltere'de de durum aynı ,Amerika'da da Meseleye geniş baktığımız takdirde dünyanın kaderinde bir değişme var .</sentence>
+<sentence num="24">Dünyaya zaman zaman bu taraf ,zaman zaman o taraf h kim oluyor .</sentence>
+<sentence num="25">Batı artık h kimiyetini barışçı yollardan koruyamayacak h lde .</sentence>
+<sentence num="26">Tam vaziyete h kim olduğunu sanıyor ,olmuyor ;bir şey çıkıyor ,ondan sonra işler yine karışıyor .</sentence>
+<sentence num="27">Tabi kapitalist diyalektiğin bize öğrettiği bir şey var ;Batı dediğiniz zaman yekp re bir şeyden bahsetmek mümkün değil .</sentence>
+<sentence num="28">Yekp re olmadığı için kendi içlerinde de bunlar hırgür h lindeler ;sen h kim olacaksın ben h kim olacağım d v sındalar .</sentence>
+<sentence num="29">Bu da işlerini büsbütün zorlaştırıyor .</sentence>
+<sentence num="30">H l böyle olunca ,dünyanın bugünkü durumu ve meseleler hakkında karar verebilmek için önce ülkenin ve o ülke içinde kendinin nerede olduğunu görmen l zım .</sentence>
+<sentence num="31">Ben neredeyim ?</sentence>
+<sentence num="32">Türkiye'de şu garip durum yaşanıyor :Türkiye en büyük Doğu imparatorluklarından birisi idi .Türkler ,Tuna'dan tut Sarı Nehir'e kadar konuşarak gidebilirsin ,bu kadar yaygın bir kavim .</sentence>
+<sentence num="33">Sen bunun çocuğusun .</sentence>
+<sentence num="34">Son Türk devleti batmak üzereyken ,Batı'ya şamarı indirip yeniden bir devlet çıkartan Türk'sün sen .</sentence>
+<sentence num="35">Şimdi dünyada 6 tane Türk devleti var .</sentence>
+<sentence num="36">Böyle bir durumda sen hangi tarafta yer alacaksın ?</sentence>
+<sentence num="37">Bu çok net görünüyor ;senin tarafın Doğu .</sentence>
+<sentence num="38">Sen Doğu'dan gelmişsin ,Doğu'da güç olmuşsun ,t Viyana'ya gitmişsin .</sentence>
+<sentence num="39">Sen bu çerçeve içinde gelişmiş ve bir yere gelmişsin .</sentence>
+<sentence num="40">Batı 20 .yüzyılın ortalarına doğru keşfettiği bir sistemle seni ileri sömürge h line getirmiş .</sentence>
+<sentence num="41">Bu bizde de var ,İran'da da var ,birçok yerde uygulanmış .</sentence>
+<sentence num="42">Bunun için öyle bir aydın sınıfı yetiştiriyor ki ,o aydın sınıfı onun köpeği .</sentence>
+<sentence num="43">O aydın sınıfını halktan ayırmış oluyor böylelikle .</sentence>
+<sentence num="44">O aydın sınıfı halkını hor görüyor ,halkını hor gördüğü için halk da onu hor görüyor ve güvenmiyor .</sentence>
+<sentence num="45">İşte o zaman çok kritik ve çok yanlış anlaşılmış bir noktaya geliyoruz .</sentence>
+<sentence num="46">Halk niye dine sarılıyor ?</sentence>
+<sentence num="47">İşte bundan .</sentence>
+<sentence num="48">Kendi aydınları onlara karşı tarafı savunuyor .</sentence>
+<sentence num="49">Halk kendi geleneğine ,göreneğine ,cibilliyetine sahip .</sentence>
+<sentence num="50">Peki sığınacak neyi var ?</sentence>
+<sentence num="51">Ulusal aydın yok ,halk mecburen dine sığınıyor .</sentence>
+<sentence num="52">O zaman aydın kısım işte Bunlar mürteci bilmem ne diyor .</sentence>
+<sentence num="53">Dur bakalım !</sentence>
+<sentence num="54">Onlar mürteci olmadan evvel sen kimsin ?</sentence>
+<sentence num="55">Sen ne yapıyorsun ?</sentence>
+<sentence num="56">Bunu sormak l zım .</sentence>
+<sentence num="57">Ama ne yazık ki ,Türkiye Cumhuriyeti Mustafa Kemal Paşa'nın ölümünden itibaren bu soruyu sormadı .</sentence>
+<sentence num="58">Sormadığı için de Türk aydınları Türk değildir !</sentence>
+<sentence num="59">Bahsettiğim bu aydınlar hiçbir şekilde bir Türk gibi düşünmezler ,hiçbir şekilde bir Türk gibi hareket etmezler ,daha da dramatiği böyle hareket edenleri kınarlar .</sentence>
+<sentence num="60">Bu fikre nasıl ulaştınız ?</sentence>
+<sentence num="61">Bunu ben pat diye anlamadım .</sentence>
+<sentence num="62">Bunu bana anlatan Paris seyahatimde tanıştığım zenciler oldu .</sentence>
+<sentence num="63">Eski sömürgeler ,ama o sıralarda zannederim kurtulmuşlardı .</sentence>
+<sentence num="64">Şimdi Fransız Komünist Partisi'nin içerisinde bir zenci hanım tanıdım .</sentence>
+<sentence num="65">Hekim olmak üzereydi ,o zamanın şartları içerisinde beni çok şaşırtan bir h li vardı .</sentence>
+<sentence num="66">Paris'in göbeğinde kafasını kazıyarak dolaşırdı ve her sabah kazırdı o kafayı .</sentence>
+<sentence num="67">Dallı güllü acayip entariler giyerdi .</sentence>
+<sentence num="68">Ve mısır sapından yapılmış bir pipo içerdi ,memleketinin piposu .</sentence>
+<sentence num="69">Sonra tanıştık .</sentence>
+<sentence num="70">Komünist ,ama Fransa'ya düşman .</sentence>
+<sentence num="71">İlk defa böyle bir şeyle karşılaşmıştım .</sentence>
+<sentence num="72">Komünistler enternasyonalist olurlar ,böyle bir şey olur mu ?</sentence>
+<sentence num="73">Hayır düşman Niye ?</sentence>
+<sentence num="74">diye sorduğum zaman şu cevabı verdi :Bizim okuduğumuz tarih kitaplarından biz nasıl öğreniriz biliyor musunuz tarihi ?</sentence>
+<sentence num="75">Ecd dımız olan Galyalılar uzun boylu ,mavi gözlü adamlardı .</sentence>
+<sentence num="76">Siz olsanız ne yapardınız ?</sentence>
+<sentence num="77">O zaman birdenbire uyandım :Bunların memleketlerinde halka hak ret eden ,onu aşağılayan ve hor gören bir takım aydınlar var .</sentence>
+<sentence num="78">Bizdeki aydınlarda onlara benziyordu .</sentence>
+<sentence num="79">H lbuki biz kurtuluş savaşı yapmış ve onları yenmiştik .</sentence>
+<sentence num="80">Burada büyük bir yanlışlık var dedim .</sentence>
+<sentence num="81">Bu 1960'ların başında oldu .</sentence>
+<sentence num="82">Demek ki ben 40 senedir bunu Türkiye'de anlatmaya çalışıyorum .</sentence>
+<sentence num="83">Son 5 sene içinde gittikçe daha çok anlaşıldığını sanıyorum .</sentence>
+<sentence num="84">Gittikçe daha büyük kalabalıklar anladıklarını belli ediyorlar .</sentence>
+<sentence num="85">Ve yeni bir tür Türk aydını ,y ni ulusalcı bir Türk aydını ,çeşitli inanışların içinden çıkarak geliyor .</sentence>
+<sentence num="86">Vasıfları nedir bu ulusalcı Türk aydınlarının ?</sentence>
+<sentence num="87">Şimdi işte bu enteresan .</sentence>
+<sentence num="88">Z ten dizi bunun için yapıldı .(</sentence>
+<sentence num="89">Bir Millet Uyanıyor üst başlıklı Attila İlhan yönetiminde çıkan kitap serilerinden bahsediyor !)</sentence>
+<sentence num="90">Yeni bir aydın türü geliyor ve bu aydınların hareket noktası Mustafa Kemal Paşa'nın hareket noktası :Vatan .</sentence>
+<sentence num="91">Önce düşünülmesi l zım gelen ,senin kavminin yaşamakta olduğu vatan .</sentence>
+<sentence num="92">Bu vatanı elinde tutman l zım ;çünkü sen burada yaşıyorsun ,ceddin burada yaşamış ,ölülerin orada yatıyor .</sentence>
+<sentence num="93">İkincisi sen ,bu vatanın içindeki çeşitli kavimleri asırlarca sorun çıkartmadan idare etmiş bir kavimsin .</sentence>
+<sentence num="94">Senin öyle bir kavmin var ki ,rastgele bir kavim değil .</sentence>
+<sentence num="95">Bunu bana Fransızlar çok sormuşlardır :Kaç asırdır Osmanlı ve kaç hanedan yönetmiştir ?</sentence>
+<sentence num="96">Tek hanedan ve 700 sene dediğimde şaşırıyorlar .</sentence>
+<sentence num="97">Böyle bir şey yok dünyada .</sentence>
+<sentence num="98">Onların ufacık imparatorlukları var ,4 tane hanedan değiştirmiş .</sentence>
+<sentence num="99">Çin'de yine birçok hanedan değişmiş .</sentence>
+<sentence num="100">Sen bir tek hanedanla 6 7 asır idare ediyorsun .</sentence>
+<sentence num="101">Doğu Ölüm Kavramını H lletmiştir .</sentence>
+<sentence num="102">Bu neden oluyor size göre ?</sentence>
+<sentence num="103">Bu neden öyle oldu diye düşünüldüğünde iki gerçek çıkıyor ortaya .</sentence>
+<sentence num="104">Bunu söylediğim zaman herkes şaşırıyor :Çünkü sen Asyalısın !</sentence>
+<sentence num="105">Asyalılar'ın kendilerine mahsus yönetim özellikleri var .</sentence>
+<sentence num="106">Batı'ya heveslendiğin zaman onları bırakıyorsun ve yanlış yapıyorsun .</sentence>
+<sentence num="107">Cengiz Han'a bakın .</sentence>
+<sentence num="108">Cengiz Han Moğol ,ordusu ise Türk'tür .</sentence>
+<sentence num="109">Mete Han Türk ,ordusu Moğol'dur .</sentence>
+<sentence num="110">Asya'ya baktığın zaman kavimcilik ,ırkçılık yoktur .</sentence>
+<sentence num="111">Böyle şeyler düşünülmüyor .</sentence>
+<sentence num="112">Devlet yönetiminde mutlaka bir liderin olması l zım .</sentence>
+<sentence num="113">Doğu'da böyle önemli lideri olmayan bütün kavimler batmıştır .</sentence>
+<sentence num="114">Karizmatik lider olması l zımdır .</sentence>
+<sentence num="115">Öyle biri olacak ki ,o halkın bütünü tarafından bir bileşke sayılacak .</sentence>
+<sentence num="116">İkincisi ,Doğu kavimlerinde Asya kavimleri demek daha doğru din ,dil ,ırk meselesi yoktur .</sentence>
+<sentence num="117">Asya kavimleri arasında din ,dil ,ırk kavgası yaşanmamıştır ;hatta Ruslar'la bizim aramızda yok .</sentence>
+<sentence num="118">Eğer olsaydı bu kadar sene Rusya'da bu kadar Türk oturur muydu ?</sentence>
+<sentence num="119">Bizde de yok .</sentence>
+<sentence num="120">Bu kadar sene Araplar'la yaşamışız hiç gık demeden İngilizler Araplar'ı dürtüklemeseydi yine demezlerdi .</sentence>
+<sentence num="121">Şimdi de arıyorlar bizim zamanımızı .</sentence>
+<sentence num="122">Y ni Doğu ve Asya kavimlerinden olduğun zaman büyük avantajın oluyor .</sentence>
+<sentence num="123">Doğu Ölüm Kavramını H lletmiştir .</sentence>
+<sentence num="124">Çok tuhaf bir şey söyleyeceğim ama gerçek :Doğu ölüm kavramını h lletmiştir .</sentence>
+<sentence num="125">Batı bunu h lledememiştir .</sentence>
+<sentence num="126">Doğu ,3 bin yıldan beri dünyanın hakikatinin ölüm olduğunu bilir .</sentence>
+<sentence num="127">Dünyada başka hakikat yoktur :ölürsün !</sentence>
+<sentence num="128">Batı h len ölümden nasıl kurtulacağım diye uğraşıyor .</sentence>
+<sentence num="129">Kurtulamaz !</sentence>
+<sentence num="130">Bir Batılı ile konuşuyorduk ,işte Eninde sonunda çare bulacağız ve kimse ölmeyecek dedi .</sentence>
+<sentence num="131">Peki nasıl besleyeceksin o kadar insanı ?</sentence>
+<sentence num="132">dedim .</sentence>
+<sentence num="133">Onu hiç düşünmedik dedi .</sentence>
+<sentence num="134">Canım işte uzaya gideriz falan lafları etti ,sonra durdu ve Bazıları öldürülür !</sentence>
+<sentence num="135">dedi .</sentence>
+<sentence num="136">Hay l kuruyorlar .</sentence>
+<sentence num="137">H lbuki Doğu bunu binlerce yıl önce keşfetmiştir .</sentence>
+<sentence num="138">Ahmet Gazal bunu bizde söylemiştir .</sentence>
+<sentence num="139">Biz buna inanırız .</sentence>
+<sentence num="140">Onun için Doğulular Batı ile hır çıktığı zaman rahatlıkla ölürler .</sentence>
+<sentence num="141">Onların ödü patlar ,ölmezler ve o yüzden de iş Irak'takine döner .</sentence>
+<sentence num="142">Her defasında böyle olmuştur .</sentence>
+<sentence num="143">ABD'nin bütün işi ,nasıl 500 600 metreden ve hiç görünmeden adam öldürürüz ,bunu düşünüyorlar .</sentence>
+<sentence num="144">Ölümden ödü patlıyor onların .</sentence>
+<sentence num="145">Ben bunu şöyle kullanıyorum :Bizim ve bütün Avrasyalılar'ın ölebilme k biliyeti var ,onların yok !</sentence>
+<sentence num="146">AN GELİR ATTİLA İLHAN ÖLÜR ..</sentence>
+<sentence num="147">Ve tabi ölüm söz konusu olunca ünlü şairin bu konudaki en muhteşem şiirinden söz etmemek mümkün değil .</sentence>
+<sentence num="148">Çünkü o bu şiirinde son nefesini eninde sonunda vereceğini 'an gelir 'ile ölümsüzleştiriyordu :an gelir an gelir paldır küldür yıkılır bulutlar gökyüzünde anlaşılmaz bir heybet o eski heyecan ölür an gelir biter muhabbet çalgılar susar heves kalmaz şat r b n ölür şarabın gazabından kork çünkü fena kırmızıdır kan tutar tutan ölür sokaklar kuşatılmış karakollar taranır yağmurda bir militan ölür an gelir ömrünün hırsızıdır her ölen pişman ölür hep yanlış anlaşılmıştır hayalleri yasaklanmış an gelir şimşek yalar masmavi dehşetiyle siyaset meydanını direkler çatırdar yalnızlıktan sehpada pir sultan ölür son umut kırılmıştır kaf dağı'nın ardındaki ne selam artık ne sabah kimseler bilmez nerdeler namlı masal sevdalıları evvel zaman içinde kalbur saman ölür kubbelerde uğuldar b k çeşmelerden akar sinan an gelir l il he illallah kanun süleyman ölür görünmez bir mezarlıktır zaman şairler dolaşır saf saf tenhalarında şiir söyleyerek kim duysa korkudan ölür tahrip gücü yüksek saatlı bir bombadır patlar an gelir Attila İlhan ölür haber7 .</sentence>
+<sentence num="149">Bu neden öyle oldu diye düşünüldüğünde iki gerçek çıkıyor ortaya .</sentence>
+<sentence num="150">Bunu söylediğim zaman herkes şaşırıyor :Çünkü sen Asyalısın !</sentence>
+<sentence num="151">Asyalılar'ın kendilerine mahsus yönetim özellikleri var .</sentence>
+<sentence num="152">Batı'ya heveslendiğin zaman onları bırakıyorsun ve yanlış yapıyorsun .</sentence>
+<sentence num="153">Cengiz Han'a bakın .</sentence>
+<sentence num="154">Cengiz Han Moğol ,ordusu ise Türk'tür .</sentence>
+<sentence num="155">Mete Han Türk ,ordusu Moğol'dur .</sentence>
+<sentence num="156">Asya'ya baktığın zaman kavimcilik ,ırkçılık yoktur .</sentence>
+<sentence num="157">Böyle şeyler düşünülmüyor .</sentence>
+<sentence num="158">Devlet yönetiminde mutlaka bir liderin olması l zım .</sentence>
+<sentence num="159">Doğu'da böyle önemli lideri olmayan bütün kavimler batmıştır .</sentence>
+<sentence num="160">Karizmatik lider olması l zımdır .</sentence>
+<sentence num="161">Öyle biri olacak ki ,o halkın bütünü tarafından bir bileşke sayılacak .</sentence>
+<sentence num="162">İkincisi ,Doğu kavimlerinde Asya kavimleri demek daha doğru din ,dil ,ırk meselesi yoktur .</sentence>
+<sentence num="163">Asya kavimleri arasında din ,dil ,ırk kavgası yaşanmamıştır ;hatta Ruslar'la bizim aramızda yok .</sentence>
+<sentence num="164">Eğer olsaydı bu kadar sene Rusya'da bu kadar Türk oturur muydu ?</sentence>
+<sentence num="165">Bizde de yok .</sentence>
+<sentence num="166">Bu kadar sene Araplar'la yaşamışız hiç gık demeden İngilizler Araplar'ı dürtüklemeseydi yine demezlerdi .</sentence>
+<sentence num="167">Şimdi de arıyorlar bizim zamanımızı .</sentence>
+<sentence num="168">Y ni Doğu ve Asya kavimlerinden olduğun zaman büyük avantajın oluyor .</sentence>
+<sentence num="169">Doğu Ölüm Kavramını H lletmiştir .</sentence>
+<sentence num="170">Çok tuhaf bir şey söyleyeceğim ama gerçek :Doğu ölüm kavramını h lletmiştir .</sentence>
+<sentence num="171">Batı bunu h lledememiştir .</sentence>
+<sentence num="172">Doğu ,3 bin yıldan beri dünyanın hakikatinin ölüm olduğunu bilir .</sentence>
+<sentence num="173">Dünyada başka hakikat yoktur :ölürsün !</sentence>
+<sentence num="174">Batı h len ölümden nasıl kurtulacağım diye uğraşıyor .</sentence>
+<sentence num="175">Kurtulamaz !</sentence>
+<sentence num="176">Bir Batılı ile konuşuyorduk ,işte Eninde sonunda çare bulacağız ve kimse ölmeyecek dedi .</sentence>
+<sentence num="177">Peki nasıl besleyeceksin o kadar insanı ?</sentence>
+<sentence num="178">dedim .</sentence>
+<sentence num="179">Onu hiç düşünmedik dedi .</sentence>
+<sentence num="180">Canım işte uzaya gideriz falan lafları etti ,sonra durdu ve Bazıları öldürülür !</sentence>
+<sentence num="181">dedi .</sentence>
+<sentence num="182">Hay l kuruyorlar .</sentence>
+<sentence num="183">H lbuki Doğu bunu binlerce yıl önce keşfetmiştir .</sentence>
+<sentence num="184">Ahmet Gazal bunu bizde söylemiştir .</sentence>
+<sentence num="185">Biz buna inanırız .</sentence>
+<sentence num="186">Onun için Doğulular Batı ile hır çıktığı zaman rahatlıkla ölürler .</sentence>
+<sentence num="187">Onların ödü patlar ,ölmezler ve o yüzden de iş Irak'takine döner .</sentence>
+<sentence num="188">Her defasında böyle olmuştur .</sentence>
+<sentence num="189">ABD'nin bütün işi ,nasıl 500 600 metreden ve hiç görünmeden adam öldürürüz ,bunu düşünüyorlar .</sentence>
+<sentence num="190">Ölümden ödü patlıyor onların .</sentence>
+<sentence num="191">Ben bunu şöyle kullanıyorum :Bizim ve bütün Avrasyalılar'ın ölebilme k biliyeti var ,onların yok !</sentence>
+<sentence num="192">AN GELİR ATTİLA İLHAN ÖLÜR ..</sentence>
+<sentence num="193">Ve tabi ölüm söz konusu olunca ünlü şairin bu konudaki en muhteşem şiirinden söz etmemek mümkün değil .</sentence>
+<sentence num="194">Çünkü o bu şiirinde son nefesini eninde sonunda vereceğini 'an gelir 'ile ölümsüzleştiriyordu :an gelir an gelir paldır küldür yıkılır bulutlar gökyüzünde anlaşılmaz bir heybet o eski heyecan ölür an gelir biter muhabbet çalgılar susar heves kalmaz şat r b n ölür şarabın gazabından kork çünkü fena kırmızıdır kan tutar tutan ölür sokaklar kuşatılmış karakollar taranır yağmurda bir militan ölür an gelir ömrünün hırsızıdır her ölen pişman ölür hep yanlış anlaşılmıştır hayalleri yasaklanmış an gelir şimşek yalar masmavi dehşetiyle siyaset meydanını direkler çatırdar yalnızlıktan sehpada pir sultan ölür son umut kırılmıştır kaf dağı'nın ardındaki ne selam artık ne sabah kimseler bilmez nerdeler namlı masal sevdalıları evvel zaman içinde kalbur saman ölür kubbelerde uğuldar b k çeşmelerden akar sinan an gelir l il he illallah kanun süleyman ölür görünmez bir mezarlıktır zaman şairler dolaşır saf saf tenhalarında şiir söyleyerek kim duysa korkudan ölür tahrip gücü yüksek saatlı bir bombadır patlar an gelir Attila İlhan ölür haber7 .</sentence>
+</doc>
+<doc>
+<id>164351</id>
+<sentence num="0">2005 10 11 14 :41 :00 .Cnnturk .</sentence>
+<sentence num="1">com okurlarının görüşleri .</sentence>
+<sentence num="2">Eralp Erdoğan Antalya Atilla İlhan hep olsa hiç ölmese hep yolda yürüse ,merdivenlerden inse Atilla İlhan hep olsa onu izlesen için dolsa dolsa sonra nefesini ona versen Atilla İlhan hep olsa unutma çocuk dese hatırla çocuk dese ,pes etme çocuk dese ,bir defa bile dese kalksa bir dese ...</sentence>
+<sentence num="3">Atilla İlhan hep olsa (13 ekim 2005 ,21 .47 )Gülden Demirel Ağrı Henüz 21 yaşındayım .</sentence>
+<sentence num="4">Attila İlhan'ın TRT 2'deki programına hep rastgelirdim ,belki de başladığı günden beri .</sentence>
+<sentence num="5">Attila İlhan'ı çok tanımadığım halde ,dinlemem gerektiğini bilirdim .</sentence>
+<sentence num="6">Biraz dinler ,sonra anlamamaya başlardım .</sentence>
+<sentence num="7">Çünkü o benim bilgimin ötesindeydi .</sentence>
+<sentence num="8">Şimdi onu daha iyi anlamak için kendimi daha da geliştirmem gerektiğine inanıyorum .</sentence>
+<sentence num="9">Onun ölümü anlayamadığım şekilde üzdü beni de .</sentence>
+<sentence num="10">Sanki en yakınımdı .</sentence>
+<sentence num="11">Tüm sevenlerine sabır ...(</sentence>
+<sentence num="12">13 ekim 2005 ,15 .52 )Birtan Ürün İstanbul Hayatta kalan gerçek Atatürkçü ,sermayeye boyun eğmemiş .</sentence>
+<sentence num="13">Memleket milliyetçi ,bağımsızlıkçı ve sonuna kadar devrimci tek aydınımızı da kaybettik .</sentence>
+<sentence num="14">Onu yaşatalım fikirleriyle ,ideolojisiyle yaşatalım .</sentence>
+<sentence num="15">Ve bugün onun bir tane bile kitabını okumamış ,fikrini hiç duymamış bütün insanları utandıralım ...</sentence>
+<sentence num="16">Seni son yolculuğunda omuzumda taşımaktan gurur duyuyorum ustam ...(</sentence>
+<sentence num="17">13 ekim 2005 ,15 .38 )Erdal Saylık İstanbul Gün geldi Attila İlhan öldü .</sentence>
+<sentence num="18">Onun mezarında dua değil ,hep şiir okuyacağız .(</sentence>
+<sentence num="19">13 ekim 2005 ,15 .07 )Eşter Selek Türkiye Ölmek bir son değildir bazı insanlar için ,onlardan biride Attilla İlhan idi .Unutmayalım ki Ölmekte yaşamak yine Halkının yüreğinde .(</sentence>
+<sentence num="20">13 ekim 2005 ,14 .25 )Ufuk Uyan İstanbul Ulusalcı cephe önderini kaybetti ,şu günlerde kaybettiğimiz bütün değerlerimiz gibi .</sentence>
+<sentence num="21">Beş çocuk delik deşik olmuş ,biz kıytırık bir maç için sokaklara dökülüyoruz ,yazıklar olsun bu halka ,yazıklar olsun medyaya ,yazıklar olsun bizi yönetenlere ,yazıklar olsun hepimize ...</sentence>
+<sentence num="22">Bir dinozor kadar olamadık .(</sentence>
+<sentence num="23">13 ekim 2005 ,14 .</sentence>
+<sentence num="24">11 )Atila Er Ordu Daha 16'sında sevdası prangalanmış ,yorgun ülkemin ,yorgun demokratı .</sentence>
+<sentence num="25">Bazen bir şarkıydın ,bazen de aykırı sosyalist ,ama hep Türkiye sevdalısıydın .(</sentence>
+<sentence num="26">13 ekim 2005 ,13 .38 )Berrin Hasanbaşoğlu İstanbul İnsana insani değerleri hatırlatacak ve öğretebilecek önemli şahsiyetlerin yok denecek kadar azaldığı günümüzde ,bu misyona ve vizyona sahip Attila İlhan'ı da kaybetmek son derece üzücüdür .</sentence>
+<sentence num="27">Bu değerli şahsiyetler 'ince düşünen 'insanlardır ve bizim bu gibi şahsiyetlere hararetle ihtiyacımız vardır ama öldükten sonra değil ,hayatta iken .(</sentence>
+<sentence num="28">13 ekim 2005 ,13 .</sentence>
+<sentence num="29">11 )Nihal Asuman Ankara Sevgili Attila İlhan ,sen yurduna ve ulusuna borcunu fazlasıyla ödemiş büyük bir değersin .</sentence>
+<sentence num="30">Seni sevmeyenler malum sebeplerle ,malum kişilerdir .</sentence>
+<sentence num="31">Yerini kimse tutamaz üstad .</sentence>
+<sentence num="32">Minnetle özlemle daima hatırlayacağım .(</sentence>
+<sentence num="33">13 ekim 2005 ,12 .50 )Nevay Dağ Antalya Ölümünü duyduğumda inanamadım .</sentence>
+<sentence num="34">İnanamamak nedendi ?</sentence>
+<sentence num="35">Herkes gibi ölümlü olan biriydi o da .</sentence>
+<sentence num="36">Ama herkesten farkı vardı .</sentence>
+<sentence num="37">Hayatı boyunca ölümsüzleşecek birçok eser bırakmıştı ardında .</sentence>
+<sentence num="38">Mekanın cennet olsun büyük şair ,yazar ve onurlu insan .</sentence>
+<sentence num="39">Bizler seni asla unutmuyacağız .(</sentence>
+<sentence num="40">13 ekim 2005 ,12 .</sentence>
+<sentence num="41">28 )Mahmut Çatak Ankara Attila İlhan'a tanrıdan rahmet diliyorum .</sentence>
+<sentence num="42">Gece bitti ,gün geldi Olmayan kadınları Sevdi Gün geldi Görünmeden yaşayanlara Kızdı Gün geldi Ölümüne sevecek yoktu kükredi Gün geldi Yağmurlarda yıkandı gözyaşları Ağladı Gün geldi Görünmeyen dağların arkasından Esti Gün geldi Ağaçlar selama durdu Eğilmedi Gece bitti Öksüz kaldı şiir Gün geldi Attila ilhan öldü ...(</sentence>
+<sentence num="43">13 ekim 2005 ,11 .59 )Kamil Özbasan İstanbul Şairler sokağına bomba düştü Gözdağı verdi ölüm Şairi almak istedi Haykırdık hepimiz Benim Şair Şair benim Kandırdık Bırakamadı bizi onsuz Ah şu ölüm Densiz ...(</sentence>
+<sentence num="44">13 ekim 2005 ,11 .51 )Bengü Özer Ankara Herşey yoluna girecek .</sentence>
+<sentence num="45">Girmek zorunda !</sentence>
+<sentence num="46">Ruhun rahat etmeli !</sentence>
+<sentence num="47">Çünkü biz sana mecburuz ATTİLA İLHAN .(</sentence>
+<sentence num="48">13 ekim 2005 ,11 .47 )Belgin Hoşsu İzmir Attila İlhan'ın vefatı içimizi sızlattı .</sentence>
+<sentence num="49">Ülkemizde böyle insanlar çok az yetişiyor .</sentence>
+<sentence num="50">Onlar bizim başımızın tacı biz onu ilelebet yaşatacağız .(</sentence>
+<sentence num="51">13 ekim 2005 ,11 .47 )Aydın Zaim Antalya Evet Attila İlhan'ı kaybettik demek yetmiyor .</sentence>
+<sentence num="52">Bir büyük insan ,bir duayeni kaybettik .</sentence>
+<sentence num="53">Sunay Akın'ın dediği gibi bu ülkede değerli insanlar için bayraklar yarıya indirilmeli ama maalesef öyle bir bilincimiz yok ...</sentence>
+<sentence num="54">Tekrar büyük insan ve gelmiş geçmiş büyük insanlarımız için başsağlığı diliyorum .(</sentence>
+<sentence num="55">13 ekim 2005 ,11 .43 )Salim Şeker İstanbul Evet an geldi Attila İlhan öldü .</sentence>
+<sentence num="56">Cumhuriyet tarihinin en büyük şairi ,düşünce adamını kaybetmenin derin üzüntüsünü yaşıyorum .</sentence>
+<sentence num="57">Onun gibi bir şahıs zor gelir .</sentence>
+<sentence num="58">Ben kendi adıma söylüyorum onun gösterdiği aydınlık yolda yürümek ,onu her zaman yaşatmaktır ,diyorum .</sentence>
+<sentence num="59">Ruhun şad olsun Attila İlhan .</sentence>
+<sentence num="60">Biz sana mecburuz .(</sentence>
+<sentence num="61">13 ekim 2005 ,11 .42 )Murat Sınanmış İstanbul Öncelikle ailesinin ve tüm sevenlerinin başı sağolsun dileklerimle .</sentence>
+<sentence num="62">Büyüklüğü öldükten sonra hatırlanan fikir adamları ,bilim adamları ,değeri hiçbir şey ile ölçülmeyecek yazar şairlerimizden biri Attila İlhan ne mutlu sana ve sen gibi bu dünyada kalıcı fikir düşünce ve de duygularını paylaşanlara .</sentence>
+<sentence num="63">Allah sizi mekanınızda rahat ettirsin ,ruhunuz şad mekanınız cennet olsun ..</sentence>
+<sentence num="64">Allah sizlerden razı olsun .</sentence>
+<sentence num="65">Sizler dünya varoldukça yaşayan değerlersiniz ...(</sentence>
+<sentence num="66">13 ekim 2005 ,11 .42 )Ali Özüdoğru İstanbul Seni kaybettik usta ...</sentence>
+<sentence num="67">Bizlere öğrettiğin gibi 'yaraya tuz basmak 'zamanı ...(</sentence>
+<sentence num="68">13 ekim 2005 ,11 .40 )Murat Budak Antalya Ona bir dönemin şairi demek haksızlık olur .</sentence>
+<sentence num="69">Neredeyse tüm Cumhuriyet tarihinin en büyük şairlerinden birisiydi Attila İlhan .</sentence>
+<sentence num="70">Yokluğunu ileride hissedeceğiz .(</sentence>
+<sentence num="71">13 ekim 2005 ,11 .39 )Emine Kılıç İstanbul Hayatım boyunca gördüğüm ,görebileceğim en büyük şair ,en büyük yazar ,en büyük duygu adamı ,en büyük aydını ...</sentence>
+<sentence num="72">kaybettik .</sentence>
+<sentence num="73">O'nu ,o huzur veren sesini ,derin ifadelerini asla unutmayacağım .</sentence>
+<sentence num="74">Güle güle Attila İlhan .(</sentence>
+<sentence num="75">13 ekim 2005 ,10 .26 )Onur Aydın Los Angeles A .B .D .Cennet'in şairler bahçesinde artık yaradanın yüreğini okşuyordur .</sentence>
+<sentence num="76">Felaketimiz oldu ,ağladık ...(</sentence>
+<sentence num="77">12 ekim 2005 ,11 .53 )M .Saltuk Arıkan Erzurum Türkiye'nin başı sağolsun .</sentence>
+<sentence num="78">O Cumhuriyetle yaşıttı .</sentence>
+<sentence num="79">O bizlere nasıl bugünlere geldiğimizi anlattı .</sentence>
+<sentence num="80">Ve sonunda dediği gibi oldu 'Abbas yolcu '...(</sentence>
+<sentence num="81">12 ekim 2005 ,11 .53 )Kazım Güler İzmir Yaşadığı dönemde onu görmezden gelen ,fikirlerine sansür uygulayan boyalı basın şimdi ölümünü manşetlere çıkarıyor .</sentence>
+<sentence num="82">Duyduğu üzüntüden mi ?</sentence>
+<sentence num="83">O gerçek bir Atatürkçü ve bu ulusun bağrında yetişmiş 80 yıllık ulu bir çınardı .</sentence>
+<sentence num="84">Devletimize ve ulusumuza yönelen tehlikelerin ilk farkına varan ve son ana kadar bu konuda halkımızı aydınlatmak için uğraş veren gerçek bir vatanseverdi .</sentence>
+<sentence num="85">Halkımızın başı sağolsun ...</sentence>
+<sentence num="86">Mandacı ve Sorosçu aydınların ise gözü aydın ...(</sentence>
+<sentence num="87">12 ekim 2005 ,11 .34 )Mine Ateş İstanbul Büyük usta ve malesef yine bir aydınımızı ,semtimizin değerli bir büyüğünü kaybetmemizin üzüntüsü içerisindeyim .</sentence>
+<sentence num="88">Türkiye'nin Attila İlhan gibi aydınlara çok ihtiyacı vardır .(</sentence>
+<sentence num="89">12 ekim 2005 ,11 .33 )Kürşat Hocaoğlu İstanbul Türkiye çok büyük bir şairini ,entellektüelini ,bütün işi gücü okumak ,düşünmek ,yazmak ,anlatmak ,aydınlatmak olan büyük beyinlerinden birini yitirdi .</sentence>
+<sentence num="90">Son dönemlerde maalesef özellikle AB süreciyle ,milliyetçi duruşundan rahatsız olan tekel medyası ,hatta TRT yüzünden ancak küçük kanallarda sesini duyar olduğumuz ,aşağı yukarı 50 küsur yıllık bir isim olan Attila İlhan ,bir aydının sahip olması gereken en önemli özelliğe sahipti :Bir kişiliğe ,bir duruşa .</sentence>
+<sentence num="91">Üzüntümü tarif edemem .</sentence>
+<sentence num="92">Tüm Türkiye'nin başı sağolsun .</sentence>
+<sentence num="93">Allah rahmet eylesin .(</sentence>
+<sentence num="94">12 ekim 2005 ,02 .34 )Gülizar Ektir Düzce Attila İlhan Türkiye edbiyat ve düşünce fikir tarihinde bir daha zor bulunabilecek ender insanlardan biridir .</sentence>
+<sentence num="95">Tatlı sohbeti ,şiirleri ,Türkiye'nin gerçeğini anlatan araştırmaları kesinlikle mükemmel ve yabana atılmayacak değerdedir bence .</sentence>
+<sentence num="96">O ve yapıtları daima anımsanmalı .</sentence>
+<sentence num="97">Ona ve fikirlerine aşık biri olarak onunla tanışamadığım ,onunla sohbet edemediğim için çok çok üzgünüm .</sentence>
+<sentence num="98">Onu kaybetmek beni çok üzdü .</sentence>
+<sentence num="99">Tüm Attila İlhan aşıklarının başı sağolsun .</sentence>
+<sentence num="100">Onu daima anımsayalım lütfen !!!(</sentence>
+<sentence num="101">12 ekim 2005 ,00 .58 )Erdal Akkaya İstanbul Atilla ilhan'ın Türkiye'nin aydınlanmasına verdiği katkı hiçbir zaman unutulmayacak .</sentence>
+<sentence num="102">Şiirlerde ve Türkiye'nin umut dolu yarınlarında yaşayacak yaşatılacak .(</sentence>
+<sentence num="103">12 ekim 2005 ,00 .05 )Hüseyin Yaşar Isparta Memleket büyük bir insanını kaybetti .</sentence>
+<sentence num="104">Biliyoruz ki yolu aydınlıktı ve yine öyle olacaktır sonsuza kadar .(</sentence>
+<sentence num="105">11 ekim 2005 ,23 .54 )Tuğrul Oğuz İstanbul Atilla İlhan ,Türkiye'nin yetiştirdiği bilge bir kişidir .</sentence>
+<sentence num="106">Gerçek bir aydındır .</sentence>
+<sentence num="107">Yazın ustasıdır .</sentence>
+<sentence num="108">Ulusal düşüncenin ulu bir önderidir .</sentence>
+<sentence num="109">Onun bu kişilikli ve namuslu duruşu diğer devşirme aydınlardan (!)</sentence>
+<sentence num="110">farkını ortaya koymaktadır .</sentence>
+<sentence num="111">Halkının bağrında yaşayacaktır .</sentence>
+<sentence num="112">Başımız sağolsun .(</sentence>
+<sentence num="113">11 ekim 2005 ,23 .16 )Bulunç Başer Sakarya Attila İlhan'ı bilmek ,muhakeme etmek ,yorumlamak her bir bireyin yapması gereken bir olgudur .</sentence>
+<sentence num="114">Attila İlhan'ın ölümü ülkemizin şu zamanlarında hakikaten büyük bir talihsizlik .</sentence>
+<sentence num="115">Kendisini sevgi ve saygıyla anarken ,eserlerinin ve düşüncelerinin her bireyin paylaşması gerektiğini altını üstünü çizerek ifade etmek zorundayım .(</sentence>
+<sentence num="116">11 ekim 2005 ,22 .49 )Sevcan Öztürk İstanbul An gelir Atilla İlhan ölür ...</sentence>
+<sentence num="117">Ağladık ...(</sentence>
+<sentence num="118">11 ekim 2005 ,22 .38 )Erkan Ergül İzmir Attila İlhan ...</sentence>
+<sentence num="119">Bir yıldız daha kaydı ,şiir dünyasından .</sentence>
+<sentence num="120">Şimdi kim öper bilmem şehir hatlarında kadınları .</sentence>
+<sentence num="121">Tek bildiğim ,yüreğimize yüreğinden yazdığı dizeler ,bayrak yarışı gibi yarına taşınacak ...</sentence>
+<sentence num="122">Ruhun şad olsun ,Kaptan ...(</sentence>
+<sentence num="123">11 ekim 2005 ,22 .36 )Gökay Engin Karaçaltı Adana Bu kadar bilgili ,bu kadar cesur ve de bu kadar yüreği ile düşünen can'ımızı kaybettik .</sentence>
+<sentence num="124">Sislerin ardında ama hep yanımızdasın ...(</sentence>
+<sentence num="125">11ekim 2005 ,22 .19 )Abdullah Gümüş Ankara Attil İlhan'ı bir tek gruba indirgeyerek ,onu dar kalıplar içerisinde değerlendirmek oldukça güç .</sentence>
+<sentence num="126">O ,yüzyılımıza imzasını atan ,dünyayı çözmüş ,yorumlamış ve ona çözümler türetmiş bir düşün adamıdır .</sentence>
+<sentence num="127">Kendisini ifade etmek adına tek bir yolu izlemekle yetinmemiş ,şiirle başladığı serüvenini roman ,deneme ,senaryo ve köşe yazılarıyla zenginleştirerek topluma ulaştırmıştır .</sentence>
+<sentence num="128">Çoğu yazarın dolaşmak istemeyeceği alanlarda korkusuzca yazılar yazan Attil İlhan ,topluma ve çağımıza bir anlamda ayna tutmakta ,zamanın tanıklığını yapmaktadır .(</sentence>
+<sentence num="129">11 ekim 2005 ,21 .24 )Erdem Tulunay Ankara Televizyonlarda çok yankılanmadı vedası böylesine ulu bir çınarın ,ancak düşünmesini bilenlerin yüreklerinde çınladı .</sentence>
+<sentence num="130">Her yönüyle bir aydındı ,zevkle izlediğim sohbetlerini çok özleyecek olsakta geride biraktığı sayısız eseri biraz avuntu olacak .</sentence>
+<sentence num="131">Herkesin yeri dolamaz ,elimizde çok az kalan Atilla İlhan gibi değerleri kaybetmek her zaman acı verecektir .</sentence>
+<sentence num="132">Hepimizin başı soğolsun .(</sentence>
+<sentence num="133">11 ekim 2005 ,21 .</sentence>
+<sentence num="134">03 )Ayşegül Acar İstanbul Yeri asla dolmayacak büyük aydın ...(</sentence>
+<sentence num="135">11 ekim 2005 ,20 .39 )Levent Yılmaz Almanya Çok üzgünüm ,büyük bir aydın yurtsever ,anti emparyalist ,memleket milliyetçisi öldü .</sentence>
+<sentence num="136">Tüm anadolu halkının başı sağolsun .(</sentence>
+<sentence num="137">11 ekim 2005 ,20 .</sentence>
+<sentence num="138">14 )Hakan Coşkun Zonguldak Ben İngiltere'de beş yıl kaldım .</sentence>
+<sentence num="139">Bu gibi bir şey üretmeyip sağa sola saldıran yazarlar ya da şairlere okuyucular öyle baskı yapıyor ki ya yazarılığı bırakıyor ya da iyi üretmek zorunda kalıyor .</sentence>
+<sentence num="140">Yani Türkiye'nin demokratik durumu üçüncü sınıf ,gerçi son yıllarda bu şair ve yazarlara rağmen siyasilerin demokratikleşme çabaları sayesinde ikinci sınıfa indi ,ama yazarları hala üçüncü sınıf yani üçüncü sınıf bir kayıp .(</sentence>
+<sentence num="141">11 ekim 2005 ,20 .05 )Zafer Küçükçoban İstanbul Türk edebiyatında aydın sıfatını her yönüyle hak eden ender değerlerden biriydi Attilla İlhan .</sentence>
+<sentence num="142">Edebiyatın çeşitli dallarında ürettiği eşşiz eserleriyle ,hiç bir kalıba sığmayan düşünceleriyle özgün olabilen ve sırf bu yüzden eleştirilere maruz kalan yeri doldurulamaz bir şairi kaybettik .</sentence>
+<sentence num="143">Başımız sağolsun .(</sentence>
+<sentence num="144">11 ekim 2005 ,18 .37 )Nazım Timuroğlu İstanbul Merhaba ,Atilla İlhan'ın vefatı üzerine ,aklıma üstadın bilinmeyen ,görülmemiş gençlik yıllarına ait (1950 )fotoğrafları geldi .</sentence>
+<sentence num="145">Yayımlamak isterseniz gönderebilirim .</sentence>
+<sentence num="146">İyi günler ...(</sentence>
+<sentence num="147">11 ekim 2005 ,17 .</sentence>
+<sentence num="148">28 )Aydanur Baradan Yaşarken dinazordu .</sentence>
+<sentence num="149">Öldü çınar oldu .</sentence>
+<sentence num="150">Bu nasil çelişki sayın medya !!!(</sentence>
+<sentence num="151">11 ekim 2005 ,17 .34 )Özden Yolagiden Mersin Attila İlhan ,yaşayan en büyük Türk aydınıydı .</sentence>
+<sentence num="152">Atatürk'ün ve devrimlerinin yılmaz savunucusuydu .</sentence>
+<sentence num="153">Hayattan ayrılması ,bizleri öksüz bıraksa da ,yaşamını yitirmiş olan Atatürk ve yandaşları sevinmiş olmalı .</sentence>
+<sentence num="154">Ama önemli olan onun gidişi ve bizim üzüntümüz .</sentence>
+<sentence num="155">Rahat uyu ustam .(</sentence>
+<sentence num="156">11 ekim 2005 ,17 .</sentence>
+<sentence num="157">28 )Can Özhan İstanbul Attila İlhan ,Atatürk ve Mahir Çayan'la birlikte bu toprakların en acı ,en yeri doldurulamaz kaybıdır .</sentence>
+<sentence num="158">Yeri hiç dolmayacak gibi maalesef .(</sentence>
+<sentence num="159">11 ekim 2005 ,16 .46 )Tamer Barış Saydam İstanbul An gelir paldır küldür yıkılır bulutlar gökyüzünde ..</sentence>
+<sentence num="160">Anlaşılmaz bir heybet o eski heyecan ölür ..</sentence>
+<sentence num="161">An gelir biter muhabbet çalgıları susar ,heves kalmaz şat r b n ölür ..</sentence>
+<sentence num="162">Bir büyük değeri daha kaybettik ,peki ya yenileri ?</sentence>
+<sentence num="163">Bu boşluğu dolduracak biri var mı ?(</sentence>
+<sentence num="164">11 ekim 2005 ,16 .45 )M .Cem Gür İstanbul Ülkem Cumhuriyet devrimini ve Mustafa Kemal'i en iyi bilen ve yorumlayan ,önemli bir değerini yitirdi .</sentence>
+<sentence num="165">Yolu ışık olsun .(</sentence>
+<sentence num="166">11 ekim 2005 ,16 .</sentence>
+<sentence num="167">28 )Melek Sezengir Attila İlhan'ın vefatına çok üzüldüm .</sentence>
+<sentence num="168">Büyük kayıp .</sentence>
+<sentence num="169">Büyük bir beyin ,düşünce adamı ,duygu adamı ,büyük bir şair Türkiye semalarından kayıp gitti .</sentence>
+<sentence num="170">Geride kalan bizler için düşündürücü olan ,Türkiye'de bu kalibrede beyinlerin çok çok az kalması .</sentence>
+<sentence num="171">TV sohbetlerini çok özleyeceğim .</sentence>
+<sentence num="172">Kitaplarını hep saklayacağım .(</sentence>
+<sentence num="173">11 ekim 2005 ,15 .19 ).</sentence>
+</doc>
+<doc>
+<id>164405</id>
+<sentence num="0">2005 10 11 15 :36 :00 .TRT Atilla İlhan ayıbını nasıl örtecek .</sentence>
+<sentence num="1">Son olarak 'Bir Millet Uyanıyor 'adlı kitabında siyasi kesimin hemen her renginden seslere yer veren Attila İlhan ,milli iradenin canlı tutulması yönünde çaba sarf eden gerçek bir aydınlık savaşcısıydı .</sentence>
+<sentence num="2">O ilerleyen yaşına rağmen sergilediği olağanüstü performansla bir milleti uyandırmak için yırtınmış ama TRT'yi uyandırmaya gücü yetmemişti .</sentence>
+<sentence num="3">TAM BİR YIL ÖNCE KOVULDU Bundan tam bir yıl önce Attila İlhan'ın TRT'de yayınlanan programı ani bir kararla sanatçıya haber bile verilmeden yayından kaldırılmış ve büyük fikir adamına resmen kapı gösterilmişti .</sentence>
+<sentence num="4">Attila İlhan TRT'den giderek bir şey kaybetmemişti ama TRT büyük bir prestij kaybına uğramıştı .</sentence>
+<sentence num="5">Yalnızca meraklılarının izlediği ama büyük bir tutku ile takip ettiği son derece yararlı bir programdı ,''Atilla İlhan'la Zaman İçinde Yolculuk .</sentence>
+<sentence num="6">Üstad bu programda Osmanlı ve Rus arşiv belgelerinden derlediği bilgilerle ,tarihin gizli kapaklı kalmış gerçeklerinin üstündeki sis perdelerini bir bir aralıyordu .</sentence>
+<sentence num="7">Ama bir gün çekim için TRT binasına geldiğinde ,kendisine programın yayından kaldırıldığı belirtilmişti .</sentence>
+<sentence num="8">Daha önce haber verilmeksizin yapılan bu ayıbın tabi ki en büyük sorumlusu o günlerde TRT Genel Müdürü olan ve bir süre önce de olaylı şekilde istifa eden Şenol Demiröz idi .DEMİRÖZ'ÜN ÖZRÜ KABAHATİNDEN BÜYÜKTÜ Programın kaldırılış gerekçesi rayting almamasıydı .</sentence>
+<sentence num="9">Onca program arasında büyük ustanın programının raytingi göze batmış ve kendisi onca yıllık kariyerine ve ününe bakılmaksızın terbiye sınırlarını aşan bir şekilde kapı dışarı edilmişti .</sentence>
+<sentence num="10">TRT Genel Müdürlüğü'nün yaptığı açıklama ise daha da büyük bir ayıbı gözler önüne seriyordu .</sentence>
+<sentence num="11">Atilla İlhan'a TRT 2'de yayınlanan ''Atilla İlhan'la Zaman İçinde Yolculuk ''adlı programının formatının yenilenmesini (monolog yerine diyaloglu program tarzı )önerilmişti .</sentence>
+<sentence num="12">İlhan ise ,bu ukalaca öneriyi sağlık sorunlarını gerekçe göstererek kendisine yakışan nezaketle reddetmiş ve bir daha TRT'ye dönmemişti .</sentence>
+<sentence num="13">TRT'den yapılan açıklamada şu ifadeler yer alıyordu :Değerli edebiyatçımız Sayın Attila İlhan'ın TRT 2'de programı devam ederken ,kurumumuz tarafından kendilerine program formatıyla ilgili değişiklik önerisi getirilmiştir .</sentence>
+<sentence num="14">Programın monolog tarzının değiştirilerek ,farklı bir formatta yenilenmesi önerisi sunulmuştur .</sentence>
+<sentence num="15">Ancak ,Sayın İlhan bu öneriyi ,sağlık sorunlarını gerekçe göstererek kabul edemeyeceğini belirtmişlerdir .</sentence>
+<sentence num="16">Büyük ustanın kıymetini anlamayan ,programın siyasi ve kültürel önemini idrak edemeyen ,tarihi açıdan bir hazineyi elinden uçurduğunu fark edemeyen TRT ,daha sonra kuruma yağan faks ve mail ve telefon protestoları ile aslında ne denli önemli bir programa son verdiğini anlıyordu .</sentence>
+<sentence num="17">Ama iş işten geçmiş ,kuş yuvadan uçmuştu .</sentence>
+<sentence num="18">TRT'YE BÜYÜK GÖREV DÜŞÜYOR Attila İlhan TRT'den ayrıldıktan sonra ,vefat etmeden kanalturk ekranlarında bir iki program yapma şansı bulmuştu .</sentence>
+<sentence num="19">Ama bu kültür ve tarih hazinesinin asıl büyük kısmı şu anda TRT arşivlerindedir .</sentence>
+<sentence num="20">Şimdi gözler TRT'de .</sentence>
+<sentence num="21">Bakalım TRT büyük ustaya karşı sergilediği ayıbı yapacağı programlarla örtmeyi başarabilecek mi ?</sentence>
+<sentence num="22">haber7 .</sentence>
+</doc>
+<doc>
+<id>164449</id>
+<sentence num="0">2005 10 11 16 :34 :00 .Siyasilerin Attila İlhan mesajları .</sentence>
+<sentence num="1">CUMHURBAŞKANI SEZER :SAYGIYLA ANILACAK Cumhurbaşkanı Ahmet Necdet Sezer ,Attila İlhan'ın ölümünden büyük üzüntü duyduğunu belirterek ,''Şiir ,roman ve denemeleriyle Ulusumuzun sevgisini kazanan Attila İlhan ,yazınımızın usta isimleri arasında her zaman saygıyla anılacak ,geride bıraktığı yapıtlarıyla yaşayacaktır ''dedi .</sentence>
+<sentence num="2">Cumhurbaşkanlığı Basın Merkezi'nden yapılan açıklamaya göre ,Cumhurbaşkanı Sezer ,şair yazar Attila İlhan'ın vefatı dolayısıyla başsağlığı mesajı yayınladı .</sentence>
+<sentence num="3">Sezer ,mesajında şunları kaydetti :''Şiir ,roman ve denemeleriyle Ulusumuzun sevgisini kazanan Attila İlhan ,yazınımızın usta isimleri arasında her zaman saygıyla anılacak ,geride bıraktığı yapıtlarıyla yaşayacaktır .</sentence>
+<sentence num="4">Yapıtları beğeniyle okunan Attila İlhan ,kendisinden sonraki kuşaklar için de yol gösterici olmayı sürdürecektir .</sentence>
+<sentence num="5">Kendisine Tanrı'dan rahmet ,ailesine ,yazın ve basın dünyamıza başsağlığı dilerim .''</sentence>
+<sentence num="6">Açıklamada ,Cumhurbaşkanı Sezer'in ,ayrıca Attila İlhan'ın kardeşiÇolpan İlhan'a da bir telgraf göndererek ,başsağlığı dileğinde bulunduğu bildirildi .</sentence>
+<sentence num="7">TBMM BAŞKANI ARINÇ :BIRAKTIĞI ESERLERLE YAŞAMAYA DEVAM EDECEK TBMM Başkanı Bülent Arınç ,Attila İlhan'ın vefatını üzüntüyle öğrendiğini belirterek ,''Kalemini ,edebiyatın her alanında ustalıkla kullanan Attila İlhan ,geride bıraktığı eserleriyle yaşamaya devam edecektir ''dedi .</sentence>
+<sentence num="8">Arınç ,Attila İlhan'ın vefatı nedeniyle yayınladığı mesajda şunları kaydetti :''Türk edebiyatının en önemli isimlerinden biri olan Attila İlhan'ın hayatını kaybetmesini üzüntüyle öğrenmiş bulunmaktayım .</sentence>
+<sentence num="9">Kalemini ,edebiyatın her alanında ustalıkla kullanan Attila İlhan ,geride bıraktığı eserleriyle yaşamaya devam edecektir .</sentence>
+<sentence num="10">Yaklaşık 60 yıl boyunca sanat ve edebiyat dünyasından hiç kopmayanİlhan ,Türkiye dışında da hak ettiği şöhrete ulaşmış bir isimdir .</sentence>
+<sentence num="11">Bu büyük acı dolayısıyla ,başta İlhan'ın yakınları olmak üzere sanat ve edebiyat dünyamıza başsağlığı dileklerimi iletiyorum .''</sentence>
+<sentence num="12">BAŞBAKAN ERDOĞAN'IN MESAJI Başbakan Recep Tayyip Erdoğan ,Attila İlhan ,bıraktığı eserleriyle sevenlerinin kalbinde yaşamaya devam edecektir ''dedi .</sentence>
+<sentence num="13">Erdoğan ,Attila İlhan'ın vefatı dolayısıyla yayınladığı başsağlığı mesajında şunları kaydetti :''Edebiyat dünyamızın önemli isimlerinden Attila İlhan'ın vefatından büyük üzüntü duydum .</sentence>
+<sentence num="14">Kaleme aldığı şiir ,roman ve denemeleriyle büyük bir okuyucu kitlesine sahip olan Attila İlhan ,bıraktığı eserleriyle sevenlerinin kalbinde yaşamaya devam edecektir .</sentence>
+<sentence num="15">Değerli şair ve yazar Attila İlhan'a Allah'tan rahmet ,edebiyat ve basın camiamıza başsağlığı dilerim .''</sentence>
+<sentence num="16">Başbakan Erdoğan ,ayrıca Attila İlhan'ın kardeşi Çolpan İlhan'a da bir başsağlığı mesajı gönderdi .</sentence>
+<sentence num="17">KÜLTÜR VE TURİZM BAKANI KOÇ :GERÇEK BİR EDEBİYATÇIYDI Kültür ve Turizm Bakanı Atilla Koç ,gerçek bir edebiyat ve kültür adamı olan Attila İlhan'ın şiirleri ve romanlarıyla yaşamaya devam edeceğini ve Türk halkının gönlündeki müstesna yeri koruyarak daima saygı ile anılacağını belirtti .</sentence>
+<sentence num="18">Koç ,Attila İlhan'ın vefatı nedeniyle yayınladığı başsağlığı mesajında ,çağdaş Türk edebiyatının en önemli isimlerinden Attila İlhan'ın vefatını üzüntüyle öğrendiğini ifade etti .</sentence>
+<sentence num="19">Koç ,mesajında şunları kaydetti :''Şair ,romancı ve gazeteci kimliğinin yanı sıra deneme ,eleştiri ve senaryo yazarı olarak ortaya koyduğu başarılı eserleriyle Cumhuriyet sonrası Türk edebiyatında kendine özgü bir yer edinen ve yazılarıyla topluma ayna tutan Attila İlhan ,ülkemizin yetiştirdiği ender aydınlardan biriydi .</sentence>
+<sentence num="20">Gerçek bir edebiyat ve kültür adamı olan Attila İlhan ,şiirleri veromanlarıyla yaşamaya devam edecek ve Türk halkının gönlündeki müstesna yeri koruyarak daima saygı ile anılacaktır .</sentence>
+<sentence num="21">Bu düşüncelerle edebiyat ,sanat ve basın dünyamızın saygın ismi merhum Attila İlhan'a rahmet ,sevenlerine ve edebiyat camiasına başsağlığı diliyorum .''</sentence>
+<sentence num="22">CHP GENEL BAŞKANI BAYKAL :BÜYÜK BİR BOYLUK DOĞURDU CHP Genel Başkanı Deniz Baykal ,Attilaİlhan'ın kaybının yazın ,kültür ,sanat ,düşün ve medya dünyası için çok büyük bir eksiklik ve boşluk olduğunu belirtti .</sentence>
+<sentence num="23">Baykal ,Türk edebiyatı ve yayın dünyasının önde gelen ismi Attila İlhan'ın vefatının ardından yayınladığı başsağlığı mesajında ,İlhan'ın kaybından duyduğu derin üzüntüyü dile getirdi .</sentence>
+<sentence num="24">Attila İlhan'ın 16 yaşındayken fikir suçlusu ilan edildiğini ,öğrenimine Danıştay kararı ile devam ettiğini ve 1946 yılında Cahit Sıtkı Tarancı ile Fazıl Hüsnü Dağlarca'nın da katıldığı CHP'nin şiir yarışmasında ikinci olduğunu ifade eden Baykal ,İlhan'ın 60 yıldır edebiyat ,fikir ve yorum dünyasının ,radyoların ,televizyonların ,gazetelerin önde gelen seçkin ve saygın isimleri arasında yer aldığını belirtti .</sentence>
+<sentence num="25">Attila İlhan'ın yaşamının mücadeleler ,dersler ,özveriler ve kararlılıkla dolu olduğuna işaret eden Baykal ,şunları kaydetti :''Attila İlhan ,1949 yılında İstanbul Üniversitesi Hukuk Fakültesi'ni yarıda bırakıp Paris'e gitti .</sentence>
+<sentence num="26">Orada Nazım Hikmet'in cezaevinden çıkarılması için yapılan etkinliklere katıldı .</sentence>
+<sentence num="27">1950'li yıllarda Vatan Gazetesi'nde sinema eleştirileri yayınladı .'</sentence>
+<sentence num="28">Ali Kaptanoğlu 'takma adıyla Yeşilçam'a senaryolar ,daha sonra televizyon dizisi senaryoları yazdı .</sentence>
+<sentence num="29">İzmir'de Demokrat İzmir Gazetesi'nin genel yayın müdürlüğünü ,başyazarlığını üstlendi .</sentence>
+<sentence num="30">1973'den 1980'e kadar Bilgi Yayınevi'nde danışman olarak çalıştı .</sentence>
+<sentence num="31">İstanbul'da beş yıl Sanat Olayı dergisini yönetti .</sentence>
+<sentence num="32">Çeşitli gazetelerde köşe yazarlığı yapan ve kısa bir süre öncesine kadar Cumhuriyet gazetesinde köşe yazıları ,televizyonlarda sohbetleri ,söyleşileri yayınlanan ,1974'te Türk Dil Kurumu Şiir Ödülü'nü ,1974 1975 Yunus Nadi Roman Armağanı'nı kazanan Attila İlhan'ın kaybı ,yazın ,kültür ,sanat ,düşün ve medya dünyası için çok büyük bir eksiklik ,büyük bir boşluktur .</sentence>
+<sentence num="33">Kaybından her zaman büyük üzüntü duyacağımız Attila İlhan'a rahmet ,kıymetli ailesine ,edebiyat ,fikir ve yayın dünyasına sabır ile başsağlığı diliyorum .''</sentence>
+<sentence num="34">ANAVATAN GENEL BAŞKANI MUMCU :TÜRK EDEBİYATINA IŞIK TUTTU ANAVATAN Genel Başkanı Erkan Mumcu ,Attila İlhan'ın vefatını büyük bir üzüntü ile öğrendiğini belirterek ,İlhan'ın yazılarıyla topluma ve çağa bir anlamda ayna tuttuğunu ifade etti .</sentence>
+<sentence num="35">Mumcu ,Attila İlhan'ın vefatı dolayısıyla başsağlığı mesajı yayınladı .</sentence>
+<sentence num="36">Mumcu mesajında şunları kaydetti :''Attila İlhan ,şiirleri ve romanlarıyla ,Türk edebiyat dünyasına yön vermiş ,örnek olmuş ,dar kalıplar içerisinde değerlendirilmesi ve yorumlanması mümkün olmayan büyük bir düşün adamıdır .</sentence>
+<sentence num="37">Yazılarıyla topluma ve çağımıza bir anlamda ayna tutmuş olan Attila İlhan ,çağdaş Türk edebiyatının gelişimine de büyük katkılar sağlamıştır .</sentence>
+<sentence num="38">Büyük ustaya Yüce Allah'tan rahmet diler ,Türk milletinin ,kederli ailesinin ve yakınlarının derin acısını paylaşırım .''</sentence>
+<sentence num="39">MEHMET AĞAR'IN MESAJI DYP Genel Başkanı Mehmet Ağar ,Attila İlhan'ın ,yazdığı birçok kitap ve şiirlerle tarihteki mümtaz yerini aldığını kaydetti .</sentence>
+<sentence num="40">Ağar ,Attila İlhan'ın vefatı dolayısıyla gazeteci yazar Tuncay Özkan ve ailesine başsağlığı mesajı gönderdi .</sentence>
+<sentence num="41">Ağar'ın mesajı şöyle :''Günümüzün çok değerli düşünürü ,tarihi doğru süzerek ulusçuluğuna yansıtan değerli yazar ve şair Sayın Attila İlhan'ın vefatı hepimizi derinden üzmüştür .</sentence>
+<sentence num="42">Atatürk düşüncelerini özümseyerek aydın kimliği ve fikriyatıyla Türk halkına ışık olan Attila İlhan ,yazdığı birçok kitap ve şiirle tarihimizdeki mümtaz yerini almıştır .</sentence>
+<sentence num="43">Türk edebiyatına kazandırdığı sayısız eserleri Sayın Attila İlhan'ı gelecek nesillere taşıyacak ve içimizde yaşayacak .</sentence>
+<sentence num="44">50 yılı aşkın süredir Türk edebiyatına kazandırdıklarıyla anılan ve bundan sonra da hep anılacak olan Attila İlhan'a Allah'tan rahmet ,size ve şahsınızda tüm ailesine başsağlığı dilerim .'</sentence>
+<sentence num="45">BBP GENEL BAŞKANI YAZICIOĞU :ÜZÜNTÜM ÇOK BÜYÜK BBP Genel Başkanı Muhsin Yazıcıoğlu ,Attila İlhan'ın ölümünden büyük bir üzüntü duyduğunu belirterek ,Türk milletinin idealist ve büyük bir insanını kaybettiğini ifade etti .</sentence>
+<sentence num="46">BBP Genel Başkanı Muhsin Yazıcıoğlu ,Attila İlhan'ın vefatı dolayısıyla bir başsağlığı mesajı yayınladı .</sentence>
+<sentence num="47">Yazıcıoğlu mesajında ,Attila İlhan'ı ebedi yolculuğuna uğurlarken derin bir üzüntü içerisinde olduklarını ifade ederek şunları kaydetti :''Türk milleti idealist ve büyük bir insanını kaybetmiştir .</sentence>
+<sentence num="48">Ancak eserleriyle ve milletimize yaptığı büyük hizmetlerle ,gelecek nesiller onu fikirleriyle yaşatacaktır .</sentence>
+<sentence num="49">Büyük bir şair ,yazar ve düşünür olan milli bilinç ve direnci ile milletimize ,milli heyecan veren saygıdeğer Attila İlhan'a Allah'tan rahmet ,ailesine ,dostlarına ve aziz Türk milletine başsağlığı diliyorum .''</sentence>
+<sentence num="50">DSP GENEL BAŞKANI SEZER :BİR AYDINLANMA SAVAŞÇISIYDI DSP Genel Başkanı Zeki Sezer ,Attila İlhan'ın vefatından büyük üzüntü duyduğunu belirterek ,Türk milletinin kitlelere mal olmuş büyük bir şairi ,bir aydınlanma savaşçısını yitirdiğini ifade etti .</sentence>
+<sentence num="51">Sezer ,Attila İlhan'ın vefatı dolayısıyla bir başsağlığı mesajı yayınladı .</sentence>
+<sentence num="52">Sezer mesajında şunları kaydetti :''Türkiye'nin yetiştirdiği kitlelere mal olmuş büyük bir şairi ,bir büyük düşün adamını ,Atatürkçülüğün yılmaz bir savunucusunu ve bir aydınlanma savaşçısını yitirdik .</sentence>
+<sentence num="53">O ,sanatı ,görüşleri ve son günlere kadar eksilmeyen enerjisiyle Türk ulusuna ve insanlığa ışık saçan hizmetler vermiştir .</sentence>
+<sentence num="54">Onun aramızdan ayrılışı hiç kuşkusuz halkımız ve insanlık için büyük kayıptır ve hepimizin yüreğinde doldurulamayacak büyük bir boşluk yaratacaktır .</sentence>
+<sentence num="55">Attila İlhan'a Allah'tan rahmet ;yakınlarına ,yazın ve düşün dünyamıza ve tüm halkımıza başsağlığı ve sabır diliyorum .''</sentence>
+<sentence num="56">HÜRPARTİ GENEL BAŞKANI OKUYAN :ULUSALCI ANLAYIŞI İLE YAŞAYACAK HÜRPARTİ Genel Başkanı Yaşar Okuyan ,Attila İlhan'ın ölümünden büyük üzüntü duyduklarını belirterek ,İlhan'ın ulusalcı anlayışı ve fikirleriyle yaşamaya devam edeceğini ifade etti .</sentence>
+<sentence num="57">Okuyan ,Attila İlhan'ın vefatı dolayısıyla başsağlığı mesajı yayınladı .</sentence>
+<sentence num="58">Okuyan ,mesajında şunları kaydetti :''Attila İlhan Türk edebiyatında şair ,yazar ,senarist olarak çok önemli ve çok değerli bir sanatçı olmakla birlikte Türk fikir ve düşünce hayatına yapmış olduğu katkılar onu ayrıcalıklı ve toplumda haklı olarak farklı bir konuma getirmiştir .</sentence>
+<sentence num="59">Attila İlhan ,özellikle Türkiye'nin birlik ve beraberliğine ,üniter yapısına ,cumhuriyete ,cumhuriyetin kazanımlarına ve Atatürk'e karşı içten ve dıştan yöneltilmiş olan saldırılara bir Kuvayı Milliyeci olarak hep direnmiş ,karşı koymuş ve Türk halkına gerçeklerihaykırmıştır .</sentence>
+<sentence num="60">Böylesine Türkiyemiz adına ciddi endişeler taşıdığımız bu süreçte onu kaybetmiş olmamız üzüntümüzü daha da artırmaktadır .</sentence>
+<sentence num="61">Attila İlhan ulusalcı anlayışı ve fikirleriyle yaşamaya devam edecektir .''</sentence>
+<sentence num="62">İZMİR BAROSU BAŞKANI :''TÜRK ULUSU ,YURTSEVER BİR EVLADINI YİTİRDİ ''Barosu Başkanı Nevzat Erdemir ,Attila İlhan'ın yaşamını Türkiye Cumhuriyeti'nin tam bağımsızlığına ve özgürlüğüne ,Atatürk devrim ve ilkelerine adayan büyük bir düşün adamı ,yazar ve şair olduğunu belirterek ,Türk ulusunun yeri doldurulmayacak yurtsever bir evladını yitirdiğini bildirdi .</sentence>
+<sentence num="63">iİzmir Barosu Yönetim Kurulu adına yazılı açıklama yapan Erdemir ,Attila İlhan'ın anısı ve mücadelesi önünde saygıyla eğildiklerini ,İzmir Barosu olarak ,savunduğu ilkelerin takipçisi olduklarını ve olmaya devam edeceklerini söyledi .</sentence>
+<sentence num="64">Erdemir ,İlhan'ın yakınlarına ve Türk ulusuna başsağlığı diledi .</sentence>
+</doc>
+<doc>
+<id>164578</id>
+<sentence num="0">2005 10 11 21 :53 :00 .Atilla İlhan için mumlar yakıldı .</sentence>
+<sentence num="1">Çağdaş Yaşamı Destekleme Derneği Trabzon Şubesi Gençlik Kurulu'nca ,vefat eden Attila İlhan'ı anlamak ve anmak için Sahil mevkiinde bulunan Kanuni Sultan Süleyman Anıtı önünde tören düzenlendi .</sentence>
+<sentence num="2">Kurul üyelerince İlhan'ın fotoğraflarının yanına karanfiller bırakılarak mumlar yakıldı .</sentence>
+<sentence num="3">Gençlik Kurulu Sözcüsü Eser Aydın ,Attila İlhan'ın vefatından büyük üzüntü duyduklarını belirterek ,törene katılanlara İlhan'ın hayat hikayesini anlattı .</sentence>
+<sentence num="4">Daha sonra Nurten Pekbay ,Attila İlhan'ın ''Yağmur Kaçağı ''adlı şiirini okudu .</sentence>
+</doc>
+<doc>
+<id>164582</id>
+<sentence num="0">2005 10 11 22 :00 :00 .Mehmet Ağar :Attila İlhan tarihimizdeki mümtaz yerini almıştır .</sentence>
+<sentence num="1">DYP Genel Başkanı Mehmet Ağar ,Attila İlhan'ın ,yazdığı birçok kitap ve şiirlerle tarihteki mümtaz yerini aldığını kaydetti .</sentence>
+<sentence num="2">Ağar ,Attila İlhan'ın vefatı dolayısıyla gazeteci yazar Tuncay Özkan ve ailesine başsağlığı mesajı gönderdi .</sentence>
+<sentence num="3">Ağar'ın mesajı şöyle :''Günümüzün çok değerli düşünürü ,tarihi doğru süzerek ulusçuluğuna yansıtan değerli yazar ve şair Sayın Attila İlhan'ın vefatı hepimizi derinden üzmüştür .</sentence>
+<sentence num="4">Atatürk düşüncelerini özümseyerek aydın kimliği ve fikriyatıyla Türk halkına ışık olan Attila İlhan ,yazdığı birçok kitap ve şiirle tarihimizdeki mümtaz yerini almıştır .</sentence>
+<sentence num="5">Türk edebiyatına kazandırdığı sayısız eserleri Sayın Attila İlhan'ı gelecek nesillere taşıyacak ve içimizde yaşayacak .</sentence>
+<sentence num="6">50 yılı aşkın süredir Türk edebiyatına kazandırdıklarıyla anılan ve bundan sonra da hep anılacak olan Attila İlhan'a Allah'tan rahmet ,size ve şahsınızda tüm ailesine başsağlığı dilerim .''.</sentence>
+</doc>
+<doc>
+<id>164625</id>
+<sentence num="0">2005 10 12 00 :34 :00 .Attila İlhan'ı Yitirdik .</sentence>
+<sentence num="1">Edebiyat dünyası bir ustasını daha yitirdi .</sentence>
+<sentence num="2">Yazar ,şair ,eleştirmen ve gazeteci Attila İlhan ,İstanbul'da hayatını kaybetti .</sentence>
+<sentence num="3">Şiirle başladığı serüvenini roman ,deneme ,senaryo ve köşe yazılarıyla zenginleştirerek topluma ulaştıran Attila İlhan ,çağa ayna tutarak zamanın tanıklığını yaptı .</sentence>
+<sentence num="4">Yığın ve Gün gibi dergilerde ilk şiirleri yayımlanan Attila İlhan ,lise son sınıftayken CHP Şiir Armağanı'nda ,Cebbaroğlu Mehemmed şiiriyle ikincilik ödülünü ,pek çok ünlü şairi geride bırakarak kazandı .</sentence>
+<sentence num="5">İlk Şiir Kitabı Duvar 1948'de ilk şiir kitabı Duvar ı kendi olanaklarıyla çıkardı .</sentence>
+<sentence num="6">Attila İlhan 1949 ve 1951 yıllarında hakkında açılan çeşitli kovuşturmalar nedeniyle Paris'e gitti .</sentence>
+<sentence num="7">1953 yılında Vatan gazetesinde yazmaya başlayınca Hukuk eğitimini son sınıfta bıraktı .</sentence>
+<sentence num="8">İzmir'de kaldığı 8 yıllık dönemde Demokrat İzmir gazetesinin başyazarlığını ve genel yayın yönetmenliğini yürüten Attila İlhan ,1973 yılında Bilgi Yayınevi'nin danışmanlığını üstlenerek Ankara'ya taşındı .</sentence>
+<sentence num="9">Burada Sırtlan Payı ,Yaraya Tuz Basmak ve Fena Halde Leman romanlarını tamamlayarak yeniden İstanbul'a ,gazeteciliğe döndü .</sentence>
+<sentence num="10">Milliyet ,Güneş ,Meydan ve Gelişim Yayınları'nda köşe yazıları yazdı .</sentence>
+<sentence num="11">Bir süre kullandığı Ali Kaptanoğlu adıyla Şoför Nebahat ,Yalnızlar Rıhtımı ,Devlerin Öfkesi gibi filmlerin senaryo yazarlığını yaptı .</sentence>
+<sentence num="12">TRT İçin de Dizi Senoryaları Hazırladı TRT için hazırladığı senaryoları da akıllardan çıkmadı .</sentence>
+<sentence num="13">Kartallar Yüksek Uçar ,Yıldızlar Gece Büyür ,Yarın Artık Bugündür ,Sekiz Sütuna Manşet gibi televizyon dizilerinin senaryoları ,Attila İlhan'ın kaleminden çıktı .</sentence>
+<sentence num="14">TRT için bir de Attila İlhan ile Zaman İçinde Bir Yolculuk adlı sohbet programı yaptı .</sentence>
+<sentence num="15">Bu programda ,Türk milletinin ulusal kurtuluş mücadelesiyle Atatürk devrimlerini ilginç anekdotlarla dile getirdi .</sentence>
+<sentence num="16">Kemalist ve antiemperyalist kimliğini yazılarına yansıtan İlhan ,ulusalcılıktan ve ulus devlet anlayışından ödün vermedi .</sentence>
+<sentence num="17">80 yaşında ölen Attila İlhan ,1996 yılından bu yana da Cumhuriyet gazetesinde köşe yazarlığı yapıyordu .</sentence>
+<sentence num="18">Attila İlhan'ın cenazesi yarın (13 .10 .2005 )İstanbul'da toprağa verilecek .</sentence>
+<sentence num="19">İlhan'ın cenazesi ,Atatürk Kültür Merkezi'ndeki törenin ardından ,Teşvikiye Camii'nde öğleyin kılınacak namazdan sonra Aşiyan Mezarlığı'na kaldırılacak .</sentence>
+<sentence num="20">O'nunla özdeşleşen şapkasına son bir selam vermek isteyen edebiyat tutkunları da orada olacak .</sentence>
+</doc>
+<doc>
+<id>164711</id>
+<sentence num="0">2005 10 12 09 :20 :00 .İlhan ,Selimiye'de neden sorgulandı .</sentence>
+<sentence num="1">Ünlü edebiyatçı ,ani ölümüyle ilgili TRT'de yayınlanan belgeselde 80 ihtilalinin ardından yaşanan olayı şöyle aktarıyor .</sentence>
+<sentence num="2">Birileri beni aşk şiirlerimle anmak istedi .</sentence>
+<sentence num="3">Daha doğrusu işlerine öyle geldi diyen İlhan ,çevresindeki bazı kişilerin ,şiir ve yazılarında anayasaya aykırı pek çok söylemin bulunduğunu iddia ederek ,kendisini askeriyeye şikayet ettiklerini söyledi .</sentence>
+<sentence num="4">Röportajda İlhan ,bir gece evinden apar topar alındığını ve Selimiye'de sıkı bir sorgudan geçirildiğini ifade ediyor .</sentence>
+<sentence num="5">Röportajda ayrıca kendisinin toplumcu edebiyat akımının bir parçası olduğunu hatırlatan İlhan ,halkın eserlerinde kendinden buldukları şeyler sayesinde sahip çıktığını bu nedenle tutulduklarını ifade ediyor .</sentence>
+<sentence num="6">N zım yüzünden 16'sında hapisle tanıştı Türkiye'de gözaltına alınan ilk lise öğrencisi olan Attil İlhan ,O işin prömiyeri bende .</sentence>
+<sentence num="7">16 yaşındaydım daha .(...)</sentence>
+<sentence num="8">O olaydan sonra damgalı eşek gibi İzmir'de ,Karşıyaka'da herkes bizi tanıdı diye anlatıyor bu olayı .</sentence>
+<sentence num="9">O sıralar İzmir Atatürk Lisesi'nde öğrenci olan İlhan ,Türk Ceza Kanunu'nun 141 .maddesine aykırı davranma savıyla tutuklanıp okulundan uzaklaştırıldı .</sentence>
+<sentence num="10">Daha sonra ,Danıştay kararıyla öğrenim hakkı kazanarak İstanbul Işık Lisesi'ni bitirdi .</sentence>
+<sentence num="11">İstanbul Üniversitesi Hukuk Fakültesi'nde başladığı yükseköğrenimini yarıda bırakan İlhan ,1949 1965 yılları arasında aralıklı olarak 6 yıl Paris'te yaşamını sürdürdü .</sentence>
+<sentence num="12">Asım Bezirci ,Hasan Tanrıkut ve Orhan Müstecabi ile Gerçek gazetesinde çalışan İlhan ,Sorbonne'da filmoloji kurslarına da devam etti .</sentence>
+<sentence num="13">Türkiye'deki gazetecilik serüvenine sinema eleştirmeni olarak başlayan İlhan'ın 1951'de yazdığı 'Sokaktaki Adam 'romanı ,15 yıl evli kaldığı Biket İlhan tarafından sinemaya uyarlandı .</sentence>
+<sentence num="14">HABER 7 .</sentence>
+</doc>
+<doc>
+<id>164861</id>
+<sentence num="0">2005 10 12 11 :56 :00 .Attila İlhan yarın toprağa verilecek .</sentence>
+<sentence num="1">Attila İlhan için ilk olarak ,cumartesi günleri ''Attila İlhan'la Yolculuk ''programını yaptığı Mecidiyeköy'deki Kanaltürk Televizyonu'nun önünde tören düzenlenecek .</sentence>
+<sentence num="2">Saat 10 .00'da yapılacak bu törenin ardından ,saat 11 .00'de Atatürk Kültür Merkezi'nde (AKM )de bir tören gerçekleştirilecek .</sentence>
+<sentence num="3">İlhan'ın cenazesi ,daha sonra Teşvikiye Camii'nde öğleyin kılınacak namazın ardından Aşiyan Mezarlığı'na defnedilecek .</sentence>
+</doc>
+<doc>
+<id>165137</id>
+<sentence num="0">2005 10 12 18 :10 :00 .Org Özkök :Gençlik yıllarımda Attila İlhan gönüllerimize tercüman olurdu .</sentence>
+<sentence num="1">Genelkurmay Başkanı Orgeneral Hilmi Özkök ,Kuvvet Komutanları ve 1 .Ordu Komutanı ile İstanbul Valisi Muammer Güler'i makamında ziyaret etti .</sentence>
+<sentence num="2">Orgeneral Özkök ,Kara Kuvvetleri Komutanı Orgeneral Yaşar Büyükanıt ,Deniz Kuvvetleri Komutanı Oramiral Yener Karahanoğlu ,Hava Kuvvetleri Komutanı Orgeneral Faruk Cömert ,Jandarma Genel Komutanı Orgeneral Fevzi Türkeri ve 1 .Ordu Komutanı Orgeneral İlker Başbuğ ile Valiliğe gelişte ,Güler ve vali yardımcıları tarafından tören mangası eşliğinde karşılandı .</sentence>
+<sentence num="3">Ziyarette Valilik Şeref Defteri'ni imzalayan Orgeneral Özkök ,bir süre Güler'le sohbet etti .</sentence>
+<sentence num="4">Kabul salonunu çok beğendiğini belirten Orgeneral Özkök ,İstanbul'un nüfusunun Norveç'in 3 5 katı olduğunu söyledi .</sentence>
+<sentence num="5">Orgeneral Özkök ,Öyle ülkeler var ki nüfusu 2 ,5 3 milyon dedi .</sentence>
+<sentence num="6">Orgeneral Özkök ,Vali Güler'e ,Genelkurmay'ın ve aynı zamanda Türk Silahlı Kuvvetleri'nin simgesi olduğunu söylediği bir tabak verdi .</sentence>
+<sentence num="7">Vali Güler de Orgeneral Özkök'e ,1919'da Samsun'a hareket eden Atatürk ve arkadaşlarını sembolize eden maket ve fotoğraf hediye etti .</sentence>
+<sentence num="8">ATTİLA İLHAN'IN VEFATI Genelkurmay Başkanı Orgeneral Hilmi Özkök ,ziyaret sırasında bir gazetecinin ,vefat eden şair yazar Attila İlhan'la ilgili sorusu üzerine ,14 yaşında askeri liseye başladığını ve üniforma giydiğini belirterek ,Gençlik yıllarımda Attila İlhan ,bizim gönüllerimize tercüman olan büyük bir şairimizdi .</sentence>
+<sentence num="9">O zamandan beri kendisini takip ederiz .</sentence>
+<sentence num="10">O değerli şiirleri bizleri çok etkilemiştir .</sentence>
+<sentence num="11">Adeta bizim söylemek isteyip de söyleyemediklerimizi veya güzel söyleyemediklerimizi o vermiştir dedi .</sentence>
+<sentence num="12">İlhan'ın şair olmanın ötesinde çok iyi bir yazar ,tarihi çok iyi bilen bir insan olduğunu kaydeden Orgeneral Özkök ,şöyle devam etti :Zaman içinde düşünceleri evrim geçirmiştir .</sentence>
+<sentence num="13">Son zamanlardaki düşüncelerini hep beraber yakından izleme olanağı bulduk .</sentence>
+<sentence num="14">Çok entelektüel bir insandı .</sentence>
+<sentence num="15">Son zamanlarda bazen dilini anlamakta sıkıntı çekerdim .</sentence>
+<sentence num="16">Ama onun tabii fikri derinliğine ulaşamadığım için herhalde öyleydi .</sentence>
+<sentence num="17">Türk edebiyatı için büyük kayıptır .</sentence>
+<sentence num="18">Rahmetle anıyoruz .</sentence>
+<sentence num="19">Ziyaret ,daha sonra basına kapalı devam etti .</sentence>
+<sentence num="20">Yaklaşık yarım saat süren ziyaretin ardından Orgeneral Özkök ve beraberindekiler ,törenle uğurlandı .</sentence>
+<sentence num="21">Uğurlamanın ardından basın mensuplarının ziyarete ilişkin sorularını yanıtlayan İstanbul Valisi Güler ,Genelkurmay Başkanı ,Kuvvet Komutanları ve 1 .Ordu Komutanı ,nezaket ziyaretinde bulundu .</sentence>
+<sentence num="22">Sayın komutanlarımızın Güneydoğu ve Doğu Anadolu'da da benzer ziyaretleri oldu dedi .</sentence>
+<sentence num="23">Ziyaretten onur duyduğunu kaydeden Güler ,İstanbul'da şu anda yürütülmekte olan çalışmalarla ilgili de kendilerine bilgi verdim .</sentence>
+<sentence num="24">Özellikle trafik ,eğitim ,sağlıkla ve deprem hazırlıklarıyla ilgili çalışmalarımız hakkında diye konuştu .</sentence>
+<sentence num="25">Vali Güler ,bir soru üzerine de güvenlik konusunun konuşulmadığını söyledi .</sentence>
+</doc>
+<doc>
+<id>165342</id>
+<sentence num="0">2005 10 13 10 :43 :00 .Attila İlhan anısına Kültür ve Turizm Bakanlığı'nca toplantı düzenlenecek .</sentence>
+<sentence num="1">Attila İlhan anısına Kültür ve Turizm Bakanlığı'nca toplantı düzenlenecek Kültür ve Turizm Bakanlığı'nca Attila İlhan'ın anısına toplantı düzenlenecek .</sentence>
+<sentence num="2">Kültür ve Turizm Bakanlığı'ndan yapılan yazılı açıklamada ,toplantının ,şair ,romancı ve gazeteci kimliğinin yanı sıra deneme ,eleştiri ve senaryo yazarı olarak ortaya koyduğu eserleriyle cumhuriyet sonrası Türk edebiyatında kendine özgü yer edinen ve yazılarıyla topluma ayna tutan İlhan'ın ölümünün birinci ayında Ankara veya İstanbul'da düzenlenmesinin öngörüldüğü bildirildi .</sentence>
+<sentence num="3">Anma toplantısına ,çeşitli çevrelerden edebiyat ,kültür ve sanat adamlarıyla ülke çapında tanınmış gazetecilerin ,yazarların ,bilim adamlarının ve sanatçının okurlarının katılmasının beklendiği belirtildi .</sentence>
+</doc>
+<doc>
+<id>165344</id>
+<sentence num="0">2005 10 13 10 :45 :00 .Attila İlhan bugün toprağa veriliyor .</sentence>
+<sentence num="1">Attila İlhan'ın cenazesi ,Teşvikiye Camii'nde kılınacak öğle namazının ardından ,Aşiyan Mezarlığı'nda toprağa verilecek .</sentence>
+<sentence num="2">İstanbul'daki cenaze töreni öncesinde ,Attila İlhan için Atatürk Kültür Merkezi'nde bir anma töreni düzenlenecek .</sentence>
+</doc>
+<doc>
+<id>165361</id>
+<sentence num="0">2005 10 13 11 :03 :00 .Attila İlhan son yolculuğuna uğurlanıyor .</sentence>
+<sentence num="1">Attila İlhan son yolculuğuna uğurlanıyor Ünlü şair ve yazar Attila İlhan ,son yolculuğuna uğurlanıyor .</sentence>
+<sentence num="2">İlhan için ilk tören ,''Attila İlhan'la Yolculuk ''programını yaptığı Mecidiyeköy'deki Kanaltürk televizyonu önünde düzenlendi .</sentence>
+<sentence num="3">Attila İlhan'ın Türk Bayrağı'na sarılı naaşı ,alkışlar eşliğinde hazırlanan platforma konuldu .</sentence>
+<sentence num="4">Törende bir dakikalık saygı duruşunda bulunulmasının ardından konuşan Kanaltürk İcra Kurulu Başkanı Tuncay Özkan ,İlhan'ın Kanaltürk televizyonunun kurucuları arasında bulunduğunu söyledi .</sentence>
+<sentence num="5">Konuşmanın ardından din görevlisi tarafından İlhan için dua edildi .</sentence>
+<sentence num="6">Daha sonra Attila İlhan'ın naaşı alkışlar ve binadan atılan karanfiller eşliğinde omuzlara alınarak ,ikinci törenin gerçekleştirileceği Atatürk Kültür Merkezi'ne (AKM )götürülmek üzere cenaze aracına konuldu .</sentence>
+<sentence num="7">Törene ,Attila İlhan'ın kardeşi Çolpan İlhan ,Cengiz İlhan ,yeğeni Kerem Alışık ,DİSK Genel Başkanı Süleyman Çelebi ,CHP İstanbul İl Başkanı Şinasi Öktem ,Şişli Belediye Başkanı Mustafa Sarıgül ,Türkiye Gazeteciler Cemiyeti Başkanı Orhan Erinç ve Vural Savaş'ın aralarında bulunduğu çok sayıda kişi katıldı .</sentence>
+</doc>
+<doc>
+<id>165362</id>
+<sentence num="0">2005 10 13 11 :05 :00 .Attila İlhan ,son yolculuğuna uğurlanıyor .</sentence>
+<sentence num="1">Ünlü şair ve yazar Attila İlhan ,son yolculuğuna uğurlanıyor .</sentence>
+<sentence num="2">İlhan için ilk tören ,''Attila İlhan'la Yolculuk ''programını yaptığı Mecidiyeköy'deki Kanaltürk televizyonu önünde düzenlendi .</sentence>
+<sentence num="3">Attila İlhan'ın Türk Bayrağı'na sarılı naaşı ,alkışlar eşliğinde hazırlanan platforma konuldu .</sentence>
+<sentence num="4">Törende bir dakikalık saygı duruşunda bulunulmasının ardından konuşan Kanaltürk İcra Kurulu Başkanı Tuncay Özkan ,İlhan'ın Kanaltürk televizyonunun kurucuları arasında bulunduğunu söyledi .</sentence>
+<sentence num="5">Özkan ,''Burası Attila İlhan'ın son yolculuğu değil ,yeni güçlü yolculuğunun başlangıcı ''dedi .</sentence>
+<sentence num="6">Attila İlhan'ın bir yurtsever olduğunu vurgulayan Özkan ,fikirleri ve düşüncelerinin yaşama devam edeceğini kaydetti .</sentence>
+<sentence num="7">Konuşmanın ardından din görevlisi tarafından İlhan için dua edildi .</sentence>
+<sentence num="8">Daha sonra Attila İlhan'ın naaşı alkışlar ve binadan atılan karanfiller eşliğinde omuzlara alınarak ,ikinci törenin gerçekleştirileceği Atatürk Kültür Merkezi'ne (AKM )götürülmek üzere cenaze aracına konuldu .</sentence>
+<sentence num="9">Törene ,Attila İlhan'ın kardeşi Çolpan İlhan ,Cengiz İlhan ,yeğeni Kerem Alışık ,DİSK Genel Başkanı Süleyman Çelebi ,CHP İstanbul İl Başkanı Şinasi Öktem ,Şişli Belediye Başkanı Mustafa Sarıgül ,Türkiye Gazeteciler Cemiyeti Başkanı Orhan Erinç ve Vural Savaş'ın aralarında bulunduğu çok sayıda kişi katıldı .</sentence>
+<sentence num="10">Bu arada ,Kanaltürk binasına asılı ve üzerinde Attila İlhan'ın ''An gelir Attila İlhan ölür ''dizelerinin yer aldığı posteri ile tabutunun önüne bırakılan ''Çolpan Kerem Sadri ''yazılı çiçek dikkat çekti .</sentence>
+<sentence num="11">Öte yandan tören sırasında Attila İlhan'ın kendi sesinden şiirleri ,hoparlör aracılığıyla katılanlara dinletildi .</sentence>
+</doc>
+<doc>
+<id>165388</id>
+<sentence num="0">2005 10 13 11 :40 :00 .Attila İlhan son yolculuğunda .</sentence>
+<sentence num="1">CNNTÜRK .</sentence>
+<sentence num="2">com Geçirdiği kalp krizi sonucu İstanbul'da hayatını kaybeden şair ve yazar Attila İlhan ,bugün son yolculuğuna uğurlanıyor .</sentence>
+<sentence num="3">İlhan için ilk tören 'Attila İlhan'la Yolculuk 'programını yaptığı Mecidiyeköy'deki Kanaltürk televizyonu önünde düzenlendi .</sentence>
+<sentence num="4">İlhan'ın Türk bayrağına sarılı naaşı ,alkışlar eşliğinde hazırlanan platforma konuldu .</sentence>
+<sentence num="5">Attila İlhan'ın cenazesi ,Teşvikiye Camii'nde kılınacak öğle namazının ardından ,Aşiyan Mezarlığı'nda toprağa verilecek .</sentence>
+<sentence num="6">İstanbul'daki cenaze töreni öncesinde ,Attila İlhan için Atatürk Kültür Merkezi'nde bir anma töreni düzenleniyor .</sentence>
+<sentence num="7">Törende bir konuşma yapan Atilla İlhan'ın kardeşi Çolpan İlhan ,benim kalbim sızlıyor .</sentence>
+<sentence num="8">Herşeyiyle beni şaşırtan ,içimin yandığı bu insanı çok özleyeceğiz dedi .</sentence>
+<sentence num="9">Attila İlhan'ın yeğeni Kerem Alışık ise ,annesi Çolpan İlhan'ın ardından söz aldı .</sentence>
+<sentence num="10">Alışık ,kendi deyimine göre ölüm onun için sıradandı ,ama o hiç sıradan olmadı .</sentence>
+<sentence num="11">Bize kalbimiz kadar yakınsın ,seni hiç unutmayacağız ,kalbimizde taşıyacağız diye konuştu .</sentence>
+<sentence num="12">Çok farklı bir insandı ama her şeyden önce benim dayımdı diyen Alışık ,herkese el veren ,emek veren bir insandı .</sentence>
+<sentence num="13">Hep farklı olmuş ,bu farklılığıyla herkese ,her gruba ,her kesime malolmuş bir insandı .</sentence>
+<sentence num="14">Bu nedenle çok sevilen bir şairdi .</sentence>
+<sentence num="15">Cumhuriyet döneminin en büyük şairiydi dedi .</sentence>
+<sentence num="16">Kendilerine miras ,vasiyet gibi sorular sorulduğunu söyleyen Kerem Alışık ,bizden sonraki kuşaklara yetecek kadar eser bırakan bir dayım var ...</sentence>
+<sentence num="17">O ölümü hiç ciddiyete almadı ki vasiyetini düşünsün .'</sentence>
+<sentence num="18">Tıp bilimini inandırıcı bulmuyorum bile 'derdi .</sentence>
+<sentence num="19">Son günlerde bütün yalvarmalarımıza rağmen hastaneye gitmeyi şiddetle reddetti ,biz ambulans çağırdık ama zaten geldiğinde kaybetmiştik ifadesini kullandı .</sentence>
+<sentence num="20">AKM'deki törene Attila İlhan'ın kardeşi Çolpan İlhan ,Cengiz İlhan ,yeğeni Kerem Alışık ,DİSK Genel Başkanı Süleyman Çelebi ,CHP İstanbul İl Başkanı Şinasi Öktem ,Şişli Belediye Başkanı Mustafa Sarıgül ,Türkiye Gazeteciler Cemiyeti Başkanı Orhan Erinç ve Vural Savaş'ın aralarında bulunduğu çok sayıda kişi katıldı .</sentence>
+<sentence num="21">Attila İlhan ,10 ekim gecesi İstanbul'daki evinde kalp krizi geçirerek hayatını kaybetmişti .</sentence>
+<sentence num="22">Attila İlhan kimdir ?</sentence>
+<sentence num="23">Attila İlhan 15 haziran 1925'te İzmir Menemen'de doğdu .</sentence>
+<sentence num="24">İlk şiiri 1941 yılında yayımlandı .</sentence>
+<sentence num="25">Şairliğinin ilk 10 yılında İkinci Dünya Savaşı'nın Avrupa'yı saran bezginlik çöküntülerini gergin bir duygusallık içinde yansıtan destansı şiirler yazdı .</sentence>
+<sentence num="26">1955'ten sonra toplumcu gerçekçilikten kopmaksızın artistik abartmalarla yalnız insanın duygu dünyasını işledi .</sentence>
+<sentence num="27">Aynı gerilim ,benzetmelerle zenginleştirilmiş ,kendine özgü söz dizimi olan romanlarına da yansıdı .</sentence>
+<sentence num="28">Yazdığı senaryolarda Ali Kaptanoğlu adını kullandı ,roman ve şiirin yanısıra gezi notları ve deneme anı türünde kitaplar da yayımladı .</sentence>
+<sentence num="29">İlk romanı 'Sokaktaki Adam 'yayımlandığında 10 roman yazmıştı .</sentence>
+<sentence num="30">Bunlar hiç gün ışığına çıkmadı .</sentence>
+<sentence num="31">Attila İlhan bunun sebebini bir söyleşide şöyle açıklıyordu :Birçok roman yazdım önceden .</sentence>
+<sentence num="32">Ama neden yayımlamadım ?</sentence>
+<sentence num="33">Çok akıllıca bir sebebi vardı .</sentence>
+<sentence num="34">Çünkü biliyorum ki yazarlar ilk romanlarında kendilerini anlatır .</sentence>
+<sentence num="35">O da romancılık değildir .</sentence>
+<sentence num="36">Günlük tutmaktır ..</sentence>
+</doc>
+<doc>
+<id>165405</id>
+<sentence num="0">2005 10 13 12 :00 :00 .Attila İlhan'ın cenazesinde Bakan Koç'a protesto .</sentence>
+<sentence num="1">İstanbul'daki cenaze töreni öncesinde ,Attila İlhan için Atatürk Kültür Merkezi'nde bir anma töreni düzenlendi .</sentence>
+<sentence num="2">Törende konuşmak için sahneye çıkan Kültür ve Turizm Bakanı Atilla Koç ,ıslıklarla ,alkışlarla yuhalandı .</sentence>
+<sentence num="3">Salondakilerin bir bölümü 'Kuvayi Milliye nerede ,nerede bu devrimcilik ruhu 'sloganları atarken ,bir bölümü de Bakan Koç'un konuşmasını ıslıklarla bastırdı .</sentence>
+<sentence num="4">Kürsüde bir süre alkışların dinmesini bekleyen Bakan Koç ,daha sonra konuşmasını başladı .</sentence>
+<sentence num="5">Alkışlar arasında katılımcılara sesini duyurmaya çalışan Bakan Koç ,Hiç aldırmıyorum yuhlarınıza ...</sentence>
+<sentence num="6">Çünkü onun yazdığı eserleri okuyanlardan biriyim .</sentence>
+<sentence num="7">Şiirlerini ve romanlarını okuduğum Attila İlhan'ı biliyorum ,gerisi önemli değil diye tepki gösterdi .</sentence>
+<sentence num="8">Koç ,Attila İlhan ,şair ,yazar ,senarist ve gazeteci olarak benim gençliğimden beri takip ettiğim büyük bir yazardır dedi .</sentence>
+<sentence num="9">Protestoların sürmesi üzerine Bakan Koç ,şunları kaydetti :Hiç aldırmıyorum .</sentence>
+<sentence num="10">Onların yazdığını ilk okuyanlardan biri benim .</sentence>
+<sentence num="11">İlhan sadece bal üreten bir arı değildi ,aynı zamanda bunu izah etti .</sentence>
+<sentence num="12">Yazdıklarını yaşamaya devam edeceğiz .</sentence>
+<sentence num="13">Ne mutlu eserleriyle ölümsüz olanlara .</sentence>
+<sentence num="14">Bu namuslu aydının hatırası önünde saygıyla eğiliyorum .</sentence>
+<sentence num="15">Allah'tan rahmet diliyorum .?</sentence>
+<sentence num="16">Kültür ve Turizm Bakanlığı'ndan ''protesto ''tepkisi ...</sentence>
+<sentence num="17">TUNCAY ÖZKAN PROTESTOLARI YATIŞTIRMAYA ÇALIŞTI Konuşmasına bir süre daha devam eden Atilla Koç ,protestoların sürmesi üzerine kürsüden indi ve Atilla İlhan'ın kardeşi Çolpan İlhan'ı öperek ,yerine oturdu .</sentence>
+<sentence num="18">Kısa bir süre sonra da Attila İlhan'ın naaşı salondan çıkarıldı .</sentence>
+<sentence num="19">Bu sırada da salondan yine Koç'a yönelik protesto sesleri yükseldi .</sentence>
+<sentence num="20">Bu sırada KanalTürk Televizyonu İcra Kurulu Başkanı Tuncay Özkan ,salondaki protestoları yatıştırmaya çalıştı .</sentence>
+<sentence num="21">Bazı katılımcılar da protestoculara tepki gösterdi .</sentence>
+<sentence num="22">KOÇ :GÖREVİMİ ASALETİMLE YAPTIM Törenin ardından salondan ayrılan Bakan Koç ,basın mensuplarının tepkileri nasıl değerlendirdiğini sormaları üzerine ,Benim için hiçbir tepki önemli değildir .</sentence>
+<sentence num="23">Büyük bir namuslu yazarın cenaze merasiminde ,Türkiye Cumhuriyeti Kültür ve Turizm Bakanı olarak burada bulunmam önemliydi .</sentence>
+<sentence num="24">Bu görevimi de bütün asaletimle yaptım dedi .</sentence>
+<sentence num="25">AKM binasından ayrılırken bazı kişiler Kültür ve Turizm Bakanı Atilla Koç'a Yıktırmak istediği binada konuştuğunu söylediler .</sentence>
+<sentence num="26">Bakan Koç ,bu kişilere Yıkacağım tabii diye karşılık verdi .</sentence>
+<sentence num="27">BAYKAL'IN PROTESTO DEĞERLENDİRMESİ Bu arada CHP Genel Başkanı Deniz Baykal ,AKM'deki törene bitişi sırasında katıldı .</sentence>
+<sentence num="28">Baykal ,basın mensuplarının törende Bakan Koç'a yönelik protestoyu nasıl değerlendirdiğini sormaları üzerine ,şöyle konuştu :Üzüntü verici bir şey .Yani böyle bir durumun ortaya çıkmasını memnuniyetle karşılamak ,söz konusu olamaz .</sentence>
+<sentence num="29">Ama bunun değerlendirilmesine ,sorgulanmasına ,anlaşılmasına ihtiyaç var .</sentence>
+<sentence num="30">Yani ne olmuştur da bu kopuş ortaya çıkmıştır ?</sentence>
+<sentence num="31">Bunu sorgulamaları gerekir .</sentence>
+<sentence num="32">Ben üzüldüm .</sentence>
+<sentence num="33">Sayın Koç ,son zamanlarda çok ağır yükler taşımak durumunda kaldı .</sentence>
+<sentence num="34">Başkalarının yükünü de herhalde burada taşımak zorunda kaldı .</sentence>
+<sentence num="35">Geçmiş olsun .</sentence>
+<sentence num="36">ÇOLPAN İLHAN :ABİME HAYRANDIM Saygı duruşunda bulunulan törende konuşan Attila İlhan'ın kardeşi Çolpan İlhan ,kimi zaman ağlayarak ağabeyi hakkında düşünce ve duygularını dile getirdi .</sentence>
+<sentence num="37">Çolpan İlhan ,O an gelir demişti ,benim bir tanecik ağabeyim .</sentence>
+<sentence num="38">O an gelir mi ,ben o anın geleceğine inanmıyorum .</sentence>
+<sentence num="39">Attila İlhan öldü mü ,ölür mü ?</sentence>
+<sentence num="40">Onu bu toplum ,bu millet gösterecek .</sentence>
+<sentence num="41">Benim kalbim sızlıyor dedi .</sentence>
+<sentence num="42">Çocukluğundan beri ağabeyine hayran olduğunu ve onu kaybetmenin içini yaktığını kaydeden Çolpan İlhan ,Ben ve ailem onu çok özleyeceğiz .</sentence>
+<sentence num="43">Bize verdiğiniz güç ve dayanışma için çok teşekkür ediyorum diye konuştu .</sentence>
+</doc>
+<doc>
+<id>165493</id>
+<sentence num="0">2005 10 13 13 :46 :00 .Attila İlhan için Atatürk Kültür Merkezi'nde tören yapıldı .</sentence>
+<sentence num="1">Attila İlhan için Atatürk Kültür Merkezi'nde tören yapıldı Ünlü şair ve yazar Attila İlhan için Atatürk Kültür Merkezi'nde (AKM )de tören yapıldı .</sentence>
+<sentence num="2">AKM'deki törende konuşan Attila İlhan'ın yeğeni Kerem Alışık ,dayısının cenazesinde bulunmanın kendisi için çok zor olduğunu belirterek ,genellikle hafta sonları Kanlıca'da rıhtımda yürüyerek konuştuklarını ,bunun için de özel zaman ayırdıklarını anlattı .</sentence>
+<sentence num="3">Konuşmaların ardından omuzlarda AKM'den çıkarılan Attila İlhan'ın naaşı ,cenaze aracıyla Teşvikiye Camii'ne götürüldü .</sentence>
+<sentence num="4">Törene ,Kültür ve Turizm Bakanı Atilla Koç ,DSP Genel Başkanı Zeki Sezer ,HÜRPARTİ Genel Başkanı Yaşar Okuyan ,1 .Ordu Komutanlığı'nı temsilen Tuğgeneral Nihat İstanbullu ,Attila İlhan'ın kardeşleri Çolpan ve Cengiz İlhan ,Kerem Alışık'ın oğlu Sadri Alışık ,yazarın eski eşi Biket İlhan ,Sibel Turnagöl ,Yılmaz Karakoyunlu ,Selim İleri ve Kürşat Başar'ın da bulunduğu çok sayıda dostu ve seveni katıldı .</sentence>
+</doc>
+<doc>
+<id>165550</id>
+<sentence num="0">2005 10 13 14 :48 :00 .Şair Attila İlhan toprağa verildi .</sentence>
+<sentence num="1">Şair Attila İlhan toprağa verildi Ünlü şair ve yazar Attila İlhan ,İstanbul'da toprağa verildi .</sentence>
+<sentence num="2">Teşvikiye Camii'ndeki cenaze töreninde Attila İlhan'ın kardeşi Çolpan İlhan ve yeğeni Kerem Alışık ,taziyeleri kabul etti .</sentence>
+<sentence num="3">Siyaset ,sanat ve edebiyat dünyasından binlerce kişinin katıldığı cenaze töreninde ,büyük izdiham yaşandı .</sentence>
+<sentence num="4">Törene katılanlar ,cami avlusuna sığmayıp çevredeki caddeyi doldurdular .</sentence>
+<sentence num="5">CHP Genel Başkanı Deniz Baykal ,ANAVATAN Genel Başkanı Erkan Mumcu ,DSP Genel Başkanı Zeki Sezer ,Yurt Partisi Genel Başkanı Sadettin Tantan ,BBP Genel Başkanı Muhsin Yazıcıoğlu ,İP Genel Başkanı Doğu Perinçek ,HÜRPARTİ Genel Başkanı Yaşar Okuyan ,İstanbul Valisi Muammer Güler ,Büyükşehir Belediye Başkanı Kadir Topbaş ,Emniyet Müdürü Celalettin Cerrah ,CHP Genel Sekreter Yardımcısı Mehmet Sevigen ,DYP Genel Başkan Yardımcısı Celal Adan ,CHP İstanbul Milletvekili Berhan Şimşek ,eski milletvekili Mehmet Gül ,eski bakanlardan Meral Akşener ile bazı ilçe belediye başkanlarının da katıldığı cenaze töreninde ,ayrıca edebiyat ve sanat dünyasından Yaşar Kemal ,Ayşe Kulin ,Selim İleri ,Kürşat Başar ,Server Tanilli ,Selami Şahin ,Yavuz Bingöl ,Ali Sunal ,Tarık Akan ,İzzet Günay ,İlhan Gencer ,Hadi Çaman ,Halit Kıvanç ,Nejat Yavaşoğulları ,Talat Bulut ,Ekrem Bora ,Sevda Ferdağ ve Selda Alkor ile 1 .Ordu Komutanlığı'nı temsilen 5 subay hazır bulundu .</sentence>
+<sentence num="6">Törene ,başta Cumhurbaşkanı Ahmet Necdet Sezer olmak üzere çok sayıda kişi tarafından çelenk gönderildiği görüldü .</sentence>
+<sentence num="7">Törenin ardından Attila İlhan'ın Türk Bayrağı'na sarılı naaşı ,gözyaşları arasında omuzlarda cenaze arabasına taşındı .</sentence>
+<sentence num="8">İlhan'ın cenazesi ,daha sonra götürüldüğü Aşiyan Mezarlığı'nda defnedildi .</sentence>
+</doc>
+<doc>
+<id>165554</id>
+<sentence num="0">2005 10 13 14 :50 :00 .Attila İlhan toprağa verildi .</sentence>
+<sentence num="1">Ünlü şair ve yazar Attila İlhan ,İstanbul'da toprağa verildi .</sentence>
+<sentence num="2">Teşvikiye Camii'ndeki cenaze töreninde Attila İlhan'ın kardeşi Çolpan İlhan ve yeğeni Kerem Alışık ,taziyeleri kabul etti .</sentence>
+<sentence num="3">Cenaze namazı sırasında caminin imamı ,cemaate Attila İlhan'ın vasiyetini hatırlatarak ,cenaze götürülürken alkışlanmamasını istedi .</sentence>
+<sentence num="4">Siyaset ,sanat ve edebiyat dünyasından binlerce kişinin katıldığı cenaze töreninde ,büyük izdiham yaşandı .</sentence>
+<sentence num="5">Törene katılanlar ,cami avlusuna sığmayıp çevredeki caddeyi doldurdular .</sentence>
+<sentence num="6">CHP Genel Başkanı Deniz Baykal ,ANAVATAN Genel Başkanı Erkan Mumcu ,DSP Genel Başkanı Zeki Sezer ,Yurt Partisi Genel Başkanı Sadettin Tantan ,BBP Genel Başkanı Muhsin Yazıcıoğlu ,İP Genel Başkanı Doğu Perinçek ,HÜRPARTİ Genel Başkanı Yaşar Okuyan ,İstanbul Valisi Muammer Güler ,Büyükşehir Belediye Başkanı Kadir Topbaş ,Emniyet Müdürü Celalettin Cerrah ,CHP Genel Sekreter Yardımcısı Mehmet Sevigen ,DYP Genel Başkan Yardımcısı Celal Adan ,CHP İstanbul Milletvekili Berhan Şimşek ,eski milletvekili Mehmet Gül ,eski bakanlardan Meral Akşener ile bazı ilçe belediye başkanlarının da katıldığı cenaze töreninde ,ayrıca edebiyat ve sanat dünyasından Yaşar Kemal ,Ayşe Kulin ,Selim İleri ,Kürşat Başar ,Server Tanilli ,Selami Şahin ,Yavuz Bingöl ,Ali Sunal ,Tarık Akan ,İzzet Günay ,İlhan Gencer ,Hadi Çaman ,Halit Kıvanç ,Nejat Yavaşoğulları ,Talat Bulut ,Ekrem Bora ,Sevda Ferdağ ve Selda Alkor ile 1 .Ordu Komutanlığı'nı temsilen 5 subay hazır bulundu .</sentence>
+<sentence num="7">Törene ,başta Cumhurbaşkanı Ahmet Necdet Sezer olmak üzere çok sayıda kişi tarafından çelenk gönderildiği görüldü .</sentence>
+<sentence num="8">Törenin ardından Attila İlhan'ın Türk Bayrağı'na sarılı naaşı ,gözyaşları arasında omuzlarda cenaze arabasına taşındı .</sentence>
+<sentence num="9">İlhan'ın cenazesi ,daha sonra götürüldüğü Aşiyan Mezarlığı'nda defnedildi .</sentence>
+<sentence num="10">Öte yandan CHP Genel Başkanı Baykal ,Teşvikiye Camii'nde basın mensuplarının soruları üzerine ,Attila İlhan'ın büyük bir şair ve yazar olduğunu ,şiirini geniş kitlelere ulaştırdığını söyledi .</sentence>
+<sentence num="11">İlhan'ın ,şiirin estetiğine zarar vermeden büyük bir ustalıkla yazdığını ifade eden Baykal ,Attila İlhan'ın sanatçı yönü kadar ulusal bir yönünün de bulunduğunu bildirdi .</sentence>
+<sentence num="12">Deniz Baykal ,Attila İlhan ,Türkiye'nin ulusal gücüne sahip çıkan bir insandı .</sentence>
+<sentence num="13">Türkiye'ye yapılanlara direnen ,sağlam bir siyasetçiydi dedi .</sentence>
+<sentence num="14">BBP Genel Başkanı Muhsin Yazıcıoğlu da ,Attila İlhan'ın büyük bir şair ve yazar olduğunu kaydederek ,Milli bağımsızlığı ,milli şuur ve vicdanı ,biz onun kitaplarından okuyarak öğrendik .</sentence>
+<sentence num="15">Yeni nesil de ,onun kitaplarını okuyarak daha bilinçli ve şuurlu yetişecektir diye konuştu .</sentence>
+</doc>
+<doc>
+<id>165571</id>
+<sentence num="0">2005 10 13 15 :06 :00 .Attila İlhan son yolculuğunda AKM'deki törende Kültür Bakanı Atilla Koç protesto edildi .</sentence>
+<sentence num="1">Attila İlhan 80 yaşındaydı Geçirdiği kalp krizi sonucu 10 ekim gecesi İstanbul'da hayatını kaybeden şair ve yazar Attila İlhan ,bugün son yolculuğuna uğurlandı .</sentence>
+<sentence num="2">İlhan için ilk tören 'Attila İlhan'la Yolculuk 'programını yaptığı Mecidiyeköy'deki Kanaltürk televizyonu önünde düzenlendi .</sentence>
+<sentence num="3">İlhan'ın Türk bayrağına sarılı naaşı ,alkışlar eşliğinde hazırlanan platforma konuldu .</sentence>
+<sentence num="4">Attila İlhan'ın cenazesi Teşvikiye Camii'nde kılınacak öğle namazının ardından ,Aşiyan Mezarlığı'nda toprağa verildi .</sentence>
+<sentence num="5">Bakan Koç'a protesto İstanbul'daki cenaze töreni öncesinde ,Attila İlhan için Atatürk Kültür Merkezi'nde bir anma töreni düzenlendi .</sentence>
+<sentence num="6">Tören sırasında bir konuşma yapmak üzere kürsüye gelen Kültür ve Turizm Bakanı Atilla Koç ,salondakilerin yoğun protestosuyla karşılaştı .</sentence>
+<sentence num="7">Salondakilerin bir bölümü 'Kuvayi Milliye nerede ,nerede bu devrimcilik ruhu 'sloganları atarken ,bir bölümü de Bakan Koç'un konuşmasını ıslıklarla bastırdı .</sentence>
+<sentence num="8">Konuşmasına bir süre daha devam eden Atilla Koç ,protestoların sürmesi üzerine kürsüden indi ve Atilla İlhan'ın kardeşi Çolpan İlhan'ı öperek ,yerine oturdu .</sentence>
+<sentence num="9">BİZE YAZIN Görüşlerinizi bize yazın Okur görüşleri için tıklayınKısa bir süre sonra da Attila İlhan'ın naaşı salondan çıkarıldı .</sentence>
+<sentence num="10">Bu sırada da salondan yine Koç'a yönelik protesto sesleri yükseldi .</sentence>
+<sentence num="11">Bu arada salondakilerin bir bölümü protestolara katılmamayı tercih etti .</sentence>
+<sentence num="12">Protestoların AKM'nin yıkılma kararına tepki niteliğinde olduğu tahmin ediliyor .</sentence>
+<sentence num="13">Çolpan İlhan :Onu çok özleyeceğiz SELİM İLERİ Yaşamı boyunca roman sanatına saygı duydu .</sentence>
+<sentence num="14">Şiiri çok iyi yazdığı için ,romanı ihmal ettiğini düşünür ,çok emek verirdi .</sentence>
+<sentence num="15">Bizim neslin yetişmesinde hemen her şeyimizi ona borçluyuz .</sentence>
+<sentence num="16">Protesto gösterileri öncesi törenin açılış konuşmasını Çolpan İlhan yaptı .</sentence>
+<sentence num="17">İlhan ,benim kalbim sızlıyor .</sentence>
+<sentence num="18">Herşeyiyle beni şaşırtan ,içimin yandığı bu insanı çok özleyeceğiz dedi .</sentence>
+<sentence num="19">Attila İlhan'ın yeğeni Kerem Alışık ise ,annesi Çolpan İlhan'ın ardından söz aldı .</sentence>
+<sentence num="20">Alışık ,kendi deyimine göre ölüm onun için sıradandı ,ama o hiç sıradan olmadı .</sentence>
+<sentence num="21">Bize kalbimiz kadar yakınsın ,seni hiç unutmayacağız ,kalbimizde taşıyacağız diye konuştu .</sentence>
+<sentence num="22">Çok farklı bir insandı ama her şeyden önce benim dayımdı diyen Alışık ,herkese el veren ,emek veren bir insandı .</sentence>
+<sentence num="23">Hep farklı olmuş ,bu farklılığıyla herkese ,her gruba ,her kesime malolmuş bir insandı .</sentence>
+<sentence num="24">Bu nedenle çok sevilen bir şairdi .</sentence>
+<sentence num="25">Cumhuriyet döneminin en büyük şairiydi dedi .</sentence>
+<sentence num="26">HALİT KIVANÇ Akrandık ama hep onu benden daha yaşlı varsayardım .</sentence>
+<sentence num="27">Çünkü öyle ağır bir görüntüsü vardı .</sentence>
+<sentence num="28">Benim imza günü arkadaşımdı .</sentence>
+<sentence num="29">Kaç yıldır tesadüf bu kadar güzel rastlantı olur aynı gün ,aynı saatte yan yana imzalıyorduk .</sentence>
+<sentence num="30">Bu yıl için 'bir seyahate gidiyorum 'dedim ve gün değiştirdim .</sentence>
+<sentence num="31">Ama meğer o seyahate gidiyormuş .</sentence>
+<sentence num="32">Öyle kitaplar bıraktı ki ,yarınki kuşaklar onunla yaşayacak .</sentence>
+<sentence num="33">Kendilerine miras ,vasiyet gibi sorular sorulduğunu söyleyen Kerem Alışık ,bizden sonraki kuşaklara yetecek kadar eser bırakan bir dayım var ...</sentence>
+<sentence num="34">O ölümü hiç ciddiyete almadı ki vasiyetini düşünsün .'</sentence>
+<sentence num="35">Tıp bilimini inandırıcı bulmuyorum bile 'derdi .</sentence>
+<sentence num="36">Son günlerde bütün yalvarmalarımıza rağmen hastaneye gitmeyi şiddetle reddetti ,biz ambulans çağırdık ama zaten geldiğinde kaybetmiştik ifadesini kullandı .</sentence>
+<sentence num="37">Cenaze namazı sırasında caminin imamı ,cemaate Attila İlhan'ın vasiyetini hatırlatarak ,''cenaze götürülürken alkışlanmamasını ''istedi .</sentence>
+<sentence num="38">Siyaset ,sanat ve edebiyat dünyasından binlerce kişinin katıldığı cenaze töreninde ,büyük izdiham yaşandı .</sentence>
+<sentence num="39">Törene katılanlar ,cami avlusuna sığmayıp çevredeki caddeyi doldurdular .</sentence>
+<sentence num="40">Cenaze törenine ,siyasilerden ,edebiyatçılara kadar pek çok ünlü isim katıldı .</sentence>
+<sentence num="41">Törende ,CHP Genel Başkanı Deniz Baykal ,ANAVATAN Genel Başkanı Erkan Mumcu ,İstanbul Valisi Muammer Güler ,Büyükşehir Belediye Başkanı Kadir Topbaş ,Emniyet Müdürü Celalettin Cerrah ,ayrıca edebiyat ve sanat dünyasından Yaşar Kemal ,Ayşe Kulin ,Selim İleri ,Kürşat Başar ,Server Tanilli ,Selami Şahin ,Yavuz Bingöl ,Ali Sunal ,Tarık Akan ,İzzet Günay ,İlhan Gencer ,Hadi Çaman ,Halit Kıvanç ,Nejat Yavaşoğulları ,Talat Bulut ,Ekrem Bora ,Sevda Ferdağ ve Selda Alkor ile Birinci Ordu Komutanlığı'nı temsilen beş subay hazır bulundu .</sentence>
+<sentence num="42">Törene ,başta Cumhurbaşkanı Ahmet Necdet Sezer olmak üzere çok sayıda kişi tarafından çelenk gönderildi .</sentence>
+<sentence num="43">Törenin ardından Attila İlhan'ın Türk Bayrağı'na sarılı naaşı ,gözyaşları arasında omuzlarda cenaze arabasına taşındı .</sentence>
+<sentence num="44">İlhan'ın cenazesi ,daha sonra götürüldüğü Aşiyan Mezarlığı'nda defnedildi .</sentence>
+<sentence num="45">AKM'deki törene ise Attila İlhan'ın kardeşi Çolpan İlhan ,Cengiz İlhan ,yeğeni Kerem Alışık ,DİSK Genel Başkanı Süleyman Çelebi ,CHP İstanbul İl Başkanı Şinasi Öktem ,Şişli Belediye Başkanı Mustafa Sarıgül ,Türkiye Gazeteciler Cemiyeti Başkanı Orhan Erinç ve Vural Savaş'ın aralarında bulunduğu çok sayıda kişi katıldı .</sentence>
+<sentence num="46">ATİLLA ATASOY Onun 'Ayrılıklar Sevdaya Dair 'şiirini besteleme şansım oldu ...</sentence>
+<sentence num="47">Şiirlerinin bestelenmesine zor izin verirdi .</sentence>
+<sentence num="48">Ben o nadir kişilerden biriyim .</sentence>
+<sentence num="49">Bu nedenle kendimi şanslı hissediyorum .</sentence>
+<sentence num="50">Attila İlhan ,10 ekim gecesi İstanbul'daki evinde kalp krizi geçirerek hayatını kaybetmişti .</sentence>
+<sentence num="51">Attila İlhan kimdir ?</sentence>
+<sentence num="52">Attila İlhan 15 haziran 1925'te İzmir Menemen'de doğdu .</sentence>
+<sentence num="53">İlk şiiri 1941 yılında yayımlandı .</sentence>
+<sentence num="54">Şairliğinin ilk 10 yılında İkinci Dünya Savaşı'nın Avrupa'yı saran bezginlik çöküntülerini gergin bir duygusallık içinde yansıtan destansı şiirler yazdı .</sentence>
+<sentence num="55">İSKENDER PALA Özellikle Divan şiirinin ruhunu ,dünyasını çok iyi anlayıp ,kendi fikir kuramlarıyla ,fikirleriyle geliştirebilen bir insandı .</sentence>
+<sentence num="56">Kitap ,şiir ve diğer fikir yazılarında eski zaman ruhu ,neşe ve gözyaşını bugüne getirebildi .</sentence>
+<sentence num="57">Divan şairleri içinde Naili bu çağda yaşasaydı herhalde Atilla İlhan olurdu .</sentence>
+<sentence num="58">Herhalde Atilla İlhan da o çağda yaşasaydı Naili olurdu .</sentence>
+<sentence num="59">1955'ten sonra toplumcu gerçekçilikten kopmaksızın artistik abartmalarla yalnız insanın duygu dünyasını işledi .</sentence>
+<sentence num="60">Aynı gerilim ,benzetmelerle zenginleştirilmiş ,kendine özgü söz dizimi olan romanlarına da yansıdı .</sentence>
+<sentence num="61">Yazdığı senaryolarda Ali Kaptanoğlu adını kullandı ,roman ve şiirin yanısıra gezi notları ve deneme anı türünde kitaplar da yayımladı .</sentence>
+<sentence num="62">İlk romanı 'Sokaktaki Adam 'yayımlandığında 10 roman yazmıştı .</sentence>
+<sentence num="63">Bunlar hiç gün ışığına çıkmadı .</sentence>
+<sentence num="64">Attila İlhan bunun sebebini bir söyleşide şöyle açıklıyordu :Birçok roman yazdım önceden .</sentence>
+<sentence num="65">Ama neden yayımlamadım ?</sentence>
+<sentence num="66">Çok akıllıca bir sebebi vardı .</sentence>
+<sentence num="67">Çünkü biliyorum ki yazarlar ilk romanlarında kendilerini anlatır .</sentence>
+<sentence num="68">O da romancılık değildir .</sentence>
+<sentence num="69">Günlük tutmaktır ..</sentence>
+</doc>
+<doc>
+<id>165585</id>
+<sentence num="0">2005 10 13 15 :23 :00 .Atilla İlhan'a Son Veda .</sentence>
+<sentence num="1">Şair ve düşünce adamı Attila İlhan İstanbul'da son yolculuğuna uğurlandı .</sentence>
+<sentence num="2">Attila İlhan'ın sevenleri önce Kanaltürk binası önünde toplandı .</sentence>
+<sentence num="3">İlhan'ın cenazesi binaya alkışlar eşliğinde getirildi .</sentence>
+<sentence num="4">Yapılan konuşmaların ardından ünlü şair buradan karanfillerle uğurlandı .</sentence>
+<sentence num="5">Tören sırasında Attila İlhan'ın sesinden şiirleri de dinletildi .</sentence>
+<sentence num="6">Attila İlhan için Atatürk Kültür Merkezi'nde de bir tören düzenlendi .</sentence>
+<sentence num="7">Burada yapılan konuşmalarda ünlü şairin kişiliği ve sanatsal yönü dostlarınca anlatıldı .</sentence>
+<sentence num="8">Attila İlhan'ın cenazesi Teşvikiye Camii'nde öğleyin kılınan namazdan sonra Aşiyan Mezarlığı'nda toprağa verildi .</sentence>
+</doc>
+<doc>
+<id>165616</id>
+<sentence num="0">2005 10 13 15 :50 :00 .Kültür ve Turizm Bakanlığı'ndan protesto tepkisi ...</sentence>
+<sentence num="1">Kültür ve Turizm Bakanlığı'ndan yapılan açıklamada ,Bakan Atilla Koç'un şair Attila İlhan'ın cenaze törenine hükümet adına katıldığı ,ancak cenazeden kendine çıkar sağlamak isteyen küçük grupların protestolarına maruz kaldığı belirtildi .</sentence>
+<sentence num="2">Cumhuriyet sonrası Türk edebiyatında kendine özgü bir yer edinen ve yazılarıyla topluma ayna tutan Attila İlhan'ın vefatı nedeniyle AKM'de düzenlenen törendeki konuşması sırasında Bakan Koç'a yönelik bazı kesimlerin tepkileri üzerine açıklama yapma zorunluluğunun doğduğu kaydedildi .</sentence>
+<sentence num="3">İlhan için bakanlığın bir sorumluluk bilinciyle ve ailesinin talebi üzerine AKM'yi tahsis ettiğinin belirtildiği açıklamada şöyle denildi :Sayın Bakan ,büyük şaire olan son görevini yerine getirmek üzere hükümet adına törene katılmış ,ancak ailesi tarafından istenen konuşmasını yaparken cenazeden kendilerine çıkar sağlamak isteyen bazı küçük grupların protestolarına maruz kalmıştır .</sentence>
+<sentence num="4">Bu durumu ,sadece Sayın Bakan'ın şahsına yapılmış bir tavır olarak değil ,aynı zamanda gerçek bir edebiyat ve kültür adamı olan merhum Attila İlhan'ın manevi şahsiyetine ,ailesine ve Türkiye Cumhuriyeti Kültür ve Turizm Bakanlığı makamına karşı yapılmış olumsuz bir tavır olarak değerlendirmekteyiz .</sentence>
+<sentence num="5">Sayın Bakanımızın ,anma merasiminde böylesi bir olayın meydana gelmiş olmasından dolayı büyük şairin manevi şahsiyeti adına müteessir olduğunu kamuoyu ile paylaşırız .</sentence>
+<sentence num="6">Bakanlığımız ,söz konusu yersiz hareketlere girişenlerin davranışlarına aldırmaksızın ,kültür ve sanat hayatımızı zenginleştiren ve eserleriyle ölümsüz kalmayı başaran sanatçılarımızın ,aydınlarımızın ,gerçek kültür adamlarımızın desteklenmesi ve topluma mal olmaları yönündeki çalışmalarına kararlılıkla devam edecektir ..</sentence>
+</doc>
+<doc>
+<id>165685</id>
+<sentence num="0">2005 10 13 17 :19 :00 .Koç Cenazede Protesto Edildi .</sentence>
+<sentence num="1">Kültür ve Turizm Bakanı Atilla Koç ,şair ve düşünür Attila İlhan için İstanbul'da düzenlenen törende protesto edildi .</sentence>
+<sentence num="2">Bakan Koç olayı Merhumun kendisinin de istemediği tarzda ve ailesinin üzüleceği tarzda reaksiyona girildi ,ben de bu nümayişlerden nasibimi aldım şeklinde değerlendirdi .</sentence>
+<sentence num="3">CHP Genel Başkanı Deniz Baykal ise ,Üzücü bir olay ancak sorgulanması ,iyi değerlendirilmesi lazım dedi .</sentence>
+<sentence num="4">Atilla Koç ,Attila İlhan için Atatürk Kültür Merkezi'nde düzenlenen törende konuşmak için kürsüye gelirken protesto edildi ..</sentence>
+<sentence num="5">Salondaki bazı kişiler protestocuları susturmaya çalıştı ancak protestolar Atilla Koç konuşurken artarak devam etti .</sentence>
+<sentence num="6">Bakan Koç ,Bir grup yazarın merhum Atilla İlhan'ın kendisinin de istemediği şekilde tarzda ve ailesinin de üzüleceği tarzda bu reaksiyona nümayişlere girildi .</sentence>
+<sentence num="7">Bu nümayişlerden ben de nasibi aldım bu kadar basit .</sentence>
+<sentence num="8">dedi .</sentence>
+<sentence num="9">Törene katılan CHP Genel Başkanı Deniz Baykal ise olayı ,üzücü ancak iyi anlaşılması lazım şeklinde değerlendirdi ve şunları söyledi .</sentence>
+<sentence num="10">Ne olmuştur da bu kopuş ortaya çıkmıştır sorgulanması gerekir son zamanlarda çok ağır yükler taşımak durumunda kaldı Koç ,başkalarının yükünü de taşımak durumunda oldu ,geçmiş olsun ..</sentence>
+</doc>
+<doc>
+<id>166144</id>
+<sentence num="0">2005 10 14 13 :49 :00 .Atilla Koç'tan Protestoculara Tepki .</sentence>
+<sentence num="1">Kültür ve Turizm Bakanı Atilla Koç ,Attila İlhan'ın cenaze törenindeki protestocuların kendisinden çok şairin manevi huzuruna ayıp ettiklerini söyledi .</sentence>
+<sentence num="2">Atilla Koç :Onları ben değil Attila İlhan affetsin dedi .</sentence>
+<sentence num="3">Koç ,İstanbul'da ,gazetecilerin cenaze törenindeki protestolar ile ilgili sorularını yanıtladı .</sentence>
+<sentence num="4">Kültür ve Turizm Bakanı Koç ,Namuslu bir yazarın ,Türkiye'ye mal olmuş bir yazarın uçlarda ve protestonun konusu olabilecek bir cenaze merasimi ile gömülmesini arzu etmezdim .</sentence>
+<sentence num="5">Bu bana yapılan ayıptan daha da önemlisi Türkiye'nin şairi Attila İlhan'ın cenazesine ,manevi huzuruna yapılan bir ayıptır .</sentence>
+<sentence num="6">diye konuştu .</sentence>
+</doc>
+<doc>
+<id>166748</id>
+<sentence num="0">2005 10 15 17 :18 :00 .24 .Tüyap Kitap Fuarı yarın sona erecek .</sentence>
+<sentence num="1">Beylikdüzü'ndeki TÜYAP Fuar ve Kongre Merkezi'nde ''Avrupa'daki Türkiye ,Türkiye'deki Avrupa ''ana temasıyla 8 Ekim'den bu yana devam eden fuar ,hafta sonu olması nedeniyle bugün ziyaretçi akınına uğradı .</sentence>
+<sentence num="2">Yetkililer ,fuarı dün akşam itibariyle toplam 210 bin kişinin ziyaret ettiğini söylediler .</sentence>
+<sentence num="3">Öte yandan fuarın yarınki programında ,geçen Salı günü vefat eden ünlü şair ve yazar Attila İlhan'ın ''Bir Millet Uyanıyor ''başlıklı söyleşisi de yer alıyordu .</sentence>
+<sentence num="4">Bu nedenle fuarda yarın Attila İlhan'ı anmak için ''Ben Sana Mecburum Bilemezsin ''adlı şiir dinletisi gerçekleştirilecek .</sentence>
+<sentence num="5">Yarın ayrıca ,çocuklara yönelik çeşitli etkinlikler düzenlenecek .</sentence>
+</doc>
+<doc>
+<id>168256</id>
+<sentence num="0">2005 10 18 14 :55 :00 .Attila ilhan'ın adı Kavaklı Parka verildi .</sentence>
+<sentence num="1">Bakırköy Belediye Meclisi ,Ataköy 5 .Kısım'da bulunan ve halk arasında ''Kavaklı Park ''olarak bilinen isimsiz parka ,geçen hafta vefat eden Attila İlhan'ın adının verilmesini oybirliği ile onayladı .</sentence>
+<sentence num="2">Bakırköy Belediye Başkanı Ateş Ünal Erzen de ,Attila İlhan'ın Türk Edebiyatı'na malolmuş önemli bir isim olduğunu vurgulayarak :''8 bin 700 metrekarelik alanda kurulu isimsiz parka Attila İlhan'ın adının verilmesi hem beni hem de tüm meclis üyelerimizi gururlandırmıştır .</sentence>
+<sentence num="3">Kararın oybirliği ile alınması da İlhan'ın toplumun tüm kesimlerinden destek gören önemli bir halk ozanı olduğunun kanıtıdır .</sentence>
+<sentence num="4">Belediye meclisimizin aldığı kararın İstanbul Büyükşehir Belediye Meclisi'nden geçmesinin ardından düzenlenecek törenle ,'Atilla İlhan Parkı 'tabelasını koyacağız .''</sentence>
+<sentence num="5">dedi .</sentence>
+<sentence num="6">aa .</sentence>
+</doc>
+<doc>
+<id>168691</id>
+<sentence num="0">2005 10 19 10 :35 :00 .Alışık Ailesi'nden Bakan Koç'a mesaj :Tepkiden üzüntü duyduk .</sentence>
+<sentence num="1">Çolpan İlhan ve Kerem Alışık ,şair yazar Attila İlhan'ın cenaze töreninde Kültür ve Turizm Bakanı Atilla Koç'a yönelik tepkiden üzüntü duyduklarını bildiren bir mesaj gönderdiler .</sentence>
+<sentence num="2">AA muhabirinin Kültür ve Turizm Bakanlığı'ndan edindiği bilgiye göre ,Çolpan İlhan ve Kerem Alışık ,Atilla Koç'a gönderdikleri mesajda ,Attila İlhan'ın kendine ait olmayan sadece kendi olan ,herkese el vermiş ,emek vermiş bir insan olduğunu bildirdiler .</sentence>
+<sentence num="3">Attila İlhan'ın yeri dolmayacak bir edebiyat ve kültür adamı olduğunu ifade eden Çolpan İlhan ve Kerem Alışık ,mesajlarında şunları kaydettiler :Daima farklı olmuş ve bu farklılığıyla da toplumun her kesimine her katmanına mal olmuş çok önemli bir değerimizdir .</sentence>
+<sentence num="4">Onu son yolculuğuna uğurladığımız törende Türkiye Cumhuriyeti'nin Kültür ve Turizm Bakanı olarak şahsınızı yanımızda görmekten ,ayrıca gösterdiğiniz hassasiyetten son derece mutlu olduğumuzu belirtir ,maruz kalınan tepkilerden fevkalade üzüntü duyduğumuzu saygılarımızla arz ederiz ..</sentence>
+</doc>
+<doc>
+<id>168695</id>
+<sentence num="0">2005 10 19 10 :35 :00 .Çolpan İlhan ve Kerem Alışık'tan Bakan Koç'a üzüntü mesajı .</sentence>
+<sentence num="1">Çolpan İlhan ve Kerem Alışık'tan Bakan Koç'a üzüntü mesajı Çolpan İlhan ve Kerem Alışık ,şair yazar Attila İlhan'ın cenaze töreninde Kültür ve Turizm Bakanı Atilla Koç'a yönelik tepkiden üzüntü duyduklarını bildiren bir mesaj gönderdiler .</sentence>
+<sentence num="2">Kültür ve Turizm Bakanlığı'ndan edinilen bilgiye göre ,Çolpan İlhan ve Kerem Alışık ,Atilla Koç'a gönderdikleri mesajda ,Attila İlhan'ın kendine ait olmayan sadece kendi olan ,herkese el vermiş ,emek vermiş bir insan olduğunu bildirdiler .</sentence>
+<sentence num="3">Attila İlhan'ın yeri dolmayacak bir edebiyat ve kültür adamı olduğunu ifade eden Çolpan İlhan ve Kerem Alışık ,mesajlarında şunları kaydettiler :''Daima farklı olmuş ve bu farklılığıyla da toplumun her kesimine her katmanına mal olmuş çok önemli bir değerimizdir .</sentence>
+<sentence num="4">Onu son yolculuğuna uğurladığımız törende Türkiye Cumhuriyeti'nin Kültür ve Turizm Bakanı olarak şahsınızı yanımızda görmekten ,ayrıca gösterdiğiniz hassasiyetten son derece mutlu olduğumuzu belirtir ,maruz kalınan tepkilerden fevkalade üzüntü duyduğumuzu saygılarımızla arz ederiz .''.</sentence>
+</doc>
+<doc>
+<id>168704</id>
+<sentence num="0">2005 10 19 10 :42 :00 .Alışık Ailesi'nden Bakan Koç'a mesaj .</sentence>
+<sentence num="1">AA muhabirinin Kültür ve Turizm Bakanlığı'ndan edindiği bilgiye göre ,Çolpan İlhan ve Kerem Alışık ,Atilla Koç'a gönderdikleri mesajda ,Attila İlhan'ın kendine ait olmayan sadece kendi olan ,herkese el vermiş ,emek vermiş bir insan olduğunu bildirdiler .</sentence>
+<sentence num="2">Attila İlhan'ın yeri dolmayacak bir edebiyat ve kültür adamı olduğunu ifade eden Çolpan İlhan ve Kerem Alışık ,mesajlarında şunları kaydettiler :Daima farklı olmuş ve bu farklılığıyla da toplumun her kesimine her katmanına mal olmuş çok önemli bir değerimizdir .</sentence>
+<sentence num="3">Onu son yolculuğuna uğurladığımız törende Türkiye Cumhuriyeti'nin Kültür ve Turizm Bakanı olarak şahsınızı yanımızda görmekten ,ayrıca gösterdiğiniz hassasiyetten son derece mutlu olduğumuzu belirtir ,maruz kalınan tepkilerden fevkalade üzüntü duyduğumuzu saygılarımızla arz ederiz ..</sentence>
+</doc>
+<doc>
+<id>170411</id>
+<sentence num="0">2005 10 22 10 :05 :00 .Attila İlhan'ın kitaplarına büyük ilgi ...</sentence>
+<sentence num="1">Türk edebiyatının önde gelen şair ve yazarlarından Attila İlhan'ın vefatından sonra kitaplarının tamamına yakınının tükendiği ve şiir kitaplarının yüksek tirajlarla yeniden basıldığı bildirildi .</sentence>
+<sentence num="2">Attila İlhan'ın kitaplarının yayın hakkını 2001 yılından bu yana elinde bulunduran Türkiye İş Bankası Kültür Yayınları'nın genel müdürü Ahmet Salcan ,AA muhabirine yaptığı açıklamada ,İlhan'ın ölümünden önce de özellikle şiir kitaplarının çok sattığını ,romanlarının da düzenli ve çok okunduğunu söyledi .</sentence>
+<sentence num="3">İlhan'ın vefatının ardından bir ''sevgi seli ''ile karşılaşıldığına işaret eden Salcan ,şunları kaydetti :''Kitaplarının tamamına yakını tükendi .</sentence>
+<sentence num="4">Bunun üzerine şiir kitaplarını yüksek tirajlarla yeniden bastık .</sentence>
+<sentence num="5">Normalde kitaplar tükenince fiyatları daha fazla artar .</sentence>
+<sentence num="6">Biz öyle yapmadık .</sentence>
+<sentence num="7">Şiir kitaplarının tümünü 5 YTL yaptık ki herkes alabilsin .</sentence>
+<sentence num="8">Bu biraz da korsanın önüne geçmek için yapılan uygulama .''</sentence>
+<sentence num="9">Salcan ,Attila İlhan'ın kitaplarına Türkiye'nin her yerinden büyük talep geldiğini bildirdi .</sentence>
+<sentence num="10">SON 8 SAYFA BİLMECESİ Ahmet Salcan ,''Reis Paşa ''adıyla çıkan ''Allah'ın Süngüleri ''kitabının ikinci cildinin ocak ayında ''Gazi Paşa ''adıyla çıkacağını da açıkladı .</sentence>
+<sentence num="11">Attila İlhan'ın vefatından önce kitabın adını kendilerine söylediğini anlatan Salcan ,''bu kitabın son 8 sayfasının eksik olduğuna ''ilişkin basında çıkan haberlerin anımsatılması üzerine ,''Eksik olup olmadığını kimse bilmiyor .</sentence>
+<sentence num="12">Kitap çıkınca sürpriz olsun ''dedi .</sentence>
+<sentence num="13">Bu arada Türkiye İş Bankası Kültür Yayınları'nın ''en çok satan romanlar ''listesinde ,Attila İlhan'ın 8 baskı yapan ''Allah'ın Süngüleri ''kitabı da yer alıyor .''</sentence>
+<sentence num="14">En çok satan şiir kitapları ''listesinde ise Attila İlhan'ın ''Ben Sana Mecburum ''(20 .baskı ),''Böyle Bir Sevmek ''(10 .Baskı ),''Tutuklunun Günlüğü ''(9 .baskı ),''Duvar ''(12 .baskı ),''Elde Var Hüzün ''(11 .baskı ),''Korkunun Krallığı ''(6 .baskı ),''Yağmur Kaçağı ''(13 .baskı ),''Yasak Sevişmek ''(11 .baskı ),''Sisler Bulvarı ''(14 .baskı )adlı şiir kitapları bulunuyor .</sentence>
+</doc>
+<doc>
+<id>170416</id>
+<sentence num="0">2005 10 22 10 :20 :00 .Attila İlhan kitaplarına büyük ilgi var .</sentence>
+<sentence num="1">Attila İlhan'ın kitaplarının yayın hakkını 2001 yılından bu yana elinde bulunduran Türkiye İş Bankası Kültür Yayınları'nın genel müdürüAhmet Salcan ,AA muhabirine yaptığı açıklamada ,İlhan'ın ölümünden önce de özellikle şiir kitaplarının çok sattığını ,romanlarının da düzenli ve çok okunduğunu söyledi .</sentence>
+<sentence num="2">İlhan'ın vefatının ardından bir ''sevgi seli ''ile karşılaşıldığına işaret eden Salcan ,şunları kaydetti :''Kitaplarının tamamına yakını tükendi .</sentence>
+<sentence num="3">Bunun üzerine şiir kitaplarını yüksek tirajlarla yeniden bastık .</sentence>
+<sentence num="4">Normalde kitaplar tükenince fiyatları daha fazla artar .</sentence>
+<sentence num="5">Biz öyle yapmadık .</sentence>
+<sentence num="6">Şiir kitaplarının tümünü 5 YTL yaptık ki herkes alabilsin .</sentence>
+<sentence num="7">Bu biraz da korsanın önüne geçmek için yapılan uygulama .''</sentence>
+<sentence num="8">Salcan ,Attila İlhan'ın kitaplarına Türkiye'nin her yerinden büyük talep geldiğini bildirdi .</sentence>
+<sentence num="9">SON 8 SAYFA BİLMECESİ Ahmet Salcan ,''Reis Paşa ''adıyla çıkan ''Allah'ın Süngüleri ''kitabının ikinci cildinin ocak ayında ''Gazi Paşa ''adıyla çıkacağını da açıkladı .</sentence>
+<sentence num="10">Attila İlhan'ın vefatından önce kitabın adını kendilerine söylediğini anlatan Salcan ,''bu kitabın son 8 sayfasının eksik olduğuna ''ilişkin basında çıkan haberlerin anımsatılması üzerine ,''Eksik olup olmadığını kimse bilmiyor .</sentence>
+<sentence num="11">Kitap çıkınca sürpriz olsun ''dedi .</sentence>
+<sentence num="12">Bu arada Türkiye İş Bankası Kültür Yayınları'nın ''en çok satan romanlar ''listesinde ,Attila İlhan'ın 8 baskı yapan ''Allah'ın Süngüleri ''kitabı da yer alıyor .''</sentence>
+<sentence num="13">En çok satan şiir kitapları ''listesinde ise Attila İlhan'ın ''Ben Sana Mecburum ''(20 .baskı ),''Böyle Bir Sevmek ''(10 .Baskı ),''Tutuklunun Günlüğü ''(9 .baskı ),''Duvar ''(12 .baskı ),''Elde Var Hüzün ''(11 .baskı ),''Korkunun Krallığı ''(6 .baskı ),''Yağmur Kaçağı ''(13 .baskı ),''Yasak Sevişmek ''(11 .baskı ),''Sisler Bulvarı ''(14 .baskı )adlı şiir kitapları bulunuyor .</sentence>
+<sentence num="14">aa .</sentence>
+</doc>
+<doc>
+<id>170726</id>
+<sentence num="0">2005 10 22 22 :55 :00 .Atilla İlhan anıldı ...</sentence>
+<sentence num="1">Romancı ve düşünce adamı Attila İlhan ,CHP Çankaya İlçe Gençlik Kolunun düzenlediği gecede anıldı .</sentence>
+<sentence num="2">TÜRK İŞ Salonu'nda düzenlenen ''Attila İlhan Gecesi '',şairin şiirleri ,fotoğrafları ve yaşamıyla ilgili bilgilerin yer aldığı serginin açılışıyla başladı .</sentence>
+<sentence num="3">CHP Parti Meclisi üyeleri ve CHP Ankara İl Başkanı Hakkı Süha Okay'ın katıldığı gece ,şairin şiirlerinin müzik eşliğinde okunduğu bir dinletiyle sürdü .</sentence>
+<sentence num="4">Anma gecesi daha sonra ,Nebil Özgentürk'ün daha önce bir TV kanalında yayınlanan ''Bir yudum insan ''programının Attila İlhan için hazırladığı bölümünün gösterimiyle sona erdi .</sentence>
+</doc>
+<doc>
+<id>175792</id>
+<sentence num="0">2005 11 01 12 :57 :00 .'Ülkücüler ,istikamet Atilla İlhan ...'.</sentence>
+<sentence num="1">Murat Altunöz'ün haberi Ülkücüler ve basın mensuplarıyla iftar yemeğinde bir araya gelen ,MHP Hatay İl Başkanı Şefik Çirkin ,Atilla İlhan sayesinde MHP'lilerin solcuları sevdiğini söyleyerek ,ünlü yazara övgü yağdırdı .</sentence>
+<sentence num="2">Çirkin ,yaptığı açıklamada ,Atilla İlhan'ın büyük bir üstattır .</sentence>
+<sentence num="3">Atilla İlhan'ın ölümü biz milliyetçileri derinden üzmüştür .</sentence>
+<sentence num="4">MHP olarak İlhan'ın ölümüne çok üzüldük .</sentence>
+<sentence num="5">Atilla İlhan'la biz solcuyu sevdik ,o ülkücülerin gönlünde taht kurmuştur .</sentence>
+<sentence num="6">Onu çok geç bulduk ama iyi bulduk ,Atilla İlhan tüm vatanseverleri birleştiren ve onların üstünde tutkal görevi yapan bir insandır .</sentence>
+<sentence num="7">Burdan bir çağrı yapmak istiyorum ,tüm Ülkücüler ,Atilla İlhan'ın fikirlerinin arkasından gitmeli ve onun fikirlerini yaşatmalı ve ileriye taşımalıdır .</sentence>
+<sentence num="8">dedi .</sentence>
+<sentence num="9">haber7 .</sentence>
+</doc>
+<doc>
+<id>178788</id>
+<sentence num="0">2005 11 08 13 :44 :00 .Attila İlhan'a mezarda bile yanlış !</sentence>
+<sentence num="1">Akşam gazetesinden Şakir Süter'in yazısı A !..İlhan Attila İlhan'ın mezartaşına adı yanlış yazılmış .</sentence>
+<sentence num="2">Üstadın Attila olan adı ,mezartaşında 'tek T'ye düşürülüp 'Atilla'ya dönüşmüş .</sentence>
+<sentence num="3">Oysa Attila İlhan ,adaşlarıyla karşılaştığında hep şu soruyu sorardı :Çift T'li mi ,tek T'li mi ?</sentence>
+<sentence num="4">Benimki çift T'li de !</sentence>
+<sentence num="5">Yeğeni Kerem Alışık'ın dikkatine sevgiyle sunarım .</sentence>
+</doc>
+<doc>
+<id>191947</id>
+<sentence num="0">2005 12 01 13 :29 :00 .Attila İlhan anısına özel bir gece .</sentence>
+<sentence num="1">Sahne uygulamasında ise Metin Belgin'in imzası var .</sentence>
+<sentence num="2">İlhan'ın şiirlerinin okunacağı ve kendi sesinden İstanbul Ağrısı adlı şiirinin dia gösterisi eşliğinde sunulacağı bu özel gece 19 Aralık saat 20 :00'de Afife Jale Sahnesi'nde .</sentence>
+<sentence num="3">Arsen Gürzap ,Yeşim Gül Akşar ,Metin Belgin ,Bülent Emin Yarar ve Uğur Polat :İlhan'ın şiirlerinden örnekler sunacak .</sentence>
+<sentence num="4">Geceye şarkılarıyla renk katacak olan Zafer Erdaş'a piyanoda Ender Ormanlar eşlik ediyor .</sentence>
+<sentence num="5">Geceye katılanlar Attila İlhan'ın İstanbul Ağrısı başlıklı şiirini ise kendi sesinden dinleme olanağı bulacak .</sentence>
+<sentence num="6">Giriş ücretsiz ,ancak rezervasyon gerekli .</sentence>
+</doc>
+<doc>
+<id>195951</id>
+<sentence num="0">2005 12 08 11 :19 :00 .Attila İlhan gözyaşları ile anıldı .</sentence>
+<sentence num="1">Geceye katılan sanatçılar arasında bulunan İpek Tuzcuoğlu ,İlhan'ın bir şiirini okumak için sahneye çıktığında ,O her an yanımızda .</sentence>
+<sentence num="2">Sadri Alışık Tiyatrosu'nda hem merhum Sadri Alışık'ın hem de Attila İlhan'ın resimlerini her an görüyor ve onlarla hep birlikte oluyoruz dedi .'</sentence>
+<sentence num="3">ATTİLA İLHAN AŞKI ETKİLEDİ 'Attila İlhan'ın eşi Biket İlhan ,konuşmasını yaparken ağlamamak için kendini zor tuttu .</sentence>
+<sentence num="4">Usta edebiyatçının 'çocuk 'diye seslendiği yeğeni Kerem Alışık ise ,dayısı ile ilgili birkaç anısını anlattıktan sonra İlhan'ın Ne kadınlar sevdim zaten yoktular adlı şiirini okudu .</sentence>
+<sentence num="5">Alışık ,Yazdığı bütün şiirler onun üzerine çok yakıştı .</sentence>
+<sentence num="6">O benim dert ortağımdı ;aşklarımda ,ayrılıklarımda ona giderdim .</sentence>
+<sentence num="7">Aşk Attila İlhan'ı etkiledimi bilemem ama Attila İlhan aşkı etkiledi ,bunu biliyorum dedi .</sentence>
+<sentence num="8">Gecenin son konuşmacısı ,gece boyunca gözyaşlarına hakim olamayan Çolpan İlhan oldu .</sentence>
+<sentence num="9">İlhan ,güçlükle geldiği kürsüde kısa ve öz konuştu :Bir tanecik abimi çok özlüyorum .</sentence>
+<sentence num="10">Geceye katılanlara usta şairin CD'si armağan edildi .</sentence>
+</doc>
+<doc>
+<id>202597</id>
+<sentence num="0">2005 12 19 23 :06 :00 .Atilla İlhan'a Şiirlerden Selam .</sentence>
+<sentence num="1">Türk Edebiyatı'nın usta kalemi Attila İlhan ,İstanbul'da unutulmaz şiirlerinin seslendirildiği bir etkinlikle anıldı .</sentence>
+<sentence num="2">İstanbul Ortaköy Kültür Merkezi'nde düzenlenen etkinliği yazar ,Atilla Birkiye hazırladı .</sentence>
+<sentence num="3">Devlet Tiyatroları Opera ve Balesi Çalışanları Yardımlaşma Vakfı TOBAV sanatçıları sahne aldığı gecede ,Türk Edebiyatı'nın usta kaleminin belleklerimize yer eden şiirlerinden bir dinleti sunuldu .</sentence>
+<sentence num="4">Attila İlhan ,aramızdan ayrılmış olsa da ,İstanbul'un büyüleyici güzelliğini ,isyanın öfkesini ve aşkın coşkusunu salonu dolduranlara ,unutulmaz mısralarla bir kere daha yaşattı .</sentence>
+</doc>

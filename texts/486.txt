@@ -1,0 +1,385 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 08 06 15 :20 :00 .lpg tankeri patladı :3 kişi öldü ,19'u ağır 20 kişi yaralandı ..</sentence>
+<sentence num="1">lpg tankeri patladı :3 kişi öldü ,19'u ağır 20 kişi yaralandı gaziantep'te lpg yüklü tankerin hareket halinde patlaması sonucu ilk belirlemelere göre 3 kişi yanarak öldü ,19'u ağır olmak üzere 20 kişi yaralandı .</sentence>
+<sentence num="2">patlama sonrasında orman arazide de yangın çıktı .</sentence>
+<sentence num="3">gaziantep e 24 karayolu dülük ormanları mevkiinde sürücüsünün kimliği ve plakası henüz belirlenemeyen lpg yüklü tanker ,hareket halinde patladı .</sentence>
+<sentence num="4">patlamanın etkisiyle tankerin bir bölümü yolun karşı şeridine geçerken ,yolda seyir halinde bulunan 3 yolcu minibüsü ve 3 otomobil patlamanın etkisiyle tamamen yandı .</sentence>
+<sentence num="5">gaziantep valisi lütfullah bilgin'in açıklamalarına göre kazada ilk belirlemelere göre biri tankerde bulunan ve kimliği henüz belirlenemeyen 15 yaşlarında bir erkek çocuğu olmak üzere 3 kişi yanarak öldü ,19'u ağır olmak üzere 20 kişi yaralandı .</sentence>
+<sentence num="6">kaza nedeniyle ,gaziantep başpınar kent girişi karayolu tamamen trafiğe kapatıldı .</sentence>
+<sentence num="7">kazanın ardından gaziantep valisi lütfullah bilgin başkanlığında bir kriz masası oluşturuldu .</sentence>
+<sentence num="8">durumu ağır olan 16 yaralı genelkurmay'ın sağlayacağı uçak ile gata'ya gönderilecek .</sentence>
+</doc>
+<doc>
+<id>128549</id>
+<sentence num="0">2005 08 06 15 :25 :00 .Gaziantep'te tanker patladı :1 ölü .</sentence>
+<sentence num="1">AA muhabirinin aldığı bilgiye göre ,Gaziantep E 24 Karayolu Dülük ormanları mevkiinde sürücüsünün kimliği ve plakası henüz belirlenemeyen LPG yüklü tanker ,hareket halinde patladı .</sentence>
+<sentence num="2">Patlamanın etkisiyle tankerin bir bölümü yolun karşı şeridine geçerken ,yolda seyir halinde bulunan 3 yolcu minibüsü ve 3 otomobil patlamanın etkisiyle tamamen yandı .</sentence>
+<sentence num="3">Kazada tankerde bulunan ve kimliği henüz belirlenemeyen 15 yaşlarında bir erkek çocuğu yanarak öldü ,19'U ağır 20 kişi yaralandı .</sentence>
+<sentence num="4">Kaza nedeniyle ,Gaziantep Başpınar kent girişi karayolu tamamen trafiğe kapatıldı .</sentence>
+<sentence num="5">Yaralılar ,Gaziantep Cengiz Gökçek ,25 Aralık Devlet Hastanesi ve Sani Konukoğlu Tıp Merkezi'nde tedavi altına alındı .</sentence>
+<sentence num="6">Kaza yerine gelen Gaziantep Emniyet Müdürü Abdullah Bolcu ve Büyükşehir Belediye Başkanı Asım Güzelbey kurtarma çalışmalarını izleyerek ,yetkililerden bilgi aldı .</sentence>
+<sentence num="7">Kapanan Gaziantep Başpınar kent girişi karayolunu trafiğe açma çalışmaları devam ediyor .</sentence>
+<sentence num="8">VALİ'NİN RESMİ AÇIKLAMASI Gaziantep Valisi Lütfullah Bilgin ,Şehitkamil İlçesi Dülükbaba Ormanı girişi mevkiinde LPG yüklü tankerin patlaması sonucunda meydana gelen kazada ,Metin Uçar ile kimliği henüz belirlenemeyen bir vatandaşın hayatını kaybettiğini ,19'u ağır 20 kişinin yaralandığını bildirdi .</sentence>
+<sentence num="9">Bilgin ,yaptığı yazılı açıklamada ,Şehitkamil İlçesi Dülükbaba ormanı girişi mevkii D 400 Karayolu'nda ,73 FA 069 plakalı LPG yüklü tankerin henüz belirlenemeyen bir nedenle öğle saatlerinde patlama meydana geldiğini belirtti .</sentence>
+<sentence num="10">Bilgin ,patlama sonucu tankerin önünde ve arkasında olan araçların yandığını ,ölümlü ,yaralamalı ve maddi hasarlı trafik kazası meydana geldiğini bildirdi .</sentence>
+<sentence num="11">Kaza sonrası ilde bulunan acil yardım ekiplerinin olay yerine süratli bir şekilde intikal ettiğini ve kazazedeleri kentteki çeşitli hastanelere kaldırdıklarını ifade eden Bilgin ,şunları kaydetti :''Meydana gelen olayda Metin Uçar ile kimliği henüz belirlenemeyen bir vatandaşımız hayatını kaybetmiş ,19'u ağır 20 vatandaşımız yaralanmıştır .</sentence>
+<sentence num="12">Yaralı vatandaşlarımızın tedavileri ilgili hastanelerimizde devam etmektedir .</sentence>
+<sentence num="13">Kazada hayatını kaybeden vatandaşlarımıza Allah'tan rahmet ,ailelerine başsağlığı dilerim .</sentence>
+<sentence num="14">Yaralı vatandaşlarımıza acil şifalar ve Gaziantepli hemşehrilerimize geçmiş olsun dileklerimi sunarım .''.</sentence>
+</doc>
+<doc>
+<id>128563</id>
+<sentence num="0">2005 08 06 15 :50 :00 .Gaziantep'te LPG yüklü tanker patladı !</sentence>
+<sentence num="1">Gaziantep'te LPG yüklü tankerin hareket halinde patlaması sonucu ilk belirlemelere göre 2 kişi yanarak öldü ,20 kişi yaralandı .</sentence>
+<sentence num="2">Patlama sonrasında Başpınar Dülük orman arazisinde yangın çıktı .</sentence>
+<sentence num="3">Gaziantep Valisi Lütfullah Bilgin ,Şehitkamil İlçesi Dülükbaba Ormanı girişi mevkiinde LPG yüklü tankerin patlaması sonucunda meydana gelen kazada ,Metin Uçar ile kimliği henüz belirlenemeyen bir vatandaşın hayatını kaybettiğini ,19'u ağır 20 kişinin yaralandığını bildirdi .</sentence>
+<sentence num="4">Bilgin ,yaptığı yazılı açıklamada ,Şehitkamil İlçesi Dülükbaba ormanı girişi mevkii D 400 Karayolu'nda ,73 FA 069 plakalı LPG yüklü tankerin henüz belirlenemeyen bir nedenle öğle saatlerinde patlama meydana geldiğini belirtti .</sentence>
+<sentence num="5">Bilgin ,patlama sonucu tankerin önünde ve arkasında olan araçların yandığını ,ölümlü ,yaralamalı ve maddi hasarlı trafik kazası meydana geldiğini bildirdi .</sentence>
+<sentence num="6">Kaza sonrası ilde bulunan acil yardım ekiplerinin olay yerine süratli bir şekilde intikal ettiğini ve kazazedeleri kentteki çeşitli hastanelere kaldırdıklarını ifade eden Bilgin ,şunları kaydetti :Meydana gelen olayda Metin Uçar ile kimliği henüz belirlenemeyen bir vatandaşımız hayatını kaybetmiş ,19'u ağır 20 vatandaşımız yaralanmıştır .</sentence>
+<sentence num="7">Yaralı vatandaşlarımızın tedavileri ilgili hastanelerimizde devam etmektedir .</sentence>
+<sentence num="8">Kazada hayatını kaybeden vatandaşlarımıza Allah'tan rahmet ,ailelerine başsağlığı dilerim .</sentence>
+<sentence num="9">Yaralı vatandaşlarımıza acil şifalar ve Gaziantepli hemşehrilerimize geçmiş olsun dileklerimi sunarım .</sentence>
+<sentence num="10">KRİZ MASASI Gaziantep'in Şehitkamil İlçesi'nde LPG yüklü tankerin patlaması sonucu meydana gelen kazanın ardından Gaziantep Valisi Lütfullah Bilgin başkanlığında bir kriz masası oluşturuldu .</sentence>
+<sentence num="11">Gaziantep Büyükşehir Belediye Başkanı Asım Güzelbey ,AA muhabirine yaptığı açıklamada ,kazanın meydana geldiği Şehitkamil İlçesi Dülükbaba Orman girişi mevkiinde incelemelerde bulunduğunu ,daha sonra hastanelere giderek yaralıların durumu hakkında bilgi aldığını söyledi .</sentence>
+<sentence num="12">Kazada yaralananların bir kısmının ambulansla Adana Balcalı Yanık Tedavi Merkezi'ne gönderildiğini bildiren Güzelbey ,Vali Bey'i aradım ,(kriz merkezi oluşturalım )dedim .</sentence>
+<sentence num="13">Yaralıların en çok olduğu Sani Konukoğlu Tıp Merkezi'nde bir kriz merkezi oluşturduk .</sentence>
+<sentence num="14">Kriz merkezinin başında Vali Lütfulluh Bilgin var .</sentence>
+<sentence num="15">Ben ve Gaziantep Tugay Komutanı Yardımcısı Albay Ahmet Kabil de kriz merkezinin başında bulunuyor dedi .</sentence>
+<sentence num="16">Kazanın hemen ardından İçişleri Bakanı ve Milli Savunma Bakanı ile Sağlık Bakanlığı müsteşarını telefonla arayarak görüştüğünü ifade eden Güzelbey ,kazada yaralanan 16 kişinin sağlık durumunun ciddiyetini koruduğunu belirtti .</sentence>
+<sentence num="17">Güzelbey ,Bu yaralıların ,ancak uçakla GATA'ya transferinin mümkün olduğunu söyledim .</sentence>
+<sentence num="18">Hem bakanlarımız ,hem de müsteşarlarımız bize bu konuda destek verdiler diye konuştu .</sentence>
+<sentence num="19">Güzelbey ,Genelkurmay Başkanlığı'nın Ankara'dan göndereceği uçakla ,sağlık durumu ciddiyetini koruyan 16 kişinin GATA'ya kaldırılacağını kaydetti .</sentence>
+<sentence num="20">YARALILAR ARASINDA 1 ASKER DE VAR Kazada yaralananlar arasında Şehitkamil İlçe Jandarma Komutanlığı'nda görevli asker Ferdi Akpınar'ın da bulunduğunu ifade eden Güzelbey ,1984 doğumlu Ferdi Akpınar bugün terhis olmuş ,yarın da birliğinden ayrılacakmış .</sentence>
+<sentence num="21">Alışveriş yapmak için şehir merkezine giden Akpınar ,minibüste bulunuyormuş dedi .</sentence>
+<sentence num="22">Bu arada ,patlama sonrası Dülükbaba ormanlarının her iki tarafında meydana gelen yangın söndürüldü .</sentence>
+<sentence num="23">Tamamen yanan otomobil ve minibüslerin de yol kenarına çekilmesiyle ,D 400 (E 24 )karayolu kontrollü olarak trafiğe açıldı .</sentence>
+</doc>
+<doc>
+<id>128611</id>
+<sentence num="0">2005 08 06 17 :41 :00 .LPG Yüklü Tanker Bomba Gibi Patladı .</sentence>
+<sentence num="1">Gaziantep'te meydana gelen trafik kazasında 2 kişi öldü 19'u ağır 20 kişi yaralandı .</sentence>
+<sentence num="2">LPG yüklü bir tankerin hareket halinde patlaması sonucu yaşanan bu olay ,dikkatleri bir kez daha yakıt taşımacılığına çevirdi .</sentence>
+<sentence num="3">Sürücüsü ve plakası belirlenemeyen LPG yüklü bir tanker ,Şehitkamil ilçesi Dülük ormanları mevkiinde hareket halinde iken patladı .</sentence>
+<sentence num="4">Patlamanın etkisi ile tankerin önündeki ve arkasındaki çok sayıda araç da yandı .</sentence>
+<sentence num="5">Kazada ,Metin Uçar ile kimliği belirlenemeyen 1 kişi öldü ,19'u ağır 20 kişi yaralandı .</sentence>
+</doc>
+<doc>
+<id>128639</id>
+<sentence num="0">2005 08 06 19 :00 :00 .Gaziantep'te tankerde patlama :6 ölü ,14 yaralı .</sentence>
+<sentence num="1">Tanker sürücüsünün hatalı sollama yapması LPG yüklü tankerin patlamasına neden oldu İlgili Galeri Foto Galeri için tıklayınız Gaziantep Adana karayolunda ,LPG yüklü bir tankerin patlaması ve alevlerin yolda seyreden beş araca sıçraması sonucu meydana gelen kazada ölenlerin sayısı altıya yükseldi .</sentence>
+<sentence num="2">İlk müdahalenin ardından tedavi için Gaziantep'ten Genelkurmay Başkanlığı'nın gönderdiği iki askeri ambulans uçakla Ankara GATA'ya gönderilen yaralılardan Özcan Akkol uçakta hayatını kaybetti .</sentence>
+<sentence num="3">Öte yandan ,askeri uçaklarla GATA'ya sevk edilen yaralılar Ankara'ya ulaştı .</sentence>
+<sentence num="4">Etimesgut Askeri Havaalanı'na inen uçaklardan Sağlık Bakanlığı'na ait ambulanslarla alınan yaralılar ,saat 21 .</sentence>
+<sentence num="5">30 sıralarında GATA'ya getirildi .</sentence>
+<sentence num="6">Bu arada ,Başbakan Recep Tayyip Erdoğan ,Gaziantep Valisi Lütfullah Bilgin'i telefonla arayarak olayla ilgili bilgi aldı .</sentence>
+<sentence num="7">Kazada ölenler ise Metin Uçar ve kimliği henüz belirlenemeyen 15 yaşlarında bir kız çocuğu ,Cuma Karakuş ,Özcan Akkol ,Halil Gözübüyük ve Yunus Can Vural olarak açıklandı .</sentence>
+<sentence num="8">Yaralananların isimleri ise şöyle :Hüseyin Çelik Hasan Kocaoğlu Oktay Balcı İbrahim Karaoğlu Hüseyin Ateş Erdal Baygün Cuma Şahbudak İbrahim Şahbudak Ramazan Kınal Ferdi Akpınar Adil Koçoğlu Sait Develi Mehmet Buruğ Mehmet Polat Kazanın nedeni hatalı sollama Bölgede kriz merkezi oluşturuldu .</sentence>
+<sentence num="9">Gaziantep Valisi Lütfullah Bilgin ,kazanın ,tankerin hatalı sollama yapması nedeniyle olduğunu açıkladı .</sentence>
+<sentence num="10">Bilgin ,73 FA 069 plakalı LPG yüklü tankerdeki patlamanın ,sürücüsünün hatalı sollama yaparak ,yol çalışmalarının devam ettiğini belirten bariyerlere çarpmasıyla meydana geldiğini söyledi .</sentence>
+<sentence num="11">Patlamanın ardından çıkan yangın ,yol kenarındaki ormanlık alana da sıçradı .</sentence>
+<sentence num="12">Güçlükle kontrol altına alınan yangında üç hektarlık alan tamamen yandı .</sentence>
+</doc>
+<doc>
+<id>128664</id>
+<sentence num="0">2005 08 06 21 :00 :00 .Gaziantep'te LPG yüklü tankerin patlamasında ölü sayısı 5'e yükseldi ...</sentence>
+<sentence num="1">Gaziantep'te ,LPG yüklü tankerin hareket halinde patlaması sonucu ölenlerin sayısı 5'e yükseldi .</sentence>
+<sentence num="2">Olayda ağır yaralanarak Gaziantep'teki hastanelerde tedavi altına alınan 12 kişi ,ilk müdahalelerinin ardından tam donanımlı 2 askeri ambulans uçakla Ankara Gülhane Askeri Tıp Akademisi'ne (GATA )sevk edildi .</sentence>
+<sentence num="3">Gaziantep Sağlık İl Müdürü Dr .Yusuf Ziya Yıldırım ,olayda ölü sayısının daha önce 2 olarak açıklandığını ,ancak hastanelerde tedavi altına alınan 3 kişinin ölümüyle birlikte bu sayının 5'e yükseldiğini kaydetti .</sentence>
+<sentence num="4">Olayda ,Metin Uçar ve kimliği henüz belirlenemeyen 15 yaşlarındaki bir kız çocuğuyla sevki bekleyen hastalardan Cuma Karakuş ,Halil Gözübüyük ve Yunus Can Vural'ın yaşamlarını yitirdiğini belirtti .</sentence>
+<sentence num="5">Kaza sonrasında ,durumları ağır olduğu bildirilen 12 kişi Gaziantep Cengiz Gökçek Devlet Hastanesi ,Gaziantep 25 Aralık Devlet Hastanesi ve Konukoğlu Tıp Merkezi'ne kaldırılarak ilk müdahaleleri yapıldı .</sentence>
+<sentence num="6">Vücutlarında ağır yanıklar olan ve hayati tehlikeleri bulunan vatandaşlar ,hastanelerde yapılan ilk tedavilerinin ardından ambulanslarla Gaziantep Havaalanı'na götürüldü .</sentence>
+<sentence num="7">Yaralılar ,burada Genelkurmay Başkanlığı tarafından tahsis edilen tam donanımlı 2 askeri ambulans uçakla Ankara'ya götürüldü .</sentence>
+<sentence num="8">Hastaların ,sevki sırasında ,acil servislerin önünde biriken hasta yakınları ,izdihama neden oldu .</sentence>
+<sentence num="9">Güvenlik görevlileri ,hastaların ambulanslara rahat bir şekilde bindirilmeleri için sık sık anonslar yaparak ,hasta yakınlarını sakinleştirmeye çalıştı .</sentence>
+<sentence num="10">Bu arada ,kaza sonrasında yaralıların tedavi gördüğü hastanelere giden Gaziantep Valisi Lütfullah Bilgin ,sağlık görevlileriyle görüşüp ,hastalar hakkında bilgi aldı .</sentence>
+<sentence num="11">Vali Bilgin ,Konukoğlu Hastanesi girişinde bekleyen hasta yakınlarını sakinleştirmeye çalışıp ,yaralılarımızın tedavisi için tüm imkanlar seferber edildi .</sentence>
+<sentence num="12">Endişelenmeye gerek yok ,gereken her şey yapılacak diye konuştu .</sentence>
+<sentence num="13">Vali Bilgin ,kazada yanarak ağır yaralanan vatandaşların tedavileri için Başbakanlık Acil Durum Yönetimi Genel Müdürlüğü ile görüşülerek Genelkurmay Başkanlığı'ndan askeri ambulans uçak talep edildiğini ,ağır yaralı hastaların ,yanık merkezi olan Ankara'daki hastanelere sevkinin askeri ambulans uçaklarla süratle sağlandığını kaydederek ,şunları söyledi :Olayın başından sonuna kadar takip eden ve hemen iki ambulans uçağı Gaziantep'e sevk eden Başbakanlık Acil Durum Yönetim Genel Müdürlüğü yetkililerine ,Genelkurmay Başkanlığı'na ,GATA'ya ,Milli Savunma Bakanı Vecdi Gönül'e ,İçişleri Bakanımız Abdülkadir Aksu ve özveriyle çalışan tüm sağlık çalışanlarımıza teşekkür ediyorum ..</sentence>
+</doc>
+<doc>
+<id>128691</id>
+<sentence num="0">2005 08 06 22 :30 :00 .Gaziantep'te ölü sayısı 6'ya yükseldi ...</sentence>
+<sentence num="1">Gaziantep'te LPG yüklü tankerin patlaması sonucu ölenlerin sayısı 6'ya yükseldi .</sentence>
+<sentence num="2">Alınan bilgiye göre ,ilk müdahalenin ardından tedavi için Gaziantep'ten Genelkurmay Başkanlığı'nın gönderdiği iki askeri ambulans uçakla Ankara GATA'ya gönderilen 12 yaralıdan Özcan Akkol uçakta hayatını kaybetti .</sentence>
+<sentence num="3">Öte yandan ,askeri uçaklarla GATA'ya sevk edilen yaralılar Ankara'ya ulaştı .</sentence>
+<sentence num="4">Etimesgut Askeri Havaalanı'na inen uçaklardan Sağlık Bakanlığı'na ait ambulanslarla alınan yaralılar ,saat 21 .</sentence>
+<sentence num="5">30 sıralarında GATA'ya getirildi .</sentence>
+<sentence num="6">Bu arada ,Başbakan Recep Tayyip Erdoğan ,Gaziantep Valisi Lütfullah Bilgin'i telefonla arayarak olayla ilgili bilgi aldı .</sentence>
+</doc>
+<doc>
+<id>128706</id>
+<sentence num="0">2005 08 06 23 :03 :00 .Tanker patlaması sonucu ölenlerin sayısının 6'ya yükseldi .</sentence>
+<sentence num="1">Tanker patlaması sonucu ölenlerin sayısının 6'ya yükseldi Başbakanlık Acil Durum Yönetimi Genel Müdürlüğü ,Gaziantep'te LPG yüklü tankerin patlaması sonucu ölenlerin sayısının 6'ya yükseldiğini bildirdi .</sentence>
+<sentence num="2">Yazılı açıklamada ,Gaziantep'ten iki askeri uçakla Ankara'ya sevk edilen 12 yaralıdan Özcan Akkol'un uçakta yaşamını yitirdiği belirtildi .</sentence>
+</doc>
+<doc>
+<id>128849</id>
+<sentence num="0">2005 08 07 11 :34 :00 .Gaziantep'te LPG tankerinin patlaması sonucu ölenlerin sayısı 9'a çıktı .</sentence>
+<sentence num="1">Gaziantep'te LPG tankerinin patlaması sonucu ölenlerin sayısı 9'a çıktı Gaziantep'te LPG yüklü tankerin patlaması sonucu ölenlerin sayısı 9'ya yükseldi .</sentence>
+<sentence num="2">AA muhabirinin Kriz Merkezi'nden aldığı bilgiye göre ,ilk müdahalenin ardından tedavi için Gaziantep'ten Genelkurmay Başkanlığı'nın gönderdiği iki askeri ambulans uçakla Ankara GATA'ya gönderilen yaralılardan ,asker Ferdi Akpınar ,Erdal Baygün ile Mehmet Polat hayatını kaybetti .</sentence>
+<sentence num="3">Şehitkamil İlçe Jandarma Komutanlığı'nda görevli asker Ferdi Akpınar'ın dün terhis olduğu ve bugün de birliğinden ayrılacağı ,alışveriş yapmak için şehir merkezine giden minibüse bindiği ve kazada yaralandığı açıklanmıştı .</sentence>
+<sentence num="4">Yetkililer ,diğer yaralıların tedavisinin sürdüğünü ancak ,durumlarının kritik olduğunu bildirdi .</sentence>
+<sentence num="5">Gaziantep E 24 Karayolu Dülük ormanları mevkiinde dün 73 FA 069 plakalı LPG yüklü tankerin henüz belirlenemeyen nedenle patlaması sonucunda 5 kişi ölmüş ,yaralılardan biri ise Ankara GATA'ya götürülürken uçakta hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>128851</id>
+<sentence num="0">2005 08 07 11 :35 :00 .LPG yüklü tankerin patladığı kazada ölü süyısı 9'a yükseldi ...</sentence>
+<sentence num="1">Gaziantep'te LPG yüklü tankerin patlaması sonucu ölenlerin sayısı 9'ya yükseldi .</sentence>
+<sentence num="2">AA muhabirinin Kriz Merkezi'nden aldığı bilgiye göre ,ilk müdahalenin ardından tedavi için Gaziantep'ten Genelkurmay Başkanlığı'nın gönderdiği iki askeri ambulans uçakla Ankara GATA'ya gönderilen yaralılardan ,asker Ferdi Akpınar ,Erdal Baygün ile Mehmet Polat hayatını kaybetti .</sentence>
+<sentence num="3">Şehitkamil İlçe Jandarma Komutanlığı'nda görevli asker Ferdi Akpınar'ın dün terhis olduğu ve bugün de birliğinden ayrılacağı ,alışveriş yapmak için şehir merkezine giden minibüse bindiği ve kazada yaralandığı açıklanmıştı .</sentence>
+<sentence num="4">Yetkililer ,diğer yaralıların tedavisinin sürdüğünü ancak ,durumlarının kritik olduğunu bildirdi .</sentence>
+<sentence num="5">Gaziantep E 24 Karayolu Dülük ormanları mevkiinde dün 73 FA 069 plakalı LPG yüklü tankerin henüz belirlenemeyen nedenle patlaması sonucunda 5 kişi ölmüş ,yaralılardan biri ise Ankara GATA'ya götürülürken uçakta hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>128860</id>
+<sentence num="0">2005 08 07 12 :02 :00 .Tanker kazasında ölü sayısı 9'a yükseldi .</sentence>
+<sentence num="1">Tedavi gören diğer yaralıların da durumu kritik Gaziantep'te LPG yüklü tankerin patlaması sonucu ölenlerin sayısı dokuza yükseldi .</sentence>
+<sentence num="2">Kriz Merkezi'nden alınan bilgiye göre ,ilk müdahalenin ardından tedavi için Gaziantep'ten Genelkurmay Başkanlığı'nın gönderdiği iki askeri ambulans uçakla Ankara GATA'ya gönderilen yaralılardan ,asker Ferdi Akpınar ,Erdal Baygün ile Mehmet Polat hayatını kaybetti .</sentence>
+<sentence num="3">Şehitkamil İlçe Jandarma Komutanlığı'nda görevli asker Ferdi Akpınar'ın dün terhis olduğu ve bugün de birliğinden ayrılacağı ,alışveriş yapmak için şehir merkezine giden minibüse bindiği ve kazada yaralandığı açıklanmıştı .</sentence>
+<sentence num="4">Yetkililer ,diğer yaralıların tedavisinin sürdüğünü ancak ,durumlarının kritik olduğunu açıkladı .</sentence>
+<sentence num="5">Gaziantep Dülük ormanları mevkiinde dün 73 FA 069 plakalı LPG yüklü tankerin henüz belirlenemeyen nedenle patlaması sonucunda beş kişi ölmüş ,yaralılardan biri ise Ankara GATA'ya götürülürken uçakta hayatını kaybetmişti .</sentence>
+<sentence num="6">Patlamanın ardından çıkan yangın ,yol kenarındaki ormanlık alana da sıçramıştı .</sentence>
+<sentence num="7">Güçlükle kontrol altına alınan yangında üç hektarlık alan tamamen yanmıştı .</sentence>
+</doc>
+<doc>
+<id>129047</id>
+<sentence num="0">2005 08 07 21 :08 :00 .Gaziantep'teki tanker patlamasında ölenlerin sayısı 10'a yükseldi .</sentence>
+<sentence num="1">Gaziantep'teki tanker patlamasında ölenlerin sayısı 10'a yükseldi Gaziantep'teki LPG yüklü tankerin patlaması sonucu ölenlerin sayısı 10'a yükseldi .</sentence>
+<sentence num="2">İlk müdahalenin ardından tedavi için Gaziantep'ten Genelkurmay Başkanlığı'nın gönderdiği iki askeri ambulans uçakla Ankara GATA'ya gönderilen yaralılardan ,Hüseyin Ateş de hayatını kaybetti .</sentence>
+<sentence num="3">Yetkililer ,diğer yaralıların tedavisinin sürdüğünü ancak ,durumlarının kritik olduğunu bildirdiler .</sentence>
+<sentence num="4">Gaziantep Sağlık İl Müdürü Dr .Yusuf Yıldırım ,AA muhabirine yaptığı açıklamada ,LPG yüklü tankerin patlaması sonucu yaralanan ve GATA'ya sevk edilen hastaların yakınlarının ,Gaziantep'te oluşturulan kriz merkezini arayarak hastaların son durumları hakkında bilgi edinebileceklerini söyledi .</sentence>
+<sentence num="5">Kazada yanarak ağır yaralanan vatandaşların tedavileri için Başbakanlık Acil Durum Yönetimi Genel Müdürlüğü ile görüşülerek Genelkurmay Başkanlığı'ndan askeri ambulans uçak talep edildiğini ,acil durumda olanların tam donanımlı ambulansla Ankara GATA Yanık Tedavi Merkezi'ne sevk edildiklerini anımsatan Yıldırım ,''Ne yazık ki şu ana kadar 10 vatandaşımızı kaybettik .</sentence>
+<sentence num="6">GATA'da tedavi edilen diğer hastaların durumu halen kritik ''dedi .</sentence>
+<sentence num="7">Çok sayıda hasta yakının ,GATA'da bulunan hastalar için bilgi edinmek istediklerini ,ancak acil durum nedeniyle bazı hasta yakınlarına ulaşamadıklarını belirten Yıldırım ,''Acil durum nedeniyle bazı hasta yakınlarına ulaşıp bizim bilgi vermemiz gerekiyor .</sentence>
+<sentence num="8">Ancak bu mümkün olmayabiliyor .</sentence>
+<sentence num="9">Vatandaşlarımız ,0342 241 02 82 No'lu valilikte oluşturulan Gaziantep Kriz Merkezi telefonunu arayarak son durum hakkında bilgi edinebilirler ''diye konuştu Gaziantep E 24 Karayolu Dülükbaba ormanları mevkiinde ,dün ,73 FA 069 plakalı LPG yüklü tankerin henüz belirlenemeyen nedenle patlaması sonucu 5 kişi ölmüş ,yaralılardan biri Ankara GATA'ya götürülürken uçakta ,3'ü ise GATA'da hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>129077</id>
+<sentence num="0">2005 08 07 23 :14 :00 .Gaziantep'teki LPG tankerinin patlaması sonucu ölenlerin sayısı 12'ye yükseldi .</sentence>
+<sentence num="1">Gaziantep'teki LPG tankerinin patlaması sonucu ölenlerin sayısı 12'ye yükseldi Gaziantep'te dün LPG yüklü tankerin patlaması sonucu ölenlerin sayısı 12'ye yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,Ankara GATA'da tedavi altına alınan yaralılardan Ramazan Kınalı ve Adil Kocağolu saat 22 .</sentence>
+<sentence num="3">20 sıralarında hayatlarını kaybettiler .</sentence>
+</doc>
+<doc>
+<id>129099</id>
+<sentence num="0">2005 08 08 00 :16 :00 .LPG faciasında ölü sayısı 12'ye çıktı .</sentence>
+<sentence num="1">Kriz Merkezi'nden aldığı bilgiye göre ,ilk müdahalenin ardından tedavi için Gaziantep'ten Genelkurmay Başkanlığı'nın gönderdiği iki askeri ambulans uçakla Ankara GATA'ya gönderilen yaralılardan ,Hüseyin Ateş de hayatını kaybetti .</sentence>
+<sentence num="2">Yetkililer ,diğer yaralıların tedavisinin sürdüğünü ancak ,durumlarının kritik olduğunu bildirdiler .</sentence>
+<sentence num="3">Gaziantep Sağlık İl Müdürü Dr .Yusuf Yıldırım ,AA muhabirine yaptığı açıklamada ,LPG yüklü tankerin patlaması sonucu yaralanan ve GATA'ya sevk edilen hastaların yakınlarının ,Gaziantep'te oluşturulan kriz merkezini arayarak hastaların son durumları hakkında bilgi edinebileceklerini söyledi .</sentence>
+<sentence num="4">Kazada yanarak ağır yaralanan vatandaşların tedavileri için Başbakanlık Acil Durum Yönetimi Genel Müdürlüğü ile görüşülerek Genelkurmay Başkanlığı'ndan askeri ambulans uçak talep edildiğini ,acil durumda olanların tam donanımlı ambulansla Ankara GATA Yanık Tedavi Merkezi'ne sevk edildiklerini anımsatan Yıldırım ,''Ne yazık ki şu ana kadar 10 vatandaşımızı kaybettik .</sentence>
+<sentence num="5">GATA'da tedavi edilen diğer hastaların durumu halen kritik ''dedi .</sentence>
+<sentence num="6">Çok sayıda hasta yakının ,GATA'da bulunan hastalar için bilgi edinmek istediklerini ,ancak acil durum nedeniyle bazı hasta yakınlarına ulaşamadıklarını belirten Yıldırım ,''Acil durum nedeniyle bazı hasta yakınlarına ulaşıp bizim bilgi vermemiz gerekiyor .</sentence>
+<sentence num="7">Ancak bu mümkün olmayabiliyor .</sentence>
+<sentence num="8">Vatandaşlarımız ,0342 241 02 82 No'lu valilikte oluşturulan Gaziantep Kriz Merkezi telefonunu arayarak son durum hakkında bilgi edinebilirler ''diye konuştu .</sentence>
+<sentence num="9">Gaziantep E 24 Karayolu Dülükbaba ormanları mevkiinde ,dün ,73 FA 069 plakalı LPG yüklü tankerin henüz belirlenemeyen nedenle patlaması sonucu 5 kişi ölmüş ,yaralılardan biri Ankara GATA'ya götürülürken uçakta ,3'ü ise GATA'da hayatını kaybetmişti .</sentence>
+<sentence num="10">ÖLÜ SAYISI ARTIYOR Gaziantep'te dün LPG yüklü tankerin patlaması sonucu ölenlerin sayısı 12'ye yükseldi .</sentence>
+<sentence num="11">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,Ankara GATA'da tedavi altına alınan yaralılardan Ramazan Kınalı ve Adil Kocağolu saat 22 .</sentence>
+<sentence num="12">20 sıralarında hayatlarını kaybettiler .</sentence>
+<sentence num="13">a .</sentence>
+<sentence num="14">a .</sentence>
+</doc>
+<doc>
+<id>129241</id>
+<sentence num="0">2005 08 08 10 :23 :00 .Gaziantep'te LPG yüklü tanker patladı :13 ölü .</sentence>
+<sentence num="1">Gaziantep'te LPG yüklü tanker patladı :13 ölü Gaziantep'te önceki gün LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 13'e yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,Ankara GATA'da tedavi altına alınan yaralılardan Sait Develi saat 03 .55 sıralarında hayatını kaybetti .</sentence>
+<sentence num="3">Açıklamaya göre ,patlamada hayatlarını kaybedenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,Hüseyin Ataş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Develi ve ismi bilinmeyen 1 kişi .</sentence>
+<sentence num="4">Patlamada yaralanan Oktay Balcı ,İbrahim Karaoğlu ,Cuma Şahbudak ,İbrahim Şahbudak ,Mehmet Buruğ ,Hasan Kocaoğlu ,Hüseyin Çelik'in tedavileri sürüyor .</sentence>
+</doc>
+<doc>
+<id>129243</id>
+<sentence num="0">2005 08 08 10 :25 :00 .LPG tankerinin patlaması ...</sentence>
+<sentence num="1">Ölü sayısı 13'e yükseldi .</sentence>
+<sentence num="2">Gaziantep'te önceki gün LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 13'e yükseldi .</sentence>
+<sentence num="3">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,Ankara GATA'da tedavi altına alınan yaralılardan Sait Develi saat 03 .55 sıralarında hayatını kaybetti .</sentence>
+<sentence num="4">Açıklamaya göre ,patlamada hayatlarını kaybedenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,Hüseyin Ataş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Develi ve ismi bilinmeyen 1 kişi .</sentence>
+<sentence num="5">Patlamada yaralanan Oktay Balcı ,İbrahim Karaoğlu ,Cuma Şahbudak ,İbrahim Şahbudak ,Mehmet Buruğ ,Hasan Kocaoğlu ,Hüseyin Çelik'in tedavileri sürüyor .</sentence>
+</doc>
+<doc>
+<id>129322</id>
+<sentence num="0">2005 08 08 11 :44 :00 .Gaziantep'teki LPG patlaması :14 ölü .</sentence>
+<sentence num="1">Gaziantep'teki LPG patlaması :14 ölü Gaziantep'te önceki gün LPG yüklü tankerin patlaması sonucu meydana gelen kazada yaralananlardan biri ,tedavi gördüğü hastanede öldü .</sentence>
+<sentence num="2">Kazada ölenlerin sayısı 14'e yükseldi .</sentence>
+<sentence num="3">Kriz Merkezi'nden alınan bilgiye göre ,Ankara GATA'da tedavi altına alınan yaralılardan İbrahim Karaoğlu ,saat 11 .05 sıralarında hayatını kaybetti .</sentence>
+<sentence num="4">Patlamada yaralanan Oktay Balcı ,Cuma Şahbudak ,Mehmet Buruğ ,Hasan Kocaoğlu ,Hüseyin Çelik'in tedavileri sürüyor .</sentence>
+<sentence num="5">Bu arada ,Gaziantep'in Şehitkamil İlçesi'nde Dülükbaba Ormanı girişi mevkiinde LPG yüklü tankerin hareket halinde patlaması sonucu hayatını kaybeden 3 kişi Gaziantep'te toprağa verildi .</sentence>
+</doc>
+<doc>
+<id>129354</id>
+<sentence num="0">2005 08 08 12 :20 :00 .LPG tankerinin patlaması ...</sentence>
+<sentence num="1">Ölü sayısı 15'e yükseldi .</sentence>
+<sentence num="2">Gaziantep'te önceki gün LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 15'e yükseldi .</sentence>
+<sentence num="3">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,Gülhane Askeri Tıp Akademisi'nde (GATA )tedavi altındaki yaralılardan Mehmet Buruğ da hayatını kaybetti .</sentence>
+<sentence num="4">Açıklamaya göre ,patlamada ölenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,İbrahim Karaoğlu ,Hüseyin Ateş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Develi ve Mehmet Buruğ ve ismi belirlenemeyen bir kişi .</sentence>
+<sentence num="5">Patlamada yaralanan Oktay Balcı ve Cuma Şahbudak'ın GATA'da ,Hasan Kocaoğlu ve Hüseyin Çelik'in Adana'da tedavileri sürüyor .</sentence>
+<sentence num="6">GATA'da hayatını kaybeden asker Ferdi Akpınar'ın cenazesi ,Genelkurmay Başkanlığı'nca sağlanan cenaze nakil aracıyla memleketine ,Erdal Baygül ,Mehmet Polat ve Özcan Akkol'un cenazeleri ise Keçiören Belediye Başkanlığı'ndan temin edilen cenaze aracıyla Gaziantep'e gönderildi .</sentence>
+<sentence num="7">İbrahim Karaoğlu ,Hüseyin Ateş ,Sait Develi ,Adil Koçoğlu ,Ramazan Kınalı ve Mehmet Buruğ'un cenazeleri de bugün gerekli işlemler tamamlandıktan sonra Keçiören Belediye Başkanlığı'ndan temin edilen cenaze aracıyla Gaziantep'e gönderilecek .</sentence>
+</doc>
+<doc>
+<id>129359</id>
+<sentence num="0">2005 08 08 12 :24 :00 .LPG faciasında ölü sayısı artıyor Patlamada yaralanan dört kişinin tedavisi sürüyor .</sentence>
+<sentence num="1">Kazada ölen dört kişinin cenazeleri dün Yeşilkent mezarlığında toprağa verildi Gaziantep Adana karayolunda ,LPG yüklü bir tankerin patlaması sonucu meydana gelen zincirleme kazada ölenlerin sayısı 15'e yükseldi .</sentence>
+<sentence num="2">Ankara GATA'da tedavi altına alınan yaralılardan İbrahim Karaoğlu ile Sait Develi'nin hayatını kaybetmesiyle kazada ölenlerin sayısı 15'e çıktı .</sentence>
+<sentence num="3">Patlamada yaralanan Oktay Balcı ,Cuma Şahbudak ,Hasan Kocaoğlu ,Hüseyin Çelik'in tedavileri sürüyor .</sentence>
+<sentence num="4">Sağlık durumları ciddiyeti koruyan yaralılarla ilgili olarak hasta yakınları ,Gaziantep'te oluşturulan kriz merkezinden bilgi alabilecek .</sentence>
+<sentence num="5">Patlamada hayatını kaybedenlerin isimleri şöyle :Mehmet Buruğ Sedat Mercan Cuma Karakuş Halil Gözübüyük Yunus Can Vural Metin Uçar Özcan Akkol Erdal Baygül Mehmet Polat Ferdi Akpınar Hüseyin Ataş Ramazan Kınal Adil Koçoğlu Sait Develi İbrahim Karaoğlu Şehitkamil İlçe Jandarma Komutanlığı'nda görevli asker Ferdi Akpınar'ın yeni terhis olduğu ve birliğinden ayrılacağı açıklanmıştı .</sentence>
+<sentence num="6">Gaziantep E 24 karayolu Dülük ormanları mevkiinde önceki gün LPG yüklü tanker ,bariyerlere çarpmış ,tankerden yükselen alevlerin yolda gitmekte olan beş araca sıçraması sonucu ilk anda altı kişi ölmüştü .</sentence>
+<sentence num="7">Ölen dört kişinin cenazeleri toprağa verildi .</sentence>
+<sentence num="8">Patlamanın ardından çıkan yangın ,yol kenarındaki ormanlık alana da sıçramış ,güçlükle kontrol altına alınan yangında üç hektarlık alan tamamen yanmıştı .</sentence>
+</doc>
+<doc>
+<id>129400</id>
+<sentence num="0">2005 08 08 13 :10 :00 .Gaziantep'te LPG tankeri patlaması :15 ölü .</sentence>
+<sentence num="1">Gaziantep'te LPG tankeri patlaması :15 ölü Gaziantep'te önceki gün LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 15'e yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,Gülhane Askeri Tıp Akademisi'nde (GATA )tedavi altındaki yaralılardan Mehmet Buruğ da hayatını kaybetti .</sentence>
+<sentence num="3">Açıklamaya göre ,patlamada ölenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,İbrahim Karaoğlu ,Hüseyin Ateş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Develi ve Mehmet Buruğ ve ismi belirlenemeyen bir kişi .</sentence>
+</doc>
+<doc>
+<id>129431</id>
+<sentence num="0">2005 08 08 13 :54 :00 .LPG faciasında ölü sayısı 15 oldu .</sentence>
+<sentence num="1">Ankara GATA'da tedavi altına alınan yaralılardan İbrahim Karaoğlu ile Sait Develi'nin hayatını kaybetmesiyle kazada ölenlerin sayısı 15'e çıktı .</sentence>
+<sentence num="2">Patlamada yaralanan Oktay Balcı ,Cuma Şahbudak ,Hasan Kocaoğlu ,Hüseyin Çelik'in tedavileri sürüyor .</sentence>
+<sentence num="3">Sağlık durumları ciddiyeti koruyan yaralılarla ilgili olarak hasta yakınları ,Gaziantep'te oluşturulan kriz merkezinden bilgi alabilecek .</sentence>
+<sentence num="4">Patlamada hayatını kaybedenlerin isimleri şöyle :Mehmet Buruğ Cuma Karakuş Halil Gözübüyük Yunus Can Vural Metin Uçar Özcan Akkol Erdal Baygül Mehmet Polat Ferdi Akpınar Hüseyin Ataş Ramazan Kınal Adil Koçoğlu Sait Develi İbrahim Karaoğlu .</sentence>
+</doc>
+<doc>
+<id>129502</id>
+<sentence num="0">2005 08 08 15 :30 :00 .Facianın ardından dram çıktı .</sentence>
+<sentence num="1">Herkesin kanını donduran ve tüylerini diken diken eden facianın ardından yaralananların tedavisi devam ederken ,ölenlerin sayısının 15'e yükselmesi olayın korkunç boyutunu bir kez daha ortaya koydu .</sentence>
+<sentence num="2">Ölenler arasında bulunan asker Ferdi Akpınar ise ,terhisine bir gün kaldığı ve birliğinden izin alarak çarşıya çıktığı belirlendi .</sentence>
+<sentence num="3">Akpınar'ın kent merkezinde alışveriş yaptığı ve annesine çeşitli hediyeler aldıktan sonra birliğine dönmek üzere dolmuş ile yola çıktığı öğrenildi .</sentence>
+<sentence num="4">LPG tankerinin patlamasının ardından alev alan dolmuşta yaralanan ve kaldırıldığı hastanede tedavi altına alındıktan sonra Genelkurmay Başkanlığı tarafından gönderilen ambulans uçağı ile GATA'ya götürülmüş ancak yapılan tüm müdahalelere rağmen kurtarılamamıştı .</sentence>
+<sentence num="5">VALİ BAŞSAĞLIĞI DİLEDİ Gaziantep Valisi Lütfullah Bilgin ,LPG yüklü tankerin patlamasıyla meydana gelen kazanın ,tankerin hatalı sollama yapması nedeniyle olduğunu açıkladı .</sentence>
+<sentence num="6">Bilgin ,Şehitkamil İlçesi Dülükbaba Ormanı girişi mevkiinde ,D 400 Karayolu üzerinde 73 FA 069 plakalı LPG yüklü tankerin ,hatalı sollama yaparak ,yol çalışması için yol ortasına konulan bariyerlere çarparak patlaması sonucu ,tanker önünde ve arkasında seyir halinde olan araçların yanmasıyla kazanın meydana geldiğini bildirdi .</sentence>
+<sentence num="7">Kazada yanarak ağır yaralanan vatandaşların tedavileri için Başbakanlık Acil Durum Yönetimi Genel Müdürlüğü ile görüşülerek Genelkurmay Başkanlığı'ndan askeri ambulans uçak talep edildiğini ifade eden Vali Bilgin ,ağır yaralı hastaların ,yanık merkezi olan Ankara'daki hastanelere sevkinin askeri ambulans uçaklarla süratle sağlanacağını kaydetti .</sentence>
+<sentence num="8">Bilgin ,kazada hayatını kaybeden vatandaşlara Allah'tan rahmet ve ailelerine başsağlığı ,yaralılara da acil şifalar diledi .</sentence>
+<sentence num="9">HABER :DAVUT UÇAR .</sentence>
+</doc>
+<doc>
+<id>129503</id>
+<sentence num="0">2005 08 08 15 :30 :00 .LPG tankerleri canlı bomba gibi dolaşıyor .</sentence>
+<sentence num="1">TMMOB Makina Mühendisleri Odası (MMO )Gaziantep Şube Başkanı Ali Peri ,Gaziantep'te LPG yüklü tankerin patlaması sonucu 15 kişinin öldüğü kazayla ilgili olarak Kazanın meydana gelmesinde LPG ile ilgili standart ve denetim ihlalleri olduğu açıkça görülüyor dedi .</sentence>
+<sentence num="2">Peri ,AA muhabirine yaptığı açıklamada ,kaza ile ilgili bilirkişi incelemelerinin sürdürüldüğünü ,kaza raporu çıkmadan kesin bir kanıya varmanın zor olduğunu belirtti .</sentence>
+<sentence num="3">Her türlü LPG ve akaryakıt tankerinin canlı bomba gibi dolaştığını ,halkın can ve mal güvenliğine ,çevresel değerlere karşı büyük tehdit oluşturduğunu bildiren Peri ,şunları söyledi :LPG'nin yanıcı ve parlayıcı özelliklere sahip olması nedeniyle taşınması ,depolanması ,doldurulup boşaltılması ve tüm tüketim noktalarında kullanımı sırasında emniyet ve güvenlik standartlarına uyulması gerekiyor .</sentence>
+<sentence num="4">Tamamen denetimsiz olan bu araçların üretim ve kullanımları aşamasında gerekli denetimler yapılmalıdır .</sentence>
+<sentence num="5">Kaçak akaryakıt ve LPG tankeri üretimi yapan firmalar belirlenmeli ve kapatılmalıdır .</sentence>
+<sentence num="6">LPG ve akaryakıt tankeri sürücülerinin mutlaka eğitilmesi sağlanmalı ,eğitim sertifikaları bulunmayan sürücülerin tanker kullanması engellenmelidir .</sentence>
+<sentence num="7">LPG tanker şoförlerinin eğitimli olması şart .</sentence>
+<sentence num="8">Taşıdığı ürünle ilgili ,kaza anında neler yapması gerektiğiyle ilgili eğitimden geçirilmeleri gerekiyor .</sentence>
+<sentence num="9">Tanker şoförü eğitimli olsaydı can kaybı bu kadar olmazdı .</sentence>
+<sentence num="10">LPG tanklarının çarpma veya devrilme sırasında patlama olasılığının çok düşük olduğunu ,tankerin gaz kaçağından veya fazla dolumdan patlamış olması olasılığı üzerinde durduklarını kaydeden Peri ,şöyle konuştu :Bu tankerlere yüzde 80 oranında dolum yapılması gerekiyor ,yüzde 20'i de genleşme payı olarak bırakılıyor .</sentence>
+<sentence num="11">Ancak daha fazla taşıma uğruna ne yazık ki şamandıra ayarıyla oynanıyor .</sentence>
+<sentence num="12">Tankların üretim sırasında sac kalınlıklarının ,kaynak dikişlerinin kontrolleri ,tankların kullanılması sırasında tankın topraklanması ,tanktaki emniyet ventillerinin çalışıyor olması ,tankın maksimum yüzde 80 oranında doldurulması gibi alınabilecek birçok önlem var .</sentence>
+<sentence num="13">Ancak bu tankerlerin nasıl ve kimler tarafından denetlendiği net değil .</sentence>
+<sentence num="14">Kazanın meydana gelmesinde LPG ile ilgili standart ve denetim ihlalleri olduğu açıkça görülüyor .</sentence>
+<sentence num="15">Kent merkezine girişi kesinlikle yasak olan LPG tankeri şehir merkezine nasıl girdi ,denetimi nasıl aştı ?</sentence>
+<sentence num="16">Bu sorulara acilen yanıt bulunmalı ..</sentence>
+</doc>
+<doc>
+<id>129639</id>
+<sentence num="0">2005 08 08 20 :56 :00 .Faciada ölü sayısı 16'ya yükseldi .</sentence>
+<sentence num="1">Gaziantep İl Sağlık Müdürü Dr .Yusuf Ziya Yıldırım ,6 Ağustos Cumartesi günü meydana gelen tanker faciasında hayatını kaybedenlerin sayısının 16'ya yükseldiğini belirtti .</sentence>
+<sentence num="2">Yıldırım ,vücudunun yüzde 100'ü yanan yaralılardan 2'sinin GATA'da ,2'sinin Adana'da ,1'inin de Gaziantep'te tedavilerinin sürdüğünü kaydetti .</sentence>
+<sentence num="3">GATA'da hayatını kaybedenlerin cenazelerinin ,Gaziantep'e getirilerek toprağa verildiği öğrenildi .</sentence>
+</doc>
+<doc>
+<id>129706</id>
+<sentence num="0">2005 08 09 00 :27 :00 .Gaziantep :LPG Kazası Ölü Sayısı 15 .Gaziantep'te LPG yüklü tankerin patlaması sonucu ölenlerin sayısı 15'e yükseldi .</sentence>
+<sentence num="1">Kazanın ardından ,Gaziantep'ten Ankara GATA'ya gönderilerek tedavi altına alınan yaralılardan ,Ferdi Akpınar ,Erdal Baygün ,Mehmet Polat ,Hüseyin Ateş ,Ramazan Kınalı ,Adil Kocaoğlu ,Sait Develi ,İbrahim Karaoğlu ve Mehmet Buruğ hayatını kaybetti .</sentence>
+<sentence num="2">Patlamada yaralananlardan 2'si Ankara'da 2'si de Adana'da tedavi ediliyor .</sentence>
+<sentence num="3">LPG yüklü tanker ,önceki gün Şehitkamil ilçesi Dülük Ormanları Mevkii'nde hatalı sollama sırasında yol çalışmaları için konulan bariyerlere çarparak patlamıştı .</sentence>
+<sentence num="4">Kazada ,tankerin önünde ve arkasındaki çok sayıda araç yanmıştı .</sentence>
+</doc>
+<doc>
+<id>129960</id>
+<sentence num="0">2005 08 09 12 :30 :00 .Isısan Başkanı :Gaziantep'te patlayan tankın kaynakları iyi yapılmamış .</sentence>
+<sentence num="1">Isısan A .Ş Yönetim Kurulu Başkanı Mahmut Özbıyık ,LPG tanklarının ince daneli sactan yapılması ,tozaltı kaynağı ile birleştirilmesi ve kaynağın röntgeninin mutlaka çekilmesi gerektiğini söyledi .</sentence>
+<sentence num="2">Gaziantep'teki olayın ardından incelemelerde bulunduklarını açıklayan Özbıyık ,tankın kaynaklarının iyi yapılmadığını tespit ettik dedi .</sentence>
+<sentence num="3">Özbıyık ,Kazan ve Basınçlı Kap Sanayicileri Birliği üyesi olan firmalarının ,çeşitli kapasitelerde yeraltı ve yerüstü LPG tankları ile kamyon ve yarı römorklar için LPG taşıma tankları ürettiğini kaydetti .</sentence>
+<sentence num="4">Gaziantep'te meydana gelen patlamanın ,uzun yıllardır sektörde yeralan bir firma olarak bekledikleri bir olay olduğunu ifade eden Özbıyık ,şunları anlattı :''Ülkemizde yeraltı ve yerüstü sabit LPG tankları için belirli hacimlerde TSE standardı olmasına rağmen ne yazık ki karayollarında yoğun olarak seyreden kamyon ve yarı römorklar üzerine monte edilen LPG taşıma tanklarının dizaynı ve imalatı için henüz ulusal bir standart bulunmamaktadır .</sentence>
+<sentence num="5">Ancak ,ülkemizin de taraf olduğu AB'nin mobil LPG tanklarının dizaynı ve imalatı ile ilgili EN 12493 nolu standardı mevcuttur .</sentence>
+<sentence num="6">Ülkemizdeki bazı firmalar maalesef toplumun mal ve can güvenliğini riske sokarak ,ne ulusal ne de uluslararası hiçbir standartta yer almayan yöntemleri kullanarak taşıma tankı imal etmektedirler .''</sentence>
+<sentence num="7">Özbıyık ,standart dışı tank üretiminin özellikle Irak'tan gelen yoğun LPG talebi üzerine gündeme geldiğine işaret ederek ,şöyle devam etti :''Konunun içinde ve bilincinde olmamız nedeniyle ,üyesi bulunduğumuz Kazan ve Basınçlı Kap Sanayicileri Birliği aracılığıyla Sanayi ve Ticaret Bakanlığı'na 2 yıl önce başvurarak endişelerimizi dile getirdik .</sentence>
+<sentence num="8">Ancak ,bugüne dek hiçbir gelişme olmadı .</sentence>
+<sentence num="9">Gaziantep'te olan olay bizim bahsettiğimiz ,olmasını üzülerek bekliyor olduğumuz kazalardan bir tanesidir .''</sentence>
+<sentence num="10">Türkiye'de spiral kaynaklı borulardan bile LPG tankı imal edildiğine dikkati çeken Özbıyık ,yollardaki LPG tankerlerinin bir bölümünün ,her an patlamaya hazır birer bomba olduğunu öne sürdü .''</sentence>
+<sentence num="11">DOLUM TESİSLERİ SORUNU ÇÖZER ''Özbıyık ,standart dışı üretilen tankerlere dolum tesislerinin LPG vermemesi gerektiğine kaydederek ,şunları anlattı :''LPG tankları (ince daneli )sactan yapılmalı ,tozaltı kaynağı ile birleştirilmeli ve kaynağın röntgeni mutlaka çekilmelidir .</sentence>
+<sentence num="12">Çünkü basınçlı bir tank yapıyorsunuz .</sentence>
+<sentence num="13">Basit bir mazot tankı ,su tankı yapmıyorsunuz .</sentence>
+<sentence num="14">Bunun ,bütün dünyada kullanılan ve bilinen standartları var .</sentence>
+<sentence num="15">İşin çözümü ,bu standartları tatbik etmek ve kontrol etmektedir .</sentence>
+<sentence num="16">Bunun için samimi olarak gayret sarfetmek lazım .</sentence>
+<sentence num="17">Sadece kontrol mekanizmalarını ,ruhsat vermekle ,tank kontrolüyle sınırlı tutmak ta yeterli değil .</sentence>
+<sentence num="18">Bunun standardını en iyi bilen kurumlar dolum tesisleridir .</sentence>
+<sentence num="19">Dolum tesisleri standart dışı tankerlere LPG vermezse bu iş kökünden çözülür .''</sentence>
+<sentence num="20">TANKIN KAYNAĞI İYİ YAPILMAMIŞ Gaziantep'teki patlamadan yaklaşık 2 saat sonra olay yerinde incelemelerde bulunduklarını açıklayan Özbıyık ,tankın içinde dalgakıran bulunmadığını ve kaynaklarının iyi yapılmadığını tespit ettiklerini söyledi .</sentence>
+<sentence num="21">Görgü tanıklarının olay yerinde duydukları patlama sesinin ,tankın basınçla kaynak yerinden açılması sonucu olabileceğini söyleyen Başkan Özbıyık ,kaynak yerlerindeki paslanmaya dikkat çekerek ekledi :İyi bir kaynakta pas oluşması mümkün değil Gaziantep'in Dülükbaba ormanları mevkiinde önceki gün 73 FA 069 plakalı LPG yüklü tankerin patlaması sonucu ,15 kişi hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>130045</id>
+<sentence num="0">2005 08 09 13 :56 :00 .Gaziantep'teki LPG patlamasında ölü sayısı 16'ya çıktı .</sentence>
+<sentence num="1">Gaziantep'teki LPG patlamasında ölü sayısı 16'ya çıktı Gaziantep'te LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 16'ya yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,kazada yaralanan Hasan Kocaoğlu da Adana'da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="3">Açıklamaya göre ,patlamada ölenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Sedat Mercan ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,Hüseyin Ataş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Deveci ,İbrahim Karaoğlu ,Mehmet Buruğ ve Hasan Kocaoğlu .</sentence>
+</doc>
+<doc>
+<id>130054</id>
+<sentence num="0">2005 08 09 14 :05 :00 .LPG faciasında ölü sayısı 16'ya yükseldi .</sentence>
+<sentence num="1">Gaziantep'te LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 16'ya yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,kazada yaralanan Hasan Kocaoğlu da Adana'da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="3">Açıklamaya göre ,patlamada ölenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Sedat Mercan ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,Hüseyin Ataş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Deveci ,İbrahim Karaoğlu ,Mehmet Buruğ ve Hasan Kocaoğlu .</sentence>
+<sentence num="4">Patlamada yaralanan Oktay Balcı ,Cuma Şahbudak'ın tedavileri GATA'da Hüseyin Çelik'in ,tedavisi ise Adana'da sürüyor .?</sentence>
+<sentence num="5">Isısan Başkanı :Gaziantep'te patlayan tankın kaynakları iyi yapılmamış .</sentence>
+</doc>
+<doc>
+<id>130160</id>
+<sentence num="0">2005 08 09 16 :19 :00 .Tanker kazasında ölü sayısı 16'ya çıktı .</sentence>
+<sentence num="1">Kazanın hatalı sollama nedeniyle meydana geldiği açıklanmıştı Gaziantep'te LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 16'ya yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,kazada yaralanan Hasan Kocaoğlu da Adana'da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="3">Ölenlerin isimleri şöyle :Cuma Karakuş Halil Gözübüyük Yunus Can Vural Metin Uçar Sedat Mercan Özcan Akkol Erdal Baygül Mehmet Polat Ferdi Akpınar Hüseyin Ataş Ramazan Kınal Adil Koçoğlu Sait Deveci İbrahim Karaoğlu Mehmet Buruğ Hasan Kocaoğlu Patlamada yaralanan Oktay Balcı ,Cuma Şahbudak'ın tedavileri GATA'da Hüseyin Çelik'in ,tedavisi ise Adana'da sürüyor .</sentence>
+<sentence num="4">Hatalı sollama Gaziantep Valisi Lütfullah Bilgin ,kazanın ,LPG yüklü tankerin hatalı sollama yapması nedeniyle meydana geldiğini açıklamıştı .</sentence>
+<sentence num="5">Patlamanın ardından çıkan yangın ,yol kenarındaki ormanlık alana da sıçramış ,ve güçlükle kontrol altına alınan yangında üç hektarlık alan tamamen yanmıştı .</sentence>
+</doc>
+<doc>
+<id>130176</id>
+<sentence num="0">2005 08 09 16 :37 :00 .LPG faciasında ölü sayısı 16ya çıktı .</sentence>
+<sentence num="1">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,kazada yaralanan Hasan Kocaoğlu da Adana'da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="2">Açıklamaya göre ,patlamada ölenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Sedat Mercan ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,Hüseyin Ataş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Deveci ,İbrahim Karaoğlu ,Mehmet Buruğ ve Hasan Kocaoğlu .</sentence>
+<sentence num="3">Patlamada yaralanan Oktay Balcı ,Cuma Şahbudak'ın tedavileri GATA'da Hüseyin Çelik'in ,tedavisi ise Adana'da sürüyor .</sentence>
+</doc>
+<doc>
+<id>131261</id>
+<sentence num="0">2005 08 11 14 :08 :00 .Gaziantep'teki LPG patlamasıyla ilgili bilirkişi raporu hazırlandı .</sentence>
+<sentence num="1">Gaziantep'teki LPG patlamasıyla ilgili bilirkişi raporu hazırlandı Gaziantep'te LPG yüklü tankerin patlaması sonucu 16 kişinin yanarak ölmesiyle ilgili bilirkişi raporu hazırlandı .</sentence>
+<sentence num="2">Raporda ,eğitimsiz ve LPG konusunda bilinçsiz olmasından dolayı tanker sürücüsü ile sertifikası olmayan LPG tankerine kapasitenin üzerinde dolum yapan ,LPG tankını şaseye monte eden ve tank üretimini yapan firmaların kusurlu olduğu bildirildi .</sentence>
+<sentence num="3">İncelemeyi yapan ,TMMOB Makina Mühendisleri Odası Gaziantep Şubesi'nde görevli makine mühendisleri Kerem Yelekçi ve Mustafa İnan'ın hazırladığı raporda ,6 Ağustos'ta 73 FA 069 plakalı LPG taşıyan tankerin patlaması sonucu 2 minibüs ,1 midibüs ve 2 otomobilin tamamen yandığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>131463</id>
+<sentence num="0">2005 08 11 18 :51 :00 .LPG Tankeri Kaza Raporu Düşündürücü .</sentence>
+<sentence num="1">Gaziantep'te cumartesi günü LPG yüklü bir tankerde meydana gelen patlamanın ,sürücünün LPG konusunda eğitimsizliği ve tankın montesindeki kusurdan kaynaklandığı bildirildi .</sentence>
+<sentence num="2">16 kişinin öldüğü olayla ilgili Gaziantep Makina Mühendisleri Odası'nca hazırlanan bilirkişi raporu açıklandı .</sentence>
+<sentence num="3">Rapora göre patlamada ,tanker sürücüsü ,tankın kapasitesinin üzerinde dolum yapan ve tankın üretimi ile montesini gerçekleştiren firmalar kusurlu bulundu .</sentence>
+<sentence num="4">Paporda ,35 metreküp kapasiteli tankere maksimum %80 dolum yapılması gerekirken ,bu oranın %93 olduğu kaydedildi .</sentence>
+<sentence num="5">Ayrıca tankın araca montajında ,şaseye uygun olmayan ve yetersiz civatalar kullanıldığı belirlendi .</sentence>
+<sentence num="6">Bilirkişi ve görgü tanıklarının ifadelerine göre hazırlanan raporda ,kazanın meydana geldiği yerde yol çalışması olduğuna dair gerekli uyarı ve ikaz levhalarının bulunduğu da ifade edildi .</sentence>
+<sentence num="7">Gaziantep'in Şehitkamil ilçesi Dülük ormanları mevkiinde Cumartesi günü meydana gelen kazada LPG yüklü tanker patlayarak 16 kişinin ölümüne yol açmıştı .</sentence>
+</doc>
+<doc>
+<id>131793</id>
+<sentence num="0">2005 08 12 13 :00 :00 .LPG faciasında ölü sayısı 17'ye yükseldi .</sentence>
+<sentence num="1">Gaziantep'te LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 17'ya yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,kazada yaralanan Hüseyin Çelik de Adana'da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="3">Açıklamaya göre ,patlamada ölenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Sedat Mercan ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,Hüseyin Ataş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Deveci ,İbrahim Karaoğlu ,Mehmet Buruğ ,Hasan Kocaoğlu ve Hüseyin Çelik .</sentence>
+<sentence num="4">Patlamada yaralanan Oktay Balcı ve Cuma Şahbudak'ın tedavileri GATA'da sürüyor .</sentence>
+</doc>
+<doc>
+<id>131798</id>
+<sentence num="0">2005 08 12 13 :03 :00 .Gaziantep'teki LPG patlamasında ölenlerin sayısı 17'ye çıktı .</sentence>
+<sentence num="1">Gaziantep'teki LPG patlamasında ölenlerin sayısı 17'ye çıktı Gaziantep'te LPG yüklü tankerin patlaması sonucu meydana gelen kazada ölenlerin sayısı 17'ya yükseldi .</sentence>
+<sentence num="2">Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü'nden yapılan açıklamaya göre ,kazada yaralanan Hüseyin Çelik de Adana'da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="3">Açıklamaya göre ,patlamada ölenlerin isimleri şöyle :Cuma Karakuş ,Halil Gözübüyük ,Yunus Can Vural ,Metin Uçar ,Sedat Mercan ,Özcan Akkol ,Erdal Baygül ,Mehmet Polat ,Ferdi Akpınar ,Hüseyin Ataş ,Ramazan Kınal ,Adil Koçoğlu ,Sait Deveci ,İbrahim Karaoğlu ,Mehmet Buruğ ,Hasan Kocaoğlu ve Hüseyin Çelik .</sentence>
+<sentence num="4">Patlamada yaralanan Oktay Balcı ve Cuma Şahbudak'ın tedavileri GATA'da sürüyor .</sentence>
+</doc>

@@ -1,0 +1,1228 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 10 29 13 :34 :00 .paris'te sokak savaşı ..</sentence>
+<sentence num="1">fransa'nın başkenti paris ,iki gündür yüzlerce gençle güvenlik kuvvetleri arasında çatışmaya sahne oluyor .</sentence>
+<sentence num="2">paris'in banliyösü clichy sois bois ,çatışmalar yüzünden savaş alanına döndü .</sentence>
+<sentence num="3">iki arkadaşlarının ölmesini protesto eden gençler otomobilleri ve dükkanları ateşe verdi ,çöpleri yerlere döktü .</sentence>
+<sentence num="4">bölgede bir polis aracına da ateş açıldı .</sentence>
+<sentence num="5">olaylar üzerine clichy sois bois semtine yüzlerce polisten oluşan takviye güç gönderildi .</sentence>
+<sentence num="6">çatışmalar ,iki gencin polisten kaçarken saklandıkları elektrik trafosunda cereyana kapılarak ölmeleri üzerine başladı .</sentence>
+<sentence num="7">polis ,gençleri kovalamadığını savunurken ,göstericiler gençlerin ölümünden polisi sorumlu tutuyor .</sentence>
+<sentence num="8">fransa içişleri bakanı nicolas sarkozy ,birkaç gün önce paris'te çetelere karşı savaş açtığını duyurmuş ,yüzlerce polisin sorunlu semtlerde konuşlanacağını ,polis devriyelerinde video kameralar kullanılacağını açıklamıştı .</sentence>
+</doc>
+<doc>
+<id>174701</id>
+<sentence num="0">2005 10 30 13 :56 :00 .Paris banliyösünde çıkan olaylarla ilgili 22 kişi gözaltına alındı .</sentence>
+<sentence num="1">Paris banliyösünde çıkan olaylarla ilgili 22 kişi gözaltına alındı Fransa'nın başkenti Paris yakınlarındaki Clichy Sous Bois banliyösünde ,iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesini protesto edenlerin çıkarttığı olaylarla ilgili 22 kişi gözaltına alındı .</sentence>
+<sentence num="2">Banliyödeki gençler ,arkadaşlarının ölümünü protesto etmek için çok sayıda otomobili ateşe vermiş ve polise taşlı sopalı saldırıda bulunmuştu .</sentence>
+<sentence num="3">Olaylar sırasında 23 polisin yaralandığı ve bir polis aracının kurşunlandığı bildiriliyor .</sentence>
+</doc>
+<doc>
+<id>174776</id>
+<sentence num="0">2005 10 30 17 :08 :00 .Paris'te Olaylı Gece .</sentence>
+<sentence num="1">Paris'te iki gencin elektrik trafosunda saklanırken cereyana kapılıp ölmesi üzerine üç gün önce başlayan olaylar ,bölgeye takviye kuvvet gönderilmesine rağmen bastırılamıyor .</sentence>
+<sentence num="2">Paris'in banliyösü Clichy Sous Bois'da yüzlerce genç ,polisi taş ve şişe yağmuruna tuttu ,20 otomobili ateşe verdi ,civardaki dükkanların camlarını kırdı .</sentence>
+<sentence num="3">Olaylarla ilgili olarak 15 kişi gözaltına alındı .</sentence>
+<sentence num="4">Çoğunlukla Afrikalıların kaldığı semtte olaylar ,polisten kaçan biri 15 ,diğeri 17 yaşındaki iki gencin ,elektrik trafosunda saklanmaya çalışırken cereyana kapılıp ölmeleri üzerine başlamıştı .</sentence>
+<sentence num="5">Polis yetkilileri ise gençleri kovalamadıklarını ,bir hırsızlık olayını soruşturmak için bölgede bulunduklarını savunuyor .</sentence>
+</doc>
+<doc>
+<id>175041</id>
+<sentence num="0">2005 10 31 10 :40 :00 .Paris'te gerilim devam ediyor .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesini protesto edenlerin çıkarttığı olaylar devam ediyor .</sentence>
+<sentence num="2">Sabaha karşı ,8 otomobil ve 13 çöp kutusu gençler tarafından ateşe verildi .</sentence>
+<sentence num="3">Öfkeli gençlerin attığı taş ve diğer maddeler sonucu 6 polis yaralanırken ,11 kişi sorgulanmak üzere gözaltına alındı .</sentence>
+<sentence num="4">İçişleri Bakanı Nicolas Sarkozy ,TF1 televizyonuna yaptığı açıklamada ,''Savcılığının gençlerin ölümüne yol açan olayı soruşturduğunu ''belirterek ,''Sonucun ayrıntılı biçimde kamuoyuna açıklanacağını ''bildirdi .</sentence>
+<sentence num="5">Sarkozy ,''Kamu düzenine karşı çıkanlara sıfır tolerans göstereceğiz ''dedi .</sentence>
+<sentence num="6">İçişleri Bakanı bugün ,banliyöde ölen gençlerin ailesini ziyaret edecek ve yetkililerle görüşecek .</sentence>
+<sentence num="7">Clichy Sous Bois banliyösünde 4 gün içinde düzenlenen protesto gösterilerinde ,40'a yakın otomobil ateşe verilirken ,zaman zaman polis ve gençler arasında arbede çıkmıştı .</sentence>
+<sentence num="8">Olaylar sırasında yaklaşık 30 genç gözaltına alınmıştı .</sentence>
+</doc>
+<doc>
+<id>175097</id>
+<sentence num="0">2005 10 31 11 :25 :00 .'Sarkozy ,sorunlu banliyölerde kötü bir atmosfer yaratıyor '.'</sentence>
+<sentence num="1">Sarkozy ,sorunlu banliyölerde kötü bir atmosfer yaratıyor 'Fransa'nın eski başbakanlarından Laurent Fabius ,İçişleri Bakanı Nicolas Sarkozy'yi ,sorunlu banliyölerde ''kötü bir atmosfer yaratmakla ''suçladı .</sentence>
+<sentence num="2">Europe 1 radyo kanalının sorularını yanıtlayan Sosyalist Parti üyesi Fabius ,Sarkozy'nin ,sorunlu banliyölere ilişkin yürüttüğü politikanın ''başarısızlığa uğradığını ''ileri sürdü .</sentence>
+<sentence num="3">Clichy Sous Bois ve Seine Saint Denis banliyölerinde çıkan olayları ,''kabul edilemez ''ve ''hoş görülemez ''olarak niteleyen Fabius ,''Her gün eğitimcilerle lojman yöneticileriyle yargı uzmanları ve öğretmenlerle birlikte bir takım halinde ,bu sorunun üstesinden gelmek için çalışmak gerekir ''dedi .</sentence>
+<sentence num="4">Fabius ,bu tür olayların önlenmesinde önemli rol oynadığını düşündüğü dernek ve örgütlerin fonlarının kısılmasını da eleştirdi .</sentence>
+<sentence num="5">Paris yakınlarındaki Clichy Sous Bois banliyösünde ,iki gencin polisten kaçarken ,elektrik trafosunda akıma kapılarak ölmesinin ardından son dört gün içinde çıkan olaylarda 40'a yakın otomobil ateşe verilmişti .</sentence>
+<sentence num="6">Olaylar sırasında ,yaklaşık 30 genç gözaltına alınmıştı .</sentence>
+</doc>
+<doc>
+<id>175105</id>
+<sentence num="0">2005 10 31 11 :34 :00 .Paris'te 2 Ölümün İntikamı Bitmedi .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'te ,Perşembe günü polisten kaçarken elektrik trafosuna kapılan 2 gencin ölümü üzerine başlayan olaylar sürüyor .</sentence>
+<sentence num="2">Polisten kaçan grubun içinde bir de Türk gencinin bulunduğu belirlendi .</sentence>
+<sentence num="3">21 yaşındaki Muhittin Altun'un hayati tehlikeyi atlattığı öğrenildi .</sentence>
+<sentence num="4">Clichy sous Bois banliyösündeki olayları protesto eden gençler ise 70 kadar aracı ve çöp kutusunu ateşe verdi .</sentence>
+<sentence num="5">Gözaltına alınan gençlerden 3'ü ,çıkarıldıkları mahkeme tarafından 8'er ay hapis cezasına çarptırıldı ,cezaların 6 ayı tecil edildi .</sentence>
+<sentence num="6">Elebaşı oldukları belirlenen gençlerin 2 aylık mahkumiyetlerini çekmeleri için cezaevine gönderilmeleri kararlaştırıldı .</sentence>
+<sentence num="7">Bu arada ,olaylarda ölen gençlerin aileleri ,İçişleri Bakanı Nicolas Sarkozy 'nin görüşme talebini reddetti .</sentence>
+<sentence num="8">Aileler ,Başbakan Dominique de Villepin ile görüşmek istiyor .</sentence>
+</doc>
+<doc>
+<id>175511</id>
+<sentence num="0">2005 10 31 23 :29 :00 .Yaralanan Türk Fransa'da tedavide .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'in yakınındaki Clichy Sous Bois banliyösünde Perşembe günü meydana gelen olayda ağır yaralanan Türk gencinin tedavisi sürüyor .</sentence>
+<sentence num="2">Polisin arama yaptığını düşünerek bir grupla birlikte kaçarken yaralanan 21 yaşındaki Muhittin Altun'un hayati tehlikeyi atlattığı öğrenildi .</sentence>
+<sentence num="3">Urfalı olduğu belirtilen Muhittin Altun'un vücudunda elektrik akımı sonucu meydana gelen ağır yanıklar tedavi ediliyor .</sentence>
+<sentence num="4">Clichy Sous Bois banliyösünde ,polisin arama yaptığını düşünerek kaçan gençlerden ikisi elektrik trafosuna kapılarak hayatını kaybetmiş ,aynı grup içinde bulunan Muhittin Altun ağır yaralanmıştı .</sentence>
+<sentence num="5">İki gencin hayatını kaybetmesi üzerine son dört günde çıkan olaylarda 70'e yakın otomobil ateşe verildi .</sentence>
+<sentence num="6">Olayların ardından polis tarafından gözaltına alınan gençlerden 3'ü ,bugün mahkemede 8'er aylık hapis cezalarına çarptırıldı ,cezaların 6 ayı tecil edildi .</sentence>
+<sentence num="7">Karar gereği ,olayların elebaşı oldukları belirlenen gençlerin doğrudan 2 aylık mahkumiyetlerini çekmeleri için cezaevine gönderilmeleri kararlaştırıldı .</sentence>
+<sentence num="8">Bu arada ,olaylarda ölen gençlerin aileleri ,İçişleri Bakanı Nicolas Sarkozy'nin kendileriyle görüşme talebini reddettiler .</sentence>
+<sentence num="9">Ölen gençlerin aileleri ,Sarkozy yerine Başbakan Dominique de Villepin ile görüşmek isti AA .</sentence>
+</doc>
+<doc>
+<id>175963</id>
+<sentence num="0">2005 11 01 16 :34 :00 .Paris Olayları Elebaşlarına Hapis .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'te ,Perşembe günü polisten kaçarken elektrik trafosuna kapılan 2 gencin ölümü üzerine başlayan olaylar sürüyor .</sentence>
+<sentence num="2">Polisten kaçan grubun içinde bir de Türk gencinin bulunduğu belirlendi .</sentence>
+<sentence num="3">21 yaşındaki Muhittin Altun'un hayati tehlikeyi atlattığı öğrenildi .</sentence>
+<sentence num="4">Clichy Sous Bois banliyösündeki olayları protesto eden gençlerse 70 kadar aracı ve çöp kutularını ateşe verdi .</sentence>
+<sentence num="5">Gözaltına alınan gençlerden 3'ü ,çıkarıldıkları mahkeme tarafından 8'er ay hapis cezalarına çarptırıldı ,cezaların 6 ayı tecil edildi .</sentence>
+<sentence num="6">Olayların elebaşı oldukları belirlenen gençlerin 2 aylık mahkumiyetlerini çekmeleri için cezaevine gönderilmeleri kararlaştırıldı .</sentence>
+<sentence num="7">Bu arada ,olaylarda ölen gençlerin aileleri ,İçişleri Bakanı Nicolas Sarkozy'nin görüşme talebini reddetti .</sentence>
+<sentence num="8">Aileler ,Başbakan Dominique de Villepin ile görüşmek istiyor .</sentence>
+</doc>
+<doc>
+<id>175977</id>
+<sentence num="0">2005 11 01 16 :50 :00 .Gerginlik tırmanıyor ,Paris barut gibi ...</sentence>
+<sentence num="1">Fransa'nın başkenti Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine polisi protesto edenlerin çıkarttığı olaylar giderek tırmanıyor .</sentence>
+<sentence num="2">Olayların ,Clichy Sous Bois banliyösünden sonra Seine Saint Denis bölgesindeki diğer banliyölere de sıçradığı bildirildi .</sentence>
+<sentence num="3">Polis kaynaklarından alınan bilgiye göre ,öfkeli gençler ,sabaha karşı Clichy Sous Bois ve Sevran Beaudottes'ta toplam 68 otomobili ateşe verdi .</sentence>
+<sentence num="4">Polis ,son olaylarla ilgili 13 kişiyi sorgulamak üzere gözaltına aldı .</sentence>
+<sentence num="5">Bu arada muhalefetteki Sosyalist ve Komünist Parti temsilcileri ,bugün yaptıkları açıklamalarda ,İçişleri Bakanı Nicolas Sarkozy'nin açıklamalarının ,göstericileri ''tahrik ettiği ''görüşünü savundular .</sentence>
+<sentence num="6">Muhalefet yetkilileri ,''olayları yatıştırmak için sadece güvenlik önlemlerine bel bağlamanın yanlış olduğunu ''belirterek ,''sosyal ve entegrasyondan sorumlu dernek ve örgütlerin fonlarına yapılan kısıtlamaları ''eleştiriyorlar .</sentence>
+<sentence num="7">Clichy Sous Bois banliyösünde ,polisin arama yaptığını düşünerek kaçan gençlerden ikisi elektrik trafosuna kapılarak hayatını kaybetmiş ,aynı grupta bulunan Muhittin Altun isimi Türk genci ise ağır yaralanmıştı .</sentence>
+<sentence num="8">Altun'un vücudunda elektrik akımı sonucu ağır yanıklar meydana geldiği ve tedavisinin devam ettiği bildiriliyor .</sentence>
+<sentence num="9">Paris'teki mahkeme ,protesto gösterilerini başlatanların elebaşıları olarak değerlendirilen 3 genci ,dün iki ay hapis cezasına mahkum etmişti .</sentence>
+<sentence num="10">Son 5 günde meydana gelen olaylarda 150'e yakın otomobil ateşe verildi .</sentence>
+</doc>
+<doc>
+<id>176315</id>
+<sentence num="0">2005 11 02 12 :20 :00 .Paris banliyöleri 'saatli bomba 'gibi ...</sentence>
+<sentence num="1">Fransa'nın başkenti Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkarttığı olaylar giderek artıyor .</sentence>
+<sentence num="2">Clichy Sous Bois banliyösünden sonra olayların en az beş banliyöye daha sıçradığı ve gerginliğin sürdüğü bildiriliyor .</sentence>
+<sentence num="3">Polis ,salıyı çarşambaya bağlayan gece beş ayrı banliyöde toplam 62 otomobilin yakıldığını açıkladı .</sentence>
+<sentence num="4">Olaylarla ilgili 34 kişi gözaltına alındı .</sentence>
+<sentence num="5">Önceki gün de protestocu gençler 68 otomobili ateşe vermişti .</sentence>
+<sentence num="6">Bu arada İçişleri Bakanı Nicolas Sarkozy ,Le Parisien gazetesine verdiği demeçte ,banliyölerdeki şiddeti durdurma konusunda kararlı olduğunu belirtti ve muhalefet partilerinin itirazına rağmen kendi yönteminin doğru olduğunu savundu .</sentence>
+<sentence num="7">Başbakan Dominique de Villepin ise yaptığı açıklamada ,sorunların diyalog yoluyla çözülmesini istedi .</sentence>
+<sentence num="8">Muhalefet yetkilileri ,''olayları yatıştırmak için sadece güvenlik önlemlerine bel bağlamanın yanlış olduğunu ''belirterek ,''sosyal ve entegrasyondan sorumlu dernek ve örgütlerin fonlarına yapılan kısıtlamaları ''eleştiriyor .</sentence>
+<sentence num="9">Clichy Sous Bois banliyösünde ,polisin arama yaptığını düşünerek kaçan gençlerden ikisi elektrik trafosuna kapılarak hayatını kaybetmiş ,aynı grupta bulunan Muhittin Altun isimi Türk genci ise ağır yaralanmıştı .</sentence>
+<sentence num="10">Altun'un vücudunda elektrik akımı sonucu ağır yanıklar meydana geldiği ve tedavisinin devam ettiği bildiriliyor .</sentence>
+<sentence num="11">Paris'teki mahkeme ,protesto gösterilerini başlatanların elebaşıları olarak değerlendirilen 3 genci ,önceki gün iki ay hapis cezasına mahkum etmişti .</sentence>
+<sentence num="12">Son 6 günde meydana gelen olaylarda ,200'e yakın otomobil ateşe verildi .</sentence>
+<sentence num="13">CHIRAC ,SÜKUNET ÇAĞRISINDA BULUNDU Fransa Cumhurbaşkanı Jacques Chirac ,Paris banliyölerinde son 6 gündür devam eden olaylara ilişkin yaptığı açıklamada ,sükunet çağrısında bulundu .</sentence>
+<sentence num="14">Bakanlar Kurulu toplantısında konuşan Chirac ,yasaların ,diyalog ve saygı ilkesiyle kararlılıkla uygulanması gerektiğini belirtti .</sentence>
+<sentence num="15">Chirac ,diyalog eksikliğinin ve saygı ilkesinin gözardı edilmesinin tehlikeli sonuçlara yol açabileceği uyarısında bulundu .</sentence>
+</doc>
+<doc>
+<id>176327</id>
+<sentence num="0">2005 11 02 12 :36 :00 .Paris'teki Öfke Büyüyor .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'te şiddet tırmanıyor .</sentence>
+<sentence num="2">Polisten kaçarken elektrik akımına kapılan iki gencin ölümü üzerine başlayan olaylar ,altıncı gecede daha da yayıldı .</sentence>
+<sentence num="3">Arkadaşlarının ölümünden polisi sorumlu tutan gençler ,araçları ateşe verdi .</sentence>
+<sentence num="4">Polis ,göstericilere karşı plastik mermi ve gözyaşartıcı gaz kullandı .</sentence>
+<sentence num="5">Fransa Cumhurbaşkanı Jacques Chirac ,durumun tehlikeli bir hal aldığını belirterek sükunet çağrısında bulundu .</sentence>
+<sentence num="6">Onlarca aracı yakan göstericiler ,polise molotov kokteyli atarken ,polis göstericilere karşı göz yaşartıcı gaz ve lastik mermi kullandı .</sentence>
+<sentence num="7">Çevredeki bazı dükkanların da yandığı bildirilirken ,öfkeli gençler çöp kutularını da ateşe verdi .</sentence>
+<sentence num="8">En az 9 semte yayılan olaylarda ,Pazartesi günü 34 kişi göz altına alındı .</sentence>
+<sentence num="9">Ölen gençlerin aileleriyle görüşen Başbakan Dominique de Villepin ,itidal çağrısı yaptı .</sentence>
+<sentence num="10">Görüşmeye ,olaylar sonrası izlediği politikayla eleştirilere hedef olan İçişleri Bakanı Nicolas Sarkozy de katıldı .</sentence>
+<sentence num="11">Aileler daha önce Sarkozy ile görüşmeyi reddetmişti .</sentence>
+<sentence num="12">Clichy Sous Bois banliyösünde ,polisin arama yaptığını düşünerek kaçan gençlerden ikisi elektrik akımına kapılarak hayatını kaybetmiş ,aynı grupta bulunan Muhittin Altun isimli Türk genci ise ağır yaralanmıştı .</sentence>
+</doc>
+<doc>
+<id>176428</id>
+<sentence num="0">2005 11 02 15 :16 :00 .Chirac ,banliyö olayları sonucu sükunet çağrısında bulundu .</sentence>
+<sentence num="1">Chirac ,banliyö olayları sonucu sükunet çağrısında bulundu Fransa Cumhurbaşkanı Jacques Chirac ,Paris banliyölerinde son 6 gündür devam eden olaylara ilişkin yaptığı açıklamada ,''sükunet ''çağrısında bulundu .</sentence>
+<sentence num="2">Bakanlar Kurulu toplantısında konuşan Chirac ,''yasaların ,diyalog ve saygı ilkesiyle kararlılıkla uygulanması gerektiğini ''belirtti .</sentence>
+<sentence num="3">Chirac ,''diyalog eksikliğinin ve saygı ilkesinin gözardı edilmesinin tehlikeli sonuçlara yol açabileceği ''uyarısında bulundu .</sentence>
+<sentence num="4">Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü 2 gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkarttığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+<sentence num="5">Paris polisi bu sabah yaptığı açıklamada ,salıyı çarşambaya bağlayan gece ,beş ayrı banliyöde toplam 62 otomobilin yakıldığını belirterek ,olaylarla ilgili 34 kişinin gözaltına alındığını bildirmişti .</sentence>
+<sentence num="6">Protestocu gençler ,önceki gece de 68 otomobili ateşe vermişti .</sentence>
+<sentence num="7">Son banliyö olayları ,asayiş konusunda daha sert tedbirlere başvurulmasından yana İçişleri Bakanı Nicolas Sarkozy ile buna karşı çıkan muhalefet partilerini karşı karşıya getiriyor .</sentence>
+<sentence num="8">Muhalefet partisi temsilcileri ,''olayları yatıştırmak için sadece güvenlik önlemlerine bel bağlamanın yanlış olduğunu ''belirterek ,''sosyal ve entegrasyondan sorumlu dernek ve örgütlerin fonlarına yapılan kısıtlamaları ''eleştiriyor .</sentence>
+<sentence num="9">Son 6 günde meydana gelen olaylarda ,200'e yakın otomobil ateşe verildi .</sentence>
+</doc>
+<doc>
+<id>176444</id>
+<sentence num="0">2005 11 02 15 :55 :00 .Fransa'da gündem banliyö olayları Fransa Cumhurbaşkanı Chirac ,sükunet çağrısında bulundu .</sentence>
+<sentence num="1">Fransa'da banliyö olayları gündemin ilk sırasında Fransa'da geçtiğimiz hafta göçmenlerin yaşadığı bir banliyöde ,iki gencin polisten kaçarken ölmeleri gündemin ilk sıralarında .</sentence>
+<sentence num="2">Son banliyö olayları ,asayiş konusunda daha sert tedbirlere başvurulmasından yana İçişleri Bakanı Nicolas Sarkozy ile buna karşı çıkan muhalefet partilerini karşı karşıya getiriyor .</sentence>
+<sentence num="3">Muhalefet partisi temsilcileri ,olayları yatıştırmak için sadece güvenlik önlemlerine bel bağlamanın yanlış olduğunu belirterek ,sosyal ve entegrasyondan sorumlu dernek ve örgütlerin fonlarına yapılan kısıtlamaları eleştiriyor .</sentence>
+<sentence num="4">Son altı günde meydana gelen olaylarda ,200'e yakın otomobil ateşe verildi .</sentence>
+<sentence num="5">Fransa Başbakanı Dominique De Villepin bugün ,hayatını kaybeden iki genç ile olay sırasında yaralanan Türk vatandaşı Muhittin Altun'un aileriyle görüştü .</sentence>
+<sentence num="6">Başbakan De Villepin'in gençlerin aileleriyle yaptığı görüşmeye İçişleri Bakanı Nicolas Sarkozy de katıldı .</sentence>
+<sentence num="7">Olayda yaralanan Türk genci Muhittin Altun'un babası Hüseyin Altun ,Villepin ve Sarkozy ile yapılan görüşmenin ardından ,oğlunun sağlık durumu hakkında bilgi verdi .</sentence>
+<sentence num="8">Yaralı genç ,vücudundaki yanıklar nedeniyle 4 kasımda ameliyat olacak .</sentence>
+<sentence num="9">Chirac'tan sükunet çağrısı Fransa Cumhurbaşkanı Jacques Chirac da ,Paris banliyölerinde son altı gündür devam eden olaylara ilişkin yaptığı açıklamada ,sükunet çağrısında bulundu .</sentence>
+<sentence num="10">Bakanlar Kurulu toplantısında konuşan Chirac ,yasaların ,diyalog ve saygı ilkesiyle kararlılıkla uygulanması gerektiğini belirtti .</sentence>
+<sentence num="11">Chirac ,''diyalog eksikliğinin ve saygı ilkesinin gözardı edilmesinin tehlikeli sonuçlara yol açabileceği ''uyarısında bulundu .</sentence>
+<sentence num="12">Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkarttığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+<sentence num="13">Paris polisi yaptığı açıklamada ,beş ayrı banliyöde toplam 62 otomobilin yakıldığını belirterek ,olaylarla ilgili 34 kişinin gözaltına alındığını bildirmişti .</sentence>
+<sentence num="14">Geçtiğimiz hafta Paris'te göçmenlerin yaşadığı bir banliyöde ,iki genç polisten kaçarken ,sığındıkları trafoda elektrik çarpması sonucu ölmüş ,Türk genci Muhittin Altun da yaralanmıştı .</sentence>
+<sentence num="15">Gençlerin ölümünün ardından bölgede gerginlik tırmanmış ,geniş güvenlik önlemleri alınmıştı .</sentence>
+</doc>
+<doc>
+<id>176510</id>
+<sentence num="0">2005 11 02 19 :23 :00 .De Villepin ,Kanada'ya yapacağı ziyareti erteledi .</sentence>
+<sentence num="1">De Villepin ,Kanada'ya yapacağı ziyareti erteledi Fransa Başbakanı Dominique de Villepin ,Paris banliyölerinde devam eden şiddet olayları yüzünden Kanada'ya yapacağı ziyareti erteledi .</sentence>
+<sentence num="2">Meclis genel kurulunda konuya ilişkin kendisine yöneltilen soru önergelerini yanıtlayan Dominique de Villepin ,''Hükümet ,olayları yatıştırmak için seferber olmuştur .</sentence>
+<sentence num="3">Bu yüzden Kanada yetkililerine ,bu ülkeye yapacağım ziyareti ertelediğini bildirdim ''dedi .</sentence>
+</doc>
+<doc>
+<id>176661</id>
+<sentence num="0">2005 11 03 11 :35 :00 .Paris'te öfkeli gençler 40 otomobili ateşe verdi .</sentence>
+<sentence num="1">Fransa'nın başkenti ,Paris yakınlarındaki Clichy Sous Bois banliyösünde geçen perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkarttığı olaylar devam ediyor .</sentence>
+<sentence num="2">Valilikten yapılan açıklamaya göre ,protestocu gençler ,çarşambayı perşembeye bağlayan gece ,dokuz ayrı mahallede yaklaşık 40 otomobili ateşe verdi .</sentence>
+<sentence num="3">Olaylar ,özellikle Paris'in asayiş açısından en sorunlu bölgesi olarak bilinen Seine Saint Dennis'ye bağlı banliyölerde yoğunlaşıyor .</sentence>
+<sentence num="4">Aulnay sous Bois adlı banliyöde ,bir Renault bayisi molotofkokteyli saldırısına uğradı .</sentence>
+<sentence num="5">Blanc Mesnil'de ise bir spor salonuna kundaklama girişiminde bulunulurken ,aynı mahallede bir belediye otobüsüne molotofkokteyli atıldı .</sentence>
+<sentence num="6">Bobigny banliyösünde ise bir mağazanın vitrinlerinin kırıldığı ve iki tezgahtarın saldırıya uğradığı belirtilirken ,Sevran banliyösünde bir banka şubesinin yakılmak istendiği bildirildi .</sentence>
+<sentence num="7">POLİS VE İTFAİYEYE GERÇEK MERMİLERLE ATEŞ AÇILDI Fransa'nın başkenti Paris'in Seine Saint Dennis banliyösünde ,protestocu gençlerin ,dün gece çıkan olaylarda polis ve itfaiye erlerine gerçek mermilerle ateş açtığı bildirildi .</sentence>
+<sentence num="8">Şiddet olaylarının giderek yoğunluk kazandığı Seine Saint Denis kasabası kaymakamı ,Jean Francois Cordet ,basına yaptığı açıklamada ,dün geceki olaylar sırasında göstericilerin ,dört el ateş ettiklerini söyledi .</sentence>
+<sentence num="9">Cordet ,saldırılarda ölen ya da yaralanan bulunmadığını bildirdi .</sentence>
+<sentence num="10">Atılan kurşunlardan ikisinin polisi ,birininse itfaiyeyi hedef aldığını kaydeden Cordet ,diğer bir kurşununsa belirli bir hedefi olmadığını belirtti .</sentence>
+<sentence num="11">Bu arada ,dün geceki olaylarda yakılan toplam araç sayısının 177'ye ulaştığını belirten kaymakam ,göstericiler ve güvenlik güçleri arasındaki arbede sonucuysa 4 polis ve 2 itfaiye eriyle 4 sivilin yaralandığını bildirdi .</sentence>
+<sentence num="12">Dün geceki olaylarda 23 kişinin gözaltına alındığını belirten Seint Saint Denis kaymakamı ,son bir hafta içinde gözaltına alınanların sayısının 98'i bulduğunu ,bunlardan 16'sınınsa tutuklanarak cezaevine gönderildiğini belirtti .</sentence>
+<sentence num="13">VILLEPIN ,KANADA ZİYARETİNİ ERTELEDİ Bu arada Clichy sous Bois banliyösünde gözaltına alınan genlerden ikisi ,''polise saldırı suçundan ''üç ay hapis cezasına çarptırıldı .</sentence>
+<sentence num="14">Paris mahkemesi ,önceki gün üç gence iki ay hapis cezası vermişti .</sentence>
+<sentence num="15">Başbakan Dominique de Villepin'in ,sorunlu bölgelerdeki belediye başkanları ,cemaat liderleri ve dernek temsilcileriyle bugün bir toplantı yapması bekleniyor .</sentence>
+<sentence num="16">Dominique de Villepin ,olayların giderek kontrolden çıkması üzerine bugün Kanada'ya yapmayı planladığı ziyareti ertelemişti .</sentence>
+<sentence num="17">Banliyölerde şiddet olaylarının başlamasından bu yana ,250'nin üzerinde otomobilin ateşe verildiği tahmin ediliyor .</sentence>
+</doc>
+<doc>
+<id>176663</id>
+<sentence num="0">2005 11 03 11 :48 :00 .Paris'te isyan sürüyor .</sentence>
+<sentence num="1">Valilikten yapılan açıklamaya göre ,protestocu gençler ,çarşambayı perşembeye bağlayan gece ,dokuz ayrı mahallede yaklaşık 40 otomobili ateşe verdi .</sentence>
+<sentence num="2">Olaylar ,özellikle Paris'in asayiş açısından en sorunlu bölgesi olarak bilinen Seine Saint Dennis'ye bağlı banliyölerde yoğunlaşıyor .</sentence>
+<sentence num="3">Aulnay sous Bois adlı banliyöde ,bir Renault bayisi molotofkokteyli saldırısına uğradı .</sentence>
+<sentence num="4">Blanc Mesnil'de ise bir spor salonuna kundaklama girişiminde bulunulurken ,aynı mahallede bir belediye otobüsüne molotofkokteyli atıldı .</sentence>
+<sentence num="5">Bobigny banliyösünde ise bir mağazanın vitrinlerinin kırıldığı ve iki tezgahtarın saldırıya uğradığı belirtilirken ,Sevran banliyösünde bir banka şubesinin yakılmak istendiği bildirildi .</sentence>
+<sentence num="6">Bu arada Clichy sous Bois banliyösünde gözaltına alınan genlerden ikisi ,''polise saldırı suçundan ''üç ay hapis cezasına çarptırıldı .</sentence>
+<sentence num="7">Paris mahkemesi ,önceki gün üç gence iki ay hapis cezası vermişti .</sentence>
+<sentence num="8">Başbakan Dominique de Villepin'in ,sorunlu bölgelerdeki belediye başkanları ,cemaat liderleri ve dernek temsilcileriyle bugün bir toplantı yapması bekleniyor .</sentence>
+<sentence num="9">Dominique de Villepin ,olayların giderek kontrolden çıkması üzerine bugün Kanada'ya yapmayı planladığı ziyareti ertelemişti .</sentence>
+<sentence num="10">Banliyölerde şiddet olaylarının başlamasından bu yana ,250'nin üzerinde otomobilin ateşe verildiği tahmin ediliyor .</sentence>
+<sentence num="11">aa .</sentence>
+</doc>
+<doc>
+<id>176667</id>
+<sentence num="0">2005 11 03 11 :51 :00 .Paris'te protestolar hız kesmiyor .</sentence>
+<sentence num="1">Paris'te gençlerin protestosu devam ediyor Fransa'da iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak ölmesini protesto eden gençler dokuz mahallede 40 otomobili ateşe verdi .</sentence>
+<sentence num="2">Fransa'nın başkenti Paris yakınlarındaki Clichy Sous Bois banliyösünde geçtiğimiz perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkarttığı olaylar devam ediyor .</sentence>
+<sentence num="3">Valilikten yapılan açıklamaya göre ,protestocu gençler çarşambayı perşembeye bağlayan gece dokuz ayrı mahallede yaklaşık 40 otomobili ateşe verdi .</sentence>
+<sentence num="4">Olaylar ,özellikle Paris'in asayiş açısından en sorunlu bölgesi olarak bilinen Seine Saint Dennis'ye bağlı banliyölerde yoğunlaşıyor .</sentence>
+<sentence num="5">Aulnay sous Bois adlı banliyöde bir Renault bayisi molotof kokteyli saldırısına uğradı .</sentence>
+<sentence num="6">Blanc Mesnil'de ise ,bir spor salonuna kundaklama girişiminde bulunulurken ,aynı mahallede bir belediye otobüsüne molotof kokteyli atıldı .</sentence>
+<sentence num="7">Bobigny banliyösünde de bir mağazanın vitrinlerinin kırıldığı ve iki tezgahtarın saldırıya uğradığı belirtilirken ,Sevran banliyösünde bir banka şubesinin yakılmak istendiği açıklandı .</sentence>
+<sentence num="8">Clichy sous Bois banliyösünde gözaltına alınan genlerden ikisi 'polise saldırı suçundan 'üç ay hapis cezasına çarptırıldı .</sentence>
+<sentence num="9">Paris mahkemesi ,önceki gün üç gence iki ay hapis cezası vermişti .</sentence>
+<sentence num="10">Sarkozy'e 'konuşmanı yumuşat 'çağrısı Fransız Polis Sendikası Genel Sekreteri Francis Masanet ,Paris'in banliyölerinde devam eden olaylarla ilgili olarak ,İçişleri Bakanı Nicolas Sarkozy'ye konuşma biçimini yumuşatma çağrısında bulundu .</sentence>
+<sentence num="11">Basının sorularını yanıtlayan Masanet ,''olay yerine gelip ,gençleri tahrik edip ,daha sonra gidip uyumak çok kolay .</sentence>
+<sentence num="12">Biz gün içinde 24 saat olaylarla başa çıkmak durumundayız ''dedi .</sentence>
+<sentence num="13">Cumhurbaşkanı Jacques Chirac'ın dün bakanlar kurulunda yaptığı konuşmaya da atıfta bulunan Masanet ,Chirac'ın açıklamasının içinde ,Sarkozy'ye de 'konuşmana dikkat et 'mesajı bulunduğunu söyledi .</sentence>
+<sentence num="14">Başbakan ziyaretini erteledi Başbakan Dominique de Villepin'in ,sorunlu bölgelerdeki belediye başkanları ,cemaat liderleri ve dernek temsilcileriyle bugün bir toplantı yapacak .</sentence>
+<sentence num="15">Dominique de Villepin ,olayların giderek kontrolden çıkması üzerine bugün Kanada'ya yapmayı planladığı ziyareti ertelemişti .</sentence>
+<sentence num="16">Banliyölerde şiddet olaylarının başlamasından bu yana ,250'nin üzerinde otomobilin ateşe verildiği tahmin ediliyor .</sentence>
+</doc>
+<doc>
+<id>176720</id>
+<sentence num="0">2005 11 03 13 :55 :00 .Fransız aşırı sağcılar Paris'teki olayları etnik sivil savaşa benzetti .</sentence>
+<sentence num="1">Fransız aşırı sağcılar Paris'teki olayları etnik sivil savaşa benzetti Fransız aşırı sağcı parti lideri Philippe de Villers ,Paris banliyölerinde son bir hafta içinde meydana gelen şiddet olaylarını ''etnik sivil savaşa ''benzetti .</sentence>
+<sentence num="2">Türkiye'nin AB üyeliğine karşı tutumuyla tanınan Fransa İçin Hareket Partisi (MPF )lideri ,RTL radyo kanalına yaptığı açıklamada ,''kontrol edilemeyen göç politikalarındaki yanlışlıkların ,olayların gerçek nedeni olduğunu ''iddia etti .</sentence>
+</doc>
+<doc>
+<id>176741</id>
+<sentence num="0">2005 11 03 14 :50 :00 .Paris'te polis ve itfaiyeye ateş açıldı .</sentence>
+<sentence num="1">Paris'te polis ve itfaiyeye ateş açıldı Fransa'nın başkenti Paris'in Seine Saint Dennis banliyösünde ,protestocu gençlerin ,dün gece çıkan olaylarda polis ve itfaiye erlerine gerçek mermilerle ateş açtığı bildirildi .</sentence>
+<sentence num="2">Şiddet olaylarının giderek yoğunluk kazandığı Seine Saint Denis kasabası kaymakamı ,Jean Francois Cordet ,basına yaptığı açıklamada ,dün geceki olaylar sırasında göstericilerin ,dört el ateş ettiklerini söyledi .</sentence>
+<sentence num="3">Cordet ,saldırılarda ölen ya da yaralanan bulunmadığını bildirdi .''</sentence>
+<sentence num="4">Atılan kurşunlardan ikisinin polisi ,birininse itfaiyeyi hedef aldığını ''kaydeden Cordet ,''diğer bir kurşununsa belirli bir hedefi olmadığını ''belirtti .</sentence>
+</doc>
+<doc>
+<id>176742</id>
+<sentence num="0">2005 11 03 14 :51 :00 .Paris'teki protestoya silah karıştı .</sentence>
+<sentence num="1">Şiddet olaylarının giderek yoğunluk kazandığı Seine Saint Denis kasabası kaymakamı ,Jean Francois Cordet ,basına yaptığı açıklamada ,dün geceki olaylar sırasında göstericilerin ,dört el ateş ettiklerini söyledi .</sentence>
+<sentence num="2">Cordet ,saldırılarda ölen ya da yaralanan bulunmadığını bildirdi .''</sentence>
+<sentence num="3">Atılan kurşunlardan ikisinin polisi ,birininse itfaiyeyi hedef aldığını ''kaydeden Cordet ,''diğer bir kurşununsa belirli bir hedefi olmadığını ''belirtti .</sentence>
+<sentence num="4">Bu arada ,dün geceki olaylarda yakılan toplam araç sayısının 177'ye ulaştığını belirten kaymakam ,göstericiler ve güvenlik güçleri arasındaki arbede sonucuysa 4 polis ve 2 itfaiye eriyle 4 sivilin yaralandığını bildirdi .</sentence>
+<sentence num="5">Dün geceki olaylarda 23 kişinin gözaltına alındığını belirten Seint Saint Denis kaymakamı ,son bir hafta içinde gözaltına alınanların sayısının 98'i bulduğunu ,bunlardan 16'sınınsa tutuklanarak cezaevine gönderildiğini belirtti .</sentence>
+<sentence num="6">Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+<sentence num="7">aa .</sentence>
+</doc>
+<doc>
+<id>176770</id>
+<sentence num="0">2005 11 03 15 :41 :00 .Fransa'da Şiddet Olayları Sürüyor .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'te geçen hafta Afrika kökenli iki gencin polisten kaçarken elektrik akımına kapılarak ölmesinin ardından patlak veren şiddet olayları sürüyor .</sentence>
+<sentence num="2">Bir grup gösterici 50 dolayında aracı ateşe verdi .</sentence>
+<sentence num="3">Paris'te Kuzey Afrikalı göçmenlerin yoğun olarak yaşadığı banliyölerde dün (03 .</sentence>
+<sentence num="4">11 .2005 )gece de polisle göstericiler arasında çatışma çıktı .</sentence>
+<sentence num="5">Bin 300 dolayında polisin görev yaptığı bölgede göstericiler ,bir depo ile 50 dolayında aracı ateşe verdi .</sentence>
+<sentence num="6">Fransız basını ,Paris'in kuzeyinde bir okul ile otobüse de saldırı düzenlendiğini duyurdu .</sentence>
+<sentence num="7">Başbakan Dominique de Villepin ve İçişleri Bakanı Nicolas Sarkozy ,şiddet olaylarının önüne geçilerek bölgede düzenin sağlanmasının tek öncelikleri olduğu mesajını verirken ,hükümet olaylara yaklaşımı nedeniyle eleştiriliyor .</sentence>
+</doc>
+<doc>
+<id>176776</id>
+<sentence num="0">2005 11 03 16 :05 :00 .Fransa ...</sentence>
+<sentence num="1">Polis sendikasının Sarkozy isyanı ...</sentence>
+<sentence num="2">Fransız Polis Sendikası (UNSA )Genel Sekreteri Francis Masanet ,Paris'in banliyölerinde devam eden olaylarla ilgili olarak ,İçişleri Bakanı Nicolas Sarkozy'ye konuşma biçimini yumuşatma çağrısında bulundu .</sentence>
+<sentence num="3">Basının sorularını yanıtlayan Masanet ,''Olay yerine gelip ,gençleri tahrik edip ,daha sonra gidip uyumak çok kolay .</sentence>
+<sentence num="4">Biz gün içinde 24 saat olaylarla başa çıkmak durumundayız ''dedi .</sentence>
+<sentence num="5">Cumhurbaşkanı Jacques Chirac'ın dün bakanlar kurulunda yaptığı konuşmaya da atıfta bulunan Masanet ,Chirac'ın açıklamasının içinde ,Sarkozy'ye de ''Konuşmana dikkat et ''mesajı bulunduğunu söyledi .</sentence>
+<sentence num="6">Chirac ,dün yaptığı açıklamada sükunet çağrısında bulunarak ,kamu düzeninin ,diyalog ve saygı ilkesiyle sağlanabileceğini bildirmişti .</sentence>
+<sentence num="7">Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkarttığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>176778</id>
+<sentence num="0">2005 11 03 16 :05 :00 .Fransız Polis Sendikası :İçişleri Bakanı Sarkozy ,konuşma biçimini yumuşatsın .</sentence>
+<sentence num="1">Fransız Polis Sendikası :İçişleri Bakanı Sarkozy ,konuşma biçimini yumuşatsın Fransız Polis Sendikası (UNSA )Genel Sekreteri Francis Masanet ,Paris'in banliyölerinde devam eden olaylarla ilgili olarak ,İçişleri Bakanı Nicolas Sarkozy'ye konuşma biçimini yumuşatma çağrısında bulundu .</sentence>
+<sentence num="2">Basının sorularını yanıtlayan Masanet ,''Olay yerine gelip ,gençleri tahrik edip ,daha sonra gidip uyumak çok kolay .</sentence>
+<sentence num="3">Biz gün içinde 24 saat olaylarla başa çıkmak durumundayız ''dedi .</sentence>
+<sentence num="4">Cumhurbaşkanı Jacques Chirac'ın dün bakanlar kurulunda yaptığı konuşmaya da atıfta bulunan Masanet ,Chirac'ın açıklamasının içinde ,Sarkozy'ye de ''Konuşmana dikkat et ''mesajı bulunduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>176783</id>
+<sentence num="0">2005 11 03 16 :34 :00 .Paris ,bir haftadır teröre teslim .</sentence>
+<sentence num="1">Başkent Paris'in bazı kenar mahallelerindeki şiddet olaylarının bir haftadır sürmesi ,Fransa'da hükümet üzerindeki siyasi baskıyı artırdı .</sentence>
+<sentence num="2">Olayların yedinci gününde de dokuz bölgede sokaklarda çatışmalar görüldü .</sentence>
+<sentence num="3">Göçmenlerin çoğunlukta olduğu Paris'in kuzeydoğusu semtlerini kapsayan Seine Saint Denis'te yüzlerce genç 200 kadar aracı yaktı .</sentence>
+<sentence num="4">Seine Saint Denis bölgesinin belediye başkanı ,dün gece polise en az dört kurşun atıldığını söyledi .</sentence>
+<sentence num="5">Ayrıca iki ilkokul ile bir postahane ve alışveriş merkezine saldırı düzenlendi .</sentence>
+<sentence num="6">Diğer bölgelerde de ,bazı evler ile polise taş ve molotof kokteylleri atıldı .</sentence>
+<sentence num="7">SARKOZY HEDEFTEKİ İSİM OLDU İçişleri Bakanı Nicholas Sarkozy sabahın erken saatlerinde alışılanın aksine yanında gazeteciler olmaksızın bölgedeki bir karakolu ziyaret etti .</sentence>
+<sentence num="8">Sarkozy ,'pislikleri sokaklardan temizleyeceğini 'söyleyerek ortamı daha da gerginleştirmekle suçlanıyor .</sentence>
+<sentence num="9">Son saldırılar ise Fransa Başbakanı Dominique de Villepin'in şiddet olaylarını görüşmek üzere kilit bakanlarıyla olağanüstü bir toplantı düzenlemesini izliyor .</sentence>
+<sentence num="10">CUMHURBAŞKANI CHİRAC'TAN İTİDAL ÇAĞRISI Halen gerek Dominique de Villepin ,gerekse de Nicholas Sarkozy dış gezilerini iptal etmiş durumda .</sentence>
+<sentence num="11">Cumhurbaşkanı Jacques Chirac da soğukkanlı olunması yönünde çağrıda bulunuyor .</sentence>
+<sentence num="12">Paris'teki olaylar geçen hafta polisten kaçmaya çalıştığı söylenen Afrika kökenli iki gencin elektriğe kapılarak ölümü ardından başlamıştı .</sentence>
+<sentence num="13">Gençlerin beraberindeki üçüncü bir arkadaşları halen hastanede tedavi görüyor .</sentence>
+<sentence num="14">Yetkililer olaylarla ilgili olarak 30'dan fazla kişiyi gözaltına aldıklarını söylüyor .</sentence>
+<sentence num="15">Clichy Sous Bois semtinde oturanlar ,cumartesi günü üzerlerine Sebepsiz ölümler olmasın yazılı tişörtler giyerek gençlerle polis arasında çıkan olayları protesto etti .</sentence>
+<sentence num="16">Polis tarafından iki gencin ,öldürülmesinden sonra öfkeli gençler ,arabaları ve işyerlerini ateşe verdiler .</sentence>
+<sentence num="17">Clichy Sous Bois semtinin sakinleri ,cumartesi günkü barış gösterisi esnasında caddede toplandılar .</sentence>
+<sentence num="18">Genç kızlar konuşmalar sırasında gözyaşlarına boğuldu .</sentence>
+<sentence num="19">Çatışmaların altıncı gecesinde Paris'in Bondy mahallesinde bir halı mağazası ateşe verilip tahrip edildi .</sentence>
+<sentence num="20">Pazartesi gecesi ,Clichy sous Bois'te halk ,yangın etrafında kendi imkanlarıyla önlem almaya çalışıyorlar .</sentence>
+<sentence num="21">Aulnay sous Bois semtinde isyanın çıktığı sıralarda arabalar ateşe verildi .</sentence>
+<sentence num="22">Aulnay sous Bois'ta yaşanan isyan sırasında bir caddede polis ,geçen insanlara silah doğrulttu .</sentence>
+<sentence num="23">Salı günkü dehşet gecesinde Sevran semtinde tahrip edilen araçlardan biri olan bir kamyon .</sentence>
+<sentence num="24">6 gecedir terör Paris semtlerinde kol geziyor .</sentence>
+<sentence num="25">Fransız polisi ,çarşamba günü Aulnay sous Bois semtinde erken saatlerde yanan kalıntılar arasında devriye geziyor .</sentence>
+<sentence num="26">Clichy Sous Bois sakinleri ,cumartesi günü yanmış arabalar arasında yürüyüş yaptı .</sentence>
+<sentence num="27">Haber7 BBC .</sentence>
+</doc>
+<doc>
+<id>176981</id>
+<sentence num="0">2005 11 04 12 :00 :00 .Paris Büyükelçisi'nden Fransa'da yaşayan Türklere itidal çağrısı .</sentence>
+<sentence num="1">Saadet ORUÇ PARİS ,(DHA )TÜRKİYE'nin Paris Büyükelçisi Uluç Özülker ,Paris banliyölerinde son bir haftada yaşanan şiddet olaylarına ilişkin DHA'ya değerlendirmelerde bulundu .</sentence>
+<sentence num="2">Özülker ,yaşanan olayların aniden çıktığına dikkat çekerek ,Fransa'da yaşayan Türklere itidal çağrısı yaptı .</sentence>
+<sentence num="3">Yaralanan Türk genci Muhittin Altun'un suçsuzluğunun Fransız makamları tarafından kendilerine iletildiğini kaydeden Özülker ,Paris Başkonsolosluğu'nun da Muhittin Altun'un ailesiyle temasa geçtiğini ve yerel makamlarla da iletişimde olduğunu belirtti .</sentence>
+<sentence num="4">Özülker ,büyükelçilik ve Fransa'daki başkonsoloslukların Türk vatandaşlarının emrinde olduğuna dikkat çekerken ,yaşanan problemler ya da haksızlıklarda kendileriyle temasa geçilmesini istedi .</sentence>
+<sentence num="5">Büyükelçi ayrıca ,Türk dernekleriyle de temasa geçildiğini ve Türklere şiddetten ,olaylardan uzak durun mesajı verdiklerini ifade etti .'</sentence>
+<sentence num="6">TÜRK VATANDAŞLARININ HAKLARINI SAVUNACAĞIZ 'Özülker ,olaylara ilişkin şu değerlendirmeyi yaptı :Olaylar çok üzücü .</sentence>
+<sentence num="7">Yaralı Türk gencinin suçu yok ,dolayısıyla iki meseleyi ayırmak gerek .</sentence>
+<sentence num="8">Adalet ,hukuk dışı sağlanması mümkün olmayan bir şey .</sentence>
+<sentence num="9">Tüm vatandaşlara uzak durun uyarısı yapıyorum .</sentence>
+<sentence num="10">Fransız Başbakanlığı 'ile temaslarım oldu .</sentence>
+<sentence num="11">Başkonsolosluk temasta .</sentence>
+<sentence num="12">Her halukarda vatandaşlarımızın haklarını savunacağız .</sentence>
+<sentence num="13">Vatandaşların herhangi bir sıkıntıları ya da bir şekilde uğradıkları bir haksızlık varsa bize intikal ettirsinler .</sentence>
+<sentence num="14">Yerel makamlarla konuşsunlar ,yerel makamlar vasıtasıyla her soruna çözüm arayacağız .</sentence>
+<sentence num="15">Şiddet ,ki kendi ülkemizde de acı bir şekilde yaşadık ,hiçbir şey çözmüyor .</sentence>
+<sentence num="16">Herhangi bir haksızlık mevcut ise adalet mekanizmasıyla onların emrindeyiz .'</sentence>
+<sentence num="17">TÜRKLER FRANSIZ TOPLUMU İLE UYUM HALİNDE 'Özülker ,gözatında Türk olmadığını açıklarken ,Türklerin olaylara katılma potansiyeli olmaması gerektiğini söyledi .</sentence>
+<sentence num="18">Uluç Özülker ,şöyle devam etti :Birincisi İçişleri Bakanlığı ile temastayım ve biliyorum ki İçişleri Bakanlığı ,gerek Nicolas Sarkozy gerekse eski bakan şimdiki başbakan Dominique de Villepin döneminde Türklerden memnundu .</sentence>
+<sentence num="19">Türkler gerek laik ,modern ve medeni yapıları ile ve toplumsal uyumla Fransız toplumu ile uyum halinde .</sentence>
+<sentence num="20">Onun dışında özellikle Fransız Müslümanları içinde varolan suça mütemayil olma vasfının Türkler arasında olmadığını biliyorum .</sentence>
+<sentence num="21">Fransız İçişleri de bunu teyit etmektedir .</sentence>
+<sentence num="22">Halihazırda idrak etmekte olduğumuz bayram günlerinde herhalde şiddetten başka herşeyle uğraşmak için sebeplerimiz var .</sentence>
+<sentence num="23">Arada bazı kaçamakların olmaması da mümkün değil .</sentence>
+<sentence num="24">Varsa ,ki olabilir ,olduğu takdirde bunun Türk toplumuna maledilmesi için neden yoktur .</sentence>
+<sentence num="25">Türk toplumu barış içinde olayların dışındadır ..</sentence>
+</doc>
+<doc>
+<id>176991</id>
+<sentence num="0">2005 11 04 12 :15 :00 .Paris'te dün gece 519 otomobil ve 27 otobüs yakıldı ...</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'te protestocu gençlerle güvenlik güçleri arasında dün gece de süren çatışmalar sırasında ,519 otomobil ile 27 otobüs ateşe verildi .</sentence>
+<sentence num="2">Polis yetkilileri ,Paris'in göçmenlerin yoğunlukta olduğu yoksul banliyö semtlerinde güvenlik güçleriyle protestocular arasında devam eden çatışmaların 8 .gecesinde ,sabaha karşı durumun sakinleşme eğiliminde olduğunu belirttiler .</sentence>
+<sentence num="3">Paris polisi tarafından yapılan yeni açıklamada ,dün geceki olaylarla ilgili 78 kişinin sorgulandığı belirtildi .</sentence>
+<sentence num="4">Bu arada ,dün gece Sevran banliyösünde bir otobüse yapılan saldırı sırasında ,56 yaşındaki özürlü bir kadının ağır bir biçimde yandığı kaydedildi ..</sentence>
+<sentence num="5">Protestocuların batıdaki Trappes semtinde bir otobüs deposunu ateşe vererek 27 otobüsün yanmasına neden olduğunu belirten polis kaynakları ,banliyö semtlerinin yanı sıra merkeze yakın semtlerde de çıkan çatışmalar sırasında 519 otomobilin ateşe verildiğini kaydettiler .</sentence>
+<sentence num="6">Seine Saint Denis bölgesinde üç antrepo ile bazı kamu kuruluşlarında da atılan motolofkokteylleriyle yangın çıktığı belirtilirken ,dün geceki çatışmalarda 5 polisin yaralandığı açıklandı .</sentence>
+<sentence num="7">Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+<sentence num="8">TÜRKLERE İTİDAL ÇAĞRISI TÜRKİYE'nin Paris Büyükelçisi Uluç Özülker ,Paris banliyölerinde son bir haftada yaşanan şiddet olaylarına ilişkin DHA'ya değerlendirmelerde bulundu .</sentence>
+<sentence num="9">Özülker ,yaşanan olayların aniden çıktığına dikkat çekerek ,Fransa'da yaşayan Türklere itidal çağrısı yaptı .</sentence>
+<sentence num="10">Yaralanan Türk genci Muhittin Altun'un suçsuzluğunun Fransız makamları tarafından kendilerine iletildiğini kaydeden Özülker ,Paris Başkonsolosluğu'nun da Muhittin Altun'un ailesiyle temasa geçtiğini ve yerel makamlarla da iletişimde olduğunu belirtti .</sentence>
+<sentence num="11">Özülker ,büyükelçilik ve Fransa'daki başkonsoloslukların Türk vatandaşlarının emrinde olduğuna dikkat çekerken ,yaşanan problemler ya da haksızlıklarda kendileriyle temasa geçilmesini istedi .</sentence>
+<sentence num="12">Büyükelçi ayrıca ,Türk dernekleriyle de temasa geçildiğini ve Türklere şiddetten ,olaylardan uzak durun mesajı verdiklerini ifade etti .'</sentence>
+<sentence num="13">TÜRK VATANDAŞLARININ HAKLARINI SAVUNACAĞIZ 'Özülker ,olaylara ilişkin şu değerlendirmeyi yaptı :Olaylar çok üzücü .</sentence>
+<sentence num="14">Yaralı Türk gencinin suçu yok ,dolayısıyla iki meseleyi ayırmak gerek .</sentence>
+<sentence num="15">Adalet ,hukuk dışı sağlanması mümkün olmayan bir şey .</sentence>
+<sentence num="16">Tüm vatandaşlara uzak durun uyarısı yapıyorum .</sentence>
+<sentence num="17">Fransız Başbakanlığı 'ile temaslarım oldu .</sentence>
+<sentence num="18">Başkonsolosluk temasta .</sentence>
+<sentence num="19">Her halukarda vatandaşlarımızın haklarını savunacağız .</sentence>
+<sentence num="20">Vatandaşların herhangi bir sıkıntıları ya da bir şekilde uğradıkları bir haksızlık varsa bize intikal ettirsinler .</sentence>
+<sentence num="21">Yerel makamlarla konuşsunlar ,yerel makamlar vasıtasıyla her soruna çözüm arayacağız .</sentence>
+<sentence num="22">Şiddet ,ki kendi ülkemizde de acı bir şekilde yaşadık ,hiçbir şey çözmüyor .</sentence>
+<sentence num="23">Herhangi bir haksızlık mevcut ise adalet mekanizmasıyla onların emrindeyiz .'</sentence>
+<sentence num="24">TÜRKLER FRANSIZ TOPLUMU İLE UYUM HALİNDE 'Özülker ,gözatında Türk olmadığını açıklarken ,Türklerin olaylara katılma potansiyeli olmaması gerektiğini söyledi .</sentence>
+<sentence num="25">Uluç Özülker ,şöyle devam etti :Birincisi İçişleri Bakanlığı ile temastayım ve biliyorum ki İçişleri Bakanlığı ,gerek Nicolas Sarkozy gerekse eski bakan şimdiki başbakan Dominique de Villepin döneminde Türklerden memnundu .</sentence>
+<sentence num="26">Türkler gerek laik ,modern ve medeni yapıları ile ve toplumsal uyumla Fransız toplumu ile uyum halinde .</sentence>
+<sentence num="27">Onun dışında özellikle Fransız Müslümanları içinde varolan suça mütemayil olma vasfının Türkler arasında olmadığını biliyorum .</sentence>
+<sentence num="28">Fransız İçişleri de bunu teyit etmektedir .</sentence>
+<sentence num="29">Halihazırda idrak etmekte olduğumuz bayram günlerinde herhalde şiddetten başka herşeyle uğraşmak için sebeplerimiz var .</sentence>
+<sentence num="30">Arada bazı kaçamakların olmaması da mümkün değil .</sentence>
+<sentence num="31">Varsa ,ki olabilir ,olduğu takdirde bunun Türk toplumuna maledilmesi için neden yoktur .</sentence>
+<sentence num="32">Türk toplumu barış içinde olayların dışındadır ..</sentence>
+</doc>
+<doc>
+<id>177004</id>
+<sentence num="0">2005 11 04 12 :32 :00 .Paris dün gece alevler içindeydi .</sentence>
+<sentence num="1">Polis yetkilileri ,Paris'in göçmenlerin yoğunlukta olduğu yoksul banliyö semtlerinde güvenlik güçleriyle protestocular arasında devam eden çatışmaların 8 .gecesinde ,sabaha karşı durumun sakinleşme eğiliminde olduğunu belirttiler .</sentence>
+<sentence num="2">Protestocuların batıdaki Trappes semtinde bir otobüs deposunu ateşe vererek 27 otobüsün yanmasına neden olduğunu belirten polis kaynakları ,banliyö semtlerinin yanı sıra merkeze yakın semtlerde de çıkan çatışmalar sırasında yaklaşık 400 otomobilin ateşe verildiğini kaydettiler .</sentence>
+<sentence num="3">Seine Saint Denis bölgesinde üç antrepo ile bazı kamu kuruluşlarında da atılan motolofkokteylleriyle yangın çıktığı belirtilirken ,dün geceki çatışmalarda 5 polisin yaralandığı açıklandı .</sentence>
+<sentence num="4">Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177083</id>
+<sentence num="0">2005 11 04 15 :10 :00 .Paris'teki olaylarda 500'den otomobil yakıldı .</sentence>
+<sentence num="1">Paris'teki olaylarda 500'den otomobil yakıldı Fransa'nın başkenti Paris'te protestocu gençlerle güvenlik güçleri arasında dün gece de süren çatışmalar sırasında ,toplam 519 otomobilin ateşe verildiği bildirildi .</sentence>
+<sentence num="2">Paris polisi tarafından yapılan yeni açıklamada ,dün geceki olaylarla ilgili 78 kişinin sorgulandığı belirtildi .</sentence>
+<sentence num="3">Bu arada ,dün gece Sevran banliyösünde bir otobüse yapılan saldırı sırasında ,56 yaşındaki özürlü bir kadının ağır bir biçimde yandığı kaydedildi ..</sentence>
+<sentence num="4">Paris banliyölerinde ,bir önceki gece çıkan olaylarda 315 otomobil ateşe verilmişti .</sentence>
+<sentence num="5">Paris yakınlarındaki Clichy Sous Bois banliyösünde perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177127</id>
+<sentence num="0">2005 11 04 17 :38 :00 .Paris'in varoşları ayaklandı Protestocular ,dün gece ilk defa polise ateş açtı .</sentence>
+<sentence num="1">Protestocular ,500'den fazla aracı ateşe verdi Fransa'nın başkenti Paris'te iki göçmenin polisten kaçarken ölmesi ile başlayan olaylar büyüyerek devam ediyor .</sentence>
+<sentence num="2">Olaylar Paris'in dışına taştı .</sentence>
+<sentence num="3">Paris'teki olaylar sekizinci gününe girerken şu ana kadar protestocular 500'ün üzerinde aracı ateşe verdi .</sentence>
+<sentence num="4">Paris polisi ,olaylarla ilgili 80 kişiyi gözaltına aldı .</sentence>
+<sentence num="5">Paris'te protestocu gençlerle güvenlik güçleri arasında dün gece de süren çatışmalar sırasında ,beş güvenlik görevlisi hafif şekilde yaralandı .</sentence>
+<sentence num="6">Dün gece Paris'in Sevran banliyösünde bir otobüse yapılan saldırı sırasında ,56 yaşındaki özürlü bir kadın da ağır biçimde bir kaç yerinden yandı .</sentence>
+<sentence num="7">Paris polisi tarafından yapılan yeni açıklamada ,dün geceki olaylarla ilgili 78 kişinin sorgulandığı belirtildi .</sentence>
+<sentence num="8">Olayların sekizinci gününde protestocular ilk defa polis ve itfaiye görevlilerine ateş açtı .</sentence>
+<sentence num="9">Paris'in banliyölerinde geçtiğimiz hafta başlayan olaylar Fransa'nın diğer kentlerine de sıçradı .</sentence>
+<sentence num="10">Fransa'nın güneyinde ve batısında bazı bölgelerde bir kaç araç ateşe verildi .</sentence>
+<sentence num="11">Paris polisi ,sadece dün gece 519 aracın yakıldığını açıkladı .</sentence>
+<sentence num="12">Olayların büyük bir kısmı ,çoğunlukla göçmenlerin yaşadığı Seine Saint Denis banliyösünde yaşanıyor .</sentence>
+<sentence num="13">Bin 300 polis bu bölgede yaşanan olayları kontrol altına alabilmek için görevlendirildi .</sentence>
+<sentence num="14">Bir kaç günün bilaçosu Ellerinde sopalarla ve taş parcalarıyla dolaşan ve çoğunluğu gençlerden oluşan protestocuların bir kaç gecede çıkardıkları başlıca olaylar şöyle :Molotov kokteyili atılması sonucu 56 yaşında özürlü bir kadın vucudunun çeşitli yerlerinden yaranarak ağır yaralandı .</sentence>
+<sentence num="15">Paris'in değişik bölgelerinde polisle protestocular arasında yaşanan çatışmalarda beş polis hafif yaralandı .</sentence>
+<sentence num="16">Olayların çıkış merkezi Seine Saint Denis banliyösünde bir Sinagog yakınlarında polis görevlileri saldıya uğradı .</sentence>
+<sentence num="17">Yine aynı bölgede bir ilkokul ateşe verildi .</sentence>
+<sentence num="18">Okulun bir kısmı yandı .</sentence>
+<sentence num="19">Polis raporlarına göre en çok olay dün gece meydana geldi .</sentence>
+<sentence num="20">Dün gece ,protestocular toplam 519 aracı ateşe verdi .</sentence>
+<sentence num="21">Polis olaylara karışan 78 kişiyi gözaltına aldı .</sentence>
+<sentence num="22">Fransa'yı saran olaylar ,polisten kaçmaya çalışırken elektrik trafosuna çarpan iki Afrika kökenli gencin ölmesi ve bir Türkün de yaralanması ile başlamıştı .</sentence>
+<sentence num="23">Sarkozy kan kaybediyor Başkent Paris'te geçtiğimiz hafta başlayan ve büyüyerek devam eden olaylar nedeniyle Fransa İçişleri Bakanı Nicolas Sarkozy ,eleştirilerin odağı oldu .</sentence>
+<sentence num="24">Sarkozy ,olayların ilk gününde yaptığı açıklamada ,bir avuç sokak serserisinin bu yaptıklarına müsamaha edilmeyeceğini açıklamıştı .</sentence>
+<sentence num="25">Sarkozy'nin bu türden açıklamaları kamuoyunda tepkiyle karşılanıyor .</sentence>
+<sentence num="26">Uzmanlar ,Sarkozy'nin 2007'de yapılacak cumhurbaşkanlığı seçimleri için büyük kan kaybına uğradığını belirtiyor .</sentence>
+<sentence num="27">Fransız Polis Sendikası Genel Sekreteri Francis Masanet de dün yaptığı açıklamada Sarkozy'nin tavrını eleştirdi .</sentence>
+<sentence num="28">Masanet ,Nicolas Sarkozy'ye konuşma biçimini yumuşatma çağrısında bulundu .</sentence>
+<sentence num="29">Masanet ,''olay yerine gelip ,gençleri tahrik edip ,daha sonra gidip uyumak çok kolay .</sentence>
+<sentence num="30">Biz gün içinde 24 saat olaylarla başa çıkmak durumundayız ''dedi .</sentence>
+<sentence num="31">Fransa Cumhurbaşkanı Jacques Chirac ,olaylarla ilgili yaptığı açıklamada 'itidal 'çağrısı yapmıştı .</sentence>
+<sentence num="32">Olayların büyümesi üzerine Kanada'ya yapacağı ziyareti erteleyen Başbakan Dominique de Villepin ise ,ilgili bakanlarla yaptığı toplantıda olayları görüştü .</sentence>
+<sentence num="33">Fransızlar ,şiddet olaylarını kontrol altına alamayan hükümete tepki gösteriyor .</sentence>
+</doc>
+<doc>
+<id>177144</id>
+<sentence num="0">2005 11 04 18 :46 :00 .İsyancılar 500 otobüsü yaktılar .</sentence>
+<sentence num="1">İsyan Paris dışına sıçradı Paris'te son sekiz gündür görülen isyan ,dün ilk kez başkentin dışına da sıçradı .</sentence>
+<sentence num="2">Bir haftadır olduğu gibi ,dün de sokaklar ellerinde taş ve sopalarla devriye gezen göçmen gençlerin kontrolündeydi .</sentence>
+<sentence num="3">Polis yetkilileri çoğu Paris çevresinde ,500'den fazla otomobil ,çok sayıda işyeri ve bir deponun ateşe verildiğini açıkladı .</sentence>
+<sentence num="4">Depodaki yangının söndürülmesi için 100 itfaiyeci saatlerce uğraştı .</sentence>
+<sentence num="5">Bir otobüs garajının da kundaklanması sonucu 27 otobüsün yandığı belirtildi .</sentence>
+<sentence num="6">Paris'teki olayların doğuda Dijon ,kuzeyde Rouen ve güneyde Marseille yakınlarında Bouches du Rhone bölgelerine de sıçradığı ifade edildi .</sentence>
+<sentence num="7">OLAYLAR NASIL ÇIKMIŞTI Olaylar ,polis tarafından kovalandıkları öne sürülen iki gencin saklandıkları trafoda elektrik çarpmasından ölmesi üzerine patlak vermişti .</sentence>
+<sentence num="8">Fransız yetkililer ,olayla ilgili olarak hazırlanan bir ara raporda bu iki gencin öldüğü sırada olay yerinde hiçbir polisin bulunmadığının savunulduğunu belirtiyor .</sentence>
+<sentence num="9">Hükümet şiddet olayları karşısında etkisiz kalmakla suçlanırken ,parlamentoya hitap eden Başbakan Dominique de Villepin düzeni sağlama sözü verdi .</sentence>
+<sentence num="10">Sarkozy'den yumuşama Fransa İçişleri Bakanı Nicolas Sarkozy ,sekiz gecedir devam eden isyanın altında yatan nedenlerin 30 yıldır gözardı edildiğini ve sorunun çözülmesinin zaman alacağını söyledi .</sentence>
+<sentence num="11">Sarkozy ,gençler ile polis arasındaki doğrudan çatışmaların azalmasının ,isyanın sona yaklaştığı anlamına gelmediğini belirtti .</sentence>
+<sentence num="12">SARKOZY ,GÖSTERİCİLERE PİSLİK DEMİŞTİ Nicolas Sarkozy bu hafta elektrik çarpması nedeniyle ölen iki gencin ailesiyle biraraya gelmiş ,Afrika kökenli bu gençlerin ölümüne yol açan olaylar dizisinin eksiksiz soruşturulacağını söylemişti .</sentence>
+<sentence num="13">İçişleri Bakanı daha önce ise ,olaylara katılanları 'pislik 'olarak nitelemiş ve bu ifade yüzünden gerilimi tırmandırdığı gerekçesiyle eleştirilmişti .</sentence>
+<sentence num="14">Bu arada ,sorunun odağındaki Arap ve Afrikalı toplumların liderleri ,isyanda rol oynayan ve sorun yaratan kişilerin izole edilmeleri için çalıştıklarını söyledi .(</sentence>
+<sentence num="15">bbc ).</sentence>
+</doc>
+<doc>
+<id>177213</id>
+<sentence num="0">2005 11 05 07 :22 :00 .Günlük gazete başlıkları .</sentence>
+<sentence num="1">Türkiye'nin önde gelen siyaset ,ekonomi ve spor gazetelerinin manşet haberlerine cnnturk .</sentence>
+<sentence num="2">com'dan ulaşın .</sentence>
+<sentence num="3">İran ve Irak da gizli anayasa Hürriyet ,Milli Güvenlik Siyaset Belgesi'nde Yunanistan dışındaki komşu ülkelere ilişkin değerlendirmelere de ulaştı .</sentence>
+<sentence num="4">Paris'te gece gerilla baskını Polisten kaçan iki Müslüman gencin trafoda elektrik çarpması sonucu ölmesiyle patlak veren eylemler yüzünden ,Paris'in varoşları alev alev yanıyor .</sentence>
+<sentence num="5">13 aylık bebek yuvada öldü Rahatsızlanınca hastaneye götürülen 13 aylık Olgun bebek ,zatürree teşhisine rağmen serum verilip kaldığı yuvaya geri gönderildi .</sentence>
+<sentence num="6">Talihsiz yavru ,yuvada öldü .</sentence>
+<sentence num="7">Ankara'dan Talat'a bayram protestosu Cumhurbaşkanı Mehmet Ali Talat'ın sadece eşiyle yaptığı bayramlaşma törenine ,Türk Büyükelçisi ile Barış Gücü Komutanı katılmadı .</sentence>
+<sentence num="8">Paris yanıyor Paris'in Afrikalı Müslüman göçmenlerin yaşadığı banliyölerinde bir haftadır süren şiddet hareketleri şehrin kuzeyini sardı .</sentence>
+<sentence num="9">Raporda azınlık rötuşu Avrupa Birliği Komisyonu ,İlerleme Raporu'nda Türkiye'yi rahatsız eden azınlık ifadelerini kısmen yumuşattı .</sentence>
+<sentence num="10">Olgun daha 13 aylıktı Olgun Akdeniz ,önceki gün hastaneye kaldırıldı .</sentence>
+<sentence num="11">Zatürree teşhisi konmasına karşın 'İyileşir 'denilerek yine yuvaya gönderildi .</sentence>
+<sentence num="12">Dün sabaha karşı da öldü .</sentence>
+<sentence num="13">Uzman görüşü :İyi bakım alan çocuk zatürreeden ölmez .</sentence>
+<sentence num="14">Öfke büyüyor Paris banliyölerinde polisten kaçan iki gencin elektrik çarpması sonucu ölmesiyle çıkan isyanlar ,diğer kentlere yayılıyor .</sentence>
+<sentence num="15">Önceki gün 400'den fazla araç yakılırken ,bir engelli de ağır yaralandı .</sentence>
+<sentence num="16">Yardımlarla yaşayan kent Güneydoğu'da yoksulluk ,işsizlik ve çatışmalardan kaçanların 'göçmen şehri 'Diyarbakır'da 246 bin kişi valiliğe başvurarak yardım talep etti .</sentence>
+<sentence num="17">Nüfusun yüzde 22'si açlık sınırında yaşıyor .</sentence>
+<sentence num="18">İbadethane tartışması Diyanet'ten Sorumlu Bakan Mehmet Aydın ,Aleviler'e ibadethaneleri için destek verilecek mi soru önergesine şu yanıtı verdi :Müslümanlık üst kimliktir .</sentence>
+<sentence num="19">Cami ve mescit haricindeki yerler Müslümanlar için ibadethane kabul edilemez .</sentence>
+<sentence num="20">Karadır şu bahtım kara Nimet Çubukçu ,Savaş Ay'a konuştu .</sentence>
+<sentence num="21">Başına gelenleri en sevdiği türküyle özetledi :Karadır şu bahtım kara ...</sentence>
+<sentence num="22">PKK Bağdat bürosu Irak'taki faaliyetlerini hızlandıran PKK ,Kerkük ve Musul'dan sonra başkent Bağdat'ta da büro açtı .</sentence>
+<sentence num="23">Dosya Towers Türk siyasi tarihinin en kapsamlı ve en uzun davalarından Dev Yol ,23 yıldır sonuçlandırılamadı .</sentence>
+<sentence num="24">Bu zaman zarfında çığ gibi büyüyen dava dosyaları ,evraklar ,yazışmalar ,yapılan itirazlar ,yeni dilekçeler derken dev davanın dosyaları da davanın adına benzer biçimde büyüdü ,devleşti ve 740 klasörlük bir arşiv yarattı .</sentence>
+<sentence num="25">AB :Güneydoğu'da terör PKK'nın eseri Avrupa Birliği Komisyonu'nun 9 Kasım'da yayınlanacak Türkiye ile ilgili İlerleme Raporu'nda Güneydoğu'daki olayların sorumlusu olarak PKK'nın gösterileceği yönündeki haberler ,Ankara tarafından memnuniyetle karşılandı .</sentence>
+<sentence num="26">Paris'in varoşları ayaklandı Fransa'nın başkenti Paris'in banliyölerinden Clichy Sous Bois'de geçtiğimiz hafta perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine patlak veren ve 9 banliyöye yayılan isyan şimdi de Paris dışına sıçradı .</sentence>
+<sentence num="27">Askersiz ilk bayramlaşma KKTC Cumhurbaşkanı Talat ,30 yıllık geleneği bozdu bayramlaşma töreninde Türk komutanı yanına almadı .</sentence>
+<sentence num="28">Paris yanıyor Kuzey Afrikalı göçmenlerin başlattığı isyan büyüyor .</sentence>
+<sentence num="29">Sadece önceki gece 519 aracı birden ateşe verdiler .</sentence>
+<sentence num="30">Yatırıma Türk damgası Şirketler başta Avrupa ve Rusya olmak üzere yurtdışında önemli pazarları ele geçirdi .'</sentence>
+<sentence num="31">Bağımsızlık hakkımız 'Beyaz Saray'da Bush tarafından devlet başkanı gibi karşılanan ve İngiltere'de Blair ile görüşen KDP lideri Barzani daha cesur açıklamalar yapmaya başladı .</sentence>
+<sentence num="32">Yuvada ölüm Malatya Çocuk Yuvası'ndaki işkence görüntülerinin izi silinmeden Türkiye bu kez de yuvada ölen bir çocuğun dramıyla sarsıldı .</sentence>
+<sentence num="33">Bu dava örnek olacak Türkiye'de yargı ,benzerlerine ancak Amerika'da rastlanan bir karara imza attı .</sentence>
+<sentence num="34">10 yıl önce tüpgaz patlaması sonucu eşini ve kızını kaybeden İmdat Mutlu'nun açtığı davada mahkeme hatalı dedantör üreten şirketi 250 milyar tazminata mahkum etti .</sentence>
+<sentence num="35">PKK Bağdat'ta büro açtı İş çığrından çıktı .</sentence>
+<sentence num="36">ABD'nin ,Kuzey Irak'ta göz yumduğu terör örgütü faaliyetlerini artık başkente taşıdı .</sentence>
+<sentence num="37">Çocukları ne çok seviyormuşuz Malatya skandalı bu bayram çocuklara ilgiyi katladı Yuvalar ,yetiştirme yurtları ziyaretçi akınına uğradı .</sentence>
+<sentence num="38">KİT'ler karda 1990 2000 arasındaki dönemi sürekli zararla kapatan kamu kurumları saon istikrar dönemi ile birlikte kar etmeye başladı .</sentence>
+<sentence num="39">Pervez Müşerref :Dünya yardım etmedi Türkiye ve birkaç ülke dışında kimseden yardım göremediklerini söyleyen Pakistan Devlet Başkanı Pervez Müşerref ,Katrina kasırgası veya tsunami felaketine yapılan yardım kadar yardım edilmedi bize .</sentence>
+<sentence num="40">Aynı depremi Batılılar yaşasaydı dünyanın tepkisi farklı olurdu .</sentence>
+<sentence num="41">O zaman bizim çektiğimiz sıkıntıları daha iyi anlarlardı dedi .</sentence>
+<sentence num="42">Yargının özelleştirmedeki çelişkili kararı ,devlete pahalıya mal olacak Araç muayene istasyonları 2002'de özelleştirilmiş ,'peşkeş 'iddiaları üzerine ihale iptal edilmişti .</sentence>
+<sentence num="43">Geçen yıl yeniden satışa çıkarılan istasyonları Akfen'in başını çektiği grup aldı .</sentence>
+<sentence num="44">Kamu reformunu Sezer veto etti ,Avrupa alkışlıyor Avrupa Konseyi ,geçtiğimiz yıl Cumhurbaşkanı Ahmet Necdet Sezer tarafından veto edilen Kamu Yönetimi Reformu'nu destekleyen bir rapor hazırladı .</sentence>
+<sentence num="45">AB sonunda PKK'yı gördü AB komisyonu ,İlerleme Raporu'nda ilk kez Güneydoğu'daki olayların sorumlusu olarak PKK'yı gösterecek .</sentence>
+<sentence num="46">Küresel sitem Yabancılar ölmediği için Batı'nın Pakistan'daki depremzedelere yardım etmediğini söyleyen Devlet Başkanı Pervez Müşerref ,dünyayı ikiyüzlülükle suçladı .</sentence>
+<sentence num="47">Binada depremi algılayan cihaz yoksa gaz da yok 12 Aralık'tan itibaren doğalgaz kullanan binalara depremi algılayan gaz kesme cihazlarının yerleştirilmesi zorunlu hale geliyor .</sentence>
+<sentence num="48">Sigortada büyüme hız kesti Türkiye'de sigorta sektöründe reel büyüme ,2005'te sürerken büyümenin artış hızında yavaşlama dikkat çekiyor .</sentence>
+<sentence num="49">Döndüler 2 0 Galatasaray Süper Lig'e ,Ümit Karan gollerine ,taraftar tribüne geri döndü ...</sentence>
+<sentence num="50">Ali Sami Yen Stadı'nda gece sancılı başladı .</sentence>
+<sentence num="51">Diyarbakırspor karşısında uzun süre k bus gören Aslan ,son 19 dakikada duvarı Ümit'le salladı ,Sasa Iliç'le yıktı .</sentence>
+<sentence num="52">Bu sonuçla maç fazlasıyla Fenerbahçe'yi sollayıp liderlik koltuğuna oturdu .'</sentence>
+<sentence num="53">Dünya Futbolu Anelka'yı kazanıyor 'Fransa'nın ünlü spor gazetesi L'equipe ,3 ,5 yıl sonra milli takıma çağrılan Fenerbahçe'li Anelka'yı kapak yaptı ve iki sayfa ayırdı .</sentence>
+<sentence num="54">Her düşüş bir öğreniş Süper Lig'de önceki iki maçında 5 puan kaybeden Cimbom ,dün de kötü oynadı ama kazanmasını bildi .</sentence>
+<sentence num="55">Gerets ,ikinci yarıda Ümit'i oyuna alıp üçlü forvete dönerek ,hatalarından ders aldığını gösterdi .</sentence>
+<sentence num="56">Ümit ,70'te golü atıp ,Aslan'a hayat verdi .</sentence>
+<sentence num="57">Fener büyük oynuyor Avrupa'da rakipleriyle eşit şartlarda mücadele etmek isteyen Fenerbahçe ,ara transferde Anelka ve Alex ayarında en az bir yıldız daha almayı planlıyor .</sentence>
+</doc>
+<doc>
+<id>177292</id>
+<sentence num="0">2005 11 05 11 :35 :00 .Paris'de dün gece 900'den fazla araç yakıldı ...</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'te protestocu gençlerle güvenlik güçleri arasında süren çatışmaların 9 .gecesinde olaylar başkent Paris dışına taşarken ,dün gece yakılan araç sayısının 900'ü geçtiği bildirildi .</sentence>
+<sentence num="2">Şiddet olaylarının ,Paris'in dışında diğer kentlere de sıçraması üzerine ,Başbakan Dominique de Villepin ,ilgili sekiz bakanının katılımıyla son durumu değerlendirmek ve alınacak önlemleri görüşmek üzere acil bir toplantı düzenledi .</sentence>
+<sentence num="3">Bu arada ,sorgulananların sayısının da 250'ye ulaştığı bildirildi Muhalefetteki Sosyalist ,Yeşil ve Komünist Parti temsilcileri ,yaptıkları açıklamalarda ,İçişleri Bakanı Nicolas Sarkozy'nin istifasını istediler .</sentence>
+<sentence num="4">Sarkozy ,yaptığı sert açıklamalarla olaylı banliyölerdeki gençleri tahrik etmekle suçlanıyor .</sentence>
+<sentence num="5">Fransız basını ,Başbakan Dominique de Villepin'in büyük bir krizle karşı karşıya kaldığını yazarken ,olayların hükümeti sarstığı yorumunu yapıyor .</sentence>
+<sentence num="6">Olayların başından bu yana ülke genelinde yakılan araç sayısının 1500'ü geçtiği belirtilirken ,şiddetin özellikle yoğunlaştığı Seine Saint Denis bölgesinde kamu malına verilen zararın 7 milyon avro civarında olduğu bildirildi .</sentence>
+<sentence num="7">Paris yakınlarındaki Clichy Sous Bois banliyösünde geçen hafta perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+<sentence num="8">BANLİYÖDE ,ŞİDDETE KARŞI SESSİZ PROTESTO YÜRÜYÜŞÜ Fransa'nın başkenti Paris'in Aulnay sous Bois banliyösü sakinlerinden bir grup ,son günlerde çıkan şiddet eylemlerine karşı çıkmak için sessiz protesto yürüyüşü yaptı .</sentence>
+<sentence num="9">Yaklaşık 3 bin kişinin kaldığı gösteri bir saat sürdü .</sentence>
+<sentence num="10">Göstericilerin ,Şiddete hayır ,diyaloga evet yazılı pankartlar taşıdığı gözlendi .</sentence>
+<sentence num="11">Nüfusu yaklaşık 80 bin olan banliyö ,son günlerdeki şiddet olaylarının en yoğun meydana geldiği bölgelerin başında geliyor .</sentence>
+<sentence num="12">Banliyönün Belediye Başkanı Gerard Gaudron ,sessiz gösteri sırasında yaptığı açıklamada ,şiddete taviz vermeyeceklerini belirtti ve banliyö sakinlerinin son olaylardan bıktığını bildirdi .</sentence>
+<sentence num="13">Farklı yaş ve farklı kökenlerden geldikleri görülen göstericiler ,saldırılar sırasında camları kırılan bir itfaiye aracı yanlarından geçerken ,aracı alkışlayarak içindeki itfaiyecilere destek verdi .</sentence>
+<sentence num="14">FRANSIZ YETKİLİLERİN ÇABALARI SÜRÜYOR Bu arada Fransız yetkililerin olayların sona ermesini sağlamak için çabaları sürüyor .</sentence>
+<sentence num="15">Fransa Başbakanı Dominique de Villepin ,olayların sona ermesi için çare bulmak amacıyla dün 15 gençle bir araya geldi .</sentence>
+<sentence num="16">Paris'teki Seine Saint Denis banliyösünde lise son sınıf öğrencisi 18 yaşındaki Anyss toplantıyla ilgili olarak ,''Sanırım bu toplantıyla bir şeyler öğrenmek istedi .</sentence>
+<sentence num="17">Çok iyi bir girişim oldu ,gerçekten sorunları çözmek ister gibi görünüyor ''dedi .</sentence>
+<sentence num="18">Şiddet olaylarının yoğunlaştığı Seine Saint Denis'de 1400 kadar polisin görevlendirildiği de belirtildi .</sentence>
+<sentence num="19">Yetkililere göre ,olayların en çok etkilediği Seine Saint Denis'de kamu malına verilen zarar 7 milyon avro civarında .</sentence>
+<sentence num="20">Fransa İçişleri Bakanı Nicolas Sarkozy ,Paris'in batısındaki Versailles'da kamu güvenliği yerel merkezine sürpriz ziyarette bulundu .</sentence>
+<sentence num="21">KAMU ÇALIŞANLARI VE HALK TEDİRGİN Olaylar nedeniyle bölgedeki kamu çalışanlarının da tedirgin olduğu ,Paris'ten uluslararası Charles de Gaulle havaalanına giden bir trenin dünkü seferlerini aksattığı ,güvenliklerinden endişe eden tren görevlilerinin bir süre iş bıraktığı belirtildi .</sentence>
+<sentence num="22">Ulusal polis sözcüsü Patrick Hamon ,farklı banliyölerde olayları çıkaran gruplar arasında koordinasyon olmadığının görüldüğünü ,ancak birbirine komşu olan gençlerin haberleşmek için cep telefonu mesajı ya da toplanma yerleri belirlemek için elektronik posta kullandığını söyledi .</sentence>
+<sentence num="23">Olayların devam ettiği banliyölerdeki halk da bölgedeki şiddetin kendilerine zarar verdiğini söylüyor .</sentence>
+<sentence num="24">Kuzey Iraklı Kürt göçmen Muhammed Çukri ,ne zaman yangın çıkacağını bilmediği için gece uyuyamadığını söyleyerek ,''Üç çocuğum var ve beş katlı bir binada yaşıyorum .</sentence>
+<sentence num="25">Yangın çıkarsa ne yapacağım ''dedi .</sentence>
+<sentence num="26">Yoksul bir mahallede yaşayan Caroline Bourre de ''Sorun ,olayları çıkaranların kendileri gibi insanlara zarar vermesi ''diye konuştu .</sentence>
+<sentence num="27">Paris yakınlarındaki Clichy Sous Bois banliyösünde geçen hafta perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177362</id>
+<sentence num="0">2005 11 05 13 :20 :00 .Fransa'da olaylar durulmuyor .</sentence>
+<sentence num="1">İçişleri Bakanlığı operasyon merkezi ,750'den fazla aracın yakıldığı olaylarla ilgili olarak 203 kişinin gözaltına alındığını açıkladı .</sentence>
+<sentence num="2">Polis ,Paris yakınlarındaki bir banliyöde geçen hafta perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesinden sonra patlak veren olaylarda yakılan araç sayısının 1500'ü geçtiğini açıkladı .</sentence>
+<sentence num="3">Dünkü olaylarda ,önceki gecelerde olduğu gibi belediye başkanlığı binaları ,karakollar ,itfaiye araçları ve işyerleri hedef alındı .</sentence>
+<sentence num="4">Fransız yetkililerin olayların sona ermesini sağlamak için çabaları sürüyor .</sentence>
+<sentence num="5">Başbakan Dominique de Villepin ,olayların sona ermesi için çare bulmak amacıyla dün 15 gençle bir araya geldi .</sentence>
+<sentence num="6">Yetkililere göre ,olayların en çok etkilediği Seine Saint Denis'de kamu malına verilen zarar 7 milyon avro civarında .</sentence>
+<sentence num="7">aa .</sentence>
+</doc>
+<doc>
+<id>177383</id>
+<sentence num="0">2005 11 05 14 :06 :00 .Fransa kaynıyor .</sentence>
+<sentence num="1">Fransa'da sadece dün gece 750 araç yakıldı Fransa'nın başkenti Paris'te iki Afrika kökenli gencin polisten kaçarken elektrik akımına kapılarak ölmelerinin ardından başlayan olaylarda dün gece 900 araç ateşe verildi .</sentence>
+<sentence num="2">İçişleri Bakanlığı operasyon merkezi ,900'den fazla aracın yakıldığı olaylarla ilgili olarak 203 kişinin gözaltına alındığını açıkladı .</sentence>
+<sentence num="3">Paris'te başlayan ve 10'uncu gününe giren olaylar ,başkent Paris'in dışına da taştı .</sentence>
+<sentence num="4">Polis yetkilileri ,yakılan araçların 563'ünün Paris'in banliyölerinde ,191'inin Strasbourg ,Rennes ,Lille ve Toulouse'da ateşe verildiğini belirtti .</sentence>
+<sentence num="5">Polis ,Paris yakınlarındaki bir banliyöde geçtiğimiz hafta perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesinden sonra patlak veren olaylarda yakılan araç sayısının bin 500'ü geçtiğini açıkladı .</sentence>
+<sentence num="6">Polise göre ,başkent Paris'in batısındaki Suresnes bölgesinde dün 44 araç ve bir depo ateşe verilirken ,bir otobüse ateş açıldı .</sentence>
+<sentence num="7">Olaylarda hasta birine yardım etmeye çalışanlara taş atıldığı ve ambulansın yakıldığı belirtildi .</sentence>
+<sentence num="8">Yine Paris'in batısındaki Yvelines bölgesinde 60 araç ve bir hemşirelik okulu yakıldı .</sentence>
+<sentence num="9">Dünkü olaylarda ,önceki gecelerde olduğu gibi belediye başkanlığı binaları ,karakollar ,itfaiye araçları ve işyerleri hedef alındı .</sentence>
+<sentence num="10">Olaylarda herhangi bir çatışma çıkmadığı ve güvenlik güçlerinin banliyölerdeki gençlerle çatışmamaya gayret ettiği belirtildi .</sentence>
+<sentence num="11">Villepin çözüm arıyor Fransa Başbakanı Dominique de Villepin ise ,olayların sona ermesi için çare bulmak amacıyla dün 15 gençle bir araya geldi .</sentence>
+<sentence num="12">Paris'teki Seine Saint Denis banliyösünde lise son sınıf öğrencisi18 yaşındaki Anyss toplantıyla ilgili olarak ,''sanırım bu toplantıyla bir şeyler öğrenmek istedi .</sentence>
+<sentence num="13">Çok iyi bir girişim oldu ,gerçekten sorunları çözmek ister gibi görünüyor ''dedi .</sentence>
+<sentence num="14">Şiddet olaylarının yoğunlaştığı Seine Saint Denis'de bin 400 kadar polis görevlendirildi .</sentence>
+<sentence num="15">Yetkililer ,olayların en çok etkilediği Seine Saint Denis'de kamu malına verilen zararın 7 milyon avro civarında olduğunu açıkladı .</sentence>
+<sentence num="16">Fransa İçişleri Bakanı Nicolas Sarkozy de ,Paris'in batısındaki Versailles'da kamu güvenliği yerel merkezine sürpriz ziyarette bulundu .</sentence>
+<sentence num="17">Olaylar nedeniyle bölgedeki kamu çalışanlarının da tedirgin olduğu ,Paris'ten uluslararası Charles De Gaulle havaalanına giden bir trenin dünkü seferlerini aksattığı ,güvenliklerinden endişe eden tren görevlilerinin bir süre iş bıraktığı belirtildi .</sentence>
+<sentence num="18">Gruplar arasında koordinasyon yok Ulusal polis sözcüsü Patrick Hamon ,farklı banliyölerde olayları çıkaran gruplar arasında koordinasyon olmadığının görüldüğünü ,ancak birbirine komşu olan gençlerin haberleşmek için cep telefonu mesajı ya da toplanma yerleri belirlemek için elektronik posta kullandığını söyledi .</sentence>
+<sentence num="19">Olayların devam ettiği banliyölerdeki halk da bölgedeki şiddetin kendilerine zarar verdiğini belirtiyor .</sentence>
+<sentence num="20">Kuzey Iraklı Kürt göçmen Muhammed Çukri ,ne zaman yangın çıkacağını bilmediği için gece uyuyamadığını söyledi .</sentence>
+<sentence num="21">Çukri ,''üç çocuğum var ve beş katlı bir binada yaşıyorum .</sentence>
+<sentence num="22">Yangın çıkarsa ne yapacağım ''dedi .</sentence>
+<sentence num="23">Yoksul bir mahallede yaşayan Caroline Bourre de ,''sorun ,olayları çıkaranların kendileri gibi insanlara zarar vermesi ''diye konuştu .</sentence>
+<sentence num="24">Paris yakınlarındaki Clichy Sous Bois banliyösünde geçtiğimiz hafta perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177396</id>
+<sentence num="0">2005 11 05 14 :45 :00 .Paris'te isyan durdurulamadı ,şehir alev alev yanıyor .</sentence>
+<sentence num="1">Paris'te isyan durdurulamadı ,şehir alev alev yanıyor Fransa'nın başkenti Paris'te protestocu gençlerle güvenlik güçleri arasında süren çatışmaların 9 .gecesinde olaylar başkent Paris dışına taşarken ,dün gece 900'den fazla araç yakıldı .</sentence>
+<sentence num="2">Şiddet olaylarının ,Paris'in dışında diğer kentlere de sıçraması üzerine ,Başbakan Dominique de Villepin ,ilgili sekiz bakanının katılımıyla son durumu değerlendirmek ve alınacak önlemleri görüşmek üzere acil bir toplantı düzenledi .</sentence>
+<sentence num="3">Bu arada ,sorgulananların sayısının da 250'ye ulaştığı bildirildi Muhalefetteki Sosyalist ,Yeşil ve Komünist Parti temsilcileri ,yaptıkları açıklamalarda ,İçişleri Bakanı Nicolas Sarkozy'nin istifasını istediler .</sentence>
+<sentence num="4">Sarkozy ,yaptığı sert açıklamalarla olaylı banliyölerdeki gençleri ''tahrik etmekle ''suçlanıyor .</sentence>
+<sentence num="5">Fransız basını ,Başbakan Dominique de Villepin'in büyük bir krizle karşı karşıya kaldığını yazarken ,olayların ''hükümeti sarstığı ''yorumunu yapıyor .</sentence>
+<sentence num="6">Olayların başından bu yana ülke genelinde yakılan araç sayısının 1500'ü geçtiği belirtilirken ,şiddetin özellikle yoğunlaştığı Seine Saint Denis bölgesinde kamu malına verilen zararın 7 milyon avro civarında olduğu bildirildi .</sentence>
+<sentence num="7">Paris yakınlarındaki Clichy Sous Bois banliyösünde geçen hafta perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek diğer banliyölere de yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177452</id>
+<sentence num="0">2005 11 05 18 :00 :00 .Belçika'da polisle yabancı gençler arasında çatışma :5 polis yaralı .</sentence>
+<sentence num="1">Belçika'da polisle yabancı gençler arasında çatışma :5 polis yaralı Belçika'nın başkenti Brüksel'de yabancı gençler ile polis arasında çıkan çatışmada 5 polis yaralandı .</sentence>
+<sentence num="2">Türklerin yoğun bulunduğu Schaerbeek Belediyesi'nde bu sabah meydana gelen olayların ,bir polis devriyesinin ,park halindeki bir arabanın üzerine ''idrarını yapan ''bir kişiye müdahale etmesiyle başladığı bildirildi .</sentence>
+<sentence num="3">Polisler ,bu kişiden ''kirlettiği arabayı temizlemesini ''istedi .</sentence>
+<sentence num="4">Yapılan açıklamada ,polisler ile bu kişi arasında ''ses tonunun yükseldiği ''ve çevredeki evlerden başka gençlerin de olay yerine geldiği bildirildi .</sentence>
+<sentence num="5">Gençlerin ,polislere ,''derhal oradan uzaklaşmamaları halinde Fransa'daki olayların Brüksel'de de meydana geleceği ''tehdidinde bulunduğu belirtildi .</sentence>
+<sentence num="6">Polis açıklamasında ,gerginlik ve olaylar sonunda 5 polis memurunun yaralandığı ,iki kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="7">Güvenlik birimleri ,Fransa'daki olayların Belçika'ya sıçraması endişesini dile getiriyor ve ''ufak kıvılcımların büyük ateşlere neden olmasına fırsat verilmemesi gereği ''üzerinde duruyor .</sentence>
+</doc>
+<doc>
+<id>177464</id>
+<sentence num="0">2005 11 05 18 :59 :00 .Paris olayları ,Belçika'ya sıçrıyor .</sentence>
+<sentence num="1">Brüksel'de yabancı gençler ile polis arasında çatışma .</sentence>
+<sentence num="2">Belçika'nın başkenti Brüksel'de yabancı gençler ile polis arasında çıkan çatışmada 5 polis yaralandı .</sentence>
+<sentence num="3">Türklerin yoğun bulunduğu Schaerbeek Belediyesi'nde bu sabah meydana gelen olayların ,bir polis devriyesinin ,park halindeki bir arabanın üzerine idrarını yapan bir kişiye müdahale etmesiyle başladığı bildirildi .</sentence>
+<sentence num="4">Gençlerin ,polislere ,derhal oradan uzaklaşmamaları halinde Fransa'daki olayların Brüksel'de de meydana geleceği tehdidinde bulunduğu belirtildi .</sentence>
+<sentence num="5">Polis açıklamasında ,gerginlik ve olaylar sonunda 5 polis memurunun yaralandığı ,iki kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="6">A .</sentence>
+<sentence num="7">A .</sentence>
+</doc>
+<doc>
+<id>177471</id>
+<sentence num="0">2005 11 05 19 :20 :00 .Brüksel'de çatışma çıktı :5 yaralı .</sentence>
+<sentence num="1">Belçika'nın başkenti Brüksel'de yabancı gençler ile polis arasında çıkan çatışmada 5 polis yaralandı .</sentence>
+<sentence num="2">Türklerin yoğun bulunduğu Schaerbeek Belediyesi'nde bu sabah meydana gelen olayların ,bir polis devriyesinin ,park halindeki bir arabanın üzerine ''idrarını yapan ''bir kişiye müdahale etmesiyle başladığı bildirildi .</sentence>
+<sentence num="3">Polisler ,bu kişiden ''kirlettiği arabayı temizlemesini ''istedi .</sentence>
+<sentence num="4">Yapılan açıklamada ,polisler ile bu kişi arasında ''ses tonunun yükseldiği ''ve çevredeki evlerden başka gençlerin de olay yerine geldiği bildirildi .</sentence>
+<sentence num="5">Gençlerin ,polislere ,''derhal oradan uzaklaşmamaları halinde Fransa'daki olayların Brüksel'de de meydana geleceği ''tehdidinde bulunduğu belirtildi .</sentence>
+<sentence num="6">Polis açıklamasında ,gerginlik ve olaylar sonunda 5 polis memurunun yaralandığı ,iki kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="7">Güvenlik birimleri ,Fransa'daki olayların Belçika'ya sıçraması endişesini dile getiriyor ve ''ufak kıvılcımların büyük ateşlere neden olmasına fırsat verilmemesi gereği ''üzerinde duruyor .</sentence>
+</doc>
+<doc>
+<id>177479</id>
+<sentence num="0">2005 11 05 19 :58 :00 .Belçika'da Çatışma .</sentence>
+<sentence num="1">Belçika'nın başkenti Brüksel'de yabancı bir grup gençle polis arasında çatışma çıktı .</sentence>
+<sentence num="2">Çatışmada 5 polis yaralandı .</sentence>
+<sentence num="3">Olayların ,Türkler'in yoğun olarak bulunduğu Schaerbeek Belediyesi'nde polisin bir kişiye müdahale etmesiyle başladığı bildirildi .</sentence>
+<sentence num="4">Gençlerin ,polise Fransa'daki olayların Brüksel'de de meydana geleceği tehdidinde bulunduğu daha sonra çıkan çatışmada 2 kişinin gözaltına alındığı bildirildi .</sentence>
+</doc>
+<doc>
+<id>177498</id>
+<sentence num="0">2005 11 05 21 :30 :00 .Paris'te yaşanan olaylarda Bakan Sarkozy'ye halk destek veriyor .</sentence>
+<sentence num="1">Paris'teki banliyölerde meydana gelen şiddet olaylarına yaklaşımı tepki çeken İçişleri Bakanı Nicolas Sarkozy'ye halkın desteğinin devam ettiği ortaya çıktı .</sentence>
+<sentence num="2">Le Parisien gazetesinde bugün yayımlanan bir kamuoyu araştırmasında ,Fransız halkının yüzde 57'si ,banliyölerde yaşayanların yüzde 56'sı Sarkozy'yle ilgili izlenimlerinin iyi olduğunu belirtti .</sentence>
+<sentence num="3">Fransız halkının yüzde 63'ü ise bir İçişleri Bakanı olarak Sarkozy'nin bazen ''şoke edici ''ifadeler kullandığını kaydetti .</sentence>
+<sentence num="4">Muhalefet ,yaptığı sert açıklamalarla banliyölerdeki gençleri ''tahrik etmekle ''suçlanan Sarkozy'nin istifasını istiyor .</sentence>
+<sentence num="5">Göstericilere ''ayak takımı ''dediği ileri sürülen Sarkozy ,her ne pahasına olursa olsun kamu düzeninin sağlanacağını söylemişti .</sentence>
+</doc>
+<doc>
+<id>177507</id>
+<sentence num="0">2005 11 05 23 :27 :00 .Paris'in varoşları yanıyor .</sentence>
+<sentence num="1">3 bin kişi ,şiddet eylemlerine karşı sessiz protesto yürüyüşü yaptı Paris'te olaylar bu gece de sürüyor .</sentence>
+<sentence num="2">Essone banliyösünde şu ana kadar iki okul ,15 kadar araç ile bir atık kağıt işleme tesisi kundaklandı .</sentence>
+<sentence num="3">Kundaklanan anaokulun yüzde 50 oranında tahrip olduğunu ,aynı bölgedeki ilkokulun da kısmen yandığını belirten yetkililer ,ateşe verilen otomobillerin tamamen tahrip olduğunu söyledi .</sentence>
+<sentence num="4">Bölgede ayrıca 800 metrekare büyüklüğündeki bir atık kağıt işleme tesisinin de kundaklandığı ve itfaiyenin yangın çağrılarına yetişemediği belirtildi .</sentence>
+<sentence num="5">Son 10 gecedir Fransa'nın başkenti Paris'te karanlık çöktükten sonra belli bölgelerden alevler yükselmeye başlıyor .</sentence>
+<sentence num="6">Hükümet ve kamuoyunun tüm çağrılarına rağmen şiddet olayları devam ediyor .</sentence>
+<sentence num="7">Protestoculara 'sükunet 'çağrısı Clichy Sous Bois banliyösünde polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybeden iki gencin ailesi bugün yaptıkları açıklamada ,olayların yatışması için çağrı yaptı .</sentence>
+<sentence num="8">Ölen gençlerin aileleri tarafından basına yapılan açıklamada ,''bizler ,sükunetin sağlanması ve her türlü şiddet olayına son verilmesi çağrısında bulunuyoruz .</sentence>
+<sentence num="9">Çünkü Fransa bunu hak etmiyor ''denildi .</sentence>
+<sentence num="10">Gençlerin ölümüne yol açan olayla ilgili soruşturmanın hükümet tarafından en kısa zamanda tamamlanması çağrısında bulunulan açıklamada ,yine aynı banliyöde ,bir camiye atılan gaz bombasının sorumlularının ortaya çıkartılması istendi .</sentence>
+<sentence num="11">Açıklamada ,banliyödeki Müslüman cemaatin ,resmi yetkililerden saldırıya ilişkin hala bir özür beklediği ifade edildi .</sentence>
+<sentence num="12">Dini cemaatlerden çağrı BELÇİKA'DA ÇATIŞMA Belçika'nın başkenti Brüksel'de yabancı gençler ile polis arasında çıkan çatışmada beş polis yaralandı .</sentence>
+<sentence num="13">Türklerin yoğun bulunduğu Schaerbeek Belediyesi'nde bu sabah meydana gelen olayların ,bir polis devriyesinin ,park halindeki bir arabanın üzerine 'idrarını yapan 'bir kişiye müdahale etmesiyle başladığı belirtildi .</sentence>
+<sentence num="14">Polisler ,bu kişiden 'kirlettiği arabayı temizlemesini 'istedi .</sentence>
+<sentence num="15">Yapılan açıklamada ,polisler ile bu kişi arasında 'ses tonunun yükseldiği 've çevredeki evlerden başka gençlerin de olay yerine geldiği bildirildi .</sentence>
+<sentence num="16">Gençlerin ,polislere ,'derhal oradan uzaklaşmamaları halinde Fransa'daki olayların Brüksel'de de meydana geleceği 'tehdidinde bulunduğu belirtildi .</sentence>
+<sentence num="17">Polis açıklamasında ,gerginlik ve olaylar sonunda beş polis memurunun yaralandığı ,iki kişinin gözaltına alındığı ifade edildi .</sentence>
+<sentence num="18">Fransa'da iki büyük dinin temsilcileri de ,banliyölerde giderek artan şiddet olaylarının yatıştırılması çağrısında bulundu .</sentence>
+<sentence num="19">Fransa Başpiskoposlar Birliği'nin bugün düzenlenen genel konferansının ardından yapılan açıklamada ,Paris banliyölerinde meydana gelen şiddet olaylarından ,'derin endişe duyulduğu 'belirtildi .</sentence>
+<sentence num="20">Açıklamada ,toplu nefret ,korku ve baskının toplumdaki gerilime yanıt olamayacağı ifade edildi ve medya aracığıyla yansıtılan şiddet görüntülerinin ,sert yankılar uyandırarak ,toplumun farklı kesimlerinde güveni zedelediği kaydedildi .</sentence>
+<sentence num="21">Açıklamada ,umutsuzluğa düşen yeni nesillere haysiyetli ,özgür ve karşısındakine saygı ilkesine dayalı bir gelecek sunulmasının önemli olduğu vurgulandı .</sentence>
+<sentence num="22">Fransa İslam Konseyi (CFCM )Başkanı Halil Ebubekir de İçişleri Bakanı Nicolas Sarkozy başta olmak üzere bütün yöneticilere ,olayların yatıştırılması çağrısında bulundu .</sentence>
+<sentence num="23">Başbakan Dominique de Villepin ile yaptığı toplantıdan sonra basına açıklama yapan Ebubekir ,''bu tür zor durumlarda ,her bir kelimenin önemi var .</sentence>
+<sentence num="24">Yetkililerden barış mesajı göndermelerini bekliyorum ''dedi .</sentence>
+<sentence num="25">Paris'in Aulnay sous Bois banliyösü sakinlerinden bir grup ise ,son günlerde çıkan şiddet eylemlerine karşı çıkmak için sessiz protesto yürüyüşü yaptı .</sentence>
+<sentence num="26">Yaklaşık 3 bin kişinin kaldığı gösteri bir saat sürdü .</sentence>
+<sentence num="27">Göstericilerin ,'şiddete hayır ,diyaloga evet 'yazılı pankartlar taşıdığı gözlendi .</sentence>
+<sentence num="28">Nüfusu yaklaşık 80 bin olan banliyö ,son günlerdeki şiddet olaylarının en yoğun meydana geldiği bölgelerin başında geliyor .</sentence>
+<sentence num="29">Banliyönün Belediye Başkanı Gerard Gaudron ,sessiz gösteri sırasında yaptığı açıklamada ,şiddete taviz vermeyeceklerini belirtti ve banliyö sakinlerinin son olaylardan bıktığını belirtti .</sentence>
+<sentence num="30">Farklı yaş ve farklı kökenlerden geldikleri görülen göstericiler ,saldırılar sırasında camları kırılan bir itfaiye aracı yanlarından geçerken ,aracı alkışlayarak içindeki itfaiyecilere destek verdi .</sentence>
+<sentence num="31">Türkler için sorun yok Paris Başkonsolos Muavini Senem Güzel de ,olaylı banliyöleri ziyaret ederek buradaki Türk dernek temsilcileriyle görüştü .</sentence>
+<sentence num="32">Güzel ,yaptığı açıklamada ,buradaki Türklerin olaylara karışmadığın belirterek ,''bu bölgelerdeki Türkler için bir sorun yok ''dedi .</sentence>
+<sentence num="33">Paris yakınlarındaki Clichy Sous Bois banliyösünde 'Evim 'isimli mobilya mağazasının camları taşlı saldırıda kırılan Türk vatandaşı Sabri Arıcı ,son olayların bölgede yaşayan Türk vatandaşlarının da moralini bozduğunu belirtti .</sentence>
+<sentence num="34">Arıcı ,saldırıdan sonra önlem olarak bir haftadır mağazayı erken kapattığını söyledi .</sentence>
+<sentence num="35">Fransa'ya Konya'dan gelen 38 yaşındaki Arıcı ,son olayların işlerini de olumsuz etkilediğini söyledi .</sentence>
+<sentence num="36">Paris banliyölerinde uzun zamandır köklü sorunlar bulunduğunu kaydeden Arıcı ,özellikle eğitim düzeyinin düşük olmasının ,işsizliğin ve kültür farklılığının ciddi sorunların başında geldiğini ifade ederek ,''buradaki insanların sorunlardan dolayı enerjileri kaybolmuş durumda ''dedi .</sentence>
+<sentence num="37">Villepin çözüm arıyor Fransa Başbakanı Dominique de Villepin ise ,olayların sona ermesi için çare bulmak amacıyla dün 15 gençle bir araya geldi .</sentence>
+<sentence num="38">Paris'teki Seine Saint Denis banliyösünde lise son sınıf öğrencisi18 yaşındaki Anyss toplantıyla ilgili olarak ,''sanırım bu toplantıyla bir şeyler öğrenmek istedi .</sentence>
+<sentence num="39">Çok iyi bir girişim oldu ,gerçekten sorunları çözmek ister gibi görünüyor ''dedi .</sentence>
+</doc>
+<doc>
+<id>177521</id>
+<sentence num="0">2005 11 06 00 :00 :00 .Paris banliyölerindeki olaylar kent merkezine sıçradı .</sentence>
+<sentence num="1">Paris banliyölerindeki olaylar kent merkezine sıçradı Fransa'nın başkenti Paris yakınlarındaki Clichy Sous Bois banliyösünde polisten kaçarken elektrik trafosunda akıma kapılan iki göçmen gencin hayatını kaybetmesinden sonra 10 .gecesine giren şiddet olayları ,başkentin merkezine de sıçradı .</sentence>
+<sentence num="2">Yetkililer ,Paris'in göbeğindeki Republique (Cumhuriyet )Meydanı yakınlarında 4 araca molotofkokteyli atıldığını ve otomobillerde yangın çıktığını belirttiler .</sentence>
+<sentence num="3">Molotofkokteylinin atıldığı semtin polis ablukasına alındığı ve itfaiyenin yangına müdahale ettiği kaydedildi .</sentence>
+</doc>
+<doc>
+<id>177533</id>
+<sentence num="0">2005 11 06 00 :05 :00 .Fransa'da Olaylar Durulmuyor .</sentence>
+<sentence num="1">Fransa'da Afrika kökenli iki gencin polisten kaçarken elektrik akımına kapılarak ölmesi üzerine patlak veren şiddet olayları yayılıyor .</sentence>
+<sentence num="2">Başkent Paris'te protestocu gençlerle güvenlik güçleri arasında süren çatışmaların 10 .gününde olaylar başkentin dışına taşarken ,sadece cuma (04 .</sentence>
+<sentence num="3">11 .2005 )gecesi 900'den fazla araç yakıldı .</sentence>
+<sentence num="4">İçişleri Bakanlığı operasyon merkezi ,900'den fazla aracın yakıldığı olaylarla ilgili olarak 203 kişinin gözaltına alındığını bildirdi .</sentence>
+<sentence num="5">Geçen hafta Perşembe günü patlak veren olaylarda yakılan toplam araç sayısının 1 .500'ü geçtiği açıklandı .</sentence>
+<sentence num="6">Yetkililer ,gençlerin internet ve cep telefonları yoluyla organize olduklarına dikkat çekiyor .</sentence>
+<sentence num="7">Polise göre ,başkent Paris'in batısındaki Suresnes bölgesinde cuma günü (04 .</sentence>
+<sentence num="8">11 .2005 )44 araç ve bir depo ateşe verilirken ,bir otobüse ateş açıldı .</sentence>
+<sentence num="9">Yine Paris'in batısındaki Yvelines bölgesinde 60 araç ve bir hemşirelik okulu yakıldı .</sentence>
+<sentence num="10">Cuma günkü olaylarda ,önceki gecelerde olduğu gibi belediye başkanlığı binaları ,karakollar ,itfaiye araçları ve işyerleri hedef alındı .</sentence>
+<sentence num="11">Güvenlik güçlerinin ,banliyölerdeki gençlerle çatışmaya girmekten kaçındığı belirtildi .</sentence>
+<sentence num="12">Başbakan ,Tutum Belirlemek İçin 8 Bakan ile Biraraya Geldi Kanun ve düzenin sağlanmasının öncelikleri olduğunu kaydeden Başbakan Dominique de Villepin ,dün (05 .</sentence>
+<sentence num="13">11 .2005 )de gelişmeler karşısında siyasi bir tutum belirlenmesi için kabinesindeki önde gelen 8 bakan ile biraraya geldi .</sentence>
+<sentence num="14">Fransa'da şiddet olaylarına katılan gençler ,kendilerini 'ayaktakımı 'olarak niteleyen İçişleri Bakanı Nicolas Sarkozy'nin istifasını istiyor .</sentence>
+<sentence num="15">Şiddet olaylarının yoğunlaştığı Seine Saint Denis'de 1400 kadar polisin görevlendirildiği de belirtildi .</sentence>
+<sentence num="16">Yetkililere göre ,olayların en çok etkilediği Seine Saint Denis'de kamu malına verilen zarar 7 milyon Avro civarında .</sentence>
+<sentence num="17">Olayların Son Bulması Amacıyla Sessiz Yürüyüş Fransız basını ,olayların hükümeti sarstığı yorumunu yaparken Müslüman ,Katolik ve Protestan liderlerin girişimlerinin ardından dün (05 .</sentence>
+<sentence num="18">11 .2005 )olayların son bulması amacıyla sessiz bir yürüyüş gerçekleştirdi .</sentence>
+<sentence num="19">Paris'in Aulnay Sous Bois banliyösündeki yürüyüşe katılanlar Şiddete Hayır yazılı pankartlar taşıdı .</sentence>
+<sentence num="20">Almanya İçişleri Bakanı'dan Uyarı Bu arada Almanya'nın Brandenburg eyaleti İçişleri Bakanı Jörg Schönbohm ,Almanya'da da benzer olayların yaşanmaması için uyarıda bulundu .</sentence>
+<sentence num="21">Schönbohm ,bir gazeteye yaptığı açıklamada ,Uzun zamandır uyum konusunu ciddiye almadığımızdan ,Almanya'da yabancılar arasında gettolaşma var .</sentence>
+<sentence num="22">Yabancıların uyumu gerçekleşmediği ve gençlere perspektif sunulamadığı takdirde ,Almanya'da taşkınlıklar olabilir .</sentence>
+<sentence num="23">diye konuştu .</sentence>
+</doc>
+<doc>
+<id>177565</id>
+<sentence num="0">2005 11 06 09 :00 :00 .PAris'te olaylar banliyölerden merkeze sıçradı .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris yakınlarındaki Clichy Sous Bois banliyösünde polisten kaçarken elektrik trafosunda akıma kapılan iki göçmen gencin hayatını kaybetmesinden sonra 10 .gecesine giren şiddet olayları ,başkentin merkezine de sıçradı .</sentence>
+<sentence num="2">Yetkililer ,Paris'in göbeğindeki Republique (Cumhuriyet )Meydanı yakınlarında 4 araca molotofkokteyli atıldığını ve otomobillerde yangın çıktığını belirttiler .</sentence>
+<sentence num="3">Molotofkokteylinin atıldığı semtin polis ablukasına alındığı ve itfaiyenin yangına müdahale ettiği kaydedildi .</sentence>
+<sentence num="4">BANLİYÖLERDE YANGINLAR SÜRÜYOR Bu arada ,güvenlik güçleri ,Paris'in banliyölerinde TSİ 23 .00'e kadar ateşe verilen araç sayısının 100 kadar olduğunu belirttiler .</sentence>
+<sentence num="5">Şiddet olaylarının Fransa'nın başka kentlerine de sıçradığını kaydeden yetkililer ,güneybatıdaki Toulouse kentinde bir halk kütüphanesi ile Paris'i banliyösü Villeneuve Sait Georges'da bir gençlik merkezinin kundaklandığını bildirdiler .</sentence>
+<sentence num="6">Yetkililer ,toplanan bilgilerdeki gecikmeden ötürü ,şiddet olaylarında artma mı azalma mı olduğunu söylemek için erken olduğunu ifade ettiler .</sentence>
+</doc>
+<doc>
+<id>177579</id>
+<sentence num="0">2005 11 06 09 :33 :00 .Paris'te şiddet olayları nedeniyle polis ,186 kişiyi gözaltına aldı .</sentence>
+<sentence num="1">Paris'te şiddet olayları nedeniyle polis ,186 kişiyi gözaltına aldı Paris yakınlarındaki Clichy Sous Bois banliyösünde polisten kaçarken elektrik trafosunda akıma kapılan iki göçmen gencin hayatını kaybetmesinden sonra başlayan şiddet olaylarının 10 .gecesinde ,186 kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="2">İçişleri Bakanlığı'ndan yapılan açıklamada ,dün gece ülke genelinde 186 kişinin gözaltına alındığı ve 918 aracın ateşe verildiği belirtildi .</sentence>
+<sentence num="3">Polis yetkilileri ,eylemlerin Paris kent merkezine de sıçradığını ,dün gece çıkan olaylarda Paris'te 28 aracın yakıldığını söyledi .</sentence>
+<sentence num="4">Clichy Sous Bois banliyösünde polisi protesto edenlerin çıkardığı olaylar ,giderek diğer banliyölere de yayılmıştı .</sentence>
+<sentence num="5">Yetkililer ,Paris'in güneydoğu banliyösü Essone'da çıkan olaylarda şu ana kadar iki okul ,15 kadar araç ile bir atık kağıt işleme tesisinin kundaklandığını söylemişti .</sentence>
+</doc>
+<doc>
+<id>177582</id>
+<sentence num="0">2005 11 06 09 :38 :00 .'Nefret 'filmi gerçek oldu .</sentence>
+<sentence num="1">Filmin başrollerinde Vincent Cassel'in yanı sıra Hubert Kounde ve Said Taghmaoui rol almıştı .</sentence>
+<sentence num="2">Siyah beyaz çekilen ,adı Fransızcada 'nefret 'anlamına gelen film ,Türkiye'de 'Protesto 'adıyla gösterilmişti .</sentence>
+<sentence num="3">Orada da isyan 'La Haine ',Paris'in varoşlarında yaşayan Musevi (Vinz ),Kuzey Afrika kökenli (Sadi )ve siyah (Hubert )3 arkadaşın yaşamlarından 24 saatlik bir kesiti ele alıyor .</sentence>
+<sentence num="4">Abdel ,polis tarafından sorgulanırken feci halde dövülür ve hastanede yaşam mücadelesi vermeye başlar .</sentence>
+<sentence num="5">Bunun üzerine varoşlarda yaşayan ve çoğu göçmen ailelerden gelen gençler isyan ederek polisle çatışır .</sentence>
+<sentence num="6">Polislerden birinin kaybettiği silahı bulan Vinz ,eğer Abdel ölürse bir polisi vuracağına yemin eder .</sentence>
+<sentence num="7">Polis şiddeti yayılıyor !</sentence>
+<sentence num="8">Kassovitz ,polis karşıtı olduğunu açık açık belirttiği filmi için resmi web sitesinde şunları söylüyor :Filmi polisin uyguladığı şiddetin kamuoyuna gösterilmesi gerektiğini düşünerek yaptım .</sentence>
+<sentence num="9">Dünya çapında başarı kazanması ,bu sorunun tüm dünyaya mal olmasından kaynaklanıyor .'</sentence>
+<sentence num="10">La Haine ',1995'te Cannes Film Festivali'nde Kassovitz'e En İyi Yönetmen Ödülü'nü kazandırmıştı .</sentence>
+<sentence num="11">milliyet .</sentence>
+</doc>
+<doc>
+<id>177591</id>
+<sentence num="0">2005 11 06 09 :50 :00 .Paris'te şiddet olayları dinmiyor ,186 kişi gözaltında ...</sentence>
+<sentence num="1">Paris yakınlarındaki Clichy Sous Bois banliyösünde polisten kaçarken elektrik trafosunda akıma kapılan iki göçmen gencin hayatını kaybetmesinden sonra başlayan şiddet olaylarının 10 .gecesinde ,186 kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="2">İçişleri Bakanlığı'ndan yapılan açıklamada ,dün gece ülke genelinde 186 kişinin gözaltına alındığı ve 918 aracın ateşe verildiği belirtildi .</sentence>
+<sentence num="3">Polis yetkilileri ,eylemlerin Paris kent merkezine de sıçradığını ,dün gece çıkan olaylarda Paris'te 28 aracın yakıldığını söyledi .</sentence>
+<sentence num="4">Clichy Sous Bois banliyösünde polisi protesto edenlerin çıkardığı olaylar ,giderek diğer banliyölere de yayılmıştı .</sentence>
+<sentence num="5">Yetkililer ,Paris'in güneydoğu banliyösü Essone'da çıkan olaylarda şu ana kadar iki okul ,15 kadar araç ile bir atık kağıt işleme tesisinin kundaklandığını söylemişti .</sentence>
+</doc>
+<doc>
+<id>177633</id>
+<sentence num="0">2005 11 06 11 :15 :00 .Fransa'da dün gece 1295 araç yakıldı .</sentence>
+<sentence num="1">Fransa'da dün gece 1295 araç yakıldı Fransa'nın yoksul banliyölerinde 10 gecedir devam eden şiddet olaylarında dün gece ağır bilanço ortaya çıktı .</sentence>
+<sentence num="2">Polis ,dün gece 554'ü Paris bölgesi dışında olmak üzere toplam 1295 aracın ateşe verildiğini belirterek ,olayların diğer kentlere de yayıldığını doğrulamış oldu .</sentence>
+<sentence num="3">Olaylar sırasında 312 kişinin gözaltına alındığını belirten polis ,olayların başlamasından bu yana ilk kez Paris'in merkezinde de çok sayıda aracın yakıldığını kaydetti ,ancak kesin sayı vermedi .</sentence>
+<sentence num="4">Paris çevresindeki hassas noktalarda devriye gezmesi için 7 helikopter ile 2300 takviye güvenlik gücünün görevlendirildiği açıklandı .</sentence>
+</doc>
+<doc>
+<id>177636</id>
+<sentence num="0">2005 11 06 11 :20 :00 .Fransa'da 1295 araç yakıldı ,312 kişi gözaltında ...</sentence>
+<sentence num="1">Fransa'nın yoksul banliyölerinde 10 gecedir devam eden şiddet olaylarında dün gece ağır bilanço ortaya çıktı .</sentence>
+<sentence num="2">Polis ,dün gece 554'ü Paris bölgesi dışında olmak üzere toplam 1295 aracın ateşe verildiğini belirterek ,olayların diğer kentlere de yayıldığını doğrulamış oldu .</sentence>
+<sentence num="3">Olaylar sırasında 312 kişinin gözaltına alındığını belirten polis ,olayların başlamasından bu yana ilk kez Paris'in merkezinde de çok sayıda aracın yakıldığını kaydetti ,ancak kesin sayı vermedi .</sentence>
+<sentence num="4">Paris çevresindeki hassas noktalarda devriye gezmesi için 7 helikopter ile 2300 takviye güvenlik gücünün görevlendirildiği açıklandı .</sentence>
+</doc>
+<doc>
+<id>177647</id>
+<sentence num="0">2005 11 06 11 :42 :00 .Fransa'da şiddetin bilançosu ağır .</sentence>
+<sentence num="1">Olaylar sırasında 312 kişinin gözaltına alındığını belirten polis ,olayların başlamasından bu yana ilk kez Paris'in merkezinde de çok sayıda aracın yakıldığını kaydetti ,ancak kesin sayı vermedi .</sentence>
+<sentence num="2">Paris çevresindeki hassas noktalarda devriye gezmesi için 7 helikopter ile 2300 takviye güvenlik gücünün görevlendirildiği açıklandı .</sentence>
+<sentence num="3">aa .</sentence>
+</doc>
+<doc>
+<id>177650</id>
+<sentence num="0">2005 11 06 11 :50 :00 .Fransa isyanı bastıramıyor .</sentence>
+<sentence num="1">Fransa şiddet olayları karşısında çaresiz Fransa'nın başkenti Paris'te ,iki Afrika kökenli gencin polisten kaçarken ,elektrik akımına kapılarak ölmelerinin ardından başlayan isyanın önü alınamıyor .</sentence>
+<sentence num="2">Banliyölerde başlayan olaylar önce diğer kentlere ,son olarak da başkent Paris'in merkezine sıçradı .</sentence>
+<sentence num="3">Fransa'daki olayların 10'uncu gecesinde 918 araç ateşe verildi ,186 kişi de gözaltına alındı .</sentence>
+<sentence num="4">Polis yetkilileri ,eylemlerin Paris kent merkezine de sıçradığını ,dün gece çıkan olaylarda Paris'te 28 aracın yakıldığını söyledi .</sentence>
+<sentence num="5">Paris'te kentin kenar mahallelerinde iki okul ateşe verildi .</sentence>
+<sentence num="6">İsyanın yayılması üzerine Başbakan Dominique de Villepen dün ilgili sekiz bakanla acil bir toplantı düzenledi .</sentence>
+<sentence num="7">Toplantıdan sonra İçişleri Bakanı Nikola Sarkozy ,'hükümet ,şiddet olaylarının sorumlularına karşı taviz verilmemesi konusunda hemfikir dedi .</sentence>
+<sentence num="8">Din temsilcilerinden de ,sağduyu çağrısı yapıldı .</sentence>
+<sentence num="9">Fransız Başpiskoposlar Birliği ,''olaylardan derin endişe duyuyoruz ''açıklamasını yaptı .</sentence>
+<sentence num="10">Fransa İslam Konseyi de ,olayların yatıştırılması çağrısında bulundu .</sentence>
+</doc>
+<doc>
+<id>177760</id>
+<sentence num="0">2005 11 06 15 :46 :00 .Paris banliyölerindeki Türkler tedirgin .</sentence>
+<sentence num="1">Paris banliyölerindeki Türkler tedirgin Fransa'nın başkenti Paris ve banliyölerinde meydana gelen şiddet olaylarının ,bu bölgelerde yaşayan Türk vatandaşlarını da tedirgin ettiği bildirildi .</sentence>
+<sentence num="2">Paris yakınlarındaki Evreux kasabasında dün gece meydana gelen olaylarla ilgili olarak soruları yanıtlayan Türkler ,olayların daha da büyümesinden endişe ettiklerini bildirdiler .</sentence>
+<sentence num="3">Yaklaşık 1200 Türk vatandaşının yaşadığı Evreux kasabasında dün gece meydana gelen olaylar sırasında 59 otomobil ateşe verilirken ,polis karakolu ,itfaiye garajı ,bir eczane ve bir banka şubesine saldırılar düzenlenmişti .</sentence>
+<sentence num="4">Kasabada işyeri sahibi Türkler ,olayların işlerini de olumsuz etkilediğini belirtirken ,tedbir olarak işyerlerini erken kapatmak zorunda kaldıklarını bildirdiler .</sentence>
+<sentence num="5">İstanbul Konfeksiyon isimli mağazanın sahibi Mehmet Şirinbayrak ,''son olayların burada yaşayan herkesi tedirgin ettiğini ''söyledi .''</sentence>
+<sentence num="6">Protestocuların şu ana kadar Türklere ait işyeri ve otomobillere zarar vermediğini ''ifade eden Şirinbayrak ,''Biz şu ana kadar doğrundan etkilenmesek bile ,burada yaşayan Türkler olarak endişeliyiz ''dedi .</sentence>
+<sentence num="7">Bir otomobil garajında çalışan Ali Öksüz ve memur olarak görev yapan eşi Döndü Öksüz de ,AA'ya yaptıkları açıklamada ,''Endişeliyiz ,tedirginiz .</sentence>
+<sentence num="8">Olayların bu boyuta ulaşacağını tahmin etmiyorduk ''dediler .</sentence>
+<sentence num="9">TÜRK FRANSIZ İLİŞKİLERİ ''Dadaş ''isimli lokanta işleten Selahattin Palandöken ise ,''Olaylar devam edecek gibi görünüyor .</sentence>
+<sentence num="10">Burada yaşayanlar tedirgin .</sentence>
+<sentence num="11">Bu olayların Türk Fransız ilişkilerini de olumsuz etkilemesinden endişe duyuyoruz ''dedi .</sentence>
+<sentence num="12">Kasabadaki Türk Fransız Kültür Derneği'nin yöneticisi Memiş Büyüksoy de ,''Şu anda biz etkilenmedik ,bize dokunmuyorlar ,ama hiçbir zaman dokunmayacaklar anlamına gelmez .</sentence>
+<sentence num="13">Bu olaylar ,Türk Fransız ilişkilerine de zarar verebilir ''diye konuştu .</sentence>
+<sentence num="14">Bu arada Evreux bölgesinden milletvekili seçilen Meclis Başkanı Jean Louis Debre ,dün geceki olaylardan sonra bugün bölgede incelemelerde bulundu ve kasaba sakinleriyle görüştü .</sentence>
+<sentence num="15">Paris'in dışında diğer kentlere de sıçrayan ve 10 gecedir devam eden şiddet olaylarında dün gece ağır bilanço ortaya çıktı .</sentence>
+<sentence num="16">Polis ,dün gece 554'ü Paris bölgesi dışında olmak üzere toplam 1295 aracın ateşe verildiğini belirterek ,olaylar sırasında 312 kişinin gözaltına alındığını bildirdi .</sentence>
+<sentence num="17">Polis ,olayların başlamasından bu yana ilk kez Paris'in merkezinde de çok sayıda aracın yakıldığını kaydetti ,ancak kesin sayı vermedi .</sentence>
+<sentence num="18">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,giderek önce diğer banliyölere daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177761</id>
+<sentence num="0">2005 11 06 15 :47 :00 .Türkler Paris'ten tedirgin oldu .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris ve banliyölerinde meydana gelen şiddet olaylarının ,bu bölgelerde yaşayan Türk vatandaşlarını da tedirgin ettiği bildirildi .</sentence>
+<sentence num="2">Paris yakınlarındaki Evreux kasabasında dün gece meydana gelen olaylarla ilgili olarak AA muhabirinin yanıtlayan Türkler ,olayların daha da büyümesinden endişe ettiklerini bildirdiler .</sentence>
+<sentence num="3">Yaklaşık 1200 Türk vatandaşının yaşadığı Evreux kasabasında dün gece meydana gelen olaylar sırasında 59 otomobil ateşe verilirken ,polis karakolu ,itfaiye garajı ,bir eczane ve bir banka şubesine saldırılar düzenlenmişti .</sentence>
+<sentence num="4">Kasabada işyeri sahibi Türkler ,olayların işlerini de olumsuz etkilediğini belirtirken ,tedbir olarak işyerlerini erken kapatmak zorunda kaldıklarını bildirdiler .</sentence>
+<sentence num="5">İstanbul Konfeksiyon isimli mağazanın sahibi Mehmet Şirinbayrak ,''son olayların burada yaşayan herkesi tedirgin ettiğini ''söyledi .''</sentence>
+<sentence num="6">Protestocuların şu ana kadar Türklere ait işyeri ve otomobillere zarar vermediğini ''ifade eden Şirinbayrak ,''Biz şu ana kadar doğrundan etkilenmesek bile ,burada yaşayan Türkler olarak endişeliyiz ''dedi .</sentence>
+<sentence num="7">Bir otomobil garajında çalışan Ali Öksüz ve memur olarak görev yapan eşi Döndü Öksüz de ,AA'ya yaptıkları açıklamada ,''Endişeliyiz ,tedirginiz .</sentence>
+<sentence num="8">Olayların bu boyuta ulaşacağını tahmin etmiyorduk ''dediler .</sentence>
+<sentence num="9">TÜRK FRANSIZ İLİŞKİLERİ ''Dadaş ''isimli lokanta işleten Selahattin Palandöken ise ,''Olaylar devam edecek gibi görünüyor .</sentence>
+<sentence num="10">Burada yaşayanlar tedirgin .</sentence>
+<sentence num="11">Bu olayların Türk Fransız ilişkilerini de olumsuz etkilemesinden endişe duyuyoruz ''dedi .</sentence>
+<sentence num="12">Kasabadaki Türk Fransız Kültür Derneği'nin yöneticisi Memiş Büyüksoy de ,''Şu anda biz etkilenmedik ,bize dokunmuyorlar ,ama hiçbir zaman dokunmayacaklar anlamına gelmez .</sentence>
+<sentence num="13">Bu olaylar ,Türk Fransız ilişkilerine de zarar verebilir ''diye konuştu .</sentence>
+<sentence num="14">Bu arada Evreux bölgesinden milletvekili seçilen Meclis Başkanı Jean Louis Debre ,dün geceki olaylardan sonra bugün bölgede incelemelerde bulundu ve kasaba sakinleriyle görüştü .</sentence>
+<sentence num="15">Paris'in dışında diğer kentlere de sıçrayan ve 10 gecedir devam eden şiddet olaylarında dün gece ağır bilanço ortaya çıktı .</sentence>
+<sentence num="16">Polis ,dün gece 554'ü Paris bölgesi dışında olmak üzere toplam 1295 aracın ateşe verildiğini belirterek ,olaylar sırasında 312 kişinin gözaltına alındığını bildirdi .</sentence>
+<sentence num="17">Polis ,olayların başlamasından bu yana ilk kez Paris'in merkezinde de çok sayıda aracın yakıldığını kaydetti ,ancak kesin sayı vermedi .</sentence>
+<sentence num="18">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,giderek önce diğer banliyölere daha sonra diğer kentlere yayılmıştı .</sentence>
+<sentence num="19">aa .</sentence>
+</doc>
+<doc>
+<id>177765</id>
+<sentence num="0">2005 11 06 15 :55 :00 .Paris'de olay çıkan banliyölerdeki Türkler tedirgin ...</sentence>
+<sentence num="1">Fransa'nın başkenti Paris ve banliyölerinde meydana gelen şiddet olaylarının ,bu bölgelerde yaşayan Türk vatandaşlarını da tedirgin ettiği bildirildi .</sentence>
+<sentence num="2">Paris yakınlarındaki Evreux kasabasında dün gece meydana gelen olaylarla ilgili olarak AA muhabirinin yanıtlayan Türkler ,olayların daha da büyümesinden endişe ettiklerini bildirdiler .</sentence>
+<sentence num="3">Yaklaşık 1200 Türk vatandaşının yaşadığı Evreux kasabasında dün gece meydana gelen olaylar sırasında 59 otomobil ateşe verilirken ,polis karakolu ,itfaiye garajı ,bir eczane ve bir banka şubesine saldırılar düzenlenmişti .</sentence>
+<sentence num="4">Kasabada işyeri sahibi Türkler ,olayların işlerini de olumsuz etkilediğini belirtirken ,tedbir olarak işyerlerini erken kapatmak zorunda kaldıklarını bildirdiler .</sentence>
+<sentence num="5">İstanbul Konfeksiyon isimli mağazanın sahibi Mehmet Şirinbayrak ,''son olayların burada yaşayan herkesi tedirgin ettiğini ''söyledi .''</sentence>
+<sentence num="6">Protestocuların şu ana kadar Türklere ait işyeri ve otomobillere zarar vermediğini ''ifade eden Şirinbayrak ,''Biz şu ana kadar doğrundan etkilenmesek bile ,burada yaşayan Türkler olarak endişeliyiz ''dedi .</sentence>
+<sentence num="7">Bir otomobil garajında çalışan Ali Öksüz ve memur olarak görev yapan eşi Döndü Öksüz de ,AA'ya yaptıkları açıklamada ,''Endişeliyiz ,tedirginiz .</sentence>
+<sentence num="8">Olayların bu boyuta ulaşacağını tahmin etmiyorduk ''dediler .</sentence>
+<sentence num="9">TÜRK FRANSIZ İLİŞKİLERİ ''Dadaş ''isimli lokanta işleten Selahattin Palandöken ise ,''Olaylar devam edecek gibi görünüyor .</sentence>
+<sentence num="10">Burada yaşayanlar tedirgin .</sentence>
+<sentence num="11">Bu olayların Türk Fransız ilişkilerini de olumsuz etkilemesinden endişe duyuyoruz ''dedi .</sentence>
+<sentence num="12">Kasabadaki Türk Fransız Kültür Derneği'nin yöneticisi Memiş Büyüksoy de ,''Şu anda biz etkilenmedik ,bize dokunmuyorlar ,ama hiçbir zaman dokunmayacaklar anlamına gelmez .</sentence>
+<sentence num="13">Bu olaylar ,Türk Fransız ilişkilerine de zarar verebilir ''diye konuştu .</sentence>
+<sentence num="14">Bu arada Evreux bölgesinden milletvekili seçilen Meclis Başkanı Jean Louis Debre ,dün geceki olaylardan sonra bugün bölgede incelemelerde bulundu ve kasaba sakinleriyle görüştü .</sentence>
+<sentence num="15">Paris'in dışında diğer kentlere de sıçrayan ve 10 gecedir devam eden şiddet olaylarında dün gece ağır bilanço ortaya çıktı .</sentence>
+<sentence num="16">Polis ,dün gece 554'ü Paris bölgesi dışında olmak üzere toplam 1295 aracın ateşe verildiğini belirterek ,olaylar sırasında 312 kişinin gözaltına alındığını bildirdi .</sentence>
+<sentence num="17">Polis ,olayların başlamasından bu yana ilk kez Paris'in merkezinde de çok sayıda aracın yakıldığını kaydetti ,ancak kesin sayı vermedi .</sentence>
+<sentence num="18">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce perşembe günü iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,giderek önce diğer banliyölere daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177782</id>
+<sentence num="0">2005 11 06 16 :21 :00 .Fransız polisi molotofkokteyli üretilen bir yeri ortaya çıkardı .</sentence>
+<sentence num="1">Fransız polisi molotofkokteyli üretilen bir yeri ortaya çıkardı Fransa'nın başkenti Paris'te polis ,kentin güneyindeki bir banliyöde düzenlediği operasyonda ,molotofkokteyli üretilen bir yeri ortaya çıkardı .</sentence>
+<sentence num="2">Protesto gösterilerinde kullanılmak üzere hazırlandığı tahmin edilen yaklaşık 100 adet benzin ve fitil yerleştirilen şişeye el konulurken ,6 genç sorgulanmak üzere gözaltına alındı .</sentence>
+<sentence num="3">Fransız polisi ,bu sabah yaptığı açıklamada ,dün gece 554'ü Paris bölgesi dışında olmak üzere toplam 1295 aracın ateşe verildiğini ,olaylar sırasında 312 kişinin gözaltına alındığını bildirmişti .</sentence>
+<sentence num="4">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce iki gencin polisten kaçarken elektrik akımına kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177789</id>
+<sentence num="0">2005 11 06 16 :30 :00 .Paris'te polis molotofkokteyli yapılan bir yeri bastı ...</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'te polis ,kentin güneyindeki bir banliyöde düzenlediği operasyonda ,molotofkokteyli üretilen bir yeri ortaya çıkardı .</sentence>
+<sentence num="2">Protesto gösterilerinde kullanılmak üzere hazırlandığı tahmin edilen yaklaşık 100 adet benzin ve fitil yerleştirilen şişeye el konulurken ,6 genç sorgulanmak üzere gözaltına alındı .</sentence>
+<sentence num="3">Fransız polisi ,bu sabah yaptığı açıklamada ,dün gece 554'ü Paris bölgesi dışında olmak üzere toplam 1295 aracın ateşe verildiğini ,olaylar sırasında 312 kişinin gözaltına alındığını bildirmişti .</sentence>
+<sentence num="4">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce iki gencin polisten kaçarken elektrik akımına kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177821</id>
+<sentence num="0">2005 11 06 18 :14 :00 .Paris'te 10 günde 3 bin 500 araç yakıldı .</sentence>
+<sentence num="1">Paris'te 10 günde 3 bin 500 araç yakıldı Fransa'nın başkenti Paris'in banliyölerinde 10 gün önce başlayan ve ülke geneline yayılan protesto gösterilerinde yakılan araç sayısının 3500'ü bulduğu bildirildi .</sentence>
+<sentence num="2">Öfkeli gençlerin 27 Ekim'den bu yana sürdürdükleri eylemlerde en çok araç Paris'in sorunlu banliyölerinde yakıldı .</sentence>
+<sentence num="3">Olaylar sırasında yaklaşık 800 kişi sorgulanırken ,hemen mahkemeye çıkarılarak cezaevlerine gönderilenlerin sayısı 20'yi buldu .</sentence>
+<sentence num="4">Mahkemelerde suçlu bulunanlar ,iki ay ile bir yıl arasında değişen hapis cezalarına çarptırıldı .</sentence>
+<sentence num="5">Olaylarda araç yakma dışında ,okul ,spor salonu ,işyeri ,mağaza ,otobüs garajı ve depolara zarar verildi .</sentence>
+<sentence num="6">Olayların yatıştırılması için sadece Paris bölgesinde 2500 polis memuru görevlendirilirken ,son iki günde 7 polis helikopteri başkent üzerinde devriye gezdi .</sentence>
+<sentence num="7">Yetkililer ,maddi zarar hakkında henüz bir tespit yapmazken ,sigorta şirketleri en az 7 milyon avro tutarında zarar olduğunu tahmin ediyor .</sentence>
+<sentence num="8">Muhalefet partileri ,''olayları kışkırttığı ''gerekçesiyle İçişleri Bakanı Nicolas Sarkozy'nin istifasını isterken ,basın ,''merkez sağ hükümetin iktidarda en zor dönemini yaşadığı ''yorumunu yapıyor .</sentence>
+<sentence num="9">Bu arada ,Le Parisien gazetesinin yaptığı bir araştırma ,muhalefetin tepkisine rağmen ,halkın Sarkozy'ye desteğinin devam ettiğini ortaya koydu .</sentence>
+<sentence num="10">Araştırmaya göre ,Fransızların yüzde 57'si ,banliyölerde yaşayanların ise yüzde 56'sı Sarkozy'nin görevini yerine getirmesi hakkında olumlu düşünüyor .</sentence>
+<sentence num="11">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce iki gencin polisten kaçarken elektrik akımına kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+<sentence num="12">Bu arada ,Cumhurbaşkanı Jacques Chirac'ın ,bu akşam ilgili bakan ve yetkililerin katılımıyla bir güvenlik zirvesi yapacağı duyuruldu .</sentence>
+</doc>
+<doc>
+<id>177825</id>
+<sentence num="0">2005 11 06 18 :30 :00 .Fransa'da 7 milyon avro zarar var .</sentence>
+<sentence num="1">Öfkeli gençlerin 27 Ekim'den bu yana sürdürdükleri eylemlerde en çok araç Paris'in sorunlu banliyölerinde yakıldı .</sentence>
+<sentence num="2">Olaylar sırasında yaklaşık 800 kişi sorgulanırken ,hemen mahkemeye çıkarılarak cezaevlerine gönderilenlerin sayısı 20'yi buldu .</sentence>
+<sentence num="3">Mahkemelerde suçlu bulunanlar ,iki ay ile bir yıl arasında değişen hapis cezalarına çarptırıldı .</sentence>
+<sentence num="4">Olaylarda araç yakma dışında ,okul ,spor salonu ,işyeri ,mağaza ,otobüs garajı ve depolara zarar verildi .</sentence>
+<sentence num="5">Olayların yatıştırılması için sadece Paris bölgesinde 2500 polis memuru görevlendirilirken ,son iki günde 7 polis helikopteri başkent üzerinde devriye gezdi .</sentence>
+<sentence num="6">Yetkililer ,maddi zarar hakkında henüz bir tespit yapmazken ,sigorta şirketleri en az 7 milyon avro tutarında zarar olduğunu tahmin ediyor .</sentence>
+<sentence num="7">Muhalefet partileri ,''olayları kışkırttığı ''gerekçesiyle İçişleri Bakanı Nicolas Sarkozy'nin istifasını isterken ,basın ,''merkez sağ hükümetin iktidarda en zor dönemini yaşadığı ''yorumunu yapıyor .</sentence>
+<sentence num="8">Bu arada ,Le Parisien gazetesinin yaptığı bir araştırma ,muhalefetin tepkisine rağmen ,halkın Sarkozy'ye desteğinin devam ettiğini ortaya koydu .</sentence>
+<sentence num="9">Araştırmaya göre ,Fransızların yüzde 57'si ,banliyölerde yaşayanların ise yüzde 56'sı Sarkozy'nin görevini yerine getirmesi hakkında olumlu düşünüyor .</sentence>
+<sentence num="10">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce iki gencin polisten kaçarken elektrik akımına kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+<sentence num="11">Bu arada ,Cumhurbaşkanı Jacques Chirac'ın ,bu akşam ilgili bakan ve yetkililerin katılımıyla bir güvenlik zirvesi yapacağı duyuruldu .</sentence>
+</doc>
+<doc>
+<id>177871</id>
+<sentence num="0">2005 11 06 21 :46 :00 .Chirac :Kamu düzeninin tesisi ,mutlak öncelik .</sentence>
+<sentence num="1">Chirac :Kamu düzeninin tesisi ,mutlak öncelik Fransa Cumhurbaşkanı Jacques Chirac ,Paris'in banliyölerinde başlayan ve daha sonra ülke geneline yayılan şiddet olaylarıyla ilgili yaptığı açıklamada ,''güvenlik ve kamu düzeninin tesisinin mutlak öncelik ''olduğunu söyledi .</sentence>
+<sentence num="2">Chirac ,Başbakan Dominique de Villepin ve ilgili bakanların katılımıyla bu akşam olağanüstü güvenlik konseyi toplantısı yapıldı .</sentence>
+</doc>
+<doc>
+<id>177873</id>
+<sentence num="0">2005 11 06 22 :00 :00 .Fransa Cumhurbaşkanı Chirac'tan 'Kaos 'açıklaması .</sentence>
+<sentence num="1">Fransa Cumhurbaşkanı Jacques Chirac ,Paris'in banliyölerinde başlayan ve daha sonra ülke geneline yayılan şiddet olaylarıyla ilgili yaptığı açıklamada ,''güvenlik ve kamu düzeninin tesisinin mutlak öncelik ''olduğunu söyledi .</sentence>
+<sentence num="2">Chirac ,Başbakan Dominique de Villepin ve ilgili bakanların katılımıyla bu akşam olağanüstü güvenlik konseyi toplantısı yapıldı .</sentence>
+<sentence num="3">Yaklaşık 2 saat süren toplantıdan sonra basına açıklama yapan Chirac ,kamu düzeninin sağlanması gerektiğini belirtti ve ''Cumhuriyet ,şiddet ve korku yaymak isteyenlerden daha güçlü olduğunu göstermek zorunda ''dedi .</sentence>
+<sentence num="4">Chirac ,açıklamasında ayrıca ,''herkese saygı ve herkese aynı şans verilmesi gerektiği ''mesajını verdi .</sentence>
+<sentence num="5">Başbakan Dominique de Villepin de toplantıdan sonra yaptığı kısa açıklamada ,olayları yatıştırmak için ,''güvenlik güçlerinin güçlendirilmesinin gerekli olduğunu ''belirtti .</sentence>
+<sentence num="6">Paris banliyölerinde 10 gün önce başlayan ve ülke geneline yayılan protesto gösterilerinde toplam 3500 araç yakıldı .</sentence>
+<sentence num="7">Öfkeli gençlerin ,27 Ekim'den bu yana sürdürdüğü araç yakma eylemlerinin büyük bölümü ,Paris'in sorunlu banliyölerinde yapıldı .</sentence>
+<sentence num="8">Olaylar sırasında yaklaşık 800 kişi sorgulanırken ,hemen mahkemeye çıkartılarak cezaevine gönderilenlerin sayısı 20'yi buldu .</sentence>
+<sentence num="9">Mahkemelerde suçlu bulunanların ,2 ay ile 1 yıl arasında değişen hapis cezalarına çarptırıldılar .</sentence>
+<sentence num="10">Paris yakınlarındaki Clichy Sous Bois banliyösünde 10 gün önce iki gencin polisten kaçarken elektrik trafosunda akıma kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar giderek önce diğer banliyölere daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177902</id>
+<sentence num="0">2005 11 07 00 :11 :00 .Fransa'da Olaylar Devam Ediyor .</sentence>
+<sentence num="1">Fransa'da ,Afrika kökenli iki gencin polisten kaçarken elektrik akımına kapılarak ölmesi üzerine başlayan isyan büyüyor .</sentence>
+<sentence num="2">iç güvenliği görüşmek üzere kabinenin önde gelen bakanları ile biraraya gelen Cumhurbaşkanı Jacques Chirac ,güvenliğin sağlanmasının en büyük öncelikleri olduğunu söyledi .</sentence>
+<sentence num="3">Polis ,olayların Paris'in banliyölerinden merkeze ve diğer kentlere yayıldığını doğruladı .</sentence>
+<sentence num="4">Sarkozy Tavır Değiştirdi Hükümet şiddet olayları karşısında etkisiz kalmakla suçlanırken ,eylemcileri ayaktakımı olarak niteleyerek gerilimi tırmandıran İçişleri Bakanı Nicolas Sarkozy ,tavır değiştirdi .</sentence>
+<sentence num="5">Sarkozy ,isyanın altında yatan nedenlerin 30 yıldır gözardı edildiğini ve sorunun çözülmesinin zaman alacağını söyledi .</sentence>
+<sentence num="6">Öte yandan ,Brüksel'de de yabancı gençler ile polis arasında çatışma çıkması ,Fransa'daki olayların bölgeye yayılması endişesini gündeme getirdi .</sentence>
+</doc>
+<doc>
+<id>177903</id>
+<sentence num="0">2005 11 07 00 :12 :00 .Paris'teki çatışmalarda ikisi ağır 10 polis yaralandı .</sentence>
+<sentence num="1">Paris'teki çatışmalarda ikisi ağır 10 polis yaralandı Fransa'nın başkenti Paris'in banliyölerinde başlayan ve daha sonra ülke geneline yayılan şiddet olaylarının 11'inci gecesinde ,Paris'in güneyinde polis ve protestocular arasında çatışma çıktı .</sentence>
+<sentence num="2">İçişleri Bakanlığı ,başkentin güneyindeki Essonne bölgesinin Grigny kesiminde çıkan çatışmada ,ikisi ağır 10 polisin yaralandığını açıkladı .</sentence>
+<sentence num="3">LCI televizyonu da bir silahla ateş açıldığını duyurdu .</sentence>
+<sentence num="4">Fransa'da genç protestocular ,dün gece 1300 kadar aracı ,işyerlerini ,okulları ,postaneleri ve karakolları yakmıştı .</sentence>
+<sentence num="5">Paris yakınlarındaki Clichy Sous Bois banliyösünde 27 Ekim'de iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>177919</id>
+<sentence num="0">2005 11 07 03 :12 :00 .Fransa'daki olaylar Belçika'ya sıçrıyor ,Brüksel'de 5 araba yakıldı .</sentence>
+<sentence num="1">Fransa'daki olaylar Belçika'ya sıçrıyor ,Brüksel'de 5 araba yakıldı Belçika'nın başkenti Brüksel'de ,yabancıların yoğun bulunduğu Saint Gilles ve Anderlecht bölgelerinde dün gece 5 taşıt kundaklandı .</sentence>
+<sentence num="2">Başkentin Saint Gilles ve Anderlecht belediyelerinde Arap kökenli yabancılar çoğunlukta bulunuyor .</sentence>
+<sentence num="3">İtfaiye ve polis birimleri ,gece yarısına doğru meydana gelen olaylarda ''fazla hasar olmadığını ''belirtirken ,''olayların reklamını yapmamak için ''ayrıntılı bilgi vermeyeceklerini duyurdular .</sentence>
+<sentence num="4">Fransa'daki olayların Belçika'ya sıçraması endişesinde olan güvenlik birimleri ,çeşitli önlemler alırken ,gençlerin kışkırtılmasının engellenmesi için de çaba harcandığını bildiriyor .</sentence>
+</doc>
+<doc>
+<id>177931</id>
+<sentence num="0">2005 11 07 07 :08 :00 .Paris'te şiddet artıyor :10 polis yaralı .</sentence>
+<sentence num="1">İçişleri Bakanlığı ,başkentin güneyindeki Essonne bölgesinin Grigny kesiminde çıkan çatışmada ,ikisi ağır 10 polisin yaralandığını açıkladı .</sentence>
+<sentence num="2">LCI televizyonu da bir silahla ateş açıldığını duyurdu .</sentence>
+<sentence num="3">Fransa'da genç protestocular ,dün gece 1300 kadar aracı ,işyerlerini ,okulları ,postaneleri ve karakolları yakmıştı .</sentence>
+<sentence num="4">Paris yakınlarındaki Clichy Sous Bois banliyösünde 27 Ekim'de iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+<sentence num="5">aa .</sentence>
+</doc>
+<doc>
+<id>177963</id>
+<sentence num="0">2005 11 07 09 :00 :00 .Avustralya vatandaşlarına Fransa'ya gitmeyin uyarısında bulundu .</sentence>
+<sentence num="1">Avustralya hükümeti ,Paris'in banliyölerinde başlayan ve daha sonra ülke geneline yayılan şiddet olayları nedeniyle ,vatandaşlarına ,''Fransa'ya gitmeyin ''uyarısında bulundu .</sentence>
+<sentence num="2">Dışişleri ve Ticaret Bakanlığı'nın internet sitesinde yayımlanan seyahat uyarısında ,Fransa'nın birçok bölgesinde bina ve araçlara saldırıların düzenlendiğine dikkat çekildi .</sentence>
+<sentence num="3">Uyarıda ,''Avustralyalılar ,eğer tehlikeli bölgeleri ziyaret etmeleri gerekiyorsa ,medyayı ve yerel bilgi kaynaklarını izlemeli ,çok dikkatli olmalı ve gösterilerden uzak durmalı ''denildi .</sentence>
+</doc>
+<doc>
+<id>177966</id>
+<sentence num="0">2005 11 07 09 :02 :00 .Avustralya ,vatandaşlarına 'Fransa'ya gitmeyin 'uyarısında bulundu .</sentence>
+<sentence num="1">Avustralya ,vatandaşlarına 'Fransa'ya gitmeyin 'uyarısında bulundu Avustralya hükümeti ,Paris'in banliyölerinde başlayan ve daha sonra ülke geneline yayılan şiddet olayları nedeniyle ,vatandaşlarına ,''Fransa'ya gitmeyin ''uyarısında bulundu .</sentence>
+<sentence num="2">Dışişleri ve Ticaret Bakanlığı'nın internet sitesinde yayımlanan seyahat uyarısında ,Fransa'nın birçok bölgesinde bina ve araçlara saldırıların düzenlendiğine dikkat çekildi .</sentence>
+<sentence num="3">Uyarıda ,''Avustralyalılar ,eğer tehlikeli bölgeleri ziyaret etmeleri gerekiyorsa ,medyayı ve yerel bilgi kaynaklarını izlemeli ,çok dikkatli olmalı ve gösterilerden uzak durmalı ''denildi .</sentence>
+</doc>
+<doc>
+<id>178015</id>
+<sentence num="0">2005 11 07 10 :00 :00 .Fransa'da isyan sürüyor !..</sentence>
+<sentence num="1">10 polis daha yaralandı .</sentence>
+<sentence num="2">Saadet ORUÇ PARİS ,(DHA )FRANSA'nın başkenti Paris'in güneyinde bulunan Grigny'de toplanan ve giderek artan protestocu bir grup ,polis araçlarının camlarını kırdı .</sentence>
+<sentence num="3">Polis göstericileri dağıtmak için çok sayıda gözyaşartıcı bomba kullanırken ,2'si ağır 10 polis yaralandı .</sentence>
+<sentence num="4">İçişleri Bakanlığı'ndan yapılan açıklamaya göre ,Essonne Bölgesi'nin Grigny Kesimi'nde polisle göstericiler arasında çatışma çıktı .</sentence>
+<sentence num="5">Polisin çatışmalarda çok sayıda gözyaşartıcı bomba kullandığı açıklanırken ,2'si ağır 10 polisin yaralandığı belirtildi .</sentence>
+<sentence num="6">LCI Televizyonu çatışmalarda silah sesi de duyulduğunu bildirirken ,bu akşam meydana gelen olaylarla birlikte yaralı polis sayısı 34'e yükseldi .</sentence>
+<sentence num="7">Grigny'de bulunan polis merkezinde çıkan çatışmadan hemen sonra olay yerine giden DHA muhabiri ,polis araçlarının camlarının kırıldığını gördü .</sentence>
+<sentence num="8">Görgü tanıkları protestonunu küçük bir grupla başladığını ve giderek kalabalıklaştığını söyledi .</sentence>
+<sentence num="9">Artan kalabalığı dağıtmak için polisin gözyaşartıcı bomba kullandığını anlatan görgü tanıkları ,göstericilerin de taş ve sopalarla polise saldırdığını belirtti .</sentence>
+<sentence num="10">Öte yandan Fransa İçişleri Bakanı Nicolas Sarkozy ,üst düzey güvenlik yetkililerini Paris'in kuzey banliyölerinden Bobigny'de bulunan polis merkezinde gece saat 23 .00 sıralarında ziyaret etti .</sentence>
+<sentence num="11">Sarkozy'nin polis merkezine gelmesinden kısa bir süre önce Grigny'de çıkan olaylarda 2 polis memurunun yaralandığı bilgisi gazeteciler arasında dolaşırken ,yetkililer bu haberi doğrulamadı .</sentence>
+<sentence num="12">Yaralanan polisler olduğunu doğrulayan Sarkosy ise hastanede yatan polisleri ziyaret edeceğini söyledi .</sentence>
+<sentence num="13">Güvenlik güçlerini özverili çalışmalarından dolayı kutlayan Sarkozy ,?</sentence>
+<sentence num="14">Eğer biz güvenliği sağlayamazsak ,mafya ve çete düzeni hakim olur ''dedi .</sentence>
+<sentence num="15">Fransız halkının suçluların yakalanması konusunda güvenlik güçlerine yardımcı olduğunu kaydeden Sarkozy ,olaylara karışan ve kısa sürede yakalanan kişilerin adalete teslim edildiğini belirtti .</sentence>
+<sentence num="16">Sarkozy polis merkezinden ayrılırken bir gazetecinin yaralanan polisleri hatırlatarak ,?</sentence>
+<sentence num="17">Gerilla savaşı mı başlıyor ?''</sentence>
+<sentence num="18">şeklindeki sorusuna ise cevap vermedi .</sentence>
+<sentence num="19">Sarkozy'nin polis merkezinden ayrılmasından sonra DHA'nın sorularını yanıtlayan Polis Sendikası Genel Sekreteri Marc Gautron ,daha fazla gencin tutuklanması gerektiğini söyledi ,?</sentence>
+<sentence num="20">Ne kadar fazla göstericiyi yakalayıp adalete teslim edersek ,güvenliği sağlama imkanımız da o kadar çok olur ''diyen Gautron ,yaralanan ve durumu ağır olan 2 polisin hastanedeki tedavisinin devam ettiğini belirtti .</sentence>
+<sentence num="21">Gautron ,asayişin sağlanması için alınan tedbirlerin devam edeceğini sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>178046</id>
+<sentence num="0">2005 11 07 10 :35 :00 .Paris'teki Türkler tedirgin .</sentence>
+<sentence num="1">PARİS AA Fransa'daki şiddet olayları ,bu bölgelerde yaşayan Türk vatandaşlarını da tedirgin etti .</sentence>
+<sentence num="2">Yaklaşık 1200 Türk vatandaşının yaşadığı Paris yakınlarındaki Evreux kasabasında önceki gece meydana gelen olaylar sırasında 59 otomobil ateşe verilirken ,polis karakolu ,itfaiye garajı ,bir eczane ve bir banka şubesine saldırılar düzenlendi .</sentence>
+<sentence num="3">İşyeri sahibi Türkler ,olayların işlerini de olumsuz etkilediğini belirtirken ,tedbir olarak erken kapatmak zorunda kaldıklarını bildirdiler .</sentence>
+<sentence num="4">İstanbul Konfeksiyon'un sahibi Mehmet Şirinbayrak ,protestocuların şu ana kadar Türklere ait işyeri ve otomobillere zarar vermediğini belirterek ,Biz şu ana kadar doğrundan etkilenmesek bile ,burada yaşayan Türkler olarak endişeliyiz dedi .</sentence>
+<sentence num="5">Bir otomobil garajında çalışan Ali Öksüz ve memur olarak görev yapan eşi Döndü Öksüz de ,Endişeliyiz ,tedirginiz .</sentence>
+<sentence num="6">Olayların bu boyuta ulaşacağını tahmin etmiyorduk dediler .</sentence>
+<sentence num="7">Kasabadaki Türk Fransız Kültür Derneği'nin yöneticisi Memiş Büyüksoy ,Şu anda biz etkilenmedik ,bize dokunmuyorlar ,ama hiçbir zaman dokunmayacaklar anlamına gelmez .</sentence>
+<sentence num="8">Bu olaylar ,Türk Fransız ilişkilerine de zarar verebilir diye konuştu .</sentence>
+</doc>
+<doc>
+<id>178049</id>
+<sentence num="0">2005 11 07 10 :38 :00 .Sosyete Paris'te isyana yakalandı .</sentence>
+<sentence num="1">Fransa'daki olaylar Türkiye Seyahat Acentaları Birliği'ni (TURSAB )alarma geçirdi .</sentence>
+<sentence num="2">TURSAB ,bayram tatili için Paris'e giden bin 300 Türk için nöbet tutuyor .</sentence>
+<sentence num="3">Şehrin banliyölerindeki olayların Türk turistleri etkilemediğini belirten TURSAB Başkanı Başaran Ulusoy ,Olaylar başladığından beri nöbetteyiz .</sentence>
+<sentence num="4">Tek bir Türk turist 'sıkıntımız var 'dese bile hemen uçak kaldırıp oradan alır ,geliriz dedi .</sentence>
+<sentence num="5">Fransa'nın başkenti Paris'te polislerden kaçan iki Müslüman gencin ,elektrik akımına kapılarak hayatlarını kaybetmesinin ardından Afrikalı Müslüman gençlerin başlattığı isyan ,10'uncu gününde Paris'in dışına da taştı .</sentence>
+<sentence num="6">Eylemcilerin 'gerilla savaşı 'tehdidinin ,olayları daha da tırmandırmasından endişe edilirken ,gözler bayram tatilini geçirmek için Paris'i seçen Türklere çevrildi .</sentence>
+<sentence num="7">Ulusoy ,Paris'teki olayların kentin varoş bölgelerinde yaşandığını da hatırlatarak ,Şu ana kadar bölgeye giden vatandaşlarımızdan herhangi bir sorun yaşadıklarına dair hiçbir yardım talebi olmadı .</sentence>
+<sentence num="8">Paris'e seyahat edenlerin tur programı bugün (dün )sona erdi .</sentence>
+<sentence num="9">Hepsi ,bu (dün )akşama kadar Türkiye'ye dönmüş olacak diye konuştu .</sentence>
+<sentence num="10">Türkiye'nin yıllarca terörden çok çektiğini belirten Ulusoy ,Fransa şimdiye kadar terörü bizim anlattıklarımızdan dinliyordu .</sentence>
+<sentence num="11">Şimdi onlar da yaşıyor .</sentence>
+<sentence num="12">Terörün her türüne karşıyız .</sentence>
+<sentence num="13">Turizmi baltalıyor .</sentence>
+<sentence num="14">Paris'in varoşlarında yaşanan isyan ,ülkenin geneline yayılırsa Fransa turizmi bundan çok etkilenecektir dedi .</sentence>
+<sentence num="15">Ulusoy ,son bayram tatilinde Türkiye'den Paris'e yaklaşık bin 300 turistin gittiğini söyledi .</sentence>
+<sentence num="16">SEDA SAYAN DA ORADAYDI Bayram tatilini geçirmek için şıklar şehri Paris'e akın eden sanat ve sosyete dünyasının ünlü isimleri ise beklemedikleri bir isyan ile karşılaşmanın şaşkınlığını yaşadı .</sentence>
+<sentence num="17">Halen Paris'teki ünlüler arasında Seda Sayan ve sevgilisi Nihat Doğan ,Aysu Baceoğlu ve sevgilisi Hakan Tankut'un yanı sıra sosyeteden Osman Serra Merzeci ,Heves Ekinci ve Ayşegül Dinçkök de bulunuyor .</sentence>
+<sentence num="18">akşam .</sentence>
+</doc>
+<doc>
+<id>178070</id>
+<sentence num="0">2005 11 07 10 :53 :00 .Paris'te ülke genelinde dün gece 1408 otomobil yakıldı .</sentence>
+<sentence num="1">Paris'te ülke genelinde dün gece 1408 otomobil yakıldı Fransa'nın başkenti Paris'in banliyölerinde başlayan ve daha sonra ülke geneline yayılan şiddet olaylarının 11'inci gecesinde ,ülke genelinde 1408 araç yakıldı .</sentence>
+<sentence num="2">Olaylarla ilgili 395 kişi sorgulanırken ,yaralı polis sayısının 34'e çıktığı bildirildi .</sentence>
+<sentence num="3">Polis ,olayların en fazla başkentin güneyindeki Essonne bölgesinin Grigny kesiminde çıktığını belirtti ve buradaki çatışmada ,ikisi ağır 10 polisin yaralandığını açıkladı .</sentence>
+<sentence num="4">Banliyölerde ,araçların yakılması dışında ,bazı iş yerleri ,mağaza ve sosyal kültür merkezlerinin de zarar gördüğü belirtildi .</sentence>
+<sentence num="5">Paris dışında ,Strasbourg ,Nantes ,Rennes ,Saint Etienne ,Lens ,Toulosue kentlerinde de gençlerin araçları ateşe verdiği bildirildi .</sentence>
+<sentence num="6">Paris yakınlarındaki Clichy Sous Bois banliyösünde 27 ekimde iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>178074</id>
+<sentence num="0">2005 11 07 11 :00 :00 .Fransa'da dün gece de 1408 otomobil yakıldı .</sentence>
+<sentence num="1">Fransa'nın başkenti Paris'in banliyölerinde başlayan ve daha sonra ülke geneline yayılan şiddet olaylarının 11'inci gecesinde ,ülke genelinde 1408 araç yakıldı .</sentence>
+<sentence num="2">Olaylarla ilgili 395 kişi sorgulanırken ,yaralı polis sayısının 34'e çıktığı bildirildi .</sentence>
+<sentence num="3">Polis ,olayların en fazla başkentin güneyindeki Essonne bölgesinin Grigny kesiminde çıktığını belirtti ve buradaki çatışmada ,ikisi ağır 10 polisin yaralandığını açıkladı .</sentence>
+<sentence num="4">Banliyölerde ,araçların yakılması dışında ,bazı iş yerleri ,mağaza ve sosyal kültür merkezlerinin de zarar gördüğü belirtildi .</sentence>
+<sentence num="5">Paris dışında ,Strasbourg ,Nantes ,Rennes ,Saint Etienne ,Lens ,Toulosue kentlerinde de gençlerin araçları ateşe verdiği bildirildi .</sentence>
+<sentence num="6">Paris yakınlarındaki Clichy Sous Bois banliyösünde 27 ekimde iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>178103</id>
+<sentence num="0">2005 11 07 11 :18 :00 .Fransa'da gece 1408 otomobil yakıldı .</sentence>
+<sentence num="1">Olaylarla ilgili 395 kişi sorgulanırken ,yaralı polis sayısının 34'e çıktığı bildirildi .</sentence>
+<sentence num="2">Polis ,olayların en fazla başkentin güneyindeki Essonne bölgesinin Grigny kesiminde çıktığını belirtti ve buradaki çatışmada ,ikisi ağır 10 polisin yaralandığını açıkladı .</sentence>
+<sentence num="3">Banliyölerde ,araçların yakılması dışında ,bazı iş yerleri ,mağaza ve sosyal kültür merkezlerinin de zarar gördüğü belirtildi .</sentence>
+<sentence num="4">Paris dışında ,Strasbourg ,Nantes ,Rennes ,Saint Etienne ,Lens ,Toulosue kentlerinde de gençlerin araçları ateşe verdiği bildirildi .</sentence>
+<sentence num="5">Paris yakınlarındaki Clichy Sous Bois banliyösünde 27 ekimde iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>178105</id>
+<sentence num="0">2005 11 07 11 :20 :00 .Fransa'daki isyan Belçika'ya sıçrıyor .</sentence>
+<sentence num="1">Belçika'nın başkenti Brüksel'de ,yabancıların yoğun bulunduğu Saint Gilles ve Anderlecht bölgelerinde dün gece 5 taşıtın kundaklanmasının ardından kapsamlı güvenlik önlemleri alınıyor .</sentence>
+<sentence num="2">Brüksel'de yabancı gençler ile polis arasında ilk çatışma ,geçen Cumartesi günü meydana geldi ve 5 polis yaralandı .</sentence>
+<sentence num="3">Yabancıların yine yoğun olarak bulunduğu Schaerbeek Belediyesi'nde meydana gelen olayların ,bir polis devriyesinin ,park halindeki bir aracın üzerine ''idrar yapan ''bir kişiye müdahale etmesiyle başladığı bildirildi .</sentence>
+<sentence num="4">Polisler ,bu kişiden ''kirlettiği aracı temizlemesini ''istedi .</sentence>
+<sentence num="5">Yapılan açıklamada ,polisler ile bu kişi arasında ''ses tonunun yükseldiği ''ve çevredeki evlerden başka gençlerin de olay yerine geldiği bildirildi .</sentence>
+<sentence num="6">Gençlerin ,polislere ,''derhal oradan uzaklaşmamaları halinde Fransa'daki olayların Brüksel'de de meydana geleceği ''tehdidinde bulunduğu belirtildi .</sentence>
+<sentence num="7">Polis açıklamasında ,gerginlik ve olaylar sonunda 5 polis memurunun yaralandığı ,iki kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="8">Olay sırasında ''idrar yapan ''kişinin ,''elleri kelepçeli olduğu halde ''polisten kaçtığı ve bulunamadığı belirtiliyor .</sentence>
+<sentence num="9">Başkentte ,Arap kökenli yabancıların çoğunlukta olduğu Saint Gilles ve Anderlecht belediyelerinde ise dün gece 5 taşıt kundaklandı .</sentence>
+<sentence num="10">Anderlecht'te ,bazı sokaklarda ,onlarca gencin polis devriyelerini sıkıştırdığı belirtiliyor .</sentence>
+<sentence num="11">Polise ,bu durumlarda ,''tartışmadan ve kışkırtmaları yanıtsız bırakarak geri çekilme ''talimatı verildiği ifade ediliyor .</sentence>
+<sentence num="12">İtfaiye ve polis birimleri ,dün gece yarısına doğru meydana gelen olaylarda ''fazla hasar olmadığını ''belirtirken ,''olayların reklamını yapmamak için ''ayrıntılı bilgi vermeyeceklerini duyurdular .</sentence>
+<sentence num="13">Fransa olaylarının Belçika'ya sıçraması endişesinde olan güvenlik birimleri ,çeşitli önlemler alırken gençlerin kışkırtılmasının engellenmesi için de çaba harcandığını bildiriyor .</sentence>
+<sentence num="14">Güvenlik yetkilileri ,''tansiyonun yükseldiğini ''ancak olayların Fransa'dakilerle mukayese edilecek boyutta olmadığını belirterek ,basından ,''olay çıkaran gençleri cesaretlendirecek reklam yapmamasını ''istiyor .</sentence>
+<sentence num="15">FRANSA'DA İLK CAN KAYBI Fransa'nın başkenti Paris'in banliyölerinde başlayarak ülke geneline yayılan şiddet olaylarında ,Cuma günü saldırıya uğrayan bir kişinin bugün öldüğü bildirildi .</sentence>
+<sentence num="16">Ölen Jean Jacques Le Chenadec'ın ,İçişleri Bakanı Nicholas Sarkozy tarafından kabul edilen eşi ,Cuma akşamı bir kişinin saldırısına uğrayan kocasının bugün öldüğünü belirtti .</sentence>
+<sentence num="17">Le Chenadec ,Paris'in Stains banliyösünde ,bir komşusuyla evinin önünde sohbet ettiği sırada bir gencin saldırısına uğramıştı .</sentence>
+<sentence num="18">61 yaşındaki Le Chenadec'in ölümü ,Paris yakınlarındaki Clichy Sous Bois banliyösünde ,27 Ekim'de iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylardaki ilk can kaybı oldu .</sentence>
+<sentence num="19">ALMANYA'YA DA SIÇRADI Almanya'nın başkenti Berlin'in yabancıların yoğun olarak yaşadığı Moabit semtinde ,5 araç ateşe verildi .</sentence>
+<sentence num="20">Berlin polisinin açıklamasında ,gece 01 .00 ile 03 .</sentence>
+<sentence num="21">30 arasında 5 aracın ateşe verildiği ,bu araçlardan 2'sinin tamamen yandığı ,3 aracın da zarar gördüğü belirtildi .</sentence>
+<sentence num="22">Araçların bilinçli ateşe verildiğini bildiren polis ,olayların Fransa'daki olaylarla ilgili olup olmadığının araştırıldığını kaydetti .?</sentence>
+<sentence num="23">Fransa'da dün gece de 1408 otomobil yakıldı ?</sentence>
+<sentence num="24">Paris'teki Türkler tedirgin .</sentence>
+</doc>
+<doc>
+<id>178108</id>
+<sentence num="0">2005 11 07 11 :22 :00 .Paris'te yaşanan banliyö olayları sonucu Belçika'da gerginlik artıyor .</sentence>
+<sentence num="1">Paris'te yaşanan banliyö olayları sonucu Belçika'da gerginlik artıyor Belçika'nın başkenti Brüksel'de ,yabancıların yoğun bulunduğu Saint Gilles ve Anderlecht bölgelerinde dün gece 5 taşıtın kundaklanmasının ardından kapsamlı güvenlik önlemleri alınıyor .</sentence>
+<sentence num="2">Brüksel'de yabancı gençler ile polis arasında ilk çatışma ,geçen Cumartesi günü meydana geldi ve 5 polis yaralandı .</sentence>
+<sentence num="3">Yabancıların yine yoğun olarak bulunduğu Schaerbeek Belediyesi'nde meydana gelen olayların ,bir polis devriyesinin ,park halindeki bir aracın üzerine ''idrar yapan ''bir kişiye müdahale etmesiyle başladığı bildirildi .</sentence>
+<sentence num="4">Polisler ,bu kişiden ''kirlettiği aracı temizlemesini ''istedi .</sentence>
+<sentence num="5">Yapılan açıklamada ,polisler ile bu kişi arasında ''ses tonunun yükseldiği ''ve çevredeki evlerden başka gençlerin de olay yerine geldiği bildirildi .</sentence>
+<sentence num="6">Gençlerin ,polislere ,''derhal oradan uzaklaşmamaları halinde Fransa'daki olayların Brüksel'de de meydana geleceği ''tehdidinde bulunduğu belirtildi .</sentence>
+<sentence num="7">Polis açıklamasında ,gerginlik ve olaylar sonunda 5 polis memurunun yaralandığı ,iki kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="8">Olay sırasında ''idrar yapan ''kişinin ,''elleri kelepçeli olduğu halde ''polisten kaçtığı ve bulunamadığı belirtiliyor .</sentence>
+<sentence num="9">Başkentte ,Arap kökenli yabancıların çoğunlukta olduğu Saint Gilles ve Anderlecht belediyelerinde ise dün gece 5 taşıt kundaklandı .</sentence>
+<sentence num="10">Anderlecht'te ,bazı sokaklarda ,onlarca gencin polis devriyelerini sıkıştırdığı belirtiliyor .</sentence>
+<sentence num="11">Polise ,bu durumlarda ,''tartışmadan ve kışkırtmaları yanıtsız bırakarak geri çekilme ''talimatı verildiği ifade ediliyor .</sentence>
+<sentence num="12">İtfaiye ve polis birimleri ,dün gece yarısına doğru meydana gelen olaylarda ''fazla hasar olmadığını ''belirtirken ,''olayların reklamını yapmamak için ''ayrıntılı bilgi vermeyeceklerini duyurdular .</sentence>
+<sentence num="13">Fransa olaylarının Belçika'ya sıçraması endişesinde olan güvenlik birimleri ,çeşitli önlemler alırken gençlerin kışkırtılmasının engellenmesi için de çaba harcandığını bildiriyor .</sentence>
+<sentence num="14">Güvenlik yetkilileri ,''tansiyonun yükseldiğini ''ancak olayların Fransa'dakilerle mukayese edilecek boyutta olmadığını belirterek ,basından ,''olay çıkaran gençleri cesaretlendirecek reklam yapmamasını ''istiyor .</sentence>
+</doc>
+<doc>
+<id>178165</id>
+<sentence num="0">2005 11 07 12 :48 :00 .'Banliyölerdeki Türkler olayların yatışması için gayret sarfediyor '.'</sentence>
+<sentence num="1">Banliyölerdeki Türkler olayların yatışması için gayret sarfediyor 'Türkiye'nin Paris Başkonsolosu Aydın Sezgin ,başkentteki banliyölerde bulunan Türk derneklerin ,olayların yatıştırılması için çaba gösterdiğini söyledi .</sentence>
+<sentence num="2">Paris banliyölerinde başlayan daha sonra ülke geneline yayılan olaylarla ilgili soruları yanıtlayan sezgin ,''bu bölgelerde yaşayan Türkler ,olayların dışında kalıyor ve Türk dernekleri olayları yatıştırma için ellerinden geleni yapıyor ''dedi .</sentence>
+<sentence num="3">Türk dernekleriyle sürekli irtibat içinde olduğunu kaydeden Sezgin ,''Bu banliyölerde yaşayan Türkleri ve çıkan olayları tasvip etmiyor ve bir an önce durmasını arzu ediyoruz ''diye konuştu .</sentence>
+<sentence num="4">TÜRK DERNEKLERİ Olayların ilk patlak verdiği Clichy Sous Bois banliyösündeki Bosfor adlı Türk derneğinin Başkanı Cumhur Güneşli ,olayları yatıştırmak için ''arabulucu ''rolü üstlendiklerini söyledi .</sentence>
+<sentence num="5">Bölgedeki Türk dernekleriyle bir araya geldiklerini ifade eden Güneşli ,gençlerin ve ailelerin tahriklere kapılmaması için çalıştıklarını bildirdi .</sentence>
+<sentence num="6">Bölgede Türklerin ibaret ettiği camilere gittiklerini kaydeden Güneşli ,buradaki Türk imamların da ,olayların durması ve şiddete son verilmesi konusunda vaazlar verdiklerini söyledi .</sentence>
+<sentence num="7">Aynı zamanda Clichy Sous Bois belediye meclis üyesi olan Güneşli ,olayların çıkış nedeniniyse Fransa'nın son 30 yıldır izlediği yanlış asimilasyon politikalarına bağladı .</sentence>
+<sentence num="8">Paris ve banliyölerinde ,yaklaşık 40 bin Türk vatandaşı yaşıyor .</sentence>
+<sentence num="9">Paris yakınlarındaki Clichy Sous Bois banliyösünde ,27 ekimde iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>
+<doc>
+<id>178177</id>
+<sentence num="0">2005 11 07 13 :05 :00 .Fransa'daki Türk dernekleri olayların yatıştırılması için çalışıyor .</sentence>
+<sentence num="1">Türkiye'nin Paris Başkonsolosu Aydın Sezgin ,başkentteki banliyölerde bulunan Türk derneklerin ,olayların yatıştırılması için çaba gösterdiğini söyledi .</sentence>
+<sentence num="2">Paris banliyölerinde başlayan daha sonra ülke geneline yayılan olaylarla ilgili A .</sentence>
+<sentence num="3">A muhabirin sorularını yanıtlayan sezgin ,''bu bölgelerde yaşayan Türkler ,olayların dışında kalıyor ve Türk dernekleri olayları yatıştırma için ellerinden geleni yapıyor ''dedi .</sentence>
+<sentence num="4">Türk dernekleriyle sürekli irtibat içinde olduğunu kaydeden Sezgin ,''Bu banliyölerde yaşayan Türkleri ve çıkan olayları tasvip etmiyor ve bir an önce durmasını arzu ediyoruz ''diye konuştu .</sentence>
+<sentence num="5">TÜRK DERNEKLERİ Olayların ilk patlak verdiği Clichy Sous Bois banliyösündeki Bosfor adlı Türk derneğinin Başkanı Cumhur Güneşli ,olayları yatıştırmak için ''arabulucu ''rolü üstlendiklerini söyledi .</sentence>
+<sentence num="6">Bölgedeki Türk dernekleriyle bir araya geldiklerini ifade eden Güneşli ,gençlerin ve ailelerin tahriklere kapılmaması için çalıştıklarını bildirdi .</sentence>
+<sentence num="7">Bölgede Türklerin ibaret ettiği camilere gittiklerini kaydeden Güneşli ,buradaki Türk imamların da ,olayların durması ve şiddete son verilmesi konusunda vaazlar verdiklerini söyledi .</sentence>
+<sentence num="8">Aynı zamanda Clichy Sous Bois belediye meclis üyesi olan Güneşli ,olayların çıkış nedeniniyse Fransa'nın son 30 yıldır izlediği yanlış asimilasyon politikalarına bağladı .</sentence>
+<sentence num="9">Paris ve banliyölerinde ,yaklaşık 40 bin Türk vatandaşı yaşıyor .</sentence>
+<sentence num="10">Paris yakınlarındaki Clichy Sous Bois banliyösünde ,27 ekimde iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+<sentence num="11">ELELE DERNEĞİ :30 YILLIK GERGİNLİK PATLADI Fransa'da Türk göçmen işçilerin entegrasyon sorunları konusunda faaliyet gösteren Elele adlı derneğin Başkanı Gaye Petek ,son şiddet olaylarının ,30 yıllık sosyal gerginliğin patlaması olduğunu söyledi .</sentence>
+<sentence num="12">Konu ile ilgili A .</sentence>
+<sentence num="13">A muhabirinin sorularını yanıtlayan Petek ,Bu sorunlu banliyölerde yaşayanların yüzde 45'i işsiz ,buraları etnik getto olarak değil sosyal getto olarak görmek gerekir dedi .</sentence>
+<sentence num="14">Son olaylarla ilgili herkesin sorumluluğu olduğunu kaydeden Petek ,Buralardaki mimari ,sosyal ,iş ve eğitim politikalarının hepsi sorgulanmalı diye konuştu .</sentence>
+<sentence num="15">Olaylarda gözaltında alınanların büyük bir kısmının 18 yaşından küçük olduğunu kaydeden Petek ,Bu küçük çocuklar nasıl molotofkokteyli hazırlayabilir .</sentence>
+<sentence num="16">Bunların arkasında onları kimin tahrik ettiğine bakmak gerekir dedi .?</sentence>
+<sentence num="17">Berlin'de de araçlar ateşe verildi ?</sentence>
+<sentence num="18">Fransa'daki olaylarda ilk can kaybı .</sentence>
+</doc>
+<doc>
+<id>178179</id>
+<sentence num="0">2005 11 07 13 :08 :00 .Türk dernekleri isyanı yatışsın istiyor .</sentence>
+<sentence num="1">Paris banliyölerinde başlayan daha sonra ülke geneline yayılan olaylarla ilgili açıklama yapan Türkiye'nin Paris Başkonsolosu Aydın Sezgin ,Bu bölgelerde yaşayan Türkler ,olayların dışında kalıyor ve Türk dernekleri olayları yatıştırma için ellerinden geleni yapıyor dedi .</sentence>
+<sentence num="2">Türk dernekleriyle sürekli irtibat içinde olduğunu kaydeden Sezgin ,Bu banliyölerde yaşayan Türkleri ve çıkan olayları tasvip etmiyor ve bir an önce durmasını arzu ediyoruz diye konuştu .</sentence>
+<sentence num="3">TÜRK DERNEKLERİ Olayların ilk patlak verdiği Clichy Sous Bois banliyösündeki Bosfor adlı Türk derneğinin Başkanı Cumhur Güneşli ,olayları yatıştırmak için arabulucu rolü üstlendiklerini söyledi .</sentence>
+<sentence num="4">Bölgedeki Türk dernekleriyle bir araya geldiklerini ifade eden Güneşli ,gençlerin ve ailelerin tahriklere kapılmaması için çalıştıklarını bildirdi .</sentence>
+<sentence num="5">Bölgede Türklerin ibaret ettiği camilere gittiklerini kaydeden Güneşli ,buradaki Türk imamların da ,olayların durması ve şiddete son verilmesi konusunda vaazlar verdiklerini söyledi .</sentence>
+<sentence num="6">Aynı zamanda Clichy Sous Bois belediye meclis üyesi olan Güneşli ,olayların çıkış nedeniniyse Fransa'nın son 30 yıldır izlediği yanlış asimilasyon politikalarına bağladı .</sentence>
+<sentence num="7">Paris ve banliyölerinde ,yaklaşık 40 bin Türk vatandaşı yaşıyor .</sentence>
+<sentence num="8">Paris yakınlarındaki Clichy Sous Bois banliyösünde ,27 ekimde iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+<sentence num="9">aa .</sentence>
+</doc>
+<doc>
+<id>178212</id>
+<sentence num="0">2005 11 07 14 :00 :00 .Fransa'daki isyanda ilk can kaybı .</sentence>
+<sentence num="1">Almanya'nın başkenti Berlin'in yabancıların yoğun olarak yaşadığı Moabit semtinde ,5 araç ateşe verildi .</sentence>
+<sentence num="2">Berlin polisinin açıklamasında ,gece 01 .00 ile 03 .</sentence>
+<sentence num="3">30 arasında 5 aracın ateşe verildiği ,bu araçlardan 2'sinin tamamen yandığı ,3 aracın da zarar gördüğü belirtildi .</sentence>
+<sentence num="4">Araçların bilinçli ateşe verildiğini bildiren polis ,olayların Fransa'daki olaylarla ilgili olup olmadığının araştırıldığını kaydetti .</sentence>
+<sentence num="5">Belçika'nın başkenti Brüksel'de ,yabancıların yoğun bulunduğu Saint Gilles ve Anderlecht bölgelerinde dün gece 5 taşıtın kundaklanmasının ardından kapsamlı güvenlik önlemleri alınıyor .</sentence>
+<sentence num="6">ÖNCE BRÜKSEL'E SIÇRADI Brüksel'de yabancı gençler ile polis arasında ilk çatışma ,geçen Cumartesi günü meydana geldi ve 5 polis yaralandı .</sentence>
+<sentence num="7">Yabancıların yine yoğun olarak bulunduğu Schaerbeek Belediyesi'nde meydana gelen olayların ,bir polis devriyesinin ,park halindeki bir aracın üzerine idrar yapan bir kişiye müdahale etmesiyle başladığı bildirildi .</sentence>
+<sentence num="8">Polisler ,bu kişiden kirlettiği aracı temizlemesini istedi .</sentence>
+<sentence num="9">Yapılan açıklamada ,polisler ile bu kişi arasında ses tonunun yükseldiği ve çevredeki evlerden başka gençlerin de olay yerine geldiği bildirildi .</sentence>
+<sentence num="10">Gençlerin ,polislere ,derhal oradan uzaklaşmamaları halinde Fransa'daki olayların Brüksel'de de meydana geleceği tehdidinde bulunduğu belirtildi .</sentence>
+<sentence num="11">Polis açıklamasında ,gerginlik ve olaylar sonunda 5 polis memurunun yaralandığı ,iki kişinin gözaltına alındığı bildirildi .</sentence>
+<sentence num="12">Olay sırasında idrar yapan kişinin ,elleri kelepçeli olduğu halde polisten kaçtığı ve bulunamadığı belirtiliyor .</sentence>
+<sentence num="13">Başkentte ,Arap kökenli yabancıların çoğunlukta olduğu Saint Gilles ve Anderlecht belediyelerinde ise dün gece 5 taşıt kundaklandı .</sentence>
+<sentence num="14">Anderlecht'te ,bazı sokaklarda ,onlarca gencin polis devriyelerini sıkıştırdığı belirtiliyor .</sentence>
+<sentence num="15">Polise ,bu durumlarda ,tartışmadan ve kışkırtmaları yanıtsız bırakarak geri çekilme talimatı verildiği ifade ediliyor .</sentence>
+<sentence num="16">İtfaiye ve polis birimleri ,dün gece yarısına doğru meydana gelen olaylarda fazla hasar olmadığını belirtirken ,olayların reklamını yapmamak için ayrıntılı bilgi vermeyeceklerini duyurdular .</sentence>
+<sentence num="17">Fransa olaylarının Belçika'ya sıçraması endişesinde olan güvenlik birimleri ,çeşitli önlemler alırken gençlerin kışkırtılmasının engellenmesi için de çaba harcandığını bildiriyor .</sentence>
+<sentence num="18">Güvenlik yetkilileri ,tansiyonun yükseldiğini ancak olayların Fransa'dakilerle mukayese edilecek boyutta olmadığını belirterek ,basından ,olay çıkaran gençleri cesaretlendirecek reklam yapmamasını istiyor .</sentence>
+<sentence num="19">Polis isyancılarla çatıştı :34 yaralı Fransa'nın başkenti Paris'te dün gece polis ile isyancılar arasında çıkan çatışmalarda 34 polis yaralandı .</sentence>
+<sentence num="20">Polis olayların en fazla başkentin güneyindeki Essonne bölgesinin Grigny kesiminde çıktığını belirtti .</sentence>
+<sentence num="21">Bu bölgedeki çatışmada 2'si ağır ,10 polis yaralandı .</sentence>
+<sentence num="22">Kentin farklı bölgelerinde çıkan çatışmalarda ise 24 polis yaralandı ,186 kişi de gözaltına alındı .</sentence>
+<sentence num="23">Olaylarla ilgili olarak 395 kişi sorgulanıyor .</sentence>
+<sentence num="24">Geçtiğimiz perşembe günü başlayan isyanda şu ana kadar Fransa genelinde 3 bin 500 araç yakıldı .</sentence>
+<sentence num="25">Sadece dün gece ülke genelinde yakılan araç sayısı bin 408 .Banliyölerde araçların yakılması dışında ,bazı işyerleri ,mağaza ve kültür merkezleri de zarar gördü .</sentence>
+<sentence num="26">Paris dışında Strasbourg ,Nantes ,Rennes ,Saint Etienne ,Lens ,Toulosue kentlerinde de gençler araçları ateşe verdi .</sentence>
+<sentence num="27">Cumhurbaşkanı Jacques Chirac ,olaylar üzerine dün bakanlarla biraraya geldi .</sentence>
+<sentence num="28">Toplantı sonrası basına açıklama yapan Chirac ,''cumhuriyet ,şiddet ve korku yaymak isteyenlerden daha güçlü olduğunu göstermek zorunda ''dedi .</sentence>
+</doc>
+<doc>
+<id>178214</id>
+<sentence num="0">2005 11 07 14 :00 :00 .Berlin'de de araçlar ateşe verildi .</sentence>
+<sentence num="1">Almanya'nın başkenti Berlin'in yabancıların yoğun olarak yaşadığı Moabit semtinde ,5 araç ateşe verildi .</sentence>
+<sentence num="2">Berlin polisinin açıklamasında ,gece 01 .00 ile 03 .</sentence>
+<sentence num="3">30 arasında 5 aracın ateşe verildiği ,bu araçlardan 2'sinin tamamen yandığı ,3 aracın da zarar gördüğü belirtildi .</sentence>
+<sentence num="4">Araçların bilinçli ateşe verildiğini bildiren polis ,olayların Fransa'daki olaylarla ilgili olup olmadığının araştırıldığını kaydetti .</sentence>
+</doc>
+<doc>
+<id>178237</id>
+<sentence num="0">2005 11 07 14 :25 :00 .Paris'teki olaylar sırasında yaralanan bir kişi öldü .</sentence>
+<sentence num="1">Paris'teki olaylar sırasında yaralanan bir kişi öldü Fransa'nın başkenti Paris'in banliyölerinde başlayarak ülke geneline yayılan şiddet olaylarında ,Cuma günü saldırıya uğrayan bir kişinin bugün öldüğü bildirildi .</sentence>
+<sentence num="2">Ölen Jean Jacques Le Chenadec'ın ,İçişleri Bakanı Nicholas Sarkozy tarafından kabul edilen eşi ,Cuma akşamı bir kişinin saldırısına uğrayan kocasının bugün öldüğünü belirtti .</sentence>
+<sentence num="3">Le Chenadec ,Paris'in Stains banliyösünde ,bir komşusuyla evinin önünde sohbet ettiği sırada bir gencin saldırısına uğramıştı .</sentence>
+<sentence num="4">61 yaşındaki Le Chenadec'in ölümü ,Paris yakınlarındaki Clichy Sous Bois banliyösünde ,27 Ekim'de iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak ölmesi üzerine ,polisi protesto edenlerin çıkardığı olaylardaki ilk can kaybı oldu .</sentence>
+</doc>
+<doc>
+<id>178239</id>
+<sentence num="0">2005 11 07 14 :27 :00 .Fransız basını :Kamu otoritesi sarsıldı .</sentence>
+<sentence num="1">Manşetten verdiği haberine 'Devlet Sorgulanıyor 'başlığını atan Liberation gazetesi ,hükümetin olaylar karşısında etkisiz kaldığını yazdı .</sentence>
+<sentence num="2">Gazete ,banliyölerde yaşayanların ve sosyal kurumların devletin sorunlu bölgelere yardım yapmamasına ilişkin eleştirilerine geniş yer verdi .</sentence>
+<sentence num="3">Le Figaro gazetesi ise ,'Banliyölerde Endişe Verici Salgın 'başlığıyla verdiği haberde ,şiddetin diğer kentlere de sıçramasını masaya yatırdı .</sentence>
+<sentence num="4">Gazete ,'son olayların Fransa'nın entegrasyon politikasının iflası ettiğini gösterdiği 'yorumunda bulundu .</sentence>
+<sentence num="5">Le Parisien gazetesi de ,'Daha Ne Kadar Sürecek 'başlığıyla verdiği haberde ,sorgulananların yaşlarının 18'den küçük olduğuna dikkati çekti .</sentence>
+<sentence num="6">Paris yakınlarındaki Clichy Sous Bois banliyösünde 27 ekimde iki gencin polisten kaçarken girdikleri trafoda elektrik akımına kapılarak hayatını kaybetmesi üzerine ,polisi protesto edenlerin çıkardığı olaylar ,önce diğer banliyölere ,daha sonra diğer kentlere yayılmıştı .</sentence>
+</doc>

@@ -1,0 +1,947 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 11 11 00 :00 :00 .prof dr .kalaycı silahlı saldırı sonucu öldürüldü ..</sentence>
+<sentence num="1">prof dr .kalaycı silahlı saldırı sonucu öldürüldü istanbul üniversitesi (iü )istanbul tıp fakültesi öğretim üyesi prof .dr .göksel kalaycı ,iü istanbul tıp fakültesi hastanesi'nin otoparkında uğradığı silahlı saldırının ardından hayatını kaybetti .</sentence>
+<sentence num="2">alınan bilgiye göre ,bu sabah uğradığı saldırıda vücudunun çeşitli yerlerinden çok sayıda kurşun yarası alan prof .dr .kalaycı'nın ,iü istanbul tıp fakültesi hastanesi'nin acil cerrahi bölümüne kaldırıldığı ,müdahalelere rağmen hayatını kaybettiği bildirildi .</sentence>
+<sentence num="3">olay yerinden bir taksiyle kaçtıkları ifade edilen saldırgan ya da saldırganların yakalanması için polisin operasyonları sürüyor .</sentence>
+<sentence num="4">bu arada istanbul emniyet müdürü celalettin cerrah ,olay yerine geldi .</sentence>
+<sentence num="5">tabip odası başkanı gürsoy'un açıklaması öte yandan istanbul tabip odası başkanı prof .dr .gençay gürsoy ,aa muhabirine yaptığı açıklamada ,iü istanbul tıp fakültesi genel cerrahi anabilim dalı öğretim üyesi prof .dr .kalaycı'nın ,bu sabah hastane içindeki otoparkta aracından inerken bir hasta yakını tarafından silahlı saldırıya uğradığını söyledi .</sentence>
+<sentence num="6">prof .dr .gürsoy ,şunları kaydetti :''prof .dr .kalaycı'yı kaybettik .</sentence>
+<sentence num="7">bu sabah işe gelirken bir hasta sahibi tarafından silahlı saldırıya uğradı .</sentence>
+<sentence num="8">çok derin bir üzüntü içindeyiz .</sentence>
+<sentence num="9">yüzlerce meslek şehidine bir yenisini kattık ne yazık ki ...</sentence>
+<sentence num="10">üniversite için ,tıp mesleği için çok büyük bir kayıp .</sentence>
+<sentence num="11">benim sınıf arkadaşım olması dolayısıyla da ,özel olarak benim için çok çok büyük bir üzüntü .''.</sentence>
+</doc>
+<doc>
+<id>180542</id>
+<sentence num="0">2005 11 11 09 :50 :00 .İstanbul Tıp Fakültesi öğretim üyesi Prof .Kalaycı öldürüldü .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Öğretim Üyesi Prof .</sentence>
+<sentence num="2">Dr .Göksel Kalaycı ,hastane otoparkında uğradığı silahlı saldırı sonucu yaralandı .</sentence>
+<sentence num="3">Hastane yetkilileri ,olay yerine ulaşan Milliyet muhabirlerine Prof Kalaycı'nın kurturalamadığını açıkladı .</sentence>
+<sentence num="4">Saldırıda vücudunun çeşitli yerlerinden çok sayıda kurşun yarası alan Prof .</sentence>
+<sentence num="5">Dr .Kalaycı'nın ,İÜ İstanbul Tıp Fakültesi Hastanesi'nin acil cerrahi bölümüne kaldırıldığı ,müdahalelere rağmen hayatını kaybettiği bildirildi .</sentence>
+<sentence num="6">Alınan ilk bilgilere göre ,İÜ İstanbul Tıp Fakültesi Genel Cerrahi Anabilim Dalı Öğretim Üyesi Prof .</sentence>
+<sentence num="7">Dr .Kalaycı ,bu sabah İÜ İstanbul Tıp Fakültesi Hastanesi'nin içindeki asma otoparkta aracından inerken silahlı saldırıya uğradı .</sentence>
+<sentence num="8">Saldırgan Prof .Kalaycı'ya 7 el ateş ettikten sonra kaçtı .</sentence>
+<sentence num="9">Olay yerinden bir taksiyle kaçtıkları ifade edilen saldırgan ya da saldırganların yakalanması için polisin operasyonları sürüyor .</sentence>
+<sentence num="10">Polis yetkilileri ,şu ana kadar elde edilen bilgilere göre ,silahlı saldırının bir hasta yakını tarafından gerçekleştirildiğinin sanıldığını bildirdiler .</sentence>
+<sentence num="11">Bu arada olay sırasında ,Prof .</sentence>
+<sentence num="12">Dr .Kalaycı'nın indiği 34 DK 2367 plakalı özel otomobilin sağ camının kırıldığı görüldü .</sentence>
+<sentence num="13">Polisin olay yerindeki incelemesinde ,Prof .</sentence>
+<sentence num="14">Dr .Kalaycı'nın düşürdüğü tahmin edilen bir cep telefonu da bulundu .</sentence>
+<sentence num="15">Prof .</sentence>
+<sentence num="16">Dr .Kalaycı'nın cenazesi ,Adli Tıp Kurumu morguna kaldırıldı .?</sentence>
+<sentence num="17">Arkadaşları Prof .</sentence>
+<sentence num="18">Dr .Kalaycı'nın öldürülmesini kınadı CERRAH :SALDIRGANIN EŞGALİ BELİRLENDİ İstanbul Emniyet Müdürü Celalettin Cerrah ,Prof .</sentence>
+<sentence num="19">Dr .Necip Göksel Kalaycı'nın hayatını kaybettiği silahlı saldırı olayına ilişkin görgü tanıklarının ifadelerini değerlendirdiklerini bildirdi .</sentence>
+<sentence num="20">Cerrah ,Prof .</sentence>
+<sentence num="21">Dr .Necip Göksel Kalaycı'yı öldüren saldırganın eşkalinin belirlendiğini ve polisin çalışmalarının sürdüğünü bildirdi .</sentence>
+<sentence num="22">Olayın ardından İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Hastanesi'ne gelerek incelemede bulunan Cerrah ,konuyla ilgili basın mensuplarına açıklama yaptı .</sentence>
+<sentence num="23">Prof .</sentence>
+<sentence num="24">Dr .Kalaycı'nın bu sabah saat 08 .50 civarında hastaneye geldiğini ve otoparka otomobilini park ettiği sırada bir kişinin ateş ederek yaraladığını anlatan Cerrah ,Ameliyata alındı ,fakat ameliyatta kaybettik .</sentence>
+<sentence num="25">Olay yerinde arkadaşlarımız inceleme yapıyorlar .</sentence>
+<sentence num="26">9 milimetrelik kovanlar var .</sentence>
+<sentence num="27">Saldırganın eşkalini tespit ettik .</sentence>
+<sentence num="28">Arkadaşlar çalışmalarını sürdürüyor dedi .</sentence>
+<sentence num="29">Bir gazetecinin ,Bir hasta yakınının intikam amacıyla olayı gerçekleştirdiği söyleniyor .</sentence>
+<sentence num="30">Ne diyorsunuz ?</sentence>
+<sentence num="31">şeklindeki sorusu üzerine Cerrah ,Bu iddialar her zaman olabilir .</sentence>
+<sentence num="32">Faili yakalanmadıktan sonra herhangi bir aileyi suçlamak çok yanlış olur .</sentence>
+<sentence num="33">Lütfen bu konularda dikkatli davranalım .</sentence>
+<sentence num="34">Kısa zamanda sonuca varırız ve failleri de yakalarız diye konuştu .</sentence>
+<sentence num="35">KAMERA KAYITLARI İNCELENİYOR Cerrah ,Hastanenin kameralarının bozuk olduğu yönünde iddialar var .</sentence>
+<sentence num="36">Bu konuda ne diyorsunuz ?</sentence>
+<sentence num="37">sorusuna ise Kamera kayıtları alındı .</sentence>
+<sentence num="38">Arkadaşlarımız bunları da inceliyor .</sentence>
+<sentence num="39">Görüntüler ne durumda ,şu anda bilemiyorum .</sentence>
+<sentence num="40">Ben içeride görgü tanıklarının ifadelerine başvurdum .</sentence>
+<sentence num="41">Hasta yakınlarının ve eşinin bilgilerine başvurdum .</sentence>
+<sentence num="42">Konuları değerlendiriyoruz yanıtını verdi .</sentence>
+<sentence num="43">Otoparktaki otomobilde incelemede bulunan İstanbul Emniyet Müdürü Celalettin Cerrah ,daha sonra hastaneden ayrıldı .</sentence>
+<sentence num="44">Bu arada İÜ İstanbul Tıp Fakültesi Göğüs Kalp Damar Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="45">Dr .Necip Göksel Kalaycı'nın cenazesi Adli Tıp Kurumu'na götürülürken ,görüntü almak isteyen gazeteciler ile hastanenin özel güvenlik görevlileri arasında arbede yaşandı .</sentence>
+<sentence num="46">Bir muhabir ve bir kameramanın darbe aldığı olayın büyümesi ,polisin müdahalesiyle önlendi .</sentence>
+<sentence num="47">14 KASIM'DA TOPRAĞA VERİLECEK Kalaycı ,14 Kasım Pazartesi günü İstanbul'da toprağa verilecek .</sentence>
+<sentence num="48">Kalaycı'nın cenazesi ,daha sonra Ataköy 5 .Kısım Camii'nde öğleyin kılınacak namazın ardından Sarıyer Mezarlığı'nda defnedilecek .</sentence>
+<sentence num="49">PROF .</sentence>
+<sentence num="50">DR .GÖKSEL KALAYCI KİMDİR ?</sentence>
+<sentence num="51">Uğradığı silahlı saldırı sonucu hayatını kaybeden Necip Göksel Kalaycı ,15 Mayıs 1939 tarihinde İstanbul'da doğdu .</sentence>
+<sentence num="52">1957 yılında Kabataş Erkek Lisesi'ni bitiren Kalaycı ,aynı yıl İÜ İstanbul Tıp Fakültesi'ne girdi .</sentence>
+<sentence num="53">1963'te fakülteden mezun olan Kalaycı ,1963 1964 yılları arasında Denizli Çardak'ta Hükümet Tabipliği yaptı .</sentence>
+<sentence num="54">Kalaycı ,1967'de İstanbul Tıp Fakültesi 2 .Cerrahi Kliniği'nde asistan olarak göreve başladı .</sentence>
+<sentence num="55">Kalayı ,1972'de genel cerrahi uzmanı oldu .</sentence>
+<sentence num="56">1980 yılında Göğüs ve Kalp Damar Cerrahisi Anabilim Dalı'nda 2 .uzmanlığını alan Kalaycı ,aynı yıl doçent ,1989'da da profesör unvanı aldı .</sentence>
+<sentence num="57">1998 2000 yılları arasında Genel Cerrahi Anabilim Dalı Başkanı olarak görev yapan Prof .</sentence>
+<sentence num="58">Dr .Kalaycı ,2001 yılında kurulan Göğüs Cerrahisi Anabilim Dalı'nın başkanı oldu .</sentence>
+<sentence num="59">Evli ve bir çocuk babası Prof .</sentence>
+<sentence num="60">Dr .Kalaycı ,İngilizce ve Fransızca biliyordu .</sentence>
+<sentence num="61">TABİP ODASI BAŞKANI :TIP İÇİN BÜYÜK KAYIP Öte yandan İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="62">Dr .Gençay Gürsoy ,AA muhabirine yaptığı açıklamada ,İÜ İstanbul Tıp Fakültesi Genel Cerrahi Anabilim Dalı Öğretim Üyesi Prof .</sentence>
+<sentence num="63">Dr .Kalaycı'nın ,bu sabah hastane içindeki otoparkta aracından inerken bir hasta yakını tarafından silahlı saldırıya uğradığını söyledi .</sentence>
+<sentence num="64">Prof .</sentence>
+<sentence num="65">Dr .Gürsoy ,şunları kaydetti :Prof .</sentence>
+<sentence num="66">Dr .Kalaycı'yı kaybettik .</sentence>
+<sentence num="67">Bu sabah işe gelirken bir hasta sahibi tarafından silahlı saldırıya uğradı .</sentence>
+<sentence num="68">Çok derin bir üzüntü içindeyiz .</sentence>
+<sentence num="69">Yüzlerce meslek şehidine bir yenisini kattık ne yazık ki ...</sentence>
+<sentence num="70">Üniversite için ,tıp mesleği için çok büyük bir kayıp .</sentence>
+<sentence num="71">Benim sınıf arkadaşım olması dolayısıyla da ,özel olarak benim için çok çok büyük bir üzüntü ..</sentence>
+</doc>
+<doc>
+<id>180546</id>
+<sentence num="0">2005 11 11 09 :54 :00 .İ .Ü .'den Prof .</sentence>
+<sentence num="1">Dr .Kalaycı öldürüldü .</sentence>
+<sentence num="2">Olayın ardından bölge kordon altına alındı İstanbul Üniversitesi ,İstanbul Tıp Fakültesi Öğretim Üyesi Prof .</sentence>
+<sentence num="3">Dr .Göksel Kalaycı ,bu sabah uğradığı silahlı saldırı sonucu hayatını kaybetti .</sentence>
+<sentence num="4">Prof .</sentence>
+<sentence num="5">Dr .Kalaycı (66 ),İ .Ü .İstanbul Tıp Fakültesi Hastanesi'nin içindeki otoparkın giriş katında 34 DK 2367 plakalı aracından inerken silahlı saldırıya uğradı .</sentence>
+<sentence num="6">Polis yetkilileri ,şu ana kadar elde edilen bilgilere göre silahlı saldırının bir hasta yakını tarafından gerçekleştirildiğini tahmin ediyor .</sentence>
+<sentence num="7">İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="8">Dr .Gençay Gürsoy ,''Prof .</sentence>
+<sentence num="9">Dr .Kalaycı'yı kaybettik .</sentence>
+<sentence num="10">Bu sabah işe gelirken bir hasta sahibi tarafından silahlı saldırıya uğradı .</sentence>
+<sentence num="11">Çok derin bir üzüntü içindeyiz dedi .</sentence>
+<sentence num="12">Cerrah ,'intikam 'konusunu değerlendirdi İstanbul Emniyet Müdürü Celalettin Cerrah da ,olay yerine geldi .</sentence>
+<sentence num="13">Cerrah ,saldırganın eşkalinin belirlendiğini ve polisin çalışmalarının sürdüğünü bildirdi .</sentence>
+<sentence num="14">Cerrah ,olay yerinde arkadaşlarımız inceleme yapıyorlar .</sentence>
+<sentence num="15">Dokuz milimetrelik kovanlar var dedi .</sentence>
+<sentence num="16">SALDIRIYA TEPKİLER İ .Ü .İstanbul Tıp Fakültesi Dekanı Prof .</sentence>
+<sentence num="17">Dr .Mustafa Keçer :Prof .</sentence>
+<sentence num="18">Dr .Kalaycı ,yaşamı boyunca kendisini hastalarına ve ilme vakfetmiş bir bilimadamıdır .</sentence>
+<sentence num="19">Bu ilkel olayı nefret ve esefle kınıyorum .</sentence>
+<sentence num="20">Rizikosu sıfır olan hiçbir meslek grubu yok .</sentence>
+<sentence num="21">Sağlık sistemindeki her sıkıntıdan hekim sorumlu tutuluyor ,biz itham ediliyoruz ...</sentence>
+<sentence num="22">Hekimler gece gündüz çalışıyor .</sentence>
+<sentence num="23">Bazen hasta yakınları ,bizleri tanrı yerine koyuyor .</sentence>
+<sentence num="24">Biz tanrı değiliz .</sentence>
+<sentence num="25">Tanrının özelliğini yapmıyoruz .</sentence>
+<sentence num="26">Elimizden geldiğince hizmet yapıyoruz .''</sentence>
+<sentence num="27">Türk Tabipleri Birliği :''Sağlıktaki sorunları çözme becerisi gösteremeyen AKP hükümeti ,artan sorunların nedeni olarak başta hekimler olmak üzere ,sağlık çalışanlarını sürekli suçlamış ve onları hedef haline getirmiştir .</sentence>
+<sentence num="28">Ülkede ekonomik ve toplumsal açıdan büyük sorunlar yaşayan toplum kesimleri ,gelecekten beklentilerini kaybetme noktasında ,gerilimlerini kendilerine hedef olarak gösterilen kurum ve kişilere yöneltmektedir .''</sentence>
+<sentence num="29">Türk Sağlık Sen Genel Başkanı Önder Kahveci :Sağlık kuruluşlarında gerekli önlemler bir an önce alınsın .</sentence>
+<sentence num="30">İnsan hayatı kurtarmak gibi kutsal bir görevi yerine getiren sağlık çalışanları ,görevlerini yaparken kendi hayatlarını kaybetmek ,darp edilmek gibi kaygılar taşımasın .''</sentence>
+<sentence num="31">İstanbul Üniversitesi Senatosu :''Üniversitemiz öğretim üyesine yapılan bu alçakça saldırıyı ,İstanbul Üniversitesi öğretim üyeleri ve çalışanları adına şiddetle kınıyoruz .''</sentence>
+<sentence num="32">Cerrah ,saldırının intikam amaçlı olup olmadığı yönündeki bir soruya ''bu iddialar her zaman olabilir .</sentence>
+<sentence num="33">Faili yakalanmadıktan sonra herhangi bir aileyi suçlamak çok yanlış olur .</sentence>
+<sentence num="34">Lütfen bu konularda dikkatli davranalım .</sentence>
+<sentence num="35">Kısa zamanda sonuca varırız ve failleri de yakalarız ''yanıtını verdi .</sentence>
+<sentence num="36">Cerrah ,hastanenin kameralarının bozuk olduğu yönündeki iddialara ilişkin olarak da ,''görüntüler ne durumda ,şu anda bilemiyorum .</sentence>
+<sentence num="37">Ben içeride görgü tanıklarının ifadelerine başvurdum .</sentence>
+<sentence num="38">Hasta yakınlarının ve eşinin bilgilerine başvurdum .</sentence>
+<sentence num="39">Konuları değerlendiriyoruz ''ifadesini kullandı .</sentence>
+<sentence num="40">Olay sırasında Prof .</sentence>
+<sentence num="41">Dr .Kalaycı'nın indiği özel otomobilin sağ camının kırıldığı belirlendi .</sentence>
+<sentence num="42">Polisin incelemesinde ,Prof .</sentence>
+<sentence num="43">Dr .Kalaycı'nın düşürdüğü tahmin edilen bir cep telefonu da bulundu .</sentence>
+<sentence num="44">Kalaycı'yı vurduktan sonra olay yerinden bir taksiyle kaçtıkları ifade edilen saldırgan ya da saldırganların yakalanması için operasyonlar devam ediyor .</sentence>
+<sentence num="45">Bu arada ,görüntü almak isteyen gazeteciler ile hastanenin özel güvenlik görevlileri arasında arbede yaşandı .</sentence>
+<sentence num="46">Bir muhabir ve bir kameramanın darbe aldığı olayın büyümesi ,polisin müdahalesiyle önlendi .</sentence>
+<sentence num="47">Hastaneye kaldırıldı ,kurtarılamadı İ .Ü .İstanbul Tıp Fakültesi Genel Cerrahi Anabilim Dalı Öğretim Üyesi Prof .</sentence>
+<sentence num="48">Dr .Kalaycı ,bu sabah saat 08 .50 civarında otoparka aracını park ettiği sırada saldırıya uğradı .</sentence>
+<sentence num="49">Kalaycı vücudunun çeşitli yerlerinden çok sayıda kurşun yarası aldı .</sentence>
+<sentence num="50">Fakülte hastanesinin acil cerrahi bölümüne kaldırılan Kalaycı ,müdahalelere rağmen hayatını kaybetti .</sentence>
+<sentence num="51">Kalaycı'nın cenazesi otopsinin ardından ,Adli Tıp Kurumu morguna kaldırıldı .</sentence>
+<sentence num="52">Kalaycı ,14 kasım pazartesi günü Ataköy Beşinci Kısım Camii'nde öğleyin kılınacak namazın ardından Sarıyer Mezarlığı'nda defnedilecek .</sentence>
+<sentence num="53">Prof .</sentence>
+<sentence num="54">Dr .Kalaycı için pazartesi günü saat 09 .00'da Beyazıt'taki İ .Ü .Rektörlük Binası'nda tören düzenlenecek .</sentence>
+<sentence num="55">Prof .</sentence>
+<sentence num="56">Dr .Kalaycı kimdir ?</sentence>
+<sentence num="57">Necip Göksel Kalaycı ,15 Mayıs 1939 tarihinde İstanbul'da doğdu .</sentence>
+<sentence num="58">1957'de Kabataş Erkek Lisesi'ni bitirdi ,aynı yıl İ .Ü .İstanbul Tıp Fakültesi'ne girdi .</sentence>
+<sentence num="59">1963'te fakülteden mezun olan Kalaycı ,1963 1964 yılları arasında Denizli Çardak'ta Hükümet Tabipliği yaptı .</sentence>
+<sentence num="60">Kalaycı ,1967'de İstanbul Tıp Fakültesi İkinci Cerrahi Kliniği'nde asistan olarak göreve başladı .</sentence>
+<sentence num="61">Kalaycı ,1972'de genel cerrahi uzmanı oldu .</sentence>
+<sentence num="62">1980 yılında Göğüs ve Kalp Damar Cerrahisi Anabilim Dalı'nda 2 .uzmanlığını alan Kalaycı ,aynı yıl doçent ,1989'da da profesör unvanı aldı .</sentence>
+<sentence num="63">1998 2000 yılları arasında Genel Cerrahi Anabilim Dalı Başkanı olarak görev yapan Prof .</sentence>
+<sentence num="64">Dr .Kalaycı ,2001 yılında kurulan Göğüs Cerrahisi Anabilim Dalı'nın başkanı oldu .</sentence>
+<sentence num="65">Evli ve bir çocuk babası Prof .</sentence>
+<sentence num="66">Dr .Kalaycı ,İngilizce ve Fransızca biliyordu .</sentence>
+</doc>
+<doc>
+<id>180631</id>
+<sentence num="0">2005 11 11 11 :42 :00 .Tıp profesörüne suikast .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Öğretim Üyesi Prof .</sentence>
+<sentence num="2">Dr .Göksel Kalaycı ,İÜ İstanbul Tıp Fakültesi Hastanesi'nin otoparkında uğradığı silahlı saldırının ardından hayatını kaybetti .</sentence>
+<sentence num="3">Bu sabah uğradığı saldırıda vücudunun çeşitli yerlerinden çok sayıda kurşun yarası alan Prof .</sentence>
+<sentence num="4">Dr .Kalaycı'nın ,İÜ İstanbul Tıp Fakültesi Hastanesi'nin acil cerrahi bölümüne kaldırıldığı ,müdahalelere rağmen hayatını kaybettiği bildirildi .</sentence>
+<sentence num="5">Olay yerinden bir taksiyle kaçtıkları ifade edilen saldırgan ya da saldırganların yakalanması için polisin operasyonları sürüyor .</sentence>
+<sentence num="6">Bu arada İstanbul Emniyet Müdürü Celalettin Cerrah ,olay yerine geldi .</sentence>
+<sentence num="7">TABİP ODASI BAŞKANI GÜRSOY'UN AÇIKLAMASI Öte yandan İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="8">Dr .Gençay Gürsoy ,AA muhabirine yaptığı açıklamada ,İÜ İstanbul Tıp Fakültesi Genel Cerrahi Anabilim Dalı Öğretim Üyesi Prof .</sentence>
+<sentence num="9">Dr .Kalaycı'nın ,bu sabah hastane içindeki otoparkta aracından inerken bir hasta yakını tarafından silahlı saldırıya uğradığını söyledi .</sentence>
+<sentence num="10">Prof .</sentence>
+<sentence num="11">Dr .Gürsoy ,şunları kaydetti :''Prof .</sentence>
+<sentence num="12">Dr .Kalaycı'yı kaybettik .</sentence>
+<sentence num="13">Bu sabah işe gelirken bir hasta sahibi tarafından silahlı saldırıya uğradı .</sentence>
+<sentence num="14">Çok derin bir üzüntü içindeyiz .</sentence>
+<sentence num="15">Yüzlerce meslek şehidine bir yenisini kattık ne yazık ki ...</sentence>
+<sentence num="16">Üniversite için ,tıp mesleği için çok büyük bir kayıp .</sentence>
+<sentence num="17">Benim sınıf arkadaşım olması dolayısıyla da ,özel olarak benim için çok çok büyük bir üzüntü .''</sentence>
+<sentence num="18">HASTA YAKINI MI ÖLDÜRDÜ ?</sentence>
+<sentence num="19">İÜ İstanbul Tıp Fakültesi Göğüs Kalp Damar Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="20">Dr .Necip Göksel Kalaycı'nın cenazesi ,Adli Tıp Kurumu morguna kaldırıldı .</sentence>
+<sentence num="21">İÜ İstanbul Tıp Fakültesi Hastanesi'nin içindeki asma katlı otoparkın giriş katında 34 DK 2367 plakalı otomobilden inerken bir kişinin silahlı saldırısı sonucu ağır yaralanan ve daha sonra hayatını kaybeden Prof .</sentence>
+<sentence num="22">Dr .Kalaycı'nın ölümüne ilişkin polisin soruşturması sürüyor .</sentence>
+<sentence num="23">Polis yetkilileri ,şu ana kadar elde edilen bilgilere göre ,silahlı saldırının bir hasta yakını tarafından gerçekleştirildiğinin sanıldığını bildirdiler .</sentence>
+<sentence num="24">Yetkililer ,taksiyle olay yerinden uzaklaştığı ifade edilen silahlı saldırganın yakalanması için operasyonların sürdüğünü kaydettiler .</sentence>
+<sentence num="25">Bu arada olay sırasında ,Prof .</sentence>
+<sentence num="26">Dr .Kalaycı'nın indiği 34 DK 2367 plakalı özel otomobilin sağ camının kırıldığı görüldü .</sentence>
+<sentence num="27">Polisin olay yerindeki incelemesinde ,Prof .</sentence>
+<sentence num="28">Dr .Kalaycı'nın düşürdüğü tahmin edilen bir cep telefonu da bulundu .</sentence>
+<sentence num="29">Prof .</sentence>
+<sentence num="30">Dr .Kalaycı'nın cenazesi ,Adli Tıp Kurumu morguna kaldırıldı .</sentence>
+<sentence num="31">SALDIRGANIN EŞKALİ TESPİT EDİLDİ İstanbul Emniyet Müdürü Celalettin Cerrah ,Prof .</sentence>
+<sentence num="32">Dr .Necip Göksel Kalaycı'yı öldüren saldırganın eşkalinin belirlendiğini ve polisin çalışmalarının sürdüğünü bildirdi .</sentence>
+<sentence num="33">Olayın ardından İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Hastanesi'ne gelerek incelemede bulunan Cerrah ,konuyla ilgili basın mensuplarına açıklama yaptı .</sentence>
+<sentence num="34">Prof .</sentence>
+<sentence num="35">Dr .Kalaycı'nın bu sabah saat 08 .50 civarında hastaneye geldiğini ve otoparka otomobilini park ettiği sırada bir kişinin ateş ederek yaraladığını anlatan Cerrah ,''Ameliyata alındı ,fakat ameliyatta kaybettik .</sentence>
+<sentence num="36">Olay yerinde arkadaşlarımız inceleme yapıyorlar .</sentence>
+<sentence num="37">9 milimetrelik kovanlar var .</sentence>
+<sentence num="38">Saldırganın eşkalini tespit ettik .</sentence>
+<sentence num="39">Arkadaşlar çalışmalarını sürdürüyor ''dedi .</sentence>
+<sentence num="40">Bir gazetecinin ,''Bir hasta yakınının intikam amacıyla olayı gerçekleştirdiği söyleniyor .</sentence>
+<sentence num="41">Ne diyorsunuz ?''</sentence>
+<sentence num="42">şeklindeki sorusu üzerine Cerrah ,''Bu iddialar her zaman olabilir .</sentence>
+<sentence num="43">Faili yakalanmadıktan sonra herhangi bir aileyi suçlamak çok yanlış olur .</sentence>
+<sentence num="44">Lütfen bu konularda dikkatli davranalım .</sentence>
+<sentence num="45">Kısa zamanda sonuca varırız ve failleri de yakalarız ''diye konuştu .''</sentence>
+<sentence num="46">KAMERA KAYITLARI İNCELENİYOR ''Cerrah ,''Hastanenin kameralarının bozuk olduğu yönünde iddialar var .</sentence>
+<sentence num="47">Bu konuda ne diyorsunuz ?''</sentence>
+<sentence num="48">sorusuna ise ''Kamera kayıtları alındı .</sentence>
+<sentence num="49">Arkadaşlarımız bunları da inceliyor .</sentence>
+<sentence num="50">Görüntüler ne durumda ,şu anda bilemiyorum .</sentence>
+<sentence num="51">Ben içeride görgü tanıklarının ifadelerine başvurdum .</sentence>
+<sentence num="52">Hasta yakınlarının ve eşinin bilgilerine başvurdum .</sentence>
+<sentence num="53">Konuları değerlendiriyoruz ''yanıtını verdi .</sentence>
+<sentence num="54">Otoparktaki otomobilde incelemede bulunan İstanbul Emniyet Müdürü Celalettin Cerrah ,daha sonra hastaneden ayrıldı .</sentence>
+<sentence num="55">Bu arada İÜ İstanbul Tıp Fakültesi Göğüs Kalp Damar Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="56">Dr .Necip Göksel Kalaycı'nın cenazesi Adli Tıp Kurumu'na götürülürken ,görüntü almak isteyen gazeteciler ile hastanenin özel güvenlik görevlileri arasında arbede yaşandı .</sentence>
+<sentence num="57">Bir muhabir ve bir kameramanın darbe aldığı olayın büyümesi ,polisin müdahalesiyle önlendi .</sentence>
+<sentence num="58">aa .</sentence>
+</doc>
+<doc>
+<id>180778</id>
+<sentence num="0">2005 11 11 14 :55 :00 .Arkadaşları Prof .</sentence>
+<sentence num="1">Dr .Kalaycı'nın öldürülmesini kınadı .</sentence>
+<sentence num="2">İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Dekanı Prof .</sentence>
+<sentence num="3">Dr .Mustafa Keçer ,silahlı saldırı sonucu öldürülen fakültenin Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="4">Dr .Necip Göksel Kalaycı'nın (66 )yaşamını hastalarına ve ilme vakfetmiş bir bilimadamı olduğunu belirterek ,Bu ilkel olayı nefret ve esefle kınıyorum dedi .</sentence>
+<sentence num="5">Prof .</sentence>
+<sentence num="6">Dr .Keçer ,İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="7">Dr .Gençay Gürsoy ve Üniversite Öğretim Üyeleri Derneği'nden Prof .</sentence>
+<sentence num="8">Dr .Süleyman Özyalçın ile birlikte 14 Mart Amfisi'nde basın toplantısı düzenledi .</sentence>
+<sentence num="9">Toplantıda konuşan Prof .</sentence>
+<sentence num="10">Dr .Keçer ,bugün bu salonda fakültenin genel kurulunun toplanacağını dile getirerek ,Sabah bunun için geliyorduk ki bütün yaşamını fakültesine adamış bir ağabeyimizin vurulduğunu öğrendik dedi .</sentence>
+<sentence num="11">Prof .</sentence>
+<sentence num="12">Dr .Kalaycı ,yaşamı boyunca kendisini hastalarına ve ilme vakfetmiş bir bilimadamıdır diyen Prof .</sentence>
+<sentence num="13">Dr .Keçer ,Prof .</sentence>
+<sentence num="14">Dr .Kalaycı'yı kaybetmenin derin üzüntüsü içinde bulunduklarını söyledi .</sentence>
+<sentence num="15">Bu ilkel olayı nefret ve esefle kınıyorum diyen Prof .</sentence>
+<sentence num="16">Dr .Keçer ,bu koşullarda hekimlik hizmeti verilemeyeceğini kamuoyuna duyurmak istediklerini bildirdi .</sentence>
+<sentence num="17">Dekan Prof .</sentence>
+<sentence num="18">Dr .Keçer ,her hekimin hasta sahibi kadar olmasa bile hastaların üzüntüsünü çektiğini vurgulayarak ,Rizikosu sıfır olan hiçbir meslek grubu yok .</sentence>
+<sentence num="19">Sağlık sistemindeki her sıkıntıdan hekim sorumlu tutuluyor ,biz itham ediliyoruz diye konuştu .</sentence>
+<sentence num="20">Basın mensuplarından da haberlerinde hedef meslek grubu olarak hekimleri göstermemelerini isteyen Prof .</sentence>
+<sentence num="21">Dr .Keçer ,Bizlerin kalbi ,gönlü ,yüreği hastalar için çarpıyor dedi .</sentence>
+<sentence num="22">PROF .</sentence>
+<sentence num="23">DR .GÜRSOY'UN KONUŞMASI Prof .</sentence>
+<sentence num="24">Dr .Gürsoy da 40 yıllık dostunu kaybettiğini ifade ederek ,üzüntüsünün sonsuz olduğunu söyledi .</sentence>
+<sentence num="25">Sağlık sorunlarıyla karşılaşıldığı her durumda yüzler hekimlere çevriliyor diyen Prof .</sentence>
+<sentence num="26">Dr .Gürsoy ,sağlık sistemine yönelik kamuoyundaki bazı kesimlerde biriken bir öfke bulunduğunu ,bunun da hekimlere yansıdığını kaydetti .</sentence>
+<sentence num="27">Prof .</sentence>
+<sentence num="28">Dr .Gençay Gürsoy ,saldırıya uğrayan hekimlerin yüzde 90 95'inin saldırganının hasta yakınları olduğunu ifade ederek ,Prof .</sentence>
+<sentence num="29">Dr .Kalaycı'nın ölümüne neden olan olayın nedeninin ise henüz bilinmediğini bildirdi .</sentence>
+<sentence num="30">Sabah işine gelen Prof .</sentence>
+<sentence num="31">Dr .Kalaycı'nın daha arabasından inemeden 10 kurşunla öldürüldüğünü anlatan Prof .</sentence>
+<sentence num="32">Dr .Gürsoy ,bunun nasıl bir kinin eseri olduğunun tasavvur edilebileceğini dile getirdi .</sentence>
+<sentence num="33">Prof .</sentence>
+<sentence num="34">Dr .Süleyman Özyalçın da bugün yaşananın öğretim üyelerine yönelik son saldırı olmasını dilediklerini söyledi .</sentence>
+<sentence num="35">SORULARI YANITLADILAR Basın mensuplarının Saldırganın hasta yakını olduğu haberleri doğru mu ?</sentence>
+<sentence num="36">yönündeki soruları üzerine İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="37">Dr .Gürsoy ,bu olayın faillerinin henüz bilinmediğini ,ancak bu tür saldırıların yüzde 90 95'inde saldırganın hasta yakını olduğunu vurguladı .</sentence>
+<sentence num="38">Bir tehdit alıyor muydu ?</sentence>
+<sentence num="39">sorusu üzerine de Prof .</sentence>
+<sentence num="40">Dr .Mustafa Keçer ,Bize yansıyan idari bir konu yok dedi .</sentence>
+<sentence num="41">Hekimlerin her türlü sağlık sorunundan sorumlu tutulduğuna işaret eden Prof .</sentence>
+<sentence num="42">Dr .Keçer ,Hekimler gece gündüz çalışıyor .</sentence>
+<sentence num="43">Bazen hasta yakınları ,bizleri Tanrı yerine koyuyor .</sentence>
+<sentence num="44">Biz Tanrı değiliz .</sentence>
+<sentence num="45">Tanrının özelliğini yapmıyoruz .</sentence>
+<sentence num="46">Elimizden geldiğince hizmet yapıyoruz dedi .</sentence>
+<sentence num="47">Prof .</sentence>
+<sentence num="48">Dr .Keçer ,çalışmayan ,üretmeyen hekimlerin de hiçbir tehdit ,sıkıntı yaşamayacağını kaydetti .</sentence>
+<sentence num="49">Prof .</sentence>
+<sentence num="50">Dr .Mustafa Keçer ,Prof .</sentence>
+<sentence num="51">Dr .Kalaycı'nın cenazesinin ,adli olay olması gerekçesiyle hafta başında toprağa verilebileceğini sözlerine ekledi .</sentence>
+<sentence num="52">Öte yandan İstanbul Üniversitesi Senatosu'ndan ,Kalaycı'nın silahlı saldırı sonucu hayatını kaybetmesine ilişkin yapılan yazılı açıklamada ,Üniversitemiz öğretim üyesine yapılan bu alçakça saldırıyı ,İstanbul Üniversitesi öğretim üyeleri ve çalışanları adına şiddetle kınıyoruz denildi .</sentence>
+</doc>
+<doc>
+<id>180849</id>
+<sentence num="0">2005 11 11 16 :10 :00 .Prof .Dr .Kalaycı ,14 Kasım'da toprağa verilecek .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı ,14 Kasım'da toprağa verilecek İÜ İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı ,14 Kasım Pazartesi günü İstanbul'da toprağa verilecek .</sentence>
+<sentence num="2">İÜ İstanbul Tıp Fakültesi Hastanesi otoparkında uğradığı silahlı saldırı sonucu hayatını kaybeden Prof .Dr .Kalaycı için Pazartesi günü saat 09 .00'da Beyazıt'taki İÜ Rektörlük Binası'nda tören düzenlenecek .</sentence>
+<sentence num="3">Kalaycı'nın cenazesi ,daha sonra Ataköy 5 .Kısım Camii'nde öğleyin kılınacak namazın ardından Sarıyer Mezarlığı'nda defnedilecek .</sentence>
+</doc>
+<doc>
+<id>181108</id>
+<sentence num="0">2005 11 12 09 :08 :00 .Prof .Kalaycı'ya Silahlı Saldırı .</sentence>
+<sentence num="1">İstanbul Üniversitesi Tıp Fakültesi Öğretim Üyesi Profesör Necip Göksel Kalaycı ,cuma sabahı (11 .</sentence>
+<sentence num="2">11 .2005 )İstanbul'da uğradığı silahlı saldırıda hayatını kaybetti .</sentence>
+<sentence num="3">Polis ,saldırının hasta yakınları tarafından yapıldığı ihtimali üzerinde duruyor .</sentence>
+<sentence num="4">İstanbul Üniversitesi Tıp Fakültesi Gögüs Cerrahi Anabilim Dalı Başkanı Profesör Göksel Kalaycı ,hastanenin otoparkında silahlı saldırıya uğradı .</sentence>
+<sentence num="5">İddialar ,Göksel Kalaycı'nın bir hasta yakını tarafından öldürüldüğü yolunda .</sentence>
+<sentence num="6">Bu konuda bir açıklama yapan İstanbul Emniyet Müdürü Celalettin Cerrah ,İddialar olabilir ama herhangi bir aileyi suçlamak yanlış olur .</sentence>
+<sentence num="7">Dikkatli davranmalı .</sentence>
+<sentence num="8">dedi .</sentence>
+<sentence num="9">Saldırıya Meslektaş Tepkisi Saldırıya Göksel Kalaycı'nın meslektaşları da tepkili .</sentence>
+<sentence num="10">İstanbul Üniversitesi Tıp Fakültesi Dekanı Prof .Dr .Mustafa Geçer ,Bu ilkel saldırıyı nefretle kınıyor .</sentence>
+<sentence num="11">Bu koşullarda hekimlik hizmetlerinin verilemeyebileceğini kamuoyuna üzüntüyle bildirmek istiyoruz .</sentence>
+<sentence num="12">diye konuştu .</sentence>
+<sentence num="13">Tabipler Odası Başkanı Prof .Dr .Gencay Gürsoy da yapıtığı açıklamada ,Bugüne kadar hekimlere yapılan saldırıların %95'i hasta sahipleri tarafından yapılmıştır .</sentence>
+<sentence num="14">dedi .</sentence>
+<sentence num="15">Saldırıya tepki göseten hasta yakınlarından ise Tıpta bizi yaşatan insanların öldürülmesi çok yanlış .</sentence>
+<sentence num="16">diye konuştular .</sentence>
+<sentence num="17">Bu arada güvenlik görevlilerine rağmen böyle bir saldırının olması ve saldırganın yakalanamaması tepki doğurdu .</sentence>
+<sentence num="18">Güvenlik görevlileri habercilere saldırırken arbedeyi polis önledi .</sentence>
+<sentence num="19">Polis saldırganın eşgalini de belirledi .</sentence>
+</doc>
+<doc>
+<id>181218</id>
+<sentence num="0">2005 11 12 11 :54 :00 .Prof .Kalaycı cinayeti ile ilgili 3 kişinin ifadesini alındı .</sentence>
+<sentence num="1">Prof .Kalaycı cinayeti ile ilgili 3 kişinin ifadesini alındı İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın silahlı saldırı sonucu öldürülmesine ilişkin soruşturmayı sürdüren polis ,şu ana kadar 3 kişinin ifadesine başvurdu .</sentence>
+<sentence num="2">Bbazı görgü tanıklarının ''olayın ardından saldırganın bir taksiyle kaçtığı ''yolunda bilgi vermesi ve plaka bildirmesi üzerine polis bu yönde çalışma başlattı .</sentence>
+<sentence num="3">Asayiş Şube Müdürlüğü Cinayet Büro Amirliği görevlileri ,söz konusu taksinin sürücüsünü gözaltına alarak ifadesine başvurdu .''</sentence>
+<sentence num="4">Gün boyunca İÜ İstanbul Tıp Fakültesi Hastanesi'ne gitmediğini ,o bölgeden de geçmediğini ''söyleyen taksicinin serbest bırakıldığı bildirildi .</sentence>
+<sentence num="5">Polis yetkilileri ,olay yerinde bulunan 2 kişinin de ifadesine başvurulduğunu ve ardından serbest bırakıldıklarını söylediler .</sentence>
+<sentence num="6">Yetkililer ,kayıtları incelenen hastane kameralarında ise silahlı saldırıya ilişkin görüntü elde edilemediğini belirterek ,olayla ilgili soruşturmanın sürdüğünü kaydettiler .</sentence>
+</doc>
+<doc>
+<id>181219</id>
+<sentence num="0">2005 11 12 11 :55 :00 .Hastane kameralarında Prof Kalaycı cinayetinin görüntüleri elde edilemedi .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın silahlı saldırı sonucu öldürülmesine ilişkin soruşturmayı sürdüren polis ,şu ana kadar 3 kişinin ifadesine başvurdu .</sentence>
+<sentence num="2">AA muhabirinin aldığı bilgiye göre ,bazı görgü tanıklarının olayın ardından saldırganın bir taksiyle kaçtığı yolunda bilgi vermesi ve plaka bildirmesi üzerine polis bu yönde çalışma başlattı .</sentence>
+<sentence num="3">Asayiş Şube Müdürlüğü Cinayet Büro Amirliği görevlileri ,söz konusu taksinin sürücüsünü gözaltına alarak ifadesine başvurdu .</sentence>
+<sentence num="4">Gün boyunca İÜ İstanbul Tıp Fakültesi Hastanesi'ne gitmediğini ,o bölgeden de geçmediğini söyleyen taksicinin serbest bırakıldığı bildirildi .</sentence>
+<sentence num="5">Polis yetkilileri ,olay yerinde bulunan 2 kişinin de ifadesine başvurulduğunu ve ardından serbest bırakıldıklarını söylediler .</sentence>
+<sentence num="6">Yetkililer ,kayıtları incelenen hastane kameralarında ise silahlı saldırıya ilişkin görüntü elde edilemediğini belirterek ,olayla ilgili soruşturmanın sürdüğünü kaydettiler .</sentence>
+</doc>
+<doc>
+<id>181245</id>
+<sentence num="0">2005 11 12 12 :58 :00 .Kalaycı cinayeti kameraya yansımadı .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı 66 yaşındaydı İstanbul Üniversitesi'nden Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesiyle ilgili soruşturmada hastane kameralarından görüntü elde edilemedi .</sentence>
+<sentence num="2">İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Kalaycı'nın dün uğradığı silahlı saldırı sonucu öldürülmesini araştıran polis ,şu ana kadar üç kişinin ifadesine başvurdu .</sentence>
+<sentence num="3">Bazı görgü tanıklarının 'olayın ardından saldırganın bir taksiyle kaçtığı 'yönündeki ifadesi ve plaka bildirmesi üzerine Asayiş Şube Müdürlüğü Cinayet Büro Amirliği görevlileri ,söz konusu taksinin sürücüsünü gözaltına alarak ifadesine başvurdu .</sentence>
+<sentence num="4">Taksici ,'gün boyunca İ .Ü .İstanbul Tıp Fakültesi Hastanesi'ne gitmediğini ,o bölgeden de geçmediğini 'söyledi .</sentence>
+<sentence num="5">Bunun üzerine taksiciyi serbest bırakan polis ,olay yerinde bulunan iki kişinin daha ifadesine başvurdu .</sentence>
+<sentence num="6">Hastane kameralarında ise silahlı saldırıya ilişkin görüntü elde edilemedi .</sentence>
+<sentence num="7">Olayla ilgili soruşturma sürüyor .</sentence>
+<sentence num="8">Hasta yakını mı öldürdü ?</sentence>
+<sentence num="9">Prof .Dr .Kalaycı ,dün sabah saat 08 .50 civarında İstanbul Tıp Fakültesi Hastanesi'nin içindeki otoparkın giriş katında 34 DK 2367 plakalı aracından inerken silahlı saldırıya uğradı .</sentence>
+<sentence num="10">Kalaycı vücudunun çeşitli yerlerinden çok sayıda kurşun yarası aldı .</sentence>
+<sentence num="11">Fakülte hastanesinin acil cerrahi bölümüne kaldırılan 66 yaşındaki Kalaycı ,müdahalelere rağmen hayatını kaybetti .</sentence>
+<sentence num="12">Kalaycı'nın cenazesi otopsinin ardından ,Adli Tıp Kurumu morguna kaldırıldı .</sentence>
+<sentence num="13">Polis ,şu ana kadar elde edilen bilgilerden yola çıkarak silahlı saldırının bir hasta yakını tarafından gerçekleştirildiğini tahmin ediyor .</sentence>
+<sentence num="14">Sağlık çalışanları da sistemdeki her sıkıntıdan hekimlerin sorumlu tutulduğunu belirterek ,AKP hükümetine 'sağlık alanındaki sorunları çözümlemedikleri 'gerekçesiyle tepki gösterdi .</sentence>
+<sentence num="15">Kalaycı ,14 kasım pazartesi günü Ataköy Beşinci Kısım Camii'nde öğleyin kılınacak namazın ardından Sarıyer Mezarlığı'nda defnedilecek .</sentence>
+<sentence num="16">Prof .Dr .Kalaycı için pazartesi günü saat 09 .00'da Beyazıt'taki İ .Ü .Rektörlük Binası'nda tören düzenlenecek .</sentence>
+</doc>
+<doc>
+<id>181285</id>
+<sentence num="0">2005 11 12 14 :14 :00 .Prof .Dr .Kalaycı'nın cenazesi toprağa verildi .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı'nın cenazesi toprağa verildi İstanbul'da dün öldürülen Prof .Dr .Necip Göksel Kalaycı'nın eski hastalarından Ahmet Cevahir'in cenazesi ,toprağa verildi .</sentence>
+<sentence num="2">Cevahir için Yeniköy Bağlar Mevkii Cevahir Camii'nde öğleyin kılınan cenaze namazına ,ailesi ,yakınları ,Prof .Dr .Kemal Alemdaroğlu ,işadamı Şadan Kalkavan ,Galatasaray Kulübü 2 .Başkanı Ergun Gürsoy ,sanatçı Adnan Şenses ve Mustafa Topaloğlu gibi tanınmış kişiler katıldı .</sentence>
+<sentence num="3">Cenaze töreninde gazetecilerin Prof .Dr .Kalaycı'nın ölümüne ilişkin soruları yanıtlayan Ahmet Cevahir'in damadı Uğur Uzun ,''Cevahir ailesinin adının böyle bir olayda geçmesinin bile üzüntü verici olduğunu ''söyledi .</sentence>
+</doc>
+<doc>
+<id>181533</id>
+<sentence num="0">2005 11 13 10 :16 :00 .Kalaycı'nın katil zanlısı yakalandı .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın önceki gün fakültenin otoparkında uğradığı silahlı saldırı sonucu öldürülmesi olayının faili olabileceği gerekçesiyle bir kişi gözaltına alındı .</sentence>
+<sentence num="2">Olayla ilgili çalışmasını sürdüren İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği ekipleri ,katil zanlısı olabileceği gerekçesiyle aranan Y .C'yi (35 ),gece Fatih'te bir otelde yakaladı .</sentence>
+<sentence num="3">Gözaltına alınan Y .C ,Asayiş Şube Müdürlüğü'ne götürülerek sorgulanmak istedi .</sentence>
+<sentence num="4">Susma hakkını kullandığı bildirilen Y .C'nin ,şubeye çağrılan görgü tanıkları tarafından teşhis edildiği belirtildi .</sentence>
+<sentence num="5">Olay sırasında bıyıklı olduğu ifade edilen Y .C'nin ,tanınmamak için bıyıklarını kestiği bildirildi .</sentence>
+<sentence num="6">Şubedeki işlemleri süren Y .C'nin ,Prof .Dr .Kalaycı'nın ölen hastası işadamı Ahmet Cevahir'in akrabası olduğu öne sürüldü .</sentence>
+<sentence num="7">aa .</sentence>
+</doc>
+<doc>
+<id>181535</id>
+<sentence num="0">2005 11 13 10 :16 :00 .Prof .Dr .Kalaycı'nın ölümüyle ilgili bir kişi gözaltına alındı .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı'nın ölümüyle ilgili bir kişi gözaltına alındı İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın önceki gün fakültenin otoparkında uğradığı silahlı saldırı sonucu öldürülmesi olayının faili olabileceği gerekçesiyle bir kişi gözaltına alındı .</sentence>
+<sentence num="2">Olayla ilgili çalışmasını sürdüren İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği ekipleri ,katil zanlısı olabileceği gerekçesiyle aranan Y .C'yi (35 ),gece Fatih'te bir otelde yakaladı .</sentence>
+<sentence num="3">Gözaltına alınan Y .C ,Asayiş Şube Müdürlüğü'ne götürülerek sorgulanmak istedi .</sentence>
+<sentence num="4">Susma hakkını kullandığı bildirilen Y .C'nin ,şubeye çağrılan görgü tanıkları tarafından teşhis edildiği belirtildi .</sentence>
+</doc>
+<doc>
+<id>181543</id>
+<sentence num="0">2005 11 13 10 :30 :00 .Prof .Dr .Kalaycı'nın katil zanlısı olduğu sanılan 1 kişi yakalandı .</sentence>
+<sentence num="1">Önceki gün hastane otoparkında uğradığı silahlı saldırı sonucu ölen Prof .Dr .Göksel Kalaycı'nın katil zanlısı olduğu sanılan bir kişi yakalandı .</sentence>
+<sentence num="2">Kalaycı'nın 10 gün önce de elinde çekiç olan maskeli bir kişinin saldırısına uğradığı açıklandı İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın önceki gün fakültenin otoparkında uğradığı silahlı saldırı sonucu öldürülmesi olayının faili olabileceği gerekçesiyle bir kişi gözaltına alındı .</sentence>
+<sentence num="3">Alınan bilgiye göre ,olayla ilgili çalışmasını sürdüren İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği ekipleri ,katil zanlısı olabileceği gerekçesiyle aranan Y .C'yi (35 ),gece Fatih'te bir otelde yakaladı .</sentence>
+<sentence num="4">Gözaltına alınan Y .C ,Asayiş Şube Müdürlüğü'ne götürülerek sorgulanmak istedi .</sentence>
+<sentence num="5">Susma hakkını kullandığı bildirilen Y .C'nin ,şubeye çağrılan görgü tanıkları tarafından teşhis edildiği belirtildi .</sentence>
+<sentence num="6">Olay sırasında bıyıklı olduğu ifade edilen Y .C'nin ,tanınmamak için bıyıklarını kestiği bildirildi .</sentence>
+<sentence num="7">Şubedeki işlemleri süren Y .C'nin ,Prof .Dr .Kalaycı'nın ölen hastası işadamı Ahmet Cevahir'in akrabası olduğu öne sürüldü .</sentence>
+<sentence num="8">SABIKASI VAR Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'nde tutulan ve susma hakkını kullanarak ifade vermeyen Y .C ,sağlık kontrolü için sıkı güvenlik önlemleri altında şubeden çıkartılarak Şişli Etfal Eğitim ve Araştırma Hastanesi'ne götürüldü .</sentence>
+<sentence num="9">Y .C .kontorlden sonra yeniden Cinayet Büro Amirliği'ne getirildi .</sentence>
+<sentence num="10">Yakalandığı sırada üzerinden bir pasaport çıkan Y .C'nin ,otelde bıyıklarını kestirerek imaj değiştirdiği ve yurtdışına kaçma hazırlığı yaptığı öne sürüldü .</sentence>
+<sentence num="11">Prof .Dr .Kalaycı'nın öldürüldüğü olaya ilişkin 2'si doktor 3 kişi tarafından teşhis edildiği belirtilen Y .C'nin ,geçmiş tarihlerde yaralama ve cinayet gibi olaylardan dolayı sabıkalı olduğu ifade edildi .?</sentence>
+<sentence num="12">Robot resimdeki akraba aranıyor ?</sentence>
+<sentence num="13">Gözaltına alınan damada cenaze izni 10 GÜN ÖNCE DE SALDIRIYA UĞRAMIŞ Serhat ALAATTİNOĞLU DHA Öte yandan Prof .Dr .Necip Göksel Kalaycı'nın eşi Nurlan Kalaycı ,eşinin 10 gün önce elinde çekiç bulunan ve kar maskeli bir kişinin saldırısına uğradığını söyledi .</sentence>
+<sentence num="14">Göksel Kalaycı'nın öldürülmesi sonrasında Kalaycı'nın evinde hüzün hakim .</sentence>
+<sentence num="15">Eşini öldüren kişilere tepki gösteren Nurlan Kalaycı ,gözyaşlarını tutamadı .</sentence>
+<sentence num="16">Eşinin elinden şifa bekleyen insanların durumunun ne olacağını soran Nurlan Kalaycı ,şöyle dedi :?</sentence>
+<sentence num="17">10 gün önce asansörde saldırıya uğramıştı .</sentence>
+<sentence num="18">Asansöre bindiği sırada birisi boğazını tutmuş .</sentence>
+<sentence num="19">Kendisi şaka olduğunu sanmış .</sentence>
+<sentence num="20">Ancak arkaya döndüğünde kişinin kar maskeli olduğunu görmüş .</sentence>
+<sentence num="21">Elinde de eldiven bulunan kişi çekiçle kavasına ve yüzüne darbeler vurmuş .</sentence>
+<sentence num="22">O sırada asansör hareket etmemiş .</sentence>
+<sentence num="23">Elindeki çantayla korunmaya çalışmış .</sentence>
+<sentence num="24">Kafası yarılmıştı .</sentence>
+<sentence num="25">Yüzünde morluklar vardı .</sentence>
+<sentence num="26">Biz hırslarını almışlardır diye bunun üzerinde fazla durmadık .''</sentence>
+<sentence num="27">Eşinin 25 yaşında Çapa'ya girdiğini dile getiren Kalaycı ,orada eşinin yaşamını yitirdiğini söyledi .</sentence>
+<sentence num="28">Olayın olduğu gün hastaneye kanser hastası bir kişiyi ameliyata gittiğini hatırlatan Nurlan Kalaycı ,şöyle konuştu :?</sentence>
+<sentence num="29">Perşembe günü kongre için Antalya'ya gidecekti .</sentence>
+<sentence num="30">Salı günü dişçiye gitti .</sentence>
+<sentence num="31">Tehditler alsa böyle dışarı çıkamazdı .</sentence>
+<sentence num="32">Böyle bir adamı öldürmekle eline ne geçti ?.''</sentence>
+<sentence num="33">Eşinin öldürülmesinden sonra Başbakan Recep Tayyip Erdoğan ile Sağlık Bakanı Recep Akdağ'ın kendisini aradığını belirten Kalaycı ,?</sentence>
+<sentence num="34">Başbakan ailece üzgün olduklarını söyledi .?</sentence>
+<sentence num="35">Burada olamayacağız ama arkanızdayız dedi .</sentence>
+<sentence num="36">Meseleyi halledeceklerini söyledi ''dedi .</sentence>
+</doc>
+<doc>
+<id>181567</id>
+<sentence num="0">2005 11 13 11 :16 :00 .Kalaycı cinayetiyle ilgili bir gözaltı .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı ,66 yaşındaydı Geçtiğimiz cuma günü uğradığı silahlı saldırı sonucu hayatını kaybeden Prof .Dr Göksel Kalaycı'nın katil zanlısı olabileceği gerekçesiyle bir kişi gözaltına alındı .</sentence>
+<sentence num="2">Görgü tanıkları tarafından teşhis edildiği bildirilen zanlı Y .C'nin ,Kalaycı'nın ölen hastası Ahmet Cevahir'in akrabası olduğu öne sürüldü .</sentence>
+<sentence num="3">İstanbul Asayiş Şube Müdürlüğü cinayet büro ekipleri ,katil zanlısı olabileceği gerekçesiyle aranan 35 yaşındaki Y .C'yi ,gece Fatih'te bir otelde yakaladı .</sentence>
+<sentence num="4">Gözaltına alınan Y .C ,Asayiş Şube Müdürlüğü'ne götürülerek sorgulanmak istedi .</sentence>
+<sentence num="5">Ancak Y .C'nin susma hakkını kullandığı öğrenildi .</sentence>
+<sentence num="6">Zanlının şubeye çağrılan görgü tanıklarınınsa tarafından teşhis edildiği belirtildi .</sentence>
+<sentence num="7">Olay sırasında bıyıklı olduğu ifade edilen Y .C'nin tanınmamak için bıyıklarını kestiği bildirildi .</sentence>
+<sentence num="8">Y .C'nin ,Prof .Dr .Kalaycı'nın ölen hastası ,işadamı Ahmet Cevahir'in akrabası olduğu öne sürüldü .</sentence>
+<sentence num="9">İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı ,geçtiğimiz cuma günü fakültenin otoparkında uğradığı silahlı saldırı sonucu öldürülmüştü .</sentence>
+<sentence num="10">Kalaycı yarın toprağa verilecek Kalaycı ,yarın Ataköy Beşinci Kısım Camii'nde öğleyin kılınacak namazın ardından Sarıyer Mezarlığı'nda defnedilecek .</sentence>
+<sentence num="11">Prof .Dr .Kalaycı için yarın saat 09 .00'da Beyazıt'taki İ .Ü .Rektörlük Binası'nda tören düzenlenecek .</sentence>
+</doc>
+<doc>
+<id>181608</id>
+<sentence num="0">2005 11 13 12 :18 :00 .Prof .Kalaycı Cinayetinde 1 Gözaltı .</sentence>
+<sentence num="1">İstanbul Üniversitesi İstanbul Tıp Fakültesi Göğüs Cerrahisi Ana Bilim Dalı Başkanı Profesör Göksel Kalaycı'nın önceki gün öldürülmesi olayı ile ilgili bir kişi gözaltına alındı .</sentence>
+<sentence num="2">Asayiş Şube Müdürlüğü ekipleri ,zanlı olarak aranan bir kişiyi Fatih'deki bir otelde ele geçirdi .</sentence>
+<sentence num="3">Emniyette görgü tanıklarınca teşhis edilen zanlının ,tanınmamak için bıyıklarını kestiği iddia edildi .</sentence>
+</doc>
+<doc>
+<id>181689</id>
+<sentence num="0">2005 11 13 15 :03 :00 .Kalaycı'nın katil zanlısı olarak yakalanan kişi hastaneye sevk edildi .</sentence>
+<sentence num="1">Kalaycı'nın katil zanlısı olarak yakalanan kişi hastaneye sevk edildi İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın önceki gün fakültenin otoparkında uğradığı silahlı saldırı sonucu öldürülmesi olayının faili olabileceği gerekçesiyle yakalanan Y .C .(35 ),sağlık kontrolü için hastaneye sevk edildi .</sentence>
+<sentence num="2">Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'nde tutulan ve susma hakkını kullanarak ifade vermeyen Y .C ,sağlık kontrolü için sıkı güvenlik önlemleri altında şubeden çıkartılarak Şişli Etfal Eğitim ve Araştırma Hastanesi'ne götürüldü .</sentence>
+<sentence num="3">Yakalandığı sırada üzerinden bir pasaport çıkan Y .C'nin ,otelde bıyıklarını kestirerek imaj değiştirdiği ve yurtdışına kaçma hazırlığı yaptığı öne sürüldü .</sentence>
+</doc>
+<doc>
+<id>181710</id>
+<sentence num="0">2005 11 13 15 :59 :00 .Kalaycı'nın katil zanlısı olarak yakalanan kişi Asayiş Şube Müdürlüğü'nde .</sentence>
+<sentence num="1">Kalaycı'nın katil zanlısı olarak yakalanan kişi Asayiş Şube Müdürlüğü'nde İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın öldürülmesi olayının faili olabileceği gerekçesiyle yakalanan Y .C .(35 ),hastanede sağlık kontrolünden geçirildikten sonra yeniden Asayiş Şube Müdürlüğü'ne getirildi .</sentence>
+<sentence num="2">Y .C ,Cinayet Büro Amirliği'ne alınırken basın mensuplarının olaya ilişkin sorularını yanıtlamadı .</sentence>
+<sentence num="3">Y .C ,''Ne çekiyorsunuz ?''</sentence>
+<sentence num="4">diyerek basın mensuplarının çekim yapmalarına tepki gösterdi .</sentence>
+</doc>
+<doc>
+<id>182250</id>
+<sentence num="0">2005 11 14 14 :37 :00 .Prof .</sentence>
+<sentence num="1">Dr .Kalaycı'nın cenazesi toprağa verildi .</sentence>
+<sentence num="2">Prof .</sentence>
+<sentence num="3">Dr .Kalaycı'nın cenazesi toprağa verildi Hastane otoparkında uğradığı silahlı saldırıda hayatını kaybeden İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="4">Dr .Necip Göksel Kalaycı'nın cenazesi toprağa verildi .</sentence>
+<sentence num="5">Prof .</sentence>
+<sentence num="6">Dr .Kalaycı'nın cenazesi ,İÜ Rektörlüğü'nde düzenlenen törenin ardından Ataköy 5 .Kısım Camii'ne getirildi .</sentence>
+<sentence num="7">Prof .</sentence>
+<sentence num="8">Dr .Kalaycı için burada düzenlenen törene ,ailesi ,yakınları ile İçişleri Bakanı Abdulkadir Aksu ,Sağlık Bakanı Recep Akdağ ,İstanbul Valisi Muammer Güler ,İÜ Rektörü Prof .</sentence>
+<sentence num="9">Dr .Mesut Parlak ,DYP Genel Başkanı Mehmet Ağar ,Yurt Partisi Genel Başkanı Sadettin Tantan ve çalışma arkadaşları katıldılar .</sentence>
+<sentence num="10">Prof .</sentence>
+<sentence num="11">Dr .Necip Göksel Kalaycı'nın cenazesi ,öğle vakti kılınan namazdan sonra aralarında Aksu ,Akdağ ,Güler ,Ağar ve Tantan'ın da bulunduğu kalabalık tarafından eller üzerine taşınarak ,cenaze aracına konuldu .</sentence>
+<sentence num="12">Prof .</sentence>
+<sentence num="13">Dr .Kalaycı'nın cenazesi ,daha sonra Kazlıçeşme Mezarlığı'nda toprağa verildi .</sentence>
+</doc>
+<doc>
+<id>182258</id>
+<sentence num="0">2005 11 14 14 :45 :00 .Prof .Kalaycı toprağa verildi .</sentence>
+<sentence num="1">Hastane otoparkında uğradığı silahlı saldırıda hayatını kaybeden İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="2">Dr .Necip Göksel Kalaycı'nın cenazesi toprağa verildi .</sentence>
+<sentence num="3">Prof .</sentence>
+<sentence num="4">Dr .Kalaycı'nın cenazesi ,İÜ Rektörlüğü'nde düzenlenen törenin ardından Ataköy 5 .Kısım Camii'ne getirildi .</sentence>
+<sentence num="5">Prof .</sentence>
+<sentence num="6">Dr .Kalaycı için burada düzenlenen törene ,ailesi ,yakınları ile İçişleri Bakanı Abdulkadir Aksu ,Sağlık Bakanı Recep Akdağ ,İstanbul Valisi Muammer Güler ,İÜ Rektörü Prof .</sentence>
+<sentence num="7">Dr .Mesut Parlak ,DYP Genel Başkanı Mehmet Ağar ,Yurt Partisi Genel Başkanı Sadettin Tantan ve çalışma arkadaşları katıldılar .</sentence>
+<sentence num="8">Törende başsağlığı dileklerini kabul eden Kalaycı'nın eşi Nurlan Kalaycı ,oğlu Gökhan Kalaycı ve yakınları tarafından teselli edildi .</sentence>
+<sentence num="9">Prof .</sentence>
+<sentence num="10">Dr .Necip Göksel Kalaycı'nın cenazesi ,öğle vakti kılınan namazdan sonra aralarında Aksu ,Akdağ ,Güler ,Ağar ve Tantan'ın da bulunduğu kalabalık tarafından eller üzerine taşınarak ,cenaze aracına konuldu .</sentence>
+<sentence num="11">Prof .</sentence>
+<sentence num="12">Dr .Kalaycı'nın cenazesi ,daha sonra Kazlıçeşme Mezarlığı'nda toprağa verildi .</sentence>
+<sentence num="13">Prof .</sentence>
+<sentence num="14">Dr .Kalaycı'nın eşi Nurlan Kalaycı ,gazetecilerin soruları üzerine ,hekimliğin dünyanın en kutsal mesleği olduğunu belirterek ,''Doktorlara sahip çıkılsın .</sentence>
+<sentence num="15">Eşim saat 03 .00 04 .00'te kalkıp işine giderdi ''dedi .</sentence>
+<sentence num="16">SAĞLIK BAKANI AKDAĞ Tören sonrasında gazetecilerin sorularını cevaplandıran Sağlık Bakanı Recep Akdağ ,hekimliğin büyük fedakarlıklar isteyen ve hekimlerin büyük bir riski üzerine aldığı meslek olduğunu söyledi .</sentence>
+<sentence num="17">Toplumun bunu iyi algılaması gerektiğini ifade eden Akdağ ,şöyle konuştu :''Dolayısıyla zaman zaman sağlık çalışanlarına ,hekimlere yönelik bir şikayet söz konusu olduğu anda ,bunun toplumu bilgilendirenler tarafından adeta savcılık ,hakimlik görevi yaparcasına ön yargıyla sonuçlandırıldığını görüyoruz .</sentence>
+<sentence num="18">Yani inceleme ,araştırma yapılmadan .</sentence>
+<sentence num="19">Dolayısıyla sağlık çalışanlarına ,hekimlerine ,ben ülkenin Sağlık Bakanı olarak mutlaka insaflı davranılması ,hukuklarının en üstün düzeyde korunması meselesi üzerinde önemle durmak istiyorum .''</sentence>
+<sentence num="20">İnsanların bazen hizmetin çok iyi verilmediğini düşündüklerinde şikayetçi olabileceğini anlatan Akdağ ,yöneticilerin bunu dikkate alması gerektiğini ifade ederek ,bu konuda sağlık çalışanlarına hiçbir zaman ön yargılı davranılmaması gerektiğini bildirdi .</sentence>
+<sentence num="21">Kalaycı'nın vefatını böyle bir sebep sonuç ilişkisine bağlamayı doğru bulmadığını da hatırlatan Akdağ ,''Sonuçta kendini bilmez birinin zalimce ,hunharca bir işidir .</sentence>
+<sentence num="22">Bunu topluma şamil tutmak doğru olmaz ''dedi .</sentence>
+<sentence num="23">Sağlık çalışanlarının çok önemli bir görev yaptıklarını belirten Akdağ ,''Sağlık çalışanlarına asla yargısız bir şekilde suçlayıcı ifadeler takınmamalıyız ''diye konuştu .</sentence>
+<sentence num="24">Akdağ ,Kalaycı ile ilgili ,Ahmet Cevahir'in yakınlarından ya da başka hastalardan kendilerine herhangi bir başvuru yapılmadığını da vurguladı .</sentence>
+<sentence num="25">İÇİŞLERİ BAKANI AKSU İçişleri Bakanı Abdulkadir Aksu da ,üzüntülerinin büyük olduğunu belirterek ,''Milletçe çok değerli bir bilim adamı ,değerli bir tabip ,insanlara şifa veren ,çok değerli gençler yetiştiren ,bir değerli insanımızı kaybettik .</sentence>
+<sentence num="26">Bunun derin üzüntüsünü duyuyoruz ''dedi .</sentence>
+<sentence num="27">Toplumun bazı şeyleri hep birlikte düşünmesi gerektiğini ifade eden Aksu ,''Kafa yapımızı ,değer yargılarımızı yeniden gözden geçirmemiz lazım .</sentence>
+<sentence num="28">Ben başta ailesi olmak üzere tıp camiasına ,değerli arkadaşlarına ve aziz milletimize başsağlığı diliyorum ''diye konuştu .</sentence>
+<sentence num="29">Aksu ,''Hastanelerdeki güvenlik görevlileriyle ilgili bir düzenlemeye gidilecek mi ?''</sentence>
+<sentence num="30">şeklindeki bir soruya da ''Var ''şeklinde yanıt verdi .</sentence>
+<sentence num="31">VALİ GÜLER İstanbul Valisi Muammer Güler de soruşturmayla ilgili çok yoğun bir çalışmanın sürdüğüne dikkati çekerek ,şunları söyledi :''Sosyolojik boyutunu ,pedagojik boyutunu ,psikolojik boyutunu ,diğer boyutlarını düşünmemiz lazım .</sentence>
+<sentence num="32">Şu aşamada hazırlık tahkikatı aşamasında .</sentence>
+<sentence num="33">Olayın faillerinin ya da failinin kimler olduğunun ,azmettirenlerin ,her aşamada ne olabileceği konusunda İstanbul emniyetimiz Fatih Cumhuriyet Başsavcımız nezaretinde çok yoğun bir şekilde çalışmayı sürdürüyor .</sentence>
+<sentence num="34">Önemli ipuçları ile arkadaşlarımız şu anda uğraşıyorlar .''</sentence>
+<sentence num="35">İstanbul polisinin en kısa zamanda ,bütün delilleriyle bu olayı açığa kavuşturacağını kaydeden Güler ,sözlerini şöyle sürdürdü :''Bundan herkesin emin olmasını istiyorum .</sentence>
+<sentence num="36">Biz faillerini bulup adalete teslim edeceğiz .</sentence>
+<sentence num="37">Yapılacak şey adaletin takdiridir ,ancak tabii böylesine bir düşünce yapısı içinde olması insanın ;bir insanı hangi sebebe dayanırsa dayansın katletmesi insanlığa sığmayacak bir suç .</sentence>
+<sentence num="38">Çünkü zaten kendisi ,kendini insanlığa adamış ,bu kadar hayat kurtarmış bir insan .</sentence>
+<sentence num="39">Kim olursa olsun ,hangi görevliye ,insana karşı olursa olsun bu şekilde bir öç alma veya başka bir saikle yapılmış olan bir hareketi kınamak lazım .''</sentence>
+<sentence num="40">MEHMET AĞAR DYP Genel Başkanı Mehmet Ağar da gazetecilerin soruları üzerine ,olayın önemli olduğunu ,hafife alınamayacağını belirterek ,''İnsanları rahatlatacak bir sonuçla bu işin sonuçlandırılması lazım ''diye konuştu .</sentence>
+<sentence num="41">Ağar ,Türkiye'de can güvenliği meselesinin çok genel bir sıkıntı halini aldığını da savunarak ,''Doktorlar müşterek değerimizdir .</sentence>
+<sentence num="42">Hepsi mutlaka korunma altın alınmalıdır ''dedi .</sentence>
+</doc>
+<doc>
+<id>182283</id>
+<sentence num="0">2005 11 14 15 :03 :00 .Prof .Dr .Kalaycı'nın katil zanlısı için ek gözetim süresi alındı .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı'nın katil zanlısı için ek gözetim süresi alındı İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın 3 gün önce fakültenin otoparkında uğradığı silahlı saldırıda öldürülmesine ilişkin yakalanan Y .C'nin için savcılıktan 1 gün ek gözetim süresi alındı .</sentence>
+<sentence num="2">Prof .Dr .Kalaycı'nın öldürülmesi olayıyla ilgili önceki gece Haseki'de bir otelde yakalanan Y .C .(35 ),Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'nde tutuluyor .</sentence>
+<sentence num="3">Y .C'nin işlemlerinin tamamlanması için Fatih Cumhuriyet Başsavcılığı'na başvuran polis ,1 gün ek gözetim süresi aldı .</sentence>
+</doc>
+<doc>
+<id>182285</id>
+<sentence num="0">2005 11 14 15 :05 :00 .Prof .Kalaycı toprağa verildi Soruşturma kapsamında olayla ilgili bir kişi gözaltında .</sentence>
+<sentence num="1">Kalaycı için İstanbul Üniversitesi'nde tören düzenlendi Uğradığı silahlı saldırı sonucu hayatını kaybeden İstanbul Üniversitesi'nden Prof .</sentence>
+<sentence num="2">Dr .Necip Göksel Kalaycı ,bugün son yolculuğuna uğurlandı .</sentence>
+<sentence num="3">İstanbul Üniversitesi ,İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="4">Dr .Kalaycı'nın cenazesi ,İ .Ü .Rektörlüğü'nde düzenlenen törenin ardından Ataköy Beşinci Kısım Camii'ne getirildi .</sentence>
+<sentence num="5">Kalaycı için burada düzenlenen törene ,ailesi ,yakınları ile İçişleri Bakanı Abdulkadir Aksu ,Sağlık Bakanı Recep Akdağ ,İstanbul Valisi Muammer Güler ,İ .Ü .Rektörü Prof .</sentence>
+<sentence num="6">Dr .Mesut Parlak ,DYP Genel Başkanı Mehmet Ağar ,Yurt Partisi Genel Başkanı Sadettin Tantan ve çalışma arkadaşları katıldı .</sentence>
+<sentence num="7">Kalaycı'nın Türk bayrağına sarılı naaşı ,öğle vakti kılınan namazdan sonra aralarında Aksu ,Akdağ ,Güler ,Ağar ve Tantan'ın da bulunduğu kalabalık tarafından eller üzerine taşınarak ,cenaze aracına konuldu .</sentence>
+<sentence num="8">Kalaycı'nın cenazesi ,Kazlıçeşme Mezarlığı'nda toprağa verildi .</sentence>
+<sentence num="9">Prof .Kalaycı'nın eşi Nurlan Kalaycı ,hekimliğin dünyanın en kutsal mesleği olduğunu belirterek ,''doktorlara sahip çıkılsın .</sentence>
+<sentence num="10">Eşim saat 03 .00 04 .00'te kalkıp işine giderdi ''dedi .</sentence>
+<sentence num="11">Törenden mesajlar Sağlık Bakanı Recep Akdağ :''(Cinayet )sonuçta kendini bilmez birinin zalimce ,hunharca bir işidir .</sentence>
+<sentence num="12">Bunu topluma şamil tutmak doğru olmaz ...</sentence>
+<sentence num="13">Zaman zaman sağlık çalışanlarına ,hekimlere yönelik bir şikayet söz konusu olduğu anda ,bunun toplumu bilgilendirenler tarafından adeta savcılık ,hakimlik görevi yaparcasına önyargıyla sonuçlandırıldığını görüyoruz ...</sentence>
+<sentence num="14">Dolayısıyla sağlık çalışanlarına ,hekimlerine ,ben ülkenin Sağlık Bakanı olarak mutlaka insaflı davranılması ,hukuklarının en üstün düzeyde korunması meselesi üzerinde önemle durmak istiyorum .''</sentence>
+<sentence num="15">İçişleri Bakanı Abdulkadir Aksu :Kafa yapımızı ,değer yargılarımızı yeniden gözden geçirmemiz lazım .</sentence>
+<sentence num="16">Ben başta ailesi olmak üzere tıp camiasına ,eğerli arkadaşlarına ve aziz milletimize başsağlığı diliyorum .''</sentence>
+<sentence num="17">İstanbul Valisi Muammer Güler :Sosyolojik boyutunu ,pedagojik boyutunu ,psikolojik boyutunu ,diğer boyutlarını düşünmemiz lazım .</sentence>
+<sentence num="18">Şu aşamada hazırlık tahkikatı aşamasında .</sentence>
+<sentence num="19">Olayın faillerinin ya da failinin kimler olduğunun ,azmettirenlerin ,her aşamada ne olabileceği konusunda İstanbul emniyetimiz Fatih Cumhuriyet Başsavcımız nezaretinde çok yoğun bir şekilde çalışmayı sürdürüyor .</sentence>
+<sentence num="20">Önemli ipuçları ile arkadaşlarımız şu anda uğraşıyorlar ''DYP Genel Başkanı Mehmet Ağar :insanları rahatlatacak bir sonuçla bu işin sonuçlandırılması lazım .''</sentence>
+<sentence num="21">İ .Ü .'de tören Kalaycı'nın defnedilmesi öncesi ,İstanbul Üniversitesi'nin Beyazıt Kampüsü'ndeki Rektörlük binasında tören düzenlendi .</sentence>
+<sentence num="22">Törende konuşan İ .Ü .Rektörü Prof .</sentence>
+<sentence num="23">Dr .Mesut Parlak ,''diliyorum bu son olsun .</sentence>
+<sentence num="24">Bu bir alçaklık .</sentence>
+<sentence num="25">Tüm aileye ,halka ,camiaya başsağlığı diliyorum ''dedi .</sentence>
+<sentence num="26">İ .Ü .Tıp Fakültesi Dekanı Prof .</sentence>
+<sentence num="27">Dr .Mustafa Keçeli de ,Kalaycı'nın görevi başında katledildiğini belirterek ,bir bilim adamını yok etmenin ,kişisel olarak cezalandırmanın ,insan haklarına ,yaşam hakkına ve hukuk düzenine saldırı olduğunu söyledi .</sentence>
+<sentence num="28">Kalaycı'nın sabah saatinde otomobilinde savunmasız bir şekilde katledildiğini ifade eden Prof .</sentence>
+<sentence num="29">Dr .Keçeli ,''bu alçaklıktır .</sentence>
+<sentence num="30">Bu saldırı ile uygarlık kavramı yara almıştır .</sentence>
+<sentence num="31">Acımız tarifsiz ve derindir .</sentence>
+<sentence num="32">Bu saldırıyla uygarlığımız onarılması güç bir yara almıştır ''diye konuştu .</sentence>
+<sentence num="33">Fakültenin soluğunu kestiler Kalaycı'nın görev yaptığı Göğüs Cerrahisi Anabilim Dalı adına konuşan Prof .</sentence>
+<sentence num="34">Dr .Şükrü Dilege ise ,''fakültenin soluğunu kestiler ve büyük kahkahayı söndürdüler .</sentence>
+<sentence num="35">Menfur saldırılar devam ettiği sürece ,benim mesleğe devam edip etmeme konusunda kararsız kaldığım günlerde ,birçok meslektaşım beyaz önlüğünü askıya asıp bu işi bırakabilir ''dedi .</sentence>
+<sentence num="36">Bir kişi gözaltında Olayla ilgili soruşturma ise sürüyor .</sentence>
+<sentence num="37">Prof .</sentence>
+<sentence num="38">Dr .Göksel Kalaycı'nın katil zanlısı olabileceği gerekçesiyle bir kişi dün gözaltına alındı .</sentence>
+<sentence num="39">Görgü tanıkları tarafından teşhis edildiği bildirilen zanlı Y .C .'nin ,Kalaycı'nın ölen hastası Ahmet Cevahir'in akrabası olduğu öne sürüldü .</sentence>
+<sentence num="40">İstanbul Asayiş Şube Müdürlüğü Cinayet Bürosu ekipleri ,katil zanlısı olabileceği gerekçesiyle aranan 35 yaşındaki Y .C .'yi ,gece Haseki'de bir otelde yakaladı .</sentence>
+<sentence num="41">Gözaltına alınan Y .C .,Asayiş Şube Müdürlüğü'ne götürülerek sorgulanmak istedi .</sentence>
+<sentence num="42">Ancak Y .C .'nin susma hakkını kullandığı öğrenildi .</sentence>
+<sentence num="43">Bu arada Y .C .'nin işlemlerinin tamamlanması için Fatih Cumhuriyet Başsavcılığı'na başvuran polis ,bugün bir gün ek gözetim süresi aldı .</sentence>
+<sentence num="44">Görgü tanıklarından dördü tarafından teşhis edilen Y .C'nin ,Prof .</sentence>
+<sentence num="45">Dr .Kalaycı'nın öldürülmesinden sonra yakalandığı otele gittiğinin güvenlik kamerasındaki görüntülerden anlaşıldığı ,otelden ayrıldıktan sonra da yakalandığı geceye kadar geri dönmediği belirlendi .</sentence>
+<sentence num="46">Güvenlik kameralarındaki görüntülerinde Y .C .'nin ,otele girdiği sırada sakal ve bıyıklı olduğu ,dışarı çıktığı sırada ise sakal ve bıyıklarını kestiği anlaşıldı .</sentence>
+<sentence num="47">Olayda kullanılan silahın bulunması amacıyla çalışmalar sürdürülürken ,Y .C'nin yarın adliyeye sevk edilmesi bekleniyor .</sentence>
+<sentence num="48">İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="49">Dr .Göksel Kalaycı ,geçtiğimiz cuma günü fakültenin otoparkında uğradığı silahlı saldırıda öldürülmüştü .</sentence>
+</doc>
+<doc>
+<id>182288</id>
+<sentence num="0">2005 11 14 15 :05 :00 .Prof .Dr .Kalaycı'nın katil zanlısı için 1 gün ek gözetim süresi alındı .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın 3 gün önce fakültenin otoparkında uğradığı silahlı saldırıda öldürülmesine ilişkin yakalanan Y .C'nin için savcılıktan 1 gün ek gözetim süresi alındı .</sentence>
+<sentence num="2">Prof .Dr .Kalaycı'nın öldürülmesi olayıyla ilgili önceki gece Haseki'de bir otelde yakalanan Y .C .(35 ),Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'nde tutuluyor .</sentence>
+<sentence num="3">Y .C'nin işlemlerinin tamamlanması için Fatih Cumhuriyet Başsavcılığı'na başvuran polis ,1 gün ek gözetim süresi aldı .</sentence>
+<sentence num="4">Görgü tanıklarından 4'ü tarafından teşhis edildiği belirtilen Y .C'nin ,Prof .Dr .Kalaycı'nın öldürülmesinden sonra yakalandığı otele gittiğinin güvenlik kamerasındaki görüntülerden anlaşıldığı ,otelden ayrıldıktan sonra da yakalandığı geceye kadar geri dönmediği belirlendi .</sentence>
+<sentence num="5">Güvenlik kameralarındaki görüntülerinde Y .C'nin ,otele girdiği sırada sakal ve bıyıklı olduğu ,dışarı çıktığı sırada ise sakal ve bıyıklarını kestiği anlaşıldı .</sentence>
+<sentence num="6">Olayda kullanılan silahın bulunması amacıyla çalışmalar sürdürülürken ,Y .C'nin yarın adliyeye sevk edilmesi bekleniyor .</sentence>
+</doc>
+<doc>
+<id>182323</id>
+<sentence num="0">2005 11 14 15 :38 :00 .Bilim Dünyası Yasta .</sentence>
+<sentence num="1">Silahlı saldırı sonucu ölen İstanbul Üniversitesi Tıp Fakültesi Öğretim Üyesi Prof .Dr .Necip Göksel Kalaycı'nın cenazesi İstanbul'da toprağa verildi .</sentence>
+<sentence num="2">Kalaycı için İstanbul Üniversitesi Rektörlüğü'nde bir tören düzenlendi .</sentence>
+<sentence num="3">İstanbul Üniversitesi Rektörü Prof .Dr .Mesut Parlak törende ,Kalaycı'nın öldürülmesinin insan haklarına ve hukuk düzenine saldırı olduğu söyledi .</sentence>
+<sentence num="4">66 yaşında ölen Kalaycı'nın cenazesi ,Ataköy 5'inci Kısım Camii'nde öğleyin kılınan namazının ardından ,Kazlıçeşme Mezarlığı'nda toprağa verildi .</sentence>
+<sentence num="5">Cenaze törenine katılan Sağlık Bakanı Recep Akdağ ,şunları söyledi :Burada kanatimce en önemli nokta şu ,hakikaten hekimlik mesleği büyük fedakarlık isteyen ve hekimler açısından ,meslekdaşların açısından da büyük riskin üstüne alındığı bir meslektir .</sentence>
+<sentence num="6">Toplumun bunu algılaması lazım ..</sentence>
+</doc>
+<doc>
+<id>182589</id>
+<sentence num="0">2005 11 15 08 :00 :00 .Doktorlar yarım gün iş bırakıyor .</sentence>
+<sentence num="1">İSTANBUL Milliyet İstanbul'daki doktorlar ,İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın öldürülmesini protesto için bugün yarım gün iş bırakacak .</sentence>
+<sentence num="2">İstanbul Tabipler Odası'nın çağrısıyla Cerrahpaşa Tıp Fakültesi önünde toplanacak olan doktorlar ,İÜ Tıp Fakültesi'ne yürüyerek Kalaycı'nın öldürüldüğü otoparka karanfil bırakacak .</sentence>
+<sentence num="3">İÜ Tıp Fakültesi Göğüs Hastalıkları Anabilim Dalı Başkanlığı'nın camına yapıştırılan protesto yazısında da ,Doktorlara güvenmeyen ,bilgi ve eğitimi kötüleyen ,üniversiteleri toplum gözünde değersizleştirmek için bilinçli çaba gösteren ,belki de bütün bunların sonunda her tür saldırgan eğilimlerin gerçekleşmesi için zemin oluşturan yönetim anlayışına isyan ediyoruz denildi .</sentence>
+</doc>
+<doc>
+<id>182703</id>
+<sentence num="0">2005 11 15 10 :30 :00 .Doktorlara 39 saldırı oldu ...</sentence>
+<sentence num="1">Türk Tabipleri Birliği Profesör Doktor Göksel Kalaycı'nın ,silahlı saldırı sonucunda hayatını kaybetmesi ,hemen ardından Adana'da doktorların dövülmesinin ardından gündeme gelen hasta yakınlarının hekimlere saldırması olaylarında Sağlıkta Dönüşüm Projesi nin sorumlu olduğu yorumunu yaptı .</sentence>
+<sentence num="2">TTB Sağlıkta Dönüşüm Projesi nin açıklanması ardından hekimlerin hasta yakınlarının hedefi haline geldiğini belirterek ,üç yıllık sürecin bilançosunu çıkardı .</sentence>
+<sentence num="3">TTB Genel Merkezi tarafından tabip odalarından alınan bilgiler doğrultusunda hazırlanan bilançoya göre ,2003 yılından itibaren 39 hekim ve bir çok sağlık memuru hasta yakınlarının saldırısına uğradı .</sentence>
+<sentence num="4">Hekimlerin en çok maruz kaldığı saldırı türü fiili saldırı olurken ,diğer saldırı türleri arasında bıçaklı saldırı ,silahlı saldırı ve tehdit yer aldı .</sentence>
+<sentence num="5">TTB Merkez Konseyi ise ,saldırıların nedeninin sağlıkta yaşanan sorunların hekimlerin üzerine atılmasından kaynaklandığını kaydetti .</sentence>
+<sentence num="6">Prof .Dr .Kalaycı'nın yaşadığı olayın bunun en son örneği olduğunu belirten TTB ,saldırıların önlenebilmesi için hükümeti hekimleri hedef göstermekten vazgeçmeye çağırdı .</sentence>
+</doc>
+<doc>
+<id>182886</id>
+<sentence num="0">2005 11 15 13 :10 :00 .Kalaycı'nın katil zanlısı için 1 gün daha ek gözetim süresi alındı .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın 4 gün önce fakültenin otoparkında uğradığı silahlı saldırıda öldürülmesine ilişkin yakalanan Y .C .için 1 gün daha ek gözetim süresi alındı .</sentence>
+<sentence num="2">Prof .Dr .Kalaycı'nın öldürülmesi olayına ilişkin Haseki'de bir otelde yakalanan Y .C .(35 ),İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'nde tutuluyor .</sentence>
+<sentence num="3">Polis yetkilileri ,Y .C'nin işlemlerinin tamamlanması için mahkemeden 1 gün daha ek gözetim süresi alındığını kaydettiler .</sentence>
+</doc>
+<doc>
+<id>182908</id>
+<sentence num="0">2005 11 15 13 :40 :00 .Prof .</sentence>
+<sentence num="1">Dr .Kalaycı'nın öldürülmesine ''beyaz önlüklü ''protesto .</sentence>
+<sentence num="2">İstanbul Tabip Odası'nca ,İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Öğretim Üyesi Prof .</sentence>
+<sentence num="3">Dr .Göksel Kalaycı'nın öldürülmesini protesto etmek amacıyla düzenlenen Düşünmeye Davet sloganlı yürüyüş başladı .</sentence>
+<sentence num="4">İÜ Cerrahpaşa Tıp Fakültesi bahçesinde toplanan hekimler ve sağlık çalışanları ,saat 12 .30'da ,hastane bahçesinden Çapa'daki İÜ İstanbul Tıp Fakültesi'ne doğru yürüyüşe geçti .</sentence>
+<sentence num="5">Prof .</sentence>
+<sentence num="6">Dr .Kalaycı'nın anısına yazılı bir çelenk taşıyan hekimler ,Hedef tahtası olmak istemiyoruz .</sentence>
+<sentence num="7">Sağlıktaki sorunların sorumlusu ,hekimler değildir .</sentence>
+<sentence num="8">İstanbul Tabip Odası yazılı pankartın arkasında kortej oluşturdu .</sentence>
+<sentence num="9">Hekimler ile sağlık çalışanları ayrıca ,Hedef tahtası olmak istemiyoruz ve Hekimlere yönelik şiddete son yazılı pankartlar taşıdılar .</sentence>
+<sentence num="10">Bir süre sessiz süren yürüyüşün ardından hekimler ,kendilerine yapılan şiddeti alkışlarla protesto ettiler .</sentence>
+<sentence num="11">Cüppe ve Beyaz önlüklü yürüyüşe ,İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="12">Dr .Gençay Gürsoy ,Üniversite Öğretim Üyeleri Derneği Başkanı Prof .</sentence>
+<sentence num="13">Dr .Tahsin Yeşildere ,İstanbul Barosu Başkanı Kazım Kolcuoğlu ,öğretim üyeleri ,hekimler ve sağlık çalışanları katıldı .</sentence>
+<sentence num="14">İstanbul Tabip Odası'nca ,İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Öğretim Üyesi Prof .</sentence>
+<sentence num="15">Dr .Necip Göksel Kalaycı'nın öldürülmesini protesto etmek amacıyla Düşünmeye Davet sloganıyla yürüyüş gerçekleştirildi .</sentence>
+<sentence num="16">İÜ Cerrahpaşa Tıp Fakültesi'nden saat 12 .30'da hareket eden hekimler ve sağlık çalışanları ,Millet Caddesi'nde bir süre yolu trafiğe de kapatarak alkışlarla yürüdü .</sentence>
+<sentence num="17">İÜ İstanbul Tıp Fakültesi'ne gelen grup ,burada fakültenin Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="18">Dr .Kalaycı'nın öldürüldüğü otoparka karanfil bıraktı .</sentence>
+<sentence num="19">Protestocu grubu karşılayan İÜ İstanbul Tıp Fakültesi Dekanı Prof .</sentence>
+<sentence num="20">Dr .Mustafa Keçeli ,burada yaptığı açıklamada ,Prof .</sentence>
+<sentence num="21">Dr .Kalaycı hocamız ,11 Kasım 2005 tarihinde 7 kurşunla alçakça katledildi .</sentence>
+<sentence num="22">Bu ilkel olayı nefretle kınıyoruz .</sentence>
+<sentence num="23">Hepimizin başı sağ olsun dedi .</sentence>
+<sentence num="24">Daha sonra yapılan saygı duruşunun ardından konuşan İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="25">Dr .Gençay Gürsoy da ,Türkiye'deki şiddet ortamının son kurbanının bir meslektaşları olduğunu belirterek ,şunları kaydetti :Ne yazık ki ,bu ne ilk ,ne son örnek .</sentence>
+<sentence num="26">Uzun yıllardan beri sağlıkla ilgili sorunların hedefi olarak gösterilen hekimler ,şiddetin de hedefi oldu .</sentence>
+<sentence num="27">Özellikle acil birimlerde ,genç hekimlerin yaşadıkları ortam bir can pazarıdır .</sentence>
+<sentence num="28">Ayrıca Türkiye'de giderek yükselen şiddet ortamı öyle bir psikolojik atmosfer yarattı ki ,insanlar diyalogla ,konuşarak değil ,şiddet gösterileriyle birbirleriyle ilişki kuruyorlar .</sentence>
+<sentence num="29">Elbette bu kültürel dönüşüm sorunudur ,ama yapılacak çok şey var .</sentence>
+<sentence num="30">Örneğin sivil silahsızlanma kampanyasını buradan başlatmak bizim görevlerimizden biri .</sentence>
+<sentence num="31">Neşelendiği ,öfkelendiği zaman da bizim insanımızın silaha sarılması ,artık değişmesi gereken ilkel bir tavırdır .</sentence>
+<sentence num="32">Prof .</sentence>
+<sentence num="33">Dr .Kalaycı'nın anısı önünde saygıyla eğiliyoruz .</sentence>
+<sentence num="34">Tüm yetkilileri ve herkesi ,şiddete karşı göreve çağırıyoruz .</sentence>
+<sentence num="35">TÜRKİYE'DE BİR SAATLİK DÜŞÜNME EYLEMİ İstanbul Tabip Odası Genel Sekreteri Ali Çerkezoğlu da ,Türkiye'de bugün tüm sağlık birimlerinde bir saatlik Düşünmeye Davet eylemi yapıldığını ve hekimlere yönelik şiddetin protesto edildiğini bildirdi .</sentence>
+<sentence num="36">Çerkezoğlu ,hekimler ile hastaları karşı karşıya getirmeye çalışan herkesin yakından takipçisi olacaklarını kaydetti .</sentence>
+<sentence num="37">YEŞİLDERE İLE KOLCUOĞLU'NUN AÇIKLAMALARI Bu arada ,yürüyüş sırasında basın mensuplarına açıklama yapan Üniversite Öğretim Üyeleri Derneği Başkanı Prof .</sentence>
+<sentence num="38">Dr .Tahsin Yeşildere ,Prof .</sentence>
+<sentence num="39">Dr .Kalaycı'nın ölümünden büyük üzüntü duyduklarını ifade ederek ,özellikle son yıllarda üniversite öğretim üyelerinin kimliğini zedeleyen ve onları hedef alan açıklamalar yapıldığını ,bunun da gerek Van'da ,gerek İstanbul'da olduğu gibi şiddetle sonuçlandığını ifade etti .</sentence>
+<sentence num="40">Sağlık sisteminin çarpıklığı ve yozlaşmasının göz ardı edilerek hekimlerin hedef gösterilmesinin çok yanlış olduğunu ,bunun toplumdaki eğitimsiz kişileri olumsuz etkilediğini vurgulayan Prof .</sentence>
+<sentence num="41">Dr .Yeşildere ,bu tür açıklamalardan kaçınılmasını istedi .</sentence>
+<sentence num="42">Prof .</sentence>
+<sentence num="43">Dr .Yeşildere ,bireysel silahlanmanın önlenmesi için de gerekli tedbirlerin alınması gerektiğini sözlerine ekledi .</sentence>
+<sentence num="44">İstanbul Barosu Başkanı Kazım Kolcuoğlu da ,özellikle 2 meslek mensubunun şiddete maruz kaldığına işaret ederek ,bunların avukatlar ve hekimler olduğunu söyledi .</sentence>
+<sentence num="45">Kolcuoğlu ,avukatların müvekkillerinin haklarını savunduğunu ,hekimlerin de hastalarını sağlığına kavuşturmaya çalıştığını dile getirerek ,bu 2 meslek grubuna yapılan saldırıları anlamakta güçlük çektiğini bildirdi .</sentence>
+<sentence num="46">Kolcuoğlu ,basından da hekim hataları yönündeki haberlere duyarlı olmasını istedi .</sentence>
+<sentence num="47">Hekimler ve sağlık çalışanları ,Prof .</sentence>
+<sentence num="48">Dr .Kalaycı'nın fotoğrafının bulunduğu yere karanfil bıraktıktan sonra eylemlerine son verdi .</sentence>
+</doc>
+<doc>
+<id>182928</id>
+<sentence num="0">2005 11 15 14 :05 :00 .Hekimlere yönelik şiddete protesto Gözaltındaki Y .C .için bir gün daha ek gözetim süresi alındı .</sentence>
+<sentence num="1">Kalaycı dün toprağa verildi Profesör Doktor Necip Göksel Kalaycı'nın 11 kasımda öldürülmesinin ardından Tabip Odaları bugün ,hekimlere yönelik şiddeti protesto ediyor .</sentence>
+<sentence num="2">İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi bahçesinde toplanan hekimler ve sağlık çalışanları ,saat 12 .30'da ,hastane bahçesinden Çapa'daki İÜ İstanbul Tıp Fakültesi'ne doğru 'Düşünmeye davet 'sloganıyla yürüyüşe geçti .</sentence>
+<sentence num="3">İÜ İstanbul Tıp Fakültesi'ne gelen grup ,burada fakültenin Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="4">Dr .Kalaycı'nın öldürüldüğü otoparka karanfil bıraktı .'</sentence>
+<sentence num="5">Prof .</sentence>
+<sentence num="6">Dr .Kalaycı'nın anısına 'yazılı bir çelenk taşıyan hekimler ,'Hedef tahtası olmak istemiyoruz .</sentence>
+<sentence num="7">Sağlıktaki sorunların sorumlusu ,hekimler değildir .</sentence>
+<sentence num="8">İstanbul Tabip Odası 'yazılı pankartın arkasında kortej oluşturdu .</sentence>
+<sentence num="9">Bir süre sessiz süren yürüyüşün ardından hekimler ,kendilerine yapılan şiddeti alkışlarla protesto etti .</sentence>
+<sentence num="10">Yürüyüşe ,İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="11">Dr .Gençay Gürsoy ,Üniversite Öğretim Üyeleri Derneği Başkanı Prof .</sentence>
+<sentence num="12">Dr .Tahsin Yeşildere ,İstanbul Barosu Başkanı Kazım Kolcuoğlu ,öğretim üyeleri ,hekimler ve sağlık çalışanları katıldı .</sentence>
+<sentence num="13">İÜ İstanbul Tıp Fakültesi Dekanı Prof .</sentence>
+<sentence num="14">Dr .Mustafa Keçeli ,''Prof .</sentence>
+<sentence num="15">Dr .Kalaycı hocamız ,11 kasım 2005 tarihinde yedi kurşunla alçakça katledildi .</sentence>
+<sentence num="16">Bu ilkel olayı nefretle kınıyoruz .</sentence>
+<sentence num="17">Hepimizin başı sağ olsun ''dedi .</sentence>
+<sentence num="18">Daha sonra yapılan saygı duruşunun ardından konuşan İstanbul Tabip Odası Başkanı Prof .</sentence>
+<sentence num="19">Dr .Gençay Gürsoy da ,Türkiye'deki şiddet ortamının son kurbanının bir meslektaşları olduğunu belirterek ,''ne yazık ki ,bu ne ilk ,ne son örnek .</sentence>
+<sentence num="20">Uzun yıllardan beri sağlıkla ilgili sorunların hedefi olarak gösterilen hekimler ,şiddetin de hedefi oldu diye konuştu .</sentence>
+<sentence num="21">Kalaycı dün toprağa verildi Uğradığı silahlı saldırı sonucu hayatını kaybeden İstanbul Üniversitesi'nden Prof .</sentence>
+<sentence num="22">Dr .Necip Göksel Kalaycı ,dün son yolculuğuna uğurlandı .</sentence>
+<sentence num="23">İstanbul Üniversitesi ,İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="24">Dr .Kalaycı'nın cenazesi ,İ .Ü .Rektörlüğü'nde düzenlenen törenin ardından Ataköy Beşinci Kısım Camii'ne götürüldü .</sentence>
+<sentence num="25">Kalaycı için burada düzenlenen törene ,ailesi ,yakınları ile İçişleri Bakanı Abdulkadir Aksu ,Sağlık Bakanı Recep Akdağ ,İstanbul Valisi Muammer Güler ,İ .Ü .Rektörü Prof .</sentence>
+<sentence num="26">Dr .Mesut Parlak ,DYP Genel Başkanı Mehmet Ağar ,Yurt Partisi Genel Başkanı Sadettin Tantan ve çalışma arkadaşları katıldı .</sentence>
+<sentence num="27">Kalaycı'nın Türk bayrağına sarılı naaşı ,öğle vakti kılınan namazdan sonra aralarında Aksu ,Akdağ ,Güler ,Ağar ve Tantan'ın da bulunduğu kalabalık tarafından eller üzerine taşınarak ,cenaze aracına konuldu .</sentence>
+<sentence num="28">Kalaycı'nın cenazesi ,Kazlıçeşme Mezarlığı'nda toprağa verildi .</sentence>
+<sentence num="29">Bir kişi gözaltında Olayla ilgili soruşturma ise sürüyor .</sentence>
+<sentence num="30">Prof .</sentence>
+<sentence num="31">Dr .Göksel Kalaycı'nın katil zanlısı olabileceği gerekçesiyle bir kişi pazar günü gözaltına alındı .</sentence>
+<sentence num="32">Görgü tanıkları tarafından teşhis edildiği bildirilen zanlı Y .C .'nin ,Kalaycı'nın ölen hastası Ahmet Cevahir'in akrabası olduğu öne sürüldü .</sentence>
+<sentence num="33">İstanbul Asayiş Şube Müdürlüğü Cinayet Bürosu ekipleri ,katil zanlısı olabileceği gerekçesiyle aranan 35 yaşındaki Y .C .'yi ,gece Haseki'de bir otelde yakaladı .</sentence>
+<sentence num="34">Gözaltına alınan Y .C .,Asayiş Şube Müdürlüğü'ne götürülerek sorgulanmak istedi .</sentence>
+<sentence num="35">Ancak Y .C .'nin susma hakkını kullandığı öğrenildi .</sentence>
+<sentence num="36">Bu arada ,Kalaycı'nın silahlı saldırıda öldürülmesine ilişkin yakalanan Y .C .için bir gün daha ek gözetim süresi alındı .</sentence>
+<sentence num="37">Prof .</sentence>
+<sentence num="38">Dr .Kalaycı'nın öldürülmesi olayına ilişkin Haseki'de bir otelde yakalanan Y .C .(35 ),İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'nde tutuluyor .</sentence>
+<sentence num="39">Görgü tanıklarından dördü tarafından teşhis edilen Y .C'nin ,Prof .</sentence>
+<sentence num="40">Dr .Kalaycı'nın öldürülmesinden sonra yakalandığı otele gittiğinin güvenlik kamerasındaki görüntülerden anlaşıldığı ,otelden ayrıldıktan sonra da yakalandığı geceye kadar geri dönmediği belirlendi .</sentence>
+<sentence num="41">Güvenlik kameralarındaki görüntülerinde Y .C .'nin ,otele girdiği sırada sakal ve bıyıklı olduğu ,dışarı çıktığı sırada ise sakal ve bıyıklarını kestiği anlaşıldı .</sentence>
+<sentence num="42">Olayda kullanılan silahın bulunması amacıyla çalışmalar sürdürülürken ,Y .C'nin bugün adliyeye sevk edilmesi bekleniyor .</sentence>
+<sentence num="43">İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .</sentence>
+<sentence num="44">Dr .Göksel Kalaycı ,geçtiğimiz cuma günü fakültenin otoparkında uğradığı silahlı saldırıda öldürülmüştü .</sentence>
+</doc>
+<doc>
+<id>182975</id>
+<sentence num="0">2005 11 15 14 :52 :00 .Sağlık çalışanları Prof .Dr .Kalaycı'nın öldürülmesini protesto etti .</sentence>
+<sentence num="1">Sağlık çalışanları Prof .Dr .Kalaycı'nın öldürülmesini protesto etti İstanbul Tabip Odası'nca ,İstanbul Üniversitesi (İÜ )İstanbul Tıp Fakültesi Öğretim Üyesi Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesini protesto etmek amacıyla ''Düşünmeye Davet ''sloganıyla yürüyüş gerçekleştirildi .</sentence>
+<sentence num="2">İÜ Cerrahpaşa Tıp Fakültesi'nden saat 12 .30'da hareket eden hekimler ve sağlık çalışanları ,Millet Caddesi'nde bir süre yolu trafiğe de kapatarak alkışlarla yürüdü .</sentence>
+<sentence num="3">İÜ İstanbul Tıp Fakültesi'ne gelen grup ,burada fakültenin Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Kalaycı'nın öldürüldüğü otoparka karanfil bıraktı .</sentence>
+</doc>
+<doc>
+<id>182977</id>
+<sentence num="0">2005 11 15 14 :55 :00 .Göksel Kalaycı için yürüdüler .</sentence>
+<sentence num="1">İÜ Cerrahpaşa Tıp Fakültesi bahçesinde toplanan hekimler ve sağlık çalışanları ,saat 12 .30'da ,hastane bahçesinden Çapa'daki İÜ İstanbul Tıp Fakültesi'ne doğru yürüyüşe geçti .''</sentence>
+<sentence num="2">Prof .Dr .Kalaycı'nın anısına ''yazılı bir çelenk taşıyan hekimler ,''Hedef tahtası olmak istemiyoruz .</sentence>
+<sentence num="3">Sağlıktaki sorunların sorumlusu ,hekimler değildir .</sentence>
+<sentence num="4">İstanbul Tabip Odası ''yazılı pankartın arkasında kortej oluşturdu .</sentence>
+<sentence num="5">Hekimler ile sağlık çalışanları ayrıca ,''Hedef tahtası olmak istemiyoruz ''ve ''Hekimlere yönelik şiddete son ''yazılı pankartlar taşıdılar .</sentence>
+<sentence num="6">Bir süre sessiz süren yürüyüşün ardından hekimler ,kendilerine yapılan şiddeti alkışlarla protesto ettiler .''</sentence>
+<sentence num="7">Cüppe ve Beyaz önlüklü ''yürüyüşe ,İstanbul Tabip Odası Başkanı Prof .Dr .Gençay Gürsoy ,Üniversite Öğretim Üyeleri Derneği Başkanı Prof .Dr .Tahsin Yeşildere ,İstanbul Barosu Başkanı Kazım Kolcuoğlu ,öğretim üyeleri ,hekimler ve sağlık çalışanları katıldı .</sentence>
+<sentence num="8">aa .</sentence>
+</doc>
+<doc>
+<id>183321</id>
+<sentence num="0">2005 11 16 09 :10 :00 .Kalaycı cinayetiyle ilgili bir gözaltı daha Yusuf Cevahir'in hakkındaki suçlamayı reddettiği belirtildi .</sentence>
+<sentence num="1">Hekimler Kalaycı cinayetini protesto için dün yürüyüş düzenledi İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Necip Göksel Kalaycı cinayetiyle ilgili olarak dün bir kişi daha gözaltına alındı .</sentence>
+<sentence num="2">Polis ,ek gözaltı süresi aldığı Yusuf Cevahir'in cinayette kullandığı iddia edilen silahı bulmak için yaptığı çalışmalar sırasında Yusuf Cevahir'in iş ortağı H .K .'nın işyerine baskın yaptı .</sentence>
+<sentence num="3">İşyerinde yapılan aramada bir adet el bombası ve 38 adet 9 mm'lik mermi ele geçirildi .</sentence>
+<sentence num="4">Gözaltına alınan H .K .,Asayiş Şube Müdürlüğü cinayet masası ekipleri tarafından sorguya alındı .</sentence>
+<sentence num="5">H .K .'nın lunapark işletmecisi olduğu belirlendi .</sentence>
+<sentence num="6">Yusuf Cevahir'in İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'ndeki işlemleri tamamlanırken ,kendisine yardım ve yataklık ettiği iddiasıyla gözaltına alınan H .K .,sıkı güvenlik önlemleri altında şubeden çıkartılarak Fatih Adliyesi'ne gönderildi .</sentence>
+<sentence num="7">Bu arada ,dört tanık tarafından teşhis edildiği belirtilen Cevahir'in ,hakkındaki suçlamayı kabul etmediği öğrenildi .</sentence>
+<sentence num="8">Yusuf Cevahir'in cep telefonunun olay sırasında kapalı olduğunun anlaşıldığını belirten yetkililer ,olaydan bir saat sonra cep telefonunu Sarıyer'de açan şüphelinin ilk olarak kendisiyle birlikte adliyeye gönderilen H .K'yi aradığının tespit edildiğini bildirdiler .</sentence>
+<sentence num="9">Hekimlerden protesto Prof .Dr .Kalaycı'nın 11 kasımda öldürülmesinin ardından Tabip Odaları dün hekimlere yönelik şiddeti protesto etti .</sentence>
+<sentence num="10">İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi bahçesinde toplanan hekimler ve sağlık çalışanları ,hastane bahçesinden Çapa'daki İÜ İstanbul Tıp Fakültesi'ne kadar 'Düşünmeye davet 'sloganıyla yürüdü .</sentence>
+<sentence num="11">İÜ İstanbul Tıp Fakültesi'ne gelen grup ,burada fakültenin Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Kalaycı'nın öldürüldüğü otoparka karanfil bıraktı .</sentence>
+<sentence num="12">Bir süre sessiz süren yürüyüşün ardından hekimler ,kendilerine yapılan şiddeti alkışlarla protesto etti .</sentence>
+<sentence num="13">11 kasımda öldürülmüştü İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı ,geçtiğimiz cuma günü fakültenin otoparkında uğradığı silahlı saldırı sonucu öldürülmüştü .</sentence>
+</doc>
+<doc>
+<id>183431</id>
+<sentence num="0">2005 11 16 10 :54 :00 .Prof .Dr .Kalaycı'nın öldürülmesiyle ilgili 2 kişi adliyeye sevk edildi .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı'nın öldürülmesiyle ilgili 2 kişi adliyeye sevk edildi İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesine ilişkin yakalanan Y .C .ile kendisine yardım ve yataklık ettiği iddiasıyla gözaltına alınan başka bir kişi ,adliyeye sevk edildi .</sentence>
+<sentence num="2">Prof .Dr .Kalaycı'nın öldürülmesi olayına ilişkin Haseki'de bir otelde yakalanan Y .C'nin (35 )İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'ndeki işlemleri tamamlandı .</sentence>
+<sentence num="3">Y .C .ile kendisine yardım ve yataklık ettiği iddiasıyla dün Aksaray'da gözaltına alınan H .K ,sıkı güvenlik önlemleri altında şubeden çıkartılarak Fatih Adliyesi'ne gönderildi .</sentence>
+</doc>
+<doc>
+<id>183436</id>
+<sentence num="0">2005 11 16 11 :00 :00 .Prof .Dr .Kalaycı cinayeti ...</sentence>
+<sentence num="1">Bir kişi daha Adliye'ye sevkedildi .</sentence>
+<sentence num="2">İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesine ilişkin yakalanan Y .C .ile kendisine yardım ve yataklık ettiği iddiasıyla gözaltına alınan başka bir kişi ,adliyeye sevk edildi .</sentence>
+<sentence num="3">Prof .Dr .Kalaycı'nın öldürülmesi olayına ilişkin Haseki'de bir otelde yakalanan Y .C'nin (35 )İstanbul Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'ndeki işlemleri tamamlandı .</sentence>
+<sentence num="4">Y .C .ile kendisine yardım ve yataklık ettiği iddiasıyla dün Aksaray'da gözaltına alınan H .K ,sıkı güvenlik önlemleri altında şubeden çıkartılarak Fatih Adliyesi'ne gönderildi .</sentence>
+</doc>
+<doc>
+<id>183475</id>
+<sentence num="0">2005 11 16 11 :50 :00 .4 tanığın teşhis ettiği Kalaycı'nın katil zanlısı ,suçlamaları reddetti .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesine ilişkin yakalanan ve 4 tanık tarafından teşhis edildiği belirtilen Y .C'nin ,hakkındaki suçlamayı kabul etmediği öğrenildi .</sentence>
+<sentence num="2">Polis yetkilileri ,Asayiş Şube Müdürlüğü Cinayet Büro Amirliği'ndeki işlemleri tamamlandığı için Fatih Adliyesi'ne sevk edilen şüpheli Y .C'nin 4 tanık tarafından teşhis edildiğini ,ancak kendisinin hakkındaki suçlamayı kabul etmediğini belirttiler .</sentence>
+<sentence num="3">Y .C'nin cep telefonunun olay sırasında kapalı olduğunun anlaşıldığını belirten yetkililer ,olaydan 1 saat sonra cep telefonunu Sarıyer'de açan şüphelinin ilk olarak kendisiyle birlikte adliyeye gönderilen H .K'yi aradığının tespit edildiğini bildirdiler .</sentence>
+<sentence num="4">Yetkililer ,ifadesinde bıyıklarını Ramazan ayında kestiğini söyleyen şüphelinin kaldığı otelin kamera kayıtlarında ,olaydan bir süre önce bıyıklı olduğunun görüldüğünü ifade ettiler .</sentence>
+<sentence num="5">Aksaray'da yapılan bir baskında 1 adet el bombası ile 33 adet 9 milimetre çaplı mermi ve 27 adet de av tüfeği fişeği ele geçirildiğini ve H .K'nin gözaltına alındığını belirten yetkililer ,Prof .Dr .Kalaycı'nın öldürülmesi olayında kullanılan tabancanın da 9 milimetre çaplı olduğunu hatırlattılar .</sentence>
+<sentence num="6">Yetkililer ,Y .C'nin ,bir yakının hastalığı boyunca yanında kaldığı ve ölümünün ardından olayı tek başına planlayıp gerçekleştirdiğinin sanıldığını kaydettiler .</sentence>
+</doc>
+<doc>
+<id>183528</id>
+<sentence num="0">2005 11 16 12 :41 :00 .Prof .Kalaycı'nın Öldürülmesi Olayı .</sentence>
+<sentence num="1">İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Profesör Necip Göksel Kalaycı'nın öldürülmesi ile ilgili gözaltına alınan 2 kişi ,mahkemeye sevk edildi .</sentence>
+<sentence num="2">Katil zanlısı ve ona yardım ettiği öne sürülen 1 kişi ,Cinayet Büro Amirliği'ndeki sorgularının ardından ,Fatih Adliyesi ''ne sevk edildi .</sentence>
+<sentence num="3">Profesör Necip Göksel Kalaycı ,görev yaptığı İstanbul Üniversitesi Tıp Fakültesi Hastanesi'nin otoparkında ,geçtiğimiz cuma günü uğradığı silahlı saldırıda ,hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>183715</id>
+<sentence num="0">2005 11 16 16 :21 :00 .Kalaycı cinayetinde iki tutuklama .</sentence>
+<sentence num="1">Kalaycı'nın katil zanlısı Cevahir tutuklandı İstanbul Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı'nın katil zanlısı Yusuf Cevahir ile kendisine yardım eden iş ortağı Hasan Kokoğlu tutuklandı .</sentence>
+<sentence num="2">Cevahir ve iş ortağı Hasan Kokoğlu Emniyet'teki sorgularından sonra Fatih Adliyesi'ne sevkedildi .</sentence>
+<sentence num="3">Yetkililer ,dört tanık tarafından teşhis edilen Cevahir'in hakkındaki suçlamayı reddettiğini söyledi .</sentence>
+<sentence num="4">Yetkililer ayrıca ,Yusuf Cevahir'in cep telefonunun olay sırasında kapalı olduğunu ,olaydan bir saat sonra telefonunu açtığını ve ilk olarak Hasan Kokoğlu'nu aradığını tespit etti .</sentence>
+<sentence num="5">Polisin Yusuf Cevahir'le birlikte adliyeye sevkedilen Hasan Kokoğlu'nun işyerinde yaptığı aramada bir el bombası ve 38 adet mermi bulduğu öğrenildi .</sentence>
+<sentence num="6">Savcılık sorgusunun ardından mahkeme çıkarılan Yusuf Cevahir 'adam öldürmek ',Hasan Kokoğlu ise 'yardım ve yataklık 'suçlarından tutuklanarak cezaevine gönderildi .</sentence>
+<sentence num="7">11 kasımda öldürülmüştü İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Göksel Kalaycı ,geçtiğimiz cuma günü fakültenin otoparkında uğradığı silahlı saldırı sonucu öldürülmüştü .</sentence>
+</doc>
+<doc>
+<id>183750</id>
+<sentence num="0">2005 11 16 17 :01 :00 .Prof .Dr .Kalaycı'nın ölümüyle ilgili 2 kişi tutuklandı .</sentence>
+<sentence num="1">Prof .Dr .Kalaycı'nın ölümüyle ilgili 2 kişi tutuklandı İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesinin ardından gözaltına alınan 2 kişi tutuklandı .</sentence>
+<sentence num="2">Asayiş Şube Müdürlüğü'ndeki işlemlerinden sonra güvenlik önlemleri altında Fatih Adliyesi'ne sevk edilen Yusuf Cevahir ile Hasan Kokoğlu ,savcılıkça sorgulandı .</sentence>
+<sentence num="3">Cevahir ve Kokoğlu ,savcılık sorgularının ardından ''kasten adam öldürmek ''ve ''bu suça iştirak ''ten dolayı tutuklanmaları istemiyle mahkemeye sevk edildi .</sentence>
+<sentence num="4">Savcılık sorgularında haklarındaki suçlamaları reddettikleri öğrenilen Cevahir ve Kokoğlu ,Fatih 2 .Sulh Ceza Mahkemesi'nce tutuklanarak Bayrampaşa Cezaevi'ne gönderildi .</sentence>
+</doc>
+<doc>
+<id>183755</id>
+<sentence num="0">2005 11 16 17 :08 :00 .Prof .Kalaycı'nın katilleri tutuklandı .</sentence>
+<sentence num="1">İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesinin ardından gözaltına alınan 2 kişi tutuklandı .</sentence>
+<sentence num="2">Asayiş Şube Müdürlüğü'ndeki işlemlerinden sonra güvenlik önlemleri altında Fatih Adliyesi'ne sevk edilen Yusuf Cevahir ile Hasan Kokoğlu ,savcılıkça sorgulandı .</sentence>
+<sentence num="3">Cevahir ve Kokoğlu ,savcılık sorgularının ardından ''kasten adam öldürmek ''ve ''bu suça iştirak ''ten dolayı tutuklanmaları istemiyle mahkemeye sevk edildi .</sentence>
+<sentence num="4">Savcılık sorgularında haklarındaki suçlamaları reddettikleri öğrenilen Cevahir ve Kokoğlu ,Fatih 2 .Sulh Ceza Mahkemesi'nce tutuklanarak Bayrampaşa Cezaevi'ne gönderildi .</sentence>
+<sentence num="5">Cevahir'in avukatı Zekeriya Çetin ,basın mensuplarına yaptığı açıklamada ,müvekkilinin suçsuz olduğunu ve bir komploya kurban gittiğini ileri sürerek ,tutuklama kararına itiraz edeceklerini bildirdi .(</sentence>
+<sentence num="6">AA .</sentence>
+</doc>
+<doc>
+<id>183778</id>
+<sentence num="0">2005 11 16 17 :35 :00 .Prof .Dr .Kalaycı cinayeti ...</sentence>
+<sentence num="1">2 kişi tutuklandı .</sentence>
+<sentence num="2">İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesinin ardından gözaltına alınan 2 kişi tutuklandı .</sentence>
+<sentence num="3">Asayiş Şube Müdürlüğü'ndeki işlemlerinden sonra güvenlik önlemleri altında Fatih Adliyesi'ne sevk edilen Yusuf Cevahir ile Hasan Kokoğlu ,savcılıkça sorgulandı .</sentence>
+<sentence num="4">Cevahir ve Kokoğlu ,savcılık sorgularının ardından kasten adam öldürmek ve bu suça iştirak ten dolayı tutuklanmaları istemiyle mahkemeye sevk edildi .</sentence>
+<sentence num="5">Savcılık sorgularında haklarındaki suçlamaları reddettikleri öğrenilen Cevahir ve Kokoğlu ,Fatih 2 .Sulh Ceza Mahkemesi'nce tutuklanarak Bayrampaşa Cezaevi'ne gönderildi .</sentence>
+<sentence num="6">Cevahir'in avukatı Zekeriya Çetin ,basın mensuplarına yaptığı açıklamada ,müvekkilinin suçsuz olduğunu ve bir komploya kurban gittiğini ileri sürerek ,tutuklama kararına itiraz edeceklerini bildirdi .</sentence>
+</doc>
+<doc>
+<id>183790</id>
+<sentence num="0">2005 11 16 17 :50 :00 .Kalaycı'nın Zanlılarına Tutuklama .</sentence>
+<sentence num="1">İstanbul Üniversitesi Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Profesör Necip Göksel Kalaycı'nın öldürülmesinin ardından gözaltına alınan 2 kişi tutuklandı ..</sentence>
+<sentence num="2">Katil zanlısıyla ona yardım ettiği öne sürülen bir kişi ,Asayiş Şube Müdürlüğü'ndeki işlemlerinden sonra Fatih Adliyesi'ne sevk edildi .</sentence>
+<sentence num="3">Haklarındaki suçlamaları reddeden iki kişi tutuklanarak Bayrampaşa Cezaevi'ne gönderildi .</sentence>
+<sentence num="4">Profesör Necip Göksel Kalaycı ,görev yaptığı İstanbul Üniversitesi Tıp Fakültesi Hastanesi'nin otoparkında ,geçen cuma günü uğradığı silahlı saldırıda hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>193027</id>
+<sentence num="0">2005 12 03 09 :30 :00 .Doktorlar da şiddet mağduru .</sentence>
+<sentence num="1">Doktorlar da şiddet mağduru Türkiye'de ,2002 yılından bu yana hastanelerde hasta yakınları tarafından ,son olarak İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesi de dahil doktorlara yönelik 37 saldırı gerçekleştirildiği bildirildi .</sentence>
+<sentence num="2">Türk Tabipleri Birliği (TTB ),tabip odalarının verileri doğrultusunda ,son 4 yılda sağlık kuruluşlarında doktorların maruz kaldıkları saldırılarla ilgili bir rapor hazırladı .</sentence>
+<sentence num="3">Rapora göre ,2002 2005 yılları arasında doktorlara ve sağlık personeline yönelik tabip odalarına Adana ve Kocaeli'de 3'er ,Denizli ve Manisa'da 2'şer ,Karabük'te 7 ,Tekirdağ'da 5 ,Trabzon'da 4 ,Adıyaman ,Ankara ,Bursa ,Çanakkale ,Edirne ,Mersin ,Sakarya ,Hatay ,Ordu ,Şanlıurfa ve İstanbul'da 1'er saldırı olayı yansıdı .</sentence>
+<sentence num="4">Adana'da 14 ve 18 Temmuz 2004 tarihlerinde iki doktor bıçaklı saldırıya maruz kalırken ,13 Şubat 2005'te de Adana Devlet Hastanesi Acil Servisi'nde görevli doktor ve sağlık çalışanlarına silahlı saldırı yapıldı .</sentence>
+<sentence num="5">Karabük'te 2004 2005 tarihlerinde 6 doktor ,hasta veya hasta yakınlarının tehdit ,silahlı tehdit ve fiili saldırısına maruz kaldı ,acil serviste darp edildikten sonra tehdit edilen bir doktor tayin isteyerek ilden ayrılmak zorunda kaldı .</sentence>
+<sentence num="6">Kocaeli'de ,2002 ve 2004 yıllarında 2 doktor darp edilirken ,bir doktor bıçaklı saldırı sonucu yaralandı .</sentence>
+<sentence num="7">Manisa'da da 2003 yılının Haziran ayında acil serviste nöbetçi doktor fiili saldırıya uğradı ,2005'in Nisan ayında silahlı saldırıya uğrayan başka bir doktor yaralandı .</sentence>
+<sentence num="8">Mersin'de 22 Ekim 2004 tarihinde 2 doktor ,Sakarya'da da bu yıl bir doktor ,hasta yakınlarının fiili saldırısına maruz kaldı .</sentence>
+<sentence num="9">Tekirdağ'da 2003 yılında sağlık ocağında görev yapan bir doktor ve sağlık memuru ,2004 yılında bir doktor gece vakti hasta muayenesi için çağrıldığı yerde darp edildi .</sentence>
+<sentence num="10">Yine 2004 yılında ve bu yılın ilk aylarında 2 doktor hastane bahçesinde bıçaklandı ,2005'in Haziran ayında ise bir doktor acil serviste hasta yakınlarının fiili saldırısına uğradı .</sentence>
+<sentence num="11">Trabzon'da 2002 2003 yıllarında 4 doktor hasta yakınlarının fiili saldırısına uğrarken ,doktorlardan birinin aracı da kundaklandı .</sentence>
+<sentence num="12">Hatay'da 3 Temmuz 2005 tarihinde hasta yakınlarının saldırısına uğrayan ,aldığı yumruk darbeleriyle ağır yaralanan bir doktorun burnu kırıldı .</sentence>
+<sentence num="13">Şanlıurfa'da 18 Ekim 2005 tarihinde meydana gelen benzeri olayda da görevi başındayken hasta yakınının saldırısına uğrayan bir doktorun burnu kırıldı .</sentence>
+<sentence num="14">Ordu'da ise 23 Eylül 2005 günü ,hasta yakınlarının fiili ve sözlü saldırısına maruz kalan bir doktor ve 2 hemşire ,suç duyurusunda bulundu .</sentence>
+<sentence num="15">Hasta yakınları tarafından gerçekleştirilen son saldırı ise İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın ölümüyle sonuçlandı .</sentence>
+<sentence num="16">Hastanenin otoparkında 11 Kasım'da uğradığı silahlı saldırı sonucu ağır yaralanan Kalaycı ,kurtarılamadı .</sentence>
+</doc>
+<doc>
+<id>193069</id>
+<sentence num="0">2005 12 03 10 :45 :00 .Doktorlar da şiddet kurbanı .</sentence>
+<sentence num="1">Türkiye'de ,2002 yılından bu yana hastanelerde hasta yakınları tarafından ,son olarak İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesi de dahil doktorlara yönelik 37 saldırı gerçekleştirildiği bildirildi .</sentence>
+<sentence num="2">Türk Tabipleri Birliği (TTB ),tabip odalarının verileri doğrultusunda ,son 4 yılda sağlık kuruluşlarında doktorların maruz kaldıkları saldırılarla ilgili bir rapor hazırladı .</sentence>
+<sentence num="3">Rapora göre ,2002 2005 yılları arasında doktorlara ve sağlık personeline yönelik tabip odalarına Adana ve Kocaeli'de 3'er ,Denizli ve Manisa'da 2'şer ,Karabük'te 7 ,Tekirdağ'da 5 ,Trabzon'da 4 ,Adıyaman ,Ankara ,Bursa ,Çanakkale ,Edirne ,Mersin ,Sakarya ,Hatay ,Ordu ,Şanlıurfa ve İstanbul'da 1'er saldırı olayı yansıdı .</sentence>
+<sentence num="4">Adana'da 14 ve 18 Temmuz 2004 tarihlerinde iki doktor bıçaklı saldırıya maruz kalırken ,13 Şubat 2005'te de Adana Devlet Hastanesi Acil Servisi'nde görevli doktor ve sağlık çalışanlarına silahlı saldırı yapıldı .</sentence>
+<sentence num="5">Karabük'te 2004 2005 tarihlerinde 6 doktor ,hasta veya hasta yakınlarının tehdit ,silahlı tehdit ve fiili saldırısına maruz kaldı ,acil serviste darp edildikten sonra tehdit edilen bir doktor tayin isteyerek ilden ayrılmak zorunda kaldı .</sentence>
+<sentence num="6">Kocaeli'de ,2002 ve 2004 yıllarında 2 doktor darp edilirken ,bir doktor bıçaklı saldırı sonucu yaralandı .</sentence>
+<sentence num="7">Manisa'da da 2003 yılının Haziran ayında acil serviste nöbetçi doktor fiili saldırıya uğradı ,2005'in Nisan ayında silahlı saldırıya uğrayan başka bir doktor yaralandı .</sentence>
+<sentence num="8">Mersin'de 22 Ekim 2004 tarihinde 2 doktor ,Sakarya'da da bu yıl bir doktor ,hasta yakınlarının fiili saldırısına maruz kaldı .</sentence>
+<sentence num="9">Tekirdağ'da 2003 yılında sağlık ocağında görev yapan bir doktor ve sağlık memuru ,2004 yılında bir doktor gece vakti hasta muayenesi için çağrıldığı yerde darp edildi .</sentence>
+<sentence num="10">Yine 2004 yılında ve bu yılın ilk aylarında 2 doktor hastane bahçesinde bıçaklandı ,2005'in Haziran ayında ise bir doktor acil serviste hasta yakınlarının fiili saldırısına uğradı .</sentence>
+<sentence num="11">Trabzon'da 2002 2003 yıllarında 4 doktor hasta yakınlarının fiili saldırısına uğrarken ,doktorlardan birinin aracı da kundaklandı .</sentence>
+<sentence num="12">Hatay'da 3 Temmuz 2005 tarihinde hasta yakınlarının saldırısına uğrayan ,aldığı yumruk darbeleriyle ağır yaralanan bir doktorun burnu kırıldı .</sentence>
+<sentence num="13">Şanlıurfa'da 18 Ekim 2005 tarihinde meydana gelen benzeri olayda da görevi başındayken hasta yakınının saldırısına uğrayan bir doktorun burnu kırıldı .</sentence>
+<sentence num="14">Ordu'da ise 23 Eylül 2005 günü ,hasta yakınlarının fiili ve sözlü saldırısına maruz kalan bir doktor ve 2 hemşire ,suç duyurusunda bulundu .</sentence>
+<sentence num="15">Hasta yakınları tarafından gerçekleştirilen son saldırı ise İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın ölümüyle sonuçlandı .</sentence>
+<sentence num="16">Hastanenin otoparkında 11 Kasım'da uğradığı silahlı saldırı sonucu ağır yaralanan Kalaycı ,kurtarılamadı .''</sentence>
+<sentence num="17">MAĞDUR DOKTOR SAYISI ASLINDA DAHA FAZLA ''TTB Genel Sekreteri Dr .Orhan Odabaşı ,AA muhabirine yaptığı açıklamada ,raporun doktorların ne kadar zor koşullarda çalıştıklarının göstergesi olduğunu belirtti .</sentence>
+<sentence num="18">Doktorlara yönelik bazı saldırıların ''saldırıyı gururuna yediremeyen doktorların bunu içlerine atmaları nedeniyle ''rapora tam olarak yansımadığına işaret eden Odabaşı ,şunları söyledi :''Hasta yakınları tarafından bağırılan ,çağrılan ,tehdit edilen ,tokat atılan ,kurşun sıkılan doktorlarımız var .</sentence>
+<sentence num="19">Ancak çoğu doktor ,bu tür olaylarla mağdur olduğu zaman kendi içine dönüyor ve diyor ki ,(Bu işe ömrümü verdim .</sentence>
+<sentence num="20">Ne için yaptım ?</sentence>
+<sentence num="21">İnsanlara yararlı olmak için .</sentence>
+<sentence num="22">Ben bu tokadı ,tekmeyi hak etmedim ).</sentence>
+<sentence num="23">Dolayısıyla bazı doktorlar bu saldırıları gururuna yediremediği kimseye duyurmuyor ,ondan sonra da kaderine ,mesleğine küsüyor .''</sentence>
+<sentence num="24">Odabaşı ,TTB olarak doktorların saldırılara maruz kaldıkları zaman kendilerini bilgilendirmeleri amacıyla ''Açık Bilgi Sistemi ''oluşturduklarını ,bu çerçevede saldırıya uğrayan doktorları Cumhuriyet savcılıklarına suç duyurusunda bulunmaya yönlendirdiklerini ve hukuki destek verdiklerini anlattı .</sentence>
+<sentence num="25">Sağlık hizmeti veren kuruluşların kamu alanı olduklarını ,devletin bu alanlardaki güvenliği başka kuruluşlar aracılığıyla değil kendi kurumlarıyla sağlaması gerektiğini belirten Odabaşı ,sağlığın şiddetten arınmış bir alan olduğunu ,savaş ortamında bile sağlık çalışanlarının dokunulmazlığı bulunduğunu hatırlattı .</sentence>
+<sentence num="26">Odabaşı ,şunları söyledi :''Oysa ülkemizde acil servisler başta olmak üzere sağlık kurumları taciz ,saldırı ve şiddet olaylarının yoğun olarak yaşandığı ,güvenli olmayan alanlar haline gelmiştir .</sentence>
+<sentence num="27">Nihayet Necip Göksel Kalaycı hocamız da çalıştığı kurumun otoparkında uğradığı saldırı sonucu katledilmiştir .</sentence>
+<sentence num="28">Olay sonrasında zanlıların kısa sürede yakalanması takdire şayandır ,ancak aynı hassasiyet sağlık kurumlarının güvenliğinde de gösterilseydi ,belki hocamız bugün yaşıyor olacaktı .</sentence>
+<sentence num="29">Güvenlik hizmetlerinin özel şirketlere verildiği sağlık kurumlarında ,1 2 polis nöbet tutmaktadır .</sentence>
+<sentence num="30">Onlar da adli olaylarda hastane ile polis merkezi arasındaki adli ilişkiyi kurmak ,tutanak tutmakla yükümlüdür .</sentence>
+<sentence num="31">Güvenliği üstlenen şirketlerin elemanlarının vasıf ve görevleri konusunda belirsizlik yaşandığı için doktor ve sağlık personeline yönelik saldırılarda ortamdan ilk uzaklaşanlar ,bu görevliler oluyor .</sentence>
+<sentence num="32">Bir polisin ,böylesi bir olayda alacağı tutum elbette daha farklı olacaktır .</sentence>
+<sentence num="33">Bu nedenle sağlık kurumlarının güvenliğini özel şirketler değil polis sağlamalı .''.</sentence>
+</doc>
+<doc>
+<id>193078</id>
+<sentence num="0">2005 12 03 11 :00 :00 .Doktorlar da şiddet mağduru .</sentence>
+<sentence num="1">Şengül Önder Türkiye'de ,2002 yılından bu yana hastanelerde hasta yakınları tarafından ,son olarak İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın öldürülmesi de dahil doktorlara yönelik 37 saldırı gerçekleştirildiği bildirildi .</sentence>
+<sentence num="2">Türk Tabipleri Birliği (TTB ),tabip odalarının verileri doğrultusunda ,son 4 yılda sağlık kuruluşlarında doktorların maruz kaldıkları saldırılarla ilgili bir rapor hazırladı .</sentence>
+<sentence num="3">Rapora göre ,2002 2005 yılları arasında doktorlara ve sağlık personeline yönelik tabip odalarına Adana ve Kocaeli'de 3'er ,Denizli ve Manisa'da 2'şer ,Karabük'te 7 ,Tekirdağ'da 5 ,Trabzon'da 4 ,Adıyaman ,Ankara ,Bursa ,Çanakkale ,Edirne ,Mersin ,Sakarya ,Hatay ,Ordu ,Şanlıurfa ve İstanbul'da 1'er saldırı olayı yansıdı .</sentence>
+<sentence num="4">Adana'da 14 ve 18 Temmuz 2004 tarihlerinde iki doktor bıçaklı saldırıya maruz kalırken ,13 Şubat 2005'te de Adana Devlet Hastanesi Acil Servisi'nde görevli doktor ve sağlık çalışanlarına silahlı saldırı yapıldı .</sentence>
+<sentence num="5">Karabük'te 2004 2005 tarihlerinde 6 doktor ,hasta veya hasta yakınlarının tehdit ,silahlı tehdit ve fiili saldırısına maruz kaldı ,acil serviste darp edildikten sonra tehdit edilen bir doktor tayin isteyerek ilden ayrılmak zorunda kaldı .</sentence>
+<sentence num="6">Kocaeli'de ,2002 ve 2004 yıllarında 2 doktor darp edilirken ,bir doktor bıçaklı saldırı sonucu yaralandı .</sentence>
+<sentence num="7">Manisa'da da 2003 yılının Haziran ayında acil serviste nöbetçi doktor fiili saldırıya uğradı ,2005'in Nisan ayında silahlı saldırıya uğrayan başka bir doktor yaralandı .</sentence>
+<sentence num="8">Mersin'de 22 Ekim 2004 tarihinde 2 doktor ,Sakarya'da da bu yıl bir doktor ,hasta yakınlarının fiili saldırısına maruz kaldı .</sentence>
+<sentence num="9">Tekirdağ'da 2003 yılında sağlık ocağında görev yapan bir doktor ve sağlık memuru ,2004 yılında bir doktor gece vakti hasta muayenesi için çağrıldığı yerde darp edildi .</sentence>
+<sentence num="10">Yine 2004 yılında ve bu yılın ilk aylarında 2 doktor hastane bahçesinde bıçaklandı ,2005'in Haziran ayında ise bir doktor acil serviste hasta yakınlarının fiili saldırısına uğradı .</sentence>
+<sentence num="11">Trabzon'da 2002 2003 yıllarında 4 doktor hasta yakınlarının fiili saldırısına uğrarken ,doktorlardan birinin aracı da kundaklandı .</sentence>
+<sentence num="12">Hatay'da 3 Temmuz 2005 tarihinde hasta yakınlarının saldırısına uğrayan ,aldığı yumruk darbeleriyle ağır yaralanan bir doktorun burnu kırıldı .</sentence>
+<sentence num="13">Şanlıurfa'da 18 Ekim 2005 tarihinde meydana gelen benzeri olayda da görevi başındayken hasta yakınının saldırısına uğrayan bir doktorun burnu kırıldı .</sentence>
+<sentence num="14">Ordu'da ise 23 Eylül 2005 günü ,hasta yakınlarının fiili ve sözlü saldırısına maruz kalan bir doktor ve 2 hemşire ,suç duyurusunda bulundu .</sentence>
+<sentence num="15">Hasta yakınları tarafından gerçekleştirilen son saldırı ise İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim Dalı Başkanı Prof .Dr .Necip Göksel Kalaycı'nın ölümüyle sonuçlandı .</sentence>
+<sentence num="16">Hastanenin otoparkında 11 Kasım'da uğradığı silahlı saldırı sonucu ağır yaralanan Kalaycı ,kurtarılamadı .''</sentence>
+<sentence num="17">MAĞDUR DOKTORLARIN SAYISI ASLINDA DAHA FAZLA ''TTB Genel Sekreteri Dr .Orhan Odabaşı ,AA muhabirine yaptığı açıklamada ,raporun doktorların ne kadar zor koşullarda çalıştıklarının göstergesi olduğunu belirtti .</sentence>
+<sentence num="18">Doktorlara yönelik bazı saldırıların ''saldırıyı gururuna yediremeyen doktorların bunu içlerine atmaları nedeniyle ''rapora tam olarak yansımadığına işaret eden Odabaşı ,şunları söyledi :''Hasta yakınları tarafından bağırılan ,çağrılan ,tehdit edilen ,tokat atılan ,kurşun sıkılan doktorlarımız var .</sentence>
+<sentence num="19">Ancak çoğu doktor ,bu tür olaylarla mağdur olduğu zaman kendi içine dönüyor ve diyor ki ,(Bu işe ömrümü verdim .</sentence>
+<sentence num="20">Ne için yaptım ?</sentence>
+<sentence num="21">İnsanlara yararlı olmak için .</sentence>
+<sentence num="22">Ben bu tokadı ,tekmeyi hak etmedim ).</sentence>
+<sentence num="23">Dolayısıyla bazı doktorlar bu saldırıları gururuna yediremediği kimseye duyurmuyor ,ondan sonra da kaderine ,mesleğine küsüyor .''</sentence>
+<sentence num="24">Odabaşı ,TTB olarak doktorların saldırılara maruz kaldıkları zaman kendilerini bilgilendirmeleri amacıyla ''Açık Bilgi Sistemi ''oluşturduklarını ,bu çerçevede saldırıya uğrayan doktorları Cumhuriyet savcılıklarına suç duyurusunda bulunmaya yönlendirdiklerini ve hukuki destek verdiklerini anlattı .</sentence>
+<sentence num="25">Sağlık hizmeti veren kuruluşların kamu alanı olduklarını ,devletin bu alanlardaki güvenliği başka kuruluşlar aracılığıyla değil kendi kurumlarıyla sağlaması gerektiğini belirten Odabaşı ,sağlığın şiddetten arınmış bir alan olduğunu ,savaş ortamında bile sağlık çalışanlarının dokunulmazlığı bulunduğunu hatırlattı .</sentence>
+<sentence num="26">Odabaşı ,şunları söyledi :''Oysa ülkemizde acil servisler başta olmak üzere sağlık kurumları taciz ,saldırı ve şiddet olaylarının yoğun olarak yaşandığı ,güvenli olmayan alanlar haline gelmiştir .</sentence>
+<sentence num="27">Nihayet Necip Göksel Kalaycı hocamız da çalıştığı kurumun otoparkında uğradığı saldırı sonucu katledilmiştir .</sentence>
+<sentence num="28">Olay sonrasında zanlıların kısa sürede yakalanması takdire şayandır ,ancak aynı hassasiyet sağlık kurumlarının güvenliğinde de gösterilseydi ,belki hocamız bugün yaşıyor olacaktı .</sentence>
+<sentence num="29">Güvenlik hizmetlerinin özel şirketlere verildiği sağlık kurumlarında ,1 2 polis nöbet tutmaktadır .</sentence>
+<sentence num="30">Onlar da adli olaylarda hastane ile polis merkezi arasındaki adli ilişkiyi kurmak ,tutanak tutmakla yükümlüdür .</sentence>
+<sentence num="31">Güvenliği üstlenen şirketlerin elemanlarının vasıf ve görevleri konusunda belirsizlik yaşandığı için doktor ve sağlık personeline yönelik saldırılarda ortamdan ilk uzaklaşanlar ,bu görevliler oluyor .</sentence>
+<sentence num="32">Bir polisin ,böylesi bir olayda alacağı tutum elbette daha farklı olacaktır .</sentence>
+<sentence num="33">Bu nedenle sağlık kurumlarının güvenliğini özel şirketler değil polis sağlamalı .''.</sentence>
+</doc>
+<doc>
+<id>193081</id>
+<sentence num="0">2005 12 03 11 :05 :00 .Doktorlar da şiddet mağduru .</sentence>
+<sentence num="1">Doktorlara yönelik saldırıların son hedefi Prof .Dr .Göksel Kalaycı'ydı Türkiye'de 2002 yılından bu yana hastanelerde hasta yakınları tarafından doktorlara yönelik 37 saldırı gerçekleştirildi .</sentence>
+<sentence num="2">Türk Tabipleri Birliği (TTB ),tabip odalarının verileri doğrultusunda ,son dört yılda sağlık kuruluşlarında doktorların maruz kaldıkları saldırılarla ilgili bir rapor hazırladı .</sentence>
+<sentence num="3">Rapora göre ,2002 2005 yılları arasında doktorlara ve sağlık personeline yönelik tabip odalarına Adana ve Kocaeli'de 3'er ,Denizli ve Manisa'da 2'şer ,Karabük'te 7 ,Tekirdağ'da 5 ,Trabzon'da 4 ,Adıyaman ,Ankara ,Bursa ,Çanakkale ,Edirne ,Mersin ,Sakarya ,Hatay ,Ordu ,Şanlıurfa ve İstanbul'da 1'er saldırı olayı yansıdı .</sentence>
+<sentence num="4">İl il olaylar :Adana :14 ve 18 temmuz 2004'te iki doktor bıçaklı saldırıya maruz kalırken ,13 şubat 2005'te de Adana Devlet Hastanesi Acil Servisi'nde görevli doktor ve sağlık çalışanlarına silahlı saldırı yapıldı .</sentence>
+<sentence num="5">Karabük :2004 2005 tarihlerinde 6 doktor ,hasta veya hasta yakınlarının tehdit ,silahlı tehdit ve fiili saldırısına maruz kaldı ,acil serviste darp edildikten sonra tehdit edilen bir doktor tayin isteyerek ilden ayrılmak zorunda kaldı .</sentence>
+<sentence num="6">Kocaeli :2002 ve 2004 yıllarında 2 doktor darp edilirken ,bir doktor bıçaklı saldırı sonucu yaralandı .</sentence>
+<sentence num="7">Manisa :2003 yılının haziran ayında acil serviste nöbetçi doktor fiili saldırıya uğradı ,2005'in Nisan ayında silahlı saldırıya uğrayan başka bir doktor yaralandı .</sentence>
+<sentence num="8">Mersin :22 ekim 2004'te iki doktor ,Sakarya'da da bu yıl bir doktor ,hasta yakınlarının fiili saldırısına maruz kaldı .</sentence>
+<sentence num="9">Tekirdağ :2003 yılında sağlık ocağında görev yapan bir doktor ve sağlık memuru ,2004 yılında bir doktor gece vakti hasta muayenesi içinçağrıldığı yerde darp edildi .</sentence>
+<sentence num="10">Yine 2004 yılında ve bu yılın ilk aylarında 2 doktor hastane bahçesinde bıçaklandı ,2005'in haziran ayında ise bir doktor acil serviste hasta yakınlarının fiili saldırısına uğradı .</sentence>
+<sentence num="11">Trabzon :2002 2003 yıllarında 4 doktor hasta yakınlarının fiili saldırısına uğrarken ,doktorlardan birinin aracı da kundaklandı .</sentence>
+<sentence num="12">Hatay :3 temmuz 2005 tarihinde hasta yakınlarının saldırısına uğrayan ,aldığı yumruk darbeleriyle ağır yaralanan bir doktorun burnu kırıldı .</sentence>
+<sentence num="13">Şanlıurfa :18 ekim 2005 tarihinde meydana gelen benzeri olayda da görevi başındayken hasta yakınının saldırısına uğrayan bir doktorun burnu kırıldı .</sentence>
+<sentence num="14">Ordu :23 eylül 2005'te hasta yakınlarının fiili ve sözlü saldırısına maruz kalan bir doktor ve 2 hemşire ,suç duyurusunda bulundu .</sentence>
+<sentence num="15">Prof .Dr .Kalaycı'nın öldürülmesi Hasta yakınları tarafından gerçekleştirilen son saldırı ise İstanbul Üniversitesi (İÜ )Tıp Fakültesi Göğüs Cerrahisi Anabilim DalıBaşkanı Prof .Dr .Necip Göksel Kalaycı'nın ölümüyle sonuçlandı .</sentence>
+<sentence num="16">Hastanenin otoparkında 11 kasımda uğradığı silahlı saldırı sonucu ağır yaralanan Kalaycı ,kurtarılamadı .</sentence>
+</doc>

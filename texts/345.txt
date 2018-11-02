@@ -1,0 +1,571 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 08 03 14 :23 :00 .kayseri'de altı bebek öldü yoğun bakım ünitesinde 83 bebek bulunuyor ..</sentence>
+<sentence num="1">aileler ,bebeklere otopsiyi kabul etmiyor ilgili galeri foto galeri için tıklayınız kayseri erciyes üniversitesi gevher nesibe hastanesi yenidoğan ünitesinde ölen bebeklerin sayısı altıya yükseldi .</sentence>
+<sentence num="2">cnn türk'e konuşan gevher nesibe hastanesi başhekimi prof dr .mehmet doğanay ,yapılan araştırmalarda ,'hastane enfeksiyonu 'şüphesini ön planda tuttuklarını söyledi .</sentence>
+<sentence num="3">doğanay ,şu anda yoğun bakım ünitesine hasta bebek kabul edilmediğini ancak mevcut bebeklerin bakımlarının büyük bir titizlikle yapıldığını kaydetti .</sentence>
+<sentence num="4">hastanenin 12'nci katında bulunan yenidoğan ünitesindeki altı bebeğin ölüm sebebi henüz bilinmiyor .</sentence>
+<sentence num="5">hepsi prematüre olan bebeklerden altısının ölümü ,yaklaşık 10 saat içinde gerçekleşti .</sentence>
+<sentence num="6">bebeklere otopsi yapılacak kayseri devlet hastanesi başhekimi ismail tamer ,eü yenidoğan servisi'ndeki bebek ölümleri ve sonrasında alınacak önlemlerle ilgili hastane başhekimleriyle toplantı yaptıklarını belirtti .</sentence>
+<sentence num="7">toplantıda alınan kararlar doğrultusunda ,eü yenidoğan servisi'ne hasta kabul edilmeyeceğini bildiren tamer ,yeni doğan bebeklerin devlet hastanesi ve doğumevi hastanesi'nde tedavi edileceğini ,sevki gereken hastaların ise çevre illerdeki üniversite hastanelerine gönderileceğini söyledi .</sentence>
+<sentence num="8">ölümlerin nedeninin belirlenebilmesi için hastane morgunda bekletilen bebek cesetlerine otopsi yapılacağını kaydeden tamer ,otopsi için hastanelerinden patolog ve mikrobiyolog görevlendirdiklerini belirtti .</sentence>
+<sentence num="9">tamer ,bebek ölümleriyle ilgili araştırma yapılması için sağlık bakanlığı'ndan da bir ekibin kayseri'ye geleceğini hatırlattı .</sentence>
+<sentence num="10">enfeksiyon riskinin tüm hastanelerde olduğunu belirten dr .tamer ,kayseri'deki diğer hastanelerde de enfeksiyon sorunu yaşanmaması için gereken önlemleri aldıklarını vurguladı .</sentence>
+<sentence num="11">erciyes üniversitesi tıp fakültesi hastanesi'nde 16 günlük bebeklerini kaybeden ömür orhan ile eşi filiz orhan da ,bebeklerinin ölümünden hastaneyi sorumlu tuttu .</sentence>
+<sentence num="12">ömür orhan ,hollanda'da yaşadığını ve izinli olarak geldikleri kayseri'de bebeklerinin beklenenden iki ay önce dünyaya geldiğini söyledi .</sentence>
+<sentence num="13">hayli üzgün ve bitkin halde olan anne filiz orhan da ilk çocukları olan esma bebeği doyasıya sevemediğini ve kaybetmenin üzüntüsünü yaşadığını belirtti .</sentence>
+<sentence num="14">ömür ve filiz orhan çifti ,hastane morgunda bekletilen bebeklerinin cesedinin bir an önce kendilerine verilmesini istediklerini de söylediler .</sentence>
+<sentence num="15">bilimsel bir heyet çalışmalara başladı sağlık bakanı recep akdağ da bebek ölümleri ile ilgili bilimsel bir heyetin çalışmalara başladığını duyurdu .</sentence>
+<sentence num="16">edirne ve manisa'daki bebek ölümlerinin ardından bilimsel bir heyet oluşturduklarını hatırlatan bakan akdağ ,konunun uzmanlarından oluşan heyetin yerinde incelemeler yaptığını söyledi .</sentence>
+<sentence num="17">hastane enfeksiyonları ,hastanelerde ameliyathanelerde ,yoğun bakımlarda ,yeni doğan servislerinde bütün dünyanın baş etmek için ciddi ölçüde uğraştığı enfeksiyonlardır diyen akdağ ,antibiyotiklerin yaygın kullanımı nedeniyle söz konusu enfeksiyonlarla mücadelenin zorlaştığını söyledi .</sentence>
+<sentence num="18">edirne'de sekiz bebek ölmüştü hastane enfeksiyonlarına bağlı bebek ölümleri en son manisa'da yaşanmıştı .</sentence>
+<sentence num="19">manisa doğum ve çocuk bakımevi hastanesi'nde 17 temmuzda iki bebek ölmüştü .</sentence>
+<sentence num="20">edirne'de de geçtiğimiz haziran ayında trakya üniversitesi edirne tıp fakültesi hastanesi'nde ,'serratia 'bakterisinin neden olduğu enfeksiyon nedeniyle sekiz bebek hayatını kaybetmişti .</sentence>
+<sentence num="21">serratia ,'koliform 'bakterinin bir örneği ve tipik olarak toprak ve suda bulunuyor .</sentence>
+<sentence num="22">serratia bakterisi 1950'lere kadar hastalık etkeni olarak tanımlanıyordu .</sentence>
+<sentence num="23">ancak son yıllarda özellikle hastanede yatmakta olan hastalardan gittikçe daha sık bir şekilde bildirilmeye başlandı .</sentence>
+<sentence num="24">literatürde 1975'ten bu yana almanya ,avusturya ,abd ,japonya ,meksika gibi ülkelerin yeni doğan birimlerinde bildirilmiş 30 civarında salgın tanımlandı .</sentence>
+<sentence num="25">serratia bakterisinin yol açtığı enfeksiyonlar ,sağlam insanlar için çok sorun olmasa da büyük sorunları olan erişkinlerde ve yeni doğanlarda ölümcül olabiliyor .</sentence>
+</doc>
+<doc>
+<id>126903</id>
+<sentence num="0">2005 08 03 14 :35 :00 .Kayseri'de üniversite hastanesinde 7 bebek öldü .</sentence>
+<sentence num="1">İbrahim ÖZÇEKİÇ DHA ERCİYES Üniversitesi Gevher Nesibe Hastanesi Yenidoğan Servisi'nde son 24 saat içinde 7 bebek birden ölünce enfeksiyon şüphesiyle hasta kabulü durdurulurak servis kapatıldı .</sentence>
+<sentence num="2">Erciyes Üniversitesi Gevher Nesibe Hastanesi Yeni Doğan Servisi'nde 2 bebeğin daha ölmesiyle dün geceden bugün öğleye kadar yaşamını yitiren bebek sayısı 7'ye yükseldi .</sentence>
+<sentence num="3">Pramatüre doğan ve çeşitli sağlık sorunları bulunan 90'dan fazla bebeğin bulunduğu Yenidoğan Servisi'nde bebeklerden 2'sinin durumunun da kritik olduğu belirtildi .</sentence>
+<sentence num="4">Ölen bebeklerden alınan kan ve diğer doku örnekleriyle ,tedavilerinde kullanılan aletler ve cihazlardan alınan örnekler incelemeye alındı .</sentence>
+<sentence num="5">Bebek ölümlerinin ardından Erciyes Üniversitesi Tıp Fakültesi Gevher Nesibe Hastanesi'nin 12'nci katında yer alan Yeni Doğan Servisi'nde önlemler alındı .</sentence>
+<sentence num="6">Servise hasta kabulü durduruldu ve halen tedavi altında bulunan bebeklerin durumu titizlikle takip edilmeye başlandı .</sentence>
+<sentence num="7">Yetkililer ,bu durumun yarına kadar süreceğini ,laboratuvar incelemesinin sonuçlarına göre yeni önlemlere başvurulabileceğini söyledi .</sentence>
+<sentence num="8">Ölen bebeklerden Ceviz soyadlı bebeği sabah saatlerinde ailesi alıp götürürken ,diğer 6 bebek ise inceleme yapılmak üzere hastane morgunda bekletiliyor .</sentence>
+<sentence num="9">ANİDEN GELİŞEN ENFEKSİYON MU ?</sentence>
+<sentence num="10">Peşpeşe ölümler nedeniyle Gevher Nesibe Hastanesi Yenidoğan Servisi'nde tedavi altında bulunan bebeklerin aileleri paniğe kapılırken ,Başhekim Prof .Dr .Mehmet Doğanay ,hastane yönetimi olarak gereken tüm önlemleri aldıklarını söyledi .</sentence>
+<sentence num="11">Prof .Dr .Doğanay ,?</sentence>
+<sentence num="12">Bebek ölümlerinin nedenlerini belirlemek için başlattığımız çalışma tüm hızıyla sürüyor .</sentence>
+<sentence num="13">Bebek ölümlerine bir anlam veremediğimiz için hastane yönetimi olarak geniş kapsamlı soruşturma ve araştırma başlattık ''dedi .</sentence>
+<sentence num="14">Yeni Doğan Servisi Sorumlusu Prof .Dr .Neşide Çetin de Pramatüre Servisi'nde ölen bebeklerin 10 40 günlük ve 800 gram ile 1800 gram arasında olduğunu söyledi .</sentence>
+<sentence num="15">Prof .Dr .Çetin ,?</sentence>
+<sentence num="16">Bebekler akşam aniden gelişen karında şişlik ,solunum durması ve morarma şikayetiyle hayatlarını kaybetti .</sentence>
+<sentence num="17">Yapılan müdahaleye rağmen bebeklerimizi kaybettik ''dedi .</sentence>
+<sentence num="18">Enfeksiyon ihtimali üzerinde durduklarını vurgulayan Prof .Dr .Neşide Çetin ,?</sentence>
+<sentence num="19">Hızlı gelişen bu olayların enfeksiyondan kaynaklandığını düşünüyoruz .</sentence>
+<sentence num="20">Bu tür servislerde ,enfeksiyonlarla her zman karşılaşılabiliniyor .</sentence>
+<sentence num="21">Şu ana kadar enfeksiyonun türünü belirleyemedik ''diye konuştu .</sentence>
+<sentence num="22">Prof .Dr .Neşide Çetin ,bir soru üzerine serviste bebek sayısının fazla olmasının da enfeksiyon için ortam hazırlamış olabileceğini sözlerine ekledi .</sentence>
+<sentence num="23">60 KAPASİTELİ SERVİSTE 90'DAN FAZLA BEBEK YATIYOR Hastanelerindeki ve servislerindeki hasta yoğunluğunun enfeksiyon riskini artırdığını ifade eden Çetin ,60 hasta kapasiteli servislerinde 90'dan fazla bebeğin tedavi gördüğünü anlattı .</sentence>
+<sentence num="24">Hasta sayısına göre personel sayılarının da yetersiz olduğunu bildiren Çetin ,Personelimizin tüm çabalarına rağmen böyle bir durumdan korkuyorduk .</sentence>
+<sentence num="25">Ama korktuğumuz başımıza geldi .</sentence>
+<sentence num="26">Enfeksiyonun en büyük sebebi yoğunluk dedi .</sentence>
+<sentence num="27">Yenidoğan servisine hasta kabulünün durdurulduğu ,öte yandan taburcu işlemlerinin aksamadan devam edeceği bildirildi .</sentence>
+<sentence num="28">Yoğun bakıma alınan bebeklerin de taburcu olmalarına izin verilmeyeceği ,diğer servisteki bebeklerden taburcu olmaları gerekenlerin taburcu edileceği belirtildi .</sentence>
+<sentence num="29">ARAŞTIRMA BAŞLATILDI Sağlık Bakanı Recep Akdağ ,Kayseri Erciyes Üniversitesi'nde meydana gelen bebek ölümleri ile ilgili bilimsel bir heyetin çalışmalara başladığını bildirdi .</sentence>
+<sentence num="30">Çeşitli açılış ve incelemelerde bulunmak üzere geldiği Aydın'da ,Vali Mustafa Malay'ı makamında ziyaret eden Sağlık Bakanı Akdağ ,Kayseri'deki bebek ölümleriyle ilgili gazetecilere açıklama yaptı .</sentence>
+<sentence num="31">Edirne ve Manisa'daki bebek ölümlerinin ardından bilimsel bir heyet oluşturduklarını anımsatan Bakan Akdağ ,konunun uzmanlarından oluşan heyetin yerinde incelemeler yaptığını anlattı .</sentence>
+<sentence num="32">Akdağ şunları kaydetti :Şu anda bilimsel heyet oluşturuldu ve çalışmalara başladı .</sentence>
+<sentence num="33">Hastane enfeksiyonları ,hastanelerde ameliyathanelerde ,yoğun bakımlarda ,yeni doğan servislerinde bütün dünyanın baş etmek için ciddi ölçüde uğraştığı enfeksiyonlardır .</sentence>
+<sentence num="34">Özellikle antibiyotiklerin içinde bulunduğumuz son 20 yıldaki yaygın kullanımı bu enfeksiyonlarla baş etmeyi zorlaştırmaktadır .</sentence>
+<sentence num="35">Çünkü dirençli mikroplar üremektedir .</sentence>
+<sentence num="36">Hastanenin şartlarının ve enfeksiyon önleme usullerine uyulup uyulmadığının da önemli olduğunu vurgulayan Akdağ ,Biz de bir yıldır müstakil olarak her bir hastanenin uyguladığı kuralları ,ulusal bir program haline getirmek için bir çalışma yaptık ,şu anda bir yönetmelik hazırlamış durumdayız .</sentence>
+<sentence num="37">Bakan Akdağ ,bugün Erciyes Üniversitesi'nde meydana gelen olayla ilgili ,heyetin çalışmaları sonucu gerekli açıklamanın yapılacağını kaydetti .</sentence>
+</doc>
+<doc>
+<id>126965</id>
+<sentence num="0">2005 08 03 16 :10 :00 .Kayseri'de 7 bebek hastanede öldü .</sentence>
+<sentence num="1">Doğan Haber Ajansı'na göre ,Gevher Nesibe Hastanesi yenidoğan ünitesinde 7 bebek henüz belirlenemeyen bir nedenle hayatını kaybetti .</sentence>
+<sentence num="2">Yetkililer ,prematüre bebeklerin neden öldüklerinin araştırıldığını söyledi .</sentence>
+<sentence num="3">Yaklaşık iki ay önce Trakya Üniversitesi Yenidoğan Yoğun Bakım Ünitesi'nde dört günde sekiz bebek hayatını kaybetmiş ,ölümlere Serrasia Marseses adlı bakterinin neden olduğu bildirilmişti .</sentence>
+<sentence num="4">18 gün önce de bu kez Manisa Doğum ve Çocuk Bakımevi Hastanesi'nde dünyaya gelen 2 bebek evlerine gönderildikten 1 gün sonra döküntü ve solunum yetmezliğinden hayatını kaybetmişti .</sentence>
+<sentence num="5">Son olarak ,Manisa Doğum ve Çocuk Bakımevi Hastanesi'nde geçtiğimiz 15 temmuzda ,iki bebek hayatını kaybetmişti .</sentence>
+<sentence num="6">Edirne'de sekiz bebek ölmüştü Edirne'de de geçtiğimiz haziran ayında Trakya Üniversitesi Edirne Tıp Fakültesi Hastanesi'nde ,'serratia 'bakterisinin neden olduğu enfeksiyon nedeniyle sekiz bebek ölmüştü .</sentence>
+<sentence num="7">Serratia ,'koliform 'bakterinin bir örneği ve tipik olarak toprak ve suda bulunuyor .</sentence>
+<sentence num="8">Serratia bakterisi 1950'lere kadar hastalık etkeni olarak tanımlanıyordu .</sentence>
+<sentence num="9">Ancak son yıllarda özellikle hastanede yatmakta olan hastalardan gittikçe daha sık bir şekilde bildirilmeye başlandı .</sentence>
+<sentence num="10">Literatürde 1975'ten bu yana Almanya ,Avusturya ,ABD ,Japonya ,Meksika gibi ülkelerin yeni doğan birimlerinde bildirilmiş 30 civarında salgın tanımlandı .</sentence>
+<sentence num="11">Serratia bakterisinin yol açtığı enfeksiyonlar ,sağlam insanlar için çok sorun olmasa da büyük sorunları olan erişkinlerde ve yeni doğanlarda ölümcül olabiliyor .</sentence>
+<sentence num="12">Sağlık Bakanı Recep Akdağ ,Kayseri Erciyes Üniversitesi'nde meydana gelen bebek ölümleri ile ilgili bilimsel bir heyetin çalışmalara başladığını bildirdi .</sentence>
+<sentence num="13">Çeşitli açılış ve incelemelerde bulunmak üzere geldiği Aydın'da ,Vali Mustafa Malay'ı makamında ziyaret eden Sağlık Bakanı Akdağ ,Kayseri'deki bebek ölümleriyle ilgili gazetecilere açıklama yaptı .</sentence>
+<sentence num="14">Edirne ve Manisa'daki bebek ölümlerinin ardından bilimsel bir heyet oluşturduklarını anımsatan Bakan Akdağ ,konunun uzmanlarından oluşan heyetin yerinde incelemeler yaptığını anlattı .</sentence>
+<sentence num="15">Akdağ şunları kaydetti :''Şu anda bilimsel heyet oluşturuldu ve çalışmalara başladı .</sentence>
+<sentence num="16">Hastane enfeksiyonları ,hastanelerde ameliyathanelerde ,yoğun bakımlarda ,yeni doğan servislerinde bütün dünyanın baş etmek için ciddi ölçüde uğraştığı enfeksiyonlardır .</sentence>
+<sentence num="17">Özellikle antibiyotiklerin içinde bulunduğumuz son 20 yıldaki yaygın kullanımı bu enfeksiyonlarla baş etmeyi zorlaştırmaktadır .</sentence>
+<sentence num="18">Çünkü dirençli mikroplar üremektedir .</sentence>
+<sentence num="19">Hastanenin şartlarının ve enfeksiyon önleme usullerine uyulup uyulmadığının da önemli olduğunu vurgulayan Akdağ ,''Biz de bir yıldır müstakil olarak her bir hastanenin uyguladığı kuralları ,ulusal bir program haline getirmek için bir çalışma yaptık ,şu anda bir yönetmelik hazırlamış durumdayız .''</sentence>
+<sentence num="20">Bakan Akdağ ,bugün Erciyes Üniversitesi'nde meydana gelen olayla ilgili ,heyetin çalışmaları sonucu gerekli açıklamanın yapılacağını kaydetti CNNturk .</sentence>
+</doc>
+<doc>
+<id>126999</id>
+<sentence num="0">2005 08 03 16 :35 :00 .Erciyes Tıp Fakültesi Hastanesi'nde 6 bebek öldü ,2'sinin durumu kritik .</sentence>
+<sentence num="1">Erciyes Tıp Fakültesi Hastanesi'nde 6 bebek öldü ,2'sinin durumu kritik Edirne ve Manisa'daki bebek ölümlerinden sonra Kayseri Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde de bugün 6 bebek öldü ,2 bebeğin durumu ise kritik .</sentence>
+<sentence num="2">EÜ Tıp Fakültesi Hastaneler Başhekimi Prof .Dr .Mehmet Doğanay ,gazetecilere yaptığı açıklamada ,hastanelerinde tedavi gören 6 bebeğin ,hızlı şekilde ortaya çıkan belirtiler sonucu öldüğünü ,ölümlerle ilgili araştırma başlattıklarını belirtti .</sentence>
+<sentence num="3">Tıp Fakültesi Hastanesi Yenidoğan Servisi Sorumlusu Prof .Dr .Neşide Çetin de hayatını kaybeden bebeklerin tamamının ,değişik sebeplerle erken doğmuş ,doğum tarihleri 10 günlük ile 40 günlük arasında değişen bebekler olduğunu kaydetti .</sentence>
+<sentence num="4">Hastanelerindeki ve servislerindeki hasta yoğunluğunun enfeksiyon riskini artırdığını ifade eden Çetin ,60 hasta kapasiteli servislerinde 90'dan fazla bebeğin tedavi gördüğünü anlattı .</sentence>
+<sentence num="5">Kayseri Sağlık Müdürü Dr .İzzet Kavafoğlu ,bebek ölümlerinin nedeninin ortaya çıkartılması için araştırma komisyonu kurulduğunu söyledi .</sentence>
+<sentence num="6">Kavafoğlu ,Erciyes Üniversitesi Tıp Fakültesi Hastanesi'ndeki bu sabah 5 bebeğin öldüğünü ,saat 10 .15'te ise bir bebeğin daha ölmesiyle ölü sayısının 6'ya çıktığını belirtti .</sentence>
+<sentence num="7">Bebek ölümlerinin nedeninin ortaya çıkması için araştırma komisyonu kurduklarını ifade eden Dr .Kavafoğlu ,şöyle devam etti :''Üniversite hastanesi başhekimi ,bizim uzmanlarımız ve diğer hastanelerin başhekimlerinin yer aldığı bir araştırma komisyonu kurduk .</sentence>
+<sentence num="8">Komisyon şu anda çalışmalara başladı .</sentence>
+<sentence num="9">Elimizdeki bulguları değerlendirdikten sonra bebeklerin asıl ölüm nedenleri hakkında bilgi vereceğiz .''</sentence>
+<sentence num="10">Daha önce Trakya Üniversitesi Hastanesi Yenidoğan Yoğun Bakım Ünitesi'nde 8 ,Manisa Doğum ve Çocuk Bakımevi Hastanesi'nde de 2 bebek yaşamlarını yitirmişlerdi .</sentence>
+</doc>
+<doc>
+<id>127023</id>
+<sentence num="0">2005 08 03 17 :16 :00 .Sağlık Bakanı :Kayseri'de oluşturulan bilimsel heyet çalışmalara başladı .</sentence>
+<sentence num="1">Sağlık Bakanı :Kayseri'de oluşturulan bilimsel heyet çalışmalara başladı Sağlık Bakanı Recep Akdağ ,Kayseri Erciyes Üniversitesi'nde meydana gelen bebek ölümleri ile ilgili bilimsel bir heyetin çalışmalara başladığını bildirdi .</sentence>
+<sentence num="2">Çeşitli açılış ve incelemelerde bulunmak üzere geldiği Aydın'da ,Vali Mustafa Malay'ı makamında ziyaret eden Sağlık Bakanı Akdağ ,Kayseri'deki bebek ölümleriyle ilgili gazetecilere açıklama yaptı .</sentence>
+<sentence num="3">Edirne ve Manisa'daki bebek ölümlerinin ardından bilimsel bir heyet oluşturduklarını anımsatan Bakan Akdağ ,konunun uzmanlarından oluşan heyetin yerinde incelemeler yaptığını anlattı .</sentence>
+<sentence num="4">Akdağ şunları kaydetti :''Şu anda bilimsel heyet oluşturuldu ve çalışmalara başladı .</sentence>
+<sentence num="5">Hastane enfeksiyonları ,hastanelerde ameliyathanelerde ,yoğun bakımlarda ,yeni doğan servislerinde bütün dünyanın baş etmek için ciddi ölçüde uğraştığı enfeksiyonlardır .</sentence>
+<sentence num="6">Özellikle antibiyotiklerin içinde bulunduğumuz son 20 yıldaki yaygın kullanımı bu enfeksiyonlarla baş etmeyi zorlaştırmaktadır .</sentence>
+<sentence num="7">Çünkü dirençli mikroplar üremektedir .</sentence>
+<sentence num="8">Hastanenin şartlarının ve enfeksiyon önleme usullerine uyulup uyulmadığının da önemli olduğunu vurgulayan Akdağ ,''Biz de bir yıldır müstakil olarak her bir hastanenin uyguladığı kuralları ,ulusal bir program haline getirmek için bir çalışma yaptık ,şu anda bir yönetmelik hazırlamış durumdayız .''.</sentence>
+</doc>
+<doc>
+<id>127041</id>
+<sentence num="0">2005 08 03 17 :43 :00 .Yine Nedensiz Bebek Ölümleri .</sentence>
+<sentence num="1">Hastanede bebek ölümleri endişe yaratıyor .</sentence>
+<sentence num="2">Edirne ve Manisa'daki bebek ölümlerinin ardından Kayseri'deki Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde de 6 prematüre bebek öldü .</sentence>
+<sentence num="3">Hastane Başhekimi Profesör Doktor Mehmet Doğanay ,hastanenin yenidoğan bölümünde kalan 82 prematüre bebekten 6'sının öldüğünü belirtti .</sentence>
+<sentence num="4">Başhekim Doğanay ,bu tür ölümlerin olabileceğini ifade ederek ,Ancak ,ölümler aynı gün arka arkaya gelmiş .</sentence>
+<sentence num="5">Nedenini henüz bilmiyoruz ve araştırıyoruz .</sentence>
+<sentence num="6">dedi .</sentence>
+<sentence num="7">Edirne'deki Trakya Üniversitesi Tıp Fakültesi Yeni Doğan ünitesinde de Haziran ayında ,'Serratia 'isimli bakteri yüzünden 8 bebek ,Manisa Doğum ve Çocuk Hastanesinde de geçen ay belirlenemeyen bir nedenle 2 bebek ölmüştü .</sentence>
+<sentence num="8">Sağlık Bakanı Recep Akdağ ,Erciyes Üniversitesi Yenidoğan Servisi'nde meydana gelen bebek ölümleri üzerine Kayseri'ye süratle bir uzman ekip göndererek incelemelere başladıklarını belirtti .</sentence>
+<sentence num="9">Akdağ :Bu ,hastane enfeksiyonu mudur ,değil midir ?</sentence>
+<sentence num="10">Onlar incelemeler yapacaklar .</sentence>
+<sentence num="11">Ondan sonra karar vereceğiz .</sentence>
+<sentence num="12">dedi .</sentence>
+<sentence num="13">Recep Akdağ ,Hastane enfeksiyonları ile ilgili olarak yaklaşık bir yıldan bu yana üniversite ve eğitim hastanelerinin uzmanlarından oluşan bir heyet tarafından çalışma yapıldığını kaydetti .</sentence>
+<sentence num="14">Bakan Akdağ ,hastane yönetimleri ve ilgili kişilerin sorumluluklarını arttırıcı yeni bir yönetmelik hazırlığı içinde olduklarını da bildirdi .</sentence>
+</doc>
+<doc>
+<id>127071</id>
+<sentence num="0">2005 08 03 18 :50 :00 .EÜ Yenidoğan Servisi'nde ölen bebeklere otopsi yapılacak .</sentence>
+<sentence num="1">EÜ Yenidoğan Servisi'nde ölen bebeklere otopsi yapılacak Erciyes Üniversitesi (EÜ )Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde hayatını kaybeden bebeklere ,kesin ölüm nedenlerinin belirlenmesi için otopsi yapılacağı bildirildi .</sentence>
+<sentence num="2">Kayseri Devlet Hastanesi Başhekimi İsmail Tamer ,AA muhabirine yaptığı açıklamada ,EÜ Yenidoğan Servisi'ndeki bebek ölümleri ve sonrasında alınacak önlemlerle ilgili hastane başhekimleriyle toplantı yaptıklarını belirtti .</sentence>
+<sentence num="3">Toplantıda alınan kararlar doğrultusunda ,EÜ Yenidoğan Servisi'ne hasta kabul edilmeyeceğini bildiren Tamer ,yeni doğan bebeklerin Devlet Hastanesi ve Doğumevi Hastanesi'nde tedavi edileceğini ,sevki gereken hastaların ise çevre illerdeki üniversite hastanelerine gönderileceğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>127078</id>
+<sentence num="0">2005 08 03 19 :01 :00 .Minik bedenlere otopsi yapılacak .</sentence>
+<sentence num="1">Erciyes Üniversitesi (EÜ )Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde hayatını kaybeden bebeklere ,kesin ölüm nedenlerinin belirlenmesi için otopsi yapılacağı bildirildi .</sentence>
+<sentence num="2">Kayseri Devlet Hastanesi Başhekimi İsmail Tamer ,AA muhabirine yaptığı açıklamada ,EÜ Yenidoğan Servisi'ndeki bebek ölümleri ve sonrasında alınacak önlemlerle ilgili hastane başhekimleriyle toplantı yaptıklarını belirtti .</sentence>
+<sentence num="3">Toplantıda alınan kararlar doğrultusunda ,EÜ Yenidoğan Servisi'ne hasta kabul edilmeyeceğini bildiren Tamer ,yeni doğan bebeklerin Devlet Hastanesi ve Doğumevi Hastanesi'nde tedavi edileceğini ,sevki gereken hastaların ise çevre illerdeki üniversite hastanelerine gönderileceğini kaydetti .</sentence>
+<sentence num="4">Ölümlerin nedeninin belirlenebilmesi için hastane morgunda bekletilen bebek cesetlerine otopsi yapılacağını kaydeden Tamer ,otopsi için hastanelerinden patolog ve mikrobiyolog görevlendirdiklerini söyledi .</sentence>
+<sentence num="5">Tamer ,bebek ölümleriyle ilgili araştırma yapılması için Sağlık Bakanlığı'ndan da bir ekibin Kayseri'ye geleceğini hatırlattı .</sentence>
+<sentence num="6">Enfeksiyon riskinin tüm hastanelerde olduğunu belirten Dr .Tamer ,Kayseri'deki diğer hastanelerde de enfeksiyon sorunu yaşanmaması için gereken önlemleri aldıklarını vurguladı .</sentence>
+<sentence num="7">AA .</sentence>
+</doc>
+<doc>
+<id>127084</id>
+<sentence num="0">2005 08 03 19 :14 :00 .Kayseri'de hasta kabülü durduruldu .</sentence>
+<sentence num="1">Kayseri Devlet Hastanesi Başhekimi İsmail Tamer ,EÜ Yenidoğan Servisi'ndeki bebek ölümleri ve sonrasında alınacak önlemlerle ilgili hastane başhekimleriyle toplantı yaptıklarını belirtti .</sentence>
+<sentence num="2">Toplantıda alınan kararlar doğrultusunda EÜ Yenidoğan Servisi'ne hasta kabul edilmeyeceğini bildiren Tamer ,yeni doğan bebeklerin Devlet Hastanesi ve Doğumevi Hastanesi'nde tedavi edileceğini ,sevki gereken hastaların ise çevre illerdeki üniversite hastanelerine gönderileceğini kaydetti .</sentence>
+<sentence num="3">Ölümlerin nedeninin belirlenebilmesi için hastane morgunda bekletilen bebek cesetlerine otopsi yapılacağını kaydeden Tamer ,otopsi için hastanelerinden patolog ve mikrobiyolog görevlendirdiklerini söyledi .</sentence>
+<sentence num="4">AA .</sentence>
+</doc>
+<doc>
+<id>127089</id>
+<sentence num="0">2005 08 03 19 :34 :00 .Kayseri'deki Bebek Ölümleri .</sentence>
+<sentence num="1">Edirne ve Manisa'daki bebek ölümlerinin ardından Kayseri'deki Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde de 6 prematüre bebek öldü .</sentence>
+<sentence num="2">Hastane Başhekimi Profesör Doktor Mehmet Doğanay ,hastanenin yenidoğan bölümünde kalan 82 prematüre bebekten 6'sının öldüğünü belirtti .</sentence>
+<sentence num="3">Başhekim Doğanay ,bu tür ölümlerin olabileceğini ifade ederek ,Ancak ,ölümler aynı gün arka arkaya gelmiş .</sentence>
+<sentence num="4">Nedenini henüz bilmiyoruz ve araştırıyoruz dedi .</sentence>
+<sentence num="5">Yenidoğan Servis Sorumlusu Profesör Doktor Neşide Çetin de hızlı ve çabuk yayılan bir enfeksiyondan şüphelendiklerini söyledi .</sentence>
+<sentence num="6">Edirne'deki Trakya Üniversitesi Tıp Fakültesi Yeni Doğan ünitesinde de Haziran ayında ,'Serratia 'isimli bakteri yüzünden 8 bebek ,Manisa Doğum ve Çocuk Hastanesinde de geçen ay belirlenemeyen bir nedenle 2 bebek ölmüştü .</sentence>
+<sentence num="7">Sağlık Bakanı Recep Akdağ ,Erciyes Üniversitesi Yenidoğan Servisi'nde meydana gelen bebek ölümleri üzerine Kayseri'ye süratle bir uzman ekip göndererek incelemelere başladıklarını belirtti .</sentence>
+<sentence num="8">Akdağ ,Bu ,hastane enfeksiyonu mudur ,değil midir ?</sentence>
+<sentence num="9">Onlar incelemeler yapacaklar .</sentence>
+<sentence num="10">Ondan sonra karar vereceğiz .</sentence>
+<sentence num="11">dedi .</sentence>
+<sentence num="12">Recep Akdağ ,hastane enfeksiyonları ile ilgili olarak yaklaşık bir yıldan bu yana üniversite ve eğitim hastanelerinin uzmanlarından oluşan bir heyet tarafından çalışma yapıldığını kaydetti .</sentence>
+<sentence num="13">Bakan Akdağ ,hastane yönetimleri ve ilgili kişilerin sorumluluklarını arttırıcı yeni bir yönetmelik hazırlığı içinde olduklarını sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>127332</id>
+<sentence num="0">2005 08 04 10 :58 :00 .Kayseri'de bebek ölümleriyle ilgili oluşturulan komisyon çalışmalara başladı .</sentence>
+<sentence num="1">Kayseri'de bebek ölümleriyle ilgili oluşturulan komisyon çalışmalara başladı Erciyes Üniversitesi Tıp Fakültesi Hastaneleri Başhekimi Prof .Dr .Mehmet Doğanay ,bebek ölümleriyle ilgili Sağlık Bakanlığı'nca oluşturulan komisyonun ,hastanede çalışmalara başladığını söyledi .?</sentence>
+<sentence num="2">Kayseri'de de bebek ölümleri vakası Prof .Dr .Doğanay ,gazetecilere yaptığı açıklamada ,konunun savcılığa intikal ettiğini ,savcılık araştırması için gerekli delilleri sağladıklarını belirtti .</sentence>
+<sentence num="3">Konunun araştırılması için Tıp Fakültesi Dekanlığı olarak kendilerinin de bir komisyon kurduklarını ifade eden Prof .Dr .Doğanay ,şöyle dedi :''Bebek ölümleriyle ilgili araştırma yapması için Sağlık Bakanlığı'nca oluşturulan komisyon hastanemizde çalışmalarına başladı .</sentence>
+<sentence num="4">Marmara Üniversitesi Tıp Fakültesi Öğretim Üyesi Prof .Dr .Mustafa Bakır ,üniversitemiz Öğretim Üyesi Prof .Dr .Neşide Çetin ,Hacettepe Üniversitesi Öğretim Üyesi Doç .Dr .Yeşim Çetinkaya ,Kayseri Devlet Hastanesi'nde görevli Uzman Dr .Mahmut Baktır ve benim katılımımla oluşturulan komisyon ,çalışmalarını sürdürüyor .</sentence>
+<sentence num="5">Savcılık soruşturması için de gerekli bilgi ve deliller tarafımızdan aktarılacak .''.</sentence>
+</doc>
+<doc>
+<id>127343</id>
+<sentence num="0">2005 08 04 11 :05 :00 .Kayseri'de tedavileri süren bebeklerin durumu iyi ...</sentence>
+<sentence num="1">Erciyes Üniversitesi Tıp Fakültesi Hastaneleri Başhekimi Prof .Dr .Mehmet Doğanay ,bebek ölümleriyle ilgili Sağlık Bakanlığı'nca oluşturulan komisyonun ,hastanede çalışmalara başladığını söyledi .</sentence>
+<sentence num="2">Prof .Dr .Doğanay ,gazetecilere yaptığı açıklamada ,konunun savcılığa intikal ettiğini ,savcılık araştırması için gerekli delilleri sağladıklarını belirtti .</sentence>
+<sentence num="3">Konunun araştırılması için Tıp Fakültesi Dekanlığı olarak kendilerinin de bir komisyon kurduklarını ifade eden Prof .Dr .Doğanay ,şöyle dedi :Bebek ölümleriyle ilgili araştırma yapması için Sağlık Bakanlığı'nca oluşturulan komisyon hastanemizde çalışmalarına başladı .</sentence>
+<sentence num="4">Marmara Üniversitesi Tıp Fakültesi Öğretim Üyesi Prof .Dr .Mustafa Bakır ,üniversitemiz Öğretim Üyesi Prof .Dr .Neşide Çetin ,Hacettepe Üniversitesi Öğretim Üyesi Doç .Dr .Yeşim Çetinkaya ,Kayseri Devlet Hastanesi'nde görevli Uzman Dr .Mahmut Baktır ve benim katılımımla oluşturulan komisyon ,çalışmalarını sürdürüyor .</sentence>
+<sentence num="5">Savcılık soruşturması için de gerekli bilgi ve deliller tarafımızdan aktarılacak .</sentence>
+<sentence num="6">Hayatını kaybeden 6 bebekten birinin dün sabah ailesine teslim edildiğini ,diğer 5 bebeğin cesedine ise otopsi yapıldığını belirten Doğanay ,bebeklerin kesin ölüm nedeninin otopsi sonucunda elde edilen bulguların değerlendirilmesi sonucu ortaya çıkacağını kaydetti .</sentence>
+<sentence num="7">Doğanay ,daha önce durumları kritik olduğu açıklanan 2 bebek ile servisteki diğer bebeklerin sağlık durumlarının iyi olduğunu sözlerine ekledi .</sentence>
+<sentence num="8">Öte yandan ,Ömür Orhan ile Abdullah Oral ,otopsinin ardından morga gelerek bebeklerinin cesetlerini teslim aldı .</sentence>
+</doc>
+<doc>
+<id>127567</id>
+<sentence num="0">2005 08 04 16 :12 :00 .Bakan Akdağ'ın yanında intihar etti .</sentence>
+<sentence num="1">Sağlık Bakanı Recep Akdağ ,Kayseri Erciyes Üniversitesi'nde görülen bebek ölümleriyle ilgili ''Doğrudan yöneticileri suçlamak kolaycılık olacaktır ''dedi .</sentence>
+<sentence num="2">Bakan Akdağ ,çeşitli ziyaretlerde bulunmak üzere geldiği Aydın'ın Söke İlçesi'nde gazetecilerin sorularına yanıtladı .</sentence>
+<sentence num="3">Kayseri Erciyes Üniversitesi'ndeki bebek ölümleriyle ilgili yapılan incelemelerin sonucunda elde edilen ilk bulguların enfeksiyon yönünde olduğunu belirten Akdağ ,''Ancak şu aşamada kesin bir şey söylemek mümkün değil ''dedi .</sentence>
+<sentence num="4">Bu tür enfeksiyonların dünyanın her yerinde görülebildiğini ifade eden Bakan Akdağ ,şunları kaydetti :''Kesin teşhis için incelemenin tamamlanması gerekiyor .</sentence>
+<sentence num="5">Enfeksiyonları ortadan kaldırabilmek güçtür .</sentence>
+<sentence num="6">Yeni Doğan Bebek üniteleri ve benzeri yerlerde hastalara büyük bir itina ile yaklaşmak lazım .</sentence>
+<sentence num="7">Oradaki personelin tutumu ,eğitimi ,el yıkama alışkanlığı ,enfeksiyon açısından itina ile yapılmalıdır .</sentence>
+<sentence num="8">Aslında bütün bu hastanelerde enfeksiyon kontrol üniteleri var .</sentence>
+<sentence num="9">Buralarda bilimadamlarımız çalışıyor .</sentence>
+<sentence num="10">Gerekli tedbirleri aldılar .</sentence>
+<sentence num="11">Çalışanların dikkatli olmasının ve sistematiği iyi kurmasının büyük önemi var .</sentence>
+<sentence num="12">Bu konuda bilimadamlarımızla çalışıyoruz .''</sentence>
+<sentence num="13">Her hastanenin enfeksiyon önleme ve kontrol sistemlerini genel bir çerçeveye oturttuklarını vurgulayan Akdağ ,''Takibini doğrudan bakanlıktan yapacağız .</sentence>
+<sentence num="14">Olayla ilgili doğrudan yöneticileri suçlamak kolaycılık olacaktır .</sentence>
+<sentence num="15">Meseleyi tetkik ediyoruz .</sentence>
+<sentence num="16">Bu tür olaylarda ihmalde görülmeyebilir ''diye konuştu .</sentence>
+<sentence num="17">Bakan Akdağ ,Kayseri Erciyes Üniversitesi'nde çalışmaların tamamlanmadığı için oradaki yeni doğan bebeklerin başka yere transferinin söz konusu olmadığını ,ancak hastaneye yeni bebek alımının durdurulduğunu kaydetti .</sentence>
+<sentence num="18">İntihar girişimi Öte yandan ,Bakan Akdağ'ın açılış için geldiği sıralarda Söke Fehime Faik Kocagöz Hastanesi'nde ,sabaha karşı doğum yapan Ümmühan Z .ikinci kattan atlayarak intihar girişiminde bulundu .</sentence>
+<sentence num="19">Ümmühan Z ,Aydın Devlet Hastanesi'ne sevk edildi .</sentence>
+</doc>
+<doc>
+<id>127614</id>
+<sentence num="0">2005 08 04 17 :22 :00 .Kayseri'deki Bebek Ölümleri .</sentence>
+<sentence num="1">Sağlık Bakanı Recep Akdağ ,Kayseri'deki bebek ölümlerine yönelik araştırmada ,ilk bulguların enfeksiyon olasılığını gösterdiğini ,kesin birşey söylenebilmesi için incelemenin tamamlanması gerektiğini söyledi .</sentence>
+<sentence num="2">Recep Akdağ ,Aydın'ın Söke ilçesinde TRT'ye yaptığı açıklamada ,Erciyes Üniversitesi yeni doğan servisinde yaşanan bebek ölümleri üzerine ,bu üniteye yeni bebek kabulünün durdurulduğunu kaydetti .</sentence>
+<sentence num="3">Akdağ ,enfeksiyonların önlenebilmesi için temizliğe dikkat edilmesini ve antibiyotiklerin kontrollü olarak kullanılmasını istedi .</sentence>
+<sentence num="4">Sağlık Bakanı Akdağ şöyle konuştu :Antibiyotik kullanımında bütün milletçe çok dikkatli olmalıyız .</sentence>
+<sentence num="5">Çünkü bir toplum kontrolsüz biçimde ne kadar fazla antibiyotik kullanıyorsa ,bu hastaneler için de geçerli ,dirençli mikropların ortaya çıkması maalesef o kadar fazlalaşır .</sentence>
+<sentence num="6">Tedavileri Süren Bebeklerin Durumu İyi Öte yandan ,tedavileri devam eden bebeklerin sağlık durumlarının iyi olduğu bildirildi .</sentence>
+<sentence num="7">Çarşamba günü (03 .08 .2005 )Kayseri Erciyes Üniversitesi Tıp Fakültesi Yenidoğan Ünesitesi'nde 6 bebek hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>127659</id>
+<sentence num="0">2005 08 04 18 :33 :00 .Kayseri'de bebeklerin karıştırıldığı iddia edildi .</sentence>
+<sentence num="1">Kayseri'de bebeklerin karıştırıldığı iddia edildi Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde dün hayatını kaybeden 6 bebekten birinin ,yanlış aileye teslim edildiği ileri sürüldü .?</sentence>
+<sentence num="2">Kayseri'de de bebek ölümleri vakası Yozgat'ın Boğazlıyan İlçesi'ne bağlı Dereçepni Köyü'nde Ömürlü Orhan ,Cumhuriyet Savcılığı ve Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nden kendisine verilen 2 ayrı belgede ,bebeğin cinsiyetinin kız olduğunun belirtildiğini ,cenazeyi toprağa verirken bebeğin erkek olduğunu anladıklarını ifade etti .</sentence>
+</doc>
+<doc>
+<id>127777</id>
+<sentence num="0">2005 08 05 00 :56 :00 .Tedavi Gören Bebeklerin Durumu İyi .</sentence>
+<sentence num="1">Kayseri Erciyes Üniversitesi Tıp Fakültesi Yenidoğan ünitesindeki bebek ölümlerinin sebebi araştırılıyor .</sentence>
+<sentence num="2">Tedavileri devam eden bebeklerin sağlık durumlarının ise iyi olduğu bildirildi .</sentence>
+<sentence num="3">Sağlık Bakanlığı'nca bebek ölümlerini araştırmak üzere kurulan komisyon çalışmalarına başladı .</sentence>
+<sentence num="4">Ölüm nedenlerinin tesbit edilebilmesi için ,otopsi sonuçları bekleniyor .</sentence>
+<sentence num="5">Daha önce durumlarının kritik olduğu açıklanan 2 bebeğin ise iyileşme sürecine girdiği bildirildi .</sentence>
+<sentence num="6">Kayseri Erciyes Üniversitesi Tıp Fakültesi Yenidoğan ünesitesinde 6 bebek hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>127890</id>
+<sentence num="0">2005 08 05 10 :23 :00 .Bebeklerin ölüm nedeni 'enfeksiyon '.</sentence>
+<sentence num="1">Yenidoğan ünitesindeki diğer bebeklerin ailelerin endişeli bekleyişleri sürüyor Kayseri'de geçtiğimiz çarşamba hayatını kaybeden altı bebeğin ölüm nedeninin hastane enfeksiyonu olduğu ortaya çıktı .</sentence>
+<sentence num="2">Ölümlerin gerçekleştiği Erciyes Üniversitesi Gevher Nesibe Tıp Fakültesi hastanesinde çalışmalarını tamamlayan Sağlık Bakanlığı komisyonu ,ölümlerin 'gram negatif 'bakterilerden kaynaklanan enfeksiyona bağlı olarak meydana geldiğini açıkladı .</sentence>
+<sentence num="3">Yenidoğan Servisi'nde tedavi gören ağırlıkları ve 800 1800 gram arasında değişen prematüre bebekleri etkileyen enfeksiyon sonucu ,bebeklerde karın şişmesi ,solunum durması ve morarma belirtileri ortaya çıkmıştı .'</sentence>
+<sentence num="4">Gram negatif 'bakterinin türünün belirlenmesi için kültür yapıldıktan sonra 48 saat süre geçmesi gerekiyor .</sentence>
+<sentence num="5">Ölen bebeklerden alınan örneklerin kültürü dün yapıldı .</sentence>
+<sentence num="6">Bu nedenle ,bakteri türünün tam olarak yarın belirlenebileceği açıklandı .</sentence>
+<sentence num="7">Daha önce ,Edirne'de meydana gelen bebek ölümlerinin sebebi yine bir gram negatif bakteri çeşidi olan 'serratia 'olarak açıklanmıştı .</sentence>
+<sentence num="8">Sağlık bakanı Recep Akdağ da elde edilen ilk bulguların hastane enfeksiyonuna dikkatleri çektiğini belirtmişti .</sentence>
+<sentence num="9">GRAM NEGATİF BAKTERİ Gram negatif bakteriler ,vücuda Girdiğinde ,genel bir enfeksiyona yol açarak ,organ yetmezliğini ve sonrasında ölüme yol açıyor .</sentence>
+<sentence num="10">Yetişkin insanlarda görüldüğünde olumsuz etkileri çok düşük olan gram negatif bakteriler ,annesinden yeterince antikor alamamış ve bağışıklık sistemi yeterince gelişmemiş olan prematüre bebeklerde ölüme varan tehlikelere yol açabiliyor .</sentence>
+<sentence num="11">Bebeklerin hepsi prematüreydi Kayseri Erciyes Üniversitesi Gevher Nesibe Hastanesi yenidoğan ünitesindeki altı bebek geçtiğimiz çarşamba günü ölmüştü .</sentence>
+<sentence num="12">Hepsi prematüre olan bebeklerin ölüm nedenini belirlemek için bir heyet gönderilmiş ve soruşturma başlatılmıştı .</sentence>
+<sentence num="13">Edirne'de de geçtiğimiz haziran ayında Trakya Üniversitesi Edirne Tıp Fakültesi Hastanesi'nde ,'serratia 'bakterisinin neden olduğu enfeksiyon nedeniyle sekiz bebek hayatını kaybetmişti .</sentence>
+<sentence num="14">Serratia ,'koliform 'bakterinin bir örneği ve tipik olarak toprak ve suda bulunuyor .</sentence>
+<sentence num="15">Serratia bakterisi 1950'lere kadar hastalık etkeni olarak tanımlanıyordu .</sentence>
+<sentence num="16">Ancak son yıllarda özellikle hastanede yatmakta olan hastalardan gittikçe daha sık bir şekilde bildirilmeye başlandı .</sentence>
+<sentence num="17">Literatürde 1975'ten bu yana Almanya ,Avusturya ,ABD ,Japonya ,Meksika gibi ülkelerin yeni doğan birimlerinde bildirilmiş 30 civarında salgın tanımlandı .</sentence>
+<sentence num="18">Serratia bakterisinin yol açtığı enfeksiyonlar ,sağlam insanlar için çok sorun olmasa da büyük sorunları olan erişkinlerde ve yeni doğanlarda ölümcül olabiliyor .</sentence>
+</doc>
+<doc>
+<id>127894</id>
+<sentence num="0">2005 08 05 10 :24 :00 .Bebek ölümleriyle ilgili oluşturulan komisyon çalışmalarını tamamladı .</sentence>
+<sentence num="1">Bebek ölümleriyle ilgili oluşturulan komisyon çalışmalarını tamamladı Erciyes Üniversitesi (EÜ )Tıp Fakültesi Hastanesi Yenidoğan Servisi'ndeki bebek ölümleriyle ilgili Sağlık Bakanlığı'nca oluşturulan komisyon çalışmalarını tamamladı .</sentence>
+<sentence num="2">Önceki gün yaşanan bebek ölümleriyle ilgili araştırma yapması için Sağlık Bakanlığı'nca oluşturulan komisyon çalışmalarını sonuçlandırdı .</sentence>
+<sentence num="3">Marmara Üniversitesi Tıp Fakültesi Öğretim Üyesi Mustafa Bakır ,EÜ Tıp Fakültesi Hastanesi Yenidoğan Sorumlusu Prof .Dr .Neşide Çetin ,EÜ Tıp Fakültesi Hastaneler Başhekimi Prof .Dr .Mehmet Doğanay ,Hacettepe Üniversitesi Tıp Fakültesi Öğretim Üyesi Doç .Dr .Yeşim Çetinkaya ve Kayseri Devlet Hastanesi'nde görevli uzman doktor Mahmut Baktır'dan oluşan komisyon ,çalışmaları sonucunda oluşturulan rapor Sağlık Bakanlığı'na sunuldu .</sentence>
+<sentence num="4">Öte yandan ,hayatını kaybeden bebeklerin cesetlerinin hastane morgundan ailelerine teslim edilmesi sırasında karışıklık yaşandığı iddiaları konusunda belirsizlik sürüyor .</sentence>
+<sentence num="5">Yozgat'ın Boğazlıyan İlçesi'ne bağlı Dereçepni Köyü'nde yaşayan gurbetçi Ömürlü Orhan ,hastanede 16 gün kuvözde kalan bebeğinin kız olduğunu ,ancak kendisine erkek bebek cesedi verildiğini iddia etmişti .</sentence>
+</doc>
+<doc>
+<id>128015</id>
+<sentence num="0">2005 08 05 12 :23 :00 .Kayseri'de bebeklerin ölümüne 'Gram negatif bakteriler 'yol açtı .</sentence>
+<sentence num="1">Kayseri'de bebeklerin ölümüne 'Gram negatif bakteriler 'yol açtı Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde 6 bebeğin ölümüne yol açan enfeksiyonun gram negatif bakterilerden kaynaklandığı belirlendi .?</sentence>
+<sentence num="2">Kayseri'deki bebek ölümlerinde bakteri şüphesi Bebek ölümleri ile ilgili Sağlık Bakanlığı'nca oluşturulan komisyonun çalışmaları sonucunda ,ölümlerin gram negatif bakterilerden kaynaklanan enfeksiyona bağlı olarak meydana geldiği anlaşıldı .</sentence>
+<sentence num="3">Yenidoğan Servisi'nde tedavi gören ağırlıkları ve 800 1800 gram arasında değişen prematüre bebekleri etkileyen enfeksiyon sonucu ,bebeklerde karın şişmesi ,solunum durması ve morarma belirtileri ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>128017</id>
+<sentence num="0">2005 08 05 12 :30 :00 .Kayseri'deki 6 bebeği gram negatif bakterisi öldürmüş .</sentence>
+<sentence num="1">Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde 6 bebeğin ölümüne yol açan enfeksiyonun gram negatif bakterilerden kaynaklandığı belirlendi .</sentence>
+<sentence num="2">AA muhabirinin aldığı bilgiye göre ,bebek ölümleri ile ilgili Sağlık Bakanlığı'nca oluşturulan komisyonun çalışmaları sonucunda ,ölümlerin Gram negatif bakterilerden kaynaklanan enfeksiyona bağlı olarak meydana geldiği anlaşıldı .</sentence>
+<sentence num="3">Yenidoğan Servisi'nde tedavi gören ağırlıkları ve 800 1800 gram arasında değişen prematüre bebekleri etkileyen enfeksiyon sonucu ,bebeklerde karın şişmesi ,solunum durması ve morarma belirtileri ortaya çıkmıştı .</sentence>
+<sentence num="4">Gram negatif bakterinin türünün belirlenmesi için kültür yapıldıktan sonra 48 saat süre geçmesi gerekiyor .</sentence>
+<sentence num="5">Ölen bebeklerden alınan örneklerin kültürü dün yapıldı .</sentence>
+<sentence num="6">Bu nedenle ,bakteri türünün tam olarak yarın belirlenebileceği açıklandı .</sentence>
+<sentence num="7">AA muhabirinin uzmanlarından aldığı bilgilere göre ,gram negatif bakteriler ,vücuda girdiğinde ,genel bir enfeksiyona yol açarak ,organ yetmezliğini ve sonrasında ölüme yol açıyor .</sentence>
+<sentence num="8">Yetişkin insanlarda görüldüğünde olumsuz etkileri çok düşük olan gram negatif bakteriler ,annesinden yeterince antikor alamamış ve bağışıklık sistemi yeterince gelişmemiş olan prematüre bebeklerde ölüme varan tehlikelere yol açabiliyor .</sentence>
+<sentence num="9">Daha önce ,Edirne'de meydana gelen bebek ölümlerinin sebebi yine bir gram negatif bakteri çeşidi olan Serratia olarak açıklanmıştı .</sentence>
+</doc>
+<doc>
+<id>128050</id>
+<sentence num="0">2005 08 05 13 :14 :00 .Bebek Ölümlerinin Nedeni .</sentence>
+<sentence num="1">Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde ,6 bebeğin hayatını kaybetmesiyle ilgili Sağlık Bakanlığı'nca oluşturulan komisyon çalışmalarını tamamladı .</sentence>
+<sentence num="2">Bebek ölümlerine yolaçan enfeksiyon ile ilgili rapor ,Sağlık Bakanlığı'nca açıklanacak .</sentence>
+<sentence num="3">Bu arada ,hastanenin yenidoğan servisindeki diğer bebeklerin sağlık durumlarının iyi olduğu belirtildi .</sentence>
+<sentence num="4">Öte yandan ,hayatını kaybeden bebeklerin cesetlerinin hastane morgundan ailelerine teslim edilmesi sırasında karışıklık yaşandığı iddiaları konusunda belirsizlik sürüyor .</sentence>
+</doc>
+<doc>
+<id>128055</id>
+<sentence num="0">2005 08 05 13 :17 :00 .Bebeklerin ölüm nedeni belli oldu .</sentence>
+<sentence num="1">Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde 6 bebeğin ölümüne yol açan enfeksiyonun gram negatif bakterilerden kaynaklandığı belirlendi .</sentence>
+<sentence num="2">Bebek ölümleri ile ilgili Sağlık Bakanlığı'nca oluşturulan komisyonun çalışmaları sonucunda ,ölümlerin Gram negatif bakterilerden kaynaklanan enfeksiyona bağlı olarak meydana geldiği anlaşıldı .</sentence>
+<sentence num="3">Yenidoğan Servisi'nde tedavi gören ağırlıkları ve 800 1800 gram arasında değişen prematüre bebekleri etkileyen enfeksiyon sonucu ,bebeklerde karın şişmesi ,solunum durması ve morarma belirtileri ortaya çıkmıştı .</sentence>
+<sentence num="4">Gram negatif bakterinin türünün belirlenmesi için kültür yapıldıktan sonra 48 saat süre geçmesi gerekiyor .</sentence>
+<sentence num="5">Ölen bebeklerden alınan örneklerin kültürü dün yapıldı .</sentence>
+<sentence num="6">Bu nedenle ,bakteri türünün tam olarak yarın belirlenebileceği açıklandı .</sentence>
+<sentence num="7">ORGAN YETMEZLİĞİ SONUCU ÖLÜM Gram negatif bakteriler ,vücuda girdiğinde ,genel bir enfeksiyona yol açarak ,organ yetmezliğini ve sonrasında ölüme yol açıyor .</sentence>
+<sentence num="8">Yetişkin insanlarda görüldüğünde olumsuz etkileri çok düşük olan gram negatif bakteriler ,annesinden yeterince antikor alamamış ve bağışıklık sistemi yeterince gelişmemiş olan prematüre bebeklerde ölüme varan tehlikelere yol açabiliyor .</sentence>
+<sentence num="9">Daha önce ,Edirne'de meydana gelen bebek ölümlerinin sebebi yine bir gram negatif bakteri çeşidi olan Serratia olarak açıklanmıştı .</sentence>
+<sentence num="10">aa .</sentence>
+</doc>
+<doc>
+<id>128203</id>
+<sentence num="0">2005 08 05 17 :45 :00 .Bebekleri mecburiyet öldürdü !..</sentence>
+<sentence num="1">Sağlık Bakanlığı tarafından oluşturulan Bilimsel Kurul ,Erciyes Üniversitesi Tıp Fakültesi Gevher Nesibe Hastanesi Prematüre Servisi'nde 3 Ağustos'ta meydana gelen bebek ölümleriyle ilgili inceleme raporunu açıkladı .</sentence>
+<sentence num="2">Sağlık Bakanlığı'nca açıklanan inceleme raporu sonuçlarına göre ,Total Paranteral Nutrisyon (TPN )uygulanan hastalarda kullanılmakta olan solüsyonların 6'sından kültür alındığı ve 5'inde gram nagatif basil üremesinin saptandığı bildirildi .</sentence>
+<sentence num="3">Söz konusu üremelerin olası kaynağı ise şu şekilde açıklandı :Sevk edilmesi mümkün olmayan kritik bebeklerin servise mecburen kabul edildiği ve bölgedeki tek referans hastanesi niteliğinde olan Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nin çevre illerden yoğun bir hasta akışıyla karşı karşıya olduğu ,bu nedenle serviste bir küvözde birden fazla bebek yatırıldı .</sentence>
+<sentence num="4">Maximum yatak kapasitesi 52 olan Yenidoğan servislerinin son iki gündür 87 hastaya bakım vermek zorunda kaldığı ,gece ve gündüz 20 bebeğe bir hemşire düşecek şekilde hizmet verilmiştir .</sentence>
+<sentence num="5">Yaklaşık 10 metrekarelik odalarda 6 veya daha fazla bebeğin kotlarda birarada tedavi edilmiştir .</sentence>
+<sentence num="6">Yapılan inceleme sonucuna dayanılarak ,salgının GSBL pozitif K .pneumoniae'ye bağlı olduğu ve Prematüre servisinde TPN'lere eklenen lipid solüsyonunda meydana gelen Kontaminasyon'dan kaynaklandığı saptandı .</sentence>
+<sentence num="7">Buna göre ,38 bebekten 9'unda saat 1 .00'den itibaren apne ,abdominal distansiyon ,hipotansiyon ,dolaşım bozukluğu ve hiportermi gibi ağır sepsis düşündüren klinik bulguların ortaya çıkmasıyla birlikte 6 bebeğin 12 saat içerisinde kaybedildiği bildirildi .</sentence>
+</doc>
+<doc>
+<id>128314</id>
+<sentence num="0">2005 08 05 23 :37 :00 .Bebek ölümlerinde 'altyapı 'faktörü .</sentence>
+<sentence num="1">Erciyes Üniversitesi'nin hastanesinde 20 bebeğe bir hemşire düşüyor Sağlık Bakanlığı ,Erciyes Üniversitesi'ndeki 6 bebeğin ölümü ile ilgili raporunu tamamladı .</sentence>
+<sentence num="2">Rapora göre bebekler besleme sıvısına karışan bakteri nedeniyle öldüler .</sentence>
+<sentence num="3">Bunun ardında ise altyapı eksiği ve gerekli hijyen ortamının bulunmaması yatıyor .</sentence>
+<sentence num="4">Raporda hastanede 20 bebeğe bir hemşire düştüğü ve bir kuvözde birden fazla bebeğin yattığına dikkat çekildi .</sentence>
+<sentence num="5">Raporda damardan besleme amacıyla verilen sıvıya bakterinin karıştığı ve bu nedenle de bebeklerin öldüğü tespiti yeralıyor ve besleme amacıyla verilen sıvının el değmeden yani cihazla hazırlanması gerektiğinin altı çiziliyor .</sentence>
+<sentence num="6">Bunun tüm hastanelerde de zorunlu hale getirilmesi isteniyor .</sentence>
+<sentence num="7">Sağlık Bakanlığı'nın raporuna göre ,57 yatak kapasiteli serviste 87 bebeğe hizmet verildi ve 10 metrekarelik odalarda en az altı bebek kaldı .</sentence>
+<sentence num="8">İnceleme kurulu ,koşulların düzeltilmesi halinde Erciyes Üniversitesi'nin yeni doğan bölümüne hasta kabulüne başlanabileceğini ifade etti .</sentence>
+<sentence num="9">Bunun için de yenidoğan servislerinde beş hastaya bir hemşire düşecek şekilde düzenleme yapılması istendi .</sentence>
+<sentence num="10">Bir kuvözde sadece bir ,mevcut odalarda ise iki bebek bulunması gerekiyor .</sentence>
+<sentence num="11">Kayseri Erciyes Üniversitesi Gevher Nesibe Hastanesi yenidoğan ünitesindeki altı bebek geçtiğimiz çarşamba günü ölmüştü .</sentence>
+<sentence num="12">Hepsi prematüre olan bebeklerin ölüm nedenini belirlemek için bir heyet gönderilmiş ve soruşturma başlatılmıştı .</sentence>
+<sentence num="13">Edirne'de de geçtiğimiz haziran ayında Trakya Üniversitesi Edirne Tıp Fakültesi Hastanesi'nde ,'serratia 'bakterisinin neden olduğu enfeksiyon nedeniyle sekiz bebek hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>128676</id>
+<sentence num="0">2005 08 06 21 :36 :00 .Enfeksiyon Minimuma İndirilmeli .</sentence>
+<sentence num="1">Sağlık Bakanı Recep Akdağ ,ülkede hastane enfeksiyonlarının minumuma indirilmesi gerektiğini söyledi .</sentence>
+<sentence num="2">Recep Akdağ ,Aydın'ın Söke ilçesinde ,son zamanlarda hastanelerde meydana gelen bebek ölümlerine değindi .</sentence>
+<sentence num="3">Bebek ölümlerine hastane enfeksiyonlarının yolaçtığını belirten Akdağ ,bütün dünyada görülen bu enfeksiyonların ,minimuma indirilmesi gerektiğini vurguladı .</sentence>
+<sentence num="4">Recep Akdağ ,konuyla ilgili olarak merkezi bir takip sistemi oluşturmak için çalışmalar yürütüldüğünü belirterek ,hastanelerde bu işle uğraşan ekiplerin eğitim ve bilinç seviyelerini sürekli olarak ayakta tutmanın önemine işaret etti .</sentence>
+</doc>
+<doc>
+<id>129274</id>
+<sentence num="0">2005 08 08 10 :55 :00 .Kayseri'de enfeksiyon nedeniyle 8 bebek öldü .</sentence>
+<sentence num="1">Kayseri'de enfeksiyon nedeniyle 8 bebek öldü Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde enfeksiyon nedeniyle hayatını kaybeden bebek sayısı 8'e çıktı .?</sentence>
+<sentence num="2">Bebek ölümlerine karşı kameralı önlem Tıp Fakültesi Hastanesi Yenidoğan Sorumlusu Prof .Dr .Neşide Çetin ,servislerinde görülen enfeksiyon nedeniyle 2 bebeğin daha öldüğünü bildirdi .</sentence>
+<sentence num="3">Bebek ölümlerine yol açan enfeksiyonun kontrol altına alınabilmesi için çalışmaların devam ettiğini hatırlatan Çetin ,şu bilgileri verdi :''Geçen hafta çarşamba günü servisimizde ortaya çıkan enfeksiyon nedeniyle 6 prematüre bebeğimizi karın şişmesi ,solunum durması ve morarma şikayetleri sonucu kaybetmiştik .</sentence>
+<sentence num="4">Aynı kapsamda yoğun bakımda tedavi gören bebeklerimizden ikisini daha kaybettik .</sentence>
+<sentence num="5">Böylece enfeksiyon nedeniyle ölen bebek sayısı 8'e çıktı .</sentence>
+<sentence num="6">Yoğun bakım servisimizde 15 bebeğin tedavisi sürüyor .</sentence>
+<sentence num="7">1 bebeğin durumu ise kritik .''.</sentence>
+</doc>
+<doc>
+<id>129279</id>
+<sentence num="0">2005 08 08 11 :00 :00 .Kayseri'de ölen bebeklerin sayısı 8'e çıktı .</sentence>
+<sentence num="1">Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde enfeksiyon nedeniyle hayatını kaybeden bebek sayısı 8'e çıktı .</sentence>
+<sentence num="2">Tıp Fakültesi Hastanesi Yenidoğan Sorumlusu Prof .Dr .Neşide Çetin ,AA muhabirine yaptığı açıklamada ,servislerinde görülen enfeksiyon nedeniyle 2 bebeğin daha öldüğünü bildirdi .</sentence>
+<sentence num="3">Bebek ölümlerine yol açan enfeksiyonun kontrol altına alınabilmesi için çalışmaların devam ettiğini hatırlatan Çetin ,şu bilgileri verdi :Geçen hafta çarşamba günü servisimizde ortaya çıkan enfeksiyon nedeniyle 6 prematüre bebeğimizi karın şişmesi ,solunum durması ve morarma şikayetleri sonucu kaybetmiştik .</sentence>
+<sentence num="4">Aynı kapsamda yoğun bakımda tedavi gören bebeklerimizden ikisini daha kaybettik .</sentence>
+<sentence num="5">Böylece enfeksiyon nedeniyle ölen bebek sayısı 8'e çıktı .</sentence>
+<sentence num="6">Yoğun bakım servisimizde 15 bebeğin tedavisi sürüyor .</sentence>
+<sentence num="7">1 bebeğin durumu ise kritik .</sentence>
+<sentence num="8">Enfeksiyonun kontrol altına alınabilmesi için hasta kısıtlamasına gittiklerini ,yenidoğan servisine hasta kabul edilmediğini vurgulayan Çetin ,enfeksiyonla mücadele için enfeksiyona neden olan bakterilerin alt gruplarının kesin olarak belirlenmesi gerektiğini ,bu nedenle serviste tedavi gören ,ancak enfeksiyondan etkilenmemiş diğer bebeklerden de kültür örneği alındığını kaydetti .</sentence>
+<sentence num="9">Prof .Dr .Çetin ,servislerindeki enfeksiyona gram negatif bakterilerin alt grubu olan Klepsiella grubuna ait bakterilerin neden olduğunu ,bu grubun alt çeşitlerinin belirlenmesi için çalışmaların sürdüğünü ifade etti .</sentence>
+</doc>
+<doc>
+<id>129292</id>
+<sentence num="0">2005 08 08 11 :13 :00 .Ölen bebeklerin sayısı sekize çıktı .</sentence>
+<sentence num="1">Kayseri'de iki bebek daha öldü Kayseri Erciyes Üniversitesi Tıp Fakültesi Hastanesi yenidoğan servisinde enfeksiyon nedeniyle hayatını kaybeden bebek sayısı sekize çıktı .</sentence>
+<sentence num="2">Tıp Fakültesi Hastanesi Yenidoğan Sorumlusu Prof .Dr .Neşide Çetin ,servislerinde görülen enfeksiyon nedeniyle iki bebeğin daha öldüğünü açıkladı .</sentence>
+<sentence num="3">Ölümlere neden olan enfeksiyonun kontrol altına alınabilmesi için çalışmaların devam ettiğini belirten Çetin ,''yoğun bakım servisimizde 15 bebeğin tedavisi sürüyor .</sentence>
+<sentence num="4">Bir bebeğin durumu ise kritik diye konuştu .</sentence>
+<sentence num="5">Yenidoğan servisine hasta kabul edilmediğini vurgulayan Çetin ,enfeksiyonla mücadele için hastalığa neden olan bakterilerin alt gruplarının kesin olarak belirlenmesi gerektiğini söyledi .</sentence>
+<sentence num="6">Çetin ,bu kapsamda serviste tedavi gören ,ancak enfeksiyondan etkilenmemiş diğer bebeklerden de kültür örneği alındığını kaydetti .</sentence>
+<sentence num="7">Ölümlerin nedeni 'gram negatif 'bakterisi Kayseri'de geçtiğimiz çarşamba yenidoğan ünitesinde altı bebek hayatını kaybetmiş ve yapılan incelemede bebeklerin ölüm nedeninin hastane enfeksiyonu olduğu ortaya çıkmıştı .</sentence>
+<sentence num="8">Ölümlerin gerçekleştiği Erciyes Üniversitesi Gevher Nesibe Tıp Fakültesi hastanesinde çalışmalarını tamamlayan Sağlık Bakanlığı komisyonu ,ölümlerin 'gram negatif 'bakterilerden kaynaklanan enfeksiyona bağlı olarak meydana geldiğini açıklamıştı .</sentence>
+<sentence num="9">Yenidoğan Servisi'nde tedavi gören ağırlıkları ve 800 1800 gram arasında değişen prematüre bebekleri etkileyen enfeksiyon sonucu ,bebeklerde karın şişmesi ,solunum durması ve morarma belirtileri ortaya çıkmıştı .</sentence>
+<sentence num="10">Hastane enfeksiyonlarına bağlı bebek ölümleri en son Manisa'da yaşanmıştı .</sentence>
+<sentence num="11">Manisa Doğum ve Çocuk Bakımevi Hastanesi'nde 17 temmuzda iki bebek ölmüştü .</sentence>
+<sentence num="12">Edirne'de de geçtiğimiz haziran ayında Trakya Üniversitesi Edirne Tıp Fakültesi Hastanesi'nde ,'serratia 'bakterisinin neden olduğu enfeksiyon nedeniyle sekiz bebek hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>129364</id>
+<sentence num="0">2005 08 08 12 :25 :00 .Kayseri'de 2 Bebek Daha Öldü .</sentence>
+<sentence num="1">Kayseri Erciyes Üniversitesi Tıp Fakültesi Yenidoğan ünitesindeki bebek ölümleri sürüyor .</sentence>
+<sentence num="2">Ünitede 2 bebek daha hayatını kaybetti .</sentence>
+<sentence num="3">Yenidoğan servisinde 2 bebeğin daha ölmesi ile hayatını kaybeden bebek sayısı 8'e çıktı .</sentence>
+<sentence num="4">Tedavisi süren 15 bebekten 1'nin durumunun ise ciddi olduğu bildirildi .</sentence>
+<sentence num="5">Aynı ünitede çarşamba günü de 6 bebek ölmüştü .</sentence>
+</doc>
+<doc>
+<id>130180</id>
+<sentence num="0">2005 08 09 16 :47 :00 .Kayseri'de bebek ölümlerine son Enfeksiyona neden olan sebepler ortadan kaldırıldı .</sentence>
+<sentence num="1">Başhekim Doğanay ,bebeklerin enfeksiyon riski altında bulunmadığını belirtti İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Reflü bebeklerin akciğerini vuruyor ?</sentence>
+<sentence num="3">6 ayda 314 prematüre bebek öldü ?</sentence>
+<sentence num="4">Kan uyuşmazlığı bebeğin düşmanı ?</sentence>
+<sentence num="5">Bebeklere D vitamini desteği ?</sentence>
+<sentence num="6">Anne karnında kanser tehlikesi Kayseri'de ,sekiz bebeğin enfeksiyon nedeniyle hayatını kaybettiği Erciyes Üniversitesi Hastanesi'nde ,enfeksiyona neden olan sebeplerin ortadan kaldırıldığı belirtildi .</sentence>
+<sentence num="7">Erciyes Üniversitesi Tıp Fakültesi Hastaneler Başhekimi Pr .Dr .Mehmet Doğanay ,bebek ölümlerinin yaşandığı yeni doğan servisinde 58 bebeğin tedavi gördüğünü ,bu bebeklerin enfeksiyon riski altında bulunmadığını belirtti .</sentence>
+<sentence num="8">Doğanay ,enfeksiyonun bulaşma riskini ortadan kaldırdık .</sentence>
+<sentence num="9">Hastanemizde solüsyonlar ,gerektiği gibi özel makinelerde hazırlanıyor ''dedi .</sentence>
+<sentence num="10">Başhekim Doğanay ,enfeksiyon riskinin tamamen ortadan kaldırılğı sonucuna varıldığında hasta kabullerine de başlayacaklarını belirtti .</sentence>
+<sentence num="11">Enfeksiyondan etkilenen sekiz bebeğin öldüğünü hatırlatan Doğanay bir bebeğin durumunun iyiye gittiğini söyledi .</sentence>
+<sentence num="12">Ölümlerin nedeni 'gram negatif 'bakterisi Kayseri'de geçtiğimiz çarşamba yenidoğan ünitesinde sekiz bebek hayatını kaybetmiş ve yapılan incelemede bebeklerin ölüm nedeninin hastane enfeksiyonu olduğu ortaya çıkmıştı .</sentence>
+<sentence num="13">Ölümlerin gerçekleştiği Erciyes Üniversitesi Gevher Nesibe Tıp Fakültesi hastanesinde çalışmalarını tamamlayan Sağlık Bakanlığı komisyonu ,ölümlerin 'gram negatif 'bakterilerden kaynaklanan enfeksiyona bağlı olarak meydana geldiğini açıklamıştı .</sentence>
+<sentence num="14">Yenidoğan Servisi'nde tedavi gören ağırlıkları ve 800 1800 gram arasında değişen prematüre bebekleri etkileyen enfeksiyon sonucu ,bebeklerde karın şişmesi ,solunum durması ve morarma belirtileri ortaya çıkmıştı .</sentence>
+<sentence num="15">Hastane enfeksiyonlarına bağlı bebek ölümleri en son Manisa'da yaşanmıştı .</sentence>
+<sentence num="16">Manisa Doğum ve Çocuk Bakımevi Hastanesi'nde 17 temmuzda iki bebek ölmüştü .</sentence>
+<sentence num="17">Edirne'de de geçtiğimiz haziran ayında Trakya Üniversitesi Edirne Tıp Fakültesi Hastanesi'nde ,'serratia 'bakterisinin neden olduğu enfeksiyon nedeniyle sekiz bebek hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>130201</id>
+<sentence num="0">2005 08 09 17 :15 :00 .Kayseri'deki Bebek Ölümleri .</sentence>
+<sentence num="1">Kayseri'de ,8 bebeğin enfeksiyon nedeniyle hayatını kaybettiği Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde ,enfeksiyona neden olan sebeplerin ortadan kaldırıldığı bildirildi .</sentence>
+<sentence num="2">Erciyes Üniversitesi Tıp Fakültesi Hastanesi Başhekimi Profesör Mehmet Doğanay ,yenidoğan servisinde halen tedavi gören 58 bebeğin enfeksiyon riski altında bulunmadığını belirtti .</sentence>
+<sentence num="3">Enfeksiyonun bulaştığı bir bebeğin tedavisinin sürdüğünü kaydeden Doğanay ,Bebek ölümleri ile ilgili Sağlık Bakanlığı'nca oluşturulan komisyonun hazırladığı raporda ,enfeksiyonun prematüre bebeklerin damardan beslenmesi için hazırlanan solüsyondan kaynaklandığı belirtilmişti dedi .</sentence>
+<sentence num="4">Profesör Doğanay ,sürdürdükleri çalışmalar sonunda ,enfeksiyonun bulaşma riskini ortadan kaldırdıklarını söyledi .</sentence>
+</doc>
+<doc>
+<id>130457</id>
+<sentence num="0">2005 08 10 10 :30 :00 .Kayseri'de ölen bebeklerden birini ailesi hala teslim almadı !</sentence>
+<sentence num="1">Kayseri'de Erciyes Üniversitesi Tıp Fakültesi Hastanesi'nde enfeksiyon nedeniyle hayatını kaybeden 8 bebekten birinin cesedini ailesi teslim almadı .</sentence>
+<sentence num="2">AA muhabirinin aldığı bilgiye göre ,geçen hafta çarşamba günü hayatını kaybeden 6 ve daha sonra hayatını kaybeden 2 bebeğin cesedi ,hastane morguna kaldırılmıştı .</sentence>
+<sentence num="3">Ölen bebeklerden 7'sinin cesedi aileleri tarafından teslim alınarak ,toprağa verildi .</sentence>
+<sentence num="4">Ancak ,yaşam mücadelesinden yenik ayrılan Göktürk bebeğin cesedi ,halen hastane morgunda kendisini teslim alacak ailesini bekliyor .</sentence>
+<sentence num="5">1 haftadır hastane morgunda bekletilen Göktürk bebeğin cesedi ,ailesi veya herhangi bir yakını tarafından teslim alınmazsa ,yasal olarak 1 ay süreyle morgda bekletilecek .</sentence>
+<sentence num="6">Bu süre içinde teslim alınmazsa ,bebek cesedi Garipler Mezarlığı'na defnedilmesi için belediyeye teslim edilecek .</sentence>
+<sentence num="7">Ancak ,bebeğin ölüm nedeni adli soruşturma kapsamında olduğu için ,bebeğin cesedi yasal bekleme süresi sona ermeden savcılık kararıyla da toprağa verilebilecek .</sentence>
+<sentence num="8">Göktürk bebeğin ölümünden sonra ailenin cesedi teslim almak için hastane yetkilileri ile bir kez temas kurdukları ,ancak daha sonra irtibatı kopardıkları öğrenildi .</sentence>
+</doc>
+<doc>
+<id>131086</id>
+<sentence num="0">2005 08 11 10 :48 :00 .Kayseri EÜ'de 15 Ağustos'tan itibaren hasta kabulüne başlanacak .</sentence>
+<sentence num="1">Kayseri EÜ'de 15 Ağustos'tan itibaren hasta kabulüne başlanacak Erciyes Üniversitesi (EÜ )Tıp Fakültesi Hastanesi Yenidoğan Servisi'ne ,15 Ağustos'tan itibaren hasta kabulüne başlanacağı bildirildi .</sentence>
+<sentence num="2">Geçen hafta enfeksiyon nedeniyle 8 prematüre bebeğin hayatını kaybettiği servise ,diğer hastanelerden hasta kabul edilmeye başlanacak .</sentence>
+<sentence num="3">Bu kapsamda ,Tıp Fakültesi Hastaneler Başhekimliği ,İl Sağlık Müdürlüğü'ne söz konusu tarihten itibaren hasta kabul etmeye başlanacağını bildirdi .</sentence>
+<sentence num="4">İl Sağlık Müdürlüğü de Kayseri'deki hastaneler ile EÜ Tıp Fakültesi Hastanesi'ne hasta sevki yapan çevre illerdeki hastanelere bilgi vererek ,Yenidoğan Servisi'ne hasta gönderebileceklerini bildirecek .</sentence>
+<sentence num="5">Öte yandan ,bebek ölümleriyle ilgili olarak ,''kapasitenin üzerinde bebeğin tedavi görmesi ''nedeniyle eleştirilen yönetim ,15 Ağustos'tan itibaren 52 bebek kapasiteli servise ,kapasite fazlası hasta kabul edilmemesi kararı aldı .</sentence>
+</doc>
+<doc>
+<id>131182</id>
+<sentence num="0">2005 08 11 12 :32 :00 .Hastane Mikrobuna Savaş .</sentence>
+<sentence num="1">Sağlık bakanlığı hastane mikrobuna karşı savaş açtı .</sentence>
+<sentence num="2">Enfeksiyondan kaynaklanan ölümlerin önüne geçilmesini amaçlayan yönetmelik Resmi Gazete'de yayımlandı .</sentence>
+<sentence num="3">Bütün yataklı tedavi kurumlarında Enfeksiyon Kontrol Komitesi kurulması zorunlu hale getirildi .</sentence>
+<sentence num="4">8 bebeğin öldüğü Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde de ,15 Ağustos'tan itibaren hasta kabulüne başlanacak .</sentence>
+<sentence num="5">Edirne ,Manisa ve Kayseri'deki bebek ölümlerinin ardından Sağlık Bakanlığı hastane mikrobuna karşı savaş açtı .</sentence>
+<sentence num="6">Çıkarılan yönetmeliğe göre ,artık bütün yataklı tedavi kurumlarında Enfeksiyon Kontrol Komitesi kurulacak .</sentence>
+<sentence num="7">Komite ,düzenli olarak yılda en az üç defa toplanacak .</sentence>
+<sentence num="8">Olağanüstü durumlarda başkanın daveti veya üyelerden birinin başvurusuyla da komite biraraya gelecek .</sentence>
+<sentence num="9">Bu komitenin aldığı kararlar ,hastane yönetimi ve personeli için bağlayıcı olacak .</sentence>
+<sentence num="10">Komite içinde yer alacak Enfeksiyon kontrol ekibi ;Enfeksiyon risklerini izleyecek ve koruyucu tıbbi önerilerde bulunacak ,Yataklı tedavi kurumlarındaki antibiyotik kullanımını takip edecek ve enfeksiyon kontrol komitesine bilgi verecek ,Sterilizasyon ve dezenfeksiyon işlemlerini denetleyecek ,Hastane temizliği ,mutfak ,çamaşırhane ve atık yönetimi ilkelerini belirleyerek denetimini yapacak .</sentence>
+<sentence num="11">Yatak sayısı binden fazla olan yataklı tedavi kurumlarında ,birden fazla enfeksiyon kontrol hekimi görevlendirilebilecek .</sentence>
+<sentence num="12">Her 250 yatak için bir enfeksiyon kontrol hemşiresi görevlendirilmesi zorunlu olacak .</sentence>
+<sentence num="13">Yönetmelik hükümlerine aykırı hareket edilmesi halinde ilgililer hakkında işlem yapılacak .</sentence>
+<sentence num="14">Bu arada ,8 bebeğin öldüğü Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde de ,15 Ağustos'tan itibaren hasta kabulüne başlanacak .</sentence>
+<sentence num="15">Hastane yönetimi ,52 bebek kapasiteli servise ,bu sayının üzerinde hasta kabul edilmemesini kararlaştırdı .</sentence>
+</doc>
+<doc>
+<id>131348</id>
+<sentence num="0">2005 08 11 15 :59 :00 .Hastanelere 'enfeksiyon komitesi 'Türk Tabibleri Birliği ve İstanbul Tabip Odası da komisyon kurdu .</sentence>
+<sentence num="1">Hastanelerde Enfeksiyon Kontrol Komitesi kurulacak İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Reflü bebeklerin akciğerini vuruyor ?</sentence>
+<sentence num="3">6 ayda 314 prematüre bebek öldü ?</sentence>
+<sentence num="4">Kan uyuşmazlığı bebeğin düşmanı ?</sentence>
+<sentence num="5">Bebeklere D vitamini desteği ?</sentence>
+<sentence num="6">Anne karnında kanser tehlikesi Sağlık Bakanlığı ,hastane enfeksiyonlarının önüne geçebilmek için harekete geçti .</sentence>
+<sentence num="7">Yeni yönetmeliğe göre ,hastanelerde 'Enfeksiyon Kontrol Komitesi 'kurulacak .</sentence>
+<sentence num="8">Son iki ayda üç şehirde 18 bebeğin hastane enfeksiyonu nedeniyle ölmesinin ardından Sağlık Bakanlığı ve Türk Tabipleri Birliği bir dizi karar aldı .</sentence>
+<sentence num="9">Sağlık Bakanlığı'nın ,'Yataklı Tedavi Kurumları Enfeksiyon Kontrol Yönetmeliği'ne göre ,hastanelerde sağlık hizmetleri ile ilişkili olarak gelişen enfeksiyon hastalıklarının önlenmesi ve kontrol altına alınması ve bu konudaki kararları gerekli mercilere iletmek üzere ,Enfeksiyon Kontrol Komitesi kurulacak .</sentence>
+<sentence num="10">Enfeksiyon Kontrol Komitesi ,bir başhekim yardımcısı veya dekan yardımcısı ,enfeksiyon hastalıkları uzmanı ,iç hastalıkları uzmanı ,genel cerrahi uzmanı ,mikrobiyoloji laboratuvarı temsilcisi ,başhemşire ,enfeksiyon kontrol hekimi ,enfeksiyon kontrol hemşiresi ,eczane sorumlusu ve hastane müdüründen oluşacak .</sentence>
+<sentence num="11">Komitenin görevleri ise şöyle :Bir enfeksiyon kontrol programı belirleyerek ,hastane personeline hizmet içi eğitim verilmesini sağlayacak .</sentence>
+<sentence num="12">Olası bir enfeksiyon durumunda gerekli tedbirleri alacak .</sentence>
+<sentence num="13">Komitenin kararları bağlayıcı olacak ,uymayanlar hakkında yasal işlem yapılacak .</sentence>
+<sentence num="14">Komisyon ,ölümlerin gerçek nedenini saptayacak .</sentence>
+<sentence num="15">Hastane eksikliklerini açığa çıkararak ,alınması gereken önlemleri tespit edecek ve bunu bir rapor halinde yetkililer ve kamuoyuyla paylaşacak .</sentence>
+<sentence num="16">Üç ayrı şehirde 18 bebek öldü Hastane enfeksiyonlarına bağlı bebek ölümleri en son Kayseri'de yaşandı .</sentence>
+<sentence num="17">Kayseri Erciyes Üniversitesi Gevher Nesibe Hastanesi yenidoğan ünitesinde hastane enfeksiyonu nedeniyle sekiz bebek öldü .</sentence>
+<sentence num="18">Manisa'da da ,Manisa Doğum ve Çocuk Bakımevi Hastanesi'nde 17 temmuzda iki bebek ölmüştü .</sentence>
+<sentence num="19">Edirne'de ise geçtiğimiz haziran ayında Trakya Üniversitesi Edirne Tıp Fakültesi Hastanesi'nde ,'serratia 'bakterisinin neden olduğu enfeksiyon nedeniyle sekiz bebek hayatını kaybetmişti .</sentence>
+<sentence num="20">Serratia ,'koliform 'bakterinin bir örneği ve tipik olarak toprak ve suda bulunuyor .</sentence>
+<sentence num="21">Serratia bakterisi 1950'lere kadar hastalık etkeni olarak tanımlanıyordu .</sentence>
+<sentence num="22">Ancak son yıllarda özellikle hastanede yatmakta olan hastalardan gittikçe daha sık bir şekilde bildirilmeye başlandı .</sentence>
+<sentence num="23">Literatürde 1975'ten bu yana Almanya ,Avusturya ,ABD ,Japonya ,Meksika gibi ülkelerin yeni doğan birimlerinde bildirilmiş 30 civarında salgın tanımlandı .</sentence>
+<sentence num="24">Serratia bakterisinin yol açtığı enfeksiyonlar ,sağlam insanlar için çok sorun olmasa da büyük sorunları olan erişkinlerde ve yeni doğanlarda ölümcül olabiliyor .</sentence>
+</doc>
+<doc>
+<id>133163</id>
+<sentence num="0">2005 08 15 13 :32 :00 .EÜ Yenidoğan Servisi hasta kabulüne başladı .</sentence>
+<sentence num="1">EÜ Yenidoğan Servisi hasta kabulüne başladı Erciyes Üniversitesi (EÜ )Tıp Fakültesi Hastanesi Yenidoğan Servisi'ne ,hasta kabulüne başlandığı bildirildi .</sentence>
+<sentence num="2">Hastane yetkililerinden alınan bilgiye göre ,enfeksiyon nedeniyle 8 prematüre bebeğin hayatını kaybettiği servise ,diğer hastanelerden hasta kabul edilmeye başlandı .</sentence>
+<sentence num="3">Bu kapsamda Tıp Fakültesi Hastaneler Başhekimliği'nin talebi üzerine ,İl Sağlık Müdürlüğü'nce Kayseri'deki hastaneler ile EÜ Tıp Fakültesi Hastanesi'ne hasta sevki yapan çevre illerdeki hastanelere bilgi verilerek ,Yenidoğan Servisi'ne hasta gönderebilecekleri bildirildi .</sentence>
+</doc>
+<doc>
+<id>134246</id>
+<sentence num="0">2005 08 17 11 :11 :00 .Kayseri'de otopsi yapılmadan ailelerine verilen 2 bebeğin mezarları açıldı .</sentence>
+<sentence num="1">Kayseri'de otopsi yapılmadan ailelerine verilen 2 bebeğin mezarları açıldı Kayseri Erciyes üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde hayatını kaybeden 2 bebeğin mezarları açıldı .</sentence>
+<sentence num="2">Kayseri Devlet Hastanesi'nde ,otopsileri yapılan bebeklerden alınan doku ve kan örnekleri de Adli Tıp Kurumu'na gönderildi .</sentence>
+<sentence num="3">Ahmet Ceviz ile Alican Ezer ,önceki hafta Yenidoğan Servisi'nde ölen bebekleriyle ilgili ,sorumlu ve ihmali olanların cezalandırılması istemiyle olayın soruşturmasını sürdüren Cumhuriyet Savcısı'na suç duyurusunda bulundular .</sentence>
+<sentence num="4">Ailelerin isteği üzerine Ahmet Ceviz'in bebeğinin Kayseri Asri Mezarlığı'nda ,Alican Ezer'in ise İncesu İlçesi Saraycık Köyü'ndeki mezarları savcılığın talimatıyla açıldı .</sentence>
+<sentence num="5">Kayseri Devlet Hastanesi'nde otopsileri yapılan bebeklerden alınan kan ve doku örnekleri de Adli Tıp Kurumu'na gönderildi .</sentence>
+</doc>
+<doc>
+<id>158921</id>
+<sentence num="0">2005 10 01 10 :40 :00 .Kayseri'de bir bebek daha hayatını kaybetti .</sentence>
+<sentence num="1">Kayseri'de bir bebek daha hayatını kaybetti Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde Ağustos ayında 8 bebeğin ölümüne yol açan enfeksiyondan etkilenen ve 2 aydır tedavi edilen bir bebek daha hayatını kaybetti .</sentence>
+<sentence num="2">Alınan bilgiye göre ,8 bebeğin ölümüne yol açan ''Klebsiella ''bakterisinin yol açtığı enfeksiyon nedeniyle 2 aydır yoğun bakımda tedavi altında bulunan Yavuz Selim bebek ,akciğer yetmezliği sorunuyla da karşılaşınca yaşamını yitirdi .</sentence>
+<sentence num="3">Yavuz Selim bebeğin babası Adem Karaman (25 ),AA muhabirine yaptığı açıklamada ,bebeğinin yaşama dönmesi için sabırla beklediklerini ,ancak kötü haberle yıkıldıklarını söyledi .</sentence>
+<sentence num="4">Eşi Kevser Karaman'ın erken doğum yaptığını ve bu nedenle organları yeterince gelişmeyen bebeğinin doğumdan itibaren sürekli yoğun bakımda tedavi gördüğünü belirten Karaman ,şöyle konuştu :''Eşimin doğumuna 3 ay kala karın ağrısı şikayetiyle doktora gittik .</sentence>
+<sentence num="5">Sebebini anlayamadan eşim erken doğum yaptı .</sentence>
+<sentence num="6">Özel bir hastanede doğan bebeğimi hayati tehlikesi olduğu gerekçesiyle Erciyes Üniversitesi Tıp Fakültesi Hastanesi'ne sevk ettiler .</sentence>
+<sentence num="7">Orada bebeğimin tedavisi sürerken enfeksiyon ortaya çıktığını söylediler .</sentence>
+<sentence num="8">Diğer bebekler öldükten sonra bizim bebeğimizin enfeksiyon tehlikesini atlattığını ,ancak bir süre sonra da yeniden enfeksiyon riskinin ortaya çıktığını söylediler .</sentence>
+<sentence num="9">Doktorlar ,son olarak bebeğimizin akciğer yetmezliği sorunu yaşadığını ,bunun sonucunda da hayatını kaybettiğini bildirdiler .''</sentence>
+<sentence num="10">Hastane yönetimi ve doktorlardan şikayetçi olmadığını ,bebeğinin erken doğumdan kaynaklanan sorunlar nedeniyle öldüğüne inandığını ifade eden Karaman ,sık sık bebeğinin mezarını ziyarete gittiğini ve 1 yaşındaki diğer çocuğu ile teselli bulmaya çalıştıklarını kaydetti .</sentence>
+<sentence num="11">Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde ''Klebsiella ''bakterisinden kaynaklanan enfeksiyondan 9 prematüre bebek etkilenmiş ,bebeklerin 8'i kısa aralıklarla yaşamını yitirmişti .</sentence>
+<sentence num="12">Tedavi altında tutulan Karaman ailesinin bebeğinin ölümüyle ,enfeksiyon kurbanı bebek sayısı 9'a yükseldi .</sentence>
+</doc>
+<doc>
+<id>158933</id>
+<sentence num="0">2005 10 01 11 :00 :00 .Kayseri'de enfeksiyondan etkilenen bir bebek daha öldü ...</sentence>
+<sentence num="1">Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde Ağustos ayında 8 bebeğin ölümüne yol açan enfeksiyondan etkilenen ve 2 aydır tedavi edilen bir bebek daha hayatını kaybetti .</sentence>
+<sentence num="2">AA muhabirinin aldığı bilgiye göre ,8 bebeğin ölümüne yol açan Klebsiella bakterisinin yol açtığı enfeksiyon nedeniyle 2 aydır yoğun bakımda tedavi altında bulunan Yavuz Selim bebek ,akciğer yetmezliği sorunuyla da karşılaşınca yaşamını yitirdi .</sentence>
+<sentence num="3">Yavuz Selim bebeğin babası Adem Karaman (25 ),AA muhabirine yaptığı açıklamada ,bebeğinin yaşama dönmesi için sabırla beklediklerini ,ancak kötü haberle yıkıldıklarını söyledi .</sentence>
+<sentence num="4">Eşi Kevser Karaman'ın erken doğum yaptığını ve bu nedenle organları yeterince gelişmeyen bebeğinin doğumdan itibaren sürekli yoğun bakımda tedavi gördüğünü belirten Karaman ,şöyle konuştu :Eşimin doğumuna 3 ay kala karın ağrısı şikayetiyle doktora gittik .</sentence>
+<sentence num="5">Sebebini anlayamadan eşim erken doğum yaptı .</sentence>
+<sentence num="6">Özel bir hastanede doğan bebeğimi hayati tehlikesi olduğu gerekçesiyle Erciyes Üniversitesi Tıp Fakültesi Hastanesi'ne sevk ettiler .</sentence>
+<sentence num="7">Orada bebeğimin tedavisi sürerken enfeksiyon ortaya çıktığını söylediler .</sentence>
+<sentence num="8">Diğer bebekler öldükten sonra bizim bebeğimizin enfeksiyon tehlikesini atlattığını ,ancak bir süre sonra da yeniden enfeksiyon riskinin ortaya çıktığını söylediler .</sentence>
+<sentence num="9">Doktorlar ,son olarak bebeğimizin akciğer yetmezliği sorunu yaşadığını ,bunun sonucunda da hayatını kaybettiğini bildirdiler .</sentence>
+<sentence num="10">Hastane yönetimi ve doktorlardan şikayetçi olmadığını ,bebeğinin erken doğumdan kaynaklanan sorunlar nedeniyle öldüğüne inandığını ifade eden Karaman ,sık sık bebeğinin mezarını ziyarete gittiğini ve 1 yaşındaki diğer çocuğu ile teselli bulmaya çalıştıklarını kaydetti .</sentence>
+<sentence num="11">Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde Klebsiella bakterisinden kaynaklanan enfeksiyondan 9 prematüre bebek etkilenmiş ,bebeklerin 8'i kısa aralıklarla yaşamını yitirmişti .</sentence>
+<sentence num="12">Tedavi altında tutulan Karaman ailesinin bebeğinin ölümüyle ,enfeksiyon kurbanı bebek sayısı 9'a yükseldi .</sentence>
+</doc>
+<doc>
+<id>158988</id>
+<sentence num="0">2005 10 01 12 :45 :00 .Kayseri'de bir bebek daha öldü .</sentence>
+<sentence num="1">8 bebeğin ölümüne yol açan ''Klebsiella ''bakterisinin yol açtığı enfeksiyon nedeniyle 2 aydır yoğun bakımda tedavi altında bulunan Yavuz Selim bebek ,akciğer yetmezliği sorunuyla da karşılaşınca yaşamını yitirdi .</sentence>
+<sentence num="2">Yavuz Selim bebeğin babası Adem Karaman (25 ),bebeğinin yaşama dönmesi için sabırla beklediklerini ,ancak kötü haberle yıkıldıklarını söyledi .</sentence>
+<sentence num="3">Eşi Kevser Karaman'ın erken doğum yaptığını ve bu nedenle organları yeterince gelişmeyen bebeğinin doğumdan itibaren sürekli yoğun bakımda tedavi gördüğünü belirten Karaman ,şöyle konuştu :''Eşimin doğumuna 3 ay kala karın ağrısı şikayetiyle doktora gittik .</sentence>
+<sentence num="4">Sebebini anlayamadan eşim erken doğum yaptı .</sentence>
+<sentence num="5">Özel bir hastanede doğan bebeğimi hayati tehlikesi olduğu gerekçesiyle Erciyes Üniversitesi Tıp Fakültesi Hastanesi'ne sevk ettiler .</sentence>
+<sentence num="6">Orada bebeğimin tedavisi sürerken enfeksiyon ortaya çıktığını söylediler .</sentence>
+<sentence num="7">Diğer bebekler öldükten sonra bizim bebeğimizin enfeksiyon tehlikesini atlattığını ,ancak bir süre sonra da yeniden enfeksiyon riskinin ortaya çıktığını söylediler .</sentence>
+<sentence num="8">Doktorlar ,son olarak bebeğimizin akciğer yetmezliği sorunu yaşadığını ,bunun sonucunda da hayatını kaybettiğini bildirdiler .''</sentence>
+<sentence num="9">Hastane yönetimi ve doktorlardan şikayetçi olmadığını ,bebeğinin erken doğumdan kaynaklanan sorunlar nedeniyle öldüğüne inandığını ifade eden Karaman ,sık sık bebeğinin mezarını ziyarete gittiğini ve 1 yaşındaki diğer çocuğu ile teselli bulmaya çalıştıklarını kaydetti .</sentence>
+<sentence num="10">Erciyes Üniversitesi Tıp Fakültesi Hastanesi Yenidoğan Servisi'nde ''Klebsiella ''bakterisinden kaynaklanan enfeksiyondan 9 prematüre bebek etkilenmiş ,bebeklerin 8'i kısa aralıklarla yaşamını yitirmişti .</sentence>
+<sentence num="11">Tedavi altında tutulan Karaman ailesinin bebeğinin ölümüyle ,enfeksiyon kurbanı bebek sayısı 9'a yükseldi .</sentence>
+<sentence num="12">aa .</sentence>
+</doc>

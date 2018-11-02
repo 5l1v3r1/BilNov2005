@@ -1,0 +1,862 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 05 02 16 :51 :00 .akdeniz olimpiyatları ekibi açıklandı ..</sentence>
+<sentence num="1">24 haziran 3 temmuz tarihleri arasında almeria'da yapılacak olan akdeniz oyunları'na ,türkiye ,28 dalda ,209 erkek ,110 bayan olmak üzere toplam 319 sporcu ile katılacağını bildirdi .</sentence>
+<sentence num="2">spor çevreleri türkiye'nin oyunlarda büyük iddia sahibi olduğunu belirtiyorlar .</sentence>
+</doc>
+<doc>
+<id>79624</id>
+<sentence num="0">2005 05 13 18 :20 :00 .Nurcan Taylan ,özel izinle Akdeniz Oyunları'nda podyuma çıkacak .</sentence>
+<sentence num="1">Bayan Milli Halterci Nurcan Taylan ,özel izinle İspanya'da düzenlenecek Akdeniz Oyunları'nda podyuma çıkacak .</sentence>
+<sentence num="2">Doping yaptığı gerekçesiyle ömür boyu men cezası bulunan Nurcan Taylan'ın ,Halter Federasyonu'nun başvurusu üzerine ,Gençlik Ve Spor Genel Müdürü Mehmet Atalay'ın özel izni ile 24 Haziran 3 Temmuz tarihleri arasında İspanya'nın Almeira kentinde düzenlenecek Akdeniz Oyunları'nda yarışacağı kaydedildi .</sentence>
+<sentence num="3">48 kiloda podyuma çıkan Nurcan Taylan'ın Akdeniz Oyunları'nda altın madalya şansının yüksek olduğu ifade edildi .</sentence>
+</doc>
+<doc>
+<id>79669</id>
+<sentence num="0">2005 05 13 20 :37 :00 .Nurcan Taylan'a podyum için özel izin .</sentence>
+<sentence num="1">Doping yaptığı gerekçesiyle ömür boyu men cezası bulunan Nurcan Taylan'ın ,Halter Federasyonu'nun başvurusu üzerine ,Gençlik Ve Spor Genel Müdürü Mehmet Atalay'ın özel izni ile 24 Haziran 3 Temmuz tarihleri arasında İspanya'nın Almeira kentinde düzenlenecek Akdeniz Oyunları'nda yarışacağı kaydedildi .</sentence>
+<sentence num="2">48 kiloda podyuma çıkan Nurcan Taylan'ın Akdeniz Oyunları'nda altın madalya şansının yüksek olduğu ifade edildi .</sentence>
+<sentence num="3">AA .</sentence>
+</doc>
+<doc>
+<id>92108</id>
+<sentence num="0">2005 06 03 13 :35 :00 .Potada milli mesai başladı ...</sentence>
+<sentence num="1">İspanya'nın Almeria kentinde 24 Haziran 3 Temmuz tarihleri arasında düzenlenecek 15 .Akdeniz Oyunları'na hazırlanan (A )Milli Erkek Basketbol Takımı'nın aday kadrosu İstanbul'da toplandı .</sentence>
+<sentence num="2">Toplam 22 oyuncunun çağrıldığı aday kadrodan 16 oyuncu ,Polat Renaissance Otel'de kampa girdi .</sentence>
+<sentence num="3">Takımlarında play off oynayan oyuncular Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Valentin Pastal ,Mirsad Türkcan ve İbrahim Kutluay ise milli takım kampına daha sonra katılacak .</sentence>
+<sentence num="4">Milliler bu akşam antrenmana çıkacak .(</sentence>
+<sentence num="5">A )Milli Erkek Basketbol Takımı'nın aday kadrosuna çağrılan oyuncular şöyle :Ümit Türkoğlu (Bandırma Banvitspor ),Cevher Özer (Darüşşafaka ),Fırat Aydemir (Erdemirspor ),Reha Öz (İTÜ ),Ersan Özseven ,Enes Yoldaş (OYAK Renault ),Volkan Çetintahra (TOFAŞ ),Barış Özcan ,Hüseyin Demiral ,Hakan Köseoğlu (Tuborg Pilsener ),Kerem Tunçeri ,Kerem Gönlüm ,Tutku Açık (Ülkerspor ),Hidayet Türkoğlu (Orlando Magic ),Mehmet Okur (Utah Jazz ),Derya Yannier (ABD ),Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Valentin Pastal (Efes Pilsen ),Mirsad Türkcan (Dinamo Moskova ),İbrahim Kutluay (Panathinaikos ).</sentence>
+</doc>
+<doc>
+<id>92163</id>
+<sentence num="0">2005 06 03 14 :43 :00 .Potada Milli Mesai Başladı .</sentence>
+<sentence num="1">İspanya'nın Almeria kentinde 24 Haziran 3 Temmuz tarihleri arasında düzenlenecek 15 .Akdeniz Oyunları'na hazırlanan (A )Milli Erkek Basketbol Takımı'nın aday kadrosu İstanbul'da toplandı .</sentence>
+<sentence num="2">Toplam 22 oyuncunun çağrıldığı aday kadrodan 16 oyuncu ,kampa girdi .</sentence>
+<sentence num="3">Takımlarında play off oynayan oyuncular Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Valentin Pastal ,Mirsad Türkcan ve İbrahim Kutluay ise milli takım kampına daha sonra katılacak .(</sentence>
+<sentence num="4">A )Milli Erkek Basketbol Takımı'nın aday kadrosuna çağrılan oyuncular şöyle :Ümit Türkoğlu (Bandırma Banvitspor ),Cevher Özer (Darüşşafaka ),Fırat Aydemir (Erdemirspor ),Reha Öz (İTÜ ),Ersan Özseven ,Enes Yoldaş (OYAK Renault ),Volkan Çetintahra (TOFAŞ ),Barış Özcan ,Hüseyin Demiral ,Hakan Köseoğlu (Tuborg Pilsener ),Kerem Tunçeri ,Kerem Gönlüm ,Tutku Açık (Ülkerspor ),Hidayet Türkoğlu (Orlando Magic ),Mehmet Okur (Utah Jazz ),Derya Yannier (ABD ),Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Valentin Pastal (Efes Pilsen ),Mirsad Türkcan (Dinamo Moskova ),İbrahim Kutluay (Panathinaikos ).</sentence>
+</doc>
+<doc>
+<id>92434</id>
+<sentence num="0">2005 06 03 21 :20 :00 .</sentence>
+<sentence num="1">A Milli Basketbol Takımı aday kadrosu ,6 eksikle çalışmalarına başladı ...</sentence>
+<sentence num="2">Milli Erkek Basketbol Takımı aday kadrosu ,İspanya'nın Almeria kentinde 24 Haziran 3 Temmuz tarihleri arasında düzenlenecek 15 .Akdeniz Oyunları için hazırlıklarına başladı .</sentence>
+<sentence num="3">Aday kadro ,antrenör Bogdan Tanjevic yönetiminde ,Abdi İpekçi Spor Salonu'nda akşam ilk çalışmasını yaparken ,antrenmana 22 kişilik kadrodan 16 oyuncu katıldı .</sentence>
+<sentence num="4">Takımları play off maçları yapan Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Valantin Pastal ,Mirsad Türkcan ve İbrahim Kutluay kadroya daha sonra katılacak .</sentence>
+<sentence num="5">Antrenör Tanjevic ,ilk antrenmanda oyuncuları fazla yormazken ,kondisyon ağırlıklı bir çalışma yapıldı .</sentence>
+<sentence num="6">Bu arada ,(A )Milli Basketbol Takımı'nın idari ve teknik kadrosu ile oyuncuları ,(A )Milli Futbol Takımı'nın yarın Dünya Kupası eleme grubunda Yunanistan ile yapacağı karşılaşmayı izleyecek .</sentence>
+<sentence num="7">Basketbolcular ,sponsorlar Coca Cola ve Turkcell'in davetlisi olarak BJK İnönü Stadı'ndaki maça giderek ,Türkiye'ye destek verecek .</sentence>
+</doc>
+<doc>
+<id>97735</id>
+<sentence num="0">2005 06 13 14 :30 :00 .</sentence>
+<sentence num="1">A Milli Bayan Basketbol takımı Akdeniz Oyunları'na hazırlanıyor ...(</sentence>
+<sentence num="2">A )Milli Bayan Basketbol Takımı ,24 Haziran 3 Temmuz tarihleri arasında İspanya'da yapılacak 15 .Akdeniz Oyunları'na Antalya'da hazırlanıyor .</sentence>
+<sentence num="3">Takımın asıl hedefi ise ,eylül ayında Türkiye'de düzenlenecek Avrupa Şampiyonası finallerinde başarıyı yakalamak .</sentence>
+<sentence num="4">Menajer Mihriban Oğuz ,AA muhabirine yaptığı açıklamada ,15 .Akdeniz Oyunları'nın hazırlıklarını Antalya'da Dilek Sabancı Spor Salonu'nda sürdürdüklerini bildirdi .</sentence>
+<sentence num="5">Asıl hedeflerinin ise 2 11 Eylül tarihleri arasında Türkiye'nin evsahipliğini yapacağı Avrupa Şampiyonası finalleri olduğuna dikkati çeken Oğuz ,3 yıldır bu şampiyonaya hazırlandıklarını kaydetti .</sentence>
+<sentence num="6">Oğuz ,şunları söyledi :''Avrupa Şampiyonası'nı hedefledik ve bu doğrultuda uzun vadeli program yaptık .</sentence>
+<sentence num="7">Her yıl çalışma sistemlerini geliştiriyoruz .</sentence>
+<sentence num="8">Bu yıl ilk programımız 24 Mayıs'ta İstanbul'da başladı .</sentence>
+<sentence num="9">Onun devamında İtalya'da 10 günlük kampa gittik .</sentence>
+<sentence num="10">Türkiye'ye döndükten sonra da Antalya'ya geldik .</sentence>
+<sentence num="11">İtalya'dan sonra Antalya'ya gelmemizin nedeni ,Akdeniz Oyunları'nın yapılacağı İspanya'nın Almeria kentinin iklim olarak Antalya'ya benzemesi .''</sentence>
+<sentence num="12">Çalışmaların büyük bölümünün Avrupa Şampiyonası hedefiyle ilgili olduğunu anlatan Oğuz ,şöyle devam etti :''Şu anda oyuncular fizik kondisyon ,ağırlık ,çabukluk ve taktik çalışmaları yapıyor .</sentence>
+<sentence num="13">Bundan sonra birkaç gün daha fizik kondisyon çalışması yapacağız .</sentence>
+<sentence num="14">Hergün 2 antrenmanımız oluyor .</sentence>
+<sentence num="15">Türkiye'nin ilk kez katılacağı Avrupa Şampiyonası finallerinde başarıyı yakalamak ve madalya şansı elde etmek istiyoruz .</sentence>
+<sentence num="16">Diğer takımlar daha önce defalarca Avrupa Şampiyonası'na katılmış ve tecrübe üstünlükleri var .</sentence>
+<sentence num="17">Biz de bunu evsahibi avantajı ve yoğun çalışmalarımızla kapatmaya çalışacağız .''</sentence>
+<sentence num="18">ANTALYA'DA TURNUVA DÜZENLENECEK Oğuz ,Antalya'da bulundukları süre içinde bir de turnuva gerçekleştirileceğini bildirdi .</sentence>
+<sentence num="19">Turnuvanın 15 Haziran'da başlayacağını ve 3 gün süreceğini anlatan Oğuz ,turnuvaya Fransa ve Hırvatistan milli takımlarının katılacağını dile getirdi .</sentence>
+<sentence num="20">Basketbol Federasyonu Antalya İl Temsilcisi Mehmet Ali Ulutaş ise ,Antalya'da düzenlenecek turnuvanın bayan basketbolculara yararlı olacağını ve bu nedenle turnuvanın izlenmesini istediklerini kaydetti .</sentence>
+</doc>
+<doc>
+<id>102588</id>
+<sentence num="0">2005 06 21 12 :29 :00 .Elvan Abeylegesse Akdeniz Oyunları'na katılamayacak .</sentence>
+<sentence num="1">Elvan Abeylegesse Akdeniz Oyunları'na katılamayacak Rekortmen milli atlet Elvan Abeylegesse ,Akdeniz Oyunları'na katılamayacak .</sentence>
+<sentence num="2">İstanbul'da hafta sonu yapılan Avrupa Kupası 2 .Lig yarışmalarında ,3 bin ve 5 bin metrede aldığı birinciliklerle topladığı 24 puanla Türkiye'nin 1 .lige çıkmasında büyük katkıda bulunan milli atletin ,böbreğindeki ve karın kasındaki problemlere karşın piste çıktığı öğrenildi .</sentence>
+<sentence num="3">Kupa yarışları öncesinde girdiği sağlık kontrolünde sağ böbreğinde 2 adet taş tespit edilen ve karın kasında ise 7 mm'lik yırtık görülen rekortmen atlet ,yarın İspanya'nın Almeira kentine hareket edecek Akdeniz Oyunları kafilesinden affını istedi .</sentence>
+<sentence num="4">Abeylegesse'nin antrenörü Ertan Hatipoğlu ,ENKA Holding Onursal Başkanı Şarık Tara'nın konuyla yakından ilgilendiğini belirterek ,''Böbrekte tespit edilen 2 taştan biri her an düşebilecek pozisyona girmiş .</sentence>
+<sentence num="5">Bu riski göze alamadık .</sentence>
+<sentence num="6">Sorun taşın kırdırılmasıyla çözülecek ''dedi .</sentence>
+</doc>
+<doc>
+<id>102601</id>
+<sentence num="0">2005 06 21 12 :42 :00 .Elvan Akdeniz Oyunları'nda yok .</sentence>
+<sentence num="1">Elvan ,Avrupa Kupası yarışmalarına rahatsızlığına rağmen katıldı Milli atlet Elvan Abeylegesse rahatsızlığı nedeniyle Akdeniz Oyunları'na katılamayacak .</sentence>
+<sentence num="2">Abeylegesse ,İstanbul'da geçtiğimiz hafta sonu yapılan Avrupa Kupası İkinci Lig yarışmalarında 3 bin ve 5 bin metrede birincilikler alarak ,24 puan toplamış ve Türkiye'nin Birinci Lig'e çıkmasına büyük katkıda bulunmuştu .</sentence>
+<sentence num="3">Milli atletin bu yarışmalara böbreğindeki ve karın kasındaki problemlere karşın katıldığı ortaya çıktı .</sentence>
+<sentence num="4">Abeylegesse'nin kupa yarışları öncesinde girdiği sağlık kontrolünde sağ böbreğinde iki adet taş tespit edilmiş ,karın kasında ise yedi milimetrelik yırtık saptanmıştı .</sentence>
+<sentence num="5">Rekortmen atlet ,bu nedenle yarın İspanya'nın Almeira kentine hareket edecek Akdeniz Oyunları kafilesinden affını istedi .</sentence>
+<sentence num="6">Hatipoğlu :Riski göze alamadık Elvan Abeylegesse'nin antrenörü Ertan Hatipoğlu ,''böbrekte tespit edilen iki taştan biri her an düşebilecek pozisyona girmiş .</sentence>
+<sentence num="7">Bu riski göze alamadık .</sentence>
+<sentence num="8">Sorun taşın kırdırılmasıyla çözülecek ''dedi .</sentence>
+<sentence num="9">Karın kasının alt kısmındaki yırtığın da özel çalışmalar ve fizik tedaviyle düzeltileceğini belirten Hatifoğlu ,''Avrupa Kupası'nda özellikle 5 bin metre yarışının ardından Elvan'ın sancıları oldu .</sentence>
+<sentence num="10">Yaklaşık 10 15 günlük bir tedavi dönemine ihtiyacımız var .</sentence>
+<sentence num="11">Helsinki'de yapılacak Dünya Şampiyonası öncesi tedirginiz .</sentence>
+<sentence num="12">Tedaviyi bir an önce tamamlayıp çalışmalara tekrar başlamak zorundayız diye konuştu .</sentence>
+<sentence num="13">Hatipoğlu ,Elvan'ın sıkıntıları nedeniyle Avrupa Kupası'na bile hafif antrenmanlarla hazırlandığını kaydetti .</sentence>
+</doc>
+<doc>
+<id>102606</id>
+<sentence num="0">2005 06 21 12 :46 :00 .Elvan Akdeniz Oyunları'nda Yok .</sentence>
+<sentence num="1">Rekortmen milli atlet Elvan Abeylegesse ,Akdeniz Oyunları'na katılamayacak .</sentence>
+<sentence num="2">İstanbul'da hafta sonu yapılan Avrupa Kupası 2 .Lig yarışmalarında ,3 bin ve 5 bin metrede aldığı birinciliklerle topladığı 24 puanla Türkiye'nin 1 .lige çıkmasında büyük katkıda bulunan milli atletin ,böbreğindeki ve karın kasındaki problemlere karşın piste çıktığı öğrenildi .</sentence>
+<sentence num="3">Kupa yarışları öncesinde girdiği sağlık kontrolünde sağ böbreğinde 2 adet taş tespit edilen ve karın kasında ise 7 mm'lik yırtık görülen rekortmen atlet ,İspanya'nın Almeira kentine hareket edecek Akdeniz Oyunları kafilesinden affını istedi .</sentence>
+<sentence num="4">Dünya Şampiyonası Öncesi Şanssızlık Abeylegesse'nin antrenörü Ertan Hatipoğlu ,Böbrekte tespit edilen 2 taştan biri her an düşebilecek pozisyona girmiş .</sentence>
+<sentence num="5">Bu riski göze alamadık .</sentence>
+<sentence num="6">Sorun taşın kırdırılmasıyla çözülecek dedi .</sentence>
+<sentence num="7">Karın kasının alt kısmındaki yırtığın da özel çalışmalar ve fizik tedaviyle düzeltileceğini belirten Hatifoğlu ,Avrupa Kupası'nda özellikle 5 bin metre yarışının ardından Elvan'ın sancıları oldu .</sentence>
+<sentence num="8">Yaklaşık 10 15 günlük bir tedavi dönemine ihtiyacımız var .</sentence>
+<sentence num="9">Helsinki'de yapılacak Dünya Şampiyonası öncesi tedirginiz .</sentence>
+<sentence num="10">Tedaviyi bir an önce tamamlayıp çalışmalara tekrar başlamak zorundayız .</sentence>
+<sentence num="11">Elvan ,sıkıntıları yüzünden Avrupa Kupası'na bile hafif antrenmanlarla hazırlandı diye konuştu .</sentence>
+</doc>
+<doc>
+<id>103385</id>
+<sentence num="0">2005 06 22 13 :00 :00 .</sentence>
+<sentence num="1">A Milli Basketbol Takımının kadrosunda Hido ve Memo yok !..</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde yarın başlayacak ve 10 gün sürecek olan Akdeniz Oyunları'na katılacak A Milli Basketbol Takımı kadrosu açıklandı .</sentence>
+<sentence num="3">NBA'de oynayan iki yıldızımız Hidayet Türkoğlu ile Mehmet Okur'un yer almadığı kadroya şu isimler çağrıldı :Ender Arslan ,Valentin Pastal ,Ermal Kurtoğlu ,Kaya Peker (Efes Pilsen ),Erkan Veyseloğlu (Beşiktaş ),Kerem Tunçeri (Ülkerspor ),Volkan Çetintahra (Tofaş ),Hüseyin Demiral ,Barış Özcan (Tuborg Pilsener ),Fırat Aydemir (Erdemirspor ),Reha Öz (İTÜ ),Cevher Özer (Darüşşafaka ).</sentence>
+<sentence num="4">Antrenör Bogdan Tanjeviç ,çok iyi bir hazırlık dönemi geçirdiklerini belirterek şunları söyledi :?</sentence>
+<sentence num="5">Mehmet Okur ,Hidayet Türkoğlu da Türkiye'ye geldiklerinden bu yana takımla birlikte çalıştılar .</sentence>
+<sentence num="6">Gösterdikleri performanstan da çok memnunum .</sentence>
+<sentence num="7">Akdeniz Oyunları'na katılan takımların kadrolarında NBA oyuncusu olmaması nedeniyle onları kadroya dahil etmedik .</sentence>
+<sentence num="8">Bunun bir başka nedeni de ,Avrupa Şampiyonası hazırlık döneminin uzun ve yorucu geçeceği .''.</sentence>
+</doc>
+<doc>
+<id>103814</id>
+<sentence num="0">2005 06 22 23 :20 :00 .Yarın yapılması gereken Türkiye Lübnan maçı iptal edildi ...</sentence>
+<sentence num="1">İspanya'nın Almeria kentinde yapılacak 15 .Akdeniz oyunları kapsamında oynanması gereken Türkiye Lübnan maçı ,Lübnan'ın bu ülkeye gelmemesi nedeniyle iptal edildi .</sentence>
+<sentence num="2">El Ejido Stadı'nda oynanacağı açıklanan Türkiye Olimpik Milli Takımı ile Lübnan Milli Takımı'nın maçı ,Lübnan'ın İspanya'ya gelmemesi nedeniyle yapılamayacak .</sentence>
+<sentence num="3">Lübnan takımının yanı sıra Bosna Hersek Milli Takımı'nın da İspanya'ya gelmemesi üzerine gruplar 3'er takımdan oluşacak .</sentence>
+<sentence num="4">Böylece Türk Olimpik Milli Takımı ilk maçında 25 Haziran Cumartesi günü evsahibi İspanya ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>103815</id>
+<sentence num="0">2005 06 22 23 :20 :00 .Akdeniz Oyunları'nda yarın yapılması planlanan Türkiye Lübnan maçı iptal edildi .</sentence>
+<sentence num="1">Akdeniz Oyunları'nda yarın yapılması planlanan Türkiye Lübnan maçı iptal edildi İspanya'nın Almeria kentinde yapılacak 15 .Akdeniz oyunları kapsamında oynanması gereken Türkiye Lübnan maçı ,Lübnan'ın bu ülkeye gelmemesi nedeniyle iptal edildi .</sentence>
+<sentence num="2">El Ejido Stadı'nda oynanacağı açıklanan Türkiye Olimpik Milli Takımı ile Lübnan Milli Takımı'nın maçı ,Lübnan'ın İspanya'ya gelmemesi nedeniyle yapılamayacak .</sentence>
+<sentence num="3">Lübnan takımının yanı sıra Bosna Hersek Milli Takımı'nın da İspanya'ya gelmemesi üzerine gruplar 3'er takımdan oluşacak .</sentence>
+<sentence num="4">Böylece Türk Olimpik Milli Takımı ilk maçında 25 Haziran Cumartesi günü evsahibi İspanya ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>103865</id>
+<sentence num="0">2005 06 23 01 :28 :00 .Genç Milliler İspanya'ya Elendi .</sentence>
+<sentence num="1">15 .Dünya (A )Gençler Futbol Şampiyonası Finalleri'nde İspanya ile karşılaşan Türk Genç Milli Takımı 3 0 yenildi .</sentence>
+<sentence num="2">İspanya'nın gollerini 28 .ve 36 .dakikalarda Juan Fran ve 70 .dakikada Robuste attı .</sentence>
+<sentence num="3">Bu sonuçla Türk Milli Takımı elenirken ,İspanya ,25 Haziran Cumartesi günü Enschede kentinde Arjantin ile karşılayacak .</sentence>
+</doc>
+<doc>
+<id>103997</id>
+<sentence num="0">2005 06 23 10 :44 :00 .15'inci Akdeniz Oyunları yarın başlıyor Akdeniz Oyunları'na bu yıl İspanya ev sahipliği yapacak .</sentence>
+<sentence num="1">Türkiye'yi Akdeniz Oyunları'nda temsil edecek kafile İspanya'ya gitti İspanya'nın Almeria kentinde yarın başlayacak ve 3 temmuz pazar günü sona erecek 15'inci Akdeniz Oyunları'nda 21 ülkeden ,25 branşta ,toplam 3 bin 500 sporcu mücadele edecek .</sentence>
+<sentence num="2">Türkiye'yi oyunlarda tüm branşlarda ,toplam 305 sporcu temsil edecek .</sentence>
+<sentence num="3">Oyunlarda ,Avrupa'dan 14 ,Afrika'dan 5 ve Asya'dan da 2 ülke yarışacak .</sentence>
+<sentence num="4">Bundan önce gerçekleştirilen oyunlara Türkiye'nin yanısıra 11 ayrı ülke evsahipliği yaptı .</sentence>
+<sentence num="5">Mısır ,Lübnan ,İtalya ,Tunus ,Cezayir ,Yugoslavya ,Fas ,Suriye ,Yunanistan ve Fransa ,evsahipliğini üstlenen ülkeler oldu .</sentence>
+<sentence num="6">Bu ülkeler arasında İtalya ve Tunus ,ikişer kez oyunlara evsahipliği yaparken ,İspanya da ikinci kez bu organizasyona ev sahipliği yapmaya hazırlanıyor .</sentence>
+<sentence num="7">Mısır ,ilk ev sahibi Akdeniz Oyunları düzenli olarak dört yılda bir Olimpiyat Oyunları'ndan bir yıl sonra Akdeniz'i çevreleyen ülkeler arasında gerçekleştiriliyor .</sentence>
+<sentence num="8">İlk 10 oyun ,4 yılda bir ve olimpiyatlardan önce yapılırken ,1991 yılından sonra 1993'teki olimpiyat oyunlarından sonraki yıl yapıldı ve öyle sürdü .</sentence>
+<sentence num="9">İlk olarak Mısır'ın İskenderiye kenti 1951 yılında organizasyonu üstlenirken ,oyunlar Akdeniz Olimpiyatları olarak da anılıyor .</sentence>
+<sentence num="10">Birinci Akdeniz Oyunları'nda 10 ülke ,14 branşta mücadele etmişti .</sentence>
+<sentence num="11">2001 yılında Tunus'ta gerçekleştirilen son oyunlarda ise 23 ülkeden 3 bin 500 sporcu ,23 branşta yarıştı .</sentence>
+<sentence num="12">Almeria'daki oyunlarda ise 21 ülkeden ,2 bin 200 erkek ve bin 300 bayan sporcu ,25 branşta ,bin 200'den fazla madalyanın sahibi olabilmek için mücadele edecek .</sentence>
+<sentence num="13">Oyunlar yarım yüzyıl sonra ikinci kez İspanya'da 15'inci Akdeniz Oyunları ,24 haziran 3 temmuz tarihleri arasında ,değişik tesislerde ,tamamı Almeria kentinin içinde veya banliyölerinde yapılacak .</sentence>
+<sentence num="14">En uzak tesis kano kayak ve kürek müsabakalarının yapılacağı Almanzora Kanalı .</sentence>
+<sentence num="15">Bu kanala köyden otobüsle 1 saat 15 dakikada ulaşılıyor .</sentence>
+<sentence num="16">11 bin insan oyunlarda aktif olarak görev alacak .</sentence>
+<sentence num="17">Kamu kurum ve kuruluşlarının tümünün destek verdiği Almeria'daki oyunların bütçesi ise 21 milyon euro .</sentence>
+<sentence num="18">15'inci Akdeniz Oyunları'na katılacak ülkeler 15'inci Akdeniz Oyunları'nda Türkiye ,Arnuvutluk ,Bosna Hersek ,Kıbrıs Rum Kesimi ,Hırvatistan ,Slovenya ,İspanya ,Fransa ,Yunanistan ,İtalya ,Malta ,Monaco ,San Marino ,Sırbistan Karadağ ,Cezayir ,Mısır ,Libya ,Fas ,Tunus ,Lübnan ,Suriye'den sporcular yarışacak .</sentence>
+<sentence num="19">Oyunların tümüne katılan Türkiye ,şu ana dek 14 oyunda 213 altın ,131 gümüş ve 149 bronz olmak üzere 493 madalya kazandı .</sentence>
+<sentence num="20">Türkiye ,en başarılı sonucu ,1993'de Fransa'da düzenlenen oyunlarda 34 altın ,20 gümüş ve 10 bronz madalyayla elde ederken ,1979'da Split'teki oyunlarda ise yalnızca 5 altın ,5 gümüş ve 14 bronz madalya alabildi .</sentence>
+<sentence num="21">Akdeniz Oyunları'na ev sahipliği yapan ülkeler ve kentler Yıl Ülke Kent Katılan ülke Katılan sporcu 1951 Mısır İskenderiye 10 734 1955 İspanya Barcelona 10 1135 1959 Lübnan Beyrut 12 792 1963 İtalya Napoli 13 1057 1967 Tunus Tunus 12 1249 1971 Türkiye İzmir 14 1362 1975 Cezayir Cezayir 15 2444 1979 Yugoslavya Split 14 2408 1983 Fas Casablanca 16 2180 1987 Suriye Lazkiye 18 1996 1991 Yunanistan Atina 18 2762 1993 Fransa Languedoc Rousillon 19 2598 1997 İtalya Bari 21 2999 2001 Tunus Tunus 23 3041 .</sentence>
+</doc>
+<doc>
+<id>104073</id>
+<sentence num="0">2005 06 23 11 :44 :00 .Akdeniz Oyunları'nın Tarihçesi .</sentence>
+<sentence num="1">Akdeniz Oyunları ,Akdeniz ülkeleri arasında bir barış ve diyalog köprüsü kurmak hedefiyle başlatıldı .</sentence>
+<sentence num="2">2 .Dünya Savaşı'nın yarattığı şiddet ve nefret ortamını tersine çevirmek için İstanbul doğumlu olan Mısır Olimpiyat Komitesi Başkanı Muhammed Tahir Paşa tarafından 1948 Londra Olimpiyatları sırasında ortaya atılan fikir kısa sürede gerçeğe dönüştü .</sentence>
+<sentence num="3">Türk Tahir Paşa olarak da bilinen bu kişinin temel amacı barış simgesi oyunlar düzenlemekti .</sentence>
+<sentence num="4">Dünya barışının ancak spor gibi soysal aktivitelerle gerçekleşeceğine inanan Muhammed Tahir Paşa ,İzmir'de yapılan Akdeniz Oyunları'ndan 1 yıl önce 29 Ocak 1970'te İzmir'de hayata gözlerini kapadı .</sentence>
+<sentence num="5">Akdeniz'e kıyısı olup da oyunlara katılmayan tek ülke İsrail .</sentence>
+<sentence num="6">İsrail ,politik nedenlerden dolayı oyunlara katılmayı reddediyor .</sentence>
+<sentence num="7">Bayanların oyunlara katılımı 1959 yılında kabul edilmesine karşın ,bayan sporcuların oyunlarda yer alması ,ancak 1967 yılında gerçekleşti .</sentence>
+<sentence num="8">Türkiye 493 Madalya Kazandı Oyunların tümüne katılan Türkiye ,şu ana dek 14 oyunda 213 altın ,131 gümüş ve 149 bronz olmak üzere 493 madalya kazandı .</sentence>
+<sentence num="9">Türkiye ,en başarılı sonucu ,1993'de Fransa'da düzenlenen oyunlarda 34 altın ,20 gümüş ve 10 bronz madalyayla elde ederken ,1979'da Split'teki oyunlarda ise yalnızca 5 altın ,5 gümüş ve 14 bronz madalya alabildi .</sentence>
+</doc>
+<doc>
+<id>105197</id>
+<sentence num="0">2005 06 24 21 :00 :00 .Plaj voleybolunda 4 Türk takımından sadece 1'i tur geçebildi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nın ikinci gününde plaj voleybolu maçlarında sahaya çıkan 2 erkek ,2 bayan ,4 Türk takımından sadece biri ,ilk turu geçebildi .</sentence>
+<sentence num="2">Bugün oynanan ilk tur maçlarında erkeklerde Semih Çıtak Bülent Kandemir ikilisi hem Fas hem de San Marino ekiplerini 2 0'lık skorlarla yenerek 2 .tura geçme başarısını gösterirken ,Erkan Togan Mehmet Akif Gürgen ikilisi 2 Fransız ekibine de yenilerek elendi .</sentence>
+<sentence num="3">Bayanlarda ise Nejla Güçlü Ebru Bayram ikilisi İtalya ve Yunanistan'a ,Zülfiye Gündoğdu Müjgan Keskin ikilisi ise İtalya ve Slovenya'ya yenilerek Almeria'ya erken veda ettiler .</sentence>
+<sentence num="4">Semih Çıtak Bülent Kandemir ikilisi yarın 2 .turda Sırbistan Karadağ ekibiyle TSİ 15 .00'de karşılaşacak .</sentence>
+<sentence num="5">Bu arada ,plaj voleyboluna katılan Türk oyuncular organizasyonun kötülüğünden yakındı .</sentence>
+<sentence num="6">Organizasyonu gerçekleştirenlerin ,neyin nerede olacağını bile bilmediklerini savunan voleybolcular ,Maçlar sırasında 5 6 saat beklerken yiyecek vermiyorlar .</sentence>
+<sentence num="7">Program her dakika değişiyor ve sürpriz bir şekilde maçlara çıkıyoruz diye konuştular .</sentence>
+</doc>
+<doc>
+<id>105266</id>
+<sentence num="0">2005 06 25 00 :45 :00 .Akdeniz Oyunları'nın açılış töreni yapıldı .</sentence>
+<sentence num="1">Akdeniz Oyunları'nın açılış töreni yapıldı İspanya'nın Almeria kentinde düzenlenen 15 .Akdeniz Oyunları'nın açılış töreni yapıldı .</sentence>
+<sentence num="2">Mediterraneo Stadı'nda yapılan törene ,İspanya Kralı Juan Carlos da katıldı .</sentence>
+<sentence num="3">Kralın stada gelişi ve İspanya Milli Marşı'nın çalınmasının ardından açılış töreni başladı .</sentence>
+<sentence num="4">Açılış törenini ,Devlet Bakanı ve Başbakan Yardımcısı Mehmet Ali Şahin de izledi .</sentence>
+<sentence num="5">Yaşları 10 ile 12 arasında değişen 1000 çocuğun yaptığı dansların ardından Almeria'nın tarihsel gelişiminin anlatıldığı bir gösteri düzenlendi .</sentence>
+<sentence num="6">Havai fişek ve ışık gösterilerinin de yapıldığı açılış töreninde ,oyunlara katılan 21 ülkeden getirilen sular sembolik olarak bir tüpte birleştirildi .</sentence>
+<sentence num="7">Yaklaşık 1 saat süren gösterilerin ardından Akdeniz Oyunları'na katılan 21 ülkenin sporcu ve idarecileri ,ülke bayraklarıyla geçiş törenine katıldı .</sentence>
+<sentence num="8">Türk bayrağını milli karateci Haldun Alagaş taşırken ,Gençlik ve Spor Genel Müdürü Mehmet Atalay da kafileyle yürüdü .</sentence>
+<sentence num="9">Sporcu ve idareciler ,ellerindeki Türk bayrakları ile seyircileri selamladı .</sentence>
+</doc>
+<doc>
+<id>105340</id>
+<sentence num="0">2005 06 25 10 :19 :00 .15 .Akdeniz Oyunları Açılış Töreni .</sentence>
+<sentence num="1">İspanya'nın Almeria kentinde düzenlenen 15 .Akdeniz Oyunları'nın açılış töreni yapıldı .</sentence>
+<sentence num="2">Mediterraneo Stadı'nda yapılan törene ,İspanya Kralı Juan Carlos da katıldı .</sentence>
+<sentence num="3">Kralın stada gelişi ve İspanya Milli Marşı'nın çalınmasının ardından açılış töreni başladı .</sentence>
+<sentence num="4">Açılış törenini ,Devlet Bakanı ve Başbakan Yardımcısı Mehmet Ali Şahin de izledi .</sentence>
+<sentence num="5">Yaşları 10 ile 12 arasında değişen 1000 çocuğun yaptığı dansların ardından Almeria'nın tarihsel gelişiminin anlatıldığı bir gösteri düzenlendi .</sentence>
+<sentence num="6">Havai fişek ve ışık gösterilerinin de yapıldığı açılış töreninde ,oyunlara katılan 21 ülkeden getirilen sular sembolik olarak bir tüpte birleştirildi .</sentence>
+<sentence num="7">Yaklaşık 1 saat süren gösterilerin ardından Akdeniz Oyunları'na katılan 21 ülkenin sporcu ve idarecileri ,ülke bayraklarıyla geçiş törenine katıldı .</sentence>
+<sentence num="8">Türk bayrağını milli karateci Haldun Alagaş taşırken ,Gençlik ve Spor Genel Müdürü Mehmet Atalay da kafileyle yürüdü .</sentence>
+<sentence num="9">Sporcu ve idareciler ,ellerindeki Türk bayrakları ile seyircileri selamladı .</sentence>
+<sentence num="10">Açılış töreni öncesi ve sırasında ,İspanyol polisi yoğun güvenlik önlemleri aldı .</sentence>
+<sentence num="11">İspanya Kralı Carlos'un açılış törenine katılıyor olması nedeniyle güvenlik en üst seviyeye çıkarılırken ,stat çevresine özel araçlar sokulmadı ,gazeteciler de 3 noktada yapılan aramalar sonucunda tribüne alındı .</sentence>
+</doc>
+<doc>
+<id>105453</id>
+<sentence num="0">2005 06 25 13 :50 :00 .15 .Akdeniz Oyunları başladı ...</sentence>
+<sentence num="1">Kralın stada gelişi ve İspanya Milli Marşı'nın çalınmasının ardından açılış töreni başladı .</sentence>
+<sentence num="2">Açılış törenini ,Devlet Bakanı ve Başbakan Yardımcısı Mehmet Ali Şahin de izledi .</sentence>
+<sentence num="3">Yaşları 10 ile 12 arasında değişen 1000 çocuğun yaptığı dansların ardından Almeria'nın tarihsel gelişiminin anlatıldığı bir gösteri düzenlendi .</sentence>
+<sentence num="4">Havai fişek ve ışık gösterilerinin de yapıldığı açılış töreninde ,oyunlara katılan 21 ülkeden getirilen sular sembolik olarak bir tüpte birleştirildi .</sentence>
+<sentence num="5">Yaklaşık 1 saat süren gösterilerin ardından Akdeniz Oyunları'na katılan 21 ülkenin sporcu ve idarecileri ,ülke bayraklarıyla geçiş törenine katıldı .</sentence>
+<sentence num="6">Türk bayrağını milli karateci Haldun Alagaş taşırken ,Gençlik ve Spor Genel Müdürü Mehmet Atalay da kafileyle yürüdü .</sentence>
+<sentence num="7">Sporcu ve idareciler ,ellerindeki Türk bayrakları ile seyircileri selamladı .</sentence>
+<sentence num="8">Açılış töreni öncesi ve sırasında ,İspanyol polisi yoğun güvenlik önlemleri aldı .</sentence>
+<sentence num="9">İspanya Kralı Carlos'un açılış törenine katılıyor olması nedeniyle güvenlik en üst seviyeye çıkarılırken ,stat çevresine özel araçlar sokulmadı ,gazeteciler de 3 noktada yapılan aramalar sonucunda tribüne alındı .</sentence>
+<sentence num="10">aa .</sentence>
+</doc>
+<doc>
+<id>105478</id>
+<sentence num="0">2005 06 25 14 :35 :00 .Zeynel Çelik'ten Bronz Madalya .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,karate müsabakalarında ,kumite 80 kiloda mücadele eden Türk sporcusu Zeynel Çelik ,3 .oldu ve bronz madalya kazandı .</sentence>
+<sentence num="2">Rafael Florido Spor Salonu'nda sabah bölümündeki müsabakalarda sırasıyla ,Mısırlı Sameh Fayed'i hakem kararı ,Cezayirli Tarık Admane'yi 1 0 yenerek yarı finale çıkan Zeynel Çelik ,İspanyol Ivan Leal Reglero'ya 6 1 yenilince üçüncülük maçına çıktı .</sentence>
+<sentence num="3">Bronz madalya karşılaşmasında İtalyan Biagio La Forgia ile karşılaşan Çelik ,uzatmalarda hakem kararıyla rakibini yenerek ,bronz madalyaya uzandı .</sentence>
+</doc>
+<doc>
+<id>105484</id>
+<sentence num="0">2005 06 25 14 :44 :00 .Akdeniz Oyunları'nda Bir Bronz Daha .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nın 2 .gününde ,atıcılıkta Halil İbrahim Öztürk ,bronz madalya kazandı .</sentence>
+<sentence num="2">Akdeniz Oyunları Atıcılık Merkezi'ndeki yarışmaların ilk gününde ,sabah bölümünde erkekler 10 metre havalı tüfek dalında mücadele eden Halil İbrahim Öztürk ,594 puanla finale kaldı .</sentence>
+<sentence num="3">Finalde 694 .7 puan toplayan Öztürk ,bu derecesiyle hem bronz madalya kazandı ,hem de kendisine ait olan Türkiye rekorunu geliştirdi .</sentence>
+</doc>
+<doc>
+<id>105564</id>
+<sentence num="0">2005 06 25 17 :31 :00 .Karetede 1 Gümüş ,2 Bronz .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda bu sabah başlayan karate müsabakalarında ,bayanlar artı 65 kiloda Türk sporcusu Yıldız Aras ,finalde İspanyol rakibi Cristina Feo Gomez'e yenilerek gümüş madalya aldı .</sentence>
+<sentence num="2">Rafael Florido Spor Salonu'nda sabah yapılan maçlarda mücadele eden 80 kiloda Zeynel Çelik ve 65 kiloda Gülcan Ustaoğlu ,üçüncü olup bronz madalya alırlarken ,artı 80 kiloda Okay Arpa ,yarı final müsabakasında İspanyol rakibi Javier Martinez Guzman'a 4 0 yenilerek 4 .oldu .</sentence>
+<sentence num="3">Yıldız Aras'ın İspanyol rakibine uzatmada 1 0 yenilmesi ,Türk delegasyonunda hakem skandalı olarak yorumlandı .</sentence>
+<sentence num="4">Gençlik ve Spor Genel Müdürü Mehmet Atalay ,maçı yöneten Sırp asıllı Bosna Hersek vatandaşı Dragoslav'ın geçmişten kalan bir Türkiye düşmanlığı bulunduğunu savunarak ,Yine altın madalyamıza engel oldu .</sentence>
+<sentence num="5">Bu adam tam bir Türk düşmanıdır .</sentence>
+<sentence num="6">Geçmişte bizden para da istemişti dedi .</sentence>
+<sentence num="7">Türk heyeti de Bosna Hersekli hakemi tek sorumlu olarak gösterdi .</sentence>
+<sentence num="8">Altın madalyalara alışık olan Yıldız Aras ,Bu hakemlerle maç kazanılamaz .</sentence>
+<sentence num="9">Uzatmalarda ilk yumruğu ben vurmuştum .</sentence>
+<sentence num="10">İspanyol da bana (İlk sen vurdun ama bazen böyle oluyor )dedi .</sentence>
+<sentence num="11">Çok üzgünüm diye konuştu .</sentence>
+<sentence num="12">Gümüş madalyanın tadını çıkaramayarak hıçkırıklarla ağlayan Aras'ı Gençlik ve Spor Genel Müdürü Atalay ,Türk heyeti ve Uluslararası Karate Federasyonu üyeleri teselli etti .</sentence>
+<sentence num="13">Aras ,yarınki açık sıklet dalında yapacağı maç için hırslandığını ,ancak hakemlerin kendisini engellediğini savundu .</sentence>
+</doc>
+<doc>
+<id>105628</id>
+<sentence num="0">2005 06 25 20 :35 :00 .Halterde bayanlar 48 kiloda Sibel Özkan ,gümüş madalya kazandı ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda halterde ,bayanlar 48 kiloda Sibel Özkan ,silkmede gümüş madalyanın sahibi oldu .</sentence>
+<sentence num="2">Antonio Rivero Gençlik Spor Salonu'ndaki halter müsabakalarının ilk gününde podyuma çıkan Sibel Özkan ,koparmada ilk hakkında 66 kiloyu kaldıramadı .</sentence>
+<sentence num="3">2 .hakkında 66 ,3 .ve son hakkında ise 70 kiloyu kaldıran Özkan ,4 .sırayı aldı .</sentence>
+<sentence num="4">Silkmedeki ilk hakkında 84 ,2 .hakkında 88 ,3 .ve son hakkında da 90 kiloda başarılı olan Özkan ,böylece gümüş madalyanın sahibi oldu .</sentence>
+<sentence num="5">Oyunlardaki kurallara göre ,halter müsabakalarında yalnızca koparma ve silkmedeki derecelere madalya veriliyor .</sentence>
+</doc>
+<doc>
+<id>105638</id>
+<sentence num="0">2005 06 25 21 :00 :00 .Bayanlar hentbolda Türkiye ,gruptaki ilk maçında İspanya'ya yenildi .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda Bayan Hentbol Milli Takımı ,gruptaki ilk maçında ,evsahibi İspanya'ya 40 38 yenildi .(</sentence>
+<sentence num="2">B )Grubu'nda yer alan milli takım ,ilk yarıyı da 21 18 yenik kapadı .</sentence>
+<sentence num="3">Oldukça sert geçen karşılaşmada Yeliz Yılmaz ,ikinci yarıda sağ ayak bileğinden sakatlandı ve oyunu sürdüremedi .</sentence>
+<sentence num="4">Maçta Türkiye'den 4 ,İspanya'dan ise 9 sporcu 2 dakika cezası alırlarken ,Yeliz Özel de diskalifiye oldu .</sentence>
+<sentence num="5">Milliler ,oyunlarda gruptaki 2 .maçlarını ,yarın Vicar Spor Salonu'nda TSİ 16 .45'de Sırbistan Karadağ ile yapacak .</sentence>
+<sentence num="6">HENTBOLCULAR KAYBOLDU Bayan Milli Hentbol Takımı oyuncuları ve yöneticilerini İspanya maçının yapılacağı Vicar Spor Salonu'na getiren otobüs yolunu kaybetti .</sentence>
+<sentence num="7">Hentbol Federasyonu Yönetim Kurulu Üyesi Osman Aslan ,organizasyonun kötülüğünden yakınarak ,Bizi 1 saat otobüsle dolaştırdılar .</sentence>
+<sentence num="8">Ne otobüs şoforü ,ne de bize eşlik eden sivil polisler yolu ve salonun nerede olduğunu bilmiyordu .</sentence>
+<sentence num="9">Uzun uğraşlardan sonra salona gelebildik diye konuştu .</sentence>
+<sentence num="10">KÜNYE Salon :Vicar Hakemler :S .Zuhif xx ,Ali Alhaj xx (Suriye )İspanya :Lopez xx (Elejaga xx ),Paneja xx ,Ortuno xxx 7 ,Cuadrado xx 1 ,Aguilar xx 3 ,Oncina xx 5 ,Mangue xx 3 ,Gueralo xxx 12 ,Garcia xx 2 ,Alonso xx 4 ,Fernandez x ,Sanroman xx 3 ,Martin x Türkiye :Serpil Soylu xx (Sevilay x ),Nergis xx 4 ,Yeliz Özel xx 5 ,Yeliz Yılmaz xx 8 ,Ceren xx 5 ,Serpil İskenderoğlu xxx 12 ,Güneş xx 3 ,Gonca xx 1 ,Esra x ,Sevda x ,Eda x İlk Yarı :21 18 (İspanya lehine )İki Dakika Cezası Alanlar :Nergis (2 ),Yeliz Özel (2 ),Güneş (2 ),Serpil İskenderoğlu (Türkiye ),Fernandez ,Mangue (2 ),Garcia (2 ),Martin ,Oncina ,Aguilar ,Alonso ,Sanroman ,Ortuno (İspanya )Diskalifiye :Yeliz Özel (Türkiye ).</sentence>
+</doc>
+<doc>
+<id>105649</id>
+<sentence num="0">2005 06 25 21 :22 :00 .Akdeniz Oyunları'nda Türkiye karetede 1 gümüş ,4 bronz madalya aldı .</sentence>
+<sentence num="1">Akdeniz Oyunları'nda Türkiye karetede 1 gümüş ,4 bronz madalya aldı 15 .Akdeniz Oyunları'nda bugün başlayan karate müsabakalarında 8 sporcuyla yarışan Türkiye ,1 gümüş ve 4 bronz madalya kazandı .</sentence>
+<sentence num="2">Müsabakaların sabahki bölümünde ,bayanlarda artı 65 kiloda Yıldız Aras ile gümüş madalya ,65 kiloda Gülcan Ustaoğlu ve erkekler artı 80 kiloda Zeynel Çelik ile bronz madalya kazanan Türkiye ,öğleden sonraki bölümlerde erkekler 60 kiloda Şevket Baştürk ve bayanlar 50 kiloda Vildan Doğan ile iki bronz madalya daha kazandı .</sentence>
+<sentence num="3">Türk karatecilerden erkeklerde Okay Arpa ve Bahattin Kandaz ile bayanlarda Güldener Çelik ise ilk turda rakiplerine elendi .</sentence>
+<sentence num="4">Müsabakaların yarınki bölümünde Türkiye'den 5 karateci mücadele edecek .</sentence>
+</doc>
+<doc>
+<id>105658</id>
+<sentence num="0">2005 06 25 21 :45 :00 .Türkiye ,karekede günü 1 gümüş ve 4 bronz ile tamamladı ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda bugün başlayan karate müsabakalarında 8 sporcuyla yarışan Türkiye ,1 gümüş ve 4 bronz madalya kazandı .</sentence>
+<sentence num="2">Müsabakaların sabahki bölümünde ,bayanlarda artı 65 kiloda Yıldız Aras ile gümüş madalya ,65 kiloda Gülcan Ustaoğlu ve erkekler artı 80 kiloda Zeynel Çelik ile bronz madalya kazanan Türkiye ,öğleden sonraki bölümlerde erkekler 60 kiloda Şevket Baştürk ve bayanlar 50 kiloda Vildan Doğan ile iki bronz madalya daha kazandı .</sentence>
+<sentence num="3">Türk karatecilerden erkeklerde Okay Arpa ve Bahattin Kandaz ile bayanlarda Güldener Çelik ise ilk turda rakiplerine elendi .</sentence>
+<sentence num="4">Müsabakaların yarınki bölümünde Türkiye'den 5 karateci mücadele edecek .</sentence>
+</doc>
+<doc>
+<id>105663</id>
+<sentence num="0">2005 06 25 22 :04 :00 .Türkiye Akdeniz Oyunları'ndaki ilk madalyasını halterde aldı .</sentence>
+<sentence num="1">Türkiye Akdeniz Oyunları'ndaki ilk madalyasını halterde aldı 15 .Akdeniz Oyunları'nda ,Türkiye'nin ilk altın madalyası ,erkekler halterde ,koparmada yarışan Gülbeyi Aktı'dan geldi .</sentence>
+<sentence num="2">56 kiloda podyuma çıkan Gülbeyi Aktı ,ilk hakkında 106 ,ikinci hakkında 109 ve üçüncü hakkında 113 kilo kaldırarak koparmada altın madalyanın sahibi oldu .</sentence>
+</doc>
+<doc>
+<id>105665</id>
+<sentence num="0">2005 06 25 22 :10 :00 .Akdeniz Oyunları'nda ilk altın madalya halterde Gülbeyi Aktı'dan geldi .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,Türkiye'nin ilk altın madalyası ,erkekler halterde ,koparmada yarışan Gülbeyi Aktı'dan geldi .</sentence>
+<sentence num="2">56 kiloda podyuma çıkan Gülbeyi Aktı ,ilk hakkında 106 ,ikinci hakkında 109 ve üçüncü hakkında 113 kilo kaldırarak koparmada altın madalyanın sahibi oldu .</sentence>
+</doc>
+<doc>
+<id>105676</id>
+<sentence num="0">2005 06 25 23 :05 :00 .Koparmada altın madalya alan Gülbeyi Aktı ,silkmede gümüşte kaldı ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,halterde ,56 kiloda podyuma çıkarak koparmada altın madalya alan Gülbeyi Aktı ,silkme müsabakasında gümüş madalyada kaldı .</sentence>
+<sentence num="2">Silkmedeki ilk hakkında 136 kilo kaldıran Aktı ,ikinci hakkında 141 kiloyu rahat bir şekilde kaldırarak ,aynı zamanda bu dalda Akdeniz Oyunları rekorunu da kırmış oldu .</sentence>
+<sentence num="3">Ancak ,daha sonra podyuma çıkan Fransız rakibinin ,144 kilo kaldırmasıyla Akdeniz Oyunları rekorunu kaybeden Aktı ,üçüncü hakkında 144 kiloda başarılı olamadı ve gümüş madalyada kaldı .</sentence>
+</doc>
+<doc>
+<id>105679</id>
+<sentence num="0">2005 06 25 23 :35 :00 .Eskrimde 2 Türk sporcu elendi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,eskrimde ,ilk gün müsabakaları sonucunda erkekler kılıç kategorisinde yarışan 2 Türk sporcu da elendi .</sentence>
+<sentence num="2">Erkekler kılıçta Türkiye adına mücadele eden Erdoğan Kızıldağ 11 .olurken ,Kerem Yıldırım ise 12 .olarak oyunlardan elendi .</sentence>
+<sentence num="3">Eskrim müsabakaları yarın ,bayanlar ve erkeklerde flöre kategorisiyle devam edecek .</sentence>
+</doc>
+<doc>
+<id>105681</id>
+<sentence num="0">2005 06 25 23 :42 :00 .Filenin Sultanları İlk Maçı Kazandı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda bugün başlayan bayanlar voleybol dalındaki mücadelede Türkiye ,gruptaki ilk maçında Yunanistan'ı 3 0 yenerek oyunlara iyi bir başlangıç yaptı .</sentence>
+<sentence num="2">Milliler ,gruptaki 2 .maçlarını ,27 Haziran Pazartesi günü TSİ 11 .30'da Arnavutluk ile yapacak .</sentence>
+<sentence num="3">Karşılaşmayı ,Devlet Bakanı ve Başbakan Yardımcısı Mehmet Ali Şahin ,Gençlik ve Spor Genel Müdürü Mehmet Atalay ile Türkiye Milli Olimpiyat Komitesi Başkanı Togay Bayatlı da izledi .</sentence>
+</doc>
+<doc>
+<id>105682</id>
+<sentence num="0">2005 06 25 23 :47 :00 .Halterde Sibel Özkan'dan Gümüş .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda halterde ,bayanlar 48 kiloda Sibel Özkan ,silkmede gümüş madalyanın sahibi oldu .</sentence>
+<sentence num="2">Halter müsabakalarının ilk gününde podyuma çıkan Sibel Özkan ,koparmada ilk hakkında 66 kiloyu kaldıramadı .</sentence>
+<sentence num="3">2 .hakkında 66 ,3 .ve son hakkında ise 70 kiloyu kaldıran Özkan ,4 .sırayı aldı .</sentence>
+<sentence num="4">Silkmedeki ilk hakkında 84 ,2 .hakkında 88 ,3 .ve son hakkında da 90 kiloda başarılı olan Özkan ,böylece gümüş madalyanın sahibi oldu .</sentence>
+<sentence num="5">Oyunlardaki kurallara göre ,halter müsabakalarında yalnızca koparma ve silkmedeki derecelere madalya veriliyor .</sentence>
+</doc>
+<doc>
+<id>105691</id>
+<sentence num="0">2005 06 26 00 :06 :00 .Akdeniz Oyunları'nda İlk Altın .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,Türkiye'nin ilk altın madalyası ,erkekler halterde ,koparmada yarışan Gülbeyi Aktı'dan geldi .</sentence>
+<sentence num="2">56 kiloda podyuma çıkan Gülbeyi Aktı ,ilk hakkında 106 ,ikinci hakkında 109 ve üçüncü hakkında 113 kilo kaldırarak koparmada altın madalyanın sahibi oldu .</sentence>
+<sentence num="3">Aktı ,silkme müsabakasında ise gümüşte kaldı .</sentence>
+<sentence num="4">Silkmedeki ilk hakkında 136 kilo kaldıran Aktı ,ikinci hakkında 141 kiloyu rahat bir şekilde kaldırarak ,aynı zamanda bu dalda Akdeniz Oyunları rekorunu da kırmış oldu .</sentence>
+<sentence num="5">Ancak ,daha sonra podyuma çıkan Fransız rakibinin ,144 kilo kaldırmasıyla Akdeniz Oyunları rekorunu kaybeden Aktı ,üçüncü hakkında 144 kiloda başarılı olamadı ve gümüş madalyada kaldı .</sentence>
+</doc>
+<doc>
+<id>105697</id>
+<sentence num="0">2005 06 26 00 :18 :00 .2 .Gün Madalya Sıralaması .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nın 2 .günü sonunda Türkiye ,genel madalya sıralamasında 6 .durumda bulunuyor .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde yapılan oyunların 2 .gününde 1 altın ,3 gümüş ,4 de bronz olmak üzere toplam 8 madalya kazanan Türkiye ,6 .sıraya yerleşti .</sentence>
+</doc>
+<doc>
+<id>105704</id>
+<sentence num="0">2005 06 26 00 :44 :00 .15 .Akdeniz oyunlarında madalya sıralaması .</sentence>
+<sentence num="1">15 .AKDENİZ OYUNLARI İKİNCİ GÜN SONUNDA TÜRKİYE 1 ALTIN ,3 GÜMÜŞ ,4 DE BRONZ MADALYA İLE 6 .SIRADA YER ALDI ALMERIA (A .</sentence>
+<sentence num="2">A )25 .</sentence>
+<sentence num="3">06 .2005 Bülent Aslan bildiriyor İspanya'nın Almeria kentinde yapılan oyunların 2 .gününde 1 altın ,3 gümüş ,4 de bronz olmak üzere toplam 8 madalya kazanan Türkiye ,6 .sıraya yerleşti .</sentence>
+<sentence num="4">Oyunlarda ilk 2 gün sonunda madalya sıralaması şöyle oluştu :Ülke A G B Toplam 1 İtalya 10 6 5 21 2 Fransa 9 8 10 27 3 İspanya 7 11 9 27 4 Slovenya 3 1 4 8 5 Tunus 2 3 5 6 Türkiye 1 3 4 8 7 Yunanistan 1 2 6 9 8 Hırvatistan 1 1 1 3 9 Cezayir 1 1 2 10 Mısır 1 3 4 11 Bosna Hersek 1 1 12 Sırb .</sentence>
+<sentence num="5">Karadağ 3 3 13 San Marino 1 1 14 Kıbrıs Rum Kesimi 1 1 AA .</sentence>
+</doc>
+<doc>
+<id>105706</id>
+<sentence num="0">2005 06 26 01 :00 :00 .15 .Akdeniz Oyunları'nda Göksu Üçtaş finale kaldı ...</sentence>
+<sentence num="1">Soner Sayımlar AA 15 .Akdeniz Oyunları'nda ,artistik cimnastikte Türk sporcu Göksu Üçtaş ,14 .olarak finale kalmayı başardı .</sentence>
+<sentence num="2">Artistik cimnastikte bugün yapılan müsabakalarda ,atlama masası ve denge aletinde 14 .olarak finale kalan Üçtaş'ın madalya umudu devam ederken diğer Türk sporcu Ebru Karaduman ,18 .olarak elendi .</sentence>
+<sentence num="3">FUTBOLDA İSPANYA İLE BERABERE KALDIK Bülent Aslan AA Futbolda (B )Grubu'nda mücadele eden Olimpik Milli Takım ,İspanya ile 1 1 berabere kaldı .</sentence>
+<sentence num="4">Puerta'nın golüyle maçta 1 0 yenik duruma düşen milliler ,65 .dakikada Cafer Can'ın mükemmel frikik golüyle eşitliği sağladı .</sentence>
+<sentence num="5">Milli takımda Soner ,89 .dakikada ikinci sarı kartını görüp ,kırmızı kartla oyun dışında kaldı .</sentence>
+<sentence num="6">PENALTI ATIŞLARI Normal süresi 1 1 berabere biten maçta ,statü gereği grupta averajı belirlemek için penaltı atışlarına geçildi .</sentence>
+<sentence num="7">Olimpik Milli Takım'da Cafer Can ,Can ve Ramazan penaltı atışlarını atarken ,Muhammet ile Ertan penaltılardan yararlanamadı .</sentence>
+<sentence num="8">İspanya ise Ramis ,Garcia ,Miki ,Larrea ve Arizmendi penaltıları gole çevirince ,grupta averajı belirlemek için yapılan uygulama sonunda İspanya penaltılarda 5 3 üstünlük sağladı .</sentence>
+<sentence num="9">Olimpik Milli Takım ,grubundaki ikinci maçında 27 Haziran Pazartesi günü Malta ile yine El Ejido Stadı'nda karşı karşıya gelecek .</sentence>
+<sentence num="10">BASKETBOL'DA FAS'I YENDİK Öte yandan (A )Milli Erkek Basketbol Takımı ,(B )Grubu'ndaki ilk maçında Fas'ı 85 67 yendi .</sentence>
+<sentence num="11">Milli takım ,bugün de El Ejido Spor Salonu'nda ,Bosna Hersek ile karşı karşıya gelecek .</sentence>
+<sentence num="12">ESKRİMDE İKİ SPORCUMUZ DA ELENDİ Eskrimde ,ilk gün müsabakaları sonucunda erkekler kılıç kategorisinde yarışan 2 Türk sporcu da elendi .</sentence>
+<sentence num="13">Erkekler kılıçta Türkiye adına mücadele eden Erdoğan Kızıldağ 11 .olurken ,Kerem Yıldırım ise 12 .olarak oyunlardan elendi .</sentence>
+<sentence num="14">Eskrim müsabakaları yarın ,bayanlar ve erkeklerde flöre kategorisiyle devam edecek .</sentence>
+<sentence num="15">İLK ALTIN MADALYAMIZ HALTERDE Türkiye'nin ilk altın madalyası ,erkekler halterde ,koparmada yarışan Gülbeyi Aktı'dan geldi .</sentence>
+<sentence num="16">56 kiloda podyuma çıkan Gülbeyi Aktı ,ilk hakkında 106 ,ikinci hakkında 109 ve üçüncü hakkında 113 kilo kaldırarak koparmada altın madalyanın sahibi oldu .</sentence>
+<sentence num="17">AKTI ,SİLKMEDE GÜMÜŞTE KALDI Sporcumuz Gülbeyi Aktı ,silkme müsabakasında ise gümüş madalyada kaldı .</sentence>
+<sentence num="18">Silkmedeki ilk hakkında 136 kilo kaldıran Aktı ,ikinci hakkında 141 kiloyu rahat bir şekilde kaldırarak ,aynı zamanda bu dalda Akdeniz Oyunları rekorunu da kırmış oldu .</sentence>
+<sentence num="19">Ancak ,daha sonra podyuma çıkan Fransız rakibinin ,144 kilo kaldırmasıyla Akdeniz Oyunları rekorunu kaybeden Aktı ,üçüncü hakkında 144 kiloda başarılı olamadı ve gümüş madalyada kaldı .</sentence>
+<sentence num="20">MADALYA DURUMU 15 .Akdeniz Oyunları'nın 2 .günü sonunda Türkiye ,genel madalya sıralamasında 6 .durumda bulunuyor .</sentence>
+<sentence num="21">İspanya'nın Almeria kentinde yapılan oyunların 2 .gününde 1 altın ,3 gümüş ,4 de bronz olmak üzere toplam 8 madalya kazanan Türkiye ,6 .sıraya yerleşti .</sentence>
+<sentence num="22">Oyunlarda ilk 2 gün sonunda madalya sıralaması şöyle oluştu :Ülke A G B Toplam 1 İtalya 10 6 5 21 2 Fransa 9 8 10 27 3 İspanya 7 11 9 27 4 Slovenya 3 1 4 8 5 Tunus 2 3 5 6 Türkiye 1 3 4 8 7 Yunanistan 1 2 6 9 8 Hırvatistan 1 1 1 3 9 Cezayir 1 1 2 10 Mısır 1 3 4 11 Bosna Hersek 1 1 12 Sırb .</sentence>
+<sentence num="23">Karadağ 3 3 13 San Marino 1 1 14 Kıbrıs Rum Kesimi 1 1 .</sentence>
+</doc>
+<doc>
+<id>105784</id>
+<sentence num="0">2005 06 26 10 :30 :00 .İspanya ...</sentence>
+<sentence num="1">Türk kızlarından ABD'li gazeteciye ders .</sentence>
+<sentence num="2">Soner Sayımlar AA 15 .Akdeniz Oyunları'nda plaj voleybolunda mücadele eden Türk bayan sporcular ,ABD'li bayan gazeteciye laiklik dersi verdi .</sentence>
+<sentence num="3">Almeria'daki oyunlarda plaj voleyboluna bayanlarda katılan tek Müslüman ülke olan Türkiye'nin sporcuları Necla Güçlü ,Ebru Bayram Elhan ,Zülfiye Gündoğdu ve Müjgan Keskin ,maçtan sonra kendileriyle röportaj yapan ABD'li gazetecinin ,Plaj voleyboluna katılan tek Müslüman ülke sizsiniz .</sentence>
+<sentence num="4">Bu giysilerle oynamak inançlarınıza ters değil mi ?</sentence>
+<sentence num="5">sorusuna ,Türkiye ,Atatürk'ün kurduğu modern ve çağdaş bir ülkedir .</sentence>
+<sentence num="6">Biz Atatürk'ün kızlarıyız .</sentence>
+<sentence num="7">Türkiye ,laik bir ülkedir .</sentence>
+<sentence num="8">Türkiye'de hiç kimse ,kimsenin inancıyla uğraşmaz ve herkes çok rahat bir şekilde inancıyla yaşar .</sentence>
+<sentence num="9">Spor da ,hangi kıyafetle yapılıyorsa ,biz de onunla yarışırız diye yanıt verdiler .</sentence>
+<sentence num="10">ABD'li gazeteciye Türkiye hakkında bilgi veren bayan sporcular ,önyargılardan rahatsız olduklarını dile getirerek ,Türkiye'nin de modern bir Avrupa ülkesi olduğunu vurguladılar .?</sentence>
+<sentence num="11">15 .Akdeniz Oyunları'nda Göksu Üçtaş finale kaldı ...?</sentence>
+<sentence num="12">Fenerbahçe'de Alex için seferberlik ...?</sentence>
+<sentence num="13">Galatasaray'da Tomas masadan kalktı ...?</sentence>
+<sentence num="14">Lyon Carew için 7 .5'a kadar çıktı .</sentence>
+</doc>
+<doc>
+<id>105972</id>
+<sentence num="0">2005 06 26 19 :08 :00 .Yıldız Aras Bu Kez Altını Aldı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda karate müsabakalarının 2 .ve son gününde ,bayanlar açık sıklette mücadele eden Yıldız Aras ,altın madalya kazandı .</sentence>
+<sentence num="2">Rafael Florido Spor Salonu'ndaki oyunların karate müsabakalarının 2 .ve son gününde sırasıyla Sırp Snezana Periç ,Mısırlı Heba Aly ve Tunuslu Refika Dakhlaoui'yi eleyerek finale yükselen Yıldız ,finalde İspanyol Gloria Casanova Rodriguez'i 1 0 yenerek Türkiye'ye bu daldaki tek altın madalyayı getirdi .</sentence>
+<sentence num="3">Oyunlarda artı 65 kiloda başka bir İspanyol rakibine yenilerek gümüş madalya alan Yıldız ,bu kez İspanyollardan rövanşı alarak ağlayan yüzünü güldürdü .</sentence>
+<sentence num="4">Final karşılaşması sonrası açıklama yapan Aras ,Akşam hiç uyuyamadım .</sentence>
+<sentence num="5">Altın madalya almak için çok hırslanmıştım .</sentence>
+<sentence num="6">Burada birçok şampiyon var ve onların hepsini yendim .</sentence>
+<sentence num="7">Çok sevinçliyim .</sentence>
+<sentence num="8">İnşallah ülkemize başka altın madalyalar da gelir dedi .</sentence>
+<sentence num="9">Yıldız ,Ben ikinciliğe sevinirsem zaten karateyi bırakırım diye konuştu .</sentence>
+<sentence num="10">Kariyerinde 10 Avrupa ve 3 Dünya Şampiyonluğu bulunan Aras ,3 .kez katıldığı Akdeniz Oyunları'nda da 3'te 3 yapmanın gururunu yaşadığını söyledi .</sentence>
+</doc>
+<doc>
+<id>105989</id>
+<sentence num="0">2005 06 26 20 :06 :00 .Türkiye karetede 1 altın ,1 gümüş ve 5 bronz madalya kazandı .</sentence>
+<sentence num="1">Türkiye karetede 1 altın ,1 gümüş ve 5 bronz madalya kazandı 15 .Akdeniz Oyunları'nda karatede erkekler açık sıklette Yusuf Başer bronz madalya kazandı .</sentence>
+<sentence num="2">Rafael Florido Spor Salonu'ndaki oyunların karate müsabakalarının 2 .ve son gününde ,Yusuf Başer ,yarı finalde Fransız rakibine yenilerek bronz madalyada kaldı .</sentence>
+<sentence num="3">2 gün süren karate müsabakalarına 12 sporcuyla katılan Türkiye ,böylece oyunlarda bu dalı 1 altın ,1 gümüş ve 5 bronz madalyayla tamamladı .</sentence>
+</doc>
+<doc>
+<id>105993</id>
+<sentence num="0">2005 06 26 20 :26 :00 .Akdeniz Oyunları'nda Nurcan Taylan koparmada altın madalya kazandı .</sentence>
+<sentence num="1">Akdeniz Oyunları'nda Nurcan Taylan koparmada altın madalya kazandı 15 .Akdeniz Oyunları'nda halterde bayanlar 53 kiloda Nurcan Taylan ,koparmada altın madalya kazandı .</sentence>
+<sentence num="2">Antonio Rivera Gençlik Spor Salonu'ndaki oyunların halter müsabakalarının 2 .gününde ,bayanlar 53 kiloda Olimpiyat Şampiyonu Nurcan Taylan ,ilk hakkında 86 kiloyu kaldırarak ,oyunlar rekorun kırdı .</sentence>
+<sentence num="3">2 .hakkında 87 kiloyu kaldıran Nurcan Taylan ,altın madalyaya uzanırken ,oyunlar rekorunu geliştirmiş oldu .</sentence>
+<sentence num="4">Taylan ,3 .ve son hakkını ise denemedi .</sentence>
+</doc>
+<doc>
+<id>105994</id>
+<sentence num="0">2005 06 26 20 :30 :00 .Nurcan Taylan koparmada altın madalya kazandı ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda halterde bayanlar kiloda Nurcan Taylan ,koparmada altın madalya kazandı .</sentence>
+<sentence num="2">Antonio Rivera Gençlik Spor Salonu'ndaki oyunların halter müsabakalarının 2 .gününde ,bayanlar kiloda Olimpiyat Şampiyonu Nurcan Taylan ,ilk hakkında 86 kiloyu kaldırarak ,oyunlar rekorun kırdı .</sentence>
+<sentence num="3">2 .hakkında 87 kiloyu kaldıran Nurcan Taylan ,altın madalyaya uzanırken ,oyunlar rekorunu geliştirmiş oldu .</sentence>
+<sentence num="4">Taylan ,3 .ve son hakkını ise denemedi .</sentence>
+<sentence num="5">Bu kiloda mücadele eden diğer Türk sporcu Emine Karademir ,ilk hakkında 73 ,2 .hakkında da 77 kiloyu kaldırdı .</sentence>
+<sentence num="6">3 .hakkında 80 kiloda başarılı olamayan Karademir ,altıncılıkta kaldı .</sentence>
+</doc>
+<doc>
+<id>106005</id>
+<sentence num="0">2005 06 26 21 :15 :00 .Nucan Taylan'dan ikinci altın madalya ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda halterde bayanlar kiloda Nurcan Taylan ,günü 2 altın madalyayla kapattı .</sentence>
+<sentence num="2">Antonio Rivera Gençlik Spor Salonu'ndaki halter müsabakalarının 2 .gününde ,bayanlar kiloda mücadele eden Olimpiyat Şampiyonu Nurcan Taylan ,koparmadaki başarısını silkmede de gösterdi .</sentence>
+<sentence num="3">Silkmede ilk hakkında 105 ,2 .hakkında ise 108 kiloyu kaldıran Tyalan ,hem oyunlar rekorunu kırdı ,hem de altın madalyaya uzandı .</sentence>
+<sentence num="4">Taylan ,3 .ve son hakkına ise gelmedi .</sentence>
+<sentence num="5">Bu kiloda mücadele eden bir diğer Türk sporcu Emine Karademir ise ilk hakkında 90 kiloyu rahat bir biçimde kaldırdı .</sentence>
+<sentence num="6">2 .ve 3 .haklarında 95 kiloyu deneyen Karademir ,bu haklarında başarılı olamayarak silkmede 7 .'liği elde etti .</sentence>
+<sentence num="7">Nurcan Taylan'a altın madalyası ,Türkiye Milli Olimpiyat Komitesi Başkanı Togay Bayatlı tarafından verildi .</sentence>
+</doc>
+<doc>
+<id>106006</id>
+<sentence num="0">2005 06 26 21 :15 :00 .Nurcan Taylan silkmede altın madalya kazandı .</sentence>
+<sentence num="1">Nurcan Taylan silkmede altın madalya kazandı 15 .Akdeniz Oyunları'nda halterde bayanlar 53 kiloda Nurcan Taylan ,günü 2 altın madalyayla kapattı .</sentence>
+<sentence num="2">Antonio Rivera Gençlik Spor Salonu'ndaki halter müsabakalarının 2 .gününde ,bayanlar 53 kiloda mücadele eden Olimpiyat Şampiyonu Nurcan Taylan ,koparmadaki başarısını silkmede de gösterdi .</sentence>
+<sentence num="3">Silkmede ilk hakkında 105 ,2 .hakkında ise 108 kiloyu kaldıran Tyalan ,hem oyunlar rekorunu kırdı ,hem de altın madalyaya uzandı .</sentence>
+<sentence num="4">Taylan ,3 .ve son hakkına ise gelmedi .</sentence>
+</doc>
+<doc>
+<id>106018</id>
+<sentence num="0">2005 06 26 21 :35 :00 .Erkek Hentbol Milli Takımı ,Sırbistan Karadağ'a 33 26 yenildi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,Erkek Hentbol Milli Takımı ,grubundaki ikinci maçında Sırbistan Karadağ'a 33 26 yenildi .</sentence>
+<sentence num="2">İnfanta Cristina Spor Salonu'nda yapılan ve İspanyol hakem ikilisinin yönettiği maçta ,milli takım ,rakibi önünde ilk yarıyı da 15 13 yenik kapadı .</sentence>
+<sentence num="3">Dünkü ilk maçında da Fransa'ya 32 22 yenilen Türkiye ,böylece grupta 3 .ve son sırayı aldı .</sentence>
+</doc>
+<doc>
+<id>106042</id>
+<sentence num="0">2005 06 27 00 :00 :00 .Halterde 62 kiloda Sedat Artuç ,silkmede altın madalya kazandı ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,halterde 62 kiloda podyuma çıkan Sedat Artuç ,koparmada gümüş ,silkmede ise altın madalyanın sahibi oldu .</sentence>
+<sentence num="2">Sedat Artuç ,silkmede ilk hakkında 150 ,ikinci hakkında 155 ve son hakkında da 160 kilo kaldırarak altın madalyaya uzandı .</sentence>
+<sentence num="3">Koparmada ilk hakkında 121 kilo ,ikinci hakkında da 126 kilo kaldıran Artuç ,son hakkında 130 kiloda başarılı olamadı ve gümüş madalyada kaldı .</sentence>
+</doc>
+<doc>
+<id>106049</id>
+<sentence num="0">2005 06 27 00 :10 :00 .Akdeniz Oyunları'nda madalya dağılımı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nın 3 .günü geride kaldı .</sentence>
+<sentence num="2">Türkiye ,madalya dağılımında bir basamak yukarı çıktı .</sentence>
+<sentence num="3">İspanya'nın Almeria kentinde yapılan oyunların üçüncü günü sonunda 6 altın ,6 gümüş ,6 da bronz olmak üzere toplam 18 madalyaya ulaşan Türkiye ,İtalya ,Fransa ve İspanya'nın ardından 4 .sıraya yerleşti .</sentence>
+<sentence num="4">Oyunlarda ilk 3 gün sonunda madalya sıralaması şöyle oluştu :Ülke A G B Toplam 1 İtalya 20 13 12 45 2 Fransa 16 13 17 46 3 İspanya 9 24 19 52 4 Türkiye 6 6 6 18 5 Tunus 4 7 11 6 Sırb .</sentence>
+<sentence num="5">K .dağ 3 3 2 8 7 Slovenya 3 2 4 9 8 Mısır 3 1 4 8 9 Yunanistan 2 3 11 16 10 Hırvatistan 2 2 1 5 11 Cezayir 2 1 4 7 12 B .Hersek 1 1 1 3 13 Arnavutluk 1 1 2 14 S .Marino 1 1 15 Kıbrıs R .K 1 1 16 Suriye 1 1 .</sentence>
+</doc>
+<doc>
+<id>106056</id>
+<sentence num="0">2005 06 27 01 :00 :00 .Akdeniz Oyunları'nda ,Türkiye 3 .gün sonunda 4 .sıraya yükseldi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nın 3 .günü sonunda Türkiye ,genel madalya sıralamasında 4 .sıraya yükseldi .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde yapılan oyunların üçüncü günü sonunda 6 altın ,6 gümüş ,6 da bronz olmak üzere toplam 18 madalyaya ulaşan Türkiye ,İtalya ,Fransa ve İspanya'nın ardından 4 .sıraya yerleşti .</sentence>
+</doc>
+<doc>
+<id>106091</id>
+<sentence num="0">2005 06 27 08 :15 :00 .Akdeniz Oyunları'nda Türkiye dördüncü .</sentence>
+<sentence num="1">62 kiloda Sedat Artuç ,bir altın ve bir gümüş madalyanın sahibi oldu 15'inci Akdeniz Oyunları'nın üçüncü günü sonunda Türkiye ,genel madalya sıralamasında dördüncü sıraya yükseldi .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde yapılan oyunların üçüncü günü sonunda 6 altın ,6 gümüş ,6 da bronz olmak üzere toplam 18 madalyaya ulaşan Türkiye ,İtalya ,Fransa ve İspanya'nın ardından dördüncü sıraya yerleşti .</sentence>
+<sentence num="3">Halter :15'inci Akdeniz Oyunları'nda ,halterde 62 kiloda podyuma çıkan Sedat Artuç ,koparmada gümüş ,silkmede ise altın madalyanın sahibi oldu .</sentence>
+<sentence num="4">Sedat Artuç ,silkmede ilk hakkında 150 ,ikinci hakkında 155 ve son hakkında da 160 kilo kaldırarak altın madalyaya uzandı .</sentence>
+<sentence num="5">Koparmada ilk hakkında 121 kilo ,ikinci hakkında da 126 kilo kaldıran Artuç ,son hakkında 130 kiloda başarılı olamadı ve gümüş madalyada kaldı .</sentence>
+<sentence num="6">Halter Bayanlar :Halterde bayanlar 53 kiloda Nurcan Taylan ,koparmada altın madalya kazandı .</sentence>
+<sentence num="7">Antonio Rivera Gençlik Spor Salonu'ndaki oyunların halter müsabakalarının ikinci gününde ,bayanlar 53 kiloda Olimpiyat Şampiyonu Nurcan Taylan ,ilk hakkında 86 kiloyu kaldırarak ,oyunlar rekorun kırdı .</sentence>
+<sentence num="8">İkinci hakkında 87 kiloyu kaldıran Nurcan Taylan ,altın madalyaya uzanırken ,oyunlar rekorunu geliştirmiş oldu .</sentence>
+<sentence num="9">Taylan ,üçüncü ve son hakkını ise denemedi .</sentence>
+<sentence num="10">Bu kiloda mücadele eden diğer Türk sporcu Emine Karademir ,ilk hakkında 73 ,ikinci hakkında da 77 kiloyu kaldırdı .</sentence>
+<sentence num="11">üçüncü hakkında 80 kiloda başarılı olamayan Karademir ,altıncılıkta kaldı .</sentence>
+<sentence num="12">Grekoromen güreş (120 kilo ):Grekoromen güreş 120 kiloda Yunanlı rakibi Xenofon Koutsioumpas'a yenilen Yekta Yılmazgül ,gümüş madalyada kaldı .</sentence>
+<sentence num="13">Yekta Yılmazgül ,ilk periyodu 4 3 ,ikinci periyodu da 3 2 kaybedip minderden 2 0 yenik ayrıldı .</sentence>
+<sentence num="14">Türkiye ,grekoromen güreşlerin ilk günü sonunda 1 altın ,2 gümüş 1 de bronz madalya kazandı .</sentence>
+<sentence num="15">Grekoromen güreşte bugün ,60 kiloda Uğur Tüfenk ,74 kiloda Mahmut Altay ,96 kiloda da Mehmet Özal mindere çıkacak .</sentence>
+<sentence num="16">Grekoromen güreş (66 kilo ):Grekoromen güreşte 66 kiloda Selçuk Çebi altın madalya kazandı .</sentence>
+<sentence num="17">Oyunların üçüncü gününde mindere çıkan Selçuk Çebi ,İspanyol rakibi Muises Perre Sanchez'i finalde 3 0 ve 3 1'lik 2 periyotta 2 0 yenerek altın madalyaya ulaştı .</sentence>
+<sentence num="18">84 kiloda Serkan Özden ise Mısırlı rakibi Muhammed Muhammed'e 1 dakika 9 saniyede tuşla yenilerek gümüş madalyada kaldı .</sentence>
+<sentence num="19">55 kiloda Erkan Dündar da Yunanlı rakibi Artiam Kiouregkian'ı 2 0 yenerek bronz madalyaya ulaştı .</sentence>
+<sentence num="20">Hentbol Bayanlar :Bayan Hentbol Milli Takımı ,gruptaki ikinci maçında Sırbistan Karadağ'a 43 40 yenilerek ikinci yenilgisini aldı ve gruptan çıkma şansını yitirdi .(</sentence>
+<sentence num="21">B )Grubu'nda yer alan milli takım ,ilk maçında da İspanya'ya yenilmişti .</sentence>
+<sentence num="22">Milliler ,gruptaki üçüncü ve son maçını ,yarın TSİ 11 .00'de Yunanistan ile yapacak .</sentence>
+<sentence num="23">Karate :Karatede erkekler açık sıklette Yusuf Başer bronzmadalya kazandı .</sentence>
+<sentence num="24">Rafael Florido Spor Salonu'ndaki oyunların karate müsabakalarının ikinci ve son gününde ,Yusuf Başer ,yarı finalde Fransız rakibine yenilerek bronz madalyada kaldı .</sentence>
+<sentence num="25">İki gün süren karate müsabakalarına 12 sporcuyla katılan Türkiye ,böylece oyunlarda bu dalı 1 altın ,1 gümüş ve 5 bronz madalyayla tamamladı .</sentence>
+<sentence num="26">Yelken :Yelken dalındaki müsabakalar dise dün başladı .</sentence>
+<sentence num="27">Almeria Yelken ve Deniz Kulübü parkurunda beş kategoride gerçekleştirilen ve Türkiye'nin dört kategoride katıldığı yarışmaların ilk gününde ,Türk sporcularından Ayda Ünver ,laser radyal sınıfında ilk iki yarış sonunda ilk sıraya yerleşti .</sentence>
+<sentence num="28">10 tekne içinde Ayda Ünver ,ilk yarışta 3 .,ikinci yarışta 4 .olup 7 puanla ilk günü birinci sırada tamamladı .</sentence>
+<sentence num="29">13 teknenin yer aldığı erkekler laser standartta ise Kemal Muslubaş ,ilk yarışta 12 .,ikinci yarışta 5 .oldu .</sentence>
+<sentence num="30">Güray Zümbül ise ilk yarışta 13 .olurken ,ikinci yarışı ise tamamlayamadı .</sentence>
+<sentence num="31">Genel klasmanda Kemal Muslubaş ,17 puanla 10 .,Güray Zümbül ise 27 puanla 13 .ve son sırada bulunuyor .</sentence>
+<sentence num="32">Yalnızca bir yarış yapılan erkekler mistralde Koray Ezer ,bu yarışı 7 .sırada bitirdi .</sentence>
+<sentence num="33">14 teknenin katıldığı erkekler 470 sınıfında ise Levent Peynirci Okan Akdağ çifti ,ilk yarışta 10 .,ikinci yarışta 14 .,Hakan ve Efe Karakaplan çifti ise ilk yarışta 11 .,ikinci yarışta da 13 .oldu .</sentence>
+<sentence num="34">Genel klasmanda her iki Türk ekibi de 24'er puanla 12 .ve 13 .sıralarda yer aldı .</sentence>
+<sentence num="35">Oyunlarda yelken dalındaki mücadeleye ,yarın üçüncü ve dördüncü yarışlarla devam edilecek .</sentence>
+<sentence num="36">Yüzme :Yüzmede finallerde yer alan tek Türk sporcu olan İlkay Dikmen ,bayanlar 200 metre kurbağalamada 8 .oldu .</sentence>
+<sentence num="37">Las Albadrabillas Spor Merkezi'ndeki oyunların yüzme müsabakalarının üçüncü gününde ,bayanlar 200 metre kurbağalama finalinde İlkay Dikmen ,2 .33 .35'lik derecesiyle 8 .sırada yer aldı .</sentence>
+<sentence num="38">Yarışta birinciliği kazanarak altın madalyaya ulaşan İspanyol Sara Perez ise 2 .</sentence>
+<sentence num="39">28 .87'lik dereceyle oyunlar rekorunun yeni sahibi oldu .</sentence>
+<sentence num="40">Oyunlarda yüzme dalındaki mücadeleye ,bugün bayanlarda beş ve erkeklerde de dört kategorideki seçmeler ve finallerle devam edilecek .</sentence>
+<sentence num="41">Artistik cimnastik :Artistik cimnastikte bayanlar genel bireysel yarışma tamamlandı .</sentence>
+<sentence num="42">Akdeniz Oyunları Spor Sarayı'ndaki oyunların artistik cimnastik müsabakalarının ikinci gününde yapılan bayanlar genel bireysel yarışmada ,Türk Milli Takımı'ndan Göksu Üçtaş 9 .,Ebru Karaman da 12 .oldu .</sentence>
+<sentence num="43">Dört alet de yapılan yarışmada Göksu Üçtaş ,atlama beygirinde 8 .625 ,asimetrik paralelde 7 .800 ,dengede 7 .875 ve yer hareketlerinde de 8 .400 puan alarak toplam 32 .700 puana ulaştı .</sentence>
+<sentence num="44">Ebru Karaduman ise atlama beygirinde 8 .425 ,asimetrik paralelde 6 .750 ,dengede 7 .950 ve yer hareketlerinde de 8 .150 puan toplarken ,toplamda 31 .225 puan aldı .</sentence>
+<sentence num="45">Türk sporcularından Göksu Üçtaş ,bugün ve yarın yapılacak bayanlar alet finallerinde ,denge ve atlama beygirinde mücadele edecek .</sentence>
+<sentence num="46">Kano :Oyunların üçüncü gününde kanoda Türk sporcular dereceye giremedi .</sentence>
+<sentence num="47">İspanya'nın Almeria kentinde yapılan oyunlarda bugün K1 500 metre erkeklerde Akın Çiçek ,K1 500 metre bayanlarda İclal Maviş ve Gamze Togay ile K2 500 metre erkeklerde Tolga Turan Gökhan Bahadır ikilisi ilk turda elendi .</sentence>
+<sentence num="48">Akın Çiçek ,İclal Maviş ve Gamze Togay serilerinde 6 .olurken ,Tolga Turan ve Gökhan Bahadır ikilisi 5 .sırada yer aldı .</sentence>
+<sentence num="49">Oyunlara bugün 15 branşta devam edilecek 15'inci Akdeniz Oyunları'na ,bugün 15 branşta yapılacak müsabakalarla devam edilirken ,Türk sporcuları ise 11 branşta yarışmalara katılacak .</sentence>
+<sentence num="50">Türkiye ,bugün takım sporlarında bayan basketbolda El Ejido Spor Salonu'nda TSİ 17 .00'de Fransa ,futbolda El Ejido Stadı'nda 23 .00'de Malta ,bayan voleybolda da Moises Ruiz Spor Salonu'nda 11 .30'da Arnavutluk ile karşı karşıya gelecek .</sentence>
+<sentence num="51">Türk sporcuları ayrıca :Boksta 10 sıklette Los Angeles Spor Salonu ,Eskrimde bireysel epede Ulaş Barış Badoğlu ve Emel Işık ile Maximo Cuervo Spor Salonu ,Golfte üç bayan ve üç erkek sporcuyla Akdeniz Oyunları Köyü Golf Alanı ,Halterde erkekler 69 kiloda Ekrem Celil ve Yasin Arslan ,bayanlar 58 kiloda Emine Bilgin ile Antonio Rivera Gençlik Spor Salonu ,Grekoromen güreşte 60 kiloda Uğur Tüfenk ,74 kiloda Mahmut Altay ve 96 kiloda Mehmet Özal ile Huercal De Almeria Spor Salonu ,Yüzmede Las Almadrabillas Spor Merkezi ,Atıcılıkta erkekler 50 metre yatarak atışta Murat Şahin ve Abdurrahman Akgün ,Skeette de Güçhan Ölker ile oyunlar atıcılık merkezi ,Yelkende ise 470 ,mistral ,laser ve laser radyal sınıflarında Almeria Deniz Kulübü parkurunda mücadele edecekler .</sentence>
+<sentence num="52">Ülke A G B Toplam 1 .İtalya 20 13 12 45 2 .Fransa 16 13 17 46 3 .İspanya 9 24 19 52 4 .TÜRKİYE 6 6 6 18 5 .Tunus 4 7 11 6 .Sırb .</sentence>
+<sentence num="53">Karadağ 3 3 2 8 7 .Slovenya 3 2 4 9 8 .Mısır 3 1 4 8 9 .Yunanistan 2 3 11 16 10 .Hırvatistan 2 2 1 5 11 .Cezayir 2 1 4 7 12 .Bosna Hersek 1 1 1 3 13 .Arnavutluk 1 1 2 14 .San Marino 1 1 15 .Kıbrıs Rum Kesimi 1 1 16 .Suriye 1 1 .</sentence>
+</doc>
+<doc>
+<id>106117</id>
+<sentence num="0">2005 06 27 09 :13 :00 .3'üncü günün sonunda Türkiye 4 .İspanya'nın Almeria kentinde yapılan oyunların üçüncü günü sonunda 6 altın ,6 gümüş ,6 da bronz olmak üzere toplam 18 madalyaya ulaşan Türkiye ,İtalya ,Fransa ve İspanya'nın ardından 4 .sıraya yerleşti .</sentence>
+<sentence num="1">Oyunlarda ilk 3 gün sonunda madalya sıralaması şöyle oluştu :Ülke A G B Toplam 1 İtalya 20 13 12 45 2 Fransa 16 13 17 46 3 İspanya 9 24 19 52 4 Türkiye 6 6 6 18 5 Tunus 4 7 11 6 Sırb .</sentence>
+<sentence num="2">Karadağ 3 3 2 8 7 Slovenya 3 2 4 9 8 Mısır 3 1 4 8 9 Yunanistan 2 3 11 16 10 Hırvatistan 2 2 1 5 11 Cezayir 2 1 4 7 12 Bosna Hersek 1 1 1 3 13 Arnavutluk 1 1 2 14 San Marino 1 1 15 Kıbrıs Rum Kesimi 1 1 16 Suriye 1 1 .</sentence>
+</doc>
+<doc>
+<id>106173</id>
+<sentence num="0">2005 06 27 10 :10 :00 .Güney Kıbrıs milli takımında bir Türk ...</sentence>
+<sentence num="1">Uğur TENEKECİOĞLU Mehmet ÇİFTÇİ ALMERIA ,(DHA )ASLEN KKTC vatandaşı olan Osman Can ,çifte vatandaşlığının getirdiği hakları nedeni ile ,İspanya'nın Almeria kentinde yapılan 15'inci Akdeniz Oyunları'nda halter dalında Güney Kıbrıs adına mücadele verecek .</sentence>
+<sentence num="2">Çifte vatandaşlık sahibi olduğu tahmin edilen 50 bin Kıbrıslı Türk'ten biri olan ve İngiltere'nin başkenti Londra'da yaşayan Can ,halterde 94 kiloda 30 Haziran'da podyuma çıkacak .</sentence>
+<sentence num="3">Kıbrıs Olimpiyat Komitesi Başkanı Kıkıs Lazarides ,Biz ne Yunan ,ne de Türk Milli Takımı'yız .</sentence>
+<sentence num="4">Şu anda biz tanınıyoruz .</sentence>
+<sentence num="5">O nedenle bizim milli takımda Osman'ın olması normal .</sentence>
+<sentence num="6">Siz tanınmış olsaydınız bizim sporcularımız da Kuzey Kıbrıs bayrağı altında yarışırdı .</sentence>
+<sentence num="7">Biz Türklerle dostuz ve bu dostluğumuz spora da yansımalı .</sentence>
+<sentence num="8">Spordaki birleşmeyi sağlayarak Kıbrıs'a barışı getireceğiz .</sentence>
+<sentence num="9">Bir gün gelecek Kıbrıs'ta tek bayrak tek marş olacak ,ama şu anda biz tanınıyoruz ve geçici olarak bizim şartlarımız geçerli dedi .</sentence>
+<sentence num="10">BAYATLI :ORTAK DEVLET TEK ÇÖZÜM Türkiye Milli Olimpiyat Komitesi Başkanı Togay Bayatlı ise ,Devekuşu gibi kafanızı toprağa sokarak 'ben varım 'diyemezsiniz .</sentence>
+<sentence num="11">Bu gayet normal .</sentence>
+<sentence num="12">Ortak bayrak ve ortak marş ile mücadele etmek gerekir .</sentence>
+<sentence num="13">Ortak devlet tek çözüm .</sentence>
+<sentence num="14">Ayrımcılık yapmamak lazım diye konuştu .</sentence>
+<sentence num="15">Güney Kıbrıs milli takımı seçmelerine katılan ve 800 ile bin 500 metrede birinci olarak milli takım kadrosuna alınan Kuzey Kıbrıs vatandaşı Doğu Akdeniz Üniversitesi öğrencisi ve İzmir Büyükşehir Belediye Spor atleti Zafer Sukuşu ise son anda Almeria'ya gelmekten vazgeçti .</sentence>
+<sentence num="16">Sukuşu iki taraf birleşene kadar hiçbir şartta yarışmayacağını belirtti .</sentence>
+</doc>
+<doc>
+<id>106197</id>
+<sentence num="0">2005 06 27 10 :44 :00 .Hentbolcular 2 .Maçı da Kazanamadı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda Bayan Hentbol Milli Takımı ,gruptaki 2 .maçında Sırbistan Karadağ'a 43 40 yenilerek 2 .yenilgisini aldı ve gruptan çıkma şansını yitirdi .</sentence>
+<sentence num="2">B Grubu'nda yer alan milli takım ,ilk maçında da İspanya'ya yenilmişti .</sentence>
+<sentence num="3">Milliler ,gruptaki 3 .ve son maçını ,28 Haziran Salı günü TSİ 11 .00'de Yunanistan ile yapacak .</sentence>
+<sentence num="4">Erkek Hentbol Milli Takımı da ,grubundaki ikinci maçında Sırbistan Karadağ'a 33 26 yenildi .</sentence>
+<sentence num="5">İnfanta Cristina Spor Salonu'nda yapılan ve İspanyol hakem ikilisinin yönettiği maçta ,milli takım ,rakibi önünde ilk yarıyı da 15 13 yenik kapadı .</sentence>
+<sentence num="6">İlk maçında da Fransa'ya 32 22 yenilen Türkiye ,böylece grupta 3 .ve son sırayı aldı .</sentence>
+</doc>
+<doc>
+<id>106355</id>
+<sentence num="0">2005 06 27 14 :00 :00 .Akdeniz Oyunları'nda yüzmede 4 Türk sporcu elendi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda yüzmede ,bugün seçmelerde yarışan 5 Türk sporcudan 4'ü elendi .</sentence>
+<sentence num="2">Las Almadrabillas Spor Merkezi'ndeki oyunların yüzme müsabakalarının 4 .gününde ,sabah seansında yapılan seçme yarışmalarında ,bayanlar 100 metre sırtüstünde Derya Erke ,1 .04 .37'lik derecesiyle genel klasmanda 17 sporcu içinde 6 .olarak final yüzmeye hak kazandı .</sentence>
+<sentence num="3">Erke'nin final müsabakası ,TSİ 18 .30'da başlayacak .</sentence>
+<sentence num="4">Sabahki seçmelerde mücadele eden diğer Türk sporcularından Aytekin Mindan ,erkekler 200 metre serbestte 1 .55 .</sentence>
+<sentence num="5">14 ile 17 sporcu içinde 9 .,erkekler 50 metre kelebekte 21 sporcu içinde Eren Onurlu ,25 .59 ile 13 .,Mert Karşıyakalılar ,26 .</sentence>
+<sentence num="6">20 ile 13 .,erkekler 100 metre sırtüstünde ise Emre Çelik ,57 .76 ile 14 sporcu içinde 10 .sırayı alarak elemeleri geçemedi .</sentence>
+</doc>
+<doc>
+<id>106366</id>
+<sentence num="0">2005 06 27 14 :10 :00 .Grekoromen güreşte 96 kiloda Mehmet Özal bronz madalya kazandı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,grekoromen güreşte 96 kiloda mücadele eden Mehmet Özal ,bronz madalya kazandı .</sentence>
+<sentence num="2">Huercal De Almeria Spor Salonu'ndaki oyunların grekoromen güreş müsabakalarının 2 .ve son gününde mindere çıkan 96 kiloda Dünya Şampiyonu Mehmet Özal ,ilk turda Sloven rakibini yenerken ,yarı finalde Olimpiyat Şampiyonu ünlü Mısırlı rakibi İbrahim Karam'a yenildi .</sentence>
+<sentence num="3">Bu sıklette 7 sporcu bulunduğu için ,Mehmet Özal bronz madalyaya hak kazandı .</sentence>
+<sentence num="4">ALTAY FİNALE ÇIKTI 74 kiloda Mahmut Altay ,sabah seansında Fransız ve Sırp rakiplerini yenerek finale yükseldi .</sentence>
+<sentence num="5">Altay ,finalde akşam seansında Mısırlı Ahmed Salem ile altın madalya mücadelesi verecek .</sentence>
+<sentence num="6">60 kiloda Uğur Tüfenk ise ilk müsabakasında Sırp rakibine 3 1 yenildi .</sentence>
+<sentence num="7">Tüfenk ,akşam seansında Tunuslu Mehdi Djelassi ile üçüncülük karşılaşması yapacak .</sentence>
+</doc>
+<doc>
+<id>106443</id>
+<sentence num="0">2005 06 27 15 :26 :00 .Sultanlar Turu Garantiledi .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda Bayan Voleybol Milli Takımı ,gruptaki 2 .maçında Arnavutluk'u 3 0 yenerek 2 .galibiyetini aldı .</sentence>
+<sentence num="2">Zayıf rakibi önünde oldukça rahat üstün bir oyun sergileyen Türkiye ,setleri 25 9 ,25 15 ve 25 20 önde tamamladı .</sentence>
+<sentence num="3">Milliler ,bu galibiyetle gruptan çıkmayı garantiledi .</sentence>
+<sentence num="4">İlk maçında da Yunanistan'ı 3 0 yenen Türkiye ,gruptaki 3 .ve son maçını ,ev sahibi İspanya ile 29 Haziran Çarşamba günü saat 17 .30'da yapacak .</sentence>
+</doc>
+<doc>
+<id>106448</id>
+<sentence num="0">2005 06 27 15 :35 :00 .Akdeniz Oyunları'nda eskrimde 2 Türk sporcu da elendi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda eskrimde ,bugün mücadele eden 2 Türk sporcu da elendi .</sentence>
+<sentence num="2">Maximo Cuervo Spor Salonu'ndaki oyunların eskrim müsabakalarının 3 .ve son gününde ,epe kategorisinde yapılan müsabakalarda ,bayanlarda Emel Işık ve erkeklerde de Ulaş Barış Badoğlu ,çeyrek finalde rakiplerine yenilerek oyunlara veda ettiler .</sentence>
+<sentence num="3">Böylece ,oyunlarda eskrim müsabakaları tamamlanırken ,Türk sporcular hiçbir varlık gösteremedi .</sentence>
+</doc>
+<doc>
+<id>106627</id>
+<sentence num="0">2005 06 27 19 :50 :00 .Halterde bayanlar 58 kiloda Emine Bilgin koparmada altın madalya kazandı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,halterde bayanlar 58 kiloda Emine Bilgin ,koparmada altın madalya kazandı .</sentence>
+<sentence num="2">Antonio Rivera Spor Salonu'ndaki oyunların halter müsabakalarının 3 .gününde podyuma çıkan 58 kiloda Emine Bilgin ,ilk hakkında 86 ,2 .hakkında 89 ,3 .ve son hakkında da 91 kiloda başarılı oldu ve altın madalyaya ulaştı .</sentence>
+</doc>
+<doc>
+<id>106629</id>
+<sentence num="0">2005 06 27 20 :00 :00 .Bayan Basketbol Milli Takımı Fransa'yı yendi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda Bayan Basketbol Milli Takımı ,ilk maçında Fransa'yı 78 68 yendi .(</sentence>
+<sentence num="2">B )Grubu'nda mücadele eden milli takım ,gruptaki 2 .maçında yarın aynı salonda TSİ 19 .30'da evsahibi İspanya ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>106630</id>
+<sentence num="0">2005 06 27 20 :00 :00 .Boksta Türkiye ,ilk güne galibiyetle başladı ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda Türkiye ,boksta güne galibiyetle başladı .</sentence>
+<sentence num="2">Los Angeles Spor Salonu'ndaki oyunların boks müsabakalarının ilk gününde ringe çıkan 69 kiloda Avrupa Şampiyonu Bülent Ulusoy ,ilk turda Sırp rakibi Zoran Mitroviç önünde ilk raundu 5 4 ,2 .raundu11 6 ,3 .raundu da 19 10 önde kapayıp karşılaşmadan 26 14 sayıyla galip ayrıldı ve çeyrek finalist oldu .</sentence>
+<sentence num="3">Ulusoy ,çeyrek finalde 29 Haziran Çarşamba günü Tunuslu Raşid Mardassi ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>106631</id>
+<sentence num="0">2005 06 27 20 :02 :00 .Akdeniz Oyunları'nda Türkiye boksta ilk güne galibiyetle başladı .</sentence>
+<sentence num="1">Akdeniz Oyunları'nda Türkiye boksta ilk güne galibiyetle başladı 15 .Akdeniz Oyunları'nda Türkiye ,boksta güne galibiyetle başladı .</sentence>
+<sentence num="2">Los Angeles Spor Salonu'ndaki oyunların boks müsabakalarının ilk gününde ringe çıkan 69 kiloda Avrupa Şampiyonu Bülent Ulusoy ,ilk turda Sırp rakibi Zoran Mitroviç önünde ilk raundu 5 4 ,2 .raundu11 6 ,3 .raundu da 19 10 önde kapayıp karşılaşmadan 26 14 sayıyla galip ayrıldı ve çeyrek finalist oldu .</sentence>
+<sentence num="3">Ulusoy ,çeyrek finalde 29 Haziran Çarşamba günü Tunuslu Raşid Mardassi ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>106658</id>
+<sentence num="0">2005 06 27 21 :21 :00 .Emine Bilgin'den 1 Altın 1 Bronz .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,halterde bayanlar 58 kiloda Emine Bilgin ,koparmada altın madalya kazandıktan sonra ,silkmede aynı başarıyı gösteremedi .</sentence>
+<sentence num="2">58 kiloda Emine Bilgin ,koparmada ilk hakkında 86 ,2 .hakkında 89 ,3 .ve son hakkında da 91 kiloda başarılı oldu ve altın madalyaya ulaştı .</sentence>
+<sentence num="3">Bilgin ,silkmede ilk hakkında 108 kiloda başarılı olamadı .</sentence>
+<sentence num="4">2 .hakkında 110 kiloyu kaldıran Bilgin ,3 .ve son hakkında 113 kiloyu kaldıramayınca ,3 .oldu ve yarışmayı 1 altın ve 1 bronz madalyayla tamamladı .</sentence>
+<sentence num="5">Silkmede altın madalya ise 112 kiloyla Mısırlı Esma Ahmed'in oldu .</sentence>
+</doc>
+<doc>
+<id>106659</id>
+<sentence num="0">2005 06 27 21 :21 :00 .Potada Bayanlardan İyi Başlangıç .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda Bayan Basketbol Milli Takımı ,ilk maçında Fransa'yı 78 68 yendi .</sentence>
+<sentence num="2">1 .periyot 25 13 milli takımın üstünlüğü ile geçilirken ,devre 40 38 Fransa lehine tamamlandı .</sentence>
+<sentence num="3">3 .periyotta 55 52 Fransa'nın üstünülüğü ile tamamlanırken ,Milliler salondan 78 68 galipayrıldı .</sentence>
+<sentence num="4">Esmeral 13 ,Şaziye 18 ve Nevriye 12 çifthaneli sayılara ulaşırken ,Fransa'da Koechlin 14 ,Bonnan 15 ve Gomis 11 sayı ile oynadı .</sentence>
+<sentence num="5">B Grubu'nda mücadele eden milli takım ,gruptaki 2 .maçında aynı salonda saat 19 .30'da ev sahibi İspanya ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>106704</id>
+<sentence num="0">2005 06 27 23 :21 :00 .Halterde Ekrem Celil ,altın madalya kazandı .</sentence>
+<sentence num="1">Halterde Ekrem Celil ,altın madalya kazandı 15 .Akdeniz Oyunları'nda ,halterde Ekrem Celil silkmede altın ,koparmada bronz madalya alırken Yasin Aslan da koparmada gümüş madalya kazandı .</sentence>
+<sentence num="2">Oyunların 4 .gününde yapılan halter yarışmalarında ,69 kilo mücadelesinde podyuma çıkan Ekrem Celil ,silkmede birinci ve ikinci haklarında 180 kiloyu kaldıramadı .</sentence>
+<sentence num="3">Üçüncü hakkında 182 kiloyu kaldıran Celil ,altın madalyanın sahibi oldu .</sentence>
+</doc>
+<doc>
+<id>106709</id>
+<sentence num="0">2005 06 27 23 :30 :00 .Halterde Ekrem Celil silkmede altın ,koparmada bronz madalya kazandı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,halterde Ekrem Celil silkmede altın ,koparmada bronz madalya alırken Yasin Aslan da koparmada gümüş madalya kazandı .</sentence>
+<sentence num="2">Oyunların 4 .gününde yapılan halter yarışmalarında ,69 kilo mücadelesinde podyuma çıkan Ekrem Celil ,silkmede birinci ve ikinci haklarında 180 kiloyu kaldıramadı .</sentence>
+<sentence num="3">Üçüncü hakkında 182 kiloyu kaldıran Celil ,altın madalyanın sahibi oldu .</sentence>
+<sentence num="4">Ekrem Celil koparmada ,140 kilo ile ilk hakkında başarılı olamazken ikinci hakkında bu kiloyu kaldırdı .</sentence>
+<sentence num="5">Son hakkında 145 kiloda başarılı olamayan Celil ,bronz madalyada kaldı .</sentence>
+<sentence num="6">Diğer Türk sporcu Yasin Aslan ,koparmadaki ilk hakkında 143 kilo kaldırdı .</sentence>
+<sentence num="7">İkinci ve üçüncü haklarında 147 kiloda başarılı olmayan Aslan ,gümüş madalyanın sahibi oldu .</sentence>
+<sentence num="8">Aslan silkme dalında dördüncülükle yetindi .</sentence>
+</doc>
+<doc>
+<id>106711</id>
+<sentence num="0">2005 06 27 23 :40 :00 .Akdeniz Oyunları'nda 4 .gün sonunda Türkiye 4 .sıradaki yerini korudu .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nın 4 .günü sonunda Türkiye ,genel madalya sıralamasında 4 .sıradaki yerini korudu .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde yapılan oyunların 4 .günü sonunda ,9 altın ,7 gümüş ,10 da bronz olmak üzere toplam 26 madalyaya ulaşan Türkiye ,Fransa ,İtalya ve İspanya'nın ardından 4 .sırada yer aldı .</sentence>
+</doc>
+<doc>
+<id>106714</id>
+<sentence num="0">2005 06 27 23 :49 :00 .Halterde Madalya Yağmuru Sürüyor .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,halterde Türk sporcularından madalya yağmaya devam ediyor .</sentence>
+<sentence num="2">69 kilo mücadelesinde podyuma çıkan Ekrem Celil ,silkmede birinci ve ikinci haklarında 180 kiloyu kaldıramadı .</sentence>
+<sentence num="3">Üçüncü hakkında 182 kiloyu kaldıran Celil ,altın madalyanın sahibi oldu .</sentence>
+<sentence num="4">Ekrem Celil koparmada ,140 kilo ile ilk hakkında başarılı olamazken ikinci hakkında bu kiloyu kaldırdı .</sentence>
+<sentence num="5">Son hakkında 145 kiloda başarılı olamayan Celil ,bronz madalyada kaldı .</sentence>
+<sentence num="6">Diğer Türk sporcu Yasin Aslan ,koparmadaki ilk hakkında 143 kilo kaldırdı .</sentence>
+<sentence num="7">İkinci ve üçüncü haklarında 147 kiloda başarılı olmayan Aslan ,gümüş madalyanın sahibi oldu .</sentence>
+<sentence num="8">Aslan silkme dalında dördüncülükle yetindi .</sentence>
+</doc>
+<doc>
+<id>106717</id>
+<sentence num="0">2005 06 28 00 :00 :00 .Akdeniz Oyunları'nda 4 .gün sonunda Türkiye 4 .sıradaki yerini korudu .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nın 4 .günü sonunda Türkiye ,genel madalya sıralamasında 4 .sıradaki yerini korudu .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde yapılan oyunların 4 .günü sonunda ,9 altın ,7 gümüş ,10 da bronz olmak üzere toplam 26 madalyaya ulaşan Türkiye ,Fransa ,İtalya ve İspanya'nın ardından 4 .sırada yer aldı .</sentence>
+</doc>
+<doc>
+<id>106737</id>
+<sentence num="0">2005 06 28 01 :00 :00 .Olimpik Milli Futbol Takımı ,Malta'yı 5 0 yenerek çeyrek finale yükseldi .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,Olimpik Milli Futbol Takımı ,Malta'yı 5 0 yenerek ,(B )Grubu'nu birinci sırada tamamladı ve çeyrek finale yükseldi .(</sentence>
+<sentence num="2">B )Grubu'nda 4 puan ve averajla İspanya'nın önüne geçerek lider olan milliler ,29 Haziran Çarşamba günü (C )Grubu üçüncüsü Yunanistan ya da (A )Grubu ikincisi Fas ile karşılaşacak .</sentence>
+<sentence num="3">Bu arada ,statü gereği maç sonrası yapılan penaltı atışlarında ,Malta ,5 3 üstünlük sağladı .</sentence>
+</doc>
+<doc>
+<id>106743</id>
+<sentence num="0">2005 06 28 01 :32 :00 .Olimpik Milli Futbol Takımımız grup birincisi .</sentence>
+<sentence num="1">Olimpik Milli Futbol Takımımız grup birincisi 15 .Akdeniz Oyunları'nda ,Olimpik Milli Futbol Takımı ,Malta'yı 5 0 yenerek ,(B )Grubu'nu birinci sırada tamamladı ve çeyrek finale yükseldi .(</sentence>
+<sentence num="2">B )Grubu'nda 4 puan ve averajla İspanya'nın önüne geçerek lider olan milliler ,29 Haziran Çarşamba günü (C )Grubu üçüncüsü Yunanistan ya da (A )Grubu ikincisi Fas ile karşılaşacak .</sentence>
+<sentence num="3">Bu arada ,statü gereği maç sonrası yapılan penaltı atışlarında ,Malta ,5 3 üstünlük sağladı .</sentence>
+</doc>
+<doc>
+<id>106791</id>
+<sentence num="0">2005 06 28 08 :48 :00 .Güreşci Mahmut Altay ,Mısırlı rakibini yenerek altın madalya aldı .</sentence>
+<sentence num="1">Güreşci Mahmut Altay ,Mısırlı rakibini yenerek altın madalya aldı 15 .Akdeniz Oyunları'nda ,grekoromen güreşte ,74 kiloda Mahmut Altay ,altın madalya kazandı .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde devam eden oyunların 4 .gününde mindere çıkan Mahmut Altay ,finalde Mısırlı rakibi Ahmed Salem'i ,2 dakika 59 saniyede tuşla yenerek altın madalyanın sahibi oldu .</sentence>
+<sentence num="3">60 kiloda ise Uğur Tüfenk ,Tunuslu rakibi Mehdi Djelassi'yi 3 0 ve 2 1'lik setlerle 2 0 mağlup edip bronz madalyaya ulaştı .</sentence>
+<sentence num="4">Böylece Türk Milli Takımı ,grekoromen güreş müsabakalarını ,2 altın ,2 gümüş ve 3 de bronz madalya ile tamamlamış oldu .</sentence>
+</doc>
+<doc>
+<id>106793</id>
+<sentence num="0">2005 06 28 08 :50 :00 .Grekoromen güreşte 74 kiloda Mahmut Altay ,altın madalya aldı ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,grekoromen güreşte ,74 kiloda Mahmut Altay ,altın madalya kazandı .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde devam eden oyunların 4 .gününde mindere çıkan Mahmut Altay ,finalde Mısırlı rakibi Ahmed Salem'i ,2 dakika 59 saniyede tuşla yenerek altın madalyanın sahibi oldu .</sentence>
+<sentence num="3">60 kiloda ise Uğur Tüfenk ,Tunuslu rakibi Mehdi Djelassi'yi 3 0 ve 2 1'lik setlerle 2 0 mağlup edip bronz madalyaya ulaştı .</sentence>
+<sentence num="4">Böylece Türk Milli Takımı ,grekoromen güreş müsabakalarını ,2 altın ,2 gümüş ve 3 de bronz madalya ile tamamlamış oldu .</sentence>
+</doc>
+<doc>
+<id>106811</id>
+<sentence num="0">2005 06 28 09 :09 :00 .Bir altında Mahmut Altay'dan .</sentence>
+<sentence num="1">İspanya'nın Almeria kentinde devam eden oyunların 4 .gününde mindere çıkan Mahmut Altay ,finalde Mısırlı rakibi Ahmed Salem'i ,2 dakika 59 saniyede tuşla yenerek altın madalyanın sahibi oldu .</sentence>
+<sentence num="2">60 kiloda ise Uğur Tüfenk ,Tunuslu rakibi Mehdi Djelassi'yi 3 0 ve 2 1'lik setlerle 2 0 mağlup edip bronz madalyaya ulaştı .</sentence>
+<sentence num="3">Böylece Türk Milli Takımı ,grekoromen güreş müsabakalarını ,2 altın ,2 gümüş ve 3 de bronz madalya ile tamamlamış oldu .</sentence>
+</doc>
+<doc>
+<id>106841</id>
+<sentence num="0">2005 06 28 09 :44 :00 .Grekoromende 1 Altın 1 Bronz .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,grekoromen güreşte ,74 kiloda Mahmut Altay altın madalya ,60 kiloda ise Uğur Tüfenk bronz madalyaya kazandı .</sentence>
+<sentence num="2">İspanya'nın Almeria kentinde devam eden oyunların 4 .gününde mindere çıkan Mahmut Altay ,finalde Mısırlı rakibi Ahmed Salem'i ,2 dakika 59 saniyede tuşla yenerek altın madalyanın sahibi oldu .</sentence>
+<sentence num="3">60 kiloda ise Uğur Tüfenk ,Tunuslu rakibi Mehdi Djelassi'yi 3 0 ve 2 1'lik setlerle 2 0 mağlup edip bronz madalyaya ulaştı .</sentence>
+<sentence num="4">Böylece Türk Milli Takımı ,grekoromen güreş müsabakalarını ,2 altın ,2 gümüş ve 3 de bronz madalya ile tamamlamış oldu .</sentence>
+</doc>
+<doc>
+<id>106842</id>
+<sentence num="0">2005 06 28 09 :44 :00 .Milliler Malta'ya Şans Tanımadı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,Olimpik Milli Futbol Takımı ,Malta'yı 5 0 yenerek ,B Grubu'nu birinci sırada tamamladı ve çeyrek finale yükseldi .</sentence>
+<sentence num="2">B Grubu'nda 4 puan ve averajla İspanya'nın önüne geçerek lider olan milliler ,29 Haziran Çarşamba günü C Grubu üçüncüsü Yunanistan ya da A Grubu ikincisi Fas ile karşılaşacak .</sentence>
+<sentence num="3">Bu arada ,statü gereği maç sonrası yapılan penaltı atışlarında ,Malta ,5 3 üstünlük sağladı .</sentence>
+</doc>
+<doc>
+<id>107084</id>
+<sentence num="0">2005 06 28 13 :50 :00 .Serbest güreşte Serhat Balcı ve Aydın Polatçı finale yükseldi ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda serbest güreş dalında 2 Türk sporcu finale çıktı .</sentence>
+<sentence num="2">Almeria'da devam eden oyunlarda bugün başlayan serbest güreş müsabakalarında 84 kiloda Serhat Balcı ve 120 kiloda Aydın Polatçı ,rakiplerini yenerek finale kaldı .</sentence>
+<sentence num="3">84 kiloda Serhat Balcı ,Fransız Loic Bertrand'ı 4 0 ,İtalyan Anthony Fasugba'yı da 5 0 yenerek finale yükseldi .</sentence>
+<sentence num="4">Balcı ,akşam seansında finalde Yunanlı Lazaros Loizidis ile karşılaşacak .</sentence>
+<sentence num="5">120 kiloda Aydın Polatçı ise İtalyan Francesco Petta Miano ve Fransız Isaac Mpia'yı aynı sonuçla 3 0 yenerek finale çıktı .</sentence>
+<sentence num="6">Polatçı ,finalde Mısırlı Hisham Mohamed ile altın madalya mücadelesi verecek .</sentence>
+<sentence num="7">66 kiloda Levent Kaleli ise Fransız Vadim Guigolaev'e 3 0 yenildi .</sentence>
+<sentence num="8">Kaleli ,akşam seansında İspanyol Ruben Diaz ile bronz madalya için karşı karşıya gelecek .</sentence>
+<sentence num="9">Bu arada 55 kiloda Ramazan Demir ,grup maçlarında Yunan ,Suriyeli ve Fransız rakiplerini yenip ,İspanyol rakibine yenildi .</sentence>
+<sentence num="10">Demir'in madalya durumu ,akşam seansında İspanyol ve Suriyeli rakiplerinin birbiriyle yapacağı maçtan sonra belli olacak .</sentence>
+</doc>
+<doc>
+<id>107117</id>
+<sentence num="0">2005 06 28 14 :15 :00 .Olimpik Milli Futbol Takımı ,Yunanistan ile çeyrek finalde karşılaşacak .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,grubundaki 2 .ve son maçında dün gece Malta'yı 5 0 yenerek grup birincisi olan ve çeyrek finale yükselen Olimpik Milli Futbol Takımı ,yarın Yunanistan ile çeyrek final maçına çıkacak .</sentence>
+<sentence num="2">Almeria kentine 35 kilometre uzaklıktaki El Ejido Stadı'ndaki karşılaşma ,TSİ 20 .30'da başlayacak .</sentence>
+</doc>
+<doc>
+<id>107120</id>
+<sentence num="0">2005 06 28 14 :15 :00 .Şampiyon halterci Akti ,hem altın madalyayı ,hem de kızı kaptı .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,halterde erkekler 56 kiloda altın madalya kazanan milli sporcu Gülbeyi Akti ,hem altın madalya ,hem de sevdiği kızla evlenebilme şansını yakaladı .</sentence>
+<sentence num="2">Oyunlara gelmeden önce eski milli atlet ve Atletizm Federasyonu Asbaşkanı Sadık Salman'ın kızını ailesinden isteyen Gülbeyi Akti'ye ,kızın babasının ,''Akdeniz Oyunları'nda altın madalya almadan kızımla evlenemezsin ''dediği öğrenildi .</sentence>
+<sentence num="3">Oyunlarda altın madalyaya uzanan ve böylece kız ailesinin isteğini karşılayan Akti ,böylece 2 mutluluğu birden yaşadı .</sentence>
+<sentence num="4">Akti ,AA muhabirine yaptığı açıklamada ,''Çok mutluyum .</sentence>
+<sentence num="5">Hem altın madalyayı kazandım ,hem de sevdiğim kızla artık evlenebileceğim ''dedi .?</sentence>
+<sentence num="6">Yüzmede Gülşah Gönenç ,Türkiye rekoru kırarak finale yükseldi ...?</sentence>
+<sentence num="7">Serbest güreşte Serhat Balcı ve Aydın Polatçı finale yükseldi ...</sentence>
+</doc>
+<doc>
+<id>107140</id>
+<sentence num="0">2005 06 28 15 :00 :00 .Okçulukta yarışan 7 .5 aylık hamile Türk sporcu ,herkesin ilgisini çekiyor .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda okçulukta mücadele eden Türk Milli Bayan Takımı'nda yer alan 7 .5 aylık hamile Zekiye Keskin Şatır ,herkesin ilgisini çekti .</sentence>
+<sentence num="2">6 ülkeden 18 sporcunun yarıştığı okçuluk olimpik yay bayanlarda mücadele eden Zekiye Keskin Şatır ,AA muhabirine yaptığı açıklamada ,''7 .5 aylık hamileyim .</sentence>
+<sentence num="3">Bir kız çocuğu bekliyorum .</sentence>
+<sentence num="4">Bu zamana kadar herşey yolunda gidiyor .</sentence>
+<sentence num="5">Sıcaklar sorun ama rahat bir hamilelik geçiriyorum .</sentence>
+<sentence num="6">Oyunlarda herkes merakla bana bakıyor ''dedi .</sentence>
+<sentence num="7">Madalya beklentisi bulunan milli sporcu ,''Biz ,takım halinde 3 değil aslında 4 bayan yarışıyoruz .</sentence>
+<sentence num="8">Çünkü ben ,2 bayan olarak yarışıyorum ''diyerek espri yaptı .</sentence>
+<sentence num="9">1 .5 yaşında Selin adında bir kız çocuğunun olduğunu belirten Şatır ,''İlk doğumda doktor 1 yıl spor yapmama izin vermedi .</sentence>
+<sentence num="10">Ama bu sefer bir sorun yok .</sentence>
+<sentence num="11">Akdeniz Oyunları sonrasındaki dönemi dinlenerek geçireceğim .</sentence>
+<sentence num="12">Doğumdan 1 ay sonra da yeniden okçuluğa dönerim ''diye konuştu .</sentence>
+<sentence num="13">Şatır'a ,antrenörü ve takım arkadaşları da her türlü desteği verdiklerini söylediler .</sentence>
+</doc>
+<doc>
+<id>107296</id>
+<sentence num="0">2005 06 28 17 :34 :00 .Hamile Türk okçuya ilgi .</sentence>
+<sentence num="1">6 ülkeden 18 sporcunun yarıştığı okçuluk olimpik yay bayanlarda mücadele eden Zekiye Keskin Şatır ,yaptığı açıklamada ,''7 .5 aylık hamileyim .</sentence>
+<sentence num="2">Bir kız çocuğu bekliyorum .</sentence>
+<sentence num="3">Bu zamana kadar herşey yolunda gidiyor .</sentence>
+<sentence num="4">Sıcaklar sorun ama rahat bir hamilelik geçiriyorum .</sentence>
+<sentence num="5">Oyunlarda herkes merakla bana bakıyor ''dedi .</sentence>
+<sentence num="6">Madalya beklentisi bulunan milli sporcu ,''Biz ,takım halinde 3 değil aslında 4 bayan yarışıyoruz .</sentence>
+<sentence num="7">Çünkü ben ,2 bayan olarak yarışıyorum ''diyerek espri yaptı .</sentence>
+<sentence num="8">1 .5 yaşında Selin adında bir kız çocuğunun olduğunu belirten Şatır ,''İlk doğumda doktor 1 yıl spor yapmama izin vermedi .</sentence>
+<sentence num="9">Ama bu sefer bir sorun yok .</sentence>
+<sentence num="10">Akdeniz Oyunları sonrasındaki dönemi dinlenerek geçireceğim .</sentence>
+<sentence num="11">Doğumdan 1 ay sonra da yeniden okçuluğa dönerim ''diye konuştu .</sentence>
+<sentence num="12">Şatır'a ,antrenörü ve takım arkadaşları da her türlü desteği verdiklerini söylediler .</sentence>
+</doc>
+<doc>
+<id>107311</id>
+<sentence num="0">2005 06 28 17 :52 :00 .Atıcılıkta Yusuf Dikeç'ten Gümüş .</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda atıcılıkta Yusuf Dikeç ,erkekler 10 metre havalı tabanca kategorisinde gümüş madalya kazandı .</sentence>
+<sentence num="2">Akdeniz Oyunları Atıcılık Merkezi'ndeki ,oyunların atıcılık müsabakalarının 4 .ve son gününde ,sabah yapılan erkekler 10 metre havalı tabancaı eleme müsabakalarında 585 puanla finale yükselen Yusuf Dikeç ,finalde 96 puan toplarken ,14 sporcu içinde toplam 681 puanla gümüş madalyanın sahibi oldu .</sentence>
+<sentence num="3">Bu kategoride yarışan diğer Türk sporcu Aydın Güçlü ise elemelerde 571 puan alınca ,10 .sırada kaldı ve elemeleri geçemedi .</sentence>
+<sentence num="4">18 sporcunun yer aldığı skeette ise 2 Türk sporcudan Yusuf Karamuk ,116 puanla 9 .,Güçhan Ülker ise 108 puanla 14 .sırada yer aldı ve elendi .</sentence>
+</doc>
+<doc>
+<id>107340</id>
+<sentence num="0">2005 06 28 18 :45 :00 .Akdeniz Olimpiyatlarında ,golfte milli takım başarısı sürüyor ...</sentence>
+<sentence num="1">15 .Akdeniz Oyunları'nda ,golfte 2 .gün de geride kalırken ,Türk sporcuları başarılı sonuçlarını sürdürdü .</sentence>
+<sentence num="2">Akdeniz Oyunları Köyü Golf Alanı'ndaki oyunların golf müsabakalarının 2 .gününde Mustafa Hocaoğlu ,Hamza Sayın ve Gencer Özcan'dan oluşan Türkiye ,takımı klasmanında 292 puanla liderliğe yükseldi .</sentence>
+<sentence num="3">Türkiye'yi ,294 puanla İspanya ,301 puanla da Fransa izliyor .</sentence>
+<sentence num="4">2 Türk sporcu Mustafa Hocaoğlu ve Gencer Özcan ,72'şer puan alarak ilk günü ilk 3 sırada tamamlamışlardı .</sentence>
+<sentence num="5">Bugün ise Mustafa Hocaoğlu ,146 puanla İspanyol Ignacio Moreno'nun 3 puan gerisinde 2 .sırada yer alırken ,dün 72 puan alan Gencer Özcan da toplamda 147 puana ulaşarak ,3 .sıradaki yerini korudu .</sentence>
+<sentence num="6">İlk gün 161 puan toplayan Bayan Milli Takımı ,2 .günü de aynı puanla kapatarak ,toplamda 322 puana ulaştı .</sentence>
+<sentence num="7">İlk gün 79 ,bugün ise 78 puan alan Nejla Gerçek ,bireysel sıralamada yedincilikte bulunuyor .</sentence>
+<sentence num="8">Bu arada Gençlik ve Spor Genel Müdürü Mehmet Atalay ,Akdeniz Oyunları Köyü Golf Alanı'na gelerek 2 .gün müsabakalarını Golf Federasyonu Başkanı Ahmet Ağaoğlu ile birlikte izledi .</sentence>
+<sentence num="9">Federasyon başkanı Ağaoğlu ,ilk 2 günün sonuçlarının kendisini mutlu ettiğini belirterek ,İlk 2 günde hedeflediğimiz yerdeyiz .</sentence>
+<sentence num="10">Büyük bir terslik olmazsa perşembe günü Türkiye'ye Akdeniz Oyunları tarihindeki ilk golf madalyasını kazandıracağız diye konuştu .</sentence>
+</doc>

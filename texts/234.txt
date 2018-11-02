@@ -1,0 +1,722 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 05 27 19 :24 :00 .suudi arabistan kralı fahd hastaneye kaldırıldı ..</sentence>
+<sentence num="1">suudi arabistan kralı fahd hastaneye kaldırıldı suudi arabistan kralı fahd'ın hastaneye kaldırıldığı bildirildi .</sentence>
+<sentence num="2">resmi spa ajansı ,kraliyet sarayı'na dayanarak verdiği haberde ,kralı fahd'ın hastanede tıbbi testlerden geçirileceğini belirtti .</sentence>
+<sentence num="3">saray'dan yapılan açıklamada ,''kral fahd bin abdülaziz ,tıbbi testler yapılmak üzere riyad'daki faysal hastanesine kaldırılmıştır ''denilirken ,kralın sağlık durumu hakkında bilgi verilmedi .</sentence>
+<sentence num="4">84 yaşındaki kral fahd ,tahta 1982 yılında geçmişti .</sentence>
+<sentence num="5">fahd ,1995 yılında felç geçirmişti .</sentence>
+</doc>
+<doc>
+<id>87978</id>
+<sentence num="0">2005 05 27 19 :25 :00 .Suudi Arabistan Kralı Fahd hastaneye kadırıldı ...</sentence>
+<sentence num="1">Suudi Arabistan Kralı Fahd'ın hastaneye kaldırıldığı bildirildi .</sentence>
+<sentence num="2">Resmi SPA Ajansı ,Kraliyet Sarayı'na dayanarak verdiği haberde ,Kralı Fahd'ın hastanede tıbbi testlerden geçirileceğini belirtti .</sentence>
+<sentence num="3">Saray'dan yapılan açıklamada ,Kral Fahd Bin Abdülaziz ,tıbbi testler yapılmak üzere Riyad'daki Faysal hastanesine kaldırılmıştır denilirken ,kralın sağlık durumu hakkında bilgi verilmedi .</sentence>
+<sentence num="4">84 yaşındaki Kral Fahd ,tahta 1982 yılında geçmişti .</sentence>
+<sentence num="5">Fahd ,1995 yılında felç geçirmişti .</sentence>
+</doc>
+<doc>
+<id>88019</id>
+<sentence num="0">2005 05 27 21 :43 :00 .Suudi Arabistan'da olağanüstü hal ilan edildi .</sentence>
+<sentence num="1">Suudi Arabistan'da olağanüstü hal ilan edildi Suudi Arabistan'da Kral Fahd'ın zatürre şüphesi ile hastaneye kaldırılmasından sonra olağanüstü hal ilan edildi .</sentence>
+<sentence num="2">İçişleri Bakanlığı'ndan bir yetkili ,tüm güvenlik güçlerinin izinlerinin de iptal edildiğini kaydetti .</sentence>
+<sentence num="3">Yetkili ,''Kral Fah'ın hastaneye kaldırılmasından sonra olağanüstü hal ilan edildiğini ,bütün güvenlik güçlerinin izinlerinin iptal edildiğini ve güvenlik güçlerinin teyakkuza geçirildiğini ''söyledi .</sentence>
+<sentence num="4">Hükümet adına bu konuda henüz resmi bir açıklama yapılmadı .</sentence>
+<sentence num="5">Suudi resmi haber ajansı ,Kral Fahd'ın tıbbi tetkikler için Riyad'daki Kral Faysal Hastanesi'ne kaldırıldığını duyurmuştu .</sentence>
+<sentence num="6">Ajansın haberinde ,Kral Fahd'ın sağlık durumu hakkında bilgi verilmemişti .</sentence>
+<sentence num="7">Bu arada ,Kral Fahd'ın sağlık durumu hakkında bilgi aldığı söylenen ancak adı açıklanmayan bir yetkilisi ise ''Kral Fahd'ın zatürree olduğunun düşünüldüğünü ve durumunun çok ağır olduğunun söylendiğini ''kaydetti .</sentence>
+<sentence num="8">Adının açıklanmasını istemeyen bir kraliyet yetkilisi de ,Kral Fahd'ın ateşi olduğunu ve akciğerinin su topladığını ancak kısa süre sonra hastaneden çıkacağını söyledi .</sentence>
+<sentence num="9">Tahta 1982 yılında çıkan 84 yaşındaki Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="10">Kral Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını üvey kardeşi Veliaht Prens Abdullah yürütüyor .</sentence>
+</doc>
+<doc>
+<id>88028</id>
+<sentence num="0">2005 05 27 22 :13 :00 .Kral Abdülaziz Hastaneye Kaldırıldı .</sentence>
+<sentence num="1">Suudi Arabistan Kralı Fahd Bin Abdülaziz'in hastaneye kaldırıldığı bildirildi .</sentence>
+<sentence num="2">Kraliyet Sarayı'ndan yapılan açıklamada ,Kral Fahd Bin Abdülaziz ,tıbbi testler yapılmak üzere Riyad'daki Faysal hastanesine kaldırılmıştır denilirken ,kralın sağlık durumu hakkında bilgi verilmedi .</sentence>
+<sentence num="3">Adının açıklanmasını istemeyen bir kraliyet yetkilisi ,ateşi bulunan Kral Fahd'ın akciğerinin su topladığını ,ancak kısa süre sonra hastaneden çıkacağını söyledi .</sentence>
+<sentence num="4">Bu arada ,İçişleri Bakanlığı ,ülkede olağanüstü hal ilan edildiği yolundaki haberleri yalanladı .</sentence>
+<sentence num="5">Tahta 1982 yılında geçen 84 yaşındaki Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+</doc>
+<doc>
+<id>88043</id>
+<sentence num="0">2005 05 27 23 :10 :00 .Arabistan'da olağanüstü hal iddiası .</sentence>
+<sentence num="1">Kral Fahd ,1982 yılında tahta çıkmıştı Suudi Arabistan Kralı Fahd hastaneye kaldırıldı .</sentence>
+<sentence num="2">Bu haberin hemen ardından ,ülkede olağanüstü hal ilan edildiğine dair açıklamalar geldi .</sentence>
+<sentence num="3">Son olarak Suudi Arabistan resmi haber ajansı ,Kral'ın durumunun iyi olduğunu duyurdu .</sentence>
+<sentence num="4">İçişleri Bakanlığı'ndan bir yetkili ,tüm güvenlik güçlerinin izinlerinin de iptal edildiğini kaydetti .</sentence>
+<sentence num="5">Yetkili ,Kral Fahd'ın hastaneye kaldırılmasından sonra olağanüstü hal ilan edildiğini ,bütün güvenlik güçlerinin izinlerinin iptal edildiğini ve güvenlik güçlerinin teyakkuza geçirildiğini söyledi .</sentence>
+<sentence num="6">Hükümet adına bu konuda henüz resmi bir açıklama yapılmadı .</sentence>
+<sentence num="7">Durumu çok ağır Suudi resmi haber ajansı ,Kral Fahd'ın tıbbi tetkikler için Riyad'daki Kral Faysal Hastanesi'ne kaldırıldığını duyurmuştu .</sentence>
+<sentence num="8">Ajansın haberinde ,Kral Fahd'ın sağlık durumu hakkında bilgi verilmemişti .</sentence>
+<sentence num="9">Bu arada ,Kral Fahd'ın sağlık durumu hakkında bilgi aldığı söylenen ancak adı açıklanmayan bir yetkilisi ise Kral Fahd'ın zatürree olduğunun düşünüldüğünü ve durumunun çok ağır olduğunun söylendiğini kaydetti .</sentence>
+<sentence num="10">Adının açıklanmasını istemeyen bir kraliyet yetkilisi de ,Kral Fahd'ın ateşi olduğunu ve akciğerinin su topladığını ancak kısa süre sonra hastaneden çıkacağını söyledi .</sentence>
+<sentence num="11">1982'de tahta çıktı Tahta 1982 yılında çıkan 84 yaşındaki Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="12">Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını üvey kardeşi Veliaht Prens Abdullah yürütüyor .</sentence>
+</doc>
+<doc>
+<id>88048</id>
+<sentence num="0">2005 05 27 23 :15 :00 .Suudi Arabistan'da olağanüstü hal ilan edildi ...</sentence>
+<sentence num="1">Suudi Arabistan'da Kral Fahd'ın rahatsızlığı nedeniyle hastane kaldırılmasından sonra olağanüstü hal ilan edildiği bildirildi .</sentence>
+<sentence num="2">İçişleri Bakanlığı'ndan bir yetkili ,tüm güvenlik güçlerinin izinlerinin de iptal edildiğini kaydetti .</sentence>
+<sentence num="3">Yetkili ,Kral Fah'ın hastaneye kaldırılmasından sonra olağanüstü hal ilan edildiğini ,bütün güvenlik güçlerinin izinlerinin iptal edildiğini ve güvenlik güçlerinin teyakkuza geçirildiğini söyledi .</sentence>
+<sentence num="4">Hükümet adına bu konuda henüz resmi bir açıklama yapılmadı .</sentence>
+<sentence num="5">Suudi resmi haber ajansı ,Kral Fahd'ın tıbbi tetkikler için Riyad'daki Kral Faysal Hastanesi'ne kaldırıldığını duyurmuştu .</sentence>
+<sentence num="6">Ajansın haberinde ,Kral Fahd'ın sağlık durumu hakkında bilgi verilmemişti .</sentence>
+<sentence num="7">Bu arada ,Kral Fahd'ın sağlık durumu hakkında bilgi aldığı söylenen ancak adı açıklanmayan bir yetkilisi ise Kral Fahd'ın zatürree olduğunun düşünüldüğünü ve durumunun çok ağır olduğunun söylendiğini kaydetti .</sentence>
+<sentence num="8">Adının açıklanmasını istemeyen bir kraliyet yetkilisi de ,Kral Fahd'ın ateşi olduğunu ve akciğerinin su topladığını ancak kısa süre sonra hastaneden çıkacağını söyledi .</sentence>
+<sentence num="9">Tahta 1982 yılında çıkan 84 yaşındaki Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="10">Kral Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını üvey kardeşi Veliaht Prens Abdullah yürütüyor .</sentence>
+</doc>
+<doc>
+<id>88074</id>
+<sentence num="0">2005 05 28 00 :51 :00 .Kral Fahd'ın durumu iyi .</sentence>
+<sentence num="1">Kral Fahd'ın durumu iyi Suudi Arabistan'da hastaneye kaldırılan Kral Fahd'ın durumunun iyi olduğu bildirildi .</sentence>
+<sentence num="2">Suudi Arabistan resmi haber ajansı SPA ,tıbbi tetkikler için hastaneye getirilen Fahd'ın durumunun iyi olduğunu ve ''Allah'a şükrettiğini ''belirtti .</sentence>
+<sentence num="3">Kral Fahd'ın durumuyla ilgili ayrıntılı bilgi vermeyen ajans ,tıbbi testlerin normal şekilde devam ettiğini duyurdu .</sentence>
+<sentence num="4">Kral Fahd'ın durumuyla ilgili ilk defa resmi açıklama yapıldı .</sentence>
+<sentence num="5">Suudi bir yetkili daha önce yaptığı açıklamada ,zatürree olduğu sanılan Fahd'ın durumunun çok ağır olduğunu bildirmişti .</sentence>
+</doc>
+<doc>
+<id>88076</id>
+<sentence num="0">2005 05 28 00 :59 :00 .Kral Fahd'ın son durumu .</sentence>
+<sentence num="1">Suudi Arabistan resmi haber ajansı SPA ,tıbbi tetkikler için hastaneye getirilen Fahd'ın durumunun iyi olduğunu ve ''Allah'a şükrettiğini ''belirtti .</sentence>
+<sentence num="2">Kral Fahd'ın durumuyla ilgili ayrıntılı bilgi vermeyen ajans ,tıbbi testlerin normal şekilde devam ettiğini duyurdu .</sentence>
+<sentence num="3">Kral Fahd'ın durumuyla ilgili ilk defa resmi açıklama yapıldı .</sentence>
+<sentence num="4">Suudi bir yetkili daha önce yaptığı açıklamada ,zatürree olduğu sanılan Fahd'ın durumunun çok ağır olduğunu bildirmişti .</sentence>
+</doc>
+<doc>
+<id>88098</id>
+<sentence num="0">2005 05 28 03 :00 :00 .Kral Fahd'ın durumu iyi ...</sentence>
+<sentence num="1">Suudi Arabistan'da hastaneye kaldırılan Kral Fahd'ın durumunun iyi olduğu bildirildi .</sentence>
+<sentence num="2">Suudi Arabistan resmi haber ajansı SPA ,tıbbi tetkikler için hastaneye getirilen Fahd'ın durumunun iyi olduğunu ve Allah'a şükrettiğini belirtti .</sentence>
+<sentence num="3">Kral Fahd'ın durumuyla ilgili ayrıntılı bilgi vermeyen ajans ,tıbbi testlerin normal şekilde devam ettiğini duyurdu .</sentence>
+<sentence num="4">Kral Fahd'ın durumuyla ilgili ilk defa resmi açıklama yapıldı .</sentence>
+<sentence num="5">Suudi bir yetkili daha önce yaptığı açıklamada ,zatürree olduğu sanılan Fahd'ın durumunun çok ağır olduğunu bildirmişti .</sentence>
+</doc>
+<doc>
+<id>88416</id>
+<sentence num="0">2005 05 28 19 :15 :00 .Suudi Arabistan Kralı Fahd'ın sağlık durumu istikrarlı .</sentence>
+<sentence num="1">Tıbbi testlerden geçirilmek üzere dün hastaneye kaldırılan Suudi Arabistan Kralı Fahd'ın sağlık durumunun istikrarlı olduğu bildirildi .</sentence>
+<sentence num="2">Kral Fahd'ın sağlık durumu hakkında gazetecilere açıklama yapan Dışişleri Bakanı Prens Said El Faysal ,Kralın sağlık durumu istikrarlı .</sentence>
+<sentence num="3">Tıbbi testlerin sonuçları da bunu doğruluyor dedi .</sentence>
+<sentence num="4">Prens El Faysal ,zatürree geçirdiği endişesiyle dün hasteneye kaldırılan Kral Fahd'ın durumu hakkında başka ayrıntı vermedi .</sentence>
+</doc>
+<doc>
+<id>88666</id>
+<sentence num="0">2005 05 29 12 :31 :00 .Kral Fahd'ın sağlık durumu kritik .</sentence>
+<sentence num="1">Suudi Kralı Fahd'ın sağlığında belirsizlik .</sentence>
+<sentence num="2">Bir süredir hastanede tedavi gören Suudi Arabistan Kralı Fahd'ın sağlık durumu ile ilgili çelişkili bilgili geliyor .</sentence>
+<sentence num="3">Suudi yetkililer Kral'ın durumunun iyi ,diğer kaynaklar ise kritik olduğunu bildiriyor .</sentence>
+<sentence num="4">Suudi Arabistan devlet televizyonu ,Kral'ın sağlık durumunun iyi olduğunu ,endişeye gerek olmadığını duyurdu .</sentence>
+<sentence num="5">Çeşitli haber ajanslarına bilgi veren hükümet yetkilileri ,Kral'ın rahatsızlığının akciğer iltihabından kaynaklandığını belirtiyor .</sentence>
+<sentence num="6">Ancak Saray'dan ,bu konuda detaylı bir açıklama henüz alınmış değil .</sentence>
+<sentence num="7">Associated Press haber ajansına bilgi veren bir başka yetkili ise ,Kral Fahd'a zatürre teşhisi konduğunu ve durumunun kritik olduğunu söyledi .</sentence>
+<sentence num="8">Aynı yetkili ,ülkede acil durum ilan edildiğini ,güvenlik güçlerinde izinlerin de iptal edildiğini belirtti .</sentence>
+<sentence num="9">Ancak bu açıklama daha sonra İçişleri Bakanlığı tarafından yalanlandı .</sentence>
+<sentence num="10">Öte yandan Kral'ın tedavi gördüğü hastanenin çevresinde olağanüstü güvenlik önlemleri dikkati çekiyor .</sentence>
+<sentence num="11">Kraliyet ailesinden çok sayıda prensin de hastaneye geldiği bildiriliyor .</sentence>
+<sentence num="12">80 yaşındaki Kral'ın bundan on sene önce bir kalp krizi geçirmiş ,bunun üzerine yetkilerinin çoğunu Veliaht Prens Abdullah'a devretmişti .</sentence>
+<sentence num="13">Ancak yönetimdeki işlevi o günden bu yana sembolik olsa da ,ülke için önemli bir figür olmaya devam ediyor .(</sentence>
+<sentence num="14">bbc ).</sentence>
+</doc>
+<doc>
+<id>93967</id>
+<sentence num="0">2005 06 07 07 :35 :00 .Kral Fahd'ın sağlık durumu iyiye gidiyor .</sentence>
+<sentence num="1">Zatürre teşhisiyle 10 gün önce hastaneye kaldırılan Suudi Arabistan Kralı Fahd'ın sağlık durumunun iyiye gittiği bildirildi .</sentence>
+<sentence num="2">Veliaht Prens Abdullah ,kabine toplantısında yaptığı açıklamada ,''Kralın sağlığı istikrarlı bir şekilde iyiye gidiyor ''dedi .</sentence>
+<sentence num="3">82 yaşındaki Fahd'ın 27 Mayıs'ta hastaneye kaldırılması ,dünya genelinde endişeye yol açmasının yanı sıra ,petrol fiyatlarını da hassas bir hale getirerek artışa neden olmuştu .</sentence>
+<sentence num="4">İsminin açıklanmasını istemeyen Suudi yetkili ,Fahd'ın tedaviye olumlu cevap verdiğini ve bir hafta içinde taburcu olabileceğini söylemişti .</sentence>
+</doc>
+<doc>
+<id>93968</id>
+<sentence num="0">2005 06 07 07 :35 :00 .Suudi Arabistan Kralı'nın sağlık durumu iyiye gidiyor .</sentence>
+<sentence num="1">Suudi Arabistan Kralı'nın sağlık durumu iyiye gidiyor Zatürre teşhisiyle 10 gün önce hastaneye kaldırılan Suudi Arabistan Kralı Fahd'ın sağlık durumunun iyiye gittiği bildirildi .</sentence>
+<sentence num="2">Veliaht Prens Abdullah ,kabine toplantısında yaptığı açıklamada ,''Kralın sağlığı istikrarlı bir şekilde iyiye gidiyor ''dedi .</sentence>
+</doc>
+<doc>
+<id>125478</id>
+<sentence num="0">2005 08 01 10 :04 :00 .Suudi Arabistan kralını kaybetti .</sentence>
+<sentence num="1">Suudi Arabistan Kralı Fahd ,tedavi gördüğü hastanede öldü .</sentence>
+<sentence num="2">Uzun süredir rahatsız olan Suudi Kralı'nın (83 )ölüm haberi ,hastane ve diplomatik kaynaklara dayanarak ,devlet televizyonu tarafından yayın kesilerek duyuruldu .</sentence>
+<sentence num="3">Tahta 1982 yılında çıkan Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="4">Kral Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını Veliaht Prens Abdullah yürütüyordu .</sentence>
+<sentence num="5">Yeni kral Abdullah Suudi Arabistan'ın başkenti Riyad'da Kral Faysal Uzmanlık Hastanesi'nde bu sabah öldüğü bildirilen Kral Fahd'ın yerine ,görevi 10 yıldır vekaleten yürüten Veliaht Prens Abdullah yeni kral oldu .</sentence>
+<sentence num="6">Suudi devlet televizyonu ,bu sabah ölen Kral Fahd'ın yerine Veliaht Prens Abdullah'ın yeni kral olduğunu duyurdu .</sentence>
+<sentence num="7">Devlet televizyonunun bildirdiğine göre ,Kral Fahd'ın danışmanı ,kimi kaynağa göre yaşı 82 ,kimi kaynağa göre 84 olan Kral Fahd'ın ölümü için ,''Allah'ın takdiri ''dedi .</sentence>
+<sentence num="8">AP ajansına demeç veren hastane yönetiminden bir hekim ,Kral Fahd'ın sağlığının son günlerde iyice kötüleştiğini söyledi .</sentence>
+<sentence num="9">Devlet televizyonu ,''Mekke i Mükerreme ile Mescid i Nebi'nin mukaddes hamisinin vefatından derin teessür duyulduğunu ''bildirdi .</sentence>
+<sentence num="10">aa .</sentence>
+</doc>
+<doc>
+<id>125480</id>
+<sentence num="0">2005 08 01 10 :05 :00 .S .Arabistan Kralı Fahd öldü .</sentence>
+<sentence num="1">Suudi Arabistan Kralı Fahd ,tedavi gördüğü hastanede öldü .</sentence>
+<sentence num="2">Uzun süredir rahatsız olan Suudi Kralı'nın (83 )ölüm haberi ,hastane ve diplomatik kaynaklara dayanarak ,devlet televizyonu tarafından yayın kesilerek duyuruldu .</sentence>
+<sentence num="3">Tahta 1982 yılında çıkan Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="4">Kral Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını Veliaht Prens Abdullah yürütüyordu .</sentence>
+<sentence num="5">YENİ KRAL PRENS ABDULLAH Kral Fahd'ın yerine ,görevi 10 yıldır vekaleten yürüten Veliaht Prens Abdullah yeni kral oldu .</sentence>
+<sentence num="6">Suudi devlet televizyonu ,bu sabah ölen Kral Fahd'ın yerine Veliaht Prens Abdullah'ın yeni kral olduğunu duyurdu .</sentence>
+<sentence num="7">Devlet televizyonunun bildirdiğine göre ,Kral Fahd'ın danışmanı ,kimi kaynağa göre yaşı 82 ,kimi kaynağa göre 84 olan Kral Fahd'ın ölümü için ,Allah'ın takdiri dedi .</sentence>
+<sentence num="8">AP ajansına demeç veren hastane yönetiminden bir hekim ,Kral Fahd'ın sağlığının son günlerde iyice kötüleştiğini söyledi .</sentence>
+<sentence num="9">Devlet televizyonu ,Mekke i Mükerreme ile Mescid i Nebi'nin mukaddes hamisinin vefatından derin teessür duyulduğunu bildirdi .</sentence>
+<sentence num="10">ARAP BİRLİĞİ ZİRVESİ ERTELENDİ Bu arada ,Mısır Cumhurbaşkanı Hüsnü Mübarek'in çağrısıyla çarşamba günü Şarm El Şeyh'te toplanacak Arap Birliği olağanüstü zirvesi ,Kral Fahd'ın ölümü nedeniyle ertelendi .</sentence>
+<sentence num="11">Arap Birliği Genel Sekreterliği'nden Hisam Yusuf ,zirvenin birkaç gün ertelendiğini ,ne zaman yapılacağının daha sonra açıklanacağını söyledi .</sentence>
+<sentence num="12">Uzun süredir rahatsız olan Kral Fahd ,Riyad'daki ihtisas hastanesinde ,hastane kaynaklarına göre sabah 06 :00 civarında hayatını kaybetti .</sentence>
+<sentence num="13">CENAZE TÖRENİ YARIN Suudi Arabistan Kralı Fahd'ın cenaze töreninin yarın yapılacağı bildirildi .</sentence>
+<sentence num="14">Reuters ajansının haberine göre ,bir Suudi yetkili ,yabancı konukların da katılabilmesine olanak sağlamak amacıyla cenaze töreninin yarın olacağını söyledi .</sentence>
+<sentence num="15">Yetkili ,törenin ayrıntılarına ilişkin bilgi vermedi .?</sentence>
+<sentence num="16">Suudi Kral'ın ölümüyle petrol fiyatları yükseldi ...</sentence>
+<sentence num="17">FAHD'IN ÖZGEÇMİŞİ Babası Kral Abdülaziz bin Abdülrahman El Suud'un 1932 yılında ,Suudi Arabistan Krallığı'nı kurmasına tanık olan Fahd ,eğitimine ,Riyad'daki Prens Okulu'nda başladı .</sentence>
+<sentence num="18">Okuldaki eğitiminin yanı sıra Şeyh Abdül Gani Hayat gibi isimlerden özel ders alan Fahd ,Prens Okulu'nun ardından ,Mekke'deki Din Bilimi Enstitüsü'ne gitti .</sentence>
+<sentence num="19">İlk yurtdışı resmi gezisinde ,dönemin dışişleri bakanı olan ağabeyi Faysal ile 1945 yılında BM'nin New York'taki açılış oturumuna katılan Fahd ,1953 yaşındayken ,babası tarafından eğitim bakanlığı görevine getirildi .</sentence>
+<sentence num="20">Yine 1953'te ,İngiltere Kraliçesi İkinci Elizabeth'in taç giyme törenine ,Suud Ailesi'ni temsilen katılan Fahd ,aile üyeleri arasında ,1959 yılındaki Arap Birliği zirvesinde Suudi heyetine başkanlık yaparak öne çıktı .</sentence>
+<sentence num="21">Fahd ,1962 yılında içişleri bakanlığı görevine atandı ve 5 yıl sonra ,başbakan ikinci yardımcılığına getirildi .</sentence>
+<sentence num="22">Kral Faysal'ın ,25 Mart 1975'te yeğeni tarafından öldürülmesinin ardından yeni kral Halid oldu ve Fahd ,veliaht prens sıfatı elde etti .</sentence>
+<sentence num="23">Fahd ,Halid'in kral olduğu dönemde başbakanlık görevini de fiilen yürüttü .</sentence>
+<sentence num="24">Kral Halid'in 13 Haziran 1982'de ölmesiyle tahta oturan Fahd ,hükümdarlığı döneminde ,dünya genelinde cami inşa edilmesi için büyük bir bütçe ayırdı ve Cebelitarık'taki İbrahim El İbrahim Camisi'nin 1997'de açılmasına büyük katkıda bulundu .</sentence>
+<sentence num="25">Kral Fahd ,ABD ile ilişkilerin gelişmesine önem verdi ve Irak'ın 1990'da Kuveyt'i işgal etmesinin ardından Washington'ın ,Suudi Arabistan'da üs kurmasına izin verdi .</sentence>
+<sentence num="26">1980'li yıllarda ,SSCB'nin Afganistan işgaline karşı ABD ve Pakistan ile birlikte mücadele yürüten Fahd ,bu çerçevede milyonlarca riyal harcamaktan ve savaşa binlerce Suudi göndermekten kaçınmadı .</sentence>
+<sentence num="27">Fahd ,1995 yılında felç geçirdi ve bu tarihten itibaren hükümdarlığı fiilen Veliaht Prens Abdullah üstlendi .</sentence>
+<sentence num="28">Kral Fahd ,sağlığının kötüye gitmesi üzerine 27 Mayıs'ta tekrar hastaneye kaldırıldı .</sentence>
+<sentence num="29">Fahd ,sağlık sorunlarına rağmen ziyaretçi kabul etmeyi sürdürdü ve bazı toplantılara bizzat katıldı .</sentence>
+<sentence num="30">Kasım 2003'de ,ölümlere yol açan terör eylemlerinin ardından sert bir çıkış yapan Fahd ,mücadeleden vazgeçmeyeceği mesajı verdi .</sentence>
+<sentence num="31">Dünyanın en büyük petrol rezervlerini kontrol eden Fahd'ın 32 milyar dolarlık servetinin yanı sıra Suudi Arabistan'da 7 sarayı ,Fransız Rivierası'nda bir şatosu bulunuyor .</sentence>
+<sentence num="32">Fahd'ın 3 karısı ,8 oğlu olduğu tahmin ediliyor .</sentence>
+</doc>
+<doc>
+<id>125483</id>
+<sentence num="0">2005 08 01 10 :05 :00 .Suudi Kralı Fahd öldü ,yeni kral Prens Abdullah .</sentence>
+<sentence num="1">Suudi Kralı Fahd öldü ,yeni kral Prens Abdullah Suudi Arabistan Kralı Fahd ,tedavi gördüğü hastanede öldü .?</sentence>
+<sentence num="2">Suudi Kral öldü ,petrol fiyatları arttı ?</sentence>
+<sentence num="3">Arap Birliği Zirvesi ertelenebilir ?</sentence>
+<sentence num="4">Suudi Kral Fahd'ın cenaze töreni yarın yapılacak ?</sentence>
+<sentence num="5">Veliaht Prens Abdullah Suudi Arabistan'ın yeni kralı oldu Uzun süredir rahatsız olan Suudi Kralı'nın (83 )ölüm haberi ,hastane ve diplomatik kaynaklara dayanarak ,devlet televizyonu tarafından yayın kesilerek duyuruldu .</sentence>
+<sentence num="6">Tahta 1982 yılında çıkan Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="7">Kral Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını Veliaht Prens Abdullah yürütüyordu .</sentence>
+<sentence num="8">Babası Kral Abdülaziz bin Abdülrahman El Suud'un 1932 yılında ,Suudi Arabistan Krallığı'nı kurmasına tanık olan Fahd ,eğitimine ,Riyad'daki Prens Okulu'nda başladı .</sentence>
+<sentence num="9">Okuldaki eğitiminin yanı sıra Şeyh Abdül Gani Hayat gibi isimlerden özel ders alan Fahd ,Prens Okulu'nun ardından ,Mekke'deki Din Bilimi Enstitüsü'ne gitti .</sentence>
+<sentence num="10">İlk yurtdışı resmi gezisinde ,dönemin dışişleri bakanı olan ağabeyi Faysal ile 1945 yılında BM'nin New York'taki açılış oturumuna katılan Fahd ,1953 yaşındayken ,babası tarafından eğitim bakanlığı görevine getirildi .</sentence>
+<sentence num="11">Yine 1953'te ,İngiltere Kraliçesi İkinci Elizabeth'in taç giyme törenine ,Suud Ailesi'ni temsilen katılan Fahd ,aile üyeleri arasında ,1959 yılındaki Arap Birliği zirvesinde Suudi heyetine başkanlık yaparak öne çıktı .</sentence>
+<sentence num="12">Fahd ,1962 yılında içişleri bakanlığı görevine atandı ve 5 yıl sonra ,başbakan ikinci yardımcılığına getirildi .</sentence>
+<sentence num="13">Kral Faysal'ın ,25 Mart 1975'te yeğeni tarafından öldürülmesinin ardından yeni kral Halid oldu ve Fahd ,veliaht prens sıfatı elde etti .</sentence>
+<sentence num="14">Fahd ,Halid'in kral olduğu dönemde başbakanlık görevini de fiilen yürüttü .</sentence>
+<sentence num="15">Kral Halid'in 13 Haziran 1982'de ölmesiyle tahta oturan Fahd ,hükümdarlığı döneminde ,dünya genelinde cami inşa edilmesi için büyük bir bütçe ayırdı ve Cebelitarık'taki İbrahim El İbrahim Camisi'nin 1997'de açılmasına büyük katkıda bulundu .</sentence>
+<sentence num="16">Kral Fahd ,ABD ile ilişkilerin gelişmesine önem verdi ve Irak'ın 1990'da Kuveyt'i işgal etmesinin ardından Washington'ın ,Suudi Arabistan'da üs kurmasına izin verdi .</sentence>
+<sentence num="17">1980'li yıllarda ,SSCB'nin Afganistan işgaline karşı ABD ve Pakistan ile birlikte mücadele yürüten Fahd ,bu çerçevede milyonlarca riyal harcamaktan ve savaşa binlerce Suudi göndermekten kaçınmadı .</sentence>
+<sentence num="18">Fahd ,1995 yılında felç geçirdi ve bu tarihten itibaren hükümdarlığı fiilen Veliaht Prens Abdullah üstlendi .</sentence>
+</doc>
+<doc>
+<id>125489</id>
+<sentence num="0">2005 08 01 10 :14 :00 .Suudi Kralı Fahd öldü 3 ağustosta yapılması planlanan Arap Zirvesi ertelendi .</sentence>
+<sentence num="1">Kral Fahd ,83 yaşında hayatını kaybetti Suudi Arabistan Kralı Fahd ,tedavi gördüğü Kral Faisal hastanesinde öldü .</sentence>
+<sentence num="2">Suudi devlet televizyonu Kral Fahd'ın öldüğünü ve yeni kralın Veliaht Prens Abdullah olduğunu duyurdu .</sentence>
+<sentence num="3">Uzun süredir rahatsız olan 83 yaşındaki Suudi Kralı'nın ölüm haberi ,hastane ve diplomatik kaynaklara dayanarak ,devlet televizyonu tarafından yayın kesilerek verildi .</sentence>
+<sentence num="4">Suudi Arabistan devlet televizyonu ,yeni kralın Veliaht Prens Abdullah olduğunu da duyurdu .</sentence>
+<sentence num="5">Tahta 1982 yılında çıkan Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="6">Kral Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını Veliaht Prens Abdullah yürütüyordu .</sentence>
+<sentence num="7">Mısır Cumhurbaşkanı Hüsnü Mübarek'in çağrısıyla çarşamba günü Şarm El Şeyh'te toplanacak Arap Birliği olağanüstü zirvesi ,Kral Fahd'ın ölümü nedeniyle ertelendi .</sentence>
+<sentence num="8">Arap Birliği Genel Sekreterliği'nden Hisam Yusuf ,zirvenin birkaç gün ertelendiğini ,ne zaman yapılacağının daha sonra açıklanacağını söyledi .</sentence>
+<sentence num="9">Birçok Arap ülkesi yas ilan etti Suudi Arabistan Kralı Fahd'ın ölümü nedeniyle ülkede resmi bir yas süresi olmayacağı belirtilirken ,birçok Arap ülkesinde yas ilan edildi .</sentence>
+<sentence num="10">Bir Suudi yetkili ,Vahabi geleneğine paralel olarak ülkede resmi bir yas süresi olmayacağını söyledi .</sentence>
+<sentence num="11">Suudi bayrağında 'Kelime i Şehadet 'yazdığı için bayraklar da yarıya indirilmiyor .</sentence>
+<sentence num="12">Suudiler krallarının ölümüne gelenekleri ve inançları gereği sessiz bir yasla tepki verirken ,camilerden ,radyo ve televizyonlardan sürekli Kuran okunuyor .</sentence>
+<sentence num="13">Ürdün'de 40 günlük yas ilan edilirken ,Filistin ,Mısır ,Suriye ,Lübnan ve Arap Birliği'nde ise üç günlük yas ilan edildi .</sentence>
+<sentence num="14">ABD'nin Riyad Büyükelçiliği ile Cidde ve Dahran'daki konsolosluklar da üç gün kapalı kalacak .</sentence>
+<sentence num="15">Türkiye'de yarın bayraklar yarıya indirilecek Suudi Arabistan Kralı Fahd'ın ölümü dolayısıyla yarın Türkiye'de bayraklar yarıya indirilecek .</sentence>
+<sentence num="16">Kral Fahd'ın cenaze törenine hükümeti temsilen Dışişleri Bakanı Abdullah Gül katılacak .</sentence>
+<sentence num="17">Başbakanlık'tan yapılan yazılı açıklamayla duyurulan hükümet bildirisinde ,Suudi Arabistan Kralı Fahd'ın vefatından duyulan üzüntünün bir ifadesi olarak ,cenaze töreninin yapılacağı 2 ağustos 2005 salı günü ,tüm illerde devlet daireleri ve kurumların bayraklarının güneşin batışına kadar yarıya indirileceği ifade edildi .</sentence>
+<sentence num="18">Cenaze töreni yarın yapılacak Suudi bir yetkili de yabancı konukların da katılabilmesi için cenaze töreninin yarın olacağını söyledi .</sentence>
+<sentence num="19">Yetkili ,törenin ayrıntılarına ilişkin bilgi vermedi .</sentence>
+<sentence num="20">Bu arada ,Fransa Cumhurbaşkanlığı sarayından yapılan açıklamada ,'saygın bir lider ve Fransa'nın dostu 'olarak tanımlanan Kral Fahd'ın ölümü nedeniyle Suudilere başsağlığı dilendi .</sentence>
+<sentence num="21">İngiltere ,Almanya ,Filistin ,Mısır ,Suriye ,Lübnan ,Kuveyt ve Katar liderleri de Fahd'ın ölümü nedeniyle başsağlığı mesajı yayımladı .</sentence>
+<sentence num="22">BAŞA GEÇEN KRALLAR Suudi Arabistan'da tahta çıkan Kral Abdullah ,ülkenin altıncı kralı olarak tarihe geçti .</sentence>
+<sentence num="23">Suudi Arabistan'ın 79 yıllık kraliyet ağacı ve iktidarı üstlenen krallar şunlar :1926 :Abdülaziz ,kendisini Hicaz Kralı ilan etti .</sentence>
+<sentence num="24">1927 :Kral Abdülaziz ,kendisini Hicaz Kralı ve Necd Sultanı olarak ilan etti .</sentence>
+<sentence num="25">1932 :Ülke ,Suudi Arabistan Krallığı adını aldı .</sentence>
+<sentence num="26">1953 :Kral Abdülaziz'in 73 yaşında ölmesiyle oğlu Veliaht Prens Suud tahta geçti .</sentence>
+<sentence num="27">1964 :Kral Suud'un 1969'da Yunanistan'da sürgünde ölmesiyle Suudi Arabistan Kralı Suud'un kardeşi Faysal oldu .</sentence>
+<sentence num="28">1975 :Kral Faysal yeğeni tarafından öldürülünce ,tahta bu kez Veliaht Prens Halid geçti .</sentence>
+<sentence num="29">1982 :Kral Halid'in ölümüyle yerine kardeşi Veliaht Prens Fahd tahta çıktı .</sentence>
+<sentence num="30">2005 :Kral Fahd'ın ölümüyle Veliaht Prens Abdullah kral olurken ,veliahtlığa da Savunma Bakanı Prens Sultan getirildi .</sentence>
+<sentence num="31">Kral Fahd kimdir ?</sentence>
+<sentence num="32">Fahd ,ortadoğunun en muhafazakar ve dev petrol sahaları nedeniyle en zengin ülkesi olan Suudi Arabistan'da krallık tahtına 1982'de yılında oturdu .</sentence>
+<sentence num="33">Fahd ,iktidarının ilk yıllarında ülkesini bölgesel ve uluslararası alanda ön plana çıkarmaya uğraştı .</sentence>
+<sentence num="34">Fahd'ın 1981'de veliaht prens iken teklif ettiği Ortadoğu Barış Planı ,1982'de Arap Birliği tarafından kabul edildi .</sentence>
+<sentence num="35">Irak İran savaşı sırasında Saddam Hüseyin'in destekleyen Kral Fahd ,1990'da Irak Kuveyt'i işgal ettiğinde tereddüt etmeden ABD'yi destekledi .</sentence>
+<sentence num="36">Bunun ardından ABD güçleri Suudi Arabistan üslerine yerleşti .</sentence>
+<sentence num="37">Kral için savaş Batı ile özellikle de ABD ile kurmak istediği ilişkiler için beklenen fırsattı .</sentence>
+<sentence num="38">Fahd ,ABD ile stratejik ilişkiler geliştirerek ülkesini uluslarası arenada kilit ülke yapabileceğini düşünüyordu .</sentence>
+<sentence num="39">Ancak bu durum o yıllarda adını yeni yeni duyurmaya başlayan Usame Bin Ladin ve örgütü El Kaide için de fırsat oldu .</sentence>
+<sentence num="40">El Kaide ilişkileri bozdu Suudi Arabistan El Kaide ile 90'ların ortasında tanıştı .</sentence>
+<sentence num="41">El Kaide ,önce 1995'te sonra 1996'da ABD'lilerin bulunduğu üslere bombalı saldırılar düzenlendi .</sentence>
+<sentence num="42">Olaylarda 24 ABD askeri öldü .</sentence>
+<sentence num="43">Bu saldırılar Kral Fahd'ın hastalandığı dönemde düzenlendi .</sentence>
+<sentence num="44">1995'te bir dizi felç geçiren Fahd'ın görevlerini artık kardeşi Prens abdullah devralmıştı .</sentence>
+<sentence num="45">TAZİYE MESAJLARI BM Genel Sekreteri Kofi Annan ile İtalya ve İspanya hükümetleri ,Suudi Arabistan Kralı Fahd'ın ölümü nedeniyle Suudi Arabistan'a taziye mesajları gönderdi .</sentence>
+<sentence num="46">BM Genel Sekreteri Annan'ın sözcüsü tarafından yayımlanan açıklamada ,Annan'ın Kral Fahd'ın ölümünden 'derin üzüntü 'duyduğu belirtildi .</sentence>
+<sentence num="47">İtalya :İtalya da ,Kral Fahd'ın ölümü nedeniyle bugün Suudi Arabistan'a taziye mesajı gönderdi .</sentence>
+<sentence num="48">İtalya Dışişleri Bakanı Gianfranco Fini mesajında ,''İtalyan hükümeti ve şahsım adına ,tüm Suudi Arabistanlılara ve kraliyet ailesine en derin taziye dileklerimi sunuyorum ''dedi .</sentence>
+<sentence num="49">İspanya :İspanya da ,Suudi Arabistan Kralı Fahd'ın ölümünden dolayı yarın için resmi yas ilan ettiğini açıkladı .</sentence>
+<sentence num="50">Başbakan Jose Luis Rodriguez Zapatero tarafından imzalanan kararnameyle ,Kral Fahd'ın ölümü nedeniyle yarın İspanya'da resmi yas ilan edileceği ,resmi kurumlarda bayrakların yarıya indirileceği bildirildi .</sentence>
+<sentence num="51">İspanya Kralı Juan Carlos da ,yakın dostluğu bulunan Kral Fahd'ın ölüm haberinin ardından yaptığı açıklamada ,tüm Suudi halkına başsağlığı diledi .</sentence>
+<sentence num="52">ABD ve Suudi Arabistan ilişkilerini en çok 11 eylül saldırıları bozdu .</sentence>
+<sentence num="53">Suudi yönetimi El Kaide karşıtı pekçok operasyon düzenlese de Prens Abdullah'ın Arap ülkeleriyle Batı arasında dengede durma politikası Washington'u rahatsız etmeye devam ediyor .</sentence>
+<sentence num="54">Yeni kralın özellikleri Yeni kralın en büyük artısı ,adının yolsuzluklarla yanyana gelmemiş olması .</sentence>
+<sentence num="55">Bu durum Suudiler için büyük önem taşıyor .</sentence>
+<sentence num="56">Abdullah ,bir vatansever ve iyi bir Müslüman olarak tanımlanıyor .</sentence>
+<sentence num="57">Prens Abdullah ,Suudi Arabistan'da liberel reformlara da istekli .</sentence>
+<sentence num="58">Kral Fahd'la ilgili en önemli şikayetler yolsuzluğa göz yumması ve İslamın kutsal mekanları Mekke ve Medine'nin bulunduğu Suudi Arabistan'a Batılıları sokmasıydı .</sentence>
+<sentence num="59">Batıyla ilişkileri kesmek istemeyen Prens Abdullah ,Arap dünyasıyla da ters düşmemeye kararlı .</sentence>
+<sentence num="60">ABD'yi İsrail'e destek verdiği için sık sık uyaran Prens Abdullah ,körfez savaşı zamanıda ABD askerlerini ülkede istemeyen isimlerdendi .</sentence>
+<sentence num="61">Dünyanın gözü Suudi Arabistan'da Dünyanın en büyük petrol ihracatçısı olan Suudi Arabistan'da yeni dönem ,hem bölgenin hem de dünyanın yakın takibinde .</sentence>
+<sentence num="62">Kralın ölümü petrol fiyatlarını artırdı ve bir varil petrol 49 cent artarak 61 dolar oldu .</sentence>
+<sentence num="63">Yeni yönetimin ilk günlerinde istikrarsızlık yaşanacağı ve bu durumun fiyatların daha da arttıracağı öne sürülüyor .</sentence>
+<sentence num="64">Böyle bir durumda da bir varil petrolün 80 doları bulacağı kaydediliyor .</sentence>
+<sentence num="65">Ancak yeni kral Abdullah'ın son 10 yıldır fiili olarak ülkeyi yönettiği düşünülürse ,istikrarszlık pek olası görülmüyor .</sentence>
+</doc>
+<doc>
+<id>125503</id>
+<sentence num="0">2005 08 01 10 :37 :00 .Veliaht Prens Abdullah Suudi Arabistan'ın yeni kralı oldu .</sentence>
+<sentence num="1">Veliaht Prens Abdullah Suudi Arabistan'ın yeni kralı oldu Suudi Arabistan'ın başkenti Riyad'da Kral Faysal Uzmanlık Hastanesi'nde bu sabah öldüğü bildirilen Kral Fahd'ın yerine ,görevi 10 yıldır vekaleten yürüten Veliaht Prens Abdullah yeni kral oldu .</sentence>
+<sentence num="2">Suudi devlet televizyonu ,bu sabah ölen Kral Fahd'ın yerine Veliaht Prens Abdullah'ın yeni kral olduğunu duyurdu .</sentence>
+</doc>
+<doc>
+<id>125512</id>
+<sentence num="0">2005 08 01 10 :48 :00 .Suudi Arabistan Kralı Fahd Öldü .</sentence>
+<sentence num="1">Suudi Arabistan Kralı Fahd öldü ...</sentence>
+<sentence num="2">Fahd'ın yerine Veliaht Prens Abdullah'ın tahta geçtiği duyuruldu ...</sentence>
+<sentence num="3">Ham Petrol Fiyatları Yükselişe Geçti Uzun süredir tedavi gören Fahd'ın Riyad Hastanesi'nde öldüğünün duyurulmasının ardından ham petrol fiyatları varil başına 61 dolara çıktı .</sentence>
+<sentence num="4">Suudi Arabistan'dan yapılan açıklamada petrol politikalarında bir değişiklik olmayacağı bildirildi .</sentence>
+<sentence num="5">Tahta 1982 yılında çıkan Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="6">Kral Fahd'ın 1995'deki rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını Veliaht Prens Abdullah yürütüyordu .</sentence>
+<sentence num="7">Fahd ,tahtta kaldığı süre içerisinde Amerika Birleşik Devletleri ile yakın ilişki içinde olmuştu .</sentence>
+<sentence num="8">Yeni Kral ,ABD'ye Fahd Kadar Sıcak Değil Diplomatik gözlemciler ,Fahd'ın yerine geçen Abdullah'ın ABD'ye Fahd kadar sıcak bakmadığını belirtiyor .</sentence>
+<sentence num="9">Bunun en son göstergesi Washington'daki Suudi Arabistan'ın 20 yıldır Washington Büyükelçiliği'ni yapan Prens Bandar bin Sultan'ın istifa etmesi oldu .</sentence>
+<sentence num="10">Abdullah ,yıllardır Bush ailesiyle dostluğuyla tanınan Prens Bandar'ın yerine Amerikan karşıtı görüşleriyle bilinen Londra Büyükelçisi Prens Türki el Faysal'ı getirdi .</sentence>
+<sentence num="11">Fahd'ın ölümünün ardından Mısır'da 3 Ağustos'ta yapılacak Arap Birliği Zirvesi'nin de ileri bir tarihe ertelendiği duyuruldu .</sentence>
+</doc>
+<doc>
+<id>125518</id>
+<sentence num="0">2005 08 01 11 :02 :00 .Arap Birliği Zirvesi ertelenebilir .</sentence>
+<sentence num="1">Arap Birliği Zirvesi ertelenebilir Arap Birliği'nin çarşamba günü yapacağı zirvenin ,Suudi Arabistan Kralı Fahd'ın ölümü nedeniyle ertelenmesinin beklendiği bildirildi .</sentence>
+<sentence num="2">Arap Birliği'nden bir yetkili ,Reuters ajansına verdiği demeçte ,görüş alışverişlerinin ardından zirvenin kaderinin belli olacağını söyledi .</sentence>
+<sentence num="3">Yetkili ,3 Ağustos çarşamba günü Şarm El Şeyh'te yapılacak zirvenin iptal edilmeyeceğini ,ancak ''ertelenebileceğini ya da geciktirilebileceğini ''kaydetti .</sentence>
+</doc>
+<doc>
+<id>125539</id>
+<sentence num="0">2005 08 01 11 :26 :00 .Suudi Kral öldü ,petrol fiyatları arttı .</sentence>
+<sentence num="1">Suudi Kral öldü ,petrol fiyatları arttı Dünyanın en büyük petrol ihracatçısı Suudi Arabistan'ın kralı Fahd'ın ölümü ,petrol fiyatlarını artırırken ,Suudi kaynakları ülkenin petrol politikasında değişiklik olmayacağı güvencesi verdi .</sentence>
+<sentence num="2">Kral Fahd'ın ölüm haberinin duyulmasıyla ABD hafif petrolünün varil fiyatı 49 sent artıp 61 .</sentence>
+<sentence num="3">06 dolara çıktı .</sentence>
+<sentence num="4">Sağlık durumu bozuk olan Kral Fahd'ın yerine ülke yönetimini fiilen 1995 yılından beri elinde tutan ve Fahd'ın ölümüyle krallığa getirilen Veliaht Prens Abdullah'ın Suudi Arabistan'ın petrol politikasını değiştirmeyeceği bilinmesine rağmen gerçekleşen bu yükseliş ,piyasanın başka nedenlerle zaten hassas olmasından kaynaklanıyor .</sentence>
+</doc>
+<doc>
+<id>125545</id>
+<sentence num="0">2005 08 01 11 :30 :00 .Suudi Kral'ın ölümüyle petrol fiyatları yükseldi ...</sentence>
+<sentence num="1">Dünyanın en büyük petrol ihracatçısı Suudi Arabistan'ın kralı Fahd'ın ölümü ,petrol fiyatlarını artırırken ,Suudi kaynakları ülkenin petrol politikasında değişiklik olmayacağı güvencesi verdi .</sentence>
+<sentence num="2">Kral Fahd'ın ölüm haberinin duyulmasıyla ABD hafif petrolünün varil fiyatı 49 sent artıp 61 .</sentence>
+<sentence num="3">06 dolara çıktı .</sentence>
+<sentence num="4">Sağlık durumu bozuk olan Kral Fahd'ın yerine ülke yönetimini fiilen 1995 yılından beri elinde tutan ve Fahd'ın ölümüyle krallığa getirilen Veliaht Prens Abdullah'ın Suudi Arabistan'ın petrol politikasını değiştirmeyeceği bilinmesine rağmen gerçekleşen bu yükseliş ,piyasanın başka nedenlerle zaten hassas olmasından kaynaklanıyor .</sentence>
+<sentence num="5">Bazı sektör gözlemcileri ,ABD'deki petrol rafinerilerinin kapasite yetersizlikleri ve Ortadoğu'daki siyasi gerilimler yüzünden tedirgin olan piyasaların ,Fahd'ın ölümünü ,fiyatları yükseltmeye ''bahane ''yaptığını belirtiyor .</sentence>
+</doc>
+<doc>
+<id>125601</id>
+<sentence num="0">2005 08 01 12 :22 :00 .Suudi Kral Fahd'ın cenaze töreni yarın yapılacak .</sentence>
+<sentence num="1">Suudi Kral Fahd'ın cenaze töreni yarın yapılacak Riyad'da bu sabah bir hastanede hayatını kaybeden Suudi Arabistan Kralı Fahd'ın cenaze töreninin yarın yapılacağı bildirildi .</sentence>
+<sentence num="2">Reuters ajansının haberine göre ,bir Suudi yetkili ,yabancı konukların da katılabilmesine olanak sağlamak amacıyla cenaze töreninin yarın olacağını söyledi .</sentence>
+<sentence num="3">Yetkili ,törenin ayrıntılarına ilişkin bilgi vermedi .</sentence>
+<sentence num="4">Bu arada ,Fransa Cumhurbaşkanlığı sarayından yapılan açıklamada ,''saygın bir lider ve Fransa'nın dostu ''olarak tanımlanan Kral Fahd'ın ölümü nedeniyle Suudilere başsağlığı dilendi .</sentence>
+</doc>
+<doc>
+<id>125722</id>
+<sentence num="0">2005 08 01 15 :07 :00 .Ülke liderleri Suudi Kralı Fahd'a başsağlı diliyor .</sentence>
+<sentence num="1">Ülke liderleri Suudi Kralı Fahd'a başsağlı diliyor Çok sayıda ülkenin lideri ,Suudi Arabistan Kralı Fahd'ın bu sabah ölümü dolayısıyla başsağlığı mesajı yayımladı .</sentence>
+<sentence num="2">İngiltere Kraliçesi 2 .Elizabeth ve Başbakan Tony Blair ,ayrı ayrı yayımladıkları mesajlarla taziyelerini ilettiler .</sentence>
+<sentence num="3">Kraliçe 2 .Elizabeth'in mesajında ,''Kraliçe'nin ,22 yıl ülkesini bilgelik ve beceriyle yöneten Kral Fahd'ın ölümünü duymaktan üzüntü duyduğu ''belirtildi .</sentence>
+<sentence num="4">İki ülke arasındaki yakın ilişkiye dikkat çekilen mesajda ,Kraliçe Elizabeth'in yeni Kral Abdullah'a en iyi dileklerini sunduğu ve iki ülke arasındaki ilişkilerin daha da güçlenmesini istediği ifadesi yer aldı .</sentence>
+<sentence num="5">İngiltere Başbakanı Blair de mesajında ,Kral Fahd'ın büyük bir vizyona sahip olduğu ,çeyrek yüzyıl yönettiği ülkesinde kalkınmaya ve benzersiz sürece önderlik ettiği ifade edildi .</sentence>
+<sentence num="6">Blair'in mesajında ,Kral Fahd'ın İngiltere'nin iyi bir dostu olduğu belirtildi .</sentence>
+<sentence num="7">ALMANYA Almanya Cumhurbaşkanı Horst Köhler ,Suudi Arabistan Kralı Fahd Bin Abdülaziz'in ölümü nedeniyle yeni Kral Abdullah'a başsağlığı mesajı gönderdi .</sentence>
+<sentence num="8">Köhler ,Suudi Arabistan halkının acısını paylaştığını belirterek ,Kral Fahd'ın ılımlı politikasından dolayı dünya çapında takdir gördüğünü kaydetti .</sentence>
+<sentence num="9">Başbakan Gerhard Schröder de yeni Kral Abdullah'a gönderdiği mesajında ,kralın ailesinin acılarını içtenlikle paylaştığını belirtti .</sentence>
+<sentence num="10">Schröder ,Kral Fahd'ın ileri görüşlülüğü ve kişisel çabalarıyla İslam dünyası ve Batılı ülkeler arasında diyalog sağlanması için çalıştığını ifade etti .</sentence>
+<sentence num="11">Fahd'ın Ortadoğu'da sürdürdüğü dengeli politikanın ,kendisine ülkesinde ve dünyada saygınlık kazandırdığını kaydeden Schröder ,Fahd'ın Almanya için her zaman iyi ve güvenilir bir dost olduğunu ,Alman halkının Kral Fahd'ın çabaları ve ''insani büyüklüğü ''önünde saygıyla eğildiğini ifade etti .</sentence>
+<sentence num="12">Schröder ,yeni Kral Abdullah'a da çalışmalarında başarılar diledi .</sentence>
+<sentence num="13">FİLİSTİN Filistin Devlet Başkanı Mahmud Abbas da Kral Fahd'ın ölümünden üzüntü duyduğunu açıkladı .</sentence>
+<sentence num="14">Abbas ,mesajında ,Kral Fahd'ın Filistin devrimine ve 1960'lardan beri El Fetih'e verdiği desteğe dikkat çekti .</sentence>
+<sentence num="15">Başbakan Yardımcısı Nebil Şaat da Kral Fahd'ın Filistin davasını uluslararası toplumun gündemine getirmek için harcadığı çabaları unutmayacaklarını ve Filistin'in Kral Fahd'ın ölümüyle derin bir üzüntü içinde olduğunu söyledi .</sentence>
+<sentence num="16">MISIR ,KUVEYT ,KATAR ,SURİYE ,LÜBNAN Mısır Cumhurbaşkanı Hüsnü Mübarek ,''Suudi Arabistan görevine bağlı oğullarından birini kaybetti ''ifadesini kullandığı mesajında ,Kral Fahd'ın en değerli liderlerden biri olduğunu belirtti .</sentence>
+<sentence num="17">Suriye Devlet Başkanı Beşşar Esad ,Kral Fahd'ın ömrünü Suudi Arabistan'ın ve Arapların çıkarlarını savunmak için harcadığını belirtti .</sentence>
+<sentence num="18">Kuveyt Başbakanı Şeyh Sabah El Ahmed El Sabah ,Kral Fahd'ın kendisini dinin ,ülkesinin ,halkının ,Arapların ve Müslümanların hizmetine adadığını söyledi .</sentence>
+<sentence num="19">Katar Emiri Şeyh Hamid Bin Halife El Tani ,yayımladığı açıklamada ,''Bugün ,hayatını ülkesine ve milletine hizmet etmeye adamış iyi bir adamı ve dünyanın en seçkin liderlerinden birini kaybettik ''dedi .</sentence>
+<sentence num="20">Suudi Kraliyet ailesine yakınlığıyla bilinen Lübnanlı lider Saad El Hariri ,Kral Fahd'ın ölümünün yalnızca Suudi Arabistan için değil ,tüm Arap ve Müslüman ülkeler için bir kayıp olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>125765</id>
+<sentence num="0">2005 08 01 16 :05 :00 .Arap ülkeleri Fahd'ın ölümü üzerine yas ilan edildi .</sentence>
+<sentence num="1">Arap ülkeleri Fahd'ın ölümü üzerine yas ilan edildi Suudi Arabistan Kralı Fahd'ın ölümü nedeniyle ülkede resmi bir yas süresi olmayacağı belirtilirken ,birçok Arap ülkesinde yas ilan edildi .</sentence>
+<sentence num="2">Bir Suudi yetkili ,Vahabi geleneğine paralel olarak ülkede resmi bir yas süresi olmayacağını söyledi .</sentence>
+<sentence num="3">Ayrıca ,Suudi bayrağında Kelime i Şehadet yazdığı için bayraklar da yarıya indirilmiyor .</sentence>
+<sentence num="4">Suudiler krallarının ölümüne gelenekleri ve inançları gereği sessiz bir yasla tepki verirken ,camilerden ,radyo ve televizyonlardan sürekli Kur an'ı Kerim okunuyor .</sentence>
+<sentence num="5">Kamu binaları ve iş merkezlerinin açık olduğu ,petrol pompalama işleminin sürdüğü belirtiliyor .</sentence>
+<sentence num="6">Öte yandan ,birçok ülkede Kral Fahd'ın ölümü nedeniyle resmi yas ilan edildi ve bayraklar yarıya indirildi .</sentence>
+<sentence num="7">Ürdün'de 40 günlük yas ilan edilirken ,bazı yetkililer ,yarın yapılacak cenaze törenine katılmak üzeri Riyad'a gitmeye hazırlanıyor .</sentence>
+<sentence num="8">Kral Fahd'ın ölümü üzerine Filistin ,Mısır ,Suriye ,Lübnan ve Arap Birliği'nde ise 3 günlük yas ilan edildi .</sentence>
+<sentence num="9">ABD'nin Riyad Büyükelçiliği ile Cidde ve Dahran'daki konsolosluklarının da 3 gün kapalı kalacağı açıklandı .</sentence>
+<sentence num="10">Bu arada ,AP'nin haberine göre ,bazı internet sitelerinde kökten dinciler ,Fahd'ın ölümüne sevindiklerini belirten ifadeler kullandılar .</sentence>
+</doc>
+<doc>
+<id>125854</id>
+<sentence num="0">2005 08 01 18 :05 :00 .Sezer ,Erdoğan ve Gül'den Suudi Kral Fahd'ın vefatı dolayısıyla mesaj .</sentence>
+<sentence num="1">Sezer ,Erdoğan ve Gül'den Suudi Kral Fahd'ın vefatı dolayısıyla mesaj Cumhurbaşkanı Ahmet Necdet Sezer ,Başbakan Recep Tayyip Erdoğan ile Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül ,Suudi Arabistan Kralı Fahd'ın vefatı dolayısıyla Suudi Arabistan'a başsağlığı mesajı gönderdi .</sentence>
+<sentence num="2">Cumhurbaşkanı Sezer ,mesajında ,Kral Fahd'ın vefatıyla Suudi Arabistan Krallığı'nın ,ülkesine büyük hizmetler sunmuş bir devlet adamını yitirdiğini belirterek ,Suudi Arabistan halkının acısını yürekten paylaştığını ifade etti .</sentence>
+<sentence num="3">Başbakan Erdoğan ,Kral Fahd'ın engin devlet tecrübesi ve dirayetli liderliği sayesinde Suudi Arabistan Krallığı'nın kalkınma ve refahına büyük katkılarda bulunduğunu ,önemli açılımlara önderlik ettiğini belirtti .</sentence>
+<sentence num="4">Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül de ,Suudi Arabistan Dışişleri Bakanı Suud El Faysal'a gönderdiği mesajda ,Kral Fahd'ın vefatının Suudi Arabistan halkı ve dünya için büyük kayıp olduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>125863</id>
+<sentence num="0">2005 08 01 18 :22 :00 .Sezer ,Erdoğan ve Gül'den Fahd için başsağlığı .</sentence>
+<sentence num="1">Cumhurbaşkanı Ahmet Necdet Sezer ,Başbakan Recep Tayyip Erdoğan ile Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül ,Suudi Arabistan Kralı Fahd'ın vefatı dolayısıyla Suudi Arabistan'a başsağlığı mesajı gönderdi .</sentence>
+<sentence num="2">Cumhurbaşkanı Sezer ,mesajında ,Kral Fahd'ın vefatıyla Suudi Arabistan Krallığı'nın ,ülkesine büyük hizmetler sunmuş bir devlet adamını yitirdiğini belirterek ,Suudi Arabistan halkının acısını yürekten paylaştığını ifade etti .</sentence>
+<sentence num="3">Başbakan Erdoğan ,Kral Fahd'ın engin devlet tecrübesi ve dirayetli liderliği sayesinde Suudi Arabistan Krallığı'nın kalkınma ve refahına büyük katkılarda bulunduğunu ,önemli açılımlara önderlik ettiğini belirtti .</sentence>
+<sentence num="4">Erdoğan ,Fahd'ın vefatıyla Türkiye Cumhuriyeti'nin de gerçek bir dostunu kaybettiği kaydetti .</sentence>
+<sentence num="5">Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül de ,Suudi Arabistan Dışişleri Bakanı Suud El Faysal'a gönderdiği mesajda ,Kral Fahd'ın vefatının Suudi Arabistan halkı ve dünya için büyük kayıp olduğunu belirtti .</sentence>
+<sentence num="6">Kral Fahd'ın bölgesel ve uluslararası konularda da öncü rol üstlendiğini kaydeden Gül ,Türkiye'nin ,iki ülke arasında bölgede ve dünyada barış ,istikrar ve gelişmenin sürdürülmesine yönelik işbirliğinin ileriye götürülmesine ilişkin kararlığını da dile getirdi .</sentence>
+<sentence num="7">Suudi Arabistan Kralı Fahd ,tedavi gördüğü hastanede bu sabah hayatını kaybetmiş ,krallığın başına Veliaht Prens Abdullah'ın geçtiği açıklanmıştı .</sentence>
+<sentence num="8">AA .</sentence>
+</doc>
+<doc>
+<id>125884</id>
+<sentence num="0">2005 08 01 19 :25 :00 .Kral Fahd'ın ölümü nedeniyle Ankara'da bayraklar yarıya inecek .</sentence>
+<sentence num="1">Kral Fahd'ın ölümü nedeniyle Ankara'da bayraklar yarıya inecek Suudi Arabistan Kralı Fahd'ın ölümü dolayısıyla yarın Türkiye'de bayraklar yarıya indirilecek .</sentence>
+<sentence num="2">Başbakanlık'tan yapılan yazılı açıklamayla duyurulan ''hükümet bildirisi ''nde ,Suudi Arabistan Kralı Fahd'ın vefatından duyulan üzüntünün bir ifadesi olarak ,cenaze töreninin yapılacağı 2 Ağustos 2005 Salı günü ,tüm illerde devlet daireleri ve kurumların bayraklarının güneşin batışına kadar yarıya indirileceği ifade edildi .</sentence>
+<sentence num="3">Bu arada ,Kral Fahd'ın cenaze törenine hükümeti temsilen Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül katılacak .</sentence>
+</doc>
+<doc>
+<id>125891</id>
+<sentence num="0">2005 08 01 19 :46 :00 .Fahd için bayraklar yarıya inecek .</sentence>
+<sentence num="1">Başbakanlık'tan yapılan yazılı açıklamayla duyurulan ''hükümet bildirisi ''nde ,Suudi Arabistan Kralı Fahd'ın vefatından duyulan üzüntünün bir ifadesi olarak ,cenaze töreninin yapılacağı 2 Ağustos 2005 Salı günü ,tüm illerde devlet daireleri ve kurumların bayraklarının güneşin batışına kadar yarıya indirileceği ifade edildi .</sentence>
+<sentence num="2">Bu arada ,Kral Fahd'ın cenaze törenine hükümeti temsilen Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül katılacak AA .</sentence>
+</doc>
+<doc>
+<id>125910</id>
+<sentence num="0">2005 08 01 20 :44 :00 .Kral Fahd İçin Başsağlığı Mesajı .</sentence>
+<sentence num="1">Cumhurbaşkanı Ahmet Necdet Sezer ,Suudi Arabistan Kralı Fahd'ın vefatı dolayısıyla Veliaht Prens Abdullah'a başsağlığı mesajı gönderdi .</sentence>
+<sentence num="2">Cumhurbaşkanı Sezer mesajında ,Suudi Arabistan Kralı Fahd'ın vefatıyla ,ülkesine büyük hizmetler sunmuş bir devlet adamının yitirildiğini belirtti .</sentence>
+<sentence num="3">Sezer ,Türkiye'nin ,iki ülke arasındaki yakın dostluk bağlarını her düzeyde daha geliştirip ileri götürmedeki kararlılığını da vurguladı .</sentence>
+<sentence num="4">TBMM Başkanı Bülent Arınç da yaptığı açıklamada ,Kral Fahd ,derin tecrübesi ile ülkesinin kalkınmasına önderlik etmiş unutulmayacak bir devlet adamı olarak her zaman hafızalardaki yerini koruyacaktır .</sentence>
+<sentence num="5">dedi .</sentence>
+<sentence num="6">Başbakan Recep Tayyip Erdoğan da ,Suudi Arabistan Veliaht Prensi Abdullah'a gönderdiği başsağlığı mesajında ,Kral Fahd'ın vefatıyla Türkiye'nin de gerçek bir dostunu kaybettiğini dile getirdi .</sentence>
+<sentence num="7">Dışişleri Bakanı Abdullah Gül de ,Suudi Arabistan Dışişleri Bakanı Suud el Faysal'a gönderdiği mesajda ,Kral Fahd'ın vefatının Suudi Arabistan halkı ve dünya için büyük kayıp olduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>125931</id>
+<sentence num="0">2005 08 01 22 :15 :00 .Dünya Fahd için mesaj yarışında .</sentence>
+<sentence num="1">BM Genel Sekreteri Annan'ın sözcüsü tarafından yayımlanan açıklamada ,Annan'ın Kral Fahd'ın ölümünden ''derin üzüntü ''duyduğu belirtildi .</sentence>
+<sentence num="2">Açıklamada ,Kral Fahd yönetiminde Suudi Arabistan'ın birçok alanda belirgin ilerleme kaydettiği ,25 yıla yakın bir süreyle Suudi Arabistan'da ekonomik ,sosyal ve siyasi gelişmenin ,Kral Fahd adıyla anıldığı kaydedildi .</sentence>
+<sentence num="3">İTALYA İtalya da ,Kral Fahd'ın ölümü nedeniyle bugün Suudi Arabistan'a taziye mesajı gönderdi .</sentence>
+<sentence num="4">Dışişleri Bakanlığı'ndan yapılan yazılı açıklamaya göre ,mesaj ,İtalya Dışişleri Bakanı ve Başbakan Yardımcısı Gianfranco Fini tarafından kaleme alındı .</sentence>
+<sentence num="5">Fini ,mesajında ,''İtalyan hükümeti ve şahsım adına ,tüm Suudi Arabistanlılara ve kraliyet ailesine en derin taziye dileklerimi sunuyorum ''dedi .</sentence>
+<sentence num="6">Kral Fahd'ın bölgedeki barış ve istikrara önemli katkıları olduğuna ,Suudi Arabistan ile İtalya arasındaki ikili ilişkilerin önemine de değinen Fini ,''Suudi Arabistan'ın bölgedeki barış ve istikrarın yanı sıra uluslararası terörizmle mücadele konusunda önümüzdeki dönemde de katkı sağlayacağına inanıyorum ''ifadelerine yer verdi .</sentence>
+<sentence num="7">İSPANYA İspanya ,Suudi Arabistan Kralı Fahd'ın ölümünden dolayı yarın için resmi yas ilan ettiğini açıkladı .</sentence>
+<sentence num="8">Başbakan Jose Luis Rodriguez Zapatero tarafından imzalanan kararnameyle ,Kral Fahd'ın ölümü nedeniyle yarın İspanya'da resmi yas ilan edileceği ,resmi kurumlarda bayrakların yarıya indirileceği bildirildi .</sentence>
+<sentence num="9">İspanya Kralı Juan Carlos da ,yakın dostluğu bulunan Kral Fahd'ın ölüm haberinin ardından 24 .Yelken Yarışları'nın birinci gününe katılma programını iptal etti .</sentence>
+<sentence num="10">Ölüm haberinin ardından Suudi ve Arap yetkililerle telefon görüşmesinde bulunduğu belirtilen Kral Carlos ,yaptığı açıklamada ,tüm Suudi halkına başsağlığı diledi .</sentence>
+<sentence num="11">AA .</sentence>
+</doc>
+<doc>
+<id>125938</id>
+<sentence num="0">2005 08 01 22 :41 :00 .Petrol Fiyatları Artıyor .</sentence>
+<sentence num="1">Dünyanın en büyük petrol ihracatçısı Suudi Arabistan'ın Kralı Fahd'ın ölümü ,uluslararası piyasaları da etkiledi .</sentence>
+<sentence num="2">Ham petrolün varil fiyatı ,Londra Borsası'nda rekor artışla 62 ,30 dolardan işlem gördü .</sentence>
+<sentence num="3">Uzmanlar ,bu yükselişte ,Kral Fahd'ın ölümü kadar ,İran'ın ,nükleer faaliyetlerine yeniden başlayacağını açıklamasının da etkili olduğu yorumunu yapıyor .</sentence>
+<sentence num="4">Petrol fiyatları 6 Temmuz'da 61 ,35 dolarla en yüksek seviyeye çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>126015</id>
+<sentence num="0">2005 08 02 07 :51 :00 .Kral Fahd'ın inanılmaz serveti .</sentence>
+<sentence num="1">23 yıldır Suudi Arabistan'ı yöneten dünyanın en zengin adamı Kral Fahd ,84 yaşında hayata veda etti ...</sentence>
+<sentence num="2">Dünya şimdi onun ölümünden çok bıraktığı 32 milyar dolarlık serveti konuşuyor .</sentence>
+<sentence num="3">Yeni Kral 81 yaşındaki Prens Abdullah oldu ...</sentence>
+<sentence num="4">DÜNYA petrollerinin yüzde 25'ini kontrol eden Suudi Kralı Fahd tedavi gördüğü Kral Faysal Hastanesi'nde dün yaşamını yitirdi .</sentence>
+<sentence num="5">Tahta 1982 yılında çıkan Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="6">10 yıldır tekerlekli sandalyeye mahkumdu .</sentence>
+<sentence num="7">Kral Fahd'ın rahatsızlığından bu yana Suudi Arabistan'ın fiili hükümdarlığını Veliaht Prens Abdullah yürütüyordu .</sentence>
+<sentence num="8">Yeni Kral Abdullah da 81 yaşında İNANILMAZ SERVET SUUDİ Arabistan Kralı Fahd ölümüyle 3 eş ve 8 çocuğuna 32 miyar dolarlık muazzam servet kaldı .</sentence>
+<sentence num="9">Kral ,7 saray ,Fransa'da bir şato ,İspanya'da muhteşem bir malikhane ,aralarında Boeing 747'lerin de bulunduğu dev bir filo ,onlarca süper lüks yat ve sayısı bilinmeyen yüzlerce otomobil bıraktı .</sentence>
+<sentence num="10">GÖRKEMLİ YAŞAM 13 Haziran 1982'de tahta çıktı .</sentence>
+<sentence num="11">Dünyadaki petrol rezervlerinin yüzde 25'ini kontrol ediyordu .</sentence>
+<sentence num="12">Kişisel serveti 32 milyar dolar .</sentence>
+<sentence num="13">3 karısı ,8 çocuğu var ...</sentence>
+<sentence num="14">Sudi Arabistan'da 7 sarayı ,Fransız rivearasında bir şatosu ,İspanya'da Beyaz Saray'ın kopyası bir sarayı ,Boeing 747 uçağı ,8 küçük jeti ve dünyanın en pahalı 2 yatı vardı .</sentence>
+<sentence num="15">1995'de felç geçiren Kral ,uzun süredir halk içine çıkmıyordu .</sentence>
+<sentence num="16">1999'da İspanya'daki yazlığına gittiğinde yanında 1000 memuru ,350 akrabası ,12 doktoru ,25 bahçıvanı ve 200 tonluk bagajı vardı .</sentence>
+<sentence num="17">Kral'ın İspanya'daki günlük harcaması 850 milyar liraydı .</sentence>
+<sentence num="18">2002 yılında katarakt ameliyatı için İsviçre'nin Cenevre kentine gitti .</sentence>
+<sentence num="19">Havalanında 300 Mercedes tarafından karşılandı .</sentence>
+<sentence num="20">Yanında 3 karısı ,8 bakanı ve yüzlerce koruması ,hizmetçisi vardı .</sentence>
+<sentence num="21">Kentteki 5 yıldızlı otellerin hepsini kapattı .</sentence>
+<sentence num="22">Hastanede kalmak istemeyen Kral Fahd günlerini ,Cenevre Gölü kıyısındaki 135 milyon Euro değerinde ;14 bungalov ,bir atom sığınağı ,bir ameliyathane ,90 otomobillik bir otoparkı olan villasında geçirdi .</sentence>
+<sentence num="23">Günlük masrafı ise 5 .5 trilyon lirayı buluyordu .</sentence>
+<sentence num="24">Yaptığı eğitim reformuyla kızların eğitim görmesinin önünü açtı .</sentence>
+<sentence num="25">Amerika ile ilişkileri geliştirdi .</sentence>
+<sentence num="26">1990'da Irak'ın Kuveyt'i işgali sonrası Amerika'dan yardım istedi ...</sentence>
+<sentence num="27">11 Eylül saldırılarını yapan teröristler Sudi çıkınca Fahd ,'Radikalleri demir yumrukla ezeceğiz 'dedi .</sentence>
+<sentence num="28">STAR .</sentence>
+</doc>
+<doc>
+<id>126026</id>
+<sentence num="0">2005 08 02 08 :30 :00 .Suudi Kral Fahd'ın cenaze töreni bugün .</sentence>
+<sentence num="1">Suudi Kral Fahd'ın cenaze töreni bugün Suudi Arabistan'da dün hayatını kaybeden Kral Fahd için ,bugün dünyanın önde gelen liderlerinin ve temsilcilerin katıldığı bir cenaze töreni düzenlenecek .?</sentence>
+<sentence num="2">Fahd öldü ,yeni kral Abdullah Türkiye'yi Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül'ün temsil edeceği törene ,Ürdün Kralı Abdullah ,İngiltere Veliaht Prensi Charles ,Cezayir Devlet Başkanı Abdülaziz Buteflika ,Çek Cumhurbaşkanı Vaclav Klaus ,Mısır Cumhurbaşkanı Hüsnü Mübarek ,Lübnan Cumhurbaşkanı Emil Lahud ,Pakistan Devlet Başkanı Pervez Müşerref ,Suriye Devlet Başkanı Beşşar Esad gibi çeşitli ülkelerin liderleri katılacak .</sentence>
+<sentence num="3">ABD de cenaze törenine katılmak üzere bir heyet gönderecek .</sentence>
+</doc>
+<doc>
+<id>126028</id>
+<sentence num="0">2005 08 02 08 :38 :00 .Petrolde yeni rekor .</sentence>
+<sentence num="1">Petrol fiyatları tekrar yükselişe geçti Dünyanın en büyük petrol ihracatçısı Suudi Arabistan'ın kralı Fahd'ın ölümü ,Ortadoğu'daki jeopolitik kaygıların ve ABD'de rafinerilerde yaşanan sorunların devam etmesi petrol fiyatlarını tekrar yukarıya taşıdı .</sentence>
+<sentence num="2">ABD ham petrolünün varil fiyatı dün varil başına 62 .</sentence>
+<sentence num="3">30 sente kadar yükselerek rekor kırarken ,bugün Uzakdoğu borsalarında 61 .48 seviyesinden işlem görüyor .</sentence>
+<sentence num="4">Brent ham petrolün varil fiyatı ise dün 60 .79 dolar ile tüm zamanların yeni en yüksek düzeyini gördü .</sentence>
+<sentence num="5">Ham petrol fiyatları dünkü yükselişin ardından bugün yatay seyrediyor .</sentence>
+<sentence num="6">Uzmanlar ,ABD hafif ham petrolünde 62 dolardaki direncin kırılmasının yeni bir yükselişi tetikleyebileceğine dikkat çekerken ,60 doların da destek olduğunu ifade ediyorlar .</sentence>
+<sentence num="7">Gözler Ortadoğu'da Toplamda dünyadaki ham petrol üretiminin yüzde 16'sını karşılan Suudi Arabistan ve İran'da dün yaşanan gelişmeler ,gözleri yeniden Ortadoğu'nun istikrarına çevirdi .</sentence>
+<sentence num="8">İran ,nükleer programıyla ilgili çalışmaları yeniden başlatacağını açıklarken ,Suudi Arabistan Kralı Fahd'ın hayatını kaybetmesi bu ülkedeki liderliğe dair kaygılar yarattı .</sentence>
+<sentence num="9">Kralın ölümü 'bahane 'Sağlık durumu bozuk olan Kral Fahd'ın yerine ülke yönetimini fiilen 1995 yılından beri elinde tutan ve Fahd'ın ölümüyle krallığa getirilen Veliaht Prens Abdullah'ın Suudi Arabistan'ın petrol politikasını değiştirmeyeceği bilinmesine rağmen gerçekleşen bu yükseliş ,piyasanın başka nedenlerle zaten hassas olmasından kaynaklanıyor .</sentence>
+<sentence num="10">Bazı sektör gözlemcileri ,ABD'deki petrol rafinerilerinin kapasite yetersizlikleri ve Ortadoğu'daki siyasi gerilimler yüzünden tedirgin olan piyasaların ,Fahd'ın ölümünü ,fiyatları yükseltmek için bahane olarak kullandığını belirtiyorlar .</sentence>
+</doc>
+<doc>
+<id>126114</id>
+<sentence num="0">2005 08 02 10 :37 :00 .Fahd Bugün Toprağa Verilecek .</sentence>
+<sentence num="1">Suudi Arabistan'da dün (01 .08 .2005 )hayatını kaybeden Kral Fahd için ,bugün dünyanın önde gelen liderlerinin ve temsilcilerin katılacağı bir cenaze töreni düzenlenecek .</sentence>
+<sentence num="2">Türkiye'yi Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül'ün temsil edeceği törene ,Ürdün Kralı Abdullah ,İngiltere Veliaht Prensi Charles ,Cezayir cumhurbaşkanı Abdülaziz Buteflika ,Çek Cumhurbaşkanı Vaclav Klaus ,Mısır Cumhurbaşkanı Hüsnü Mübarek ,Lübnan Cumhurbaşkanı Emil Lahud ,Pakistan cumhurbaşkanı Pervez Müşerref ,Suriye cumhurbaşkanı Beşşar Esad gibi çeşitli ülkelerin liderleri katılacak .</sentence>
+<sentence num="3">Amerika Birleşik Devletleri de cenaze törenine katılmak üzere bir heyet gönderecek .</sentence>
+<sentence num="4">Riyad'da öğleden sonra saat 15 .30'da kılınacak cenaze namazının ardından Kral Fahd'ın naaşı ,Riyad mezarlığında ,daha önceki kralların yanındaki bir mezara gömülecek .</sentence>
+<sentence num="5">Bu arada Suudi Arabistan Kralı Fahd'ın vefatı dolayısıyla Türkiye'de bugün kamu kuruluşlarında bayraklar yarıya indirildi .</sentence>
+</doc>
+<doc>
+<id>126404</id>
+<sentence num="0">2005 08 02 16 :24 :00 .Kral Fahd toprağa verildi .</sentence>
+<sentence num="1">Kral Fahd toprağa verildi Suudi Arabistan eski Kralı Fahd ,bugün düzenlenen törenden sonra toprağı verildi .</sentence>
+<sentence num="2">Fahd'ın çöldeki bir mezarlıkta herhangi bir işaret taşımayan bir mezara gömüldüğü bildirildi .</sentence>
+</doc>
+<doc>
+<id>126408</id>
+<sentence num="0">2005 08 02 16 :30 :00 .Kral Fahd ,herhangi bir işaret taşımayan mezarda toprağa verildi .</sentence>
+<sentence num="1">Suudi Arabistan'ın dün olan Kralı Fahd ,bugün düzenlenen törenden sonra toprağa verildi .</sentence>
+<sentence num="2">Suudi Arabistan'ın başkenti Riyad'da düzenlenen törende ,Kral Fahd'ın naaşı ,İmam Türki Bin Abdullah Camisi'nde kılınan cenaze namazının ardından mezarlığa götürüldü .</sentence>
+<sentence num="3">Kral Fahd da ,eski Suudi Arabistan kralları gibi ,herhangi bir işaret taşımayan bir mezara gömüldü .</sentence>
+<sentence num="4">Cenaze töreni 84 yaşındaki Kral Fahd'ın dün hayatını kaybettiği Kral Faysal Özel Hastanesi'nde başladı .</sentence>
+<sentence num="5">Cenaze namazında ,yeni Kral Abdullah Bin Abdülaziz ile çok sayıda Suudi ve Arap devlet adamı hazır bulundu .</sentence>
+<sentence num="6">Naaşın defnedilmesinden sonra Kral Abdullah ,bazı yabancı ve Suudi liderlerin taziyelerini kabul etti .</sentence>
+<sentence num="7">Kral Fahd'ın yoğun güvenlik önlemlerinin alındığı cenaze törenine binlerce kişi katıldı .</sentence>
+<sentence num="8">Türkiye'yi Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül'ün temsil ettiği tören için Riyad'a gelen yabancı liderler arasında Filistin Devlet Başkanı Mahmud Abbas ,Mısır Cumhurbaşkanı Hüsnü Mübarek ,Cezayir Devlet Başkanı Abdülaziz Buteflika ,Ürdün Kralı Abdullah ,Yemen Devlet Başkanı Ali Abdullah Salih ,Suriye Devlet Başkanı Beşşar Essad ,Tunus Devlet Başkanı Zeynel Abidin Bin Ali ,Lübnan Devlet Başkanı Emil Lahud ,Arap Birliği Genel Sekreteri Amr Musa ,Birleşik Arap Emirlikleri Devlet Başkanı Şeyh Halife Bin Zeyd El Nahayan ,İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif ,Irak Devlet Başkanı Celal Talabani ,Irak Başbakanı İbrahim Caferi ,Fas Prensi Raşid ve Umman Sultanı Kabus bulunuyor .</sentence>
+<sentence num="9">Bugünkü cenaze törenine gayrimüslimlerin alınmadığı ,yarın aralarında İngiltere Prensi Charles ve Fransa Cumhurbaşkanı Jacques Chirac'ın da bulunduğu Batılı devlet adamlarının Suudi Arabistan'ın yeni Kralı Abdullah'a taziyelerini sunacağı bildirildi .</sentence>
+<sentence num="10">CHENEY ,TAZİYELERİNİ SUNMAK ÜZERE RİYAD'A GİDİYOR Kral Fahd'ın ölümü üzerine bu ülkeye giderek taziyelerini sunacak ABD delegasyonuna ,Başkan Yardımcısı Dick Cheney'in başkanlık edeceği bildirildi .</sentence>
+<sentence num="11">Beyaz Saray sözcüsü Scott McClellan ,Cheney başkanlığındaki delegasyonun Riyad'a giderek başsağlığı dileğinde bulunacağını söyledi .</sentence>
+</doc>
+<doc>
+<id>126428</id>
+<sentence num="0">2005 08 02 16 :57 :00 .Kral Fahd bugün toprağa verildi .</sentence>
+<sentence num="1">Fahd ,basit ve belirsiz bir mezara gömülecek İlgili Galeri Foto Galeri için tıklayınız Suudi Arabistan'da dün hayatını kaybeden Kral Fahd için ,bugün dünyanın önde gelen liderlerinin ve temsilcilerin katıldığı bir cenaze töreni düzenlendi .</sentence>
+<sentence num="2">Türkiye'yi Dışişleri Bakanı Abdullah Gül'ün temsil ettiği törene ,Ürdün Kralı Abdullah ,İngiltere Veliaht Prensi Charles ,Cezayir Devlet Başkanı Abdülaziz Buteflika ,Çek Cumhurbaşkanı Vaclav Klaus ,Mısır Cumhurbaşkanı Hüsnü Mübarek ,Lübnan Cumhurbaşkanı Emil Lahud ,Pakistan Devlet Başkanı Pervez Müşerref ,Suriye Devlet Başkanı Beşşar Esad gibi çeşitli ülkelerin liderleri katıldı .</sentence>
+<sentence num="3">Kral Fahd için ,Vahabi inancı gereği ,sade bir tören yapıldı .</sentence>
+<sentence num="4">Yeni Kral Abdullah'ın önderliğinde yapılan cenaze töreninde Riyad'daki camide cenaze namazı kılındı .</sentence>
+<sentence num="5">Kral Abdullah camide ve ve cami dışında taziyeleri kabul etti .</sentence>
+<sentence num="6">Geride 32 milyar dolarlık bir servet bırakan Fahd'ın naaşı ,çölde işaret taşımayan bir mezara gömüldü .</sentence>
+<sentence num="7">ABD de törene bir heyet gönderdi .</sentence>
+<sentence num="8">Fahd'ın ölümünün ardından kral olduğu açıklanan eski Veliaht Prens Abdullah için resmi kraliyet töreni ise yarın yapılacak .</sentence>
+<sentence num="9">Suudi Arabistan Kralı Fahd dün ,tedavi gördüğü Kral Faisal hastanesinde öldü .</sentence>
+<sentence num="10">Suudi devlet televizyonu Kral Fahd'ın öldüğünü ve yeni kralın Veliaht Prens Abdullah olduğunu duyurmuştu .</sentence>
+<sentence num="11">Arap ülkeleri yas ilan etti Suudi Arabistan Kralı Fahd'ın ölümü nedeniyle ülkede resmi bir yas süresi olmayacağı belirtilirken ,birçok Arap ülkesinde yas ilan edildi .</sentence>
+<sentence num="12">Bir Suudi yetkili ,Vahabi geleneğine paralel olarak ülkede resmi bir yas süresi olmayacağını söyledi .</sentence>
+<sentence num="13">Suudi bayrağında 'Kelime i Şehadet 'yazdığı için bayraklar da yarıya indirilmiyor .</sentence>
+<sentence num="14">Suudiler krallarının ölümüne gelenekleri ve inançları gereği sessiz bir yasla tepki verirken ,camilerden ,radyo ve televizyonlardan sürekli Kuran okunuyor .</sentence>
+<sentence num="15">Ürdün'de 40 günlük yas ilan edilirken ,Filistin ,Mısır ,Suriye ,Lübnan ve Arap Birliği'nde ise üç günlük yas ilan edildi .</sentence>
+<sentence num="16">ABD'nin Riyad Büyükelçiliği ile Cidde ve Dahran'daki konsolosluklar da üç gün kapalı kalacak .</sentence>
+</doc>
+<doc>
+<id>126445</id>
+<sentence num="0">2005 08 02 17 :22 :00 .Kral Fahd işaretsiz mezara gömüldü .</sentence>
+<sentence num="1">Suudi Arabistan'ın başkenti Riyad'da düzenlenen törende ,Kral Fahd'ın naaşı ,İmam Türki Bin Abdullah Camisi'nde kılınan cenaze namazının ardından mezarlığa götürüldü .</sentence>
+<sentence num="2">Cenaze töreni 84 yaşındaki Kral Fahd'ın dün hayatını kaybettiği Kral Faysal Özel Hastanesi'nde başladı .</sentence>
+<sentence num="3">Cenaze namazında ,yeni Kral Abdullah Bin Abdülaziz ile çok sayıda Suudi ve Arap devlet adamı hazır bulundu .</sentence>
+<sentence num="4">Naaşın defnedilmesinden sonra Kral Abdullah ,bazı yabancı ve Suudi liderlerin taziyelerini kabul etti .</sentence>
+<sentence num="5">Kral Fahd'ın yoğun güvenlik önlemlerinin alındığı cenaze törenine binlerce kişi katıldı .</sentence>
+<sentence num="6">Türkiye'yi Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül'ün temsil ettiği tören için Riyad'a gelen yabancı liderler arasında Filistin Devlet Başkanı Mahmud Abbas ,Mısır Cumhurbaşkanı Hüsnü Mübarek ,Cezayir Devlet Başkanı Abdülaziz Buteflika ,Ürdün Kralı Abdullah ,Yemen Devlet Başkanı Ali Abdullah Salih ,Suriye Devlet Başkanı Beşşar Essad ,Tunus Devlet Başkanı Zeynel Abidin Bin Ali ,Lübnan Devlet Başkanı Emil Lahud ,Arap Birliği Genel Sekreteri Amr Musa ,Birleşik Arap Emirlikleri Devlet Başkanı Şeyh Halife Bin Zeyd El Nahayan ,İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif ,Irak Devlet Başkanı Celal Talabani ,Irak Başbakanı İbrahim Caferi ,Fas Prensi Raşid ve Umman Sultanı Kabus bulunuyor .</sentence>
+<sentence num="7">Bugünkü cenaze törenine gayrimüslimlerin alınmadığı ,yarın aralarında İngiltere Prensi Charles ve Fransa Cumhurbaşkanı Jacques Chirac'ın da bulunduğu Batılı devlet adamlarının Suudi Arabistan'ın yeni Kralı Abdullah'a taziyelerini sunacağı bildirildi .</sentence>
+<sentence num="8">CHENEY ,TAZİYELERİNİ SUNMAK ÜZERE RİYAD'A GİDİYOR Kral Fahd'ın ölümü üzerine bu ülkeye giderek taziyelerini sunacak ABD delegasyonuna ,Başkan Yardımcısı Dick Cheney'in başkanlık edeceği bildirildi .</sentence>
+<sentence num="9">Beyaz Saray sözcüsü Scott McClellan ,Cheney başkanlığındaki delegasyonun Riyad'a giderek başsağlığı dileğinde bulunacağını söyledi .</sentence>
+<sentence num="10">aa .</sentence>
+</doc>
+<doc>
+<id>126587</id>
+<sentence num="0">2005 08 03 00 :17 :00 .Suudi Arabistan'da Abdullah Dönemi .</sentence>
+<sentence num="1">Suudi Arabistan Kralı Fahd ,başkent Riyad'da ,dünyanın önde gelen lider ve temsilcilerinin katıldığı bir cenaze töreniyle toprağa verildi .</sentence>
+<sentence num="2">Türkiye'yi Dışişleri Bakanı Abdullah Gül'ün temsil ettiği törene ,müslüman ülkelerden temsilcilerin yanı sıra ,İngiltere Veliaht Prensi Charles ,Fransa Cumhurbaşkanı Jacques Chirac gibi hıristiyan dünyasından da liderler katıldı .</sentence>
+<sentence num="3">Binlerce Suudi Arabistanlı'nın yer aldığı cenaze töreninde ,Amerika Birleşik Devletleri'nden de bir heyet hazır bulundu .</sentence>
+<sentence num="4">Fahd ,daha önceki krallar gibi ,çöldeki bir mezarlıkta herhangi bir işaret taşımayan bir mezara gömüldü .</sentence>
+<sentence num="5">Tahta 1982 yılında çıkan Kral Fahd ,1995 yılında felç geçirmişti .</sentence>
+<sentence num="6">Suudi Arabistan'ın fiili hükümdarlığını o tarihten bu yana yürüten Veliaht Prens Abdullah ise ,tahtı bugün (03 .08 .2005 )resmen devralacak .</sentence>
+</doc>
+<doc>
+<id>126748</id>
+<sentence num="0">2005 08 03 11 :20 :00 .Kral Fahd'ın ölümüne en az Araplar kadar İspanyollar da üzüldü .</sentence>
+<sentence num="1">Bir zamanlar Monte Carlo'daki kumar masalarında bir oyunda 9 .5 trilyon bırakan ,gittiği yere bereket götüren Kral Fahd ,çok sade bir törenle çöldeki taşsız bir mezarlığa gömüldü .</sentence>
+<sentence num="2">32 milyar dolarlık servetiyle Forbes'in En Zengin Krallar listesinde bir numada olan Suudi Arabistan Kralı Fahd'ın cenazesi ,ihtişamlı yaşamına rağmen Vehhabi mezhebi geleneklerine göre sade bir toprağa verildi .</sentence>
+<sentence num="3">Kral Fahd'ın ölümü en çok ,20 yıldır yaz tatili için tercih ettiği ve günde 3 milyon euro harcadığı İspanya'nın Marbella Kasabası'nı üzdü .</sentence>
+<sentence num="4">Kasabada 3 günlük yas ilan edildi ,bayraklar yarıya indirildi .</sentence>
+<sentence num="5">Kral Fahd ,20 yıldır tatilini Marbella'da 250 bin metrekare alan üzerine inşa ettirdiği Mar Mar Sarayı'nda geçiriyordu .</sentence>
+<sentence num="6">Beyaz Saray örnek alınarak yapılan 100 odalı sarayda ,kralın ailesiyle birlikte geldiği ağustos ayında yaklaşık 800 kişi iş imkanı buluyordu .</sentence>
+<sentence num="7">Fahd'ın sarayında çalışan şoförlere 5 bin dolar ,temizlikçilere ise 3 bin dolar maaş veriliyordu .</sentence>
+<sentence num="8">İspanya'da kaldığı sürede günde 3 milyon euro harcayan Suudi Kralı ,Marbella'ya 14 Ağustos 2002'deki son gelişinde 4 uçak ,600 Mercedes otomobil ,50 limuzin ,lüks otellerde 300 süit oda ve aylığı 180 bin euroluk villalar kiralamıştı .</sentence>
+<sentence num="9">Bu tatili süresince 90 milyon euro harcayan Fahd ,saat ve mücevher başta olmak üzere yaptığı alışverişlerle kenti adeta ihya etmişti .</sentence>
+<sentence num="10">Fahd'ın satın aldığı bu kadar saat ve kıymetli mücevheri yanında çalışanlara hediye etmesi de akıllara durgunluk veren bir başka ayrıntıydı .</sentence>
+<sentence num="11">Marbella'nın Belediye Başkanı Marisol Yague ,Kral'ın ardından ,Onu burada ağırlamak bizim için şanstı derken ,İspanyol basını Marbella halkı için Kral Fahd'ın ölümünü kentin ekonomik oksijen tüpünün patlaması anlamına geldiğini yazdı .</sentence>
+</doc>
+<doc>
+<id>126896</id>
+<sentence num="0">2005 08 03 14 :24 :00 .Petrolde yeni zirve .</sentence>
+<sentence num="1">Petroldeki yükseliş bir gün aradan sonra devam ediyor ABD'deki petrol stoklarının düşeceği beklentisi ve rafinerilerde yaşanan sıkıntılar petrol fiyatlarını yeni rekor seviyelere taşıdı .</sentence>
+<sentence num="2">Londra piyasasında 61 .09 dolara ulaşan Brent petrolünün varil fiyatı ilk kez 61 doları aşarak tarihi rekorunu kırdı .</sentence>
+<sentence num="3">Amerikan hafif petrolünün varil fiyatı da düne göre 42 sent artıp 62 .31 dolarla yeni zirvesine ulaştı .</sentence>
+<sentence num="4">Brent petrolünün pazartesi günü ulaştığı son rekoru 60 .98 dolardı .</sentence>
+<sentence num="5">Amerikan hafif petrolü ise daha önce en yüksek 62 .</sentence>
+<sentence num="6">30 seviyesini görmüştü .</sentence>
+<sentence num="7">Neden yükseliyor ?</sentence>
+<sentence num="8">ABD'deki petrol stoklarının düşeceği öngörüleri ve rafinerilerdeki üretim sıkıntısının yanı sıra Meksika Körfezi'ndeki fırtına beklentisi ve bunun üretimi etkileyecek olması da petrol fiyatlarındaki yükselişi destekliyor .</sentence>
+<sentence num="9">Uzmanlar ,Suudi Arabistan Kralı Fahd'ın ölümünün ardından dünyanın en büyük petrol üreticisi olan Suudi arabistan'la ilgili uzun dönemli istikrar endişelerinin de yatırımcıları petrol yatırımlarına yönelttiğini belirtiyorlar .</sentence>
+<sentence num="10">Yaklaşık iki yıldır artışta olan petrol fiyatlarının yükselişindeki ana neden olarak da üretimin talebi karşılayamayacağı beklentileri gösteriliyor .</sentence>
+<sentence num="11">Özellikle Çin ve Hindistan'ın talebindeki artış ve bu ekonomilerin hız kesmeden büyümeye devam etmesi arz talep dengesi ile ilgili korkuları artırıyor .</sentence>
+<sentence num="12">Stoklarda düşüş bekleniyor ABD'de yükselen petrol fiyatları ile birlikte hisse senedi piyasanın açılışında da düşüş yaşanması bekleniyor .</sentence>
+<sentence num="13">Piyasalarda ABD Enerji Departmanı'nın bugün açıklayacağı stok rakamları beklenirken ,piyasadaki ağırlıklı görüş stoklarda düşüş olacağı yönünde .</sentence>
+<sentence num="14">Dört haftadır aralıksız düşen stokların bu hafta da 1 .6 milyon varil azalması bekleniyor .</sentence>
+<sentence num="15">Reel bazda rekor yok Amerikan hafif petrolünün bugün nominal fiyatlarla yeni bir rekor kırmasına karşın ,reel rakamlarla bakıldığında ,yine yüksek olmakla birlikte rekor oluşturmuyor .</sentence>
+<sentence num="16">Enflasyondan arındırılmış fiyatlara göre petrolün değeri ,1973 1974'deki Arap ambargosunda çıktığı seviyeyi aştı ,1979 İran Devrimi'nde ulaştığı seviyenin ise altında kaldı .</sentence>
+<sentence num="17">Petrolün varilinin enflasyon dikkate alınarak hesaplanan reel fiyatlarının tarihsel gelişimi şöyle :1864 Pennsylvania'da ilk büyük çaplı üretimin başlaması ,97 .79 dolar 1876 Rus petrol ihracatının başlaması ,45 .58 dolar 1948 II .Dünya Savaşı sonrası ekonomik toparlanma ,15 .69 dolar 1974 Arap petrol ambargosu ,44 .55 dolar 1979 İran Devrimi ,78 .46 dolar 1980 Iran Devrimi ,82 .15 dolar 1990 Irak'ın Kuveyt'i işgali ,34 .44 dolar 1998 Asya Ekonomik krizi ,15 .</sentence>
+<sentence num="18">20 dolar Bugün ,62 .42 dolar .</sentence>
+</doc>
+<doc>
+<id>129210</id>
+<sentence num="0">2005 08 08 09 :55 :00 .Petrol fiyatları yeni haftaya rekorla girdi ...</sentence>
+<sentence num="1">ABD'deki rafinerilerde yaşanan üretim aksaklıkları yanında Ortadoğu'da siyasi belirsizliğin her geçen gün artması ,uluslararası borsalarda petrol fiyatlarını tekrar rekor seviyelere tırmandırdı .</sentence>
+<sentence num="2">Haftanın ilk işlem gününde New York Borsası'nda ABD hafif petrolünün varili ,bir ara 62 .69 dolar ile tarihinin en yüksek seviyesine ulaştı .</sentence>
+<sentence num="3">Daha sonra biraz gerileyen hafif petrolde son işlemler ,geçen haftaki kapanışın 24 sent üzeri olan 62 .55 dolardan gerçekleştiriliyor .</sentence>
+<sentence num="4">Londra Borsası'nda işlem gören Brent petrolünün varili ise ,geçen haftaki kapanışının 17 sent üzeri olan 61 .24 dolardan satılıyor .</sentence>
+<sentence num="5">ABD rafinerilerinde bir süredir çeşitli nedenlerle ortaya çıkan üretim kesintilerinin ,talebin güçlü olduğu yaz döneminde arz sıkıntısı yaşanmasından korkuluyor .</sentence>
+<sentence num="6">Üretimin gerilemesiyle ABD'de piyasalarca yakından takip edilen haftalık ticari petrol stokları da azalmaya başlamıştı .</sentence>
+<sentence num="7">Dünyanın en önemli petrol üretim bölgesi Ortadoğu'daki siyasi gelişmeler de piyasalarca yakından izleniyor .</sentence>
+<sentence num="8">Son olarak İngiltere ,Fransa ve Almanya'nın uranyum zenginleştirme faaliyetlerini durdurması karşılığında İran'a sunduğu ekonomik teşvik paketinin kabul edilmemesi ,tedirginlik yaratıyor .</sentence>
+<sentence num="9">OPEC'in ikinci büyük üreticisi İran'da yeni Cumhurbaşkanı Mahmud Ahmedinecad'ın petrol bakanı olarak sektörün içinden gelmeyen birini atayacağına yönelik çıkan haberler de piyasalarda hoş karşılanmadı .</sentence>
+<sentence num="10">Piyasalarda asıl endişe kaynağı ise dünyanın en büyük petrol ihracatçısı Suudi Arabistan'da Kral Fahd'ın ölümünün ardından yaşanabilecek istikrarsızlık .</sentence>
+<sentence num="11">Bu ülkede çok iyi korunan petrol tesislerine saldırılar olması halinde fiyatların çok hızlı yükseleceğine kesin gözüyle bakılıyor .</sentence>
+</doc>
+<doc>
+<id>129211</id>
+<sentence num="0">2005 08 08 09 :56 :00 .Petrol fiyatları rekor seviyede .</sentence>
+<sentence num="1">Haftanın ilk işlem gününde New York Borsası'nda ABD hafif petrolünün varili ,bir ara 62 .69 dolar ile tarihinin en yüksek seviyesine ulaştı .</sentence>
+<sentence num="2">Daha sonra biraz gerileyen hafif petrolde son işlemler ,geçen haftaki kapanışın 24 sent üzeri olan 62 .55 dolardan gerçekleştiriliyor .</sentence>
+<sentence num="3">Londra Borsası'nda işlem gören Brent petrolünün varili ise ,geçen haftaki kapanışının 17 sent üzeri olan 61 .24 dolardan satılıyor .</sentence>
+<sentence num="4">ABD rafinerilerinde bir süredir çeşitli nedenlerle ortaya çıkan üretim kesintilerinin ,talebin güçlü olduğu yaz döneminde arz sıkıntısı yaşanmasından korkuluyor .</sentence>
+<sentence num="5">Üretimin gerilemesiyle ABD'de piyasalarca yakından takip edilen haftalık ticari petrol stokları da azalmaya başlamıştı .</sentence>
+<sentence num="6">Dünyanın en önemli petrol üretim bölgesi Ortadoğu'daki siyasi gelişmeler de piyasalarca yakından izleniyor .</sentence>
+<sentence num="7">Son olarak İngiltere ,Fransa ve Almanya'nın uranyum zenginleştirme faaliyetlerini durdurması karşılığında İran'a sunduğu ekonomik teşvik paketinin kabul edilmemesi ,tedirginlik yaratıyor .</sentence>
+<sentence num="8">OPEC'in ikinci büyük üreticisi İran'da yeni Cumhurbaşkanı Mahmud Ahmedinecad'ın petrol bakanı olarak sektörün içinden gelmeyen birini atayacağına yönelik çıkan haberler de piyasalarda hoş karşılanmadı .</sentence>
+<sentence num="9">Piyasalarda asıl endişe kaynağı ise dünyanın en büyük petrol ihracatçısı Suudi Arabistan'da Kral Fahd'ın ölümünün ardından yaşanabilecek istikrarsızlık .</sentence>
+<sentence num="10">Bu ülkede çok iyi korunan petrol tesislerine saldırılar olması halinde fiyatların çok hızlı yükseleceğine kesin gözüyle bakılıyor .</sentence>
+<sentence num="11">aa .</sentence>
+</doc>
+<doc>
+<id>129268</id>
+<sentence num="0">2005 08 08 10 :52 :00 .Petrol fiyatları yeni zirvesinde .</sentence>
+<sentence num="1">Siyasi istikrarsızlıklar fiyatları artırıyor ABD'nin Suudi Arabistan'da bulunan konsolosluklarını ve büyükelçiliklerini iki gün süreyle kapatma kararı alması ,petrol fiyatlarını yeni bir rekora taşıdı .</sentence>
+<sentence num="2">Uzakdoğu'daki işlemlerde ABD hafif petrolünün varili ,62 .69 dolar ile tarihinin en yüksek seviyesine ulaşırken ,Brent petrol de 61 .24 dolar ile rekor kırdı .</sentence>
+<sentence num="3">Petrol fiyatlarında hız kesmeyen yükseliş yeni haftanın açılışına da damgasını vurdu .</sentence>
+<sentence num="4">Cuma günü 62 .31 dolar ile Nymex'de işlemlerin başladığı 1983 yılından bu yana en yüksek seviyesine ulaşan ABD hafif petrolünün varili ,bugüne de yükselişle başladı .</sentence>
+<sentence num="5">Yeni rekor 62 .69 dolar Uzakdoğu'daki elektronik işlemlerde 62 .69 dolara ulaşan ve rekor kıran fiyatlar şu sıralar cuma kapanışına göre 20 sent yukarıda ,62 .51 seviyesinde bulunuyor .</sentence>
+<sentence num="6">Petrol fiyatları bir yıl öncesi ile karşılaştırıldığında ise yaklaşık yüzde 40 oranında pahalı durumda bulunuyor .</sentence>
+<sentence num="7">NEDEN YÜKSELİYOR ?</sentence>
+<sentence num="8">Suudi Arabistan Kralı Fahd'ın ölümünün ardından siyasi istikrar endişeleri Ortadoğu'daki karışıklık Arz talep dengesine ilişkin tedirginlikler Ekonomilerdeki büyümenin sürmesi ve bunun talebi artırması ABD'deki rafinerilerde yaşanan üretim aksaklıkları Petrol piyasasındaki spekülatif hareketler ABD'nin Suudi Arabistan'daki elçiliklerini kapatması Fahd'ın ölümü tetikledi Suudi Arabistan Kralı Fahd'ın geçen hafta ölümüyle hareketlenen petrol fiyatları ,57 dolarlı seviyelerden 60 doların üzerine çıkmıştı .</sentence>
+<sentence num="9">Fahd'ın ardından yaşanabilecek olası bir karışıklığın tedirginliği ile petrole talep artarken ,bu ülkede çok iyi korunan petrol tesislerine saldırılar olması halinde fiyatların çok hızlı yükseleceğine kesin gözüyle bakılıyor .</sentence>
+<sentence num="10">Fahd'ın ölümünün ardından haftasonu Suudi Arabistan'daki ABD binalarına saldırı olabileceğine yönelik tehditler ve ABD'nin konsolosluklarını ve büyükelçiliğini iki gün süre ile kapatma kararı alması ,fiyatları yeni haftada yeni rekor seviyelere taşıdı .</sentence>
+<sentence num="11">Petrol fiyatlarının yükselişinde Suudi Arabistan etkisinin yanında ABD'deki rafinerilerde yaşanan üretim aksaklıkları da önemli rol oynuyor .</sentence>
+<sentence num="12">ABD rafinerilerinde bir süredir çeşitli nedenlerle ortaya çıkan üretim kesintilerinin ,talebin güçlü olduğu yaz döneminde arz sıkıntısı yaşanmasından korkuluyor .</sentence>
+<sentence num="13">Üretimin gerilemesiyle ABD'de piyasalarca yakından takip edilen haftalık ticari petrol stokları da azalmaya başlamıştı .</sentence>
+<sentence num="14">Dünyanın en önemli petrol üretim bölgesi Ortadoğu'daki siyasi gelişmeler ,İran ile uranyum zenginleştirme faaliyetlerini durdurması karşılığında yapılan görüşmeler de piyasalardaki tedirginliği artırıyor .</sentence>
+<sentence num="15">Türkiye'nin faturası artıyor Yurtdışı borsalarda rekor üzerine rekor kıran petrol fiyatları ,Türkiye'nin de faturasını artırıyor .</sentence>
+<sentence num="16">Devlet İstatistik Enstitüsü (DİE )verilerine göre ,Türkiye'nin haziran ayında ithal ettiği petrolün maliyeti ,bir önceki aya göre yüzde 5 .2 azalırken ,geçen yılın aynı ayına göre ise yüzde 34 .7 oranında artış gösterdi .</sentence>
+<sentence num="17">Petrol ithalatı için 2005 yılının ocak ayında 488 milyon dolar ,şubatta 436 milyon dolar ,martta 666 milyon dolar ,nisanda 728 milyon dolar ,mayısta 754 milyon dolar para ödeyen Türkiye'nin petrol ithalat maliyeti ,haziran ayında 715 milyon dolara geriledi .</sentence>
+<sentence num="18">Türkiye petrol ithalatı için ,geçen yılın haziran ayında 531 milyon dolar ödemişti .</sentence>
+<sentence num="19">Türkiye ,petrol ithalatının maliyeti 2002 yılında 4 milyar 88 milyon dolar ,2003 yılında 4 milyar 777 milyon dolar ,ve 2004 yılında da 6 milyar 92 milyon doları bulmuştu .</sentence>
+</doc>
+<doc>
+<id>129764</id>
+<sentence num="0">2005 08 09 08 :53 :00 .Petrolde rekor üzerine rekor .</sentence>
+<sentence num="1">Petrol fiyatları 65 dolara dayandı Suudi Arabistan Kralı Fahd'ın ölümünün ardından hareketlenen ve ABD'nin Suudi Arabistan'daki temsilciliklerini iki gün süre ile kapatması kararı alması ile hızlanan petroldeki artış yeni zirvesine ulaştı .</sentence>
+<sentence num="2">ABD hafif ham petrolü varil başına 64 .27 ,Brent ham petrolün varili de 62 .80 dolar ile tüm zamanların yeni en yüksek düzeyini gördü .</sentence>
+<sentence num="3">Dünyanın en büyük petrol ihracatçısı Suudi Arabistan'da silahlı saldırılar olabileceği ve ABD'de rafinerilerde meydana gelen sorunların arz tarafında sıkıntı yaratabileceği yönündeki beklentiler ham petrol fiyatlarının yeniden rekor düzeylere yükselmesine neden oldu .</sentence>
+<sentence num="4">ABD ,binalarına yönelik tehditler nedeniyle dün ve bugün için Suudi Arabistan'daki diplomatik temsilciliklerini kapatırken ,Avustralya ve İngiltere de militanların Suudi Arabistan'a saldırabilecekleri uyarısında bulunmuştu .</sentence>
+<sentence num="5">Petrol fiyatları bir yıl öncesi ile karşılaştırıldığında yaklaşık yüzde 40 oranında pahalı durumda bulunuyor Fahd'ın ölümü tetikledi Suudi Arabistan Kralı Fahd'ın geçen hafta ölümüyle hareketlenen petrol fiyatları ,57 dolarlı seviyelerden 60 doların üzerine çıkmıştı .</sentence>
+<sentence num="6">NEDEN YÜKSELİYOR ?</sentence>
+<sentence num="7">Suudi Arabistan Kralı Fahd'ın ölümünün ardından siyasi istikrar endişeleri Ortadoğu'daki karışıklık Arz talep dengesine ilişkin tedirginlikler Ekonomilerdeki büyümenin sürmesi ve bunun talebi artırması ABD'deki rafinerilerde yaşanan üretim aksaklıkları Petrol piyasasındaki spekülatif hareketler ABD'nin Suudi Arabistan'daki elçiliklerini kapatmasıFahd'ın ardından yaşanabilecek olası bir karışıklığın tedirginliği ile petrole talep artarken ,bu ülkede çok iyi korunan petrol tesislerine saldırılar olması halinde fiyatların çok hızlı yükseleceğine kesin gözüyle bakılıyor .</sentence>
+<sentence num="8">Fahd'ın ölümünün ardından haftasonu Suudi Arabistan'daki ABD binalarına saldırı olabileceğine yönelik tehditler ve ABD'nin konsolosluklarını ve büyükelçiliğini iki gün süre ile kapatma kararı alması ,fiyatları yeni haftada yeni rekor seviyelere taşıdı .</sentence>
+<sentence num="9">Üretim aksaklıkları tedirgin ediyor Petrol fiyatlarının yükselişinde Suudi Arabistan etkisinin yanında ABD'deki rafinerilerde yaşanan üretim aksaklıkları da önemli rol oynuyor .</sentence>
+<sentence num="10">ABD rafinerilerinde bir süredir çeşitli nedenlerle ortaya çıkan üretim kesintilerinin ,talebin güçlü olduğu yaz döneminde arz sıkıntısı yaşanmasından korkuluyor .</sentence>
+<sentence num="11">Üretimin gerilemesiyle ABD'de piyasalarca yakından takip edilen haftalık ticari petrol stokları da azalmaya başlamıştı .</sentence>
+<sentence num="12">Dünyanın en önemli petrol üretim bölgesi Ortadoğu'daki siyasi gelişmeler ,İran ile uranyum zenginleştirme faaliyetlerini durdurması karşılığında yapılan görüşmeler de piyasalardaki tedirginliği artırıyor .</sentence>
+</doc>
+<doc>
+<id>130597</id>
+<sentence num="0">2005 08 10 13 :22 :00 .Arap Birliği Zirvesi tekrar ertelendi .</sentence>
+<sentence num="1">Arap Birliği Zirvesi tekrar ertelendi Arap Birliği zirve toplantısının tekrar ertelendiği bildirildi .</sentence>
+<sentence num="2">Arap Birliği yetkililerinden Hüsam Yusuf ,daha önce 3 ağustosta ,Mısır'ın Şarm El Şeyh kentinde yapılması planlanan ,ancak Suudi Arabistan Kralı Fahd'ın ölümü üzerine ertelenen zirve toplantısının ,bir kez daha ileri bir tarihe bırakıldığını söyledi .</sentence>
+</doc>
+<doc>
+<id>130600</id>
+<sentence num="0">2005 08 10 13 :25 :00 .Arap Birliği zirvesi tekrar ertelendi .</sentence>
+<sentence num="1">Arap Birliği zirve toplantısının tekrar ertelendiği bildirildi .</sentence>
+<sentence num="2">Arap Birliği yetkililerinden Hüsam Yusuf ,daha önce 3 ağustosta ,Mısır'ın Şarm El Şeyh kentinde yapılması planlanan ,ancak Suudi Arabistan Kralı Fahd'ın ölümü üzerine ertelenen zirve toplantısının ,bir kez daha ileri bir tarihe bırakıldığını söyledi .</sentence>
+<sentence num="3">Yusuf ,toplantı tarihinin ,eylül ayında bakanlar düzeyinde yapılacak görüşmede belirleneceğini belirtti .</sentence>
+<sentence num="4">Zirvede ,Filistin ile Irak'taki son durum ve terörizmle mücadele konularının ele alınması bekleniyor .</sentence>
+</doc>
+<doc>
+<id>130678</id>
+<sentence num="0">2005 08 10 15 :07 :00 .Arap Birliği Zirvesi ikinci kez ertelendi .</sentence>
+<sentence num="1">Arap Birliği Zirvesi ileri bir tarihe ertelendi Suudi Arabistan Kralı Fahd'ın ölümü üzerine ertelenen Arap Birliği Zirvesi bir kez daha ileri bir tarihe ertelendi .</sentence>
+<sentence num="2">Arap Birliği yetkilileri ,daha önce 3 ağustosta Mısır'ın Şarm El Şeyh kentinde yapılması planlanan toplantının Suudi Arabistan Kralı Fahd'ın ölümü üzerine ertelendiğini hatırlattı .</sentence>
+<sentence num="3">Yetkililer ,ikinci kez ertelenen toplantının nedenine ilişkin bir açıklama yapmadı .</sentence>
+<sentence num="4">Yapılan açıklamada ,toplantı tarihinin eylül ayında bakanlar düzeyinde yapılacak görüşmede belirleneceği belirtiliyor .</sentence>
+<sentence num="5">Zirvede ,Filistin ile Irak'taki son durum ve terörizmle mücadele konularının ele alınması bekleniyor .</sentence>
+<sentence num="6">Suudi Arabistan Kralı Fahd ,1 ağustos tarihinde tedavi gördüğü Kral Faisal hastanesinde öldü .</sentence>
+<sentence num="7">Uzun süredir rahatsız olan 83 yaşındaki Suudi Kralı'nın ölüm haberi ile birlikte bütün Arap dünyasında yas ilan edilmiş ve 3 ağustostaki Arap Birliği Zirvesi de ertelenmişti .</sentence>
+</doc>
+<doc>
+<id>130857</id>
+<sentence num="0">2005 08 10 20 :32 :00 .Arap Birliği Zirvesi 2 .kez ertelendi .</sentence>
+<sentence num="1">Arap Birliği yetkilileri ,daha önce 3 ağustosta Mısır'ın Şarm El Şeyh kentinde yapılması planlanan toplantının Suudi Arabistan Kralı Fahd'ın ölümü üzerine ertelendiğini hatırlattı .</sentence>
+<sentence num="2">Yetkililer ,ikinci kez ertelenen toplantının nedenine ilişkin bir açıklama yapmadı .</sentence>
+<sentence num="3">Yapılan açıklamada ,toplantı tarihinin eylül ayında bakanlar düzeyinde yapılacak görüşmede belirleneceği belirtiliyor .</sentence>
+<sentence num="4">Zirvede ,Filistin ile Irak'taki son durum ve terörizmle mücadele konularının ele alınması bekleniyor .</sentence>
+<sentence num="5">Suudi Arabistan Kralı Fahd ,1 ağuştos tarihinde tedavi gördüğü Kral Faisal hastanesinde öldü .</sentence>
+<sentence num="6">Uzun süredir rahatsız olan 83 yaşındaki Suudi Kralı'nın ölüm haberi ile birlikte bütün Arap dünyasında yas ilan edilmiş ve 3 ağustostaki Arap Birliği Zirvesi de ertelenmişti .</sentence>
+<sentence num="7">CNNTURK .</sentence>
+</doc>
+<doc>
+<id>130981</id>
+<sentence num="0">2005 08 11 08 :12 :00 .Petrol 65 doları da aştı .</sentence>
+<sentence num="1">Petrol uluslararası borsalarda 65 doları aştı Suudi Arabistan Krali Fahd'ın ölümünün tetiklediği petrol fiyatlarında yükseliş durmuyor .</sentence>
+<sentence num="2">64 doların üzerine çıktıktan sonra petrol arzının talep için yeterli oduğu açıklamaları ile 63 dolara inen petrol fiyatları ,ABD'deki düşük stoklar ,Ortadoğu'da artan tansiyon ve rafinerilerdeki problemler nedeniyle 65 doların üzerine tırmandı .</sentence>
+<sentence num="3">Eylül vadeli petrolün fiyatı dün ABD borsasında 65 .17 dolara çıkarken ,bugünkü ilk elektronik işlemlerde de 65 .</sentence>
+<sentence num="4">23 doları gördü .</sentence>
+<sentence num="5">Bu rakam borsanın kuruluşu olan 1983'den bu yana ulaşılan en büyük rakamı gösteriyor .</sentence>
+<sentence num="6">Brent tipi petrolün varil başına fiyatı da dün 2 .08 dolarlık artışla 64 doları aşmıştı .</sentence>
+<sentence num="7">Brent petroldeki artış bugün de sürerken ,64 .44 dolar oldu .</sentence>
+<sentence num="8">20 dolarlık artış ABD ham petrolünün varil fiyatı bir yıl önceye göre 20 dolar yukarıda bulunuyor .</sentence>
+<sentence num="9">Petrol fiyatlarındaki yükselişte Ortadoğu'daki istikrarsızlık önemli rol oynarken ,özellikle Kral Fahd'ın ardından Suudi Arabistan'ın petrol politikasında değişiklik olabileceği endişeleri ve İran'ın nükleer faaliyetlere yeniden başlama kararı fiyatları yukarı çekti .</sentence>
+<sentence num="10">Bunun yanında ABD'deki rafinerilerde yaşanan üretim problemleri ve akaryakıt stoklarındaki düşüş petrol fiyatlarının 65 dolarlı rakamlara ulaşmasına neden oldu .</sentence>
+<sentence num="11">Akaryakıt stokları geriledi ABD'de dün açıklanan benzin stokları ,rafinerilerdeki problemler yüzünden 2 .1 milyon varil geriledi .</sentence>
+<sentence num="12">Analistlerin beklentisi ise 1 .9 milyon varillik düşüş yönündeydi .</sentence>
+<sentence num="13">Verilerin ardından petrolle birlikte benzin fiyatları da rekor kırarken ,elektronik işlemlerde 1 .9041 dolara ulaştı .</sentence>
+</doc>

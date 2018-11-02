@@ -1,0 +1,1285 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 01 07 16 :06 :00 .mortgage için ilk adım atıldı ..</sentence>
+<sentence num="1">mortgage sistemi ile 'kira öder 'gibi ev sahibi olma imkanı sağlanıyor kira öder gibi ev sahibi olma imkanı olarak bilinen 'mortgage 'sistemi için ilk adım atıldı ve konut finansman sistem kanun taslağı hazırlandı .</sentence>
+<sentence num="2">taslağa göre ,uzun vadeyle ,düşük faizle konut alınabilmesi için ,ipotek finansmanı kuruluşları oluşturulacak ve bir fon kurulacak .</sentence>
+<sentence num="3">ihraç edilecek belgeler ,borsada işlem görebilecek .</sentence>
+<sentence num="4">konut finanman sistemi kanun taslağı hazırlandı vatandaşa kira öder gibi ev sahibi olma imkanı sağlayan mortgage sisteminin uygulanması için önce yasal bir altyapı gerekiyor .</sentence>
+<sentence num="5">sermaye piyasası kurulu tarafından hazırlanan 31 maddelik taslağın getirdiği yeni düzenlemeler şöyle :ipotek finansmanı kuruluşları oluşturulacak ,amaç kaynak oluşturmak konut finansman fonu kurulacak fon portföyü yönetecek geri ödemeleri garanti edecek geri ödemede hazinenin de garantisi olacak kuruluşlar bazı vergilerden muaf olacak konut finansmanında sabit faiz şart olmayacak konut finansmanıyla ilgili menkul kıymetler borsada işlem görecek bankalar ipotek finansmanı kuruluşlarına iştirak edebilecek spk'nın hazırladığı ,konut finansman sistemiyle ,gayrimenkul sektörü de kayıt altına alınmış olacak .</sentence>
+<sentence num="6">bu sistemle kaçak konutun da önüne geçilmesi hedefleniyor .</sentence>
+</doc>
+<doc>
+<id>3648</id>
+<sentence num="0">2005 01 07 17 :35 :00 .Şener :Mortgage sistemini 2005'in ikinci yarısında başlatacağız .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,Mortgage sisteminin Türkiye'de bu yılın ikinci yarısında hayata geçirilmesini düşündüklerini bildirdi .</sentence>
+<sentence num="2">Türkiye Bankalar Birliği (TBB )Yönetim Kurulu Toplantısı'na katılan Şener ,toplantının ardından gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="3">Toplantının verimli ve faydalı geçtiğini vurgulayan Şener ,Finansal Hizmetler Kanun Taslağı'nın gözden geçirildiğini ve ayrıca sektörle ilgili değişik konularda görüş alışverişinde bulunduklarını bildirdi .</sentence>
+<sentence num="4">Şener ,bu yöndeki diyalogları hem İstanbul'da ,hem de Ankara'da devam ettireceklerini söyledi .</sentence>
+<sentence num="5">Mortgage sistemine ilişkin bir soru üzerine de Şener ,SPK'nın bu konuyla ilgili olarak hazırladığı taslak metni TBB Yönetim Kurulu Başkanı Ersin Özince'ye göndereceklerini ve üzerinde yapacakları değerlendirmenin ardından TBB'nin de görüşünü alacaklarını ifade etti .</sentence>
+<sentence num="6">Söz konusu metni diğer bazı kuruluşlara da göndereceklerini belirten Şener ,''Bu arada kendi uzmanlarımızla Başbakanlıkta çalışmaları devam ettireceğiz .</sentence>
+<sentence num="7">Eksiksiz ,mükemmel bir metin oluşturmayı düşünüyoruz .</sentence>
+<sentence num="8">Sistemin 2005'in ikinci yarısında hayata geçirilmesini düşünüyoruz ''dedi .</sentence>
+<sentence num="9">Abdüllatif Şener ,Koç Finansal Hizmetler A .Ş .'nin Çukurova Grubu'nun Yapı ve Kredi Bankası'ndaki hisselerini satın almak için görüşmelere başlamayı planladığına ilişkin açıklama konusundaki soruya ,''Sektördeki açıklamaları ve gelişmeleri takip ediyoruz ,şu anda bunun dışında bir şey söylemek mümkün değil ''yanıtını verdi .?''</sentence>
+<sentence num="10">Kira öder gibi ev sahibi olma ''sistemi nasıl işleyecek ?</sentence>
+</doc>
+<doc>
+<id>3652</id>
+<sentence num="0">2005 01 07 17 :36 :00 .Mortgage sistemini 2005'in ikinci yarısında hayata geçireceğiz .</sentence>
+<sentence num="1">Mortgage sistemini 2005'in ikinci yarısında hayata geçireceğiz Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,Mortgage sisteminin Türkiye'de bu yılın ikinci yarısında hayata geçirilmesini düşündüklerini bildirdi .</sentence>
+<sentence num="2">Türkiye Bankalar Birliği (TBB )Yönetim Kurulu Toplantısı'na katılan Şener ,toplantının ardından gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="3">Toplantının verimli ve faydalı geçtiğini vurgulayan Şener ,Finansal Hizmetler Kanun Taslağı'nın gözden geçirildiğini ve ayrıca sektörle ilgili değişik konularda görüş alışverişinde bulunduklarını bildirdi .</sentence>
+<sentence num="4">Şener ,bu yöndeki diyalogları hem İstanbul'da ,hem de Ankara'da devam ettireceklerini söyledi .</sentence>
+</doc>
+<doc>
+<id>3696</id>
+<sentence num="0">2005 01 07 18 :59 :00 .Mortgage 2005'in ikinci yarısında .</sentence>
+<sentence num="1">Şener ,mortgage sisteminin 2005'in ikinci yarısında hayata geçirileceğini söyledi Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,mortgage (uzun vadeli kredilerle konut sahibi olma )sisteminin ,Türkiye'de bu yılın ikinci yarısında hayata geçirilmesini düşündüklerini bildirdi .</sentence>
+<sentence num="2">Türkiye Bankalar Birliği (TBB )yönetim kurulu toplantısına katılan Şener ,toplantının ardından gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="3">Toplantının verimli ve faydalı geçtiğini vurgulayan Şener ,Finansal Hizmetler Kanun Taslağı'nın gözden geçirildiğini ve ayrıca sektörle ilgili değişik konularda görüş alışverişinde bulunduklarını bildirdi .</sentence>
+<sentence num="4">Şener ,bu yöndeki diyalogları hem İstanbul'da ,hem de Ankara'da devam ettireceklerini söyledi .</sentence>
+<sentence num="5">Mortgage konusunda TBB'nin de görüşü alınacak Şener ,SPK'nın mortgage ile ilgili olarak hazırladığı taslak metni TBB Yönetim Kurulu Başkanı Ersin Özince'ye göndereceklerini ve üzerinde yapacakları değerlendirmenin ardından TBB'nin de görüşünü alacaklarını ifade etti .</sentence>
+<sentence num="6">Mortgage 2005'in ikinci yarısında hayata geçecek Söz konusu metni diğer bazı kuruluşlara da göndereceklerini belirten Şener ,''bu arada kendi uzmanlarımızla Başbakanlıkta çalışmaları devam ettireceğiz .</sentence>
+<sentence num="7">Eksiksiz ,mükemmel bir metin oluşturmayı düşünüyoruz .</sentence>
+<sentence num="8">Sistemin 2005'in ikinci yarısında hayata geçirilmesini düşünüyoruz ''dedi .</sentence>
+<sentence num="9">Dar gelirli 'mortgage'i bekliyor ABD ve Avrupa'da halkın büyük bölümünü ev sahibi yapan 'mortgage 'sistemi Türkiye'de özellikle dar gelirli kesimin ev sahibi olma hayalini gerçekleştirecek .</sentence>
+<sentence num="10">Mortgage sisteminin kabul edilmesi durumunda ev almak isteyene bankalar ipotek karşılığı 30 yıla varan vadelerle kredi verecek .</sentence>
+<sentence num="11">Böylece kira öder gibi taksitlerle ev sahibi olunabilecek .</sentence>
+<sentence num="12">Mortgage sisteminde yapılacak aylık ödemeler ,aylık gelirin yüzde 20 30'unu geçmeyecek .</sentence>
+<sentence num="13">Kredi miktarı ise konut değerinin yüzde 70'i kadar olacak .</sentence>
+</doc>
+<doc>
+<id>3828</id>
+<sentence num="0">2005 01 08 09 :55 :00 .Mortgage 2005'in ikinci yarısında .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,mortgage (uzun vadeli kredilerle konut sahibi olma )sisteminin ,Türkiye'de bu yılın ikinci yarısında hayata geçirilmesini düşündüklerini bildirdi .</sentence>
+<sentence num="2">Türkiye Bankalar Birliği (TBB )yönetim kurulu toplantısına katılan Şener ,toplantının ardından gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="3">Toplantının verimli ve faydalı geçtiğini vurgulayan Şener ,Finansal Hizmetler Kanun Taslağı'nın gözden geçirildiğini ve ayrıca sektörle ilgili değişik konularda görüş alışverişinde bulunduklarını bildirdi .</sentence>
+<sentence num="4">Şener ,bu yöndeki diyalogları hem İstanbul'da ,hem de Ankara'da devam ettireceklerini söyledi .</sentence>
+<sentence num="5">Mortgage konusunda TBB'nin de görüşü alınacak Şener ,SPK'nın mortgage ile ilgili olarak hazırladığı taslak metni TBB Yönetim Kurulu Başkanı Ersin Özince'ye göndereceklerini ve üzerinde yapacakları değerlendirmenin ardından TBB'nin de görüşünü alacaklarını ifade etti .</sentence>
+<sentence num="6">Mortgage 2005'in ikinci yarısında hayata geçecek Söz konusu metni diğer bazı kuruluşlara da göndereceklerini belirten Şener ,''bu arada kendi uzmanlarımızla Başbakanlıkta çalışmaları devam ettireceğiz .</sentence>
+<sentence num="7">Eksiksiz ,mükemmel bir metin oluşturmayı düşünüyoruz .</sentence>
+<sentence num="8">Sistemin 2005'in ikinci yarısında hayata geçirilmesini düşünüyoruz ''dedi .</sentence>
+<sentence num="9">Dar gelirli 'mortgage'i bekliyor ABD ve Avrupa'da halkın büyük bölümünü ev sahibi yapan 'mortgage 'sistemi Türkiye'de özellikle dar gelirli kesimin ev sahibi olma hayalini gerçekleştirecek .</sentence>
+<sentence num="10">Mortgage sisteminin kabul edilmesi durumunda ev almak isteyene bankalar ipotek karşılığı 30 yıla varan vadelerle kredi verecek .</sentence>
+<sentence num="11">Böylece kira öder gibi taksitlerle ev sahibi olunabilecek .</sentence>
+<sentence num="12">Mortgage sisteminde yapılacak aylık ödemeler ,aylık gelirin yüzde 20 30'unu geçmeyecek .</sentence>
+<sentence num="13">Kredi miktarı ise konut değerinin yüzde 70'i kadar olacak .?</sentence>
+<sentence num="14">EPDK Başkanı :Yeni dönemde akaryakıt alırken fiyat ilan panolarına dikkat ?</sentence>
+<sentence num="15">Türk Telekom için dev ortaklık ?</sentence>
+<sentence num="16">Hisarcıklıoğlu :Bugün dünden daha iyi bir noktadayız ama yeterli değil ?</sentence>
+<sentence num="17">Kurbanlıklar cep yakıyor ...</sentence>
+</doc>
+<doc>
+<id>3905</id>
+<sentence num="0">2005 01 08 12 :45 :00 .Kiracının çilesi altı ay sonra bitiyor .</sentence>
+<sentence num="1">Türkiye Bankalar Birliği (TBB )yönetim kurulu toplantısına katılan Şener ,toplantının ardından gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="2">Toplantının verimli ve faydalı geçtiğini vurgulayan Şener ,Finansal Hizmetler Kanun Taslağı'nın gözden geçirildiğini ve ayrıca sektörle ilgili değişik konularda görüş alışverişinde bulunduklarını bildirdi .</sentence>
+<sentence num="3">Şener ,bu yöndeki diyalogları hem İstanbul'da ,hem de Ankara'da devam ettireceklerini söyledi .</sentence>
+<sentence num="4">Mortgage konusunda TBB'nin de görüşü alınacak Şener ,SPK'nın mortgage ile ilgili olarak hazırladığı taslak metni TBB Yönetim Kurulu Başkanı Ersin Özince'ye göndereceklerini ve üzerinde yapacakları değerlendirmenin ardından TBB'nin de görüşünü alacaklarını ifade etti .</sentence>
+<sentence num="5">Mortgage 2005'in ikinci yarısında hayata geçecek Söz konusu metni diğer bazı kuruluşlara da göndereceklerini belirten Şener ,''bu arada kendi uzmanlarımızla Başbakanlıkta çalışmaları devam ettireceğiz .</sentence>
+<sentence num="6">Eksiksiz ,mükemmel bir metin oluşturmayı düşünüyoruz .</sentence>
+<sentence num="7">Sistemin 2005'in ikinci yarısında hayata geçirilmesini düşünüyoruz ''dedi .</sentence>
+<sentence num="8">Dar gelirli 'mortgage'i bekliyor ABD ve Avrupa'da halkın büyük bölümünü ev sahibi yapan 'mortgage 'sistemi Türkiye'de özellikle dar gelirli kesimin ev sahibi olma hayalini gerçekleştirecek .</sentence>
+<sentence num="9">Mortgage sisteminin kabul edilmesi durumunda ev almak isteyene bankalar ipotek karşılığı 30 yıla varan vadelerle kredi verecek .</sentence>
+<sentence num="10">Böylece kira öder gibi taksitlerle ev sahibi olunabilecek .</sentence>
+<sentence num="11">Mortgage sisteminde yapılacak aylık ödemeler ,aylık gelirin yüzde 20 30'unu geçmeyecek .</sentence>
+<sentence num="12">Kredi miktarı ise konut değerinin yüzde 70'i kadar olacak .</sentence>
+</doc>
+<doc>
+<id>4535</id>
+<sentence num="0">2005 01 10 09 :00 :00 .Mortgage 2005'in ikinci yarısında .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,mortgage (uzun vadeli kredilerle konut sahibi olma )sisteminin ,Türkiye'de bu yılın ikinci yarısında hayata geçirilmesini düşündüklerini bildirdi .</sentence>
+<sentence num="2">Türkiye Bankalar Birliği (TBB )yönetim kurulu toplantısına katılan Şener ,toplantının ardından gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="3">Toplantının verimli ve faydalı geçtiğini vurgulayan Şener ,Finansal Hizmetler Kanun Taslağı'nın gözden geçirildiğini ve ayrıca sektörle ilgili değişik konularda görüş alışverişinde bulunduklarını bildirdi .</sentence>
+<sentence num="4">Şener ,bu yöndeki diyalogları hem İstanbul'da ,hem de Ankara'da devam ettireceklerini söyledi .</sentence>
+<sentence num="5">Mortgage konusunda TBB'nin de görüşü alınacak Şener ,SPK'nın mortgage ile ilgili olarak hazırladığı taslak metni TBB Yönetim Kurulu Başkanı Ersin Özince'ye göndereceklerini ve üzerinde yapacakları değerlendirmenin ardından TBB'nin de görüşünü alacaklarını ifade etti .</sentence>
+<sentence num="6">Mortgage 2005'in ikinci yarısında hayata geçecek Söz konusu metni diğer bazı kuruluşlara da göndereceklerini belirten Şener ,''bu arada kendi uzmanlarımızla Başbakanlıkta çalışmaları devam ettireceğiz .</sentence>
+<sentence num="7">Eksiksiz ,mükemmel bir metin oluşturmayı düşünüyoruz .</sentence>
+<sentence num="8">Sistemin 2005'in ikinci yarısında hayata geçirilmesini düşünüyoruz ''dedi .</sentence>
+<sentence num="9">Dar gelirli 'mortgage'i bekliyor ABD ve Avrupa'da halkın büyük bölümünü ev sahibi yapan 'mortgage 'sistemi Türkiye'de özellikle dar gelirli kesimin ev sahibi olma hayalini gerçekleştirecek .</sentence>
+<sentence num="10">Mortgage sisteminin kabul edilmesi durumunda ev almak isteyene bankalar ipotek karşılığı 30 yıla varan vadelerle kredi verecek .</sentence>
+<sentence num="11">Böylece kira öder gibi taksitlerle ev sahibi olunabilecek .</sentence>
+<sentence num="12">Mortgage sisteminde yapılacak aylık ödemeler ,aylık gelirin yüzde 20 30'unu geçmeyecek .</sentence>
+<sentence num="13">Kredi miktarı ise konut değerinin yüzde 70'i kadar olacak .?</sentence>
+<sentence num="14">En gelişmiş il sıralamasında İstanbul 6 .sırada ...?</sentence>
+<sentence num="15">FT :2005 bankaların yapılandırılmasında kesin bir yıl olacak ?</sentence>
+<sentence num="16">Türkiye'nin KKTC'ye yardımları 3 milyon doları aştı ...?</sentence>
+<sentence num="17">2005 yılı yatırım programı ...</sentence>
+</doc>
+<doc>
+<id>7563</id>
+<sentence num="0">2005 01 14 15 :43 :00 .Konut kredisinde rekor oranlar ,rekor vadeler YTL konut kredisinde vadeler 12 yıla uzadı .</sentence>
+<sentence num="1">Düşen enflasyon ve ekonomide istikrar ortamı konut sahibi olmayı kolaylaştırıyor İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Tüketici kredileri duraklama eğilimine girdi ?</sentence>
+<sentence num="3">Bankeuropa'dan 15 yıl vadeli konut kredisi ?</sentence>
+<sentence num="4">Özen :Kredi faizleri düşüş eğilimine girecek ?</sentence>
+<sentence num="5">Tüketici kredilerinde artış sürüyor ?</sentence>
+<sentence num="6">Oyak Bank ,kredi faizlerini yükseltti Türkiye'de ekonomik politikalara ve gelişmelere bağlı olarak iyimserliğin artması ,bireysel kredi faizlerine de olumlu yansıyor .</sentence>
+<sentence num="7">Bankalar birbiri ardına faiz indirme ve vade uzatma yarışına girerken ,Koçbank bugün açıkladığı 1 .69'luk oran ile YTL bazında en düşük faizi veren banka ünvanını aldı ,vadeyi de 12 yıla uzattı .</sentence>
+<sentence num="8">Türkiye'de 2003 yılında başlayan bankaların bireysel kredi faizleri ve kredi kartı faiz oranlarındaki düşüş ,2004 yılının ilk çeyreğine kadar devam etmişti .</sentence>
+<sentence num="9">Bu dönemde bankaların kredi faizleri yüzde 2'nin altına gerilerken ,özellikle otomotiv ve konut kredisi kullanımında rekor rakamlara ulaşıldı .</sentence>
+<sentence num="10">İlk çeyrekten sonra yükseliş başladı Ancak ilk çeyreğin ardından dolar kurundaki yükseliş ve petrol fiyatlarının rekor seviyelere çıkmasıyla birlikte ekonomide görülen dalgalanma ,bankaları da kredi faizlerini artırmaya zorladı .</sentence>
+<sentence num="11">Bunun yanında AB ile üyelik sürecindeki belirsizlik ve yurtdışı kaynaklı gelişmeler bireysel kredi faiz oranlarını da bir anda yüzde 2 .3 seviyelerine çıkardı .</sentence>
+<sentence num="12">Türkiye yılın son ayında ekonomik beklentilerin kuvvetlenmesiyle yeni bir döneme girdi .</sentence>
+<sentence num="13">Özellikle 17 aralıkta AB ile tam üyelik müzakerelerine başlanma kararının alınması piyasalardaki havayı olumlu yönde değiştirdi .</sentence>
+<sentence num="14">Aralık ayında yabancı portföylerinin Türkiye'ye ilgisi artarken ,faizler de tekrar düşüş sinyali vermeye başladı .</sentence>
+<sentence num="15">Önce yüzde 2 ,sonra aşağısı Bunun yanında Türkiye'de enflasyonun düşüş yönündeki istikrarını koruması ,hükümetin mali politikalardaki disiplinden vazgeçmeyeceği mesajı vermesi ,makro ekonomideki dengeli seyir ve IMF ile anlaşma da olumlu bekleyişleri kuvvetlendirdi .</sentence>
+<sentence num="16">Bankaların uyguladıkları faiz oranları kademeli olarak gerilemeye başlarken ,önce yüzde 2 sınırına indi ,ardından da ortalama yüzde 1 .8 1 .9 aralığına geldi .</sentence>
+<sentence num="17">En düşük faiz Koçbank'tan Kredi faizleri tarihin en düşük seviyesine inerken ,kredi indirimini en son açıklayan banka olan Koçbank ,aynı zamanda en düşük faizi veren banka ünvanını aldı .</sentence>
+<sentence num="18">Koçbank kredi faizlerini yüzde 1 .69'a indirirken aynı zamanda vadeyi de 12 yıla yükseltti .</sentence>
+<sentence num="19">Böylece Koçbank ,30 yıla varan sürelerle konut edindirme sistemi olan mortgage gelmeden bir anlamda kendi kaynakları ile sisteme giriş yapmış oldu .</sentence>
+<sentence num="20">30 milyara 964 milyon lira Koçbank ,60 aya kadar ise yüzde 1 .85 oranında faiz uyguluyor .</sentence>
+<sentence num="21">Koçbank'ın faiz oranlarına göre ,12 yıl vadeli 30 milyar lira kredi alan bir kişinin aylık 963 .8 milyon TL ödemesi gerekiyor .</sentence>
+<sentence num="22">Aynı miktardaki kredi için 10 yıl vadede 1 milyar 9 milyon ,5 yıl vadede de 1 milyar 418 milyon lira ödeme yapılması gerekli .</sentence>
+<sentence num="23">HSBC de vadeyi 12 yıla uzattı Koçbank gibi HSBC Bank da ,konut kredisindeki vadeyi 12 yıla uzattı .</sentence>
+<sentence num="24">Vadeyi uzatma kararını hafta başında açıklayan banka ,aynı zamanda faiz oranlarını da yüzde 1 .70'e indirerek en düşük faizli kredi veren ikinci banka oldu .</sentence>
+<sentence num="25">Böylece Koçbank ve HSBC Bank YTL konut kredisinde en uzun vade uygulayan banka ünvanını paylaştılar .</sentence>
+<sentence num="26">Diğer bankalar Sektörün devlerinden Garanti Bankası konut kredisinde 60 ay vadede yüzde 1 .80 faiz uygularken ,İş Bankası ve Akbank aynı vadede yüzde 1 .85 faiz uyguluyor .</sentence>
+<sentence num="27">Ziraat Bankası 60 ay vadedeki faiz oranını yüzde 1 .95 olarak belirlerken ,Vakıfbank 120 ay vadede yüzde 2 .15 ,Oyakbank da yine 60 ayda yüzde 2 .15 faiz uyguluyor .</sentence>
+</doc>
+<doc>
+<id>7877</id>
+<sentence num="0">2005 01 15 10 :39 :00 .Vakıfbank ,kira öder gibi ev alma dönemini başlattı .</sentence>
+<sentence num="1">Vakıfbank ,kira öder gibi ev alma dönemini başlattı Vakıfbank ,kira öder gibi ev alma dönemini başlattı .</sentence>
+<sentence num="2">Vakıfbank'tan yapılan açıklamaya göre ,Banka ,kamuoyunda ''kira öder gibi ev sahibi olma ''olarak bilinen ''mortgage ''gibi uzun vadeli konut kredisi uygulamaya başladı .</sentence>
+<sentence num="3">Açıklamada ,konut kredilerinde vade 20 yıla çıkarılırken 1 36 ay vadede faiz oranının da aylık yüzde 1 ,80'e indirildiği ,20 yıl vadede aylık faiz oranını ise yüzde 2 olarak belirlediği ifade edildi .</sentence>
+<sentence num="4">Vakıfbank'ın uzun zamandır üzerinde çalıştığı 20 yıl vadeli konut kredisi uygulamasını hayata geçirdiği belirtilen açıklamada ,isteyen herkesi konut sahibi yapmayı hedefledikleri kaydedildi .</sentence>
+</doc>
+<doc>
+<id>7878</id>
+<sentence num="0">2005 01 15 10 :40 :00 .Vakıfbank ,kira öder gibi ev alma dönemini başlattı ...</sentence>
+<sentence num="1">Vakıfbank ,kira öder gibi ev alma dönemini başlattı .</sentence>
+<sentence num="2">Vakıfbank'tan yapılan açıklamaya göre ,Banka ,kamuoyunda ''kira öder gibi ev sahibi olma ''olarak bilinen ''mortgage ''gibi uzun vadeli konut kredisi uygulamaya başladı .</sentence>
+<sentence num="3">Açıklamada ,konut kredilerinde vade 20 yıla çıkarılırken 1 36 ay vadede faiz oranının da aylık yüzde 1 ,80'e indirildiği ,20 yıl vadede aylık faiz oranını ise yüzde 2 olarak belirlediği ifade edildi .</sentence>
+<sentence num="4">Vakıfbank'ın uzun zamandır üzerinde çalıştığı 20 yıl vadeli konut kredisi uygulamasını hayata geçirdiği belirtilen açıklamada ,isteyen herkesi konut sahibi yapmayı hedefledikleri kaydedildi .</sentence>
+<sentence num="5">10 yılın üzerindeki vadelerdeki konut yaşının 25 ,10 yıldan daha düşük vadelerde ise 30 yaşla sınırlandırıldığı bildirilen açıklamada ,şöyle denildi :''Konut kredileriyle birlikte otomobil kredilerinde de indirime giden Vakıfbank ,1 12 ay vadede aylık yüzde 2 olan otomobil kredisi faiz oranını yüzde 1 ,95'e (kaskosu Vakıfbank tarafından yapılan otomobillerde )indirdi .</sentence>
+<sentence num="6">Vakıfbank'ın kredi imkanlarından yararlanmak isteyenlerin herhangi bir Vakıfbank Şubesi'ne başvurmaları halinde kredi talepleri bir gün içinde sonuçlandırılacak .''.</sentence>
+</doc>
+<doc>
+<id>7879</id>
+<sentence num="0">2005 01 15 10 :40 :00 .Vakıfbank kira öder gibi ev alma dönemini başlattı .</sentence>
+<sentence num="1">Vakıfbank kira öder gibi ev alma dönemini başlattı Vakıfbank ,kira öder gibi ev alma dönemini başlattı .</sentence>
+<sentence num="2">Vakıfbank'tan yapılan açıklamaya göre ,Banka ,kamuoyunda ''kira öder gibi ev sahibi olma ''olarak bilinen ''mortgage ''gibi uzun vadeli konut kredisi uygulamaya başladı .</sentence>
+<sentence num="3">Açıklamada ,konut kredilerinde vade 20 yıla çıkarılırken 1 36 ay vadede oranının da aylık yüzde 1 ,80'e indirildiği ,20 yıl vadede aylık oranını ise yüzde 2 olarak belirlediği ifade edildi .</sentence>
+<sentence num="4">Vakıfbank'ın uzun zamandır üzerinde çalıştığı 20 yıl vadeli konut kredisi uygulamasını hayata geçirdiği belirtilen açıklamada ,isteyen herkesi konut sahibi yapmayı hedefledikleri kaydedildi .</sentence>
+</doc>
+<doc>
+<id>7900</id>
+<sentence num="0">2005 01 15 11 :07 :00 .Vakıfbank'tan kira öder gibi ev alma dönemi .</sentence>
+<sentence num="1">Vakıfbank ,kredi taleplerini bir gün içinde yanıtlayacak İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Tüketici kredileri duraklama eğilimine girdi ?</sentence>
+<sentence num="3">Bankeuropa'dan 15 yıl vadeli konut kredisi ?</sentence>
+<sentence num="4">Özen :Kredi faizleri düşüş eğilimine girecek ?</sentence>
+<sentence num="5">Tüketici kredilerinde artış sürüyor ?</sentence>
+<sentence num="6">Oyak Bank ,kredi faizlerini yükseltti Vakıfbank ,kamuoyunda 'kira öder gibi ev sahibi olma 'olarak bilinen 'mortgage 'gibi uzun vadeli konut kredisi uygulamaya başladı .</sentence>
+<sentence num="7">Bankadan yapılan açıklamaya göre ,konut kredilerinde vade 20 yıla çıkarılırken 1 36 ay vadede faiz oranı aylık yüzde 1 .80'e indirildi ,20 yıl vadede aylık faiz oranı ise yüzde 2 olarak belirlendi .</sentence>
+<sentence num="8">Uzun zamandır üzerinde çalıştığı 20 yıl vadeli konut kredisi uygulamasını hayata geçiren Vakıfbank ,isteyen herkesi konut sahibi yapmayı hedefliyor .</sentence>
+<sentence num="9">Banka ,10 yılın üzerindeki vadelerdeki konut yaşının 25 ,10 yıldan daha düşük vadelerde ise 30 yaşla sınırlandırıldığını belirtti .</sentence>
+<sentence num="10">Kredi taleplerine bir gün içinde yanıt Konut kredileriyle birlikte otomobil kredilerinde de indirime giden Vakıfbank ,1 12 ay vadede aylık yüzde 2 olan otomobil kredisi faiz oranını yüzde 1 .95'e (kaskosu Vakıfbank tarafından yapılan otomobillerde )indirdi .</sentence>
+<sentence num="11">Söz konusu kredilerden yararlanmak isteyenlerin talepleri bir gün içinde sonuçlandırılacak .</sentence>
+</doc>
+<doc>
+<id>7909</id>
+<sentence num="0">2005 01 15 11 :25 :00 .Mortgage ,piyasaya sinyal olacak ...</sentence>
+<sentence num="1">Sermaye Piyasası Kurulu (SPK )Başkanı Doğan Cansızlar ,mortgage (ipotekli konut kredisi sistemi )ile piyasalara bir sinyal vermeye çalıştıklarını belirterek ,''Artık uzun ve orta vadeli enstrümanların piyasaya yavaş yavaş girmesini sağlayacak bir sinyal ''dedi .</sentence>
+<sentence num="2">Cansızlar ,mortgage taslağını Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener'e gönderdiklerini hatırlatarak ,burada ideal bir mortgage sisteminin nasıl çalışacağına ilişkin modeli kurduklarını kaydetti .</sentence>
+<sentence num="3">Taslağın kanunlaşma sürecinde tartışılacağına ve bu süreçte ilaveler olabileceğine dikkat çeken Cansızlar ,ancak kendilerinin bu süreci beklemeden ikincil mevzuat konusundaki çalışmaları yoğunlaştırdıklarını açıkladı .</sentence>
+<sentence num="4">Dünya Bankası ,Uluslararası Para Fonu (IMF )ve bazı ülkelerin oluşturduğu bir fondan ,karşılıksız teknik yardım sağladıklarını ,bu kapsamda 4 uzmanın kendileri ile birlikte çalıştığını söyleyen Cansızlar ,''Haziran ayında ikincil düzenlemelerle ilgili teknik altyapıyı da bitirmiş olacağız .</sentence>
+<sentence num="5">2005'in sonuna doğru sistem çalışmaya başlar diye düşünüyorum ''şeklinde konuştu .</sentence>
+<sentence num="6">BANKALARIN VADE YAPISI VE MORTGAGE Bankaların vade yapısının 3 ayla sınırlı olduğu ,bunun mortgage sistemine nasıl yansıyacağına ilişkin olarak da Cansızlar ,bu sistemin sadece bankalar odaklı olmadığını hatırlatarak ,''Vadelerin kısa olduğu bu dönemde bankalar tabii ki 15 20 senelik vadede kredi veremez ''diye konuştu .</sentence>
+<sentence num="7">Bu bakımdan ,bankalar üzerindeki yük ve riskin kalkması için ,ikincil piyasalarda işlem yapacak bir finans kuruluşu kurulmasını önerdiklerini anlatan Cansızlar ,ikinci olarak da Hazine'nin birazcık olsun garanti vermesini gündeme getirdiklerini kaydetti .</sentence>
+<sentence num="8">Sistemin işleyişi için vergi teşviği istediklerini de kaydeden Cansızlar ,bunun sadece içerden değil dışarıdan da fonların girmesine yardımcı olacağını kaydetti .''</sentence>
+<sentence num="9">DEĞİŞKEN FAİZ ŞART ''Mortgage sisteminde kullanılacak kredilerde değişken faiz uygulanması konusunda ise SPK Başkanı ,bunun şart olduğunu vurgularken ,''Aksi halde sistem çalışmaz ''dedi .</sentence>
+<sentence num="10">Ancak faizin ne olması gerektiğinin banka ya da finans kuruluşu ile müşteri arasında ki pazarlığa bağlı olacağını da söyleyen Cansızlar ,bununla ilgili Sanayi Bakanlığı ya da Merkez Bankası kanalıyla ,değişken faiz olduğu durumlarda bir üst limitin de belirlenebileceğini kaydetti .</sentence>
+<sentence num="11">Enflasyonun bu yıl da düşmeye devam edeceğini kaydeden Cansızlar ,2005 yılında enflasyonun tahminlerin altında gerçekleşmesini beklediğini açıkladı .</sentence>
+<sentence num="12">İMKB'nin özelleştirmesinde danışman firma tutulması aşamasında Kamu İhale Kanunu'na takıldıklarını hatırlatan Cansızlar ,konuyu Başbakanlığa ,Maliye Bakanlığı'na ve özelleştirme İdaresi'ne ilettiklerini kaydetti ve ''Bekliyoruz ,prosedür devam ediyor ''dedi .</sentence>
+<sentence num="13">BANKALAR KANUNU VE KÜÇÜK YATIRIMCININ KORUNMASI El konan bankalar nedeniyle mağdur olan küçük yatırımcıların durumlarının yeni Bankalar kanun taslağında gündeme gelip gelmeyeceğine ilişkin olarak ise SPK Başkanı ,öteden beri bankacılık mağduriyetlerinin giderilmesiyle ilgili önerilerimizi Başbakanlığa ilettiklerini söyledi .</sentence>
+<sentence num="14">Cansızlar ,ancak burada son kararın hükümet ve parlamentoya ait olduğunu hatırlattı .</sentence>
+<sentence num="15">SPK mevzuatını sil baştan ele aldıklarını kaydeden Cansızlar ,bu bağlamda Yatırımcıyı Koruma Fonu'nun kapsamının genişletileceğini açıkladı .</sentence>
+<sentence num="16">Fonun ,sadece hisse senetlerini değil ,diğer sermaye piyasası araçlarını da kapsama alması ile ilgili çalışmaları yapacaklarını söyleyen SPK Başkanı ,Fonun miktarının ise AB ile uyumlu olarak 20 bin euro olacağını sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>8179</id>
+<sentence num="0">2005 01 16 00 :15 :00 .Vakıfbank'tan mortgage'ye ilk adım .</sentence>
+<sentence num="1">Vakıfbank ,ortgage olarak bilinen kira öder gibi ev alma dönemini başlattı .</sentence>
+<sentence num="2">Vakıfbank'tan yapılan açıklamaya göre ,Banka ,kamuoyunda ''kira öder gibi ev sahibi olma ''olarak bilinen ''mortgage ''gibi uzun vadeli konut kredisi uygulamaya başladı .</sentence>
+<sentence num="3">Açıklamada ,konut kredilerinde vade 20 yıla çıkarılırken 1 36 ay vadede faiz oranının da aylık yüzde 1 ,80'e indirildiği ,20 yıl vadede aylık faiz oranını ise yüzde 2 olarak belirlediği ifade edildi .</sentence>
+<sentence num="4">Vakıfbank'ın uzun zamandır üzerinde çalıştığı 20 yıl vadeli konut kredisi uygulamasını hayata geçirdiği belirtilen açıklamada ,isteyen herkesi konut sahibi yapmayı hedefledikleri kaydedildi .</sentence>
+<sentence num="5">10 yılın üzerindeki vadelerdeki konut yaşının 25 ,10 yıldan daha düşük vadelerde ise 30 yaşla sınırlandırıldığı bildirilen açıklamada ,şöyle denildi :''Konut kredileriyle birlikte otomobil kredilerinde de indirime giden Vakıfbank ,1 12 ay vadede aylık yüzde 2 olan otomobil kredisi faiz oranını yüzde 1 ,95'e (kaskosu Vakıfbank tarafından yapılan otomobillerde )indirdi .</sentence>
+<sentence num="6">Vakıfbank'ın kredi imkanlarından yararlanmak isteyenlerin herhangi bir Vakıfbank Şubesi'ne başvurmaları halinde kredi talepleri bir gün içinde sonuçlandırılacak .''</sentence>
+<sentence num="7">NETGAZETE .</sentence>
+</doc>
+<doc>
+<id>8938</id>
+<sentence num="0">2005 01 17 15 :30 :00 .Finansbank ,konut kredisi vadesini 7 yıla uzattı ...</sentence>
+<sentence num="1">Finansbank ,konut kredilerinde vade uzatıp ,faiz indirimine gitti .</sentence>
+<sentence num="2">Finansbank'tan yapılan açıklamaya göre ,banka konut kredilerinde mevcut 5 yıl olan vadeyi bugün itibariyle 7 yıla uzatarak ,faiz oranını yüzde 1 .79'a düşürdü .</sentence>
+<sentence num="3">Finansbank ,konut kredilerinde 84 aya varan vade seçeneğini müşterilerine tamamen kendi ödeme koşullarına göre esnek ya da düzenli geri ödeme seçeneği ile birlikte sunacak .</sentence>
+<sentence num="4">Finansbank'ın konut kredisinde YTL cinsinden kredi faiz oranları 6 aydan 36 aya kadar yüzde 1 .94 ,48 aydan 60 aya kadar yüzde 1 .84 ,72 aydan 84 aya kadar yüzde 1 .79 olarak belirlendi .</sentence>
+<sentence num="5">Euro ve dolar cinsinden kredi faiz oranları ise 6 aydan 36 aya kadar 0 .80 ,48 aydan 60 aya kadar 0 .75 oldu .</sentence>
+</doc>
+<doc>
+<id>8948</id>
+<sentence num="0">2005 01 17 15 :44 :00 .Faiz indirme yarışına Finansbank da katıldı .</sentence>
+<sentence num="1">Finansbank ,konut kredilerinde vade uzatıp ,faiz indirimine gitti .</sentence>
+<sentence num="2">Finansbank'tan yapılan açıklamaya göre ,banka konut kredilerinde mevcut 5 yıl olan vadeyi bugün itibariyle 7 yıla uzatarak ,faiz oranını yüzde 1 .79'a düşürdü .</sentence>
+<sentence num="3">Finansbank ,konut kredilerinde 84 aya varan vade seçeneğini müşterilerine tamamen kendi ödeme koşullarına göre esnek ya da düzenli geri ödeme seçeneği ile birlikte sunacak .</sentence>
+<sentence num="4">Finansbank'ın konut kredisinde YTL cinsinden kredi faiz oranları 36 aya kadar yüzde 1 .94 ,48 aydan 60 aya kadar yüzde 1 .84 ,72 aydan 84 aya kadar yüzde 1 .79 olarak belirlendi .</sentence>
+<sentence num="5">Euro ve dolar cinsinden kredi faiz oranları ise 6 aydan 36 aya kadar 0 .80 ,48 aydan 60 aya kadar 0 .75 oldu .</sentence>
+</doc>
+<doc>
+<id>9002</id>
+<sentence num="0">2005 01 17 16 :48 :00 .Finansbank ,konut kredisi vadesini uzattı .</sentence>
+<sentence num="1">Finansbank ,konut kredilerinde 84 aya varan vade seçeneğini müşterilerine tamamen kendi ödeme koşullarına göre esnek ya da düzenli geri ödeme seçeneği ile birlikte sunacak .</sentence>
+<sentence num="2">Finansbank'ın konut kredisinde YTL cinsinden kredi faiz oranları 6 aydan 36 aya kadar yüzde 1 .94 ,48 aydan 60 aya kadar yüzde 1 .84 ,72 aydan 84 aya kadar yüzde 1 .79 olarak belirlendi .</sentence>
+<sentence num="3">Euro ve dolar cinsinden kredi faiz oranları ise 6 aydan 36 aya kadar 0 .80 ,48 aydan 60 aya kadar 0 .75 oldu .</sentence>
+</doc>
+<doc>
+<id>9327</id>
+<sentence num="0">2005 01 18 10 :25 :00 .Müteahhitler Mortgage ve TOKİ'yi bekliyor ...</sentence>
+<sentence num="1">Geçen yıl inşaat sektöründeki canlılığa rağmen istenilen hedefleri tutturamamaktan yakınan müteahhitler ,bu yıl gerçekleştirilmesi beklenen uzun vadeli konut kredisi (Mortgage )sistemi ve TOKİ yatırımlarından umutlu olduklarını belirtiyorlar .</sentence>
+<sentence num="2">Müteaahitler ,ipoteğe dayalı uzun vadeli konut kredisi sisteminin dünyanın çok sayıda ülkesinde yıllardan beri başarıyla uygulandığını ,uygulanmaya başlanması halinde Türkiye'de de başarılı olacağına inanıyor .</sentence>
+<sentence num="3">Anadolu Yapım Müteahhitleri Federasyonu Genel Başkanı İsmail Babacan ,AA muhabirine yaptığı açıklamada ,Mortgage sisteminin ,2005 yılında başta inşaat sektörü olmak üzere çok sayıda sektörü hareketlendireceğini kaydetti .</sentence>
+<sentence num="4">Babacan ,geçen yıl ekonominin genelinde yaşanan güven ortamı ve rahatlamanın ,diğer sektörleri olumlu yönde etkilemesine karşın ,inşaat sektörünü darboğazdan kurtaramadığını belirtti .</sentence>
+<sentence num="5">İnşaat sektöründe rahatlamanın bu yıl sağlanmasını beklediklerini anlatan Babacan ,''sektör geçen yıl hareketlendi ,ancak daha önceki yılların olumsuz etkisini üzerinden atamadı .</sentence>
+<sentence num="6">Mortgage sistemi ise sektörü umutlandırıyor ''dedi .</sentence>
+<sentence num="7">Babacan ,sistemin daha çok ekonominin durağan olduğu dönemlerde uygulandığını ve ülke ekonomilerinin durağanlıktan çıkışına katkı sağladığını söyledi .</sentence>
+<sentence num="8">Mortagage ile hem dargelirlilerin hem de müteahhitlerin sevineceğini dile getiren Babacan ,şunları kaydetti :''Sistemin ekonomiye ,olumlu yönde katkı sağlayacağına inanıyoruz .</sentence>
+<sentence num="9">Mortgage ,yıllardan beri sıkıntılı günler geçiren müteahhitlere umut oldu .</sentence>
+<sentence num="10">Sadece inşaat sektörünü değil yan sanayiyi de etkileyecektir .</sentence>
+<sentence num="11">Çünkü daha çok ve güzel konutlar ,kaliteli ürünlerin kullanımını gerektirecek .</sentence>
+<sentence num="12">Sistem ,2005'in ikinci yarısından itibaren devreye girerse ekonomiyi ateşler .''</sentence>
+<sentence num="13">Babacan ,sisteme örnek alınacak modelin de önemli olduğunu belirtirken ,''sistem ,ABD ve İngiltere'de uygulandığı gibi olmalıdır .</sentence>
+<sentence num="14">Çünkü ,ABD ve İngiltere'de vadeler çok uzun ve konut bedellerinin yüzde 90'ına varan krediler uygulanıyor ''diye konuştu .</sentence>
+<sentence num="15">TOKİ VE DUBLE YOL DA ETKİLEYECEK Babacan ,Başbakanlık Toplu Konut İdaresi'nin (TOKİ )2005 yılında yapacağı yeni yatırımların ,inşaat sektörünün gelişimine katkı sağlayacağını da kaydetti .</sentence>
+<sentence num="16">Gecekonduların önüne geçmek için ,yapılan konut projelerinin sektörü daha da hareketlendireceğine dikkati çeken Babacan ,şöyle devam etti :''TOKİ'nin geçen yıl dargelirliler için yaptığı konutlar inşaat sektörünü hareketlendirdi .</sentence>
+<sentence num="17">Dolaylı ve dolaysız sektöre bağlı iş dallarını kısmen pozitif yönde etkiledi .</sentence>
+<sentence num="18">Bu yıl da gerçekleştirilecek yeni projeler piyasayı olumlu yönde etkileyecek .''</sentence>
+<sentence num="19">Babacan ayrıca ,duble yol çalışmalarının müteahhitleri umutlandırdığını ifade ederken ,''inşaat sektörü sadece binadan ibaret değil .</sentence>
+<sentence num="20">Yol ,tünel ,köprü gibi ciddi çalışmalar da sektöre etki ediyor .</sentence>
+<sentence num="21">Bu anlamda bu yıl gerçekleştirilecek duble yol çalışmaları ,özellikle Anadolu'daki müteahhitlere yeni iş sahası açacak ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>10471</id>
+<sentence num="0">2005 01 20 11 :37 :00 .Türkiye Mortgage sistemine hazırlanıyor .</sentence>
+<sentence num="1">Türkiye Mortgage sistemine hazırlanıyor Gayrimenkul Yatırım Ortaklığı Derneği (GYODER )Yönetim Kurulu Başkanı ve Garanti Gayrimenkul Yatırım Ortaklığı (GYO )Genel Müdürü Kürşat Tuncel ,ipoteğe dayalı uzun vadeli konut kredisi olan mortgage sistemiyle ilgili kanunun çıkmasıyla herkesin konut derdinin biteceği yönünde yanlış bir algılama olduğunu belirterek ,faizler düştükçe uygulamanın yayılacağını söyledi .</sentence>
+<sentence num="2">Tuncel ,konuyla ilgili yasa tasarısının Meclis'ten geçmesiyle sistemin hemen etkinlik kazanmasının beklenemeyeceğini söyledi .</sentence>
+<sentence num="3">Sistem açısından şu andaki faiz seviyelerinin hala yüksek olduğuna dikkat çeken Tuncel ,enflasyonun önümüzdeki yıllar için hedeflenen yüzde 4 5 civarına gerilemesinin sistemin etkinleştirilmesine fayda sağlayacağını kaydetti .</sentence>
+</doc>
+<doc>
+<id>10474</id>
+<sentence num="0">2005 01 20 11 :40 :00 .Türkiye ,Mortgage sistemine hazırlanıyor ...</sentence>
+<sentence num="1">Gayrimenkul Yatırım Ortaklığı Derneği (GYODER )Yönetim Kurulu Başkanı ve Garanti Gayrimenkul Yatırım Ortaklığı (GYO )Genel Müdürü Kürşat Tuncel ,ipoteğe dayalı uzun vadeli konut kredisi olan mortgage sistemiyle ilgili kanunun çıkmasıyla herkesin konut derdinin biteceği yönünde yanlış bir algılama olduğunu belirterek ,faizler düştükçe uygulamanın yayılacağını söyledi .</sentence>
+<sentence num="2">Tuncel ,AA muhabirine yaptığı açıklamada ,konuyla ilgili yasa tasarısının Meclis'ten geçmesiyle sistemin hemen etkinlik kazanmasının beklenemeyeceğini söyledi .</sentence>
+<sentence num="3">Sistem açısından şu andaki faiz seviyelerinin hala yüksek olduğuna dikkat çeken Tuncel ,enflasyonun önümüzdeki yıllar için hedeflenen yüzde 4 5 civarına gerilemesinin sistemin etkinleştirilmesine fayda sağlayacağını kaydetti .</sentence>
+<sentence num="4">Sermaye Piyasası Kurulu'nun (SPK )hazırladığı tasarının bir başlangıç olduğunu vurgulayan Tuncel ,şöyle devam etti :''Bunun içi dolacak ,ilgili kuruluşlar oluşturulacak .</sentence>
+<sentence num="5">Ekonomik konjonktür iyileştikçe bunun yayılması sağlanacak .</sentence>
+<sentence num="6">Bu ,mucizevi bir çözüm olmayacak .</sentence>
+<sentence num="7">Sistemden yalnızca ruhsatlı konutların faydalanabileceğini gözönünde bulundurursak ,piyasanın arz yönü şu anda çok kısıtlı .</sentence>
+<sentence num="8">Çünkü mevcut konutların yüzde 40 45'i bu sisteme uyuyor .</sentence>
+<sentence num="9">Kalanı kaçak ,yaşlı ve standartlar dışında .</sentence>
+<sentence num="10">Zaten böyle bir kredi bütün konutlar için kullanılırsa fiyatlarda çok büyük zıplamalar olur .</sentence>
+<sentence num="11">Dolayısıyla bu 2 3 yılda yayılacak bir sistem .</sentence>
+<sentence num="12">İlk önce daha üst gelir grubundakiler bu kredilerden faydalanacak .</sentence>
+<sentence num="13">Faizler düştükçe bu genele yayılacak .</sentence>
+<sentence num="14">Bu 2 3 yıllık süre içinde de arz tarafı kendini hazırlama ve piyasayı besleme şansı bulacak .</sentence>
+<sentence num="15">Aksi takdirde çok dengesiz bir piyasa olur .''''</sentence>
+<sentence num="16">REEL FAİZLERİN DÜŞMESİ GEREKİR ''Kürşat Tuncel ,sistemin genele yayılması için reel faiz seviyelerinin düşmesi gerektiğini söyledi .</sentence>
+<sentence num="17">Sistem için değişken faizin bankacılar tarafından istendiğine dikkat çeken Tuncel ,değişken faizin vadelerin uzatılmasını sağladığını belirtti .</sentence>
+<sentence num="18">Tuncel ,sabit faizin zorunlu kılınması durumunda ,bankalar açısından bugünden belirlenen faizin çok uzun vade için öngörülmesi nedeniyle çok büyük risk oluşturacağını ,değişken faizin ise kredi faizini konjonktüre uygun ayarlamasına olanak tanıdığı için vadelerin uzatılmasında etkili bir yöntem olduğunu vurguladı .</sentence>
+<sentence num="19">ABD ve Avrupa'da kredilerin ortalama kullanım süresinin 15 yıl olduğuna işaret eden Tuncel ,25 30 yılların telafuz edildiği Türkiye'de de vadenin bu sürelerde olması gerektiğini söyledi .</sentence>
+<sentence num="20">Tuncel ,''Kanun çıkar çıkmaz (bütün vatandaşların konut derdi bitecek )gibi yanlış bir algılama var .</sentence>
+<sentence num="21">Öyle birşey söz konusu değil .</sentence>
+<sentence num="22">Bu yanlış algılama ,ilerde piyasalardaki mevcut alım satımları da olumsuz etkiler ve güvensizlik yaratıp hayal kırıklıklarına neden olabilir ''diye konuştu .''</sentence>
+<sentence num="23">TASARI ,PİYASAYI SERBEST ÇALIŞTIRACAK ŞEKİLDE GEÇMELİ ''Yapı Kredi Koray Gayrimenkul Yatırım Ortaklığı (GYO )Genel Müdürü Hakan Kodal da ,sistem mevzuatıyla ilgili gerçekleştirilen yenilikler ve vergi avantajlarının birtakım pürüzleri ortadan kaldırdığını söyledi .</sentence>
+<sentence num="24">Kodal ,Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener'e sunulan tasarının Meclis'te mevcut haliyle kabul edilebilirliğinin çok önemli olduğunu ,mümkün olduğu kadar piyasayı serbest çalıştıracak şekliyle Meclis'ten geçirilmesi gerektiğini ifade etti .</sentence>
+<sentence num="25">Sistem altyapısının hazır olmasıyla ,kira öder gibi evsahibi olabilme arasında birebir parallellik bulunmadığını belirten Kodal ,şunları kaydetti :''Reel faizlerin düşüyor ve hükümetin borçlanma faizleri ile vadelerinin TL bazında uzuyor olması ,önümüzdeki birkaç yıllık dönemde en temel konular .</sentence>
+<sentence num="26">Aksi takdirde döviz bazında bu sistem yeterli derinliğe kavuşmaz .</sentence>
+<sentence num="27">Sistemin ,reel faizlerin yüksekliği nedeniyle 2 3 yıldan önce Türkiye'de mümkün olabileceğine inanmıyorum .</sentence>
+<sentence num="28">Aksi takdirde ancak hükümetin desteklediği sosyal konut projelerinde kira öder gibi ev imkanı olacak .</sentence>
+<sentence num="29">Ama bu mortgage sistemi çalıştığı için değil ,hükümet sübvanse ettiği için olur .''</sentence>
+<sentence num="30">Hakan Kodal ,sistemin ancak değişken faizle sağlıklı çalışabileceğini ,sabit faizde düşen enflasyonun yansıtılamayacağını savunarak ,şu andaki faiz ortamında mortgage sisteminin çalışmasıyla gelecek ilk fonların orta ve üst kesime yöneleceğini ifade etti .</sentence>
+<sentence num="31">Konut kredileri piyasasının Türkiye'de zaten çalıştığını ,dolayısıyla mortgage ile yepyeni bir şeyin gelmeyeceğini dile getiren Kodal ,''Bir sihirli değnek yok .</sentence>
+<sentence num="32">Sadece sisteme akacak fonların daha aktif hale gelmesi için altyapı çalışmaları ile finans kuruluşlarının kurulması planlanıyor ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>13367</id>
+<sentence num="0">2005 01 26 13 :25 :00 .Dışbank ,kredi faizlerini değiştirdi ...</sentence>
+<sentence num="1">Dışbank ,YTL bazında bireysel kredi faiz oranlarını yeniden düzenledi .</sentence>
+<sentence num="2">Dışbank'tan yapılan açıklamada ,bankanın otomobil ,2 .el otomobil ve konut kredisi faiz oranlarını 3 8 ay vadede yüzde 1 .85 olarak değiştirdiği bildirildi .</sentence>
+<sentence num="3">Açıklamaya göre ,otomobil ,2 .el otomobil ve konut kredisi faiz oranları 9 11 ay vadede yüzde 1 .80 ,12 23 ay vadede yüzde 1 .75 oldu .</sentence>
+<sentence num="4">Bankanın yeni faiz oranları bugünden itibaren geçerli olacak .</sentence>
+</doc>
+<doc>
+<id>13392</id>
+<sentence num="0">2005 01 26 14 :00 :00 .BankEuropa ,konut kredisi faizlerini düşürdü ...</sentence>
+<sentence num="1">BankEuropa ,konut kredisi faiz oranında indirime gitti .</sentence>
+<sentence num="2">BankEuropa'dan yapılan açıklamada ,bankanın Yeni Türk Lirası (YTL )konut kredilerinde uyguladığı faizleri aylık yüzde 1 ,65'e düşürdüğü bildirildi .</sentence>
+<sentence num="3">Açıklamaya göre ,bankanın YTL konut kredisi faiz oranı 0 72 ay vadede yüzde 1 .65 olurken ,dolar ve eurodaki faiz oranları 0 108 ay vadede yüzde 0 .65 ,109 144 ay vadede yüzde 0 .66 ve 145 180 ay vadede yüzde 0 ,69 olarak düzenlendi .</sentence>
+</doc>
+<doc>
+<id>13822</id>
+<sentence num="0">2005 01 27 07 :21 :00 .Daire satışları dibe vurdu .</sentence>
+<sentence num="1">Mortgage beklentisi daire satışlarını durdurdu Mortgage'ın ilk adımı olan 'konut finansman sistemi 'kanun taslağının hazırlanması ve hükümet yetkililerinin konuyla ilgili açıklamaları emlak piyasasında durgunluğa yol açtı .</sentence>
+<sentence num="2">En erken 2006 yılında devreye girecek sisteme yönelik oluşan beklenti ,konut satışlarını dondurdu .</sentence>
+<sentence num="3">Emlakçılar ,ev almayı düşünen pek çok kişinin kararını ertelediğini ve satışların geçen yıla göre yaklaşık yüzde 50 oranında azaldığını belirtiyor .</sentence>
+<sentence num="4">Öte yandan geçtiğimiz günlerde Vakıfbank yüzde 2 faizli 20 yıl süreli konut kredisi verdiğini açıklarken ,Koçbank ,Garanti ve HSBC gibi bankalar da konut kredisi vadelerini 10 yıla çıkardı .</sentence>
+<sentence num="5">Çoruh Emlak'ın sahibi Ayhan Kurt ,Toplu Konut İdaresi ve Kiptaş'ın sektörü olumsuz yönde etkilediğini ,mortgage beklentisinin emlak piyasasını öldürdüğünü belirtiyor .</sentence>
+<sentence num="6">Ayhan Kurt ,geçen yıl ayda ortalama 20 daire satan bir emlakçının bu yıl 10 daire dahi satamayacak h le gel diğini vurguluyor .</sentence>
+<sentence num="7">Mortgage'ın (morgıç )ne olduğunu bilen de ,bilmeyen de büyük bir beklenti içerisinde ev almayı bekliyor .</sentence>
+<sentence num="8">diyen Kurt ,iki ay önce başlayan durgunluğun devam etmesinden endişe ediyor .</sentence>
+<sentence num="9">Emlakçı ,kafa karışıklığını gidermek için hükümet yetkililerinin konuyla ilgili detaylı açıklama yapmasını istiyor .</sentence>
+<sentence num="10">Faiz oranlarının düşmesi nedeniyle gayrimenkulün en iyi yatırım aracı olacağına dikkat çeken Kurt ,yine de daire fiyatlarında enflasyonun üstünde bir artış olmayacağı görüşünde .</sentence>
+<sentence num="11">Birçok vatandaşın 'Paramı nereye yatırsam acaba ?'</sentence>
+<sentence num="12">kararsızlığı yaşadığını söyleyen Evim Emlak'ın sahibi Şefik Yirmibeşoğlu da piyasadaki durgunluğun ,işlerini yüzde 60 oranında düşürdüğünü kaydediyor .</sentence>
+<sentence num="13">Yirmibeşoğlu ,Vatandaşlarda sistemin 2006'da devreye gireceği yönünde bir beklenti var .</sentence>
+<sentence num="14">Ancak bunun altyapısı tam olarak hazır olmadığı için bu kadar kısa sürede devreye girmesi mümkün değil .</sentence>
+<sentence num="15">Biz hükümet yetkililerinden sistemin bir iki yıl içerisinde devreye girmeyeceği yönünde açıklama bekliyoruz .</sentence>
+<sentence num="16">diyor .</sentence>
+<sentence num="17">İstanbul Emlak Komisyoncuları Dernek Başkanı Neşe Can Çekici ,gayrimenkul piyasasının en ufak haberden etkilenen hassas bir yapısının olduğuna dikkat çekiyor .</sentence>
+<sentence num="18">Can Çekici'ye göre vatandaşların büyük beklentiye girmesinin altında yatan sebep gazetelerin '300 400 milyon taksitle ev alınabilecek 'şeklindeki haberleri .</sentence>
+<sentence num="19">Telaffuz edilen rakamları gülünç bulan Çekici'ye göre sistem en erken beş yıl sonra devreye girebilir .</sentence>
+<sentence num="20">Çekici ,vatandaşların konu hakkında daha fazla bilgi sahibi olmasıyla birlikte yaz aylarında piyasanın eski haline döneceğini ,olumsuzluklara rağmen daire fiyatlarında düşüş olmayacağını düşünüyor .</sentence>
+<sentence num="21">Mortgage için hemen heveslenmeyin .</sentence>
+<sentence num="22">uyarısında bulunan Reha Medin Emlak yetkilileri de sistemin beş yıldan önce devreye giremeyeceği görüşünde .</sentence>
+<sentence num="23">Şu anki ekonomik şartlara göre söz konusu sistemin orta gelirli vatandaşların konut almasına müsaade etmediğini savunan Reha Medin Emlak yetkilileri ,mortgage'in ilk birkaç yıl üst gelir grubuna hitap edeceğini ifade ediyor .</sentence>
+<sentence num="24">Mortgage sistemi nasıl işleyecek ?</sentence>
+<sentence num="25">Vatandaş önce ödeme gücüne göre bir daire bulacak .</sentence>
+<sentence num="26">Dairenin değerinin yüzde 25'i cebinde olacak .</sentence>
+<sentence num="27">Kalan tutar için kredi talep edecek .</sentence>
+<sentence num="28">Ev kredisi talep eden ,taksitleri ödeyememe ihtimaline karşın sigorta yaptıracak .</sentence>
+<sentence num="29">Evin değeri belirlendikten sonra banka ,verdiği kredi karşılığında evi ipotek edecek .</sentence>
+<sentence num="30">Vatandaş ,100 milyarlık daire için müteahhide 25 milyar ödeyecek ,geri kalanı mortgage kuruluşuna borçlanacak .</sentence>
+<sentence num="31">Satın alınan daire için Doğal Afet Sigortası yaptırılacak .</sentence>
+<sentence num="32">Bankalar aldıkları ipoteği ,İpotek Finans Kuruluşu'na devredecek .</sentence>
+<sentence num="33">Bunun için İpotek Finans Kuruluşu oluşturulacak .</sentence>
+<sentence num="34">Kuruluşun yüzde 49'u devlet (kamu bankaları ve Toplu Konut İdaresi Başkanlığı ),yüzde 51'i özel sektöre (yerli ve yabancı bankalar ya da özel finans kuruluşları )ait olacak .</sentence>
+<sentence num="35">İpotek Finans Kuruluşu ,stoğunda yer alan ipotekleri menkul kıymete dönüştürecek .</sentence>
+<sentence num="36">İpotek fon katılma belgesi ,varlığa dayalı menkul kıymet veya borç senedi ihraç edecek .</sentence>
+<sentence num="37">Bu yolla yeni fon oluşturarak başka kredilere kaynak sağlayacak .</sentence>
+<sentence num="38">Zaman .</sentence>
+</doc>
+<doc>
+<id>15342</id>
+<sentence num="0">2005 01 29 13 :35 :00 .Şener :Mortgage sistemiyle kiralar da düşecek .</sentence>
+<sentence num="1">Başbakan Yardımcısı ve Devlet Bakanı Abdüllatif Şener ,2005 yılı sonuna doğru ipoteğe dayalı konut finansmanını içeren Mortgage sisteminin devreye sokulmasına yönelik çalışmaların devam ettiğini belirterek ,bu sistemin uzun dönemde kiraların düşmesine olanak sağlayacağını ve kiralama taleplerini azaltacağını bildirdi .</sentence>
+<sentence num="2">Şener ,Ekonomi Koordinasyon Kurulu (EKK )toplantısıyla ilgili düzenlediği basın toplantısında ,dün 25'incisi yapılan toplantıda iş ve çalışma hayatında karşılaşılan bürotratik engeller ile ekonomideki son gelişmelerin değerlendirildiğini söyledi .</sentence>
+<sentence num="3">Ekonomik göstergelerin ve ekonomideki gelişmelerin iyi yönde seyretmeye devam ettiğinin değerlendirildiğini ifade eden Şener ,2003 yılının aralık ayında yüzde 79 .4 olan kapasite kullanım oranının yüzde 84'e yükseldiğini hatırlattı .</sentence>
+<sentence num="4">Tüketici güven endeksinin yüzde 2 .4 artarak 105 .2'ye ulaştığını anımsatan Şener ,Merkez Bankası'nın beklenti anketi sonuçlarının ise hükümet tarafından uygulanan ekonomik programın ve 2005 yılı için öngörülen hedeflerin gerçekleşeceğine piyasaların duyduğu güveni teyit ettiğini söyledi .</sentence>
+<sentence num="5">Şener ,AB'den müzakere tarihi alınmasından sonra artan yabancı sermaye girişinin piyasalarda da kendisini hissettirdiğini ifade ederek ,gelecek dönemde yabancı sermaye girişinin artarak devam edeceğini bildirdi .</sentence>
+<sentence num="6">MORTGAGE SİSTEMİ'YLE İLGİLİ ÇALIŞMALAR SÜRÜYOR 2005 yılı sonuna doğru Mortgage sisteminin devreye sokulmasına yönelik çalışmaların devam ettiğini kaydeden Şener ,ipoteğe dayalı konut finansmanını içeren sistemin ,tüketicilere konut üzerine konulan ipotek karşılığında uzun vadeli konut kredisi olanağı sağlayan bir sermaye piyasası aracı olduğunu belirtti .</sentence>
+<sentence num="7">Şener ,sistemle ev sahibi olmak isteyenlerin uzun vadeli kredi sağlamakta zorlanmayacaklarını ve uzun vadeli konut kredisi olanaklarının genişleyeceğini kaydederek ,bu sistemin dünyada yaygın olarak kullanıldığını belirtti .</sentence>
+<sentence num="8">İpotek kredilerinin GSMH'ye oranının Batı Avrupa'da yüzde 40 ,ABD'de yüzde 50 ,Brezilya'da yüzde 7 ,Meksika'da yüzde 6 ,Arjantin'de yüzde 4 ,İsrail'de yüzde 22 ,Ürdün'de yüzde 11 ,Tunus'ta ise yüzde 6 düzeyinde bulunduğunu bildiren Şener ,Türkiye'de ise bu oranın 2003 sonu itibarıyla onbinde 1'ler civarında kaldığını söyledi .</sentence>
+<sentence num="9">Şener ,Demek ki ülkemizde gelişmeyen bir kurumun ,2005'te devreye sokulacak olması sermaye piyasaları açısından ,inşaat sektörü ve konut edinmek isteyenler açısından önemli işlevleri yerine getirecektir dedi .</sentence>
+<sentence num="10">SPK'nın bu sisteme yönelik bir kanun tasarısı taslağı hazırladığını ve bunun 28 Aralık'ta kendilerine sunulduğunu bildiren Şener ,bu çerçevede 27 Ocak'ta SPK ,BDDK ,TBB ,Özel Finans Kurumları Birliği ve TSPAKB ile bir toplantı yapıldığını söyledi .</sentence>
+<sentence num="11">SİSTEM KİRALARI DÜŞÜRECEK Bakan Şener ,Mortgage sisteminin uygulamaya geçmesiyle birlikte vatandaşların konut ihtiyaçlarını kolayca karşılamalarına olanak sağlanacağını belirterek ,şöyle devam etti :Sistem ,uzun dönemde konut arzı artacağından ,kiraların düşmesine olanak sağlayacaktır .</sentence>
+<sentence num="12">Konut sahibi olma aynı zamanda konut kiralama taleplerini de azaltacaktır .</sentence>
+<sentence num="13">Bir yandan arz artarken ,bir yandan talep azalacaktır .</sentence>
+<sentence num="14">Kiraların düzeyi olumlu etkilenecektir .</sentence>
+<sentence num="15">Bu kapsamda inşaat sektörü canlanacak ,bu sektöre bağlı diğer sektörlerin istihdam ve üretiminde önemli artışlar görülecektir .</sentence>
+<sentence num="16">Depreme dayanıklı konut yapımı desteklenecek .</sentence>
+<sentence num="17">Sermaye piyasasına derinlik ve yeni bir yatırım enstrümanı sağlanacaktır .</sentence>
+<sentence num="18">Yurtdışından yeni kredi olanakları ortaya çıkacaktır .</sentence>
+<sentence num="19">Hazırlanacak yasa tasarısının basit ,güvenilir ve tüketiciyi koruyan bir yapıda olmasının önemine dikkat çeken Şener ,ilgili birimlerin görüşleri alındıktan sonra taslağa bu çerçevede son şeklinin verileceğini bildirdi .</sentence>
+<sentence num="20">Şener ,Sistemin tüketicileri koruyan bir yapıyı yansıtması gerekmektedir .</sentence>
+<sentence num="21">Özellikle orta gelir düzeyine sahip olduğu halde birikimleri el vermediği için konut edinemeyenlerin ,konut edinebileceği bir sistemin kurulması önem taşıyor dedi .</sentence>
+</doc>
+<doc>
+<id>15363</id>
+<sentence num="0">2005 01 29 14 :13 :00 .Bakan şener :Kiralar düşecek .</sentence>
+<sentence num="1">Şener :Mortgage sistemiyle kiralar da düşecek Başbakan Yardımcısı ve Devlet Bakanı Abdüllatif Şener ,2005 yılı sonuna doğru ipoteğe dayalı konut finansmanını içeren Şener ,Ekonomi Koordinasyon Kurulu (EKK )toplantısıyla ilgili düzenlediği basın toplantısında ,dün 25'incisi yapılan toplantıda iş ve çalışma hayatında karşılaşılan bürotratik engeller ile ekonomideki son gelişmelerin değerlendirildiğini söyledi .</sentence>
+<sentence num="2">Ekonomik göstergelerin ve ekonomideki gelişmelerin iyi yönde seyretmeye devam ettiğinin değerlendirildiğini ifade eden Şener ,2003 yılının aralık ayında yüzde 79 .4 olan kapasite kullanım oranının yüzde 84'e yükseldiğini hatırlattı .</sentence>
+<sentence num="3">Tüketici güven endeksinin yüzde 2 .4 artarak 105 .2'ye ulaştığını anımsatan Şener ,Merkez Bankası'nın beklenti anketi sonuçlarının ise hükümet tarafından uygulanan ekonomik programın ve 2005 yılı için öngörülen hedeflerin gerçekleşeceğine piyasaların duyduğu güveni teyit ettiğini söyledi .</sentence>
+<sentence num="4">Şener ,AB'den müzakere tarihi alınmasından sonra artan yabancı sermaye girişinin piyasalarda da kendisini hissettirdiğini ifade ederek ,gelecek dönemde yabancı sermaye girişinin artarak devam edeceğini bildirdi .</sentence>
+<sentence num="5">MORTGAGE SİSTEMİ'YLE İLGİLİ ÇALIŞMALAR SÜRÜYOR 2005 yılı sonuna doğru Mortgage sisteminin devreye sokulmasına yönelik çalışmaların devam ettiğini kaydeden Şener ,ipoteğe dayalı konut finansmanını içeren sistemin ,tüketicilere konut üzerine konulan ipotek karşılığında uzun vadeli konut kredisi olanağı sağlayan bir sermaye piyasası aracı olduğunu belirtti .</sentence>
+<sentence num="6">Şener ,sistemle ev sahibi olmak isteyenlerin uzun vadeli kredi sağlamakta zorlanmayacaklarını ve uzun vadeli konut kredisi olanaklarının genişleyeceğini kaydederek ,bu sistemin dünyada yaygın olarak kullanıldığını belirtti .</sentence>
+<sentence num="7">İpotek kredilerinin GSMH'ye oranının Batı Avrupa'da yüzde 40 ,ABD'de yüzde 50 ,Brezilya'da yüzde 7 ,Meksika'da yüzde 6 ,Arjantin'de yüzde 4 ,İsrail'de yüzde 22 ,Ürdün'de yüzde 11 ,Tunus'ta ise yüzde 6 düzeyinde bulunduğunu bildiren Şener ,Türkiye'de ise bu oranın 2003 sonu itibarıyla onbinde 1'ler civarında kaldığını söyledi .</sentence>
+<sentence num="8">Şener ,Demek ki ülkemizde gelişmeyen bir kurumun ,2005'te devreye sokulacak olması sermaye piyasaları açısından ,inşaat sektörü ve konut edinmek isteyenler açısından önemli işlevleri yerine getirecektir dedi .</sentence>
+<sentence num="9">SPK'nın bu sisteme yönelik bir kanun tasarısı taslağı hazırladığını ve bunun 28 Aralık'ta kendilerine sunulduğunu bildiren Şener ,bu çerçevede 27 Ocak'ta SPK ,BDDK ,TBB ,Özel Finans Kurumları Birliği ve TSPAKB ile bir toplantı yapıldığını söyledi .</sentence>
+<sentence num="10">SİSTEM KİRALARI DÜŞÜRECEK Bakan Şener ,Mortgage sisteminin uygulamaya geçmesiyle birlikte vatandaşların konut ihtiyaçlarını kolayca karşılamalarına olanak sağlanacağını belirterek ,şöyle devam etti :Sistem ,uzun dönemde konut arzı artacağından ,kiraların düşmesine olanak sağlayacaktır .</sentence>
+<sentence num="11">Konut sahibi olma aynı zamanda konut kiralama taleplerini de azaltacaktır .</sentence>
+<sentence num="12">Bir yandan arz artarken ,bir yandan talep azalacaktır .</sentence>
+<sentence num="13">Kiraların düzeyi olumlu etkilenecektir .</sentence>
+<sentence num="14">Bu kapsamda inşaat sektörü canlanacak ,bu sektöre bağlı diğer sektörlerin istihdam ve üretiminde önemli artışlar görülecektir .</sentence>
+<sentence num="15">Depreme dayanıklı konut yapımı desteklenecek .</sentence>
+<sentence num="16">Sermaye piyasasına derinlik ve yeni bir yatırım enstrümanı sağlanacaktır .</sentence>
+<sentence num="17">Yurtdışından yeni kredi olanakları ortaya çıkacaktır .</sentence>
+<sentence num="18">Hazırlanacak yasa tasarısının basit ,güvenilir ve tüketiciyi koruyan bir yapıda olmasının önemine dikkat çeken Şener ,ilgili birimlerin görüşleri alındıktan sonra taslağa bu çerçevede son şeklinin verileceğini bildirdi .</sentence>
+<sentence num="19">Şener ,Sistemin tüketicileri koruyan bir yapıyı yansıtması gerekmektedir .</sentence>
+<sentence num="20">Özellikle orta gelir düzeyine sahip olduğu halde birikimleri el vermediği için konut edinemeyenlerin ,konut edinebileceği bir sistemin kurulması önem taşıyor dedi .</sentence>
+</doc>
+<doc>
+<id>16266</id>
+<sentence num="0">2005 01 31 11 :45 :00 .Emlakçılar Mortgage Sistemi'ne nasıl bakıyor ?</sentence>
+<sentence num="1">Konya Emlakçılar Odası Başkanı İsmet Çakır ,kredi kartıyla yapılan harcamalarda bile büyük sorunlar yaşanan Türkiye'de ,kişiyi çok uzun vadeli borç altına sokacak bir emlak sisteminin tutacağına inanmadıklarını söyledi .</sentence>
+<sentence num="2">Çakır ,gayrimenkul piyasasının ,büyük ölçüde peşin satışlar üzerine kurulu olduğunu ,sabit gelirli birçok vatandaşın bile altından kalkamayacağını düşündüğü için bankalardan kredi almak yerine ev sahibi olmak için parasını tamamlayıncaya kadar kirada oturmaya razı olduğunu belirtti .</sentence>
+<sentence num="3">Türkiye'de 2005 yılı ortasından itibaren uygulanmaya başlanacağı açıklanan ,''kira öder gibi ev sahibi olma ''şeklinde adlandırılan Mortgage Sistemi'nin temelinin faiz hesabına dayandığını savunan Çakır ,şunları kaydetti :''Kredi kartıyla yapılan harcamalarda bile büyük sorunlar yaşanan ülkemizde ,kişiyi çok uzun vadeli borç altına sokacak bir emlak sisteminin tutacağına inanmıyoruz .</sentence>
+<sentence num="4">Dışardan emlak sistemi ithal etme yerine ,Türkiye'de normal yollardan vatandaşların ev sahibi olmasının önünü tıkayan engellerin kaldırılması gerekir .</sentence>
+<sentence num="5">Bu nedenle ,düşük gelir grubunun ev sahibi olması için Mortgage Sistemi'nden önce ,arsa tahsisi ,inşaat projesi ve ruhsat alımı gibi konularda iyileştirmeler yapılsın .</sentence>
+<sentence num="6">Konut yapı kooperatifleri güvenli hale getirilerek ya da devlet güvencesi sağlanarak çok daha kısa zamanda vatandaşlarımız ev sahibi yapılabilir .''</sentence>
+<sentence num="7">Mortgage Sistemi'nin ortalama 30 yıl kişileri borç altına sokacağını iddia eden Çakır ,''Hiç kimse ,30 40 bin YTL'lik bir evi 175 200 bin YTL'ye satın almak istemeyecektir .</sentence>
+<sentence num="8">Çünkü ,şartların bir kaç yıl içinde değişebildiği Türkiye'de bu sistem dibi görünmeyen bir kuyudur ''diye konuştu .?</sentence>
+<sentence num="9">TOKİ konutlarının temelleri atıldı ?''</sentence>
+<sentence num="10">Kendi evini kendin yap ''kampanyası başladı ...</sentence>
+</doc>
+<doc>
+<id>19030</id>
+<sentence num="0">2005 02 04 10 :30 :00 .SPK Başkanı Cansızlar'dan Mortgage uyarısı .</sentence>
+<sentence num="1">Mert İLKUTLUĞ İZMİR ,(DHA )SERMAYE Piyasası Kurulu (SPK )Başkanı Doğan Cansızlar ,uzun vadeli konut finansman sistemi olan ve kamuoyunda ,Kira öder gibi ev sahibi yapan sistem ''olarak bilinen Mortgage Sistemi'yle ilgili olarak bazı banka ve kurumların Mortgage başladı ''diye ilanlar verdiğini hatırlatarak ,Mortgage kanunu henüz çıkmadı .</sentence>
+<sentence num="2">Bunlar mortgage sisteminde değil .</sentence>
+<sentence num="3">Vatandaşlar duyarlı olsun ''uyarısında bulundu .</sentence>
+<sentence num="4">İzmir'de düzenlenen Stratejik Teknik Ekonomik Araştırmalar Merkezi'nin (STEAM )organize ettiği `3'üncü Sermaye Piyasaları Arenası ,Vadeli İşlem ve Opsiyon Borsası Risk Yönetimi 'toplantısının kapanış konuşmasını yapan Cansızlar ,Vadeli İşlem ve Opsiyon Borsası'nın (VOB )türev ürünleriyle ilgili ihtisas borsası olması ,özel şirket statüsünde kurulması ve İzmir'de olması açısından bir ilk olduğunu söyledi .</sentence>
+<sentence num="5">Cansızlar ,VOB'un özel şirket statüsünde bir borsa olarak kurulması ,çalışmaları devam eden İMKB ve Altın Borsası'nın özelleştirilmesi için de çok önemli bir zemin oluşturacaktır ''dedi .</sentence>
+<sentence num="6">ZEMİN UYGUN İzmir'in tarım ürünleri konusunda farklı bir yeri olduğunu kaydeden Cansızlar ,gelişen teknolojilerle borsalarda artık seans salonlarına ihtiyaç duyulmadığını bu yüzden VOB'un İzmir'de kurulmasının son derece normal olduğunu dile getirdi .</sentence>
+<sentence num="7">İstanbul'un finansal açıdan artık Anadolu'ya yayılmasında yarar bulunduğunu belirten Cansızlar ,bu yıl içinde Anadolu'daki KOBİ'lere hizmet verecek KOBİ piyasalarını da açmayı hedeflediklerini söyledi .</sentence>
+<sentence num="8">Tarım ürünlerinde devlet tarafından taban fiyat uygulamasından vazgeçilmesinin bu ürünlerde vadeli işlem yapılmasına olanak tanıdığını belirten Cansızlar ,Dövizde ise dalgalı kur olması vadeli işlemlere zemin hazırlıyor ''dedi .</sentence>
+<sentence num="9">Yıllardır siyasi ve ekonomik istikrar olmayışı nedeniyle ,vadeli işlem ve opsiyon borsası kurma çalışmalarının realize edilemediğini kaydeden Cansızlar ,gelinen istikrar ortamı ve olumlu gelişmelerle bu piyasaların önünün açık olduğunu söyledi .</sentence>
+<sentence num="10">Cansızlar ,İMKB ilk açıldığında işlem hacmi düşüktü .</sentence>
+<sentence num="11">VOB'da da ilk etapta hacimler çok yüksek olmaz .</sentence>
+<sentence num="12">Ancak dünyadaki örneklerini de göz önünde tutarak ,vadeli işlemlerin bizde de spot piyasaların çok çok üstünde işlem hacmine ulaşacağını söyleyebiliyorum ''diye konuştu .</sentence>
+<sentence num="13">YASA ÇIKMADI Türk insanının artık günlük düşünmeyi bırakıp orta ve uzun vadede düşünebileceği aşamaya geldiğini ifade eden Cansızlar ,SPK olarak da ileriye yönelik ,yeni enstrümanlar devreye sokmaya başladıklarını söyledi .</sentence>
+<sentence num="14">Mortgage sisteminin de orta ve uzun vadeli bir finansman sistemi olduğunu kaydeden Cansızlar ,sistemle ilgili yasanın henüz çıkmadığına dikkati çekti .</sentence>
+<sentence num="15">Cansızlar ,şöyle konuştu :Basında bazı bankalarımızın ilanları var .`</sentence>
+<sentence num="16">Mortgage sistemi başarıldı 'diye .</sentence>
+<sentence num="17">Aslında Mortgage ile ilgili kanun henüz yasalaşmış değil .</sentence>
+<sentence num="18">Bunun bir arsa satış anlaşması olmadığını söylemek istiyorum .</sentence>
+<sentence num="19">Bu bir ,konut finansman modelidir .</sentence>
+<sentence num="20">Henüz Başbakanlık'ta görüşmeleri devam ediyor .</sentence>
+<sentence num="21">Henüz yasa çıkmadan böylesine ilanlar verilip ,böylesi önemli projenin geleceği ile ilgili bazı soru işaretleri getirilmesinde yarar yoktur .</sentence>
+<sentence num="22">Bankalarımız ve bazı kuruluşlarımızın yaptığı bu proje ve krediler ,normal koşullarda çalışabilir .</sentence>
+<sentence num="23">Ama bunun adı Mortgage değildir .</sentence>
+<sentence num="24">Kanun çıktıktan sonra bu projeler Mortgage sistemiyle birleştirilebilir ,adapte edilebilir .</sentence>
+<sentence num="25">Ama henüz Mortgage kanunu çıkmadı ,uygulamlada yok vatandaşlarımız duyarlı olsunlar .''</sentence>
+<sentence num="26">Arenanın öğleden sonraki bölümünde düzenlenen iki panel ile de ,VOB 'un finansal sistemdeki yeri ve VOB'daki vergi ile muhasebe tartışıldı .?</sentence>
+<sentence num="27">Şener :VOB ,reel ve finansal sektöre katkı sağlayacaktır ?</sentence>
+<sentence num="28">İlan reklam vergilerine zam yapılması esnafı ayağa kaldırdı ...?</sentence>
+<sentence num="29">Avrupa'nın ''Sevgililer Günü ''çiçekleri Türkiye'den ...</sentence>
+</doc>
+<doc>
+<id>19408</id>
+<sentence num="0">2005 02 04 17 :26 :00 .Mortgage 2005'in sonunda devrede .</sentence>
+<sentence num="1">Şener ,Çanakkale Valisi Süleyman Kamçı'yı makamında ziyaret ederek ,ilin sorunları hakkında bilgi aldı .</sentence>
+<sentence num="2">Bir gazetecinin ''Mortgage sistemi henüz yasalaşmadan ,bazı gazetelerde ilanlar yayınlanıyor ,bu konuda vatandaş dolandırılıyor mu ?''</sentence>
+<sentence num="3">sorusu üzerine ,şu açıklamayı yaptı :''Kredilendirme sistemi üzerinde çalışmalarımız devam ediyor .</sentence>
+<sentence num="4">Bu sistem üzerinde bazı kanunlarda değişiklikler yapılması gerekiyor .</sentence>
+<sentence num="5">Bu yasal değişiklikleri içeren bir taslak metni ,verdiğimiz görev sonrasında SPK tamamlamıştır ,bize gelmiştir .</sentence>
+<sentence num="6">Geçen hafta ilgili bazı kuruluşlarla birlikte başta Bankalar Birliği ve Borsa Aracı Kurumlar Birliği olmak üzere tekrar metni gözden geçirdik ve üzerinde bir miktar daha çalışma yapılması gerektiğine karar verdik .</sentence>
+<sentence num="7">Bu çalışmalar tamamlandıktan sonra metin Bakanlar Kurulu'na intikal ettirilecek ve kanun tasarısı olarak TBMM'ne gönderilecektir .</sentence>
+<sentence num="8">Bu kanun yasalaşmadan ve kanunla ilgili gerekli düzenlemeler yapılmadan mortgage sistemi yürürlüğe giremez .</sentence>
+<sentence num="9">Ama zaman zaman bazı panolarda ve zaman zaman gazetelerde sanki mortgage sistemine dayanan bir kredi mekanizması kurulmuş gibi ifadelerle ilanlar ,duyurular yapılmaktadır .</sentence>
+<sentence num="10">Bunların mortgage sistemiyle hiçbir ilgisi ,bağlantısı yoktur .</sentence>
+<sentence num="11">Biz bu sistemi 2005 yılının sonlarına doğru devreye sokmayı düşünüyoruz .</sentence>
+<sentence num="12">yasal düzenlemelerin ,idari düzenlemelerin tamamlanması gerekiyor .</sentence>
+<sentence num="13">Şimdiden sanki mortgage sistemi devredeymiş gibi yapılan uygulamalar ,reklamlar ,sistemin yanlış algılanması sonucunu doğuracağı için biz bunu doğru bulmuyoruz .</sentence>
+<sentence num="14">Bu konuda ben ilgili birimleri uyardım ,alınması gereken önlemler varsa bunlar alınır .''''</sentence>
+<sentence num="15">BANKALAR MEVCUT SİSTEM İÇERİSİNDE 10 15 YIL VADELİ KONUT KREDİSİ VEREBİLİR ''Bakan Şener ,bankaların mevcut sistem içinde 10 15 yıl vadeli konut kredisi verebileceğini ,bunun bankacılık sisteminin tüketicilere açmış olduğu bir krediden ibaret olduğunu ve bu kredilerin mortgage sistemiyle ilişkisinin bulunmadığını kaydetti .</sentence>
+<sentence num="16">Bakan Şener ,bir gazetecinin Haluk Kırcı'nın Türkiye'ye iade edilmesiyle ilgili görüşlerini sorması üzerine ,''Bu konuda gerek İçişleri ,gerekse Adalet Bakanımız gerekli açıklamaları yapmıştır sanıyorum .</sentence>
+<sentence num="17">Ben henüz geniş kapsamlı bilgiye sahip olmadığım için bu konuda değerlendirme yapmayayım ''dedi .</sentence>
+<sentence num="18">Şener ,Valilikten sonra AK Parti İl Başkanlığı'nı da ziyaret etti .</sentence>
+<sentence num="19">Bakan Şener ,bu akşam AK Parti Gençlik Kolları tarafından düzenlenen ''Siyaset Akademisi ''konulu panele katılacak .</sentence>
+<sentence num="20">AA .</sentence>
+</doc>
+<doc>
+<id>19416</id>
+<sentence num="0">2005 02 04 17 :29 :00 .Şener :Mortgage sistemini 2005 sonunda devreye sokacağız .</sentence>
+<sentence num="1">Şener :Mortgage sistemini 2005 sonunda devreye sokacağız Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,mortgage (uzun vadeli ipoteğe dayalı konut kredisi )sistemini ,bu yılın sonunda devreye sokmayı düşündüklerini söyledi .</sentence>
+<sentence num="2">Bakan Şener ,bankaların mevcut sistem içinde 10 15 yıl vadeli konut kredisi verebileceğini ,bunun bankacılık sisteminin tüketicilere açmış olduğu bir krediden ibaret olduğunu ve bu kredilerin mortgage sistemiyle ilişkisinin bulunmadığını da kaydetti .</sentence>
+</doc>
+<doc>
+<id>19417</id>
+<sentence num="0">2005 02 04 17 :30 :00 .Şener :Mortgage sistemini ,yılın sonunda devreye sokacağız .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,mortgage (uzun vadeli ipoteğe dayalı konut kredisi )sistemini ,bu yılın sonunda devreye sokmayı düşündüklerini söyledi .</sentence>
+<sentence num="2">Şener ,Çanakkale Valisi Süleyman Kamçı'yı makamında ziyaret ederek ,ilin sorunları hakkında bilgi aldı .</sentence>
+<sentence num="3">Bir gazetecinin ''Mortgage sistemi henüz yasalaşmadan ,bazı gazetelerde ilanlar yayınlanıyor ,bu konuda vatandaş dolandırılıyor mu ?''</sentence>
+<sentence num="4">sorusu üzerine ,şu açıklamayı yaptı :''Kredilendirme sistemi üzerinde çalışmalarımız devam ediyor .</sentence>
+<sentence num="5">Bu sistem üzerinde bazı kanunlarda değişiklikler yapılması gerekiyor .</sentence>
+<sentence num="6">Bu yasal değişiklikleri içeren bir taslak metni ,verdiğimiz görev sonrasında SPK tamamlamıştır ,bize gelmiştir .</sentence>
+<sentence num="7">Geçen hafta ilgili bazı kuruluşlarla birlikte başta Bankalar Birliği ve Borsa Aracı Kurumlar Birliği olmak üzere tekrar metni gözden geçirdik ve üzerinde bir miktar daha çalışma yapılması gerektiğine karar verdik .</sentence>
+<sentence num="8">Bu çalışmalar tamamlandıktan sonra metin Bakanlar Kurulu'na intikal ettirilecek ve kanun tasarısı olarak TBMM'ne gönderilecektir .</sentence>
+<sentence num="9">Bu kanun yasalaşmadan ve kanunla ilgili gerekli düzenlemeler yapılmadan mortgage sistemi yürürlüğe giremez .</sentence>
+<sentence num="10">Ama zaman zaman bazı panolarda ve zaman zaman gazetelerde sanki mortgage sistemine dayanan bir kredi mekanizması kurulmuş gibi ifadelerle ilanlar ,duyurular yapılmaktadır .</sentence>
+<sentence num="11">Bunların mortgage sistemiyle hiçbir ilgisi ,bağlantısı yoktur .</sentence>
+<sentence num="12">Biz bu sistemi 2005 yılının sonlarına doğru devreye sokmayı düşünüyoruz .</sentence>
+<sentence num="13">yasal düzenlemelerin ,idari düzenlemelerin tamamlanması gerekiyor .</sentence>
+<sentence num="14">Şimdiden sanki mortgage sistemi devredeymiş gibi yapılan uygulamalar ,reklamlar ,sistemin yanlış algılanması sonucunu doğuracağı için biz bunu doğru bulmuyoruz .</sentence>
+<sentence num="15">Bu konuda ben ilgili birimleri uyardım ,alınması gereken önlemler varsa bunlar alınır .''''</sentence>
+<sentence num="16">BANKALAR MEVCUT SİSTEM İÇERİSİNDE 10 15 YIL VADELİ KONUT KREDİSİ VEREBİLİR ''Bakan Şener ,bankaların mevcut sistem içinde 10 15 yıl vadeli konut kredisi verebileceğini ,bunun bankacılık sisteminin tüketicilere açmış olduğu bir krediden ibaret olduğunu ve bu kredilerin mortgage sistemiyle ilişkisinin bulunmadığını kaydetti .</sentence>
+<sentence num="17">Bakan Şener ,bir gazetecinin Haluk Kırcı'nın Türkiye'ye iade edilmesiyle ilgili görüşlerini sorması üzerine ,''Bu konuda gerek İçişleri ,gerekse Adalet Bakanımız gerekli açıklamaları yapmıştır sanıyorum .</sentence>
+<sentence num="18">Ben henüz geniş kapsamlı bilgiye sahip olmadığım için bu konuda değerlendirme yapmayayım ''dedi .</sentence>
+<sentence num="19">Şener ,Valilikten sonra AK Parti İl Başkanlığı'nı da ziyaret etti .</sentence>
+<sentence num="20">Bakan Şener ,bu akşam AK Parti Gençlik Kolları tarafından düzenlenen ''Siyaset Akademisi ''konulu panele katılacak .</sentence>
+</doc>
+<doc>
+<id>19493</id>
+<sentence num="0">2005 02 04 20 :06 :00 .Mortgage Sistemi Yıl Sonu Devrede .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,(mortgage )adıyla anılan ,ipoteğe dayalı uzun vadeli konut kredisi sistemini ,yıl sonunda devreye sokmayı düşündüklerini söyledi .</sentence>
+<sentence num="2">Abdüllatif Şener ,gerekli yasal düzenlemeler yapılmadan mortgage sisteminin yürürlüğe giremeyeceğini hatırlattı .</sentence>
+<sentence num="3">Şener :Ama zaman zaman bazı panolarda ve zaman zaman gazetelerde sanki mortgage sistemine dayanan bir kredi mekanizması kurulmuş gibi ifadelerle ilanlar ,duyurular yapılmaktadır .</sentence>
+<sentence num="4">Bunların mortgage sistemiyle hiçbir ilgisi ,bağlantısı yoktur .</sentence>
+<sentence num="5">Biz bu sistemi 2005 yılının sonlarına doğru devreye sokmayı düşünüyoruz diye konuştu .</sentence>
+</doc>
+<doc>
+<id>19666</id>
+<sentence num="0">2005 02 05 11 :30 :00 .Şener :Mortgage sistemi 2005 sonunda devreye girecek .</sentence>
+<sentence num="1">Erdem SÜREK Burak GEZEN Hakan UÇAR ÇANAKKALE ,(DHA )DEVLET Bakanı ve Başkan Yardımcısı Abdüllatif Şener ,çeşitli açılış ve ziyaretlerde bulunmak üzere Çanakkale'ye geldi .</sentence>
+<sentence num="2">Mortgage sisteminin yaşama geçirilmesi için bazı yasalarda düzenleme ve değişiklikler yapılması gerektiğini söyleyen Şener ,sistemi 2005 yılı sonunda devreye sokmayı planladıklarını anımsattı .</sentence>
+<sentence num="3">Başbakan Yardımcısı Abdüllatif Şener ,Çanakkale Valiliği önünde törenle karşılandı .</sentence>
+<sentence num="4">Şener ,polis tören mangasını selamlayarak Valiliğe girerken önüne Valilik girişinden merdivenlerde uzanan kırmızı halı serildi .</sentence>
+<sentence num="5">Böylece Bakanın buzlu zeminde kaymaması için önlem alındı .</sentence>
+<sentence num="6">Halı serili zeminin çevresine tuz atılarak ikinci bir önlem alındı .</sentence>
+<sentence num="7">Polis mangasının hemen arkasında töreni izleyen bir kadın ,Başbakan yardımcısı Şener'i görebilmek için kalabalığa doğru yaklaşmak istedi .</sentence>
+<sentence num="8">Bu sırada kar yağışından dolayı kayganlaşan zeminde kayıp düştü .</sentence>
+<sentence num="9">Atılıp kadına yardımcı olmak isteyen koruma polisinin de başına aynı şey geldi ,polis memuru da düşmekten kurtulamadı .</sentence>
+<sentence num="10">SİGARALI POZUMU ÇEKMEYİN Abdüllatif Şener ,Çanakkale'ye Ticaret ve Sanayi Odası'nın düzenlediği vergi rekortmenleri ödül törenine ve Onsekiz Mart Üniversitesi'nin Terzioğlu Kampüsü'ndeki Su Ürünleri Fakültesi'ne ait binanın açılışı için geldi .</sentence>
+<sentence num="11">Şener ,Valilik ziyaretinde kendisini izleyen televizyon muhabirlerine RTÜK uyarısında bulundu .</sentence>
+<sentence num="12">Şener ,kente ilişkin brifing veren Vali Süleyman Kamçı'nın sözünü keserek ,Sigaralı pozumu çekmeyin .</sentence>
+<sentence num="13">Çünkü RTÜK kurallarına göre zaten yayınlanması yasaktır .</sentence>
+<sentence num="14">Beni sevenler çoktur .</sentence>
+<sentence num="15">Tiryakilerin sayısını artırabilirsiniz ''dedi .</sentence>
+<sentence num="16">Şener ,Valilik ziyaretinde gazetecilerin sorularını da yanıtladı .</sentence>
+<sentence num="17">Şener ,yanlışlıklarla cezaevinden tahliye edilen Haluk Kırcı'nın Türkiye'ye iadesine ilişkin soruya ,Konuyla ilgili olarak İçişleri Bakanı ve Adalet Bakanı gerekli açıklamaları yapmıştır .</sentence>
+<sentence num="18">Kırcı zaten uzunca bir süredir takip ediliyordu .</sentence>
+<sentence num="19">Yol boyu haberleri takip edemediğimizden ,ayrıntılar hakkında bilgi sahibi olmadığımdan değerlendirme yapmayayım ''karşılığını verdi .</sentence>
+<sentence num="20">Mortgage (ipoteğe dayalı konut finansmanı )sistemi hakkında açıklamalarda bulunan Şener ,Bu sistemle ilgili konut edinme hakkındaki çalışmalar devam ediyor .</sentence>
+<sentence num="21">Bu sistemin yürürlüğe girebilmesi için yasal bazı İcra İflas Kanunu ve Tüketici Kanunu gibi kanunlarda düzenlemelere ihtiyaç var .</sentence>
+<sentence num="22">Bu çalışmalar tamamlandıktan sonra metin Bakanlar Kurulu'na ve daha sonra kanun tasarısı olarak TBMM'ye intikal ettirilecektir .</sentence>
+<sentence num="23">Bu kanun yasalaşmadan ve kanun sonrası idari düzenlemeler yapılmadan ,sistem yürürlüğe giremez .</sentence>
+<sentence num="24">Ama zaman zaman bazı panolarda ,gazetelerde sanki bu sistem üzerine dayalı bir kredilendirme sistemi mekanizması kurulmuş gibi duyurular yapılmaktadır .</sentence>
+<sentence num="25">Bunların Mortgage sistemi ile hiç bir ilgili bağlantısı yoktur ''dedi .</sentence>
+<sentence num="26">Abdüllatif Şener ,Valilik ziyaretinin ardından AKP İl Başkanlığı'na giderek partililerle görüştü .</sentence>
+<sentence num="27">Şener ,daha sonra da SSK Hastanesi'nde tedavi gören besteci Teoman Alpay'ı ziyaret etti .</sentence>
+<sentence num="28">Şeker hastalığına bağlı olarak sağ ayağı kangren olan ve 25 Ocak'ta ameliyatla kesilen ünlü besteciyi hasta yatağında ziyaret eden Şener ,geçmiş olsun ''dileğinde bulundu .</sentence>
+<sentence num="29">Şener ,İzmirli bestekar Avni Anıl'ı evinde ziyaret ettik .</sentence>
+<sentence num="30">Çanakkale'ye gideceğimi söyledim .`</sentence>
+<sentence num="31">Mutlaka hastaneye uğrayıp Teoman Alpay'ı ziyaret edin ve benim de geçmiş olsun dileklerimi iletin 'dedi .</sentence>
+<sentence num="32">Biz de Avni Anıl'ın geçmiş olsun dileklerini iletmek istedik .</sentence>
+<sentence num="33">Size çok selamları var ''dedi .</sentence>
+<sentence num="34">Bir süre Teoman Alpay ile sohbet eden ve sağlık durumu hakkında bilgi alan Şener ,ziyaret sonrası yaptığı açıklamada ,Teoman Alpay çok ünlü bir bestekardır .</sentence>
+<sentence num="35">Yıllara damgasını vurmuş Samanyolu gibi daha bir çok şarkıyı bestelemiştir .</sentence>
+<sentence num="36">Çanakkale aynı zamanda bestekarları ve sanatçılarıyla da ünlü bir kenttir ''diye konuştu .?</sentence>
+<sentence num="37">Türk Dil Kurumu'ndan ''mortgage ''için yeni öneri ...</sentence>
+</doc>
+<doc>
+<id>20804</id>
+<sentence num="0">2005 02 07 15 :45 :00 .Şener :Şu anda yapılanların Mortgage ile ilgisi yok .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,2004 yılında cari açığın 15 .6 milyar dolar seviyesinde gerçekleştiğini hatırlatırken ,''tereddüte düşecek herhangi bir şey yok .</sentence>
+<sentence num="2">Bu cari açığı ,risk olarak algılamamak lazım .</sentence>
+<sentence num="3">Bu açığın finansmanında da bir sorun yok ,bu açık finanse edilmektedir ''dedi .</sentence>
+<sentence num="4">Bakan Şener ,NTV'nin sorularını yanıtlarken 2004 yılı cari açığına ''düşük bir cari açıktır ''diyemeyeceklerini ,bu rakamın önemli bir rakam olduğunu söylerken ,şöyle konuştu :''Bu rakam ,2004 tahmininin üzerindedir ve tahmin de bir kaç kez revize edilmiştir .</sentence>
+<sentence num="5">Bu rakamlara rağmen bir miktar fazla çıktığını düşünecek olursak ,bunun dikkatle takip edilmesi gerekli ama bir ülkede cari açık (var mı yok mu )sadece cari açığın oluşma düzeyine bakarak hesap yapmak ,sonuca ulaşmaya çalışmak doğru değil .''</sentence>
+<sentence num="6">Bazı AB ülkelerinin ,yıllardır Türkiye ile kıyaslanmayacak derece cari açıklarla bugüne kadar geldiklerine işaret eden Bakan Şener ,''komşumuz Yunanistan'ın cari açığı ,10 senedir bizden daha yüksek .</sentence>
+<sentence num="7">Kimse oralarda (cari açık var ekonomi riskte )diye algılamaz .</sentence>
+<sentence num="8">Aynı şekilde bizdeki bu çari açığı da ,risk olarak algılamamak lazım .</sentence>
+<sentence num="9">Bu açık zaten finanse edildiği için döviz fiyatları da belli bir düzeyde seyrediyor ''şeklinde konuştu .</sentence>
+<sentence num="10">MORTGAGE SİSTEMİ Başbakan Yardımcısı ,Mortgage olarak bilinen Uzun vadeli konut kredisi sistemine ilişkin olarak da ,şu anda kamuoyuna açıklanan bazı kredilendirme sistemlerini görerek ,halkın Mortgage sisteminin devreye girdiğini düşünmemesini istedi .</sentence>
+<sentence num="11">Bunun tamamen bankacılık sistemi bünyesinde oluşmuş bir kredi mekanizması olduğunu ,Mortgage sistemine dayalı bir kredilendirme olmayacağını belirten Bakan Şener ,''şu anda yapılanlar ,Mortgage sistemi ile hiç bir bağlantısı olmayan ,bankacılık sistemi içinde yapılan kredilendirmelerdir ''dedi .</sentence>
+<sentence num="12">Bakan Şener ,Mortgage sisteminde taslak çalışma yapıldığını ,yaptıkları son değerlendirmede ,özellikle bankacılık sektörü ve borca aracı kuruluşlarının ilave görüşlerine ihtiyaç duyduklarını ifade ederken ,bu kurumların da bugünlerde görüşleri de ileteceğini ,ondan sonra konuyu tamamlamaya çalışacaklarını kaydetti .</sentence>
+<sentence num="13">Şener ,''Bu sistemin ,bu yılın sonuna kadar devreye girebileceğini düşünüyorum ''dedi .</sentence>
+<sentence num="14">TELSİM'İN SATIŞI Telsim ve Star grubuna ait kuruluşların satışına dönük çalışmalara ilişkin soruyu da yanıtlayan Şener ,Meclis'teki Kanun teklifi yasalaştığında ,TMSF tarafından bu kuruluşların hemen satışının yapılacağını söyledi .</sentence>
+<sentence num="15">Müşterinin çok olduğunu da belirten Bakan Şener ,''TMSF'deki medya kuruluşlarına talep çok yoğun .</sentence>
+<sentence num="16">Hem yerli hem de yabancı sermaye tarafından yoğun beklenti var ,ihaleye çıkıldığında iyi fiyat verileceğini düşünüyorum ''şeklinde konuştu .</sentence>
+<sentence num="17">MÜZAKEREYE DÖNÜK ORGANİZASYON Bakan Şener ,AB sürecinde müzakereyi gerçekleştirecek yapılanma konusunda da görüşlerini şöyle aktardı :''Konu Bakanlar Kurulu'nda ele alındı ama belirlenmiş değil .</sentence>
+<sentence num="18">Burada önemli olan ,müzakere sürecinde Türkiye'nin çıkarlarını en uygun şekilde sürdürmektir .</sentence>
+<sentence num="19">Bunun için iyi bir organizasyon yapısı lazım ve bunun içinde de donanımlı kurumların yer alması gerekiyor .</sentence>
+<sentence num="20">Bu açıdan bakılırsa müzakere süreci ,ekonomik konuların da sürdürüleceği zemindir .</sentence>
+<sentence num="21">Bunda mutlaka DPT'nin ağırlıklı şekilde yer alması lazım ve zannediyorum yer alacaktır .''.</sentence>
+</doc>
+<doc>
+<id>20822</id>
+<sentence num="0">2005 02 07 16 :12 :00 .Şener :Mortgage ile ilgisi yok .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ,2004 yılında cari açığın 15 .6 milyar dolar seviyesinde gerçekleştiğini hatırlatırken ,''tereddüte düşecek herhangi bir şey yok .</sentence>
+<sentence num="2">Bu cari açığı ,risk olarak algılamamak lazım .</sentence>
+<sentence num="3">Bu açığın finansmanında da bir sorun yok ,bu açık finanse edilmektedir ''dedi .</sentence>
+<sentence num="4">Bakan Şener ,NTV'nin sorularını yanıtlarken 2004 yılı cari açığına ''düşük bir cari açıktır ''diyemeyeceklerini ,bu rakamın önemli bir rakam olduğunu söylerken ,şöyle konuştu :''Bu rakam ,2004 tahmininin üzerindedir ve tahmin de bir kaç kez revize edilmiştir .</sentence>
+<sentence num="5">Bu rakamlara rağmen bir miktar fazla çıktığını düşünecek olursak ,bunun dikkatle takip edilmesi gerekli ama bir ülkede cari açık (var mı yok mu )sadece cari açığın oluşma düzeyine bakarak hesap yapmak ,sonuca ulaşmaya çalışmak doğru değil .''</sentence>
+<sentence num="6">Bazı AB ülkelerinin ,yıllardır Türkiye ile kıyaslanmayacak derece cari açıklarla bugüne kadar geldiklerine işaret eden Bakan Şener ,''komşumuz Yunanistan'ın cari açığı ,10 senedir bizden daha yüksek .</sentence>
+<sentence num="7">Kimse oralarda (cari açık var ekonomi riskte )diye algılamaz .</sentence>
+<sentence num="8">Aynı şekilde bizdeki bu çari açığı da ,risk olarak algılamamak lazım .</sentence>
+<sentence num="9">Bu açık zaten finanse edildiği için döviz fiyatları da belli bir düzeyde seyrediyor ''şeklinde konuştu .</sentence>
+<sentence num="10">MORTGAGE SİSTEMİ Başbakan Yardımcısı ,Mortgage olarak bilinen Uzun vadeli konut kredisi sistemine ilişkin olarak da ,şu anda kamuoyuna açıklanan bazı kredilendirme sistemlerini görerek ,halkın Mortgage sisteminin devreye girdiğini düşünmemesini istedi .</sentence>
+<sentence num="11">Bunun tamamen bankacılık sistemi bünyesinde oluşmuş bir kredi mekanizması olduğunu ,Mortgage sistemine dayalı bir kredilendirme olmayacağını belirten Bakan Şener ,''şu anda yapılanlar ,Mortgage sistemi ile hiç bir bağlantısı olmayan ,bankacılık sistemi içinde yapılan kredilendirmelerdir ''dedi .</sentence>
+<sentence num="12">Bakan Şener ,Mortgage sisteminde taslak çalışma yapıldığını ,yaptıkları son değerlendirmede ,özellikle bankacılık sektörü ve borca aracı kuruluşlarının ilave görüşlerine ihtiyaç duyduklarını ifade ederken ,bu kurumların da bugünlerde görüşleri de ileteceğini ,ondan sonra konuyu tamamlamaya çalışacaklarını kaydetti .</sentence>
+<sentence num="13">Şener ,''Bu sistemin ,bu yılın sonuna kadar devreye girebileceğini düşünüyorum ''dedi .</sentence>
+<sentence num="14">TELSİM'İN SATIŞI Telsim ve Star grubuna ait kuruluşların satışına dönük çalışmalara ilişkin soruyu da yanıtlayan Şener ,Meclis'teki Kanun teklifi yasalaştığında ,TMSF tarafından bu kuruluşların hemen satışının yapılacağını söyledi .</sentence>
+<sentence num="15">Müşterinin çok olduğunu da belirten Bakan Şener ,''TMSF'deki medya kuruluşlarına talep çok yoğun .</sentence>
+<sentence num="16">Hem yerli hem de yabancı sermaye tarafından yoğun beklenti var ,ihaleye çıkıldığında iyi fiyat verileceğini düşünüyorum ''şeklinde konuştu .</sentence>
+<sentence num="17">MÜZAKEREYE DÖNÜK ORGANİZASYON Bakan Şener ,AB sürecinde müzakereyi gerçekleştirecek yapılanma konusunda da görüşlerini şöyle aktardı :''Konu Bakanlar Kurulu'nda ele alındı ama belirlenmiş değil .</sentence>
+<sentence num="18">Burada önemli olan ,müzakere sürecinde Türkiye'nin çıkarlarını en uygun şekilde sürdürmektir .</sentence>
+<sentence num="19">Bunun için iyi bir organizasyon yapısı lazım ve bunun içinde de donanımlı kurumların yer alması gerekiyor .</sentence>
+<sentence num="20">Bu açıdan bakılırsa müzakere süreci ,ekonomik konuların da sürdürüleceği zemindir .</sentence>
+<sentence num="21">Bunda mutlaka DPT'nin ağırlıklı şekilde yer alması lazım ve zannediyorum yer alacaktır .''.</sentence>
+</doc>
+<doc>
+<id>21311</id>
+<sentence num="0">2005 02 08 13 :20 :00 .Ege Koop :Mortgage konusunda halk kandırılıyor .</sentence>
+<sentence num="1">Türkiye'de uygulamaya konacak yeni konut edindirme sistemi olan Mortgage ile ilgili son günlerde farklı görüşlerin ortaya çıktığını belirten EGE KOOP Genel Başkanı Hüseyin Aslan ,çeşitli uyarılarda bulundu .</sentence>
+<sentence num="2">Bazı kooperatif veya müteahhitlerin ,yeni kampanyalarını Mortgage Sistemi'ne dayandırmalarını eleştiren Aslan ,''Sistemin yeni olmasından yararlanan bazı açıkgözler ,halkımızı yanlış bilgilendiriyor ''diye konuştu .</sentence>
+<sentence num="3">Genel Başkan Aslan ,Mortgage Sistemi'nin Türkiye'de nasıl uygulanacağı konusunda henüz yasal düzenlemenin bile yapılmadığını hatırlatarak ,uygulamanın ,düzenleme yapıldıktan sonra da en erken 2 yıl sonra başlayacağını kaydetti .</sentence>
+<sentence num="4">Sistemin uygulanmasının çeşitli koşullara bağlı olduğunu ifade eden Aslan ,''Her zaman olduğu gibi ,henüz nasıl uygulanacağı belli olmayan bu sistemde göz göre göre halk kandırılıyor ''dedi .</sentence>
+<sentence num="5">EGE KOOP Genel Başkanı Aslan ,bu yanlış bilgilendirmeden dolayı Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ve Sermaye Piyasası Kurulu Başkanı Doğan Cansızlar'ın halkı uyaran açıklamalarda bulunduğunu da hatırlattı .</sentence>
+</doc>
+<doc>
+<id>22178</id>
+<sentence num="0">2005 02 09 16 :10 :00 .Finansbank konut kredisi vadesini 12 yıla uzattı ...</sentence>
+<sentence num="1">Finansbank ,konut kredisinde vadeyi 7 yıldan 12 yıla uzattı .</sentence>
+<sentence num="2">Finansbank'ın yarından itibaren geçerli yeni düzenlemesine göre ,konut kredisinde 5 yıl vadede yüzde 1 .60 olan faiz oranı ,8 10 12 yıl vadede yüzde 1 .55 olarak belirlendi .</sentence>
+<sentence num="3">Finansbank'ın alınacak kredi tutarlarını göre ,uygulanan faiz oranlarıyla oluşturulan örnek ödeme tablosu şöyle :Kredi Tutarı (YTL )5 Yıl %1 .60 8 Yıl %1 .55 10 Yıl %1 .55 12 Yıl %1 .55 50 ,000 1 ,329 1 ,033 951 902 75 ,000 1 ,994 1 ,550 1 ,426 1 ,353 100 ,000 2 ,658 2 ,066 1 ,901 1 ,804 .</sentence>
+</doc>
+<doc>
+<id>22196</id>
+<sentence num="0">2005 02 09 16 :27 :00 .Finansbank'tan konut kredisinde rekor faiz 50 milyar liralık kredinin aylık ödemesi 902 milyon lira .</sentence>
+<sentence num="1">Bankalar faiz oranını düşürüp vade uzatarak ev sahibi olmayı kolaylaştırıyor Türkiye'de uzun vadeli kredilerle kira öder gibi konut sahibi olma anlamına gelen mortgage tartışılırken ,bankalar birbiri ardına yaptıkları faiz indirimleri ve süre uzatımları ile konut sahibi olmayı kolaylaştırıyor .</sentence>
+<sentence num="2">Faiz oranlarını düşüren bankalar arasına son olarak Finansbank katılırken ,aynı zamanda 12 yıl vadeye uyguladığı yüzde 1 .55'lik faiz oranı ile de en düşük faizli kredi veren banka ünvanını aldı .</sentence>
+<sentence num="3">Türkiye'de ekonomik politikalara ve gelişmelere bağlı olarak iyimserliğin artması ve enflasyondaki düşüş sürecinin devamı bireysel kredi faizlerine de olumlu yansıyor .</sentence>
+<sentence num="4">Aynı zamanda faizlerdeki düşüşün de etkisiyle para kazanmak için kredi satışına yönelen bankalar ,yaptıkları indirimlerle konut sahibi olmayı kolaylaştırıyor .</sentence>
+<sentence num="5">Finansbank'tan rekor faiz Daha önce faiz indirimi açıklayan bankaların ardından Finansbank da ,bugün yaptığı açıklama ile konut kredisinde vadeyi 12 yıla uzatarak faiz oranını yüzde 1 .55 olarak belirledi .</sentence>
+<sentence num="6">Finansbank böylece ,konut kredisinde en düşük faizi uygulayan banka ünvanını almış oldu .</sentence>
+<sentence num="7">Finansbank'ın yeni düzenlemesine göre 12 yıl vadeli 50 milyar lira kredi alan bir kişinin aylık ödemesi 902 milyon lira olurken ,75 milyar liraya aylık 1 milyar 353 milyon lira ödenmesi gerekiyor .</sentence>
+<sentence num="8">Finansbank'ın yarından itibaren geçerli yeni düzenlemesine göre ,konut kredisinde 5 yıl vadedeki faiz oranı ise yüzde 1 .60 olarak belirlendi .</sentence>
+<sentence num="9">Diğer bankalar Finansbank'a en yakın faiz oranını HSBC verirken ,banka 12 yıl vadeye yüzde 1 .59 faiz uyguluyor .</sentence>
+<sentence num="10">Diğer büyük bankalardan Vakıfbank 10 yıl vadeye yüzde 1 .90 ,20 yıl vadeye yüzde 2 ,Ziraat Bankası 10 yıl vadeye yüzde 1 .65 ,İş Bankası 10 yıl vadeye yüzde 1 .70 ,Koçbank 12 yıl vadeye yüzde 1 .69 ,Akbank 5 yıl vadeye yüzde 1 .70 ,Yapı Kredi 5 yıl vadeye yüzde 1 .90 ,Dışbank da aynı vadeye yüzde 1 .65 faiz uyguluyor .</sentence>
+</doc>
+<doc>
+<id>22468</id>
+<sentence num="0">2005 02 10 08 :50 :00 .Konut kredisinde rekor faiz .</sentence>
+<sentence num="1">Bankalar faiz oranını düşürüp vade uzatarak ev sahibi olmayı kolaylaştırıyor Türkiye'de uzun vadeli kredilerle kira öder gibi konut sahibi olma anlamına gelen mortgage tartışılırken ,bankalar birbiri ardına yaptıkları faiz indirimleri ve süre uzatımları ile konut sahibi olmayı kolaylaştırıyor .</sentence>
+<sentence num="2">Faiz oranlarını düşüren bankalar arasına son olarak Finansbank katılırken ,aynı zamanda 12 yıl vadeye uyguladığı yüzde 1 .55'lik faiz oranı ile de en düşük faizli kredi veren banka ünvanını aldı .</sentence>
+<sentence num="3">Türkiye'de ekonomik politikalara ve gelişmelere bağlı olarak iyimserliğin artması ve enflasyondaki düşüş sürecinin devamı bireysel kredi faizlerine de olumlu yansıyor .</sentence>
+<sentence num="4">Aynı zamanda faizlerdeki düşüşün de etkisiyle para kazanmak için kredi satışına yönelen bankalar ,yaptıkları indirimlerle konut sahibi olmayı kolaylaştırıyor .</sentence>
+<sentence num="5">Finansbank'tan rekor faiz Daha önce faiz indirimi açıklayan bankaların ardından Finansbank da ,bugün yaptığı açıklama ile konut kredisinde vadeyi 12 yıla uzatarak faiz oranını yüzde 1 .55 olarak belirledi .</sentence>
+<sentence num="6">Finansbank böylece ,konut kredisinde en düşük faizi uygulayan banka ünvanını almış oldu .</sentence>
+<sentence num="7">Finansbank'ın yeni düzenlemesine göre 12 yıl vadeli 50 milyar lira kredi alan bir kişinin aylık ödemesi 902 milyon lira olurken ,75 milyar liraya aylık 1 milyar 3 milyon lira ödenmesi gerekiyor .</sentence>
+<sentence num="8">Finansbank'ın yarından itibaren geçerli yeni düzenlemesine göre ,konut kredisinde 5 yıl vadedeki faiz oranı ise yüzde 1 .60 olarak belirlendi .</sentence>
+<sentence num="9">Diğer bankalar Finansbank'a en yakın faiz oranını HSBC verirken ,banka 12 yıl vadeye yüzde 1 .59 faiz uyguluyor .</sentence>
+<sentence num="10">Diğer büyük bankalardan Vakıfbank 10 yıl vadeye yüzde 1 .90 ,20 yıl vadeye yüzde 2 ,Ziraat Bankası 10 yıl vadeye yüzde 1 .65 ,İş Bankası 10 yıl vadeye yüzde 1 .70 ,Koçbank 12 yıl vadeye yüzde 1 .69 ,Akbank 5 yıl vadeye yüzde 1 .70 ,Yapı Kredi 5 yıl vadeye yüzde 1 .90 ,Dışbank da aynı vadeye yüzde 1 .65 faiz uyguluyor .</sentence>
+</doc>
+<doc>
+<id>25482</id>
+<sentence num="0">2005 02 15 15 :30 :00 .Yapı Kredi Bankası konut kredisi faizini düşürdü ...</sentence>
+<sentence num="1">Yapı ve Kredi Bankası ,konut ve konut geliştirme kredisi faiz oranlarında indirime gitti .</sentence>
+<sentence num="2">Yapı ve Kredi Bankası'ndan yapılan açıklamaya göre ,3 36 ay vadede yüzde 1 .85 ,bunun üzerinde 60 aya kadar yüzde 1 .90 olan faiz oranları ,3 60 ay vadede yüzde 1 .70 olarak uygulanacak .</sentence>
+<sentence num="3">Banka ,3 24 aylık vadede yüzde 2 olan konut geliştirme kredisi faiz oranlarını da yüzde 1 .90'a düşürdü .</sentence>
+</doc>
+<doc>
+<id>28812</id>
+<sentence num="0">2005 02 21 09 :15 :00 .Konut kredisinde vade uzuyor ,faiz düşüyor HSBC vadeyi 20 yıla çıkardı ,faizi yüzde 1 .49'a düşürdü .</sentence>
+<sentence num="1">Kredi faizleri ilk kez yüzde 1 .5'in altına indi Türkiye'de dar ve orta gelirli vatandaşların daha kolay ev sahibi olmasını sağlayacak olan mortgage sistemi için yasal altyapının hazırlanması yönünde çalışmalar sürerken ,bankalar da bu süreçte konut kredisi vadelerini uzatıp faiz düşürmeye devam ediyorlar .</sentence>
+<sentence num="2">Yaklaşık iki ay önce konut kredisinde vadeyi 12 yıla çıkarıp faizi yüzde 1 .60 olarak belirleyerek yeni bir dönem başlatan HSBC ,bu kez de konut kredisinde vadeyi 20 yıla uzattı .</sentence>
+<sentence num="3">Banka ,20 yıllık konut kredisinin faizini de yüzde 1 .49 olarak belirleyerek ,yüzde 1 .5'in altına inen ilk banka unvanını almış oldu .</sentence>
+<sentence num="4">50 milyara 802 milyon TL Bankanın yeni faiz oranlarına göre ,20 yıl vade ile 50 milyarlık kredi alanların her ay 802 milyon lira ödemeleri gerekiyor .</sentence>
+<sentence num="5">20 yıl yerine 10 yıl vadeyi tercih edenler ise ,aynı miktardaki kredi için yüzde 1 .59 faizle ayda 951 milyon lira ödeyecekler .</sentence>
+<sentence num="6">Türkiye'de ekonomik politikalara ve gelişmelere bağlı olarak iyimserliğin artması ,enflasyondaki düşüş sürecinin devamı ve AB sürecinin etkisiyle faiz indirme yarışına giren bankalar arasında ikinci en düşük konut kredisi faizini ise Finansbank veriyor .</sentence>
+<sentence num="7">Finansbank'ın yüzde 1 .55 oranındaki faizine göre ,12 yıl vadeli 50 milyar lira kredi alan bir kişinin aylık ödemesi 902 milyon lira olurken ,75 milyar liraya aylık 1 milyar 353 milyon lira ödenmesi gerekiyor .</sentence>
+<sentence num="8">Koçbank üçüncü Konut kredisinde en avantajlı faiz oranını sunan üçüncü banka ise Koçbank .</sentence>
+<sentence num="9">Koçbank ,12 yıl vade için yüzde 1 .59 faiz uygularken ,Garanti Bankası ve Ziraat Bankası'nın faizi 10 yıl için yüzde 1 .65 ,Vakıfbank'ın aynı vade için yüzde 1 .90 ,İş Bankası'nın da yüzde 1 .70 seviyesinde .</sentence>
+</doc>
+<doc>
+<id>29717</id>
+<sentence num="0">2005 02 22 14 :30 :00 .Vakıfbank ,bireysel kredi faiz oranlarını düşürdü ...</sentence>
+<sentence num="1">Vakıfbank ,tüm bireysel kredi faizleri oranlarında indirime gitti .</sentence>
+<sentence num="2">Vakıfbank ,20 yıl vadedeki konut kredisinin faiz oranını da aylık yüzde 1 ,75 olarak belirledi .</sentence>
+<sentence num="3">Vakıfbank'tan yapılan açıklamaya göre ,bankanın yeni taksitli ihtiyaç kredi faiz oranı aylık yüzde 2 .00 ve bireysel nitelikli otomobil kredisi faiz oranı aylık yüzde 1 .70'a inerken ,20 yıla kadar vade seçenekleri bulunan konut kredisi faiz oranı ise aylık yüzde 1 ,70 oldu .</sentence>
+<sentence num="4">Yeni düzenlemede Vakıfbank'ın piyasadaki en uzun vade seçeneklerini uyguladığı Konut kredisi faiz oranı ise 1 12 ay vadede aylık yüzde 1 ,80'den yüzde 1 ,70'e geriledi .</sentence>
+<sentence num="5">Vakıfbank ,20 yıl vadedeki konut kredisinin faiz oranını da aylık yüzde 1 ,75 olarak belirlerken ,konut tamamlama kredilerine tüm vadelerde aylık yüzde 1 ,80 faiz oranını uygulayacak .</sentence>
+</doc>
+<doc>
+<id>30215</id>
+<sentence num="0">2005 02 23 11 :20 :00 .Vatandaş konut kredilerine temkinli yaklaşıyor ...''</sentence>
+<sentence num="1">Kira öder gibi ev sahibi olma ''imkanı olarak sunulan ,uzun vadeli ,uygun koşullu ''finansman modeli olan ''mortgage ''benzeri konut kredisi uygulaması başlatan bankalar ,kredi faiz oranını düşürme yarışına girerken ,20 yıla kadar uzayan vadeler konusunda vatandaşın temkinli davrandığı bildirildi .</sentence>
+<sentence num="2">Vakıfbank Genel Müdürlüğü yetkililerinden edinilen bilgiye göre ,konut kredilerinde vadeyi 15 Şubat 2005 tarihinden itibaren 20 yıla çıkararak en uzun vadeli ilk konut kredisini veren Vakıfbank ,yüzde 2 .0 olan aylık faiz oranını piyasadaki rekabet koşulları nedeniyle 22 Şubat 2005 tarihinden itibaren yüzde 1 .75'e çekti .</sentence>
+<sentence num="3">Banka ,120 ay vadeli krediler için ise daha önce yüzde 1 .90 olan faiz oranını yüzde 1 .70'e düşürdü .</sentence>
+<sentence num="4">Bankanın kredi pazarlama departmanı yetkililerine göre ,konut sahibi olmak isteyenler ise avantajlarına karşılık uzun vadeden ürküyor .</sentence>
+<sentence num="5">Bu nedenle Vakıfbank'a gelen toplam konut kredileri taleplerinin yüzde 75'ini 10 yıla kadar olan vadeler oluşturuyor .</sentence>
+<sentence num="6">20 yıl vadeli konut kredilerin toplam talep içindeki payı ise yüzde 20 25 civarında .</sentence>
+<sentence num="7">Konut kredilerinde kredi tutarı konutun fiyatına değil ,ekspertizin biçtiği değere göre belirleniyor .</sentence>
+<sentence num="8">Kredi miktarı ekspertiz değerinin yüzde 75'i olarak belirleniyor .</sentence>
+<sentence num="9">Ziraat Bankası Adana Bölge Müdürlüğü Pazarlama Müdür Yardımcısı Mehmet Emin Tosmur ise 28 Ocak 2005 tarihinden itibaren konut kredilerinde 120 ay için ayda 1 .65 faiz uyguladıklarını ,satın alınacak konutun toplam değeri üzerinden verilecek kredi miktarının ise krediyi talep edenin aylık gelirine göre değiştiğini bildirdi .</sentence>
+<sentence num="10">30 YAŞIN ALTINDAKİ KONUTLAR AVANTAJLI Tosmur ,müşterilerin ,yaşı 30'un altında olan konutlar için ekspertizin biçtiği değerin yüzde 25'ini ,30 yaşın üzerinde olanlar için ise yüzde 40'ını karşılamak zorunda olduklarını ifade etti .</sentence>
+<sentence num="11">Aynı bankanın pazarlama uzmanı Mustafa Ceyhan ise kredi kartı kullanım oranındaki artış ve kullanıcıların bütçelerini aşan harcamalarının neden olduğu ödeme sorununun konut kredisine olan talebi frenlediğini gözlemlediklerini bildirdi .</sentence>
+<sentence num="12">İlerleyen aylarda konut kredisine talebin artacağını düşündüklerini ifade eden Ceyhan ,''Vatandaş konut kredisi almadan önce kredi kartı borçlarını bitirmek istiyor .</sentence>
+<sentence num="13">Çok uzun vadeli taksitli satışlar nedeniyle kabaran borçları düşük faizli kredi çekerek kapatmak isteyenler çoğunlukta ''dedi .</sentence>
+<sentence num="14">Ceyhan ,kredi talebinde 20 yılın çok uzun vade olarak düşünüldüğünü bu nedenle ,taleplerin 7 yıllık vadelerde yoğunlaştığını ifade ederek ,şunları söyledi :''Konut kredisi talep edenlerin öncelikle gelir durumu araştırılıyor .</sentence>
+<sentence num="15">Bunun yanı sıra başvuru sahibinin bankalar arası kart merkezi aracılığıyla başka bankalara borcu ya da daha önceden alıp geciktirmiş olduğu borç bulunup bulunmadığı araştırılıyor .''</sentence>
+<sentence num="16">Konut kredisinde vadeyi uzatan ikinci banka olan HSBC Bank A .Ş 20 yıl vade uygulamasını 21 Şubat 2005 Pazartesi gününden itibaren başlattı .</sentence>
+<sentence num="17">Daha önce YTL Konut Kredileri'ne 12 yıl vade ve yüzde 1 .55 faiz uygulayan HSBC ,YTL cinsinden Konut Kredileri'nde 20 yıl vade için yüzde 1 .49 faiz uyguluyor .</sentence>
+<sentence num="18">Bu arada ,Finansbank 12 yıl vade ve yüzde 1 ,55 faiz oranlı ,İş Bankası 120 ay vade ve 1 .70 faiz oranlı ,Akbank 60 ay vade ve 1 .60 faiz oranı ,Oyakbank ise 120 ay ve yüzde 1 .65 faiz oranıyla konut kredisi veriyor .?</sentence>
+<sentence num="19">Bankalar 'temiz 'konuta kredi veriyor .</sentence>
+</doc>
+<doc>
+<id>37844</id>
+<sentence num="0">2005 03 08 10 :30 :00 .Yapı Kredi'den faiz indirimi ...</sentence>
+<sentence num="1">Yapı Kredi Bankası ,otomobil ve konut kredisi faiz oranlarını indirdi .</sentence>
+<sentence num="2">Yapı Kredi'den yapılan açıklamaya göre ,3 36 ay vadeli YTL otomobil kredisi faiz oranı yüzde 1 .75'den 1 .70'e düşürüldü .</sentence>
+<sentence num="3">Banka ,3 60 ay vadede yüzde 1 .70 olan YTL konut kredisini ise 7 yıla kadar çıkararak 3 84 ay vadede yüzde 1 .60 olarak belirledi .</sentence>
+</doc>
+<doc>
+<id>38101</id>
+<sentence num="0">2005 03 08 15 :10 :00 .BankEuropa ,Konut Kredisi'nde faiz indirdi ...</sentence>
+<sentence num="1">BankEuropa ,7 yıl vadeli YTL cinsinden konut kredisi faiz oranını yüzde 1 .55'ten yüzde 1 .49'a çekti .</sentence>
+<sentence num="2">BankEuropa'dan yapılan açıklamaya göre ,BankEuropa ,konut kredisine başvuranların gerekli belgeleri eksiksiz sağlaması durumunda ,maaşlı çalışanlara 1 günde ,serbest meslek mensuplarına ve şirket ortaklarına ise 2 günde ön onay veriyor .</sentence>
+<sentence num="3">Verilen ön onayı takiben konutun değerini tespit etmek üzere SPK sertifikalı konut eksperlerine başvuran banka ,ekspertiz raporunda belirlenen değer üzerinden kredinin kullanımını gerçekleştiriyor .</sentence>
+<sentence num="4">YTL konut kredilerinde 7 yıl vade uygulayan BankEuropa ,yüzde 1 ,55'lik faiz oranını da yüzde 1 ,49'a indirdi .</sentence>
+<sentence num="5">ABD Doları ve Avro konut kredilerinde ise 15 yıl vade uygulayan BankEuropa ,müşterilerine yüzde 0 ,65'ten başlayan faiz oranları sunuyor .</sentence>
+<sentence num="6">BankEuropa'dan 7 yıl vadeli 10 bin YTL konut kredisi alanlar aylık 214 .74 YTL ,9 yıl vadeli 10 bin dolar veya avro cinsinden kredi alan müşteriler de ayda 131 .17 dolar veya avro geri ödeme yapıyor .</sentence>
+<sentence num="7">12 yıl vadeli 10 bin dolar veya avro konut kredisi kullanan müşteriler ayda 109 ,99 ,15 yıl vadeli kredi kullanlar ise ayda 99 ,61 dolar veya avro geri ödemede bulunuyor .</sentence>
+</doc>
+<doc>
+<id>41037</id>
+<sentence num="0">2005 03 13 09 :35 :00 .Emlak sektörü geçen yılı arıyor ...</sentence>
+<sentence num="1">Emlak sektöründe ,geçen yıl ,mevduat faizlerinin düşmesi ,dolardaki gerileme ve bankaların konut kredisinde cazip olanaklar sunması nedeniyle yaşanan canlanmanın bu yıl yerini durgunluğa bıraktığı bildirildi .</sentence>
+<sentence num="2">Adana Tüm Emlakçılar Esnaf Odası Başkanı Burhan Coşkun ,geçen yıl oluşan yoğun talep nedeniyle ''sıfır ''diye tabir edilen yeni dairelerin tükenmesi ,inşaatçıların da tedbirli davranıp ekonomik gelişmeleri biraz daha izlemeyi tercih etmelerinin konut sıkıntısına yol açtığını anlattı .</sentence>
+<sentence num="3">Yeni konutların yapılmasındaki düşüşün etkenlerinden birinin de Toplu Konut İdaresi (TOKİ )tarafından uygulanacağı belirtilen ve ipoteğe dayalı konut kredisi anlamına gelen ''mortgage ''sistemi olduğunu savunan Coşkun ,''Mortgage söylentisi inşaatçıları olumsuz etkilerken ,emlakçılık sektörünü de bitirdi ''dedi .</sentence>
+<sentence num="4">Halkın tüm beklentisinin ayda 50 100 YTL arasında değişen taksitlerle kira öder gibi ev sahibi olma yönünde yoğunlaştığına dikkati çeken Coşkun ,benzer sistemi başlatan bazı bankalardaki uygulamanın ise alt ve orta gelir grubunun beklentilerine cevap vermekten uzak olduğunu söyledi .</sentence>
+<sentence num="5">Coşkun ,geçen yıl verilen otomobil kredilerinin araç satışlarını artırdığını ,ancak ,konut kredileri için aynı etkiye yol açmadığını belirterek ,''Çünkü ,bu sistemde krediyi alanın ödemesi gerekin miktar asgari ücretin en az birkaç katı .</sentence>
+<sentence num="6">Bu nedenle halk tüm umutlarını TOKİ'ye bağladı ''dedi .</sentence>
+<sentence num="7">BİRÇOK KİŞİ HAYAL KIRIKLIĞI YAŞAYACAK TOKİ'nin uzun vadede geri ödemeli konutlarla ilgili projelerini bir an önce kamuoyuna açıklaması gerektiğini savunan Coşkun ,aksi takdirde emlak sektörünün önünün açılamayacağını savunarak ,şunları kaydetti :''TOKİ'nin başlattığı projeden kimlerin ,hangi gelir seviyesinde olanların faydalanacağı ve bu imkanın kaç kişiye tanınacağı konusunda bir netlik yok .</sentence>
+<sentence num="8">Bu nedenle uygulama başladığında TOKİ'den konut sahibi olmayanlar banka kredilerine sarılmak zorunda kalacak .</sentence>
+<sentence num="9">Bu da talep fazlalığına bağlı olarak konut kredisi faizlerini yükseltecektir .''</sentence>
+<sentence num="10">Coşkun ,halkın hayal kırıklığına uğramaması için TOKİ'nin hangi ilde ne kadar konut yapacağını ,hangi koşullarda vereceğini bir an önce açıklaması ve mortgage ile ilgili halka doyurucu bilgiler vermesi gerektiğini sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>42235</id>
+<sentence num="0">2005 03 15 10 :45 :00 .Yapı Kredi Bankası ,konut kredisi faizini düşürdü ...</sentence>
+<sentence num="1">Yapı Kredi Bankası ,konut kredisi faiz oranını düşürdü .</sentence>
+<sentence num="2">Yapı Kredi'den yapılan açıklamaya göre ,bugünden geçerli olmak üzere 3 84 ay arasındaki vadelerde ,faiz oranı 0 .05 puan indirilerek yüzde 1 .55'e çekildi .</sentence>
+<sentence num="3">TL konut geliştirme kredisinin vadesi de ,3 24 aydan 3 36 aya uzatıldı .</sentence>
+</doc>
+<doc>
+<id>42293</id>
+<sentence num="0">2005 03 15 11 :39 :00 .YKB ,konut kredisi faizini düşürdü .</sentence>
+<sentence num="1">Yapı Kredi'den yapılan açıklamaya göre ,bugünden geçerli olmak üzere 3 84 ay arasındaki vadelerde ,faiz oranı 0 .05 puan indirilerek yüzde 1 .55'e çekildi .</sentence>
+<sentence num="2">TL konut geliştirme kredisinin vadesi de ,3 24 aydan 3 36 aya uzatıldı .</sentence>
+</doc>
+<doc>
+<id>43488</id>
+<sentence num="0">2005 03 16 21 :31 :00 .Cansızlar'dan Mortgage savunması .</sentence>
+<sentence num="1">Sermaye Piyasası Kurulu (SPK )Başkanı Doğan Cansızlar ,Mortgage Sistemi'nin kaçak yapıyla mücadelede oldukça önemli bir müessese olduğunu söyledi .</sentence>
+<sentence num="2">Cansızlar ,Türkiye'de 80 yılı aşkın Cumhuriyet tarihine yakışır bir yapı olmadığını kaydetti .</sentence>
+<sentence num="3">SPK Başkanı Cansızlar ,Okan Üniversitesi'nde 'Sermaye Piyasasında Son gelişmeler ve Mortgage 'konulu bir konferans verdi .</sentence>
+<sentence num="4">Konferansta konuşan Cansızlar ,Mortgage Sisteminin uygulanmasıyla kaçak yapılaşmanın da önüne geçilmiş olunacağını dile getirdi .</sentence>
+<sentence num="5">Cansızlar ,Mortgage sistemi kaçak yapıyla mücadelede oldukça önemli bir müessese .</sentence>
+<sentence num="6">Çünkü konut stokuna ,inşaat stokuna baktığımızda Türkiye'de 80 yıllık Cumhuriyet'imize yakışır bir yapı yok .</sentence>
+<sentence num="7">Konutlara bakıyorum imara aykırı .</sentence>
+<sentence num="8">Bir yerden başlamak lazım .</sentence>
+<sentence num="9">İşte bu noktada Mortgage Sistemi bu çarpık kentleşmeyi ,yani kaçak yapıları ,gece konduları önleyecek bir mekanizma olacaktır .</sentence>
+<sentence num="10">diye konuştu .</sentence>
+<sentence num="11">Sistemin bir anda her şeyi düzeltemeyeceğini belirten Cansızlar ,sitemin oturmasının zaman alacağını ancak 2006 yılı başı itibariyle uygulamaya başlanacağını ifade etti .</sentence>
+<sentence num="12">Cansızlar ,Mortgage Sistemi'nin çalışabilmesi için ekonomik istikrarın ve makro ekonomik dengelerin oturmuş olması ve reel faizlerin makul ölçülere inmesi gerektiğini aktardı .</sentence>
+<sentence num="13">Şu anda yüzde 8 civarında olan reel faizlerin hala yüksek bir seviyede olduğuna dikkat çeken hatırlatan Cansızlar ,sene sonuna kadar dengelerin yerli yerine oturacağını söyledi .</sentence>
+<sentence num="14">Cansızlar ,Mortgage Sistemi'ne uluslararası yatırımcıların da ilgisinin olduğu açıkladı .</sentence>
+<sentence num="15">Cansızlar ,bir soru üzerine Mortgage Sistemi'nde herkesin istediği kadar konut satın alabileceğini ancak bu kişilerin ikinci konuttan sonra teşvikten yararlanamayacağını kaydetti .</sentence>
+<sentence num="16">Konferans sonunda Okan Üniversitesi Rektörü Prof .Dr .Sadık Kırbaş tarafından Cansızlar'a bir plaket verildi .</sentence>
+<sentence num="17">CİHAN .</sentence>
+</doc>
+<doc>
+<id>44698</id>
+<sentence num="0">2005 03 18 14 :55 :00 .BankEuropa ,konut kredisinde vadeyi uzattı ...</sentence>
+<sentence num="1">BankEuropa ,YTL konut kredisinde vadeyi 10 yıla uzattı .</sentence>
+<sentence num="2">USD ve Euro endeksli konut kredilerinde 15 yıl vade seçeneği sunan BankEuropa ,YTL konut kredilerinde uyguladığı vadeyi 7 yıldan 10 yıla çıkardı .</sentence>
+<sentence num="3">YTL konut kredilerinde faiz oranı %1 ,49 .15 yıl vadeli Amerikan Doları ve Euro konut kredilerinde ise faiz oranı %0 ,65'ten başlıyor .</sentence>
+</doc>
+<doc>
+<id>44714</id>
+<sentence num="0">2005 03 18 15 :11 :00 .BankEuropa ,konut kredisinde vadeyi uzattı .</sentence>
+<sentence num="1">BankEuropa ,YTL konut kredisinde vadeyi 10 yıla uzattı .</sentence>
+<sentence num="2">USD ve Euro endeksli konut kredilerinde 15 yıl vade seçeneği sunan BankEuropa ,YTL konut kredilerinde uyguladığı vadeyi 7 yıldan 10 yıla çıkardı .</sentence>
+</doc>
+<doc>
+<id>47827</id>
+<sentence num="0">2005 03 23 19 :07 :00 .KİPTAŞ'tan Mortgage talebi .</sentence>
+<sentence num="1">İstanbul Büyükşehir Belediyesi'nin iştiraklerinden KİPTAŞ'ın (İstanbul Konut İmar Plan Sanayi ve Ticaret A .Ş )Genel Müdürü İsmet Yıldırım ,sadece ipoteğe dayalı değil ,KİPTAŞ gibi kefalete dayalı sistemin de mortgage sistemine dahil edilmesi gerektiğini söyledi .</sentence>
+<sentence num="2">İstanbul Üniversitesi İktisat Kulubü tarafından düzenlenen Ekonomi Zirvesi 2005 konulu toplantının ''Mortgage Sistemi ve Türkiye'deki Uygulamaları ''konulu panelinde konuşan Yıldırım ,mortgage sisteminin hükümetin gündemine bu yılın Ocak ayından itibaren girdiğini ,modelin işlemesi için İpotekli Konut Finansmanı Anonim Ortaklığı'nın kurulmasının karara bağlandığını anlattı .</sentence>
+<sentence num="3">Yıldırım ,30 yıl vadeye varan ,doğal afet sigortası yapılmasını zorunlu kılan mortgage sisteminde ,dairenin değerinin yüzde 25'ini vatandaşın cebinden ödeyeceğini ,2 eve kadar alınacak bu tür kredilerle ilgili ödenecek faizlerin vergi matrahından düşürülmesiyle ilgili teşvik mekanizmaları getirileceğini söyledi .</sentence>
+<sentence num="4">Kamuya ait lojmanların da bu sisteme dahil olabileceğini ifade eden Yıldırım ,ipotek finans kuruluşunun yapılanmasının Temmuz ayında tamamlanmasını beklediklerini ,bu kuruluşun yüzde 49'unu geçmeyecek kamu payında ortaklar arasında kamu bankaları olarak Halk Bankası ve Ziraat Bankası ile Toplu Konut İdaresi'nin de yer alacağını bildirdi .</sentence>
+<sentence num="5">Yıldırım ,ipotek bankacılığında büyük rol üstlenecek bankaların sisteme uygun düzenlemeleri yapması gerektiğini belirtti .</sentence>
+<sentence num="6">Türkiye'de toplam konutların yüzde 55'inin ruhsatsız olduğunu ,ev sahipliği oranının yüzde 60'lar seviyesinde bulunduğunu söyleyen Yıldırım ,her yıl 300 bin yeni konut ihtiyacının ortaya çıktığını ,konut stokunun yüzde 60'ını 20 yaşın üstündeki konutların oluşturduğunu ,konutların yüzde 40'ının tadilata ihtiyacı bulunduğunu kaydetti .''</sentence>
+<sentence num="7">98 BİN KİŞİ KONUT KREDİSİ KULLANDI ''Konut alımlarının yüzde 1'den daha azının finansman sistemi yoluyla fonlandığını belirten Yıldırım ,2004 yılı itibariyle 98 bin kişinin konut kredisi kullandığını söyledi .</sentence>
+<sentence num="8">İsmet Yıldırım ,''Konut kredilerinin GSMYH'ya oranı yüzde 0 .5'tir .</sentence>
+<sentence num="9">Bu oran ABD'de yüzde 53 .Avrupa Birilği'de yüzde 39'dur ''dedi .</sentence>
+<sentence num="10">Yıldırım ,bankaların da konut kredisinde en üst yüzde 10 15'lik gelir grubuna hitap ettiğini belirtti .</sentence>
+<sentence num="11">Türkiye'deki ev alımlarının yüzde 63'ünün miras ya da peşin alım ,yüzde 23'ünün borç para ,yüzde 8'inin kooperatif ,yüzde 3'ünün banka kredileri ve yüzde 3'ünün de diğer yöntemlerle gerçekleştirildiğine dikkati çeken Yıldırım ,şöyle devam etti :''Mevcut sistemde verilen konut kredisinin kredi vadesinin en fazla 5 yıl olması ve yıllık bileşik faizlerin yüzde 25'lere kadar ulaşması ,banka kredisi yoluyla konut sahibi olunmasını güçleştirici bir faktör .</sentence>
+<sentence num="12">Sistemin yürürlüğe girmesi çalışmalarında bankalara önemli rol düşüyor .''</sentence>
+<sentence num="13">Mortgage sistemi ile KİPTAŞ konut finansman sistemini karşılaştıran Yıldırım ,KİPTAŞ'ta dar gelirliye doğrudan ulaşma ,düşük maliyet ,hem konut hem işyeri için uygulama imkanı ,inşaat sürecinde de kredilendirme mümkün olurken ,mortgage sisteminde devlet güvencesi altında olması ,uzun vadeler nedeniyle düşük taksit olanağı bulunduğunu anlattı .</sentence>
+<sentence num="14">KİPTAŞ'ın vadelerin kısa olması dolayısıyla taksitlerin daha yüksek olması gibi bir dezavantajı bulunduğunu ifade eden Yıldırım ,mortgage sistemindeki dezavantajı ,maliyet yüksekliği olarak belirtti .</sentence>
+<sentence num="15">KİPTAŞ'ın kefalet yöntemiyle 6 yıldır kendi konut finansman sistemini geliştirdiğini ,8 ayrı banka ve özel finans kurumlarıyla çalışarak kendi içinde kurumsal bir yapı oluşturduğunu söyleyen Yıldırım ,''Sadece ipoteğe dayalı değil ,KİPTAŞ gibi kefalete dayalı sistemin de mortgage sistemine dahil edilmesi gerek .</sentence>
+<sentence num="16">İnşaatın ilk başlangıcı sisteme dahil edilmeli .</sentence>
+<sentence num="17">Konut bittiğinde mortgage sisteminin çok faydası yok ''dedi .</sentence>
+<sentence num="18">CİHAN .</sentence>
+</doc>
+<doc>
+<id>48114</id>
+<sentence num="0">2005 03 24 10 :50 :00 .TOKİ :Mortgage için istikrar olmalı .</sentence>
+<sentence num="1">Dar gelirli kesimin umutla beklediği Mortgage Sistemi'nde (İpoteğe Dayalı Uzun Vadeli Konut Kredisi Sistemi )hukuki hazırlıklar son aşamaya gelirken ,Toplu Konut İdaresi (TOKİ )Başkanvekili Erdoğan Bayraktar ,sistemin başarısının ve sürekliliğinin sağlanması için istikrarlı ve güvenilir bir ekonomik ortamın varlığının ön koşul olduğunu vurguladı .</sentence>
+<sentence num="2">DYP Iğdır Milletvekilli Dursun Akdemir'in Devlet Bakanı Mehmet Ali Şahin'e yönelttiği soru önergesini yanıtlayan TOKİ Başkanvekili Erdoğan Bayraktar ,uluslararası örneklerin incelenerek Türkiye'de mevcut piyasa koşullarında işleyecek Mortgage sisteminin oluşturulması konusunda alt yapı çalışmalarının devam ettiğini bildirdi .</sentence>
+<sentence num="3">İLK İPOTEKLİ KURULUŞ KAMU DESTEKLİ OLACAK Bayraktar yaklaşık bir yıldır Maliye Bakanlığı'nın koordinatörlüğünde Medeni Kanun ,Bankalar Kanunu ,İcra ve İflas Kanunu ,Tüketicinin Korunması Kanunu ve Tapu Kanunu'nda yapılması gerekli değişikliklerin tespit edildiğini bildirdi .</sentence>
+<sentence num="4">Bu kapsamda yapılan hukuki hazırlıkların son aşamaya geldiğini ifade eden Bayraktar ,hazırlanan yasa taslağı çerçevesinde kurulacak ilk ipotekli finansman kuruluşunun kamu destekli olacağını ve yükümlülüklerinin bir bölümüne hazine garantisi getirileceğini vurguladı .</sentence>
+<sentence num="5">TOKİ ÖNCÜLÜK EDECEK TOKİ'nin sektördeki görevi ve misyonu gereği konut finansmanının kurumsallaştırılması amacıyla yapılacak çalışmalarda etkin bir rol üstleneceğini belirten Bayraktar ,sistemin uzun vadeli krediler için tedavül hareketini hızlandıran likit bir ikincil piyasanın oluşturulması gerektiğini kaydetti .</sentence>
+<sentence num="6">İkincil piyasanın çalışabilmesi için öncelikle birincil pazar denilen gayrimenkul pazarının çok iyi işlemesinin gerektiğini belirten Bayraktar ,birincil piyasanın iyi çalışmasının da gayrimenkul yatırım maliyetini etkileyen unsurlara bağlı olduğunu bildirdi .</sentence>
+<sentence num="7">Bayraktar bu kapsamda maliyetin önemli bir kısmını oluşturan arsa temininde kamu idaresinin öncü olması gerektiğini kaydetti .</sentence>
+<sentence num="8">VADELER 30 YILA KADAR ÇIKACAK Mortgage sistemi ile konut sahibi olmak isteyen kişilerin satın alacakları konutu ipotek ederek 20 30 yıla varan vadelerle kredi kullanacağını belirten Bayraktar ,alınacak ipotek kredisinin aylık geri ödemelerinin de benzer bir konutun aylık kira ödemesi düzeyinde olacağını söyledi .</sentence>
+<sentence num="9">SİSTEM İÇİN İSTİKRAR ÖN KOŞUL Gelişmiş ülkelerin mali yapılarının ipotek kredilerini finanse edecek ölçüde yeterli kaynağa sahip olması nedeniyle sistemin işlediğini anımsatan Bayraktar ,Sistemin Türkiye uygulaması ,enflasyon ve memur maaş artış endeks değerlerinin çok uzaklaştığı dönemlerdeki kredi geri ödemeleri için ciddi finansman desteği gerektirmektedir .</sentence>
+<sentence num="10">Sistem başarısının ve sürekliliğinin sağlanması için istikrarlı ve güvenilir bir ekonomik ortamın varlığı ön koşuldur dedi .</sentence>
+<sentence num="11">BAŞARI ENFLASYONA BAĞLI Bayraktar ,Türkiye'de başta yüksek enflasyon oranları olmak üzere olumsuz ekonomik koşulların ,ticari bankaların ve diğer kredi kuruluşlarının özellikle uzun vadelerle konut kredisi vermelerini engellediğini belirtti .</sentence>
+<sentence num="12">Konuyla ilgili dünyadan da örnekler veren Bayraktar ,sistemin enflasyonun kontrol altında tutulamadığı Brezilya ve Şili'de işlemediğini ,İngiltere ve Almanya'nın ise en gelişmiş ve en güçlü mortgage piyasasına sahip ülkeler olduğunu bildirdi .</sentence>
+</doc>
+<doc>
+<id>49440</id>
+<sentence num="0">2005 03 26 09 :44 :00 .Haydi ev almaya .</sentence>
+<sentence num="1">Çok değil ,iki yıl önce herkes evini ,arabasını ,arsasını satıp ,bankaya yatırır ,döviz alırdı .</sentence>
+<sentence num="2">Amaç eldeki parayı getirisi yüksek bir alanda değerlendirmekti .</sentence>
+<sentence num="3">Şimdi mevduat faizleri düştü ,döviz yükselmiyor .</sentence>
+<sentence num="4">İki yıl öncesine kadar evini satanlar ,şimdi yeniden ev almaya çalışıyor .</sentence>
+<sentence num="5">Sadece onlar değil ,hiç ev sahibi olamayanlar bile ev alma çabasında .</sentence>
+<sentence num="6">Bu da yıllardır krizden kurtulamayan inşaat sektörünü bu yılın en cazip sektörü haline getirdi .</sentence>
+<sentence num="7">İnşaat şirketleri farklı alım gücündeki müşterileri için farklı konut seçenekleri sunuyorlar .</sentence>
+<sentence num="8">50 100 bin YTL ,100 250 bin YTL ,250 bin YTL'nin üzerindeki konutlar alıcı bekliyor .</sentence>
+<sentence num="9">Nasıl mı alacaksınız ?</sentence>
+<sentence num="10">20 ,30 hatta 40 yılı bulan düşük faizli banka kredileri emrinizde .</sentence>
+<sentence num="11">Konut almak isteyenler için sadece inşaat şirketleri rekabet halinde değil .</sentence>
+<sentence num="12">Bankalar da faiz ve vade seçeneklerini arttırma konusunda yarışıyor .</sentence>
+<sentence num="13">Herkes büyük umutla Mortgage yasasının çıkmasını bekliyor ama bankalar şimdiden Mortgage'i aratmayacak seçenekler sunuyor .</sentence>
+<sentence num="14">120 aylık kredinin aylık faizi 1 .49 puana kadar düşüyor .</sentence>
+<sentence num="15">100 bin YTL'lik bir evi ayda 1800 YTL taksitle alabilirsiniz .</sentence>
+<sentence num="16">Beğendiğiniz evin yüzde 20'sini karşılayabiliyorsanız ,kalanını banka kredisiyle ödeyebilirsiniz .</sentence>
+<sentence num="17">Bankacılara göre gayrimenkul sadece ihtiyaç için değil ,yatırım aracı olarak ilgi görüyor .</sentence>
+<sentence num="18">Eğer yatırım aracı olarak alacaksanız ,YTL kredisinde 8 yıl vade ,dövizde ise 15 yıl ideal .</sentence>
+<sentence num="19">Gayrimenkule ilgi ,konut fiyatlarında son birkaç aydır hızlı artışa neden oluyor .</sentence>
+<sentence num="20">Ancak ,sektör temsilcileri konut fiyatlarının hala 2000 yılı fiyatlarının altında olduğunu ifade ediyorlar .</sentence>
+</doc>
+<doc>
+<id>53559</id>
+<sentence num="0">2005 04 01 13 :45 :00 .BankEuropa ,konut kredisi faizini düşürdü ...</sentence>
+<sentence num="1">BankEuropa ,YTL ve avroya endeksli konut kredisi faiz oranlarında indirime gitti .</sentence>
+<sentence num="2">BankEuropa'dan yapılan açıklamaya göre ,10 yıl vadeli YTL konut kredisi faiz oranları yüzde 1 .49'dan yüzde 1 .45'e düşürüldü .</sentence>
+<sentence num="3">Avroya endeksli konut kredisi faiz oranları 10 yıl vadede yüzde 0 .65'den yüzde 0 .59'a ,15 yıl vadede yüzde 0 .69'dan yüzde 0 .61'e geriledi .</sentence>
+</doc>
+<doc>
+<id>53602</id>
+<sentence num="0">2005 04 01 14 :26 :00 .Konut kredisinde faizler düşüyor Konut kredi faizleri yüzde 1 .45'e geriledi .</sentence>
+<sentence num="1">50 milyarlık kredinin 10 yılda aylık ödemesi 909 milyon lira Ekonomide sağlanan istikrar ve enflasyondaki gerileme süreci paralelinde düşen kredi faizleri ,vatandaşların ev sahibi olmalarını kolaylaştırıyor .</sentence>
+<sentence num="2">Konut kredisini düşüren bankalar kervanına son olarak Bank Europa katılırken ,10 yıllık vade için belirlediği yüzde 1 .45'lik faizle aynı zamanda en düşük faizi uygulayan banka ünvanını aldı .</sentence>
+<sentence num="3">Ekonomideki gelişmelerin yanı sıra yasal altyapısı hazırlanan ve önümüzdeki yıl yürürlüğe girmesi planlanan mortgage sistemi öncesinde pazar paylarını artırmak isteyen bankalar ,faizlerini düşürmeye devam ediyorlar .</sentence>
+<sentence num="4">Bankaların düşen bono ve tahvil faizleri nedeniyle artık esas faaliyet alanları olan 'borç verme 'işleminden para kazanacaklarını hatırlatan sektör yetkilileri ,dolayısıyla bireysel kredilere büyük önem verildiğine dikkat çekiyorlar .</sentence>
+<sentence num="5">En düşük oran Bank Europa'dan Yaklaşık iki ay önce konut kredisi faiz oranlarının yüzde 1 .5 seviyelerine indirilmesiyle hız kazanan faiz indirimlerine son olarak Bank Europa katıldı .</sentence>
+<sentence num="6">Banka ,daha önce yüzde 1 .</sentence>
+<sentence num="7">49 olarak belirlediği faiz oranlarını 10 yıl vadede yüzde 1 .45 seviyesine çekerek sektörde en ucuz krediyi veren banka ünvanını da almış oldu .</sentence>
+<sentence num="8">Bank Europa ,aynı zamanda euroya endeksli konut kredisi faiz oranlarını 10 yıl vadede yüzde 0 .65'den yüzde 0 .59'a ,15 yıl vadede yüzde 0 .69'dan yüzde 0 .61'e düşürdü .</sentence>
+<sentence num="9">50 milyara 909 milyon TL Bankanın YL kredilerine uyguladığı yüzde 1 .45 faiz ile 50 milyar TL kredi alan bir tüketicinin 10 yıl boyunca aylık 909 milyon lira ödemesi gerekiyor .</sentence>
+<sentence num="10">10 yıl sonundaki toplam ödeme miktarı ise 109 milyar 150 milyon TL'ye ulaşıyor .</sentence>
+<sentence num="11">Sektörde diğer büyük bankaların kredi oranları da yüzde 1 .</sentence>
+<sentence num="12">49 ile yüzde 1 .55 arasında değişiyor .</sentence>
+<sentence num="13">Vadeler ise 5 yıl ile 20 yıl arasında .</sentence>
+<sentence num="14">HSBC Bank ,10 20 yıl arası vadeye yüzde 1 .</sentence>
+<sentence num="15">49 oranında faiz uygularken ,10 yıl vade için 50 milyar lira kredi alan bir tüketicinin aylık geri ödeme tutarı 926 milyon lira olarak belirleniyor .</sentence>
+<sentence num="16">Koçbank 10 yıl için yüzde 1 .55 ve 12 yıl için yüzde 1 .</sentence>
+<sentence num="17">49 ,Vakıfbank 20 yıla kadar yüzde 1 .</sentence>
+<sentence num="18">49 ,İş Bankası 10 yıl için yüzde 1 .55 ,Yapı Kredi de 7 yıl için yüzde 1 .55 oranında faiz uyguluyor .</sentence>
+</doc>
+<doc>
+<id>53982</id>
+<sentence num="0">2005 04 02 09 :59 :00 .Konut kredisinde faizler düşüyor .</sentence>
+<sentence num="1">Konut kredisini düşüren bankalar kervanına son olarak Bank Europa katılırken ,10 yıllık vade için belirlediği yüzde 1 .45'lik faizle aynı zamanda en düşük faizi uygulayan banka ünvanını aldı .</sentence>
+<sentence num="2">Ekonomideki gelişmelerin yanı sıra yasal altyapısı hazırlanan ve önümüzdeki yıl yürürlüğe girmesi planlanan mortgage sistemi öncesinde pazar paylarını artırmak isteyen bankalar ,faizlerini düşürmeye devam ediyorlar .</sentence>
+<sentence num="3">Bankaların düşen bono ve tahvil faizleri nedeniyle artık esas faaliyet alanları olan 'borç verme 'işleminden para kazanacaklarını hatırlatan sektör yetkilileri ,dolayısıyla bireysel kredilere büyük önem verildiğine dikkat çekiyorlar .</sentence>
+<sentence num="4">Yaklaşık iki ay önce konut kredisi faiz oranlarının yüzde 1 .5 seviyelerine indirilmesiyle hız kazanan faiz indirimlerine son olarak Bank Europa katıldı .</sentence>
+<sentence num="5">Banka ,daha önce yüzde 1 .</sentence>
+<sentence num="6">49 olarak belirlediği faiz oranlarını 10 yıl vadede yüzde 1 .45 seviyesine çekerek sektörde en ucuz krediyi veren banka ünvanını da almış oldu .</sentence>
+<sentence num="7">Bank Europa ,aynı zamanda euroya endeksli konut kredisi faiz oranlarını 10 yıl vadede yüzde 0 .65'den yüzde 0 .59'a ,15 yıl vadede yüzde 0 .69'dan yüzde 0 .61'e düşürdü .</sentence>
+<sentence num="8">Bankanın YL kredilerine uyguladığı yüzde 1 .45 faiz ile 50 milyar TL kredi alan bir tüketicinin 10 yıl boyunca aylık 909 milyon lira ödemesi gerekiyor .</sentence>
+<sentence num="9">10 yıl sonundaki toplam ödeme miktarı ise 109 milyar 150 milyon TL'ye ulaşıyor .</sentence>
+<sentence num="10">Sektörde diğer büyük bankaların kredi oranları da yüzde 1 .</sentence>
+<sentence num="11">49 ile yüzde 1 .55 arasında değişiyor .</sentence>
+<sentence num="12">Vadeler ise 5 yıl ile 20 yıl arasında .</sentence>
+<sentence num="13">HSBC Bank ,10 20 yıl arası vadeye yüzde 1 .</sentence>
+<sentence num="14">49 oranında faiz uygularken ,10 yıl vade için 50 milyar lira kredi alan bir tüketicinin aylık geri ödeme tutarı 926 milyon lira olarak belirleniyor .</sentence>
+<sentence num="15">Koçbank 10 yıl için yüzde 1 .55 ve 12 yıl için yüzde 1 .</sentence>
+<sentence num="16">49 ,Vakıfbank 20 yıla kadar yüzde 1 .</sentence>
+<sentence num="17">49 ,İş Bankası 10 yıl için yüzde 1 .55 ,Yapı Kredi de 7 yıl için yüzde 1 .55 oranında faiz uyguluyor .</sentence>
+</doc>
+<doc>
+<id>54410</id>
+<sentence num="0">2005 04 03 09 :15 :00 .Milli Gelir 6 bin dolara koşuyor .</sentence>
+<sentence num="1">Milli gelirde Cumhuriyet tarihi rekorunun kırıldığı 2004 yılının ardından ,bu yıl da inanılmazı güç yeni rekorlar kırılacak .</sentence>
+<sentence num="2">Peki rekor nereden gelecek ?</sentence>
+<sentence num="3">Bu yıl milli gelir hesaplamasında Birleşmiş Milletler normu yerine Avrupa Birliği normu kullanılacak .</sentence>
+<sentence num="4">Artık hesaplara Türkiye'nin kayıtdışı ekonomisi de girecek .</sentence>
+<sentence num="5">Böylece 2005 yılında milli gelir öngörülenin yüzde 30 35 üzerinde çıkacak .</sentence>
+<sentence num="6">Eski hesaba göre 2005 yılında Türkiye'nin büyüme rakamı tahminleri yüzde 3 ,5 6 arasında değişiyor .</sentence>
+<sentence num="7">Bu tahminin tutması ve dolar kurunda olağanüstü bir gelişme olmaması koşuluyla kişi başına düşen yıllık milli gelirin yılsonunda 4 bin 600 dolar seviyesine çıkması bekleniyor .</sentence>
+<sentence num="8">Ancak yeni hesapla üçte biri kayıtdışı olduğu kabul edilen Türk ekonomisinde bu rakamın 6 bin dolara kadar yükselmesi olası .</sentence>
+<sentence num="9">EKONOMİNİN ZOR YILI 2004 yılında Türkiye'nin yaşadığı yüzde 9 .9'luk rekor büyüme yılının ardından bu yıl ,ekonominin vites küçültmesi bekleniyor .</sentence>
+<sentence num="10">Bu başta otomobil ve buzdolabı ,televizyon ev eşyaları vs ..gibi dayanıklı tüketim mallarına olan talebin düştüğü geçen yılın son çeyreğinde ortaya çıkmıştı .</sentence>
+<sentence num="11">2004'ün son üç ayında ,özel tüketim harcamaları geçen yılın aynı dönemine göre sadece yüzde 3 ,6 arttı .</sentence>
+<sentence num="12">Oysa bir önceki yılın son çeyreğinde bireylerin tüketim harcamalarındaki artış yüzde 10'un üzerindeydi .</sentence>
+<sentence num="13">2004'ün 9 aylık bölümünde ise tüketim harcamalarındaki artış ortalama yüzde 12 .7 seviyesindeydi .</sentence>
+<sentence num="14">Ata Yatırım Başekonomisti Altuğ Karamenderes söz konusu trendi '2001 kriziyle birlikte ertelenen ,biriken talep artık karşılandı .</sentence>
+<sentence num="15">İnsanlar doydu 'diye açıklarken ,'büyümeye yeni bir motor gerekiyor 'görüşünü dile getirdi .</sentence>
+<sentence num="16">Karamenderes'in işaret ettiği trend içerisinde otomobil gibi ürünlerin de bulunduğu dayanıklı tüketimde yaşanan düşüşle de ortaya çıktı .</sentence>
+<sentence num="17">2003 yılında otomotiv sektöründeki patlamaya da bağlı olarak yüzde 24 artan dayanıklı tüketim ,2004 yılının son çeyreğinde yüzde 5 .7 geriledi .</sentence>
+<sentence num="18">Otomobil satışlarının geçen yılın ikinci yarısında yüzde 31 gerilemesi etkili oldu .</sentence>
+<sentence num="19">YENİ KURTARICI İNŞAAT OLACAK 2005 yılı Türkiye'nin ekonomisi için 'zor yıl 'olacağı neredeyse ekonomistlerin tümü tarafından kabul ediliyor .</sentence>
+<sentence num="20">ABD'nin faiz oranlarındaki artışa bağlı olarak dünya ekonomilerinde ve özellikle gelişmekte olan ülkelerde büyüme rakamlarında daralma bekleniyor .</sentence>
+<sentence num="21">2005'te yüzde 5 olan dünya ekonomilerinde ortalama büyümenin 1 1 ,5 puan düşmesi öngörülüyor .</sentence>
+<sentence num="22">Böylesi bir yılda ,Türkiye'nin ihracata dayalı büyüme performansının 2004'ün gerisinde kalması bekleniyor .</sentence>
+<sentence num="23">Tam bu noktada 1999 depreminden bu yana üzerine ölü toprağı serpilmiş olan inşaat sektöründe yaşanan kıpırdanmanın ,sürmesi ve hatta artmasıyla ekonomide büyüme hızının artabileceği öngörülüyor .</sentence>
+<sentence num="24">1999 yılından 2004 yılına kadar sürekli küçülen inşaat sektörü 5 yıl sonra ilk kez 2004 yılında yüzde 4 ,6'lık büyümeyi yakaladı .</sentence>
+<sentence num="25">MORTGAGE BENZİNİNE İHTİYAÇ VAR DİE'nin rakamlarına göre geçen yılın ilk 9 ayında verilen inşaat izinleri önceki yıla gore yüzde 41 arttı .</sentence>
+<sentence num="26">Bu artış oranı 2003 yılında yüzde 12 seviyesindeydi .</sentence>
+<sentence num="27">Uzmanlar ,yüzde 41'lik artışın 2005 yılına yansıyacağı yorumunda bulunurken ,konut finansmanı önemine dikkat çekiyorlar .</sentence>
+<sentence num="28">Bu noktada Türkiye'nin her yıl 500 bin yeni konut ihtiyacını hayata geçirecek mortgage sisteminin devreye girmesi ve buna bağlı olarak yabancı mortgage fonlarının Türkiye'ye yatırım yapması şart görünüyor .</sentence>
+<sentence num="29">Kısacası Türk ekonomisi büyümesinin yeni motoru inşaat sektörü olacaksa ,bu motorun yürümesi için de 'mortgage benzinine 'ihtiyaç duyulacak .</sentence>
+<sentence num="30">Sabah .</sentence>
+</doc>
+<doc>
+<id>59145</id>
+<sentence num="0">2005 04 11 11 :58 :00 .TEB konut faizlerini düşürdü .</sentence>
+<sentence num="1">Daha önce 3 24 ay vadede yüzde 1 .69 ,36 ay vadede yüzde 1 .99 faiz uygulanıyordu .</sentence>
+<sentence num="2">Dolar cinsinden konut kredisi faizi de ,yüzde 0 .90'dan yüzde 0 .75'e indirildi .</sentence>
+<sentence num="3">Bu arada ,taşıt kredisinde de 36 ve 48 ay vadede yüzde 1 .85 olan faiz oranları yüzde 1 .69 olarak yeniden düzenlendi .</sentence>
+<sentence num="4">AA .</sentence>
+</doc>
+<doc>
+<id>59148</id>
+<sentence num="0">2005 04 11 12 :00 :00 .TEB ,konut kredisi faizini düşürdü ...</sentence>
+<sentence num="1">Türk Ekonomi Bankası (TEB ),konut kredisi faizini düşürdü .</sentence>
+<sentence num="2">TEB'den yapılan açıklamaya göre ,bankanın konut kredisi faizleri YTL bazında tüm vadelerde yüzde 1 .65'e çekildi .</sentence>
+<sentence num="3">Daha önce 3 24 ay vadede yüzde 1 .69 ,36 ay vadede yüzde 1 .99 faiz uygulanıyordu .</sentence>
+<sentence num="4">Dolar cinsinden konut kredisi faizi de ,yüzde 0 .90'dan yüzde 0 .75'e indirildi .</sentence>
+<sentence num="5">Bu arada ,taşıt kredisinde de 36 ve 48 ay vadede yüzde 1 .85 olan faiz oranları yüzde 1 .69 olarak yeniden düzenlendi .</sentence>
+</doc>
+<doc>
+<id>60171</id>
+<sentence num="0">2005 04 12 15 :35 :00 .Yapı Kredi kredi faizlerini indirdi ...</sentence>
+<sentence num="1">Yapı Kredi Bankası ,Yeni Türk Lirası (YTL )ferdi ,eğitim ve konut kredisi faiz oranlarını düşürdü .</sentence>
+<sentence num="2">Yapı Kredi Bankası'ndan yapılan açıklamaya göre ,3 24 ay vadeli ferdi kredi faiz oranı 0 .</sentence>
+<sentence num="3">20 puan indirilerek yüzde 2'ye çekildi .</sentence>
+<sentence num="4">3 24 ay vadeli eğitim kredisi faiz oranı 0 .15 puan düşürülerek yüzde 1 .85'e ,3 84 ay vadeli konut kredisi faiz oranı da 0 .05 puan düşürülerek yüzde 1 .50'ye indirildi .</sentence>
+</doc>
+<doc>
+<id>60551</id>
+<sentence num="0">2005 04 13 08 :11 :00 .Mortgage fakire göre değil !</sentence>
+<sentence num="1">İpotekli konut kredisi dar gelirliye yaramaz Avrupa'da gayrimenkul dünyasına yön veren ULI'nin (Urban Land Instute Şehir Yerleşim Enstitüsü )Türkiye Başkanı Hakan Kodal ,herkesi ev sahibi yapacak gözüyle bakılan mortgage (ipotekli konut kredisi )sisteminin yanlış anlaşıldığını söyledi .</sentence>
+<sentence num="2">20 30 yıl vadeyle ev alabilmeye imkan tanıyan sistemin temelde birikmiş sermaye değil kazançla ev almak anlamına geldiğine dikkat çeken Kodal ,dar gelirli insanların bu yöntemle ev almasının pek mümkün olmayacağını dile getirdi .</sentence>
+<sentence num="3">Kodal ,bunun sebebini şöyle açıkladı :Bu yöntem yine öncelikle orta seviyede geliri olan sigortalı ,konuta para ayırabilecek insanların ev almasına imkan tanıyacak .</sentence>
+<sentence num="4">Vadeler ne kadar uzun olursa olsun ,belli bir rakamın altında geliri olan bunu karşılayamayacak .</sentence>
+<sentence num="5">Yani düşük kira öder gibi ev sahibi olunacağını söylemek doğru değil .</sentence>
+<sentence num="6">Dar gelirli ,devletin ya da belediyelerin konut projelerine imza atmasıyla ev sahibi olabilir .</sentence>
+<sentence num="7">Kodal ,mortgageın en iyi uygulandığı ABD'de ödeme vadelerinin 30 yıla kadar çıktığını ,ancak gerçekte insanların 6 7 yılda o evle ilgili ödemesini tamamladığını ifade etti .</sentence>
+<sentence num="8">Yorum yapmak için erken Hakan Kodal ,mortgage sisteminin mevzuat olarak hazırlıklarının sürdüğüne dikkat çekerek ,yasal altyapısı oluşmadan ,işleyiş dikkate alınmadan yorum yapılmasından yakındı .</sentence>
+<sentence num="9">Sistemin Türkiye'de başlaması için 5 önemli kriter sayan Kodal ,bunlardan sadece birinin mevzuat kısmını kapsadığını kaydetti .</sentence>
+<sentence num="10">Kodal ,bu konuda kısa vadeli beklentiye girilmemesini istedi .</sentence>
+<sentence num="11">Reel faizlerin bu sistemin oluşmasında önemli bir yer tuttuğunu vurgulayan Kodal ,mortgage uygulanan ülkelerde reel faiz ile kredi faizi arasında 1 ya da maksimum iki puan fark bulunduğunu ,Türkiye'de ise halen makasın çok açık olduğunu ifade etti .</sentence>
+<sentence num="12">Kodal ,bunun da enflasyonun düşmesine bağlı olarak zaman alacağını söyledi .</sentence>
+<sentence num="13">Aynı zamanda Yapı Kredi GYO'nun Genel Müdürü olan Hakan Kodal ,mortgage'ın uygulanması için gerekli kriterleri sayarken ,pazar büyüklüğünün de özellikle finans kuruluşları açısından önem taşıdığını belirti .</sentence>
+<sentence num="14">Geçen yıl Türkiye'de 50 bin kişinin konut için 1 ,5 milyar dolar kredi kullandığına dikkat çeken Kodal ,bunun da kişi başına 30 bin dolarlık kredi anlamına geldiğini söyledi .</sentence>
+<sentence num="15">Para girişinin olması için bu pazarın büyümesi gerektiğini ifade eden Kodal ,Mevcut gayrimenkul işlemlerinde de kredi oranı o kadar düşük ki .</sentence>
+<sentence num="16">2004'te yapılan konut satışlarında yüzde 97'si nakit ,yüzde 3'ü kredi ile gerçekleşmiş .</sentence>
+<sentence num="17">Bu oran en iyi ihtimalle 5 sene içinde yüzde 20'ye ulaşır .</sentence>
+<sentence num="18">Bu kadar dar işlem alanında da yine dışarıdan finans gelmesi zorlaşıyor .</sentence>
+<sentence num="19">Mortgageın gelişmesinde bunlar önemli .</sentence>
+<sentence num="20">şeklinde konuştu .</sentence>
+<sentence num="21">Kodal ,mortgage beklentilerinin konut fiyatlarını yükselttiğini savundu .</sentence>
+<sentence num="22">Gayrimenkulde en cazip şehir İstanbul ULI (Şehir Yerleşim Enstitüsü )tarafından daha önce Madrid ,Londra gibi şehirlerde düzenlenen gayrimenkul zirvesi bu yıl İstanbul'da gerçekleştirilecek .</sentence>
+<sentence num="23">Orta ve Doğu Avrupa'da yeni fırsatların ele alınacağı zirve 1 2 Haziran tarihlerinde düzenleniyor .</sentence>
+<sentence num="24">Gayrimenkul ve finans alanında Avrupa'nın dev şirketlerinin yöneticilerinin konuşmacı olarak katılacağı iki günlük zirvenin resepsiyonu Başbakan Recep Tayyip Erdoğan'ın ev sahipliğinde Dolmabahçe Sarayı'nda gerçekleştirilecek .</sentence>
+<sentence num="25">Bu arada ,ULI ve PricewaterhouseCoopers tarafından sektör içinde yön belirleyici 250 kişi arasında yapılan ankette İstanbul en iyi gelişmelerin beklendiği cazip şehir seçildi .</sentence>
+<sentence num="26">Gayrimenkul yatırımı açısından ele alınan ankete göre risk alınabilirlik açısından İstanbul'da ofis ,perakende mağaza ve endüstriyel alanlarda alım tavsiye edildi .</sentence>
+<sentence num="27">Zaman .</sentence>
+</doc>
+<doc>
+<id>63774</id>
+<sentence num="0">2005 04 18 11 :38 :00 .Orta gelirliye lüks konut imkanı .</sentence>
+<sentence num="1">Emlak Gayrimenkul Yatırım Ortaklığı (Emlak GYO ),ev sahibi olmayı kolaylaştıracak yeni bir sistem için düğmeye bastı .</sentence>
+<sentence num="2">Oluşturdukları basamaklı ödeme sistemi ile Türkiye'de bir ilke imza atacaklarını belirten Emlak GYO Genel Müdürü Dr .Feyzullah Yetgin ,Hayata geçirmeyi planladığımız bu yeni sistemde hem peşinat hem de evin teslim edilme tarihine kadar olan ödemeler çok düşük olacak .</sentence>
+<sentence num="3">Ev teslim edildikten sonra ödemeler artacak diye konuştu .</sentence>
+<sentence num="4">Basamaklı ödeme sistemini ilk olarak stanbul Ataşehir Ümraniye arasında kalan bölümde yapımına başlayacakları 12 bin konutluk projede uygulamayı düşündüklerini belirten Yetgin ,Hedefimiz daha sonra tüm projelerde aynı sistemi kullanmak dedi .</sentence>
+<sentence num="5">Taksitler kira rayici kadar olacak 12 bin konutun farklı müteahhitlik şirketleri tarafından yapılacağını belirten Yetgin ,konutları kısa bir sürede oturulur hale getireceklerini dile getirdi .</sentence>
+<sentence num="6">Sistemin geliri 1 .5 milyar ile 3 .5 milyar arasında olan bir kesimin lüks konut alabilmesine imkan tanıyacağını kaydeden Yetgin ,Bu sistemde kişinin ödeyeceği en üst rakamın alacağı dairenin kira rayicine paralel olmasını planlıyoruz .</sentence>
+<sentence num="7">125 130 bin dolarlık bir dairenin aylık ödemesi bin dolarlar seviyesinde .</sentence>
+<sentence num="8">Bin dolar şu anda Ataşehir'de benzer bir dairenin kira rayici dedi .</sentence>
+<sentence num="9">Yetgin ,düşük peşinat ve taksitlerin yanı sıra vadeyi de 15 20 yıla yayacaklarını belirtti .</sentence>
+<sentence num="10">12 bin daireden bahsediyoruz .</sentence>
+<sentence num="11">Bu yaklaşık 2 milyar dolarlık bir pasta demek diyen Yetgin ,bankaların projeye büyük bir ilgi gösterdiğini ifade etti .</sentence>
+<sentence num="12">Satış yönteminin talebe bağlı olarak belirleneceğini kaydeden Yetgin ,12 bin konuta 20 bin talep gelirse kura ile satış yaparız .</sentence>
+<sentence num="13">Ama 5 bin talipli gelmişse açık satış yöntemine başvuracağız dedi .</sentence>
+<sentence num="14">KEY hesaplarını vatandaşa aktaracağız İlk etapta 15 bin konut yapmayı hedeflediklerini belirten Feyzullah Yetgin ,TOKİ iştirakiyiz ve proje üreten bir şirketiz .</sentence>
+<sentence num="15">Emlak GYO'nun üzerine almış olduğu önemli bir görev daha var .</sentence>
+<sentence num="16">Konut Edindirme Yardımı (KEY )hesaplarının tasfiyesi ...</sentence>
+<sentence num="17">Dolayısıyla bu hesaplarla beraber Emlak Bankası'ndan bize devrolan bir borç ve ayni sermaye var .</sentence>
+<sentence num="18">Amacımız doğru projeler üreterek bu hesapları süratle tasfiye etmek dedi .</sentence>
+<sentence num="19">vatan .</sentence>
+</doc>
+<doc>
+<id>65282</id>
+<sentence num="0">2005 04 20 11 :50 :00 .Düşük faizli konut kredisine ilgi giderek artıyor ...</sentence>
+<sentence num="1">Doların YTL karşısında değer kaybetmesi ve faiz oranlarının düşmesi nedeniyle ,konut kredisine ilginin giderek arttığı bildirildi .</sentence>
+<sentence num="2">Ziraat Bankası Konya Bölge Müdürü Ali Aras ,konut kredisine beklentilerinin üzerinde başvuru olduğunu ifade etti .</sentence>
+<sentence num="3">Bankaların konutta faiz oranlarını 1 .49'a kadar çektiğini vurgulayan Aras ,şöyle devam etti :''Vade ise 12 yıla kadar çıkarıldı .</sentence>
+<sentence num="4">Yani ,orta gelirli bir aile rahatlıkla ev sahibi olabilir .</sentence>
+<sentence num="5">Kira bedeline yakın orandaki düşük taksitlerle 10 yılda ev sahibi olmak eskisi kadar zor değil .</sentence>
+<sentence num="6">Vatandaşlar ,faizlerin yeniden yükselmesi endişesiyle konut kredisine büyük ilgi gösteriyor .</sentence>
+<sentence num="7">Bu yılın 3 aylık döneminde verilen konut kredileri ,geçen yılın toplamına göre yüzde 40 arttı .''</sentence>
+<sentence num="8">Aras ,son günlerde bankalarının adeta sadece konut kredisi için çalıştığını ifade ederken ,''personel yetiştiremiyoruz .</sentence>
+<sentence num="9">Başvurular artarak devam ediyor .</sentence>
+<sentence num="10">Fiyatlar artıyor ,konuta talep de artıyor .</sentence>
+<sentence num="11">Dengenin ne zaman oluşacağı belli değil ''diye konuştu .</sentence>
+<sentence num="12">Konya Emlakçılar Odası Başkanı İsmet Çakır ise özellikle bankaların faiz oranlarını 1 .49'a kadar çekmelerinin ,konut ihtiyacı olan vatandaşları cesaretlendirdiğini söyledi .</sentence>
+<sentence num="13">Dövizin ve otomobilin artık eskisi gibi kazandırmadığı bu dönemde faizlerin de düşmesiyle vatandaşın konuta yöneldiğini belirten Çakır ,''konuta olan talep artınca ,doğal olarak fiyatlarda da ani bir yükselme oldu .</sentence>
+<sentence num="14">Bu yılın 3 aylık döneminde konut fiyatları ortalama yüzde 50 oranında artış gösterdi ''dedi .</sentence>
+<sentence num="15">Çakır ,bu artışın konuta olan talebi azaltmadığını belirtirken ,talebe paralel konut fiyatlarındaki artışın da devam edebileceğini ,yapılan inşaatların ihtiyacı karşılamaması durumunda fiyatların daha da artabileceğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>65334</id>
+<sentence num="0">2005 04 20 12 :36 :00 .Vatandaş konut kredisine koştu .</sentence>
+<sentence num="1">Ziraat Bankası Konya Bölge Müdürü Ali Aras ,konut kredisine beklentilerinin üzerinde başvuru olduğunu ifade etti .</sentence>
+<sentence num="2">Bankaların konutta faiz oranlarını 1 .49'a kadar çektiğini vurgulayan Aras ,şöyle devam etti :''Vade ise 12 yıla kadar çıkarıldı .</sentence>
+<sentence num="3">Yani ,orta gelirli bir aile rahatlıkla ev sahibi olabilir .</sentence>
+<sentence num="4">Kira bedeline yakın orandaki düşük taksitlerle 10 yılda ev sahibi olmak eskisi kadar zor değil .</sentence>
+<sentence num="5">Vatandaşlar ,faizlerin yeniden yükselmesi endişesiyle konut kredisine büyük ilgi gösteriyor .</sentence>
+<sentence num="6">Bu yılın 3 aylık döneminde verilen konut kredileri ,geçen yılın toplamına göre yüzde 40 arttı .''</sentence>
+<sentence num="7">PERSONEL YETİŞTİREMİYORUZ Aras ,son günlerde bankalarının adeta sadece konut kredisi için çalıştığını ifade ederken ,''personel yetiştiremiyoruz .</sentence>
+<sentence num="8">Başvurular artarak devam ediyor .</sentence>
+<sentence num="9">Fiyatlar artıyor ,konuta talep de artıyor .</sentence>
+<sentence num="10">Dengenin ne zaman oluşacağı belli değil ''diye konuştu .</sentence>
+<sentence num="11">Konya Emlakçılar Odası Başkanı İsmet Çakır ise özellikle bankaların faiz oranlarını 1 .49'a kadar çekmelerinin ,konut ihtiyacı olan vatandaşları cesaretlendirdiğini söyledi .</sentence>
+<sentence num="12">Dövizin ve otomobilin artık eskisi gibi kazandırmadığı bu dönemde faizlerin de düşmesiyle vatandaşın konuta yöneldiğini belirten Çakır ,''konuta olan talep artınca ,doğal olarak fiyatlarda da ani bir yükselme oldu .</sentence>
+<sentence num="13">Bu yılın 3 aylık döneminde konut fiyatları ortalama yüzde 50 oranında artış gösterdi ''dedi .</sentence>
+<sentence num="14">Çakır ,bu artışın konuta olan talebi azaltmadığını belirtirken ,talebe paralel konut fiyatlarındaki artışın da devam edebileceğini ,yapılan inşaatların ihtiyacı karşılamaması durumunda fiyatların daha da artabileceğini kaydetti .</sentence>
+<sentence num="15">AA .</sentence>
+</doc>
+<doc>
+<id>65554</id>
+<sentence num="0">2005 04 20 16 :50 :00 .Halkbank ,kredi faizlerini indirdi ...</sentence>
+<sentence num="1">Halkbank ,bugünden geçerli olmak üzere tüketici ,taşıt ve konut kredilerinde uyguladığı faiz oranlarını düşürdü .</sentence>
+<sentence num="2">Halkbank'tan yapılan açıklamaya göre ,taşıt kredisinde 0 .15 ,ikinci el taşıtta 0 .</sentence>
+<sentence num="3">20 ,tüketici kredilerinde 0 .10 ,konut kredilerinde 0 .15 puan indirime gidildi .</sentence>
+<sentence num="4">Halkbank'ın 1 36 ay vadede yeni taşıt kredisine uyguladığı faiz oranı yüzde 1 .85'den yüzde 1 .70'e ,ikinci el taşıt kredisine uyguladığı faiz oranı yüzde 1 .95'den yüzde 1 .75'e indirildi .</sentence>
+<sentence num="5">Tüketici kredilerinde 1 12 ay vadede faiz oranı yüzde 2 .10'dan yüzde 2'ye ,13 24 ay vadede ise yüzde 2 .20'den yüzde 2 .10'a düşürüldü .</sentence>
+<sentence num="6">Halkbank ,3 60 vadeli konut kredilerine uyguladığı faiz oranını yüzde 1 .75'den yüzde 1 .60'a çekerken ,kredi kartında yüzde 5 ,halk hesapta ise yüzde 4 .50 olan faiz oranını değiştirmedi .</sentence>
+</doc>
+<doc>
+<id>65642</id>
+<sentence num="0">2005 04 20 18 :44 :00 .Halkbank'tan faiz indirimi .</sentence>
+<sentence num="1">Halkbank'tan yapılan açıklamaya göre ,taşıt kredisinde 0 .15 ,ikinci el taşıtta 0 .</sentence>
+<sentence num="2">20 ,tüketici kredilerinde 0 .10 ,konut kredilerinde 0 .15 puan indirime gidildi .</sentence>
+<sentence num="3">Halkbank'ın 1 36 ay vadede yeni taşıt kredisine uyguladığı faiz oranı yüzde 1 .85'den yüzde 1 .70'e ,ikinci el taşıt kredisine uyguladığı faiz oranı yüzde 1 .95'den yüzde 1 .75'e indirildi .</sentence>
+<sentence num="4">Tüketici kredilerinde 1 12 ay vadede faiz oranı yüzde 2 .10'dan yüzde 2'ye ,13 24 ay vadede ise yüzde 2 .20'den yüzde 2 .10'a düşürüldü .</sentence>
+<sentence num="5">Halkbank ,3 60 vadeli konut kredilerine uyguladığı faiz oranını yüzde 1 .75'den yüzde 1 .60'a çekerken ,kredi kartında yüzde 5 ,halk hesapta ise yüzde 4 .50 olan faiz oranını değiştirmedi .</sentence>
+<sentence num="6">AA .</sentence>
+</doc>
+<doc>
+<id>69766</id>
+<sentence num="0">2005 04 27 11 :50 :00 .TEB ,bireysel kredi faizlerini düşürdü ...</sentence>
+<sentence num="1">Türk Ekonomi Bankası (TEB ),tüketici kredisi faiz oranlarını düşürdü .</sentence>
+<sentence num="2">TEB'den yapılan açıklamaya göre ,3 ,6 ,9 ,12 ,18 ,24 ,36 ve 48 ay vadeli YTL taşıt kredisi faiz oranları ,0 .10 puan indirilerek yüzde 1 .59'a çekildi .</sentence>
+<sentence num="3">Taşıt kredisi faiz oranları dolar bazında 3 ,6 ,9 ,12 ,18 ,24 ,36 ,48 ve 60 ay vadede 0 .04 puanlık düşüşle yüzde 0 .65'e ,avro bazında da 36 ay vadede 0 .06 puan ve 48 ay vadede 0 .10 puanlık düşüşle yüzde 0 .69'a indirildi .</sentence>
+<sentence num="4">Bankanın 3 ,6 ,9 ,12 ,18 ,24 ,36 ve 48 ay vadeli YTL konut kredisi faiz oranları 0 .10 puan ,60 ve 84 ay vadede de 0 .05 puan indirilerek yüzde 1 .55'e düşürüldü .</sentence>
+<sentence num="5">Konut kredisi faiz oranları dolar ve avro bazında 3 ,6 ,9 ,12 ,18 ,24 ,36 ve 48 ay vadede 0 .06 puanlık düşüşle yüzde 0 .69'a çekildi .</sentence>
+<sentence num="6">Konut kredisinde 60 ay vadeli dolar bazlı faiz oranı 0 .06 puan ve avro bazlı faiz oranı 0 .10 puan indirilerek yüzde 0 .69'a çekildi .?</sentence>
+<sentence num="7">Finansbank ,20 milyon avro kredi aldı ...?</sentence>
+<sentence num="8">Garanti Bankası görücüye çıkıyor ?</sentence>
+<sentence num="9">Koç Holding :Wal Mart ile iyi niyet anlaşması yapılmadı ?</sentence>
+<sentence num="10">THY Genel Müdürlüğü'ne Temel Kotil atandı .</sentence>
+</doc>
+<doc>
+<id>71530</id>
+<sentence num="0">2005 04 29 18 :27 :00 .İnşaat sektörünün umudu Mortgage .</sentence>
+<sentence num="1">Hatay Mustafa Kemal Üniversitesi tarafından düzenlenen AB'ye Tam Üyelik Sürecinde Türk Sermaye Piyasaları konulu konferansa konuşmacı olarak katılan SPK Başkanı Dr .Cansızlar ,ipotekli konut kredisi sistemi hakkında bilgi verdi .</sentence>
+<sentence num="2">MKÜ Atatürk salonunda yapılan konferansa Hatay Valisi Abdulkadir Sarı MKÜ Rektörü Metin Gürkanlar öğretim üyeleri ve öğrenciler katıldı .</sentence>
+<sentence num="3">Cansızlar ,yaptığı konuşmada ,Mortgage taslağını başbakanlığa gönderdiklerini hatırlatarak ,Dünya Bankası ,Uluslararası Para Fonu (IMF )ve bazı ülkelerin oluşturduğu bir fondan ,karşılıksız teknik yardım sağladıklarını ,bu kapsamda 4 uzmanın kendileri ile birlikte çalıştığını söyledi .</sentence>
+<sentence num="4">Cansızlar ,Haziran ayında ikincil düzenlemelerle ilgili teknik altyapıyı da bitirmiş olacağız .</sentence>
+<sentence num="5">2005'in sonuna doğru sistem çalışmaya başlar diye düşünüyorum şeklinde konuştu .</sentence>
+<sentence num="6">Mortgage sistemine nasıl yansıyacağına ilişkin olarak da Cansızlar ,bu sistemin sadece bankalar odaklı olmadığını hatırlatarak ,bankalar üzerindeki yük ve riskin kalkması için ,ikincil piyasalarda işlem yapacak bir finans kuruluşu kurulmasını önerdiklerini açıkladı .</sentence>
+<sentence num="7">Doğan Cansızlar ,bunun dışarıdan da fonların ülkeye girmesine yardımcı olacağını aktardı .</sentence>
+<sentence num="8">Enflasyonun bu yıl da düşeceğini söyleyen Cansızlar ,2005'te enflasyonun tahminlerin altında gerçekleşmesini beklediğini açıkladı .</sentence>
+<sentence num="9">SPK mevzuatını baştan ele aldıklarını da belirten Cansızlar ,bu bağlamda Yatırımcıyı Koruma Fonu'nun kapsamının genişletileceğini ,fonun diğer sermaye piyasası araçlarını da kapsama almasıyla ilgili çalışacaklarını anlattı .</sentence>
+<sentence num="10">AA .</sentence>
+</doc>
+<doc>
+<id>74158</id>
+<sentence num="0">2005 05 04 14 :55 :00 .Şekerbank ,bireysel kredi faiz oranlarını indirdi ...</sentence>
+<sentence num="1">Şekerbank'tan yapılan açıklamaya göre ,taşıt ve konut kredilerinde 1 36 ay vadede yüzde 1 .70 olarak uygulanan faiz oranı 1 .60'a çekildi .</sentence>
+<sentence num="2">Konut kredisinde 60 aya kadar vadede uygulanan yüzde 1 .80'lik oran ise 1 .70'e düşürüldü .</sentence>
+<sentence num="3">İkinci el taşıt kredisinde 18 aya kadar vadeli kredilerde yüzde 2 .</sentence>
+<sentence num="4">20 olan faiz yüzde 2 .10'a ,19 36 ay vadede yüzde 2 .25 olan faiz ise yüzde 2 .15'e indirildi .</sentence>
+<sentence num="5">Bireysel Finansman Kredisi'nde 18 aya kadar olan vadelerde ,yüzde 2 .20'den uygulanan faiz oranı yüzde 2 .10'a gerilerken ,19 24 ay vadede yüzde 2 .</sentence>
+<sentence num="6">30 olan faiz oranı 2 .20'ye ,25 36 ay vadede 2 .35 olan faiz oranı ise 2 .25'e çekildi .</sentence>
+<sentence num="7">Şekerbank ,konut yapı kooperatifi tamamlama kredisi faiz oranlarını ise 1 12 ay vadede yüzde 1 .95'ten 1 .85'e ,13 24 ay vadede yüzde 2 .05'ten 1 .95'e ,25 36 ay vadede ise yüzde 2 .15'ten 2 .05'e düşürdü .</sentence>
+</doc>
+<doc>
+<id>85369</id>
+<sentence num="0">2005 05 24 10 :45 :00 .Bank Europa ,konut kredisi faiz oranlarını indirdi .</sentence>
+<sentence num="1">Bank Europa ,YTL konut kredisi faiz oranlarında indirime gitti .</sentence>
+<sentence num="2">Bank Europa'dan yapılan açıklamaya göre ,10 yıla kadar uygulanan konutu kredisi faiz oranları 1 .45'ten 1 .42'ye düşürüldü .?</sentence>
+<sentence num="3">Dışbank ,konut kredisinde vadeyi uzattı ...</sentence>
+</doc>
+<doc>
+<id>85450</id>
+<sentence num="0">2005 05 24 12 :08 :00 .Dışbank konut kredisini uzattı ..</sentence>
+</doc>
+<doc>
+<id>85460</id>
+<sentence num="0">2005 05 24 12 :15 :00 .Dışbank ,konut kredisinde vadeyi uzattı ...</sentence>
+<sentence num="1">Dışbank ,konut kredisinde vadeyi 120 aya uzattı .</sentence>
+<sentence num="2">Dışbank'tan yapılan açıklamaya göre ,banka ,10 yıl vadeli konut kredisini yüzde 1 .55 faizle sunacak .?</sentence>
+<sentence num="3">Bank Europa ,konut kredisi faiz oranlarını indirdi .</sentence>
+</doc>
+<doc>
+<id>86865</id>
+<sentence num="0">2005 05 26 11 :00 :00 .İş Bankası konut kredisinde faizi indirdi ...</sentence>
+<sentence num="1">İş Bankası konut ve eğitim kredisi faiz oranlarını indirdi .</sentence>
+<sentence num="2">İş Bankası'ndan yapılan açıklamaya göre ,49 120 ay vadede yüzde 1 .55 olarak uygulanan konut kredisi faiz oranı ile 1 12 ay vadede yüzde 1 .80 olan eğitim kredisi faiz oranı yüzde 1 .50'ye çekildi .</sentence>
+</doc>
+<doc>
+<id>88147</id>
+<sentence num="0">2005 05 28 09 :45 :00 .Faiz düştü vade uzadı ,konut kredileri patladı ...</sentence>
+<sentence num="1">Bankaların kredi faizlerinde yaptıkları indirim ve vadeyi uzatmalarının etkisiyle konut kredileri neredeyse ikiye katlandı .</sentence>
+<sentence num="2">Yılbaşından bu yana yüzde 85 büyüyen konut kredileri ,4 .9 milyar YTL'ye ulaşarak ilk kez taşıt kredilerini geçti .</sentence>
+<sentence num="3">Bankalar ,vadesi 20 yıla kadar ulaşan konut kredilerinin faizlerini yüzde 1 .45'e kadar çekti .</sentence>
+<sentence num="4">ANKA'nın Merkez Bankası verilerinden yaptığı belirlemeye göre ,bankaların tüketicilere açtığı konut kredilerinin tutarı ,yılbaşından 20 Mayıs'a kadar olan dönemde yüzde 84 .9 oranında 2 milyar 241 .6 milyon YTL'lik büyüme kaydetti .</sentence>
+<sentence num="5">2004 yılı sonunda 2 milyar 641 .2 milyon YTL olan konut kredileri ,20 Mayıs itibariyle 4 milyar 882 .8 milyon YTL'ye kadar çıktı .</sentence>
+<sentence num="6">Konut kredilerinin 804 .7 milyon YTL'lik bölümünü dövize endeksli krediler oluşturdu .</sentence>
+<sentence num="7">Bu krediler sözkonusu dönemde yüzde 32 .7 oranında 198 .3 milyon YTL arttı .</sentence>
+<sentence num="8">TOPLAM KREDİLERDEKİ PAYI YÜZDE 28'E ÇIKTI Konut kredilerinin toplam tüketici kredileri içindeki payı da hızla artıyor .</sentence>
+<sentence num="9">2004 yılı sonunda yüzde 20 .4 olan konut kredilerinin tüketici kredileri içindeki payı ,20 Mayıs'ta yüzde 27 .9'a kadar çıktı .</sentence>
+<sentence num="10">Taşıt kredilerinin toplamdaki payı yüzde 33 .4'ten yüzde yüzde 26 .5'e ,diğer tüketici kredilerinin payı yüzde 46 .1'den yüzde 45 .5'e indi .</sentence>
+<sentence num="11">TAŞIT KREDİLERİNİ İLK KEZ GEÇTİ Konut kredileri ilk kez taşıt kredilerinden daha yüksek bir büyüklük oluşturdu .</sentence>
+<sentence num="12">Taşıt kredileri yılbaşından bu yanaki dönemde yalnızca yüzde 7 .2 oranında 312 .8 milyon YTL artarak 4 milyar 635 milyon YTL'ye ulaştı .</sentence>
+<sentence num="13">Diğer tüketici kredilerinin tutarı da yüzde 33 .5 oranında 1 milyar 996 .7 milyon YTL artarak 7 milyar 958 .3 milyon YTL'ye çıktı .</sentence>
+<sentence num="14">BANKA GRUPLARINA GÖRE TÜKETİCİ KREDİLERİ Tüketici kredilerinin 10 milyar 190 .8 milyon YTL'yle en büyük bölümünü özel bankalar kullandırdı .</sentence>
+<sentence num="15">Özel bankaların tüketici kredileri ,sözkonusu dönemde yüzde 32 .9 oranında 2 milyar 520 .8 milyon YTL arttı .</sentence>
+<sentence num="16">Kamu bankalarının tüketici kredileri 1 milyar 616 .9 milyon YTL artarak 5 milyar 816 .4 milyon YTL ,yabancı bankaların kredileri 413 .4 milyon YTL artarak 1 milyar 468 .6 milyon YTL oldu .</sentence>
+<sentence num="17">KONUT KREDİSİ FAİZLERİ YÜZDE 1 .45'E KADAR İNDİ Konut kredilerindeki artışta bankaların kredi faizlerinde peşpeşe yaptıkları indirimler belirleyici oldu .</sentence>
+<sentence num="18">ANKA'nın 15 bankanın faizlerinden yaptığı derlemeye göre ,konut kredisi faizleri yüzde 1 .45'e kadar indi .</sentence>
+<sentence num="19">Konut kredilerine bu düzeyde faiz uygulayan bankalar arasında Akbank ,HSBC Bank ,Koçbank ve Oyakbank yer alıyor .</sentence>
+<sentence num="20">Kredi faizi en yüksek olan banka ise Denizbank oldu .</sentence>
+<sentence num="21">Denizbank'ın konut kredisi faizleri yüzde 1 .55 ile yüzde 1 .8 arasında değişiyor .</sentence>
+<sentence num="22">Konut kredilerinin vadesi de giderek uzuyor .</sentence>
+<sentence num="23">Bankaların konut kredilerinin vadeleri 1 aydan 240 aya (20 yıl )kadar çıkıyor .</sentence>
+<sentence num="24">ANKA .</sentence>
+</doc>
+<doc>
+<id>91457</id>
+<sentence num="0">2005 06 02 14 :25 :00 .ULI Türkiye Başkanı :Mortgage'yi finanse edecek kaynak yok .</sentence>
+<sentence num="1">Urban Land Institute (ULI )Türkiye Başkanı Hakan Kodal ,Mortgage sistemi geldiğinde ,Türkiye'deki konut talebinin önümüzdeki 10 yıl içinde iki katına çıkacağını söyledi .</sentence>
+<sentence num="2">Kodal ,kar amacı gütmeyen eğitim ve araştırma kuruluşu ULI tarafından düzenlenen ''ULI 2005 Avrupa Gayrimenkul Zirvesi ''nin ''Gelişmekte olan Avrupa'da Trendler ve Fırsatlar :Ofis ,Konut ,Turizm ,ve Alışveriş Merkezleri ''konulu oturumunda yaptığı konuşmada ,Türkiye'deki konut piyasası hakkında bilgi verdi .</sentence>
+<sentence num="3">Türkiye'de insanların konut alımı konusunda kendini finanse ettiğini anlatan Kodal ,konutların yüzde 97'sinin kredisiz bir şekilde alındığını söyledi .</sentence>
+<sentence num="4">Günümüzde konut kredisinde vadelerin uzadığını ,ancak faizlerin hala çok yüksek olduğunu dile getiren Kodal ,''Gerçekten ipotek piyasası var olunca ,Mortgage sistemi geldiği zaman konut talebi önümüzdeki 10 yıl içinde iki katına çıkacaktır ''dedi .</sentence>
+<sentence num="5">Kodal ,şunları söyledi :''Mortgage bu pazarlarda gerçekten etkin olduğu zaman ,konut piyasasını patlatacak ,parlatacaktır .</sentence>
+<sentence num="6">Mortgage sistemini finanse etmek için para lazım .</sentence>
+<sentence num="7">Ama bu para Türkiye'de yok .</sentence>
+<sentence num="8">Dolayısıyla bizim dış yatırımı çekmemiz lazım .</sentence>
+<sentence num="9">Dış fonları çekmemiz lazım .</sentence>
+<sentence num="10">Burada kilit olan şey ,acaba gerekli olan bu yatırımları çekebilecek miyiz ?''</sentence>
+<sentence num="11">İSTABUL'A MEGA CENTER Hollanda merkezli AM Development International'ın direktörlerinden Patrick Van Dooyeweert de ,geçen yıl Kasım ayında Türkiye pazarına girdiklerini ve Türk Mall ile ortak olduklarını söyledi .</sentence>
+<sentence num="12">Türkiye'nin gerçekten parlayan bir yıldız ,büyüyen bir ülke olduğunu ifade eden Dooyeweert ,kendi ofislerinde 10 kişi ile çalışmaya başladıklarını ,şimdi ise 40 kişiye ulaştıklarını kaydetti .</sentence>
+<sentence num="13">Türkiye'nin özellikle perakende piyasasında çok büyük fırsatlar sunduğunu belirten Dooyeweert ,150 bin metrekarelik bir alışveriş merkezi projesi üzerinde çalıştıklarını söyledi .</sentence>
+<sentence num="14">Dooyeweert ,İstanbul'un coğrafi kalbinde ,perakende mağazalar olacak şekilde Forum İstanbul Mega Center adını verdikleri yapının inşaat iznini almak üzere olduklarını anlattı .</sentence>
+</doc>
+<doc>
+<id>91487</id>
+<sentence num="0">2005 06 02 14 :50 :00 .Mortgage gayrimenkul talebini katlayacak .</sentence>
+<sentence num="1">Zirvede Financial Times Genel Yayın Yönetmeni Martin Wolf da bir sunum yaptı Türkiye'de son dönemde faizlerin düşmesi ve kredi vadelerinin 20 yıla kadar uzamasıyla canlanan gayrimenkul sektöründe asıl etkinin mortgage ile birlikte ortaya çıkması bekleniyor .</sentence>
+<sentence num="2">Urban Land Institute (ULI )Türkiye Başkanı Hakan Kodal ,mortgage sistemi geldiğinde konut talebinin ikiye katlanacağını söyledi .</sentence>
+<sentence num="3">Kar amacı gütmeyen bir eğitim ve araştırma kuruluşu olan Urban Land Institute (ULI ),2005 Avrupa Gayrimenkul Zirvesi'ni İstanbul'da düzenledi .</sentence>
+<sentence num="4">Vade uzun ,ama faiz yüksek Konferansta konuşan Kodal ,Türkiye'de konut alımının yüzde 97'sinin kredisiz bir şekilde yapıldığını ,dolayısıyla alıcının kendisini finanse ettiğini söyledi .</sentence>
+<sentence num="5">Konut kredisinde vadelerin uzamasına karşın faizlerin hala çok yüksek olduğuna dikkat çeken Kodal ,bunun Mortgage ile birlikte değişeceğini belirtti .</sentence>
+<sentence num="6">NE DEDİLER ?</sentence>
+<sentence num="7">Zirvenin açılışında konuşan İstanbul Büyükşehir Belediye Başkanı Kadir Topbaş ,mayıs ayında yurt dışında yapılan bir değerlendirmede İstanbul'un bir numaralı yatırım kenti olarak belirlendiğini ifade etti .</sentence>
+<sentence num="8">Zirveden çıkacak sonuçların İstanbul için iyi olacağına inandığını dile getiren Topbaş İstanbul'u 'kültürlerin ve medeniyetlerin buluştuğu kent 'olarak tanımladı .</sentence>
+<sentence num="9">Financial Times Genel Yayın Yönetmeni ve Baş Ekonomisti Martin Wolf ise ,''Türkiye Avrupa'nın Yeni Yıldızı ''konulu bir sunum yaptı .''</sentence>
+<sentence num="10">Avrupa'nın yükselen yeni yıldızı derken soru işareti koyuyoruz .</sentence>
+<sentence num="11">Evet ,büyük ihtimalle ama yüzde 100 kesin de diyemiyoruz ''diye konuşan Wolf ,şöyle devam etti :''Basit ve acı gerçek ,Türkiye 80'lerin ve 90'ların bir kısmını fena halde ziyan etmiş .</sentence>
+<sentence num="12">Fakat politikada 2001'den beri iyiye doğru gidiş var .</sentence>
+<sentence num="13">Eğer Türkiye istikrara kavuşursa ,fırsatlardan yararlanabilirse büyük ölçüde zenginliğe kavuşabilecektir ve Avrupa'nın yanı başında çok büyük bir pazara katılabilecektir .''''</sentence>
+<sentence num="14">Mortgage bu pazarlarda gerçekten etkin olduğu zaman ,konut piyasasını patlatacak ,parlatacaktır .</sentence>
+<sentence num="15">diyen Kodal ,sistem gelince konut talebinin önümüzdeki 10 yıl içinde iki katına çıkacağını dile getirdi .</sentence>
+<sentence num="16">Mortgage için dış finansman ihtiyacı Mortgage sistemini finanse etmek için para gerektiğini vurgulayan Kodal ,şöyle devam etti :Ama bu para Türkiye'de yok .</sentence>
+<sentence num="17">Dolayısıyla bizim dış yatırımı çekmemiz lazım .</sentence>
+<sentence num="18">Dış fonları çekmemiz lazım .</sentence>
+<sentence num="19">Burada kilit olan şey ,acaba gerekli olan bu yatırımları çekebilecek miyiz ?''</sentence>
+<sentence num="20">İstanbul'a Mega Center Hollanda merkezli AM Development International'ın direktörlerinden Patrick Van Dooyeweert de ,geçen yıl Kasım ayında Türkiye pazarına girdiklerini ve Türk Mall ile ortak olduklarını söyledi .</sentence>
+<sentence num="21">Türkiye'nin özellikle perakende piyasasında çok büyük fırsatlar sunduğunu belirten Dooyeweert ,150 bin metrekarelik bir alışveriş merkezi projesi üzerinde çalıştıklarını söyledi .</sentence>
+<sentence num="22">Dooyeweert ,İstanbul'un coğrafi kalbinde ,perakende mağazalar olacak şekilde Forum İstanbul Mega Center adını verdikleri yapının inşaat iznini almak üzere olduklarını anlattı .</sentence>
+</doc>
+<doc>
+<id>95714</id>
+<sentence num="0">2005 06 09 15 :40 :00 .Yapı Kredi ,konut kredisinde vade uzattı ...</sentence>
+<sentence num="1">Yapı Kredi Bankası ,YTL cinsinden kullandırdığı konut kredisi faiz oranını aşağı çekip ,vadesini uzattı .</sentence>
+<sentence num="2">Yapı Kredi Bankası'ndan yapılan yazılı açıklamada ,daha önce 3 84 ay vadede yüzde 1 .50 olan konut kredisinin ,3 120 ay vade için yüzde 1 .49 olarak belirlendiği bildirildi .</sentence>
+</doc>
+<doc>
+<id>96416</id>
+<sentence num="0">2005 06 10 16 :20 :00 .Akbank ,konut kredisi faizini düşürdü ...</sentence>
+<sentence num="1">Akbank ,YTL konut kredisi faiz oranını düşürdü .</sentence>
+<sentence num="2">Akbank'tan yapılan açıklamaya göre ,24 aya kadar konut kredisi faizi 0 .</sentence>
+<sentence num="3">06 puan indirilerek yüzde 1 .39'a çekildi .</sentence>
+<sentence num="4">25 ay ve üzeri konut kredisi faiz oranı da 0 .10 puan düşürülerek yüzde 1 .35'e indirildi .</sentence>
+<sentence num="5">Akbank ,konut kredisi vade oranını ise 20 yıla çıkardı .</sentence>
+</doc>
+<doc>
+<id>97419</id>
+<sentence num="0">2005 06 13 07 :46 :00 .Mortgage gelmeden faizler düştü .</sentence>
+<sentence num="1">Mortgage gelmeden konut faizi yüzde 1 .35'e indi Bankaların konut kredisindeki rekabeti aylık faizi yüzde l .35'e indirdi .</sentence>
+<sentence num="2">Kredide yıllık faiz yüzde 17 .45'e düşerken ,tüketci son ihalede yüzde 17 .71 ödeyen Hazine'den bile daha ucuz borçlanmaya başladı Bankalar konut kredisindeki faiz oranlarını ,kira öder gibi konut edinme sistemi mortgage yürürlüğe girmeden aylık yüzde 1 .35'e çekti .</sentence>
+<sentence num="3">Tüketici bu sayede yıllık yüzde 17 .45 bileşik faizle 20 yüa varan vadelerle konut sahibi olma imkanına kavuştu .</sentence>
+<sentence num="4">Söz konusu oran Hazine'nin 24 Mayıs'ta yaptığı 20 aylık ihaledeki yüzde 17 .71'lik bileşik faizden bile 0 .26 puan daha düşük .</sentence>
+<sentence num="5">Böylece tüketici ilk kez ülke içinde en prestijli borçlanıcı kabul edilen Hazine'den daha düşük bedelle kredi alma imkanına kavuştu .</sentence>
+<sentence num="6">İlk adımı Akbank attı Konut kredisini Hazine faizinden daha düşük seviyeye çekme operasyonunda ilk hamle özel sektörün iki büyüğü Akbank ve İş Bankası'ndan geldi .</sentence>
+<sentence num="7">Oranları ilk indiren Akbank ,dün öğle saatlerinde yaptığı açıklamada YTL cinsi kredide ,24 aya kadar vadede faizi 0 .</sentence>
+<sentence num="8">06 puan indirip yüzde 1 .39'a çektiğini duyurdu .</sentence>
+<sentence num="9">Banka 25 ay ve üzeri konut kredisi faiz oranını da 0 .10 puan düşürerek yüzde 1 .35'e çekti .</sentence>
+<sentence num="10">Akbank'ın açıklamasında konut kredisindeki en uzun vadenin 20 yüa çıkartıldığı belirtildi .</sentence>
+<sentence num="11">Akbank'ın bu hamlesine İş Bankası'ndan hemen cevap geldi ,İş Bankası 1 10 yıl vadeli konut faizini yüzde 1 .35'e çekti .</sentence>
+<sentence num="12">Vatan .</sentence>
+</doc>
+<doc>
+<id>97609</id>
+<sentence num="0">2005 06 13 11 :47 :00 .Konut kredisinde yeni dönem .</sentence>
+<sentence num="1">Konut kredisi faiz oranları yüzde 1 .35'e indi Eren Güler cnnturk .</sentence>
+<sentence num="2">com Türkiye'de dar ve orta gelirli vatandaşların daha kolay ev sahibi olmasını sağlayacak olan mortgage sistemi için yasal altyapının hazırlanması yönünde çalışmalar sürerken ,bankalar da bu süreçte konut kredisi faizlerini indirmeye devam ediyorlar .</sentence>
+<sentence num="3">Konut kredisi faizleri yüzde 1 .</sentence>
+<sentence num="4">45 seviyesinde seyrederken ,önce Akbank ,ardından da İş Bankası faizleri yüzde 1 .35 seviyesine çekerek kredide yeni bir dönemi başlattı .</sentence>
+<sentence num="5">Türkiye'de düşmeye devam eden faiz oranları ,bankaların esas faaliyet alanları olan 'borç verme 'işlemine odaklanmalarını sağladı .</sentence>
+<sentence num="6">Bu kapsamda özellikle konut kredisi faiz oranlarında indirimler sürerken ,yılbaşından bu yana yapılan indirimlerle en düşük faiz oranı 0 .35 puan gerilemiş oldu .</sentence>
+<sentence num="7">Yıllık faiz yüzde 17 .</sentence>
+<sentence num="8">45 MORTGAGE SİSTEMİ Kira öder gibi ev sahibi olmanın yolunu açan mortgage sistemi ,vatandaşların 30 yıla varan vadeler ve düşük faiz oranları ile ev sahibi olmasını öngörüyor .</sentence>
+<sentence num="9">Mortgage sisteminde evin bedelinin yüzde 10 30 arasındaki bölümü peşin olarak ödenirken ,gerisi uzun vadeye yayılıyor .</sentence>
+<sentence num="10">Yılın ikinci yarısında yasalaşması beklenen ve Sermaye Piyasası Kurulu tarafından hazırlanan mortgage taslağına göre uzun vadeyle ,düşük faizle konut alınabilmesi için ,'ipotek finansmanı kuruluşları 'oluşturulacak ve bir fon kurulacak .</sentence>
+<sentence num="11">İhraç edilecek belgeler ,borsada işlem görebilecek .</sentence>
+<sentence num="12">Mortgage kuruluşları bazı vergilerden muaf olacak ve konut finansmanında sabit faiz şart olmayacak .</sentence>
+<sentence num="13">Akbank'ın hemen ardından İş Bankası'nın da faiz oranlarını yüzde 1 .35 seviyesine indirmesi ,konut kredisinde yeni bir dönemi başlatmış oldu .</sentence>
+<sentence num="14">Yıllık yüzde 17 .45'e denk gelen faiz oranları vatandaşların ev sahibi olmalarını kolaylaştırırken ,diğer bankaların da bu yarışa katılmaları bekleniyor .</sentence>
+<sentence num="15">100 bin YTL'ye ne kadar ödenecek ?</sentence>
+<sentence num="16">Akbank'ın 20 ,İş Bankası'nın da 10 yıla kadar verdiği yüzde 1 .35'lik aylık faizlere göre ,100 bin YTL kredi alan bir vatandaşın aylık ödemesi 20 yıllık dönemde bin 467 YTL ,10 yıllık dönemde bin 738 YTL ,5 yıllık dönemde de 2 bin 485 YTL olarak hesaplanıyor .</sentence>
+<sentence num="17">Buna göre alınan 100 bin YTL'lik kredinin toplam geri ödemesi 5 yıllık vadede 149 bin 148 YTL'ye ,10 yıl vadede 208 .6 bin YTL'ye ,20 yıl vadede ise 352 .2 bin YTL'ye ulaşıyor .</sentence>
+<sentence num="18">Yüzde 1 .35'lik orana göre aylık ödeme tablosu (YTL ):Miktar 5 yıl 10 yıl 20 yıl 50 .000 YTL 1 .242 869 733 100 .000 YTL 2 .485 1 .738 1 .467 Kredi faizlerinin seyri Türkiye'de 2003 yılında başlayan bankaların bireysel kredi faizleri ve kredi kartı faiz oranlarındaki düşüş ,2004 yılının ilk çeyreğine kadar devam etmişti .</sentence>
+<sentence num="19">Bu dönemde bankaların kredi faizleri yüzde 2'nin altına gerilerken ,özellikle otomotiv ve konut kredisi kullanımında rekor rakamlara ulaşıldı .</sentence>
+<sentence num="20">KREDİ FAİZLERİ Bankaların uyguladıkları konut kredi faizleri şöyle :Akbank :Yüzde 1 .35 İş Bank .:</sentence>
+<sentence num="21">Yüzde 1 .35 Bank Europa :Yüzde 1 .42 Oyakbank :Yüzde 1 .</sentence>
+<sentence num="22">45 Dışbank :Yüzde 1 .</sentence>
+<sentence num="23">45 Garanti Ban :Yüzde 1 .</sentence>
+<sentence num="24">45 HSBC Bank :Yüzde 1 .</sentence>
+<sentence num="25">45 Finansbank :Yüzde 1 .47 Yapı Kredi :Yüzde 1 .49 Ziraat Ban :Yüzde 1 .49Ancak ilk çeyreğin ardından dolar kurundaki yükseliş ve petrol fiyatlarının rekor seviyelere çıkmasıyla birlikte ekonomide görülen dalgalanma ,bankaları da kredi faizlerini artırmaya zorladı .</sentence>
+<sentence num="26">Bunun yanında AB ile üyelik sürecindeki belirsizlik ve yurtdışı kaynaklı gelişmeler bireysel kredi faiz oranlarını da bir anda yüzde 2 .3 seviyelerine çıkardı .</sentence>
+<sentence num="27">Türkiye yılın son ayında ekonomik beklentilerin kuvvetlenmesiyle yeni bir döneme girdi .</sentence>
+<sentence num="28">Özellikle 17 aralıkta AB ile tam üyelik müzakerelerine başlanma kararının alınması piyasalardaki havayı olumlu yönde değiştirdi .</sentence>
+<sentence num="29">Aralık ayında yabancı portföylerinin Türkiye'ye ilgisi artarken ,faizler de tekrar düşüş sinyali vermeye başladı .</sentence>
+<sentence num="30">Önce yüzde 2 ,sonra aşağısı Bunun yanında Türkiye'de enflasyonun düşüş yönündeki istikrarını koruması ,hükümetin mali politikalardaki disiplinden vazgeçmeyeceği mesajı vermesi ,makro ekonomideki dengeli seyir ve IMF ile anlaşma da olumlu bekleyişleri kuvvetlendirdi .</sentence>
+<sentence num="31">Bankaların uyguladıkları faiz oranları kademeli olarak gerilemeye başlarken ,önce yüzde 2 sınırına indi ,2005 yılı ile birlikte de yüzde 1 .69 seviyesine indi .</sentence>
+<sentence num="32">1 .5'in altına HSBC indirdi Koçbank'ın faizleri yüzde 1 .69'a indirmesiyle diğer bankalar da bu yarışa katılırken ,şubat ayının sonlarına doğru HSBC Bank ,faizlerini yüzde 1 .49 olarak belirledi ,vadeyi de 20 yıla çıkardı .</sentence>
+<sentence num="33">Yüzde 1 .50'nin altına inen faizler yeni bir dönemin sinyalini verirken ,nisan ayına kadar bu seviyelerde seyretti .</sentence>
+<sentence num="34">1 nisandan itibaren Bank Europa faizlerini yüzde 1 .45'e çekince ,diğer bankalar da faiz oranlarını buna uygun belirlemeye başladılar .</sentence>
+<sentence num="35">Son olarak da İş Bankası ve Akbank ,geçtiğimiz hafta sonu yüzde 1 .35'lik faiz oranlarıyla rekabette bir adım öne geçtiler .</sentence>
+</doc>
+<doc>
+<id>97646</id>
+<sentence num="0">2005 06 13 12 :36 :00 .İş Bankası faizleri indirdi .</sentence>
+<sentence num="1">İş Bankası'ndan yapılan açıklamaya göre ,nakit kredisinde 1 18 ay vadede uygulanan yüzde 2 faiz ile 19 24 ay vadedeki yüzde 2 .10'luk faiz ,yüzde 1 .85'e çekildi .</sentence>
+<sentence num="2">Banka 1 aydan 120 aya kadar olan vadede yüzde 1 .50 olan konut kredisi faiz oranını yüzde 1 .35'e çekerken ,1 24 ay vadede uyguladığı yüzde 1 .65 oranındaki taşıt kredisi faizini de yüzde 1 .39'a düşürdü .</sentence>
+<sentence num="3">2 .el taşıt kredisinde 1 36 ay vadede uygulanan yüzde 1 .80 faiz oranı yüzde 1 .59'a indirilirken ,dövize endeksli taşıt kredisinde 1 24 ay vadede yüzde 1 olan faiz de yüzde 0 ,70'e düşürüldü ,vade süresi 36 aya uzatıldı .</sentence>
+<sentence num="4">Dövize endeksli konut kredilerinde 13 36 ay vadede uygulanan yüzde 0 .75 faiz oranı 0 .70'e ,37 120 ay vadede uygulanan faiz ise yüzde 0 .80'den 0 .75'e çekildi .</sentence>
+<sentence num="5">İş Bankası ,1 18 ay vadede uyguladığı yüzde 0 .75'lik ,19 36 ay vadede yüzde 0 .85 oranındaki tüketici destek kredi faizini yüzde 1 .65'e düşürdü .</sentence>
+<sentence num="6">Maaş kredisine 1 18 ay vadede uygulanan yüzde 1 .90 faiz ile 19 24 ay vadede uygulanan yüzde 2 faiz oranı 1 .75'e ,faturalı alışveriş kredisinde 1 18 ay vadede yüzde 1 .90 ile 19 24 ay vadede yüzde 2 olan faiz oranı da yüzde 1 .75'e indirildi .</sentence>
+<sentence num="7">Banka ,yüzde 4 .25 olarak uyguladığı ek hesap faiz oranını da yüzde 3'e çekti .</sentence>
+<sentence num="8">aa .</sentence>
+</doc>

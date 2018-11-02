@@ -1,0 +1,199 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 10 01 15 :45 :00 .endonezya'nın bali adası'nda 4 patlama ..</sentence>
+<sentence num="1">endonezya'nın bali adası'nda 4 patlama endonezya'nın bali adasında bir dizi patlama olduğu bildirildi .</sentence>
+<sentence num="2">el şinta radyosu ,kuta ile jimbaran sahilinde en az 4 patlamanın meydana geldiğini en az bazıları turist olmak üzere 8 kişinin öldüğü ve 20'den fazla kişinin de yaralandığını belirtti .</sentence>
+<sentence num="3">haberde ,turistlerin rağbet ettiği restoranların bulunduğu jimbaran sahil şeridinde 3 patlama olduğu ve görgü tanıklarına göre ,3 turistin olay mahallinden kanlar içinde ayrılırken görüldüğü kaydedildi .</sentence>
+<sentence num="4">jimbaran'a 30 kilometre uzaklıktaki kuta'da da eşzamanlı bir patlamanın meydana geldiği belirtildi .</sentence>
+<sentence num="5">kuta'daki patlamanın verdiği zarar hakkında açıklama yapılmadı .</sentence>
+</doc>
+<doc>
+<id>159104</id>
+<sentence num="0">2005 10 01 16 :46 :00 .Bali'de eşzamanlı 4 bomba patladı :Çok sayıda ölü ve yaralı var .</sentence>
+<sentence num="1">Bali'de eşzamanlı 4 bomba patladı :Çok sayıda ölü ve yaralı var Endonezya'nın Bali adasında turistleri hedef alan bombalı saldırılarda bir kısmı turist olmak üzere en az 32 kişi ölürken ,101 kişi de yaralandı .</sentence>
+<sentence num="2">Endonezya Devlet Başkanı Susilo Bambang Yudhoyono'nun sözcüsü Andi Mallarangeng ,El Şinta Radyosu'na bir açıklama yaparak eş zamanlı saldırıları kınayan devlet başkanını Bali adasına gideceğini bildirdi .</sentence>
+<sentence num="3">Bazı görgü tanıkları bombalı saldırılar sonucu en az 30 ceset gördüğünü söylerken ,yetkililer henüz ölü sayısı hakkında açıklama yapmadı .</sentence>
+<sentence num="4">Aynı bölgede 3 yıl önceki patlamalarda 202 kişi ölürken ,209 kişi de yaralanmıştı .</sentence>
+<sentence num="5">Saldırılarda 88 Avustralyalı ve 26 İngiliz turistle birlikte 38 Endonezyalı da hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>159140</id>
+<sentence num="0">2005 10 01 18 :20 :00 .Bali adasında patlamalar :32 ölü .</sentence>
+<sentence num="1">Endonezya'nın Bali adasındaki patlamalarda ölü sayısı 32'ye yükseldi .</sentence>
+<sentence num="2">Fransa'nın Cakarta Büyükelçiliği'nden adının açıklanmasını istemeyen bir yetkili ,ölülerin götürüldüğü 2 hastaneden aldığı bilgilerin ardından yaptığı açıklamada ,Sangla hastanesine 21 ,Graha Asih hastanesine 11 cesedin getirildiğini ,patlamalarda 101 kişinin yaralandığını belirtti .</sentence>
+<sentence num="3">Yetkili ,ölenler arasında bir Japon ile bir Avustralyalının da bulunduğunu belirterek ,patlamalarda bir Fransız'ın hafif yaralandığını söyledi .</sentence>
+<sentence num="4">Endonezya terörle mücadele yetkilileri ,patlamaların teröristlerin işi olduğunu ve eşzamanlı 4 bombalı saldırı düzenlendiğinin açıklık kazandığını bildirdi .</sentence>
+<sentence num="5">Turizm cenneti olarak anılan Bali'de 12 ekim 2002'de çoğu Avustralyalı turist 202 kişi ,dinci terörün bombalı saldırısının kurbanı olmuştu .</sentence>
+<sentence num="6">Jimbaran'a 30 kilometre uzaklıktaki Kuta'da da eşzamanlı bir patlamanın meydana geldiği belirtildi .</sentence>
+<sentence num="7">Kuta'daki patlamanın verdiği zarar hakkında açıklama yapılmadı .</sentence>
+<sentence num="8">Polis kaynakları ,yetkililerin olayı araştırmak üzere bölgeye hareket ettiklerini söylediler .</sentence>
+<sentence num="9">Kuta'da Ekim 2002'de düzenlenen ve çoğu turist 202 kişinin ölümüne yol açan bombalı saldırılardan ,El Kaide bağlantılı İslami Cemaat sorumlu tutulmuştu .</sentence>
+</doc>
+<doc>
+<id>159151</id>
+<sentence num="0">2005 10 01 18 :49 :00 .Bali'de eşzamanlı patlamalar :26 ölü .</sentence>
+<sentence num="1">Bali'deki patlamalarda 51 kişi de yaralandı Endonezya'nın Bali adası üç yıl sonra tekrar eşzamanlı saldırılarla sarsıldı .</sentence>
+<sentence num="2">Dört patlamanın meydana geldiği bölgede ölü sayısı 26'ya çıktı .</sentence>
+<sentence num="3">Görgü tanıkları ,hastane kaynakları ve radyonun kaydettiğine göre ,bir kısmı turist olan ölenlerin yanı sıra 120 kişi de yaralandı .</sentence>
+<sentence num="4">Endonezya terörle mücadele yetkilileri ,patlamaların teröristlerin işi olduğunu ve eşzamanlı dört bombalı saldırı düzenlendiğinin açıklık kazandığını açıkladı .</sentence>
+<sentence num="5">Turizm cenneti olarak anılan Bali'de 12 ekim 2002'de çoğu Avustralyalı turist 202 kişi ,dinci terörün bombalı saldırısının kurbanı olmuştu .</sentence>
+<sentence num="6">Saldırıları intihar bombacıları düzenledi Endonezya'nın turistik Bali adasında üç kalabalık restoranda düzenlenen bombalı saldırıları ,intihar bombacılarının düzenlediği belirlendi .</sentence>
+<sentence num="7">Anti terör grubunun yetkililerinden general Ansyaad Mbai ,bombacıların ,parçalanmış cesetlerini gördüğünü belirtti .</sentence>
+<sentence num="8">General Mbai ,iki Malezyalı teröristin saldırıların arkasında olduğundan kuşkulandıklarını kaydetti .</sentence>
+<sentence num="9">Azahari bin Husin ve Noordin Mohamed Top adlı bu iki şüpheli ,Bali'de 2002'de düzenlenen ve çoğu yabancı turist 202 kişinin öldüğü bombalı saldırılara da karışmakla suçlanıyor .</sentence>
+<sentence num="10">Endonezya Devlet Başkanı Susilo Bambang Yudhoyono da ,saldırıları muhtemelen intihar bombacılarının düzenlediğini söyledi .</sentence>
+<sentence num="11">Yudhoyono ,''şimdiye kadar yaptığımız incelemeler ,Jimbaran plajı ve Kuta Meydanı'ndaki saldırıların intihar bombacıları tarafından düzenlendiğini gösteriyor .</sentence>
+<sentence num="12">Onlar araç değil ,kendi vücutlarını kullandılar ''dedi .</sentence>
+<sentence num="13">Devlet Başkanı Yudhoyono ,terörizmle mücadelede daha fazla çaba gösterileceğini de belirtti .</sentence>
+<sentence num="14">Bu arada ,Bali'deki saldırılardan sonra başkent Cakarta'da büyükelçilikler ve kamu binalarının korunması için 180 bin polisin görev yaptığı belirtildi .</sentence>
+<sentence num="15">Bali hastane yetkilileri de ölenlerden 16'sının kimliğinin tespit edildiğini ,bunlardan altı yaşında bir erkek çocuğu olmak üzere 12'sinin Endonezyalı ,3'ünün Avustralyalı ve birinin Japon olduğunu söylediler .</sentence>
+<sentence num="16">Yaralanan 120 kişi arasında da Endonezyalıların yanı sıra Avustralya ,Güney Kore ,ABD ,Japonya ,Fransa ve Almanya vatandaşlarının bulunduğu kaydedildi .</sentence>
+</doc>
+<doc>
+<id>159156</id>
+<sentence num="0">2005 10 01 19 :22 :00 .Bali'de eşzamanlı patlamalar :19 ölü .</sentence>
+<sentence num="1">Görgü tanıkları ,hastane kaynakları ve radyonun kaydettiğine göre ,bir kısmı turist olan ölenlerin yanı sıra 51 kişi de yaralandı .</sentence>
+<sentence num="2">Endonezya terörle mücadele yetkilileri ,patlamaların teröristlerin işi olduğunu ve eşzamanlı dört bombalı saldırı düzenlendiğinin açıklık kazandığını açıkladı .</sentence>
+<sentence num="3">Turizm cenneti olarak anılan Bali'de 12 ekim 2002'de çoğu Avustralyalı turist 202 kişi ,dinci terörün bombalı saldırısının kurbanı olmuştu .</sentence>
+</doc>
+<doc>
+<id>159165</id>
+<sentence num="0">2005 10 01 20 :39 :00 .Endonezya'da Patlamalar :23 Ölü .</sentence>
+<sentence num="1">Endonezya'nın Bali adasında eşzamanlı meydana gelen 3 patlamada en az 23 kişinin öldüğü ,35'i yabancı uyruklu 51 kişinin de yaralandığı bildiriliyor .</sentence>
+<sentence num="2">Endonezya polisi ,patlamalara bombanın neden olduğunu doğruladı .</sentence>
+<sentence num="3">Polisin verdiği bilgiye göre patlamalardan biri Cimbaran plajı ,diğeri de 30 kilometre uzaklıkta yer alan Kuta kentinin merkezindeki bir kafede meydana geldi .</sentence>
+<sentence num="4">Endonezya Devlet Başkanı Susilo Bambang Yudhoyono saldırıların ardından adaya hareket ederken ,yapılan saldırıları da kınadı .</sentence>
+<sentence num="5">El Kaide terör örgütüne bağlı İslam Cemaati örgütü tarafından Kuta kentinde 2002 yılında düzenlenen saldırılarda 202 kişi hayatını kaybetmişti .</sentence>
+<sentence num="6">Öğrencilerin Benzin Zammını Protestosu Başkent Cakarta'da binlerce öğrenci ,benzin zammını protesto etmek için sokaklara döküldü .</sentence>
+<sentence num="7">Ülkede yaklaşık 17 kentte protesto gösterileri düzenlendi .</sentence>
+<sentence num="8">Endonezya devlet başkanının ekonomik krizi önlemenin tek yolu olarak gördüğü benzin zammını protesto eden öğrencilere polis müdahale etti .</sentence>
+<sentence num="9">Taş fırlatan öğrencilere karşı göz yaşartıcı gaz kullanıldı .</sentence>
+<sentence num="10">Yaklaşık 100 kadar öğrenci öğrenci başkent cakarta merkezine giderek çevreyi tahrip etti .</sentence>
+<sentence num="11">Ülke genelinde 17 kentte zamları protesto etmek için gösteriler düzenlendi .</sentence>
+<sentence num="12">Endonezya Devlet başkanı Susilo Bambang Yudhoyono ise ,anarşi yatırımı ve sermayeyi caydırır uyarısında bulundu .</sentence>
+<sentence num="13">Ülkede akaryakıt fiyatlarında yaşanılan artışın diğer ürünlere de yansıması bekleniyor .</sentence>
+<sentence num="14">Endonezya OPEC üyesi ,tek güneydoğu asya ülkesi olmasına rağmen ,araştırma ve çıkarma çalışmaları için yeterli yatırımı yapmadığı için ,petrol ithal ediyor .</sentence>
+<sentence num="15">Endonezya'da mart ayında akaryakıt fiyatlarına yapılan %29'luk zamdan sonra da ülke genelinde gösteriler düzenlenmişti .</sentence>
+</doc>
+<doc>
+<id>159232</id>
+<sentence num="0">2005 10 02 07 :11 :00 .Bali'deki saldırıları intihar bombacıları düzenledi .</sentence>
+<sentence num="1">Bali'deki saldırıları intihar bombacıları düzenledi Endonezya'nın turistik Bali adasında üç kalabalık restoranda en az 25 kişinin ölümüne yol açan bombalı saldırıları ,intihar bombacılarının düzenlediği belirlendi .</sentence>
+<sentence num="2">Anti terör grubunun yetkililerinden general Ansyaad Mbai AP'ye yaptığı açıklamada ,bombacıların ,parçalanmış cesetlerini gördüğünü belirtti .</sentence>
+</doc>
+<doc>
+<id>159244</id>
+<sentence num="0">2005 10 02 09 :09 :00 .Bali'deki saldırılar intihar bombası .</sentence>
+<sentence num="1">Anti terör grubunun yetkililerinden general Ansyaad Mbai AP'ye yaptığı açıklamada ,bombacıların ,parçalanmış cesetlerini gördüğünü belirtti .</sentence>
+<sentence num="2">General Mbai ,2 Malezyalı teröristin ,saldırıların arkasında olduğundan kuşkulandıklarını kaydetti .</sentence>
+<sentence num="3">Azahari bin Husin ve Noordin Mohamed Top adlı bu iki şüpheli ,Bali'de 2002'de düzenlenen ve çoğu yabancı turist 202 kişinin öldüğü bombalı saldırılara da karışmakla suçlanıyor .</sentence>
+<sentence num="4">Öte yandan ,teröristlerle bağlantılı olduğu iddiaları sık sık gündeme gelen ,Ebu Bekir Beşir adlı 67 yaşındaki din adamı adına yapılan açıklamada ,Beşir'in son saldırılarla ilgili olmadığı belirtildi .</sentence>
+<sentence num="5">Beşir'in sözcüsü açıklamasında ,''Hiçbir Müslüman ,böyle bir bombalı saldırı düzenlemez ''dedi .</sentence>
+<sentence num="6">aa .</sentence>
+</doc>
+<doc>
+<id>159369</id>
+<sentence num="0">2005 10 02 12 :54 :00 .Endonezya'da Bombalı Saldırılar .</sentence>
+<sentence num="1">Endonezya'nın Bali adasında üç ayrı lokantada eşzamanlı düzenlenen intihar saldırılarında ölenlerin sayısı 26'ya çıktı .</sentence>
+<sentence num="2">Bali adasındaki saldırıların ikisi Cimbaran plajındaki lokantada ,biri ise 30 kilometre uzaklıktaki Kuta'da düzenlendi .</sentence>
+<sentence num="3">Akşam yemeği için lokantaların hınca hınç dolu olduğu bir sırada ,üç intihar eylemcisinin bellerine bağladıkları bombaların pimini çektikleri bildirildi .</sentence>
+<sentence num="4">Saldırılarda ölenlerden 15'inin kimliği belli oldu .</sentence>
+<sentence num="5">Ölenlerin 12'si Endonezyalı ,üçü Avustralyalı ,biri Japon .</sentence>
+<sentence num="6">Saldırıları Üstlenen Olmadı 100'den fazla kişinin de yaralandığı saldırıların sorumluluğunu henüz üstlenen olmadı .</sentence>
+<sentence num="7">Endonezya polisi ,saldırılarla ilgili olarak El Kaide'ye bağlı Cemaati İslami örgütü ve bu örgütün Malezyalı iki anahtar ismi üzerinde duruyor .</sentence>
+<sentence num="8">Aynı örgüt ,üç yıl önce yine Bali'ye düzenlenen ,çoğu yabancı 202 kişinin öldüğü saldırılarla ilgili olarak da suçlanıyor .</sentence>
+</doc>
+<doc>
+<id>159514</id>
+<sentence num="0">2005 10 02 17 :10 :00 .İşte dehşet anının fotoğrafları ...</sentence>
+<sentence num="1">Endonezya'nın turizm cenneti Bali adasını kana bulayan ve 32 kişinin ölümüne sebep bombalı saldırıların fotoğrafları ortaya çıktı .</sentence>
+<sentence num="2">Dehşet anınının karelerini uluslararası haber ajansları tüm dünyaya geçti .</sentence>
+<sentence num="3">Fransa'nın Cakarta Büyükelçiliği'nden adının açıklanmasını istemeyen bir yetkili ,ölülerin götürüldüğü 2 hastaneden aldığı bilgilerin ardından yaptığı açıklamada ,Sangla hastanesine 21 ,Graha Asih hastanesine 11 cesedin getirildiğini ,patlamalarda 101 kişinin yaralandığını belirtti .</sentence>
+<sentence num="4">Yetkili ,ölenler arasında bir Japon ile bir Avustralyalının da bulunduğunu belirterek ,patlamalarda bir Fransız'ın hafif yaralandığını söyledi .</sentence>
+<sentence num="5">Endonezya terörle mücadele yetkilileri ,patlamaların teröristlerin işi olduğunu ve eşzamanlı 4 bombalı saldırı düzenlendiğinin açıklık kazandığını bildirdi .</sentence>
+<sentence num="6">Yaralanan 122 kişi arasında da Endonezyalıların yanı sıra Avustralya ,Güney Kore ,ABD ,Japonya ,Fransa ve Almanya vatandaşlarının bulunduğu kaydedildi .</sentence>
+<sentence num="7">Turizm cenneti olarak anılan Bali'de 12 ekim 2002'de çoğu Avustralyalı turist 202 kişi ,dinci terörün bombalı saldırısının kurbanı olmuştu .</sentence>
+<sentence num="8">Jimbaran'a 30 kilometre uzaklıktaki Kuta'da da eşzamanlı bir patlamanın meydana geldiği belirtildi .</sentence>
+<sentence num="9">Kuta'daki patlamanın verdiği zarar hakkında açıklama yapılmadı .</sentence>
+<sentence num="10">İntihar saldırısı Turistik Bali adasında üç kalabalık restoranda en az 25 kişinin ölümüne yol açan bombalı saldırıları ,intihar bombacılarının düzenlediği belirlendi .</sentence>
+<sentence num="11">Anti terör grubunun yetkililerinden general Ansyaad Mbai AP'ye yaptığı açıklamada ,bombacıların ,parçalanmış cesetlerini gördüğünü belirtti .</sentence>
+<sentence num="12">General Mbai ,2 Malezyalı teröristin ,saldırıların arkasında olduğundan kuşkulandıklarını kaydetti .</sentence>
+<sentence num="13">Azahari bin Husin ve Noordin Mohamed Top adlı bu iki şüpheli ,Bali'de 2002'de düzenlenen ve çoğu yabancı turist 202 kişinin öldüğü bombalı saldırılara da karışmakla suçlanıyor .</sentence>
+<sentence num="14">Öte yandan ,teröristlerle bağlantılı olduğu iddiaları sık sık gündeme gelen ,Ebu Bekir Beşir adlı 67 yaşındaki din adamı adına yapılan açıklamada ,Beşir'in son saldırılarla ilgili olmadığı belirtildi .</sentence>
+<sentence num="15">Beşir'in sözcüsü açıklamasında ,Hiçbir Müslüman ,böyle bir bombalı saldırı düzenlemez dedi .</sentence>
+</doc>
+<doc>
+<id>159517</id>
+<sentence num="0">2005 10 02 17 :30 :00 .Kare kare dehşet anı .Fransa'nın Cakarta Büyükelçiliği'nden adının açıklanmasını istemeyen bir yetkili ,ölülerin götürüldüğü 2 hastaneden aldığı bilgilerin ardından yaptığı açıklamada ,Sangla hastanesine 21 ,Graha Asih hastanesine 11 cesedin getirildiğini ,patlamalarda 101 kişinin yaralandığını belirtti .</sentence>
+<sentence num="1">Yetkili ,ölenler arasında bir Japon ile bir Avustralyalının da bulunduğunu belirterek ,patlamalarda bir Fransız'ın hafif yaralandığını söyledi .</sentence>
+<sentence num="2">Endonezya terörle mücadele yetkilileri ,patlamaların teröristlerin işi olduğunu ve eşzamanlı 4 bombalı saldırı düzenlendiğinin açıklık kazandığını bildirdi .</sentence>
+<sentence num="3">Yaralanan 122 kişi arasında da Endonezyalıların yanı sıra Avustralya ,Güney Kore ,ABD ,Japonya ,Fransa ve Almanya vatandaşlarının bulunduğu kaydedildi .</sentence>
+<sentence num="4">Turizm cenneti olarak anılan Bali'de 12 ekim 2002'de çoğu Avustralyalı turist 202 kişi ,dinci terörün bombalı saldırısının kurbanı olmuştu .</sentence>
+<sentence num="5">Jimbaran'a 30 kilometre uzaklıktaki Kuta'da da eşzamanlı bir patlamanın meydana geldiği belirtildi .</sentence>
+<sentence num="6">Kuta'daki patlamanın verdiği zarar hakkında açıklama yapılmadı .</sentence>
+<sentence num="7">İntihar saldırısı Turistik Bali adasında üç kalabalık restoranda en az 25 kişinin ölümüne yol açan bombalı saldırıları ,intihar bombacılarının düzenlediği belirlendi .</sentence>
+<sentence num="8">Anti terör grubunun yetkililerinden general Ansyaad Mbai AP'ye yaptığı açıklamada ,bombacıların ,parçalanmış cesetlerini gördüğünü belirtti .</sentence>
+<sentence num="9">General Mbai ,2 Malezyalı teröristin ,saldırıların arkasında olduğundan kuşkulandıklarını kaydetti .</sentence>
+<sentence num="10">Azahari bin Husin ve Noordin Mohamed Top adlı bu iki şüpheli ,Bali'de 2002'de düzenlenen ve çoğu yabancı turist 202 kişinin öldüğü bombalı saldırılara da karışmakla suçlanıyor .</sentence>
+<sentence num="11">Öte yandan ,teröristlerle bağlantılı olduğu iddiaları sık sık gündeme gelen ,Ebu Bekir Beşir adlı 67 yaşındaki din adamı adına yapılan açıklamada ,Beşir'in son saldırılarla ilgili olmadığı belirtildi .</sentence>
+<sentence num="12">Beşir'in sözcüsü açıklamasında ,Hiçbir Müslüman ,böyle bir bombalı saldırı düzenlemez dedi .</sentence>
+</doc>
+<doc>
+<id>159557</id>
+<sentence num="0">2005 10 02 20 :00 :00 .Bali saldırısının görüntüleri yayınlandı .</sentence>
+<sentence num="1">Endonezya'nın Bali adasında eşzamanlı patlamalar meydana geldi İlgili Galeri Foto Galeri için tıklayınız Endonezya'nın Bali adasında dün düzenlenen ve 26 kişinin ölümüyle sonuçlanan bombalı saldırının video görüntüleri yayınlandı .</sentence>
+<sentence num="2">Associated Press'in ele geçirdiği görüntülerde ,intihar eylemcisi patlamadan hemen önce bir kafeye girerken görülüyor .</sentence>
+<sentence num="3">Turistlerin rağbet ettiği bu kafeye sakin bir şekilde girdiği görülen ,üzerinde siyah bir tişört bulunan saldırgan ,mum ışığında yemek yiyen turistlerin arasından geçiyor .</sentence>
+<sentence num="4">Patlamadan birkaç saniye önce eylemcinin görüntüsü kaybolurken ,patlamanın olmasıyla birlikte turistlerin çığlıkları duyuluyor .</sentence>
+<sentence num="5">Bu görüntüleri kaydettiği belirtilen turistin ,patlamayla birlikte dışarı kaçtığı ve görüntü çekmeye devam ettiği belirtildi .</sentence>
+<sentence num="6">Endonezya terörle mücadele yetkilileri ,patlamaların teröristlerin işi olduğunu ve eşzamanlı dört bombalı saldırı düzenlendiğinin açıklık kazandığını açıkladı .</sentence>
+<sentence num="7">Endonezya'nın Bali adası üç yıl sonra dün tekrar eşzamanlı saldırılarla sarsıldı .</sentence>
+<sentence num="8">Dört patlamanın meydana geldiği bölgede ölü sayısı 26'ya çıktı .</sentence>
+<sentence num="9">Patlamalarda 120 kişi de yaralandı .</sentence>
+<sentence num="10">Bali hastane yetkilileri ölenlerden 16'sının kimliğinin tespit edildiğini ,bunlardan altı yaşında bir erkek çocuğu olmak üzere 12'sinin Endonezyalı ,3'ünün Avustralyalı ve birinin Japon olduğunu söylediler .</sentence>
+<sentence num="11">Yaralanan 120 kişi arasında da Endonezyalıların yanı sıra Avustralya ,Güney Kore ,ABD ,Japonya ,Fransa ve Almanya vatandaşlarının bulunduğu kaydedildi .</sentence>
+<sentence num="12">Bu arada ,Bali'deki saldırılardan sonra başkent Cakarta'da büyükelçilikler ve kamu binalarının korunması için 180 bin polisin görev yaptığı belirtildi .</sentence>
+<sentence num="13">Turizm cenneti olarak anılan Bali'de 12 ekim 2002'de çoğu Avustralyalı turist 202 kişi ,dinci terörün bombalı saldırısının kurbanı olmuştu .</sentence>
+<sentence num="14">Dışişleri Bakanlığı saldırıları kınadı Dışişleri Bakanlığı ,dün Endonezya'nın Bali adasında düzenlenen bombalı saldırıları şiddetle kınadı .</sentence>
+<sentence num="15">Bakanlık tarafından yapılan yazılı açıklamada ,''Dost Endonezya'nın Bali Adası'nda ,iki ayrı turistik bölgede meydana gelen ve can kaybı ile yaralanmaya yol açan terörist saldırıları şiddetle kınıyoruz ''denildi .</sentence>
+<sentence num="16">Bu saldırının 'tüm insanlığa karşı işlenmiş bir suç 'olarak değerlendirildiği açıklamada ,''Türkiye ,dünyanın neresinde olursa olsun ,terör eylemlerinin yarattığı acıları anlamakta ve içtenlikle paylaşmaktadır ''ifadelerine yer verildi .</sentence>
+<sentence num="17">Açıklamada ,uluslararası alanda terörizmle çok daha etkili bir mücadelenin sürdürülmesi gerekliliğine işaret edildi ,bu mücadelede daha süratli adımlar atılması ve bu konudaki işbirliğinin artırılması hususunda uluslararası camiaya bir kez daha çağrıda bulunuldu .</sentence>
+</doc>
+<doc>
+<id>159577</id>
+<sentence num="0">2005 10 02 20 :50 :00 .Türkiye Bali Saldırılarını Kınadı .</sentence>
+<sentence num="1">Türkiye ,Endonezya'nın Bali Adası'ndaki terörist saldırıları şiddetle kınadı .</sentence>
+<sentence num="2">Dışişleri Bakanlığı'ndan yapılan açıklamada ,can kaybı ve yaralanmaya yol açan saldırılar ,tüm insanlığa yapılmış bir suç olarak nitelendirildi .</sentence>
+<sentence num="3">Açıklamada ,uluslararası alanda terörizmle çok daha etkili bir mücadele sürdürülmesinin gereğine dikkat çekildi .</sentence>
+</doc>
+<doc>
+<id>159737</id>
+<sentence num="0">2005 10 03 09 :20 :00 .İşte dehşet anının kare kare fotoğrafları ...</sentence>
+<sentence num="1">Endonezya'nın Bali adasındaki Kuta sahilinde bir kafede dün düzenlenen bombalı saldırının video görüntüleri yayınlandı .</sentence>
+<sentence num="2">Associated Press'in ele geçirdiği görüntülerde ,intihar eylemcisi ,patlamadan hemen önce ,bir kafeye girerken görülüyor .</sentence>
+<sentence num="3">Turistlerin rağbet ettiği bu kafeye sakin bir şekilde girdiği görülen ,üzerinde siyah bir tişört bulunan saldırgan ,mum ışığında yemek yiyen turistlerin arasından geçiyor .</sentence>
+<sentence num="4">Patlamadan birkaç saniye önce eylemcinin görüntüsü kaybolurken ,patlamanın olmasıyla birlikte turistlerin çığlıkları duyuluyor .</sentence>
+<sentence num="5">Bu görüntüleri kaydettiği belirtilen turistin ,patlamayla birlikte dışarı kaçtığı ve görüntü çekmeye devam ettiği belirtildi .</sentence>
+<sentence num="6">Bali adasında hemen hemen eşzamanlı düzenlenen bombalı saldırılarda 26 kişi ölmüş ,100 kişi yaralanmıştı .?</sentence>
+<sentence num="7">Tren raydan çıktı :12 ölü ,100 yaralı ?</sentence>
+<sentence num="8">New York'ta gezi teknesi alabora oldu :21 ölü .</sentence>
+</doc>
+<doc>
+<id>160355</id>
+<sentence num="0">2005 10 04 08 :33 :00 .Avustralya ,Bali'de yeni saldırı uyarısı yaptı .</sentence>
+<sentence num="1">Avustralya ,Bali'de yeni saldırı uyarısı yaptı Avustralya ,Endonezya'da Bali adasındaki saldırıdan sonra Seminyak bölgesinin de terör saldırısının hedefi olabileceği uyarısında bulundu .</sentence>
+<sentence num="2">Avustralya Dış İlişkiler ve Ticaret Bakanlığı'nın internet sitesinde yer alan uyarıda ,Avustralya vatandaşlarından terörist tehlike nedeniyle gerekmedikçe Endonezya'ya seyahat etmemeleri ikazı da yinelendi .</sentence>
+<sentence num="3">Bu arada ,Bali'de 22 kişinin hayatını kaybettiği ve 135 kişinin yaralandığı saldırılarla ilgili olarak 2 kişinin gözaltına alındığı bildirildi .</sentence>
+</doc>
+<doc>
+<id>160371</id>
+<sentence num="0">2005 10 04 09 :14 :00 .Bali saldırısıyla ilgili iki gözaltı .</sentence>
+<sentence num="1">Bali'de geçtiğimiz cumartesi günü düzenlenen saldırıda 26 kişi ölmüştü Endonezya'nın Bali adasında geçtiğimiz cumartesi günü meydana gelen ve 26 kişinin ölümüyle sonuçlanan saldırılarla ilgili olarak iki kişi gözaltına alındı .</sentence>
+<sentence num="2">Avustralya da ,Endonezya'nın Bali adasındaki saldırıdan sonra Seminyak bölgesinin de terör saldırısına hedef olabileceği uyarısında bulundu .</sentence>
+<sentence num="3">Avustralya Dış İlişkiler ve Ticaret Bakanlığı'nın internet sitesinde yer alan uyarıda ,Avustralya vatandaşlarından terör tehlikesi nedeniyle gerekmedikçe Endonezya'ya seyahat etmemeleri istendi .</sentence>
+<sentence num="4">Uyarıda ,Avustralyalılardan terör saldırıları için olası hedef olarak görülen Bali'deki Seminyak bölgesinde dikkatli olmaları gerektiği vurgulandı .</sentence>
+<sentence num="5">Uyarıda ,ayrıca Batılıların sıkça gittiği Seminyak'taki gece kulüplerinin de hedef olabileceği belirtildi .</sentence>
+<sentence num="6">Bali saldırılarıyla ilgili iki gözaltı Bali'de geçtiğimiz cumartesi günü meydana gelen ve 26 kişinin ölümüyle ,135 kişinin de yaralanmasıyla sonuçlanan saldırılarla ilgili olarak iki kişi gözaltına alındı .</sentence>
+<sentence num="7">İki kişinin sorgusunun devam ettiğini belirten Endonezya polisi ,El Kaide ile bağlantılı bir dinci örgütün liderleri olan Malezyalı Azahiri bin Hüsin ile Nurdin M .Top'u aradıklarını belirtti .</sentence>
+<sentence num="8">Bu kişilerin 2002'de 202 kişinin öldüğü saldırıların planlanmasına yardımcı olduğu iddia ediliyor .</sentence>
+</doc>

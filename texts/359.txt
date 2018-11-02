@@ -1,0 +1,1277 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 02 17 13 :40 :00 .büyük sürpriz !</sentence>
+<sentence num="1">türkiye'nin ilk yediz bebekleri geliyor ..</sentence>
+<sentence num="2">ikinci kez bebek sahibi olmak amacıyla tedavi gören aliağalı sibel (30 )ve hüseyin deniz (35 )çifti ,doktorlarından yediz gebelik haberi alınca şaşkına döndü .</sentence>
+<sentence num="3">çiftin doktoru central hospital kadın hastalıkları ve doğum uzmanı özer gürbüz ,çiftin 11 yıllık evli olduğunu ,3 yıl önce çocuk sahibi olmak için tedavi amaçlı kendisine geldiklerini belirtti .</sentence>
+<sentence num="4">aşılama yöntemiyle 3 yıl önce çiftin bir erkek çocuk sahibi olduğunu dile getiren gürbüz ,ikinci kez bebek isteyen çifte yeniden tedavi uygulandıklarını bildirdi .</sentence>
+<sentence num="5">yine aşılama yöntemini uyguladıklarını anlatan gürbüz ,şu bilgileri verdi :''ama bu kez hormon değerleri yüksek seyrettiği için çoğul gebelik olabileceğini söylemiştik .</sentence>
+<sentence num="6">aşılamadan bir iki hafta sonra ültrason bulgularında ilk etapta beşiz gebelik olduğunu gördük ,bir dahaki kontrolde bebek sayısı altıya ,sonra da yediye çıktı .</sentence>
+<sentence num="7">sayıyı kesinleştirmek için çifti dokuz eylül üniversitesi'ne gönderdik ve oradan da rakam onaylandı .</sentence>
+<sentence num="8">hastaya ,olayın boyutlarıyla ilgili bilgi verdik .''</sentence>
+<sentence num="9">konunun ekonomik ,psikolojik ve tıbbi olmak üzere 3 boyutu bulunduğunu dile getiren gürbüz ,ailenin ekonomik olarak 7 çocuğu büyütecek güçtü olmadığını ,ancak bu konunun sponsorlar yardımıyla çözülebileceğini kaydetti .</sentence>
+<sentence num="10">ikinci boyutunun etik ve psikolojik olduğunu dile getiren gürbüz ,şöyle devam etti :''aile ikilemde .</sentence>
+<sentence num="11">çocuğu olmayan bir çiftin 7 çocuğu oluyor ,bunların da üçü kalsın ,dördünü alalım diyoruz .</sentence>
+<sentence num="12">bu psikolojik olarak olumsuz etkiliyor .</sentence>
+<sentence num="13">bir de tıbbi boyutu var .</sentence>
+<sentence num="14">bu çoğul gebelikler istemediğimiz gebeliklerdir .</sentence>
+<sentence num="15">7 tane bebek olması ,olumsuzlukları da beraberinde getiriyor .</sentence>
+<sentence num="16">örneğin erken doğum riski sık yaşanıyor .</sentence>
+<sentence num="17">literatürü taradık ,yediz bebek hiç yok .</sentence>
+<sentence num="18">dünyada sadece abd'li bir çiftin yediz bebeği olmuş .</sentence>
+<sentence num="19">doktorlar onlara da 'bir kısmını alalım 'önerisini getirmişler ama anne kabul etmemiş ,doğurmuş ve sağlıklı olmuşlar .</sentence>
+<sentence num="20">biz de aynı öneriyi getirdik .</sentence>
+<sentence num="21">kararı hasta verecek .</sentence>
+<sentence num="22">devam edelim derlerse ,devam edeceğiz ,olmazsa üç bebeği bırakıp ,dördünü alacağız .</sentence>
+<sentence num="23">bu yasal ve bilimsel bir yöntem .</sentence>
+<sentence num="24">bu işlemi de deü uzmanlarıyla ortak yapacağız .''</sentence>
+<sentence num="25">ailenin karar vermesi durumunda 4 bebeğin alınması işleminin 3 hafta sonra yapılacağını anlatan gürbüz ,''bebekler şu anda 8 haftalık ,21 milimetre boyundalar ,hepsi canlı ,kalpleri çalışıyor .</sentence>
+<sentence num="26">3 hafta gelişimlerini gözlemek açısından beklenecek ''dedi .</sentence>
+<sentence num="27">aile şaşkın yediz haberini alınca büyük bir şaşkınlığa uğrayan deniz çiftini bu kez de 'bebeklere nasıl bakacağız ?'</sentence>
+<sentence num="28">endişesi sardı .</sentence>
+<sentence num="29">işçi olarak çalışan ve 600 ytl aylıkla geçimini sağlayan hüseyin deniz ve eşi bebeklerin hepsini dünyaya getirip getirmeme konusunda kararsız kaldı .</sentence>
+<sentence num="30">baba hüseyin deniz ,hem mutlu ,hem de şaşkın olduklarını belirterek ,''tuhaf bir durum içindeyiz ''dedi .</sentence>
+<sentence num="31">durumun eşi için daha zor olduğunu ,karar aşamasında bulunduklarını ifade eden deniz ,duygularını şöyle dile getirdi :''henüz düşünüyoruz .</sentence>
+<sentence num="32">tıbben mümkün değilse gerekeni doktorlarımız yapacak ,ama her şey sağlıklı gider derlerse ,7 bebeği de isteriz .</sentence>
+<sentence num="33">sürenin sonu olan 11 .haftayı bekleyelim ve sakin kafayla düşünelim diyoruz .</sentence>
+<sentence num="34">ben işçiyim ,eşim çalışmıyor .</sentence>
+<sentence num="35">3 yaşında bir oğlumuz var ,o da tedaviyle doğmuştu .</sentence>
+<sentence num="36">7 bebek mutlaka maddi zorluk yaratacak .''?</sentence>
+<sentence num="37">bu fuarı görmeden evlenmeyin !</sentence>
+</doc>
+<doc>
+<id>26825</id>
+<sentence num="0">2005 02 17 13 :52 :00 .Doğsunlar mı ,doğmasınlar mı ?</sentence>
+<sentence num="1">Aliağalı Sibel (30 )ve Hüseyin Deniz (35 )çiftinin doktoru Central Hospital Kadın Hastalıkları ve Doğum uzmanı Özer Gürbüz ,çiftin 11 yıllık evli olduğunu ,3 yıl önce çocuk sahibi olmak için tedavi amaçlı kendisine geldiklerini belirtti .</sentence>
+<sentence num="2">Aşılama yöntemiyle 3 yıl önce çiftin bir erkek çocuk sahibi olduğunu dile getiren Gürbüz ,ikinci kez bebek isteyen çifte yeniden tedavi uygulandıklarını bildirdi .</sentence>
+<sentence num="3">Yine aşılama yöntemini uyguladıklarını anlatan Gürbüz ,şu bilgileri verdi :''Ama bu kez hormon değerleri yüksek seyrettiği için çoğul gebelik olabileceğini söylemiştik .</sentence>
+<sentence num="4">Aşılamadan bir iki hafta sonra ültrason bulgularında ilk etapta beşiz gebelik olduğunu gördük ,bir dahaki kontrolde bebek sayısı altıya ,sonra da yediye çıktı .</sentence>
+<sentence num="5">Sayıyı kesinleştirmek için çifti Dokuz Eylül Üniversitesi'ne gönderdik ve oradan da rakam onaylandı .</sentence>
+<sentence num="6">Hastaya ,olayın boyutlarıyla ilgili bilgi verdik .''</sentence>
+<sentence num="7">Konunun ekonomik ,psikolojik ve tıbbi olmak üzere 3 boyutu bulunduğunu dile getiren Gürbüz ,ailenin ekonomik olarak 7 çocuğu büyütecek güçtü olmadığını ,ancak bu konunun sponsorlar yardımıyla çözülebileceğini kaydetti .</sentence>
+<sentence num="8">İkinci boyutunun etik ve psikolojik olduğunu dile getiren Gürbüz ,şöyle devam etti :''Aile ikilemde .</sentence>
+<sentence num="9">Çocuğu olmayan bir çiftin 7 çocuğu oluyor ,bunların da üçü kalsın ,dördünü alalım diyoruz .</sentence>
+<sentence num="10">Bu psikolojik olarak olumsuz etkiliyor .</sentence>
+<sentence num="11">Bir de tıbbi boyutu var .</sentence>
+<sentence num="12">Bu çoğul gebelikler istemediğimiz gebeliklerdir .</sentence>
+<sentence num="13">7 tane bebek olması ,olumsuzlukları da beraberinde getiriyor .</sentence>
+<sentence num="14">Örneğin erken doğum riski sık yaşanıyor .</sentence>
+<sentence num="15">Literatürü taradık ,yediz bebek hiç yok .</sentence>
+<sentence num="16">Dünyada sadece ABD'li bir çiftin yediz bebeği olmuş .</sentence>
+<sentence num="17">Doktorlar onlara da 'bir kısmını alalım 'önerisini getirmişler ama anne kabul etmemiş ,doğurmuş ve sağlıklı olmuşlar .</sentence>
+<sentence num="18">Biz de aynı öneriyi getirdik .</sentence>
+<sentence num="19">Kararı hasta verecek .</sentence>
+<sentence num="20">Devam edelim derlerse ,devam edeceğiz ,olmazsa üç bebeği bırakıp ,dördünü alacağız .</sentence>
+<sentence num="21">Bu yasal ve bilimsel bir yöntem .</sentence>
+<sentence num="22">Bu işlemi de DEÜ uzmanlarıyla ortak yapacağız .''</sentence>
+<sentence num="23">Ailenin karar vermesi durumunda 4 bebeğin alınması işleminin 3 hafta sonra yapılacağını anlatan Gürbüz ,''Bebekler şu anda 8 haftalık ,21 milimetre boyundalar ,hepsi canlı ,kalpleri çalışıyor .</sentence>
+<sentence num="24">3 hafta gelişimlerini gözlemek açısından beklenecek ''dedi .</sentence>
+<sentence num="25">AİLE ŞAŞKIN Yediz haberini alınca büyük bir şaşkınlığa uğrayan Deniz çiftini bu kez de 'Bebeklere nasıl bakacağız ?'</sentence>
+<sentence num="26">endişesi sardı .</sentence>
+<sentence num="27">İşçi olarak çalışan ve 600 YTL aylıkla geçimini sağlayan Hüseyin Deniz ve eşi bebeklerin hepsini dünyaya getirip getirmeme konusunda kararsız kaldı .</sentence>
+<sentence num="28">Baba Hüseyin Deniz ,hem mutlu ,hem de şaşkın olduklarını belirterek ,''Tuhaf bir durum içindeyiz ''dedi .</sentence>
+<sentence num="29">Durumun eşi için daha zor olduğunu ,karar aşamasında bulunduklarını ifade eden Deniz ,duygularını şöyle dile getirdi :''Henüz düşünüyoruz .</sentence>
+<sentence num="30">Tıbben mümkün değilse gerekeni doktorlarımız yapacak ,ama her şey sağlıklı gider derlerse ,7 bebeği de isteriz .</sentence>
+<sentence num="31">Sürenin sonu olan 11 .haftayı bekleyelim ve sakin kafayla düşünelim diyoruz .</sentence>
+<sentence num="32">Ben işçiyim ,eşim çalışmıyor .</sentence>
+<sentence num="33">3 yaşında bir oğlumuz var ,o da tedaviyle doğmuştu .</sentence>
+<sentence num="34">7 bebek mutlaka maddi zorluk yaratacak .''.</sentence>
+</doc>
+<doc>
+<id>28083</id>
+<sentence num="0">2005 02 19 15 :10 :00 .Yediz bebek tartışması !</sentence>
+<sentence num="1">İkinci kez bebek sahibi olmak amacıyla tedavi görürken ,''yediz gebelik ''haberi alan Sibel (30 )ve Hüseyin Deniz (35 )çifti ,bebeklerin kaç tanesinin dünyaya getirileceği konusunda doktorun görüşünü beklerken ,ailenin doktoru Özer Gürbüz ,kararı ailenin vermesi gerektiğini belirtti .</sentence>
+<sentence num="2">AA muhabirinin görüştüğü baba Hüseyin Deniz ,eşinin gebeliğinin 8 .haftayı doldurduğunu ve 9 .haftaya girildiğini söyledi .</sentence>
+<sentence num="3">Karmaşık duygular içinde bulunduklarını ve bebeklerin akıbetine ilişkin henüz karar vermediklerini vurgulayan Deniz ,şöyle konuştu :''Bebeklerin 7'sinin de doğrulması biçiminde bir karar almış değiliz .</sentence>
+<sentence num="4">Ne olacağına ,11 .veya 12 .hafta dolduğunda ,doktorumuz Özer Gürbüz karar verecek .</sentence>
+<sentence num="5">Yediz bebeklerin maddi külfetini karşılamaya gücüm yetmez .</sentence>
+<sentence num="6">Konunun bir de manevi tarafı var .</sentence>
+<sentence num="7">Bebeklerin sağlıklı doğması önemli .</sentence>
+<sentence num="8">Doktorumuz ne derse ,bizim için doğru olan odur .</sentence>
+<sentence num="9">Sanıyorum 11 .veya 12 .haftada her şey belli olur .''''</sentence>
+<sentence num="10">ANNENİN PSİKOLOJİSİ TARTIŞILMALI ''Ailenin doktoru ve Central Hospital Kadın Hastalıkları ve Doğum Uzmanı Özer Gürbüz ise dünyadaki ikinci yediz vakasıyla karşı karşıya bulunduklarını belirtti .</sentence>
+<sentence num="11">İlk vakanın ABD'de 7 yıl önce yaşandığını ve kamuoyunda iki farklı görüşün tartışıldığını anlatan Gürbüz ,''Sonuçta bayan Mc Cougney 7 bebeği de doğurdu ,şimdi hepsi yaşıyor ''dedi .</sentence>
+<sentence num="12">Gürbüz ,konunun ekonomik ,etik ve psikolojik olmak üzere 3 boyutuyla ele alınması gerektiğini belirterek ,şöyle konuştu :''Ekonomik olarak ailenin sıkıntı yaşayacağını sanmıyorum .</sentence>
+<sentence num="13">Çünkü çok sayıda yardım önerisi içeren telefonlar geldi .</sentence>
+<sentence num="14">Sponsorluk ve reklam yoluyla bu sorun rahatlıkla aşılacaktır .</sentence>
+<sentence num="15">Tıbbi olarak ise hangi doktora giderseniz gidin ,bebeklerden bir kısmının alınmasını önerecektir .</sentence>
+<sentence num="16">Burada önemli olan ,annenin psikolojik durumudur .</sentence>
+<sentence num="17">Kamuoyunda bence bu tartışılmalı .</sentence>
+<sentence num="18">Kararı verecek olan ben değilim .</sentence>
+<sentence num="19">Ailenin ,kayıtsız şartsız kararı bana bırakması ,beni ikilemde bırakıyor .</sentence>
+<sentence num="20">Sonuçta her şeyin bir riski vardır .''?</sentence>
+<sentence num="21">Yargıtay :Baba ,5 yıl sonra da çocuğu reddedebilir ...</sentence>
+</doc>
+<doc>
+<id>28127</id>
+<sentence num="0">2005 02 19 16 :33 :00 .Yediz bebek tartışması !</sentence>
+<sentence num="1">İkinci kez bebek sahibi olmak amacıyla tedavi görürken ,''yediz gebelik ''haberi alan Sibel (30 )ve Hüseyin Deniz (35 )çifti ,bebeklerin kaç tanesinin dünyaya getirileceği konusunda doktorun görüşünü beklerken ,ailenin doktoru Özer Gürbüz ,kararı ailenin vermesi gerektiğini belirtti .</sentence>
+<sentence num="2">AA muhabirinin görüştüğü baba Hüseyin Deniz ,eşinin gebeliğinin 8 .haftayı doldurduğunu ve 9 .haftaya girildiğini söyledi .</sentence>
+<sentence num="3">Karmaşık duygular içinde bulunduklarını ve bebeklerin akıbetine ilişkin henüz karar vermediklerini vurgulayan Deniz ,şöyle konuştu :''Bebeklerin 7'sinin de doğrulması biçiminde bir karar almış değiliz .</sentence>
+<sentence num="4">Ne olacağına ,11 .veya 12 .hafta dolduğunda ,doktorumuz Özer Gürbüz karar verecek .</sentence>
+<sentence num="5">Yediz bebeklerin maddi külfetini karşılamaya gücüm yetmez .</sentence>
+<sentence num="6">Konunun bir de manevi tarafı var .</sentence>
+<sentence num="7">Bebeklerin sağlıklı doğması önemli .</sentence>
+<sentence num="8">Doktorumuz ne derse ,bizim için doğru olan odur .</sentence>
+<sentence num="9">Sanıyorum 11 .veya 12 .haftada her şey belli olur .''''</sentence>
+<sentence num="10">ANNENİN PSİKOLOJİSİ TARTIŞILMALI ''Ailenin doktoru ve Central Hospital Kadın Hastalıkları ve Doğum Uzmanı Özer Gürbüz ise dünyadaki ikinci yediz vakasıyla karşı karşıya bulunduklarını belirtti .</sentence>
+<sentence num="11">İlk vakanın ABD'de 7 yıl önce yaşandığını ve kamuoyunda iki farklı görüşün tartışıldığını anlatan Gürbüz ,''Sonuçta bayan Mc Cougney 7 bebeği de doğurdu ,şimdi hepsi yaşıyor ''dedi .</sentence>
+<sentence num="12">Gürbüz ,konunun ekonomik ,etik ve psikolojik olmak üzere 3 boyutuyla ele alınması gerektiğini belirterek ,şöyle konuştu :''Ekonomik olarak ailenin sıkıntı yaşayacağını sanmıyorum .</sentence>
+<sentence num="13">Çünkü çok sayıda yardım önerisi içeren telefonlar geldi .</sentence>
+<sentence num="14">Sponsorluk ve reklam yoluyla bu sorun rahatlıkla aşılacaktır .</sentence>
+<sentence num="15">Tıbbi olarak ise hangi doktora giderseniz gidin ,bebeklerden bir kısmının alınmasını önerecektir .</sentence>
+<sentence num="16">Burada önemli olan ,annenin psikolojik durumudur .</sentence>
+<sentence num="17">Kamuoyunda bence bu tartışılmalı .</sentence>
+<sentence num="18">Kararı verecek olan ben değilim .</sentence>
+<sentence num="19">Ailenin ,kayıtsız şartsız kararı bana bırakması ,beni ikilemde bırakıyor .</sentence>
+<sentence num="20">Sonuçta her şeyin bir riski vardır .''.</sentence>
+</doc>
+<doc>
+<id>28854</id>
+<sentence num="0">2005 02 21 10 :10 :00 .Dünyanın gözü yedizlerde ...</sentence>
+<sentence num="1">Arzu ÇETİK İZMİR ,(DHA )İZMİR Central Hospital Başhekimi Kadın Hastalıkları ve Doğum Uzmanı Dr .Özer Gürbüz ,Sibel Deniz'in yediz bebeğe hamile kalmasıyla dünyanın gözünün Türkiye'ye çevrildiğini söyledi .</sentence>
+<sentence num="2">Aliağa'da yaşayan ve aşılama yöntemiyle yediz bebek bekleyen Sibel Hüseyin Deniz çifti Türkiye'nin gündemine otururken yabancı haber ajanslarının da ilgi odağı oldu .</sentence>
+<sentence num="3">Çiftin doktoru Central Hospital Başhekimi Dr .Özer Gürbüz ,11'inci haftada bebeklerin durumuyla ilgili karar verileceğini belirterek ,Anne kararı bana bırakıyor .</sentence>
+<sentence num="4">Tıp adamı olarak ,sağlık açısından bebeklerin sayısının üçe düşürülmesinden yanayım ,yine de son kararı anne verecek .</sentence>
+<sentence num="5">Yediz bebeklerin hepsi sağlıklı bir şekilde doğar ve yaşarsa dünyanın gözü Türkiye'de olacağı için bu Türk tıbbının başarısı olacak .</sentence>
+<sentence num="6">Bu durum iki ucu keskin bıçak .</sentence>
+<sentence num="7">Şu anda dünyanın gözü üzerimizde ''dedi .</sentence>
+<sentence num="8">SPONSOR YAĞIYOR Dr .Özer Gürbüz ,600 YTL (600 milyon lira )işçi aylılığıyla geçinen Deniz çiftine sponsorluk teklifleri geldiğini söyledi .</sentence>
+<sentence num="9">Dr .Gürbüz ,Türk halkı çok fedakar ancak ,olay gittikçe magazinleşiyor .</sentence>
+<sentence num="10">Türk halkı bilinçlendirilmeli ,kimi firma çocuk bezi ,kime firma mama için sporsorluk teklif ediyor .</sentence>
+<sentence num="11">Tirajikomik sponsorluk teklifleri bile geliyor .</sentence>
+<sentence num="12">Büyükbaş havyan tüccarı arayıp inek göndermek istiyor .</sentence>
+<sentence num="13">Bu iş mama ve çocuk beziyle olmaz ''diye konuştu .</sentence>
+<sentence num="14">Dr .Gürbüz ,bebeklerin yedisinin dünyaya gelmesi halinde yeni doğan yoğun bakım ünitesine ihtiyaç duyulduğunu söyleyerek üniversite hastaneleriyle bağlantı halinde olduklarını kaydetti .</sentence>
+</doc>
+<doc>
+<id>29045</id>
+<sentence num="0">2005 02 21 14 :05 :00 .''Yedizlerle ilgili iddia oynatılsın !..''.</sentence>
+<sentence num="1">İzmir'de ikinci kez çocuk sahibi olmak isterken uygulanan aşılama yöntemiyle yediz bebek beklediklerini öğrenen Aliağalı Sibel Hüseyin Deniz çifti ,bebeklerin bakımına sponsor olmak için kendilerini henüz kimsenin aramadığını bildirdi .</sentence>
+<sentence num="2">AA muhabirinin görüştüğü baba Hüseyin Deniz ,eşinin sağlık durumunun değişken olduğunu ,yiyip içme konusunda sıkıntı yaşadığını ,ayaklarında ve kasıklarında ağrı olduğunu kaydetti .</sentence>
+<sentence num="3">Doktorun bu durumu ''normal ''karşıladığını bildiren Deniz ,bebeklerin hepsini dünyaya getirip getirmeme konusunda henüz karar vermediklerini ifade etti .</sentence>
+<sentence num="4">Sponsor olmak için kendilerine henüz başvuran kişi ya da kurum olmadığını kaydeden Deniz ,''Gazetecilerden ve doktorumuzdan ,bu tür talepler geldiğini duyuyoruz ama bize resmi olarak başvuran kimse yok .</sentence>
+<sentence num="5">En büyük sıkıntımız maddi ''dedi .</sentence>
+<sentence num="6">İDDİA ÖNERİSİ !</sentence>
+<sentence num="7">Sibel Deniz'in doktoru Central Hospital Başhekimi ve Kadın Hastalıkları Doğum Uzmanı Dr .Özer Gürbüz ,sponsorlukla ilgili kendilerine bazı teklifler geldiğini ,bazı şirketlerin arayarak kendilerine maliyet sorduğunu ifade ederek ,''Bize bu soruları soranlara ,maliyetin çok değişken olduğunu ,10 150 bin YTL arasında değişebileceğini söylüyoruz ''dedi .</sentence>
+<sentence num="8">Çocuk bezi ve mama firmalarının konuyla çok ilgili olduğunu ,bir şirketin 2 .5 ton süt bağışlamak istediğini kaydeden Gürbüz ,şöyle devam etti :''Konuyla ilgili bize değişik tepkiler ve teklifler geliyor .</sentence>
+<sentence num="9">Büyükbaş hayvancılık yapan bir tüccar ,aileye bir inek verme teklifi yaptı .</sentence>
+<sentence num="10">Ayrıca çocuğu olmayan bir kadın ,alınma ihtimali olan 4 bebeğin bırakılması ve birinin kendisine verilmesi önerisini getirdi .</sentence>
+<sentence num="11">Ayrıca ,bebeklerin cinsiyeti belli olduktan sonra alınma konusunda kesin karar verilmesi ve sponsor aramak yerine bebeklerle ilgili iddia oynatılması konusunda da öneriler var .''</sentence>
+<sentence num="12">ANNE İKNA OLUYOR Gürbüz ,bebeklerin doğumu konusunda üniversiteler ile görüşmelerinin sürdüğünü belirterek ,''Türkiye'de yeni doğan yoğun bakımıyla ilgili yeterli destek göremezsek ,yurt dışındaki bir merkezle bağlantı kurmayı planlıyoruz ''dedi .</sentence>
+<sentence num="13">Ailenin henüz bebeklerin kaçının dünyaya getirileceğiyle ilgili kesin karar vermediğini ifade eden Gürbüz ,şu bilgileri verdi :''Aile bebeklerin hepsini dünyaya getirmeye karar verirse ,bununla ilgili 3 ihtimal var .</sentence>
+<sentence num="14">Yüzde 20 ihtimalle bebeklerin hepsi sağlıklı doğabilir ve yaşayabilir .</sentence>
+<sentence num="15">Gebeliğin ilerleyen aylarında bebeklerden bazıları anne karnında kendiliklerinden ölebilir ve düşebilir .</sentence>
+<sentence num="16">Ayrıca 7 bebeğin erken doğma ve yaşamama ihtimali de söz konusu .</sentence>
+<sentence num="17">Bebek sayısının ailenin kararıyla üçe düşürülmesi durumunda da kalan bebeklerin sağlıklı doğma ve yaşama şansı yüzde 77'dir .Anne önceleri hepsini dünyaya getirmek istiyordu ,ancak yavaş yavaş 4 bebeğin alınması ihtimaline ikna oluyor .''?</sentence>
+<sentence num="18">Üçüz çocuklar aynı anda askere çağrıldı !?</sentence>
+<sentence num="19">Çocuğun tuvalet ihtiyacı ,hırsızların işini bozdu !?</sentence>
+<sentence num="20">Küçük kızın kolunda gazlı bez unutuldu !..</sentence>
+</doc>
+<doc>
+<id>30143</id>
+<sentence num="0">2005 02 23 10 :05 :00 .Yedizlerin annesinden bahis tepkisi !..</sentence>
+<sentence num="1">Arzu ÇETİK İZMİR ,(DHA )İZMİR'in Aliağa İlçesi'nde aşılama yöntemiyle yediz bebeğe hamile kalan Sibel Deniz ,Benim ve bebeklerin sağlığında sorun olmadıktan sonra ,bir anne olarak bebeklerin hepsini doğurmak istiyorum ''dedi .</sentence>
+<sentence num="2">Dünyada ilk kez ABD'de bir kadının yedizlere hamile kaldığını ,bebeklerden bir kısmının alınması önerisine karşı çıkıp yedisini de sağlıklı bir şekilde dünyaya getirip büyüttüğünü öğrenen Sibel Deniz ,henüz kesinleştirmemekle birlikte aynı kararı verebileceğini söyledi .</sentence>
+<sentence num="3">Hamileliğinde 8 .5 haftayı geride bırakan bir çocuk annesi 34 yaşındaki Sibel Deniz ve eşi Hüseyin Deniz ,bebeklerin sayısının `fetal redüksiyon 'yöntemiyle 3'e düşürülüp düşürülmemesi için karar verecek .</sentence>
+<sentence num="4">Kesin karar için önlerinde 2 .5 hafta kalan Deniz çifti ,Karar vermek çok zor ''dedi .</sentence>
+<sentence num="5">8 yıl çocuk sahibi olamayan ve 3 yıl önce yine aşılama yöntemiyle İbrahim Özer adını verdikleri bir erkek çocuğuyla annelik duygusunu tadan Sibel Deniz ,yavaş yavaş karnındaki bebekleri hissetmeye başladığını söyledi .</sentence>
+<sentence num="6">Deniz ,Gün geçtikçe karar vermekte zorlanıyorum .</sentence>
+<sentence num="7">Yediz bebek sürprizi çok güzel duygular yaşatıyor .</sentence>
+<sentence num="8">Kelimelerle ifade etmekte zorlanıyorum .</sentence>
+<sentence num="9">İkinci bir çocuk düşünürken yediz haberi aldık .</sentence>
+<sentence num="10">Hala şoku atlatmış değilim ''dedi .</sentence>
+<sentence num="11">GECE UYKULARIMIZ KAÇIYOR Sibel Deniz ,doktorun yedi bebeğin sağlıklı doğma ve yaşama ihtimaline yüzde 20 şans verdiğini belirterek şöyle dedi :Aslında bebeklerin hepsini istiyorum .</sentence>
+<sentence num="12">Ama doktorumun yüzde 20 şans vermesi beni biraz korkutuyor .</sentence>
+<sentence num="13">Bebeklerin hepsinin sağlıklı bir şekilde doğup yaşayabileceğini bilsem ,bana da sağlık yönünden bir sakıncası olmasa ,emin olabilsem hepsini doğurmak istiyorum .</sentence>
+<sentence num="14">Kafamda soru işaretleri var .</sentence>
+<sentence num="15">7 çocuğun hepsinin sağlıklı doğmama riski ,7'si de doğsa bakabilir miyim endişesi bizi düşündürüyor .</sentence>
+<sentence num="16">Ama önce sağlık diyoruz .</sentence>
+<sentence num="17">Eşimle önümüzdeki günlerde kesin kararı vereceğiz .''</sentence>
+<sentence num="18">Tüpraş'ta işçi olarak çalışan ve 600 YTL (600 milyon lira )ücretle evinin geçimini sağlamaya çalışan Hüseyin Deniz de eşiyle aynı duyguları paylaştığını dile getirdi .</sentence>
+<sentence num="19">Hüseyin Deniz ,Çok zor bir karar olacak bizim için .</sentence>
+<sentence num="20">Gönlümden hepsinin dünyaya gelmesini geçiriyorum .</sentence>
+<sentence num="21">Yediz bebek haberini aldığımızda evimiz birkaç gün ziyaretçilerle doldu taştı .</sentence>
+<sentence num="22">Ne olduğunu anlayamadık .</sentence>
+<sentence num="23">Rüya gibiydi .</sentence>
+<sentence num="24">Daha yeni yeni eşimle yalnız kalıyoruz .</sentence>
+<sentence num="25">Başımızı yastığa koyduğumuzda uykularımız kaçıyor ''dedi .</sentence>
+<sentence num="26">8 yıl çocuk özlemi çektiklerini söyleyen Hüseyin Deniz ,Allah sanki bize ilk çocuğumuz İbrahim Özer ve yediz bebekle birlikte her yıla bir çocuk verdi .</sentence>
+<sentence num="27">Bunu düşününce daha da duygulanıyorum .</sentence>
+<sentence num="28">11'inci haftaya doğru geldikçe karar vermenin heyecanı bizi sarıyor .</sentence>
+<sentence num="29">Yine de son karar doktorumuz Özer Gürbüz'ün olacak .</sentence>
+<sentence num="30">O'na çok güveniyoruz ''diyerek kararsızlığını dile getirdi .</sentence>
+<sentence num="31">BAHİSLERE ANNEDEN TEPKİ Öte yandan bebeklerin bakımı için bebeklerin kaçının yaşayacağı ,ne zaman doğacığı şeklinde bahis oynatılarak sponsor bulunması şeklinde ortaya atılan önerilere anne Sibel Deniz tepki gösterdi .</sentence>
+<sentence num="32">Deniz ,Bahisler çok çirkin şeyler .</sentence>
+<sentence num="33">Bu iş iddiaya bakmıyor .</sentence>
+<sentence num="34">Önemli olan benim ve bebeklerimin sağlığı ''dedi .</sentence>
+<sentence num="35">İlginç yardım teklifleri geldiğini de hatırlatan Deniz ,Sadece Aliağa Belediye Başkanımız Tansu Kaya 5 bin YTL (5 milyar lira )değerinde çek vererek ,belediye kreşlerine kapılarının açık olduğunu belirtip ,sonsuz yardımda bulunacaklarını söyledi .</sentence>
+<sentence num="36">Bunun dışında resmi bir teklif yok .</sentence>
+<sentence num="37">Doktorum ya da basın aracılığıyla çeşitli sponsorluk tekliflerini duyuyoruz .</sentence>
+<sentence num="38">Kimisi inek vermek istiyor .</sentence>
+<sentence num="39">Herkese çok teşekkür ediyoruz ''diye konuştu .</sentence>
+<sentence num="40">Hüseyin Deniz ,yediz hamilelikle birlikte çevrelerinden büyük destek aldıklarını ifade etti .</sentence>
+<sentence num="41">Deniz ,İş yerinde ,kahvehanede arkadaşlar adımı unuttu artık .</sentence>
+<sentence num="42">Beni `yediz babası 'diye çağırıyorlar .</sentence>
+<sentence num="43">Bir anda Türkiye'nin en çok konuşulan çifti olduk ''dedi .</sentence>
+<sentence num="44">YÜK DOKTORDA Yedizlerin doktoru Central Hospital Başhekimi Kadın Hastalıkları ve Doğum Uzmanı Opr .Dr .Özer Gürbüz ,bebeklerin yedisinin dünyaya sağlıklı gelme ve yaşama şansının yüzde 20 olduğunu hatırlattı .</sentence>
+<sentence num="45">Opr .Dr .Özer Gürbüz ,Fetal redüksiyon dediğimiz ,özellikle üçüz ve daha fazla olan gebeliklerde çiftlerin isteği halinde rahim içine girilerek bebeklerin istenilen sayıya düşürülmesi işleminden yanayım .</sentence>
+<sentence num="46">Dünya tıp otoriteleri bu düşünceden yana .</sentence>
+<sentence num="47">Bebek sayısının düşürülmesi diğer bebeklerin şansını arttırır .</sentence>
+<sentence num="48">Üç bebeğin sağlıklı olarak doğma şansı yüzde 77 .Amacımız bebeklerin yaşaması için tüm riskleri en aza indirmek .</sentence>
+<sentence num="49">Aile kararı bana bırakıyor .</sentence>
+<sentence num="50">Bu da beni vicdani sorumluluk altında bırakıyor ''dedi .</sentence>
+<sentence num="51">Bebeklerin doğumdan sonra yeni doğan yoğun bakım ünitesinde bakıma alınmasının şart olduğuna dikkat çeken Opr .Dr .Gürbüz ,Bir üniversite ile işbirliği yaparak ,bebeklerin doğumdan sonra yeni doğan yoğun bakım ünitesinde tedavi altın alınmasını sağlayacağız .</sentence>
+<sentence num="52">Doğum 27 veya 28'inci haftada erken olacak .</sentence>
+<sentence num="53">Dünyanın gözü bizde .</sentence>
+<sentence num="54">Bebekler sağlıklı doğar ve yaşarsa bu Türk tıbbının başarısı olacak ''şeklinde konuştu .</sentence>
+</doc>
+<doc>
+<id>30415</id>
+<sentence num="0">2005 02 23 14 :45 :00 .Yediz bebeklerin doktoruna gelen eleştirilere yanıt ...</sentence>
+<sentence num="1">İzmir'in Aliağa İlçesi'nde yaşayan ve yediz bebeklere hamile kalan Sibel Deniz'e aşılama yöntemi uygulandığı ,bu yöntemde gebeliğin sayısını belirlemenin doktorun elinde olmadığı bildirildi .</sentence>
+<sentence num="2">Ailenin tedavi gördüğü Central Hospital'dan yapılan yazılı açıklamada ,''yediz gebeliğin tüp bebek yöntemiyle oluşması halinde başarısızlık sayılabileceği ''belirtilerek ,şu görüşlere yer verildi :''Çünkü tüp bebek yönteminde yumurtalar dışarıda döllendikten sonra rahime yerleştirildiği için gebelik sayısını belirlemek doktorun inisiyatifindedir .</sentence>
+<sentence num="3">Ancak tedaviyi yapan Dr .Özer Gürbüz ,tüp bebek yöntemi değil ,aşılama yöntemini kullanmıştır .</sentence>
+<sentence num="4">Aşılama yönteminde döllenme anne vücudunda gerçekleşir .</sentence>
+<sentence num="5">Eşinin yıkanmış 2 5 milyon spermi annenin rahmine verilir .</sentence>
+<sentence num="6">Bu spermler ayrı ayrı yumurtaları dölleyebileceği gibi aynı yumurta birden fazla sperm tarafından da döllenebilir .</sentence>
+<sentence num="7">Dolayısıyla oluşacak gebeliğin sayısını belirlemek doktorun elinde değildir .''</sentence>
+<sentence num="8">Basında çıkan bazı spekülatif haberler nedeniyle bu açıklamanın yapıldığı kaydedilerek ,''Yediz gebeliği hiçbir zaman başarı olarak görmedik .</sentence>
+<sentence num="9">Aksine 4'ünün alınarak 3'e indirgenmesi yönünde görüş bildirdik ''denildi .</sentence>
+<sentence num="10">Açıklamada ,yedizleri doğurmak isteyen Sibel Deniz'in ikna edilmeye çalışıldığı ,2 hafta daha süre bulunduğu ,ikna edilememesi halinde bebekleri yaşatmak için tam teşekküllü yenidoğan yoğun bakımı olan bir merkezle görüşmelerin sürdürüldüğü bildirildi .</sentence>
+</doc>
+<doc>
+<id>30529</id>
+<sentence num="0">2005 02 23 16 :40 :00 .Çoğul gebeliği önlemek için hekimlerin etik sorumluluğu var .</sentence>
+<sentence num="1">Kadın Hastalıkları ve Doğum Uzmanı Prof .Dr .Teksen Çamlıbel ,kısırlık tedavileri esnasında çoğul gebeliği önlemenin tüm hekimlerin etik sorumluluğu olduğunu belirterek ,''Tüp bebek tedavisi sırasında fazla embriyo vermemek ve aşılama esnasında çok fazla yumurta üretmemek amacımız olmalı ''dedi .</sentence>
+<sentence num="2">Çamlıbel ,Bayrampaşa Belediyesi ile Jinemed Kalamış Tüp Merkezi işbirliğiyle ,belediyenin kültür salonunda ''Tüp bebek ve kısırlık ''konulu konferans verdi .</sentence>
+<sentence num="3">Konferanstan önce A .</sentence>
+<sentence num="4">A muhabirine bilgi veren Çamlıbel ,Türkiye nüfusunun yüzde 15'inin kendi isteğiyle çocuk sahibi olmadığını ,hekime başvuranların yüzde 70'inin tedavi edildiğini ,geri kalanında tüp bebek yönteminin uygulandığını ifade etti .</sentence>
+<sentence num="5">Tüp bebek yönteminde yüzde 30 60 arası değişen gebelik oranı olduğunu anlatan Çamlıbel ,hala tedavisi olmayan durumlar da bulunduğunu dile getirdi .</sentence>
+<sentence num="6">Bunlardan birinin sperm yokluğu olduğuna işaret eden Çamlıbel ,''İnsanların kemik iliklerindeki kök hücresinden spermi hiç olmayan erkeklerde sperm ,menopoza girmiş kadınlarda yumurtaya benzer hücreler üreterek tüp bebek yöntemiyle çocuk sahibi olunması için yaygın çalışmalar var ''dedi .</sentence>
+<sentence num="7">Bu çalışmaların Türkiye'ye yansımasının 5 10 yılı bulabileceğini vurgulayan Çamlıbel ,bu çalışmaların sonunda kısırlığın sonunun geleceğini söyledi .</sentence>
+<sentence num="8">ÇOĞUL GEBELİK Tüp bebek yönteminin en önemli komplikasyonunun çoğul gebelik olduğunu belirten Çamlıbel ,bu durumun madden ve manen aileye büyük yük getirdiğini söyledi .</sentence>
+<sentence num="9">İzmir'de ikinci kez çocuk sahibi olmak isterken uygulanan aşılama yöntemiyle yediz bebek bekleyen Sibel Deniz'in başına gelenlerin talihsizlik olduğunu vurgulayan Çamlıbel ,''Anne açısından bunun bir sonu yok .</sentence>
+<sentence num="10">Hepsini doğuramaz ,dolayısıyla üzüntülü işlemlerden geçecek ve belki her şeye rağmen 7'sini de kaybedecek ''dedi .</sentence>
+<sentence num="11">Çamlıbel ,Sibel Deniz'in 7 bebeği de doğurmak için ısrar etmesi durumunda gebeliğinin 12 .haftada sonlanacağını ,ancak yedizlerin 2 ya da 3'e indirilmesi halinde şansı olacağını dile getirdi .</sentence>
+<sentence num="12">Kısırlık tedavilerinin komplikasyonlarının azaltılması için hekimlerin sağduyulu davranması gerektiğini belirten Çamlıbel ,''Çoğul gebeliği önlemek için hekimlerin etik sorumluluğu var .</sentence>
+<sentence num="13">Tüp bebek tedavisi sırasında fazla embriyo vermemek ve aşılama esnasında çok fazla yumurta üretmemek amacımız olmalı ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>30729</id>
+<sentence num="0">2005 02 23 23 :16 :00 .Anne 'yedizler'ine kıyamadı .</sentence>
+<sentence num="1">Central Hospital Hastanesi'nden yapılan yazılı açıklamada ,kamuoyunda oluşan sorulara cevap verildi .</sentence>
+<sentence num="2">Açıklamada ,Tedavi ile oluşan gebeliklerde çoğul gebelik oluşma ihtimali yüksektir .</sentence>
+<sentence num="3">Ancak ,amaç çoğul gebelik oluşturmak değildir .</sentence>
+<sentence num="4">Çünkü çoğul gebelik anne ve bebekler açısından risklidir .</sentence>
+<sentence num="5">Yediz gebelik şayet tüp bebek yöntemi ile oluşmuş olsaydı ,bu durum tedaviyi yapan merkez için başarısız olurdu .</sentence>
+<sentence num="6">Çünkü ,tüp bebek yönteminde yumurtalar dışarıda döllendikten sonra rahime yerleştirildiği için gebelik sayısını belirlemek doktorun insiyatifindedir .</sentence>
+<sentence num="7">Ancak ,yedizlerin tedavisini yapan Dr .Özer Gürbüz ,tüp bebek yöntemini değil ,aşılama (isneminasyon )yöntemini kullanmıştır .</sentence>
+<sentence num="8">Aşılama yönteminde döllenme anne vücudunda gerçekleşir .</sentence>
+<sentence num="9">Eşinin yıkanmış 2 5 milyon spermi anne rahmine verilir .</sentence>
+<sentence num="10">Bu spermler ayrı ayrı yumurtaları dölleyebileceği gibi ,aynı yumurta birden fazla sperm tarafından da döllenebilir .</sentence>
+<sentence num="11">Dolayısıyla ,oluşacak gebeliğin sayısını belirlemek doktorun elinde değildir .</sentence>
+<sentence num="12">Zaten tıp bilimi de tedavi ile oluşan çoğul gebeliklerin anne ve bebekler açısından riskli olduğu için gebelik sayısının azaltılması yöntemini bulmuş .</sentence>
+<sentence num="13">Yedizler için de bizim önerimiz 3'ünün bırakılıp 4'ünün alınması şeklindedir .</sentence>
+<sentence num="14">Bilimsel gerçek de budur .</sentence>
+<sentence num="15">Basında çıkan birtakım spekülasyonları gidermek için bu açıklamayı yapmak ihtiyacını duyduk .</sentence>
+<sentence num="16">Yediz gebeliği bir başarı olarak hiçbir zaman görmedik ,aksine derhal 3'e indirgenmesi için görüş bildirdik .</sentence>
+<sentence num="17">Basının yedizlerle ilgilenmesinin nedeni ,yediz gebelik çok nadir görüldüğü içindir .</sentence>
+<sentence num="18">Yedizlerin annesi Sibel Deniz ,dün yaptığı bebeklerin yedisini birden doğurmaya karar verdiğini açıkladı .</sentence>
+<sentence num="19">Bu şartlar altında 2 hafta daha zamanımız var anneyi ikna etmek için .</sentence>
+<sentence num="20">İkna edemezsek bebekleri yaşatmak için tam teşekküllü yenidoğan yoğun bakımı olan bir merkezimizle görüşmelerimiz sürüyor .</sentence>
+<sentence num="21">Sağlık Bakanlığı ile de görüşeceğiz denildi .</sentence>
+</doc>
+<doc>
+<id>30882</id>
+<sentence num="0">2005 02 24 10 :20 :00 .Yedizlere hamile Sibel Deniz :Hepsini doğurmak istiyorum !..</sentence>
+<sentence num="1">Arzu ÇETİK DHA İZMİR'in Aliağa İlçesi'nde yaşayan ve tedavi sonucu yediz bebeğe hamile kalan 34 yaşındaki Sibel Deniz ,tüm riski göze aldığını ,bebeklerin hepsini doğurmak istediğini söyledi .</sentence>
+<sentence num="2">11 yıldır Tüpraş'ta işçi olarak çalışan Hüseyin Deniz ile evli Sibel Deniz ,Doktorların fetal redüksiyon yöntemiyle bebeklerin sayısının 3'e indirilmesi önerisini reddettiğini belirtti .</sentence>
+<sentence num="3">Bebeklerin hepsini doğurmaya karar verdiğini belirten Deniz ,şunları söyledi :Fetal redüksiyon işlemiyle bebeklerin sayısının nasıl 3'e düşürüleceğini doktoruma sordum .</sentence>
+<sentence num="4">Rahim içine sokulacak iğne yoluyla bebeklerin kalbine ilaç enjekte edilerek yaşamlarına son verilecekmiş .</sentence>
+<sentence num="5">Bu beni mahvetti .</sentence>
+<sentence num="6">Rüyalarıma girdi .</sentence>
+<sentence num="7">İlk oğlum İbrahim Özer için 8 yıl çocuk özlemi çekmiştim .</sentence>
+<sentence num="8">Şimdi yedizlerimin hepsi sağlıklı .</sentence>
+<sentence num="9">Ben onlara nasıl kıyarım .</sentence>
+<sentence num="10">Sayılarının düşürülmesi işlemi sırasında aralarında nasıl seçim yapabilirim .''</sentence>
+<sentence num="11">MUCİZE BEKLİYOR Annelik içgüdülerinin gün geçtikçe yoğunlaştığını dile getiren Sibel Deniz ,duygularını şöyle anlattı :Gece yattığımda içimde kıpır kıpır oynadıklarını hissediyorum .</sentence>
+<sentence num="12">Gün geçtikçe heyecanım artıyor .</sentence>
+<sentence num="13">Daha önce ABD'de bir kadın yediz doğurmuş .</sentence>
+<sentence num="14">Ben de Allah'tan bir mucize bekliyorum .</sentence>
+<sentence num="15">Doktorlar tüm tıbbi riskleri bana anlattı .</sentence>
+<sentence num="16">Onları dinlemeyeceğim .</sentence>
+<sentence num="17">Şu anda 7 bebeğimi kucağıma alırken kendimi hayal ediyorum .</sentence>
+<sentence num="18">Eşim maddi açıdan çocukların hepsine nasıl bakabileceğimizi düşünüyor .</sentence>
+<sentence num="19">Ama yine de kararı bana bıraktı .</sentence>
+<sentence num="20">Ben de bebekleri dünyaya getirmeye karar verdim .</sentence>
+<sentence num="21">Eşim de kararıma saygı duydu .</sentence>
+<sentence num="22">Çalıştığı işyerinden aldığı 600 YTL maaşla ailesinin geçimini sağlamaya çalışan baba Hüseyin Deniz ise ,Eşim gece uyurken ağlayıp ,sıçrayarak uyanıyordu .`</sentence>
+<sentence num="23">Ne gelecekse Allah'tan gelsin 'diyerek ,yedisini de doğurmaya karar verdi .</sentence>
+<sentence num="24">Maddi açıdan bu beni zorlayacak .</sentence>
+<sentence num="25">Ancak eşimin kararına saygı duyuyorum ''dedi .</sentence>
+<sentence num="26">Sibel Deniz'in doktoru Central Hospital Başhekimi Dr .Özer Gürbüz ,ailenin bebeklerin sayısının 3'e düşürülmesi yönünde ikna edilmesi gerektiğini ifade etti .</sentence>
+<sentence num="27">Dr .Gürbüz ,Önümüzde 2 .5 hafta daha var .</sentence>
+<sentence num="28">Biz ikna çalışmalarımızı sürdüreceğiz .</sentence>
+<sentence num="29">Yine de son kararı aile verecek ''diye konuştu .</sentence>
+<sentence num="30">Dr .Gürbüz ,bebeklerin yedisinin de sağlıklı doğma ve yaşama ve şansının yüzde 20 ,üçünün sağlıklı doğma ve yaşama şansının ise yüzde 77 olduğunu hatırlattı .</sentence>
+<sentence num="31">ÇOĞUL GEBELİK TARTIŞILIYOR Ege Üniversitesi Tıp Fakültesi Tüp Bebek Merkezi Başkanı Prof .Dr .Erol Tavmergen aşılama yönteminde yumurtlatma tedavisinin önemli rol oynadığını belirtti .</sentence>
+<sentence num="32">Bu tür tedavilerde hedefin 2 3 yumurtanın gelişimini sağlamak olduğunu anlatan Prof .Dr .Tavmergen ,,konuyla ilgili şu bilgileri verdi :Bundan daha yüksek sayıda cevap alınıyorsa tedaviden vazgeçmek uygundur .</sentence>
+<sentence num="33">Çok fazla yumurta geliştiğinde çoklu gebelik riski artıyor .</sentence>
+<sentence num="34">İkiz olursa risk daha düşük .</sentence>
+<sentence num="35">Üçüz ve daha yüksek sayıdaki gebeliklerde erken doğum riski ,su kesesinin erken dönem açılması çok büyük olasılıkla problem olarak ortaya çıkar .</sentence>
+<sentence num="36">Modern tıpta ikizden fazla çoğul gebeliğe izin vermek kabul edilmiyor .</sentence>
+<sentence num="37">Bu denli yüksek gebelikte annenin de sağlığı ciddi tehdit altına girebilir .</sentence>
+<sentence num="38">Tıbta istediğiniz kadar önlem alın ,komplikasyonlar söz konusu olabilir ,engelleyemezsiniz .''</sentence>
+<sentence num="39">Hem tüp bebek hem de aşılama yönteminde çoğul gebeliğin başarı olarak gösterilmediğini kaydeden Prof .Dr .Tavmergen ,Mümkün olduğu kadar tekil gebelik hedeflenmeli .</sentence>
+<sentence num="40">Ama bu her zaman mümkün değil .</sentence>
+<sentence num="41">O zaman maksimum ikiz gebeliğe izin verilmelidir .</sentence>
+<sentence num="42">Tüp bebekte çok fazla embriyo transfer eden merkezler olabiliyor .</sentence>
+<sentence num="43">Dünyada bu iki yada 3 embriyo ile kısıtlanmış durumda .</sentence>
+<sentence num="44">Ülkemizde bu tartışmanın başlatılması ve standarta oturtulması gerekiyor .</sentence>
+<sentence num="45">DOKTORDAN SAVUNMA Sibel Deniz'in doktoru Central Hastanesi Başhekimi Jinekolog Opr .Dr .Özer Gürbüz ise başarısızlıklarının sözkonusu olmadığını belirtti .</sentence>
+<sentence num="46">Dr .Gürbüz tedaviyle oluşan gebeliklerde çoğul gebeliklere sıklıkla rastlanıldığını belirterek şöyle konuştu :İki ayrı yöntem var .</sentence>
+<sentence num="47">Birincisi tüp bebek yöntemi .</sentence>
+<sentence num="48">İkincisi aşılama yöntemi .</sentence>
+<sentence num="49">Tüp bebek yönteminde gebeliğin sayısını tespit etmek doktorun elinde .</sentence>
+<sentence num="50">Çünkü yumurta dışarı alınır ve sperm dışarda döllenir .</sentence>
+<sentence num="51">Döllenmiş yumurta rahim içine yerleştirilir .</sentence>
+<sentence num="52">Bu işlemde en fazla dört tane döllenmiş yumurta yerleştirilir .</sentence>
+<sentence num="53">Eğer bizim kullandığımız tüp bebek yöntemi olsaydı ve yediz gebelik oluşsaydı başarısızlık olurdu .</sentence>
+<sentence num="54">Aşılama yönteminde yumurtalar anne vücudunda kalır ve eşinin yıkanmış 2 .5 milyon spermi anne rahmine verilir .</sentence>
+<sentence num="55">Bu spermler ayrı ayrı yumurtaları dölleyebileceği gibi aynı yunurta birden fazla sperm tarafından da dölenebilir .</sentence>
+<sentence num="56">Dolayısıyla oluşacak gebeliğin sayısını belirlemek doktorun elinde değildir .''.</sentence>
+</doc>
+<doc>
+<id>30890</id>
+<sentence num="0">2005 02 24 10 :30 :00 .Prof .Dr .Uslu :7 çocuğun doğması mümkün değil .</sentence>
+<sentence num="1">İkinci kez çocuk sahibi olmak isteyen ve aşılama yöntemiyle yediz bebek bekleyen Sibel Deniz'in 7 çocuğu doğurmasının mümkün olmadığı ,bebek sayısının üçe düşürülmesi gerektiği bildirildi .</sentence>
+<sentence num="2">Dokuz Eylül Üniversitesi (DEÜ )Tıp Fakültesi Kadın Hastalıkları ve Doğum Anabilim Dalı Öğretim Üyesi Prof .Dr .Turhan Uslu ,Sibel Deniz'in gebeliğinin sonuna kadar gitmeyeceğini söyledi .''</sentence>
+<sentence num="3">Bir kadının gebe kalması değil ,önemli olan çocuğun doğmasıdır ''diye Uslu ,şu bilgiyi verdi :''Gebelik sonuna kadar gitmez .</sentence>
+<sentence num="4">Bebek sayısı maksimum 3'e indirilmeli .</sentence>
+<sentence num="5">Gebe kalması ,doğuracağı anlamına gelmez .</sentence>
+<sentence num="6">Bir çocuk ortalama 2 bin 500 gramın üzerinde olmalı ki ,normal olsun .</sentence>
+<sentence num="7">7 bebeğin ağırlığı ve bebeğin içinde bulunduğu kesenin ağırlığı da göz önünde tutulursa ,anneye yaklaşık 35 kilogram ağırlık eklenir .</sentence>
+<sentence num="8">Bebeklerin her biri 500 600 gram doğacak olsa ,yaşamaları çok zor ve maliyetli olur .</sentence>
+<sentence num="9">İdeali bebek sayısını 2 ,maksimum 3'e kadar indirmektir .''''</sentence>
+<sentence num="10">ANNE VE BEBEĞİN SAĞLIĞI ÖNEMLİ ''İstanbul Kültür Üniversitesi (İKÜ )Hukuk Fakültesi Ceza ve Ceza Muhakemesi Hukuku Öğretim Üyesi Prof .Dr .Bahri Öztürk ,bebeklerin 10 haftaya kadar annenin rızasıyla alınabileceğini belirterek ,şunları söyledi :''Hukukumuzda doğurmaya değil ,çocuk aldırmaya engel var .</sentence>
+<sentence num="11">10 haftaya kadar annenin rızasıyla bebek alınabilir .</sentence>
+<sentence num="12">10 haftadan sonra da sağlık açısından yarar görülüyorsa ,yine annenin rızasıyla tıp kuralları içinde müdahaleye izin veriliyor .''</sentence>
+<sentence num="13">Öztürk ,aşılama işlemiyle ilgili hekimin kusurlu olduğunun tespit edilmesi ya da ailenin böyle düşünmesi halinde tazminat davası açabileceğini ifade etti .</sentence>
+<sentence num="14">DİNİ AÇIDAN BEBEKLERİN ALINMASI İzmir Müftü Yardımcısı Cemil Karagöz de annenin hayati tehlikesi olması halinde çocukların alınabileceğini belirtti .</sentence>
+<sentence num="15">Tıbbın buna karar vereceğini dile getiren Karagöz ,''Eğer tıp ,anne sağlığının tehlikeye gireceğine karar verirse ,çocukların alınmasında bir sakınca yok .</sentence>
+<sentence num="16">Ancak öyle bir durum yoksa çocukların alınmasına cevaz verilmez ''dedi .</sentence>
+</doc>
+<doc>
+<id>33264</id>
+<sentence num="0">2005 02 28 16 :50 :00 .Yedizlerin boyu 36 milimetreye ulaştı ...</sentence>
+<sentence num="1">Central Hospital Başhekimi Dr .Özer Gürbüz ,aşılama yöntemiyle yediz bebek bekleyen Sibel Hüseyin Deniz çiftinin durumunu ,bağlantı kurduğu bir üniversitenin etik kuruluna Perşembe günü götüreceğini ve bebeklerin durumunun bu kurulda görüşüleceğini bildirdi .</sentence>
+<sentence num="2">Dr .Gürbüz ,AA muhabirine yaptığı açıklamada ,anne ve bebeklerin durumunda değişen bir şey olmadığını belirterek ,şu bilgileri verdi :''Adının açıklanmasını istemeyen bir üniversiteyle bağlantı kurdum .</sentence>
+<sentence num="3">Bu üniversitenin etik kurulu ,Perşembe günü ,bütün uzmanları ve konuyla ilgili profesörleriyle toplanacak .</sentence>
+<sentence num="4">Ben de aileyle birlikte bu toplantıya katılacağım ve bebeklerin durumunu görüşeceğiz .</sentence>
+<sentence num="5">Üniversite yetkilileri ,konuyla ilgili rahat karar verebilmek ve tepki çekmemek için kurum adının açıklanmasını istemiyorlar .</sentence>
+<sentence num="6">Kurul toplantısından sonra bebeklerin akıbetini basın toplantısıyla açıklayacağız .''</sentence>
+<sentence num="7">Baba Hüseyin Deniz de eşinin sağlık durumunun iyi olduğunu ,bebeklerin 7'sini de dünyaya getirmekle ilgili kararının halen geçerliliğini koruduğunu kaydederek ,şunları söyledi :''Geçen Cuma doktorumuza kontrole gittik .</sentence>
+<sentence num="8">Boyları 21 milimetreden 36 milimetreye çıkmış ,sağlıkları da gayet iyi .</sentence>
+<sentence num="9">Tek sıkıntımız ,eşimin bir şey yiyememesi .</sentence>
+<sentence num="10">Doktorun verdiği vitaminlerle idare ediyor .</sentence>
+<sentence num="11">Doktor ,3 aydan sonra bu durumun da düzeleceğini söylüyor .''</sentence>
+<sentence num="12">Öte yandan ,sponsorlarla ilgilenen Aliağa Belediyesi yetkilileri ,henüz kendilerine ,bebeklere sponsor olmak için resmi başvuru yapılmadığını ,olduğu taktirde konuyu yazılı taahhüt altına alacaklarını bildirdi .</sentence>
+</doc>
+<doc>
+<id>35395</id>
+<sentence num="0">2005 03 03 16 :40 :00 .Yediz bekleyen çift ,yediz hamileliğin devamına karar verdi .</sentence>
+<sentence num="1">Aliağalı Sibel ve Hüseyin Deniz çifti ,yediz hamileliğin devamına karar verdi .</sentence>
+<sentence num="2">İzmir Central Hospital'da Başhekim ve Kadın Hastalıkları Doğum Uzmanı Özer Gürbüz ile basın toplantısı düzenleyen Deniz çifti ,bebeklerden dördünün alınması ve üçünün dünyaya gelmesine olanak tanınmasıyla ilgili teklifleri reddettiklerini açıkladı .</sentence>
+<sentence num="3">Dr .Özer Gürbüz ,çiftin bugün Dokuz Eylül Üniversitesi Tıp Fakültesi'nde oluşturulan ''Bilim Kurulu ''tarafından ayrıntılı şekilde bilgilendirildiklerini söyledi .</sentence>
+<sentence num="4">Bu kurulun basına yansıdığı gibi ''Etik Kurul ''olmadığını kaydeden Gürbüz ,''Zaten hukuken Etik Kurul mümkün değildir .</sentence>
+<sentence num="5">Çünkü bu konudaki karar yetkisi sadece Sibel ve Hüseyin Deniz çiftine aittir ''dedi .</sentence>
+<sentence num="6">Çiftin ,''Fetal Redüksiyon ''adı verilen bebek sayısının düşürülmesi yöntemini kabul etmediğini kaydeden Dr .Gürbüz ,şöyle konuştu .''</sentence>
+<sentence num="7">Tedaviyle oluşturulan gebeliklerde çoğul gebelik daha sık görülür .</sentence>
+<sentence num="8">Ancak çoğul gebelik bir amaç değildir .</sentence>
+<sentence num="9">Tüp bebekte çoğul gebelik başarısızlıktır .</sentence>
+<sentence num="10">Burada 3 ay önce uyguladığımız aşılama yöntemindeyse çoğul gebelik başarısızlık değildir ,başarı da değildir .</sentence>
+<sentence num="11">Gebeliğin devamıyla ilgili karar için son süreydi ve çift gebeliğin devamına karar verdi .</sentence>
+<sentence num="12">Anne rüyalarından ve çevresinin telkinlerinden etkilendiğini söyledi .</sentence>
+<sentence num="13">Bundan sonra bize düşen ,bu karar doğrultusunda anne ve bebeklerin sağlığını korumaya çalışmaktır .''</sentence>
+<sentence num="14">Gebelikte bebek sayısının düşürülmesiyle ilgili 8 haftalık sürenin ,hafta sonunda dolacağını belirten Dr .Gürbüz ,bundan sonra isteğe bağlı olarak bunun gerçekleşmesinin mümkün olamayacağını kaydetti .</sentence>
+<sentence num="15">Ancak gebelikte anne veya bebeklerin sağlığıyla ilgili olumsuz bir durum olması halinde ,tıbbi olarak müdahale etme hakları bulunduğunu ifade eden Özer Gürbüz ,çoğul gebelikteki risklere dikkati çekti .</sentence>
+<sentence num="16">SAĞLIKLI DOĞUM İHTİMALİ ZAYIF Annenin karnının büyüklüğünden kaynaklanan sıkıntılar ,kanama ,tansiyon ,kalp ve solunum yetmezliği ,ilk doğumun da sezaryen olmasından kaynaklanan sorunların meydana gelebileceğini kaydeden Dr .Gürbüz ,sözlerini şöyle sürdürdü :''Bebeklerin sağlıklı doğma ihtimalleri ,7 tane olmaları halinde yüzde 20 ,3 tane olmaları halindeyse yüzde 77'dir .</sentence>
+<sentence num="17">Ancak çift yediz gebeliğin devamına karar vermiştir .</sentence>
+<sentence num="18">Bu onların kararıdır .</sentence>
+<sentence num="19">Biz tıbbi olarak her türlü olanağı seferber edeceğiz .</sentence>
+<sentence num="20">Bu gebelik Türkiye'de ilk ,dünyada ikincidir .</sentence>
+<sentence num="21">ABD'deki diğer yediz gebelikte bebekler 28 29 hafta sonunda 900 gram ile 1 .5 kilogram arasında dünyaya gelmiştir .</sentence>
+<sentence num="22">Anne hamilelik başından bu yana 7 kilo aldı ve 112 kilodur .</sentence>
+<sentence num="23">Hamilelik sonuna kadar 30 kilo daha alacağını tahmin ediyoruz .</sentence>
+<sentence num="24">Anne her hafta tıbbi kontrolden geçirilerek ,20 .haftadan itibaren hastanede gözlem altına alınacak .''</sentence>
+<sentence num="25">Dr .Gürbüz ,gebeliğin izlenmesi ve doğumda Dokuz Eylül Üniversitesi Tıp Fakültesi Hastanesi ile işbirliği yapacaklarını ,bu hastanenin Yeni Doğan Yoğum Bakım Ünitesi'nin dünya standartlarında olduğunu kaydetti .</sentence>
+<sentence num="26">Doğum masrafları ve bebeklerin bakımıyla ilgili sponsor bulunması konusundaki sorulara ise Gürbüz ,''Ben doktor olarak tıbbi konularda hizmet veririm .</sentence>
+<sentence num="27">Bu benim konum değil ,Aliağa Belediyesi ve basın danışmanlığı bu konuyla ilgileniyor .</sentence>
+<sentence num="28">Bize gelen başvuruları da onlara yönlendiriyoruz ''dedi .</sentence>
+<sentence num="29">BEBEKLERİN DURUMU İYİ Bebeklerin sağlık durumunun iyi olduğunu ve her birinin 30 milimetre boyuna geldiğini belirten Dr .Gürbüz ,kalp atışlarının normal olduğunu ve çok hareketli olduklarını bildirdi .</sentence>
+<sentence num="30">Anne adayının ilk gebeliğinin de çok rahat geçtiğini anlatan Dr .Gürbüz ,bunda da gebelik sıkıntılarıyla ilgili herhangi bir olumsuzluk beklemediklerini kaydetti .</sentence>
+<sentence num="31">ANNE ADAYI HEYECANLI Rüyalarında sık sık ilk doğumunu ve yedizlerin dünyaya gelişini gördüğünü belirten Anne Sibel Deniz (29 )ise ''Günlerdir düzgün uyuyamıyordum .</sentence>
+<sentence num="32">Uyuduğum zaman da doğum ve bebek yüzlerini rüyamda görüyordum .</sentence>
+<sentence num="33">Kararımda bunlar da etkili oldu ''dedi .</sentence>
+<sentence num="34">Her türlü riskin kendisine ayrıntılı olarak anlatıldığını kaydeden Deniz ,''Hiçbir korkum yok .</sentence>
+<sentence num="35">İçimde sadece büyük bir heyecan var ve her şeyin yolunda gideceğine inancım sonsuz .</sentence>
+<sentence num="36">Kesinlikle kötü bir şey düşünmüyorum .</sentence>
+<sentence num="37">Allah'ım bebeklerimi sağ salim doğurmama izin verecek ,bunu biliyorum ''diye konuştu .</sentence>
+<sentence num="38">Sibel Deniz ,bebeklere birçok isim düşündüklerini ama henüz karar vermediklerini de kaydetti .</sentence>
+<sentence num="39">Baba Hüseyin Deniz ise 3 yaşında bir oğulları bulunduğunu belirterek ,eşinin buna rağmen yediz hamileliğin devamını istediğini kaydetti .</sentence>
+<sentence num="40">Deniz ,''Eşimin kararına saygılıyım .</sentence>
+<sentence num="41">Allah'ın takdiri ilahisi .</sentence>
+<sentence num="42">Risk ikiz doğumda da hatta bir bebekte de var ''dedi .</sentence>
+<sentence num="43">PETKİM'de işçi olarak çalışan Hüseyin Deniz bebeklerin bakımıyla ilgili maddi yardım ve sponsorluk konusunda henüz ciddi bir gelişme yaşanmadığını belirterek ,''Maddi açıdan tabii ki ,sıkıntı olacak ama bebeklerin bakımı konusunda aynı apartmanda ailemizle oturduğumuz için sorun yaşamayacağız ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>35422</id>
+<sentence num="0">2005 03 03 17 :05 :00 .Yedisini de doğuracak .</sentence>
+<sentence num="1">İzmir Central Hospital'da Başhekim ve Kadın Hastalıkları Doğum Uzmanı Özer Gürbüz ile basın toplantısı düzenleyen Deniz çifti ,bebeklerden dördünün alınması ve üçünün dünyaya gelmesine olanak tanınmasıyla ilgili teklifleri reddettiklerini açıkladı .</sentence>
+<sentence num="2">Dr .Özer Gürbüz ,çiftin bugün Dokuz Eylül Üniversitesi Tıp Fakültesi'nde oluşturulan Bilim Kurulu tarafından ayrıntılı şekilde bilgilendirildiklerini söyledi .</sentence>
+<sentence num="3">Bu kurulun basına yansıdığı gibi Etik Kurul olmadığını kaydeden Gürbüz ,Zaten hukuken Etik Kurul mümkün değildir .</sentence>
+<sentence num="4">Çünkü bu konudaki karar yetkisi sadece Sibel ve Hüseyin Deniz çiftine aittir dedi .</sentence>
+<sentence num="5">Çiftin ,Fetal Redüksiyon adı verilen bebek sayısının düşürülmesi yöntemini kabul etmediğini kaydeden Dr .Gürbüz ,şöyle konuştu .</sentence>
+<sentence num="6">Tedaviyle oluşturulan gebeliklerde çoğul gebelik daha sık görülür .</sentence>
+<sentence num="7">Ancak çoğul gebelik bir amaç değildir .</sentence>
+<sentence num="8">Tüp bebekte çoğul gebelik başarısızlıktır .</sentence>
+<sentence num="9">Burada 3 ay önce uyguladığımız aşılama yöntemindeyse çoğul gebelik başarısızlık değildir ,başarı da değildir .</sentence>
+<sentence num="10">Gebeliğin devamıyla ilgili karar için son süreydi ve çift gebeliğin devamına karar verdi .</sentence>
+<sentence num="11">Anne rüyalarından ve çevresinin telkinlerinden etkilendiğini söyledi .</sentence>
+<sentence num="12">Bundan sonra bize düşen ,bu karar doğrultusunda anne ve bebeklerin sağlığını korumaya çalışmaktır .</sentence>
+<sentence num="13">Gebelikte bebek sayısının düşürülmesiyle ilgili 8 haftalık sürenin ,hafta sonunda dolacağını belirten Dr .Gürbüz ,bundan sonra isteğe bağlı olarak bunun gerçekleşmesinin mümkün olamayacağını kaydetti .</sentence>
+<sentence num="14">Ancak gebelikte anne veya bebeklerin sağlığıyla ilgili olumsuz bir durum olması halinde ,tıbbi olarak müdahale etme hakları bulunduğunu ifade eden Özer Gürbüz ,çoğul gebelikteki risklere dikkati çekti .</sentence>
+<sentence num="15">SAĞLIKLI DOĞUM İHTİMALİ ZAYIF Annenin karnının büyüklüğünden kaynaklanan sıkıntılar ,kanama ,tansiyon ,kalp ve solunum yetmezliği ,ilk doğumun da sezaryen olmasından kaynaklanan sorunların meydana gelebileceğini kaydeden Dr .Gürbüz ,sözlerini şöyle sürdürdü :Bebeklerin sağlıklı doğma ihtimalleri ,7 tane olmaları halinde yüzde 20 ,3 tane olmaları halindeyse yüzde 77'dir .</sentence>
+<sentence num="16">Ancak çift yediz gebeliğin devamına karar vermiştir .</sentence>
+<sentence num="17">Bu onların kararıdır .</sentence>
+<sentence num="18">Biz tıbbi olarak her türlü olanağı seferber edeceğiz .</sentence>
+<sentence num="19">Bu gebelik Türkiye'de ilk ,dünyada ikincidir .</sentence>
+<sentence num="20">ABD'deki diğer yediz gebelikte bebekler 28 29 hafta sonunda 900 gram ile 1 .5 kilogram arasında dünyaya gelmiştir .</sentence>
+<sentence num="21">Anne hamilelik başından bu yana 7 kilo aldı ve 112 kilodur .</sentence>
+<sentence num="22">Hamilelik sonuna kadar 30 kilo daha alacağını tahmin ediyoruz .</sentence>
+<sentence num="23">Anne her hafta tıbbi kontrolden geçirilerek ,20 .haftadan itibaren hastanede gözlem altına alınacak .</sentence>
+<sentence num="24">Dr .Gürbüz ,gebeliğin izlenmesi ve doğumda Dokuz Eylül Üniversitesi Tıp Fakültesi Hastanesi ile işbirliği yapacaklarını ,bu hastanenin Yeni Doğan Yoğum Bakım Ünitesi'nin dünya standartlarında olduğunu kaydetti .</sentence>
+<sentence num="25">Doğum masrafları ve bebeklerin bakımıyla ilgili sponsor bulunması konusundaki sorulara ise Gürbüz ,Ben doktor olarak tıbbi konularda hizmet veririm .</sentence>
+<sentence num="26">Bu benim konum değil ,Aliağa Belediyesi ve basın danışmanlığı bu konuyla ilgileniyor .</sentence>
+<sentence num="27">Bize gelen başvuruları da onlara yönlendiriyoruz dedi .</sentence>
+<sentence num="28">BEBEKLERİN DURUMU İYİ Bebeklerin sağlık durumunun iyi olduğunu ve her birinin 30 milimetre boyuna geldiğini belirten Dr .Gürbüz ,kalp atışlarının normal olduğunu ve çok hareketli olduklarını bildirdi .</sentence>
+<sentence num="29">Anne adayının ilk gebeliğinin de çok rahat geçtiğini anlatan Dr .Gürbüz ,bunda da gebelik sıkıntılarıyla ilgili herhangi bir olumsuzluk beklemediklerini kaydetti .</sentence>
+<sentence num="30">ANNE ADAYI HEYECANLI Rüyalarında sık sık ilk doğumunu ve yedizlerin dünyaya gelişini gördüğünü belirten Anne Sibel Deniz (29 )ise Günlerdir düzgün uyuyamıyordum .</sentence>
+<sentence num="31">Uyuduğum zaman da doğum ve bebek yüzlerini rüyamda görüyordum .</sentence>
+<sentence num="32">Kararımda bunlar da etkili oldu dedi .</sentence>
+<sentence num="33">Her türlü riskin kendisine ayrıntılı olarak anlatıldığını kaydeden Deniz ,Hiçbir korkum yok .</sentence>
+<sentence num="34">İçimde sadece büyük bir heyecan var ve her şeyin yolunda gideceğine inancım sonsuz .</sentence>
+<sentence num="35">Kesinlikle kötü bir şey düşünmüyorum .</sentence>
+<sentence num="36">Allah'ım bebeklerimi sağ salim doğurmama izin verecek ,bunu biliyorum diye konuştu .</sentence>
+<sentence num="37">Sibel Deniz ,bebeklere birçok isim düşündüklerini ama henüz karar vermediklerini de kaydetti .</sentence>
+<sentence num="38">Baba Hüseyin Deniz ise 3 yaşında bir oğulları bulunduğunu belirterek ,eşinin buna rağmen yediz hamileliğin devamını istediğini kaydetti .</sentence>
+<sentence num="39">Deniz ,Eşimin kararına saygılıyım .</sentence>
+<sentence num="40">Allah'ın takdiri ilahisi .</sentence>
+<sentence num="41">Risk ikiz doğumda da hatta bir bebekte de var dedi .</sentence>
+<sentence num="42">PETKİM'de işçi olarak çalışan Hüseyin Deniz bebeklerin bakımıyla ilgili maddi yardım ve sponsorluk konusunda henüz ciddi bir gelişme yaşanmadığını belirterek ,Maddi açıdan tabii ki ,sıkıntı olacak ama bebeklerin bakımı konusunda aynı apartmanda ailemizle oturduğumuz için sorun yaşamayacağız diye konuştu .</sentence>
+<sentence num="43">Filistinli bir kadın ,geçtiğimiz yıl haziran ayında yedi bebek dünyaya getirmiş ancak kız bebeklerden biri doğumdan kısa süre sonra hayatını kaybetmişti .</sentence>
+<sentence num="44">Batı Şeria'daki Beytüllahim şehrinde yaşayan 26 yaşındaki Hala Eid ,4'ü erkek ,3'ü kız bebeklerini doğu Kudüs'teki bir hastanede sezaryenle dünyaya getirmişti .</sentence>
+</doc>
+<doc>
+<id>36596</id>
+<sentence num="0">2005 03 05 18 :35 :00 .Yediz bekleyen anne adayına yardım kampanyası başlatılacak .</sentence>
+<sentence num="1">İzmir'in Aliağa İlçe Belediyesi ile Aliağa Kaymakamlığı'nın hafta içinde ortak bir banka hesabı açtırarak ,yediz bebekler için yardım kampanyası başlatacağı bildirildi .</sentence>
+<sentence num="2">Yediz bebek bekleyen Sibel Hüseyin Deniz çiftini ziyaret eden Aliağa Belediye Başkanı Tansu Kaya ,çifte yardım etmek amacıyla böyle bir karar aldıklarını söyledi .</sentence>
+<sentence num="3">Yediz bebeklerin doğması ve ilk etaptaki bakımları için 150 200 bin dolara ihtiyaç olduğunun öğrenildiğini belirten Kaya ,yardım kampanyası başlatarak aileye maddi destek sağlayacaklarını ifade etti .</sentence>
+<sentence num="4">Şu ana kadar aileye resmi olarak sponsorluk teklifinin gelmediğini bildiren Kaya ,bundan sonra gelecek sponsorluk taleplerinin Aliağa Belediyesi tarafından koordine edileceğini kaydetti .</sentence>
+<sentence num="5">BELEDİYEDEN AİLEYE 5 BİN YTL YARDIM Deniz çiftine ,belediyenin ,doğuma kadar ailenin ihtiyaçlarını karşılamak üzere 5 bin YTL'lik (5 milyar lira )yardım yaptığını dile getiren Kaya ,açacakları kampanyayla tüm Türkiye'nin aileye yardımda bulunacağını umduklarını belirtti .</sentence>
+<sentence num="6">Kaya ,şöyle dedi :''Önümüzdeki hafta içinde yapılacak yardımların toplanacağı bir havuz oluşturmak üzere Aliağa Kaymakamlığı ve Aliağa Belediyesi olarak bir banka hesap numarası alarak yardım kampanyasına start vereceğiz .</sentence>
+<sentence num="7">Çocuklara ilk öğretimden tutun da yükseköğrenime kadar eğitim bursu vereceğiz .</sentence>
+<sentence num="8">İlk aşamada okul öncesi eğitimler için de belediyemiz kreşinden ücretsiz olarak yararlanma imkanı sunacağız .''.</sentence>
+</doc>
+<doc>
+<id>38649</id>
+<sentence num="0">2005 03 09 11 :55 :00 .Anne karnındaki yediz bebeklerin sağlıkları iyi ...</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebeklere hamile kalan Sibel Deniz'in gebeliğinin ,Nisan ayında İstanbul'da yapılacak Uluslararası Çoğul Gebelikler Kongresi'nde ele alınacağı bildirildi .</sentence>
+<sentence num="2">Ailenin tedavi gördüğü ve anne Sibel Deniz'in hamilelik seyrinin izlendiği Central Hospital tarafından yapılan yazılı açıklamada ,Sibel Deniz'in halen yedizleri dünyaya getirme kararında ısrarlı olduğu belirtilerek ,kendisine risklerin defalarca anlatıldığı hatırlatıldı .</sentence>
+<sentence num="3">Kadın Hastalıkları ve Doğum Uzmanı Dr .Özer Gürbüz'ün ,fetal redüksiyonun (bebeklerden birkaçının anne karnından çıkarılması )yapılabileceği en ideal zaman olan 12 .haftanın son günü olan 8 Mart'ta ,Türkiye Perinatoloji Derneği Başkanı ve Avrupa Perinatoloji Derneği Genel Sekreteri Prof .Dr .Cihat Şen ile görüştüğü kaydedilen açıklamada ,şu ifadelere yer verildi :''Ayrıntılı ultrason eşliğinde yedi fetus tek tek incelenerek değerlendirilmiştir .</sentence>
+<sentence num="4">Halen tüm fetuslar 12 haftayla uyumlu ve sağlıklı gelişmesini sürdürmektedir .</sentence>
+<sentence num="5">Bebeklerde herhangi bir anomali tespit edilmemiştir .</sentence>
+<sentence num="6">Fakat tüm riskler hakkında Deniz çifti tekrar bilgilendirilmiştir .</sentence>
+<sentence num="7">Sonuç olarak Sibel Deniz yedizleri doğurmaya kararlıdır .</sentence>
+<sentence num="8">Ancak yapılan son toplantıdan sonra Sibel Deniz'e 10 Nisan 2005 tarihine kadar süre verilmiştir .</sentence>
+<sentence num="9">Bu tarihte İstanbul'da Uluslararası Çoğul Gebelikler Kongresi yapılacaktır .</sentence>
+<sentence num="10">Tüm dünyadan kongreye katılacak bilim adamlarının Sibel Deniz'i ve yediz gebeliğini değerlendireceği ortak toplantı düzenlenecektir .</sentence>
+<sentence num="11">Böylece Türkiye'nin yedizleri uluslararası platforma taşınacak ve ortak karar 11 Nisan'da basın toplantısıyla açıklanacaktır .''</sentence>
+<sentence num="12">Sibel Deniz'e ,isterse 11 Nisan gününde de fetal redüksiyon yapılabileceği kaydedilen açıklamada ,annenin sağlığı açısından bu tarihe kadar basınla görüşmemesi gerektiği belirtildi .</sentence>
+<sentence num="13">Baba Hüseyin Deniz ,eşinin sağlık durumunun iyi olduğunu ,bol bol dinlendiğini belirterek ,''Başlarda fazla bir şey yiyemiyordu .</sentence>
+<sentence num="14">Artık bu da düzeldi .</sentence>
+<sentence num="15">İnşallah her şey iyi gider ''dedi .</sentence>
+</doc>
+<doc>
+<id>43813</id>
+<sentence num="0">2005 03 17 12 :00 :00 .Yedizlerin sağlık durumu gayet iyi ...</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebek bekleyen Sibel Deniz'in doktoru ve Central Hospital Başhekimi Özer Gürbüz ,13 haftalık olan bebeklerin her birinin 7 santimetre boyunda olduğunu ve normal gelişimlerini sürdürdüklerin bildirdi .</sentence>
+<sentence num="2">Gürbüz yaptığı yazılı açıklamada ,anne karnındaki bebeklerin son durumu hakkında bilgi verdi .</sentence>
+<sentence num="3">Anne Sibel Deniz'in 13 .gebelik haftasında bulunduğunu ve sağlığı açısından olumsuzluk yaşamadığını ifade eden Gürbüz ,yapılan incelemelerde bebeklerin hepsinin canlı olduğunu ve normal gelişimlerini sürdürdüğünü belirtti .</sentence>
+<sentence num="4">13 .haftalarına ulaşan bebeklerin her birinin boyunun 7 santimetreye ulaştığını bildiren Gürbüz ,bebeklerin plesantalarının ayrı ayrı olduğunu ,bunun da bebeklerin gelişimi açısından büyük şans olduğunu kaydetti .</sentence>
+<sentence num="5">Yedi bebeğin her birinin kalbinin ortalama dakikada 170 kez düzenli attığına işaret eden Gürbüz ,açıklamasında şu bilgilere verdi :''Bebeklerin hiç birinde ultrasonografiyle tespit edilen anomali yoktur .</sentence>
+<sentence num="6">Fakat bu iyi gidiş her an tersine dönebilir .</sentence>
+<sentence num="7">Anne ve bebeklerin sağlık açısından riski halen çok yüksektir .</sentence>
+<sentence num="8">İstanbul'da 10 Nisan'da Türk Perinatoloji Derneği'nin düzenlediği Uluslararası Çoğul Gebelikler Kongresi'ne tüm dünyadan katılacak bilimadamlarıyla Prof .Dr .Cihat Şen'in oluşturacağı bir kurul tarafından anne Sibel Deniz ile yedizlerin sağlığı ve gelişimi değerlendirilecektir .</sentence>
+<sentence num="9">Annenin bebeklerle ilgili nihai kararı 11 Nisan'da düzenlenecek bir basın toplantısıyla bildirilecektir .''.</sentence>
+</doc>
+<doc>
+<id>43876</id>
+<sentence num="0">2005 03 17 13 :00 :00 .İzmirli yedizler 7 santim oldu .</sentence>
+<sentence num="1">Central Hospital tarafından yapılan açıklamada ,Operatör Dr .Özer Gürbüz tarafından dün sağlık durumları değerlendirilen Sibel Deniz ve bebeklerinin 13 .gebelik haftasında oldukları ve sağlıkları açısından olumsuz giden herhangi bir durumlarının olmadığı belirtildi .</sentence>
+<sentence num="2">Açıklamada ,Yedizlerin hepsi canlıdır ve normal gelişimini sürdürmektedir .</sentence>
+<sentence num="3">Hepsinin boyu ortalama 7 santimetredir .</sentence>
+<sentence num="4">Her birinin eşleri (plasenta )ayrı ayrıdır ve bu durum bebeklerin gelişimi için çok büyük bir şanstır .</sentence>
+<sentence num="5">Yedi bebeğin her birinin kalbi ortalama dakikada 170 kez düzenli olarak atmaktadır .</sentence>
+<sentence num="6">Bebeklerin hiçbirinde ultrasonografi ile tespit edilen bir anomali (sakatlık )tespit edilmemiştir fakat bu durum her an tersine dönebilir .</sentence>
+<sentence num="7">Anne ve bebeklerin sağlığı açısından risk hala çok yüksektir .</sentence>
+<sentence num="8">Yedizlerin doktoru Özer Gürbüz ,İstanbul'da 10 Nisan 2005 tarihinde Türk Perinatoloji Derneği'nin düzenlediği ,'Uluslararası Çoğul Gebelikler Kongresi'nde tüm dünyada kongreye katılacak olan bilim adamlarının oluşturduğu bir kurul tarafından Sibel Deniz'in ve yedizlerin sağlığı ve gelişiminin değerlendirilmesini istemiş ve bu istek kabul edilmiştir denildi .</sentence>
+<sentence num="9">Ayrıca Sibel Deniz'in yedizlerle ilgili nihai kararını 11 Nisan 2005 tarihinde kongre binasında yapılacak bir basın toplantısı ile duyuracağı da belirtildi .</sentence>
+</doc>
+<doc>
+<id>48144</id>
+<sentence num="0">2005 03 24 11 :20 :00 .Yediz bebek bekleyen Sibel Deniz'in sağlığında bir problem yok ...</sentence>
+<sentence num="1">Türkiye'deki ilk yediz hamilelik vakası olarak tıp literatürüne giren Sibel Deniz'in ,sağlığında herhangi bir problem olmadığı ,bebeklerin tümünün de sağlıklı gelişimlerini sürdürdüğü bildirildi .</sentence>
+<sentence num="2">Sibel Deniz'in ,kontrollerinin yürütüldüğü Central Hospital'dan yapılan yazılı açıklamada ,Sibel Deniz'in gebeliğinin 14 .haftasında olduğu belirtilerek ,Opr .Dr .Özer Gürbüz tarafından yapılan son kontrolde bebeklerin hepsinin sağlıklı bir şekilde gelişimini sürdürdüğünün tespit edildiği ifade edildi .</sentence>
+<sentence num="3">Kontrolden bir gün önce anne adayı Sibel Deniz'in hafif kanaması olduğunun belirtildiği açıklamada ,gebelikte oluşan her türlü kanamanın ,''düşük tehdidi ''anlamına geldiği ,ancak kanamanın halen devam etmediği ve Sibel Güneş'in sağlık durumunda herhangi bir problem söz konusu olmadığı dile getirildi .</sentence>
+<sentence num="4">Açıklamada ,Sibel Deniz'in tetkik ve kontrollerinin ardından ,hastanede yatmak istememesi nedeniyle istirahat etmek üzere evine gönderildiği kaydedildi .</sentence>
+<sentence num="5">OLASI RİSKLER Sibel Güneş'in yediz bebeklere hamile kalmasının Türkiye'de ilk kez dünyada da 45 .kez meydana gelen bir olay olduğunun ifade edildiği açıklamada ,dünyadaki diğer yediz hamileliklerde ortaya çıkan sonuçlar ışığında olası riskler şöyle sıralandı :''Dünyada 45 gebelik oluşmuş ancak bunlardan sadece birisi ,ABD'de Bayan McCaughey yedisini birden canlı doğurabilmiş ve yedi çocukta yaşatılabilmiş .</sentence>
+<sentence num="6">Fakat daha sonra yaşayan tek yedizlerin üçünde sağlık problemi gelişmiş .</sentence>
+<sentence num="7">Birinde 'Spastik Displeji ',diğerinde 'Hipotonik quadrupleji ''olup halen yürüteçle yürütülebiliyor .</sentence>
+<sentence num="8">Üçüncüsü ise bir müddet midesine takılan tüp ile beslenmiş ,şimdilerde artık sıvı besinleri yemeye başlamış .</sentence>
+<sentence num="9">Yedizleri tedavi eden doktorlar ,bu tür problemlerin normal gebeliklerde de görülebileceğini söylemektedir .''.</sentence>
+</doc>
+<doc>
+<id>59139</id>
+<sentence num="0">2005 04 11 11 :50 :00 .Yedizlere hamile kalan kadının hafif kanaması başladı .</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağa'lı Sibel Deniz'in gebeliğin 16 .haftasında olduğu ,ancak hafif kanamasının başladığı bildirildi .</sentence>
+<sentence num="2">Sibel Deniz'in doktoru ,Central Hospital Başhekimi Dr .Özer Gürbüz ,yaptığı yazılı açıklamada ,annenin gebeliğin 16 .haftasına girdiğini ,bebeklerin hepsinin canlı olduğunu ve gelişimlerini sürdürdüğünü kaydetti .</sentence>
+<sentence num="3">Bebeklerin boylarının ortalama 14 santimetreye ulaştığını ,plasentalarının ayrı olduğunu ,bunun da gelişimleri açısından ''şans ''olarak nitelendirildiğini belirten Gürbüz ,şunları kaydetti :''Annenin sağlığı açısından düne kadar olumsuz bir durum yoktu .</sentence>
+<sentence num="4">Ancak dün hafif pembe bir kanaması başlamıştır .</sentence>
+<sentence num="5">Yatak istirahatıyla birlikte planlanan tedavisi devam etmektedir .</sentence>
+<sentence num="6">Şu an genel durumu iyidir ,kanama azalmıştır .</sentence>
+<sentence num="7">Bebeklerin hiçbirinde ultrasonografiyle tespit edilen anomali belirlenmemiştir .</sentence>
+<sentence num="8">Bebeklerin kalpleri ,dakikada ortalama 170 kez düzenli atmaktadır .</sentence>
+<sentence num="9">Ancak bu iyi gidiş her an tersine dönebilir .</sentence>
+<sentence num="10">Anne ve bebeklerin sağlığı açısından risk her zaman yüksektir .''</sentence>
+<sentence num="11">Ailenin risklerle ilgili olarak Dokuz Eylül Üniversitesi Kadın Hastalıkları ve Doğum Kliniği'nde oluşturulan bilimsel kurulca bilgilendirildiğini ,''fetal redüksiyon ''un yani bebek sayısının azaltılmasının gerektiğinin ayrıntılarıyla anlatıldığını belirten Gürbüz ,annenin gördüğü bir rüyadan etkilenerek bunu kabul etmediğini bildirdi .</sentence>
+<sentence num="12">Bebeklerin durumunun son kez değerlendirilmesi ve bebek sayısının üçe indirgenmesi amacıyla annenin ikna edilebilmesi için Perinatoloji Derneği'nce İstanbul'da düzenlenen Çoğul Gebelikler Kongresi'ne Deniz çiftiyle birlikte katılmak istediğini kaydeden Gürbüz ,kongrenin başlamasından 1 gün önce annenin hafif kanaması başladığını ,bu nedenle İstanbul'a gidemediğini ,tedavisinin sürdürüldüğünü belirtti .</sentence>
+</doc>
+<doc>
+<id>69513</id>
+<sentence num="0">2005 04 27 00 :44 :00 .Yediz'lerden 5'incisinin de cinsiyeti belli .</sentence>
+<sentence num="1">Dr .Özer Gürbüz ,bebeklerin gelişiminin şu ana kadar gayet iyi olduğunu ,ancak 20 .haftadan sonra değişiklik göstereceğini söyledi .</sentence>
+<sentence num="2">Rutin kontrollerini yaptırmak üzere hastaneye gelen ve yediz bebek bekleyen Sibel ve Hüseyin Deniz çiftinin doktoru Özer Gürbüz ,bebeklerin ve annenin sağlığı konusunda değerlendirmede bulundu .</sentence>
+<sentence num="3">19 .haftada bebeklerin normal gelişimlerini sürdürdüğünü kaydeden Gürbüz ,Herhangi bir bebekte diğerlerine göre büyüklük söz konusu değil ,eşit büyümedeler .</sentence>
+<sentence num="4">Daha önce rahim ağzını 17 .ve 18 .haftalarda dikmeyi planlıyorduk .</sentence>
+<sentence num="5">Bu ,torba ağzı gibi rahim ağzının dikilmesi ve erken doğumu önleyen yöntemlerden birisiydi .</sentence>
+<sentence num="6">Şu anda bu işlemi yapmıyoruz ,onun yerine tıbbi ilaç tedavisi ve diyet tedavisi yapıyoruz .</sentence>
+<sentence num="7">Çocukların gelişimi ve kütle ağırlıklarını artırmak için buna önem veriyoruz .</sentence>
+<sentence num="8">Her çocuk 400 gr .ağırlığına ulaştı .</sentence>
+<sentence num="9">Dünyada yaşatılabilen en düşük ağırlıklı bebek 500 gr .,çocuklar bu ağırlığa ulaştıklarında dünya standartlarında yaşam hakkını kazanıyor .</sentence>
+<sentence num="10">Ancak Türkiye şartlarında bunu gerçekleştirmek mümkün değil ,çünkü 1000 gramın üzerine çıkması lazım .</sentence>
+<sentence num="11">Bu haftada bebeklerin boyları 24 25 cm büyüklüğünde .</sentence>
+<sentence num="12">Normal bir gebelik gibi gelişimleri istediğimiz ölçülerde ilerledi ancak bu böyle devam edecek gibi beklentimiz olmasın .</sentence>
+<sentence num="13">Bebeklerin gelişimi bizim beklediğimiz gelişimi izlemeyecek .</sentence>
+<sentence num="14">Diğer tekiz ve ikiz bebeklere göre daha küçük çocuklar olacak diye konuştu .</sentence>
+<sentence num="15">Bu hafta itibariyle annenin sağlık durumunda olumsuz değişiklikler olmadığını kaydeden Gürbüz ,Tansiyonu ve vital bulguları normal vaziyette .</sentence>
+<sentence num="16">Daha önce iki kez hafif bir kanaması oldu .</sentence>
+<sentence num="17">Tabi kendisini aktif hareketlerden kısıtladık .</sentence>
+<sentence num="18">Bebeklerin ve annenin sağlığı iyi dedi .</sentence>
+<sentence num="19">Annenin artık çocuklardan bazılarını aldırmak gibi bir kararının olamayacağını ifade eden Dr .Gürbüz ,Annede hiçbir pişmanlık belirtisi yok ,zaten artık bir işlem yapmamız mümkün değil .</sentence>
+<sentence num="20">Daha önceki kararlarını sorguladığımda çok rahat olduğunu ,pişman olmadığını ,çocukların sağlıklı doğacağına inandığını söylüyor .</sentence>
+<sentence num="21">Diğer yandan geçen hafta bebeklerden 4'ünün cinsiyetini tespit etmiş ve 2 kız ,2 erkek olarak değerlendirmiştik .</sentence>
+<sentence num="22">Bugün 3 .kızı da tespit ettik .</sentence>
+<sentence num="23">Bebeklerin cinsiyetini pozisyonları uygun olduğunda tespit edebiliyoruz şeklinde konuştu .</sentence>
+<sentence num="24">Diğer yandan ,Sibel ve Hüseyin Deniz çiftinin özel bir haber ajansıyla imzaladığı anlaşma gereği diğer televizyon ,gazete ve ajanslara görüntü ve beyanat veremedikleri ifade edildi .</sentence>
+<sentence num="25">Mynet .</sentence>
+</doc>
+<doc>
+<id>69808</id>
+<sentence num="0">2005 04 27 12 :30 :00 .Yedizler için beklenen olumsuzluklar gerçekleşmedi ...</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in doktoru ve Central Hospital Başhekimi Özer Gürbüz ,annenin ,gebeliğin 19 .haftasında bulunduğunu belirterek ,''Şimdiye kadar olmasını beklediğimiz olumsuzluklar gerçekleşmedi .</sentence>
+<sentence num="2">Anne ve bebeklerin sağlık durumu iyi ''dedi .</sentence>
+<sentence num="3">Gürbüz ,AA muhabirine yaptığı açıklamada ,bebeklerin hepsinin tek bebek gibi gelişimlerine devam ettiğini ,ağırlıklarının 400 gram ,boylarının ise 24 santimetre civarında olduğunu söyledi .</sentence>
+<sentence num="4">Yedizlerden 5'inin cinsiyetini belirleyebildiklerini ,2'sinin erkek ,3'ünün kız olduğunu ,diğer 2 bebeğin cinsiyetinin ise henüz tespit edilemediğini belirtti .</sentence>
+<sentence num="5">Dr .Gürbüz ,şu bilgiyi verdi :''Bebeklerin sağlık durumlarında bir problem yok .</sentence>
+<sentence num="6">Fakat bu ,bundan sonra problem olmayacağı anlamına gelmez .</sentence>
+<sentence num="7">40 hafta olan gebeliği ikiye ayırıyoruz .</sentence>
+<sentence num="8">İlk yarıda beklediğimiz olumsuzluklar olmadı .</sentence>
+<sentence num="9">Özellikle 20 .haftadan sonra çocukların gelişimlerinin ,tek bebeklere göre daha küçük kalmasını ve gerilemesini bekliyoruz .</sentence>
+<sentence num="10">Bu sebeple tıbbi tedavi ve diyet uygulaması devam ediyor .</sentence>
+<sentence num="11">Amacımız ,mümkün olduğu kadar bebeklerin kilolarını artırmak .</sentence>
+<sentence num="12">Bu aşamada annenin de kilosunun artıyor olması ,bizi fazla korkutmuyor .</sentence>
+<sentence num="13">Yeter ki bebeklerin ağırlığı 1 kilonun üzerine çıksın .''''</sentence>
+<sentence num="14">SÖRKİLAJ İŞLEMİNDEN VAZGEÇTİK ''Daha önce yapmaya karar verdikleri ve erken doğum riskini azaltmaya yönelik ''sörkilaj işlemi ''nden (rahim ağzını dikme operasyonu )vazgeçtiklerini dile getiren Gürbüz ,''Bu operasyonu yapmaya karar vermiştik .</sentence>
+<sentence num="15">Ancak bebeklerin durumunun iyi olması ,annenin rahat olması ve sörkilaj işleminin de anne açısından sakıncalı olabileceği endişesiyle vazgeçtik ''dedi .</sentence>
+<sentence num="16">Gürbüz ,Sibel Deniz'in tansiyonunun normal sınırlarda seyrettiğini ,diğer bulguların da normal olduğunu kaydederek ,''Gebeliğin ikinci yarısında erken doğum riski var .</sentence>
+<sentence num="17">Annenin sağlığının bozulmaması için gerekirse hastaneye yatıracağız ''dedi .</sentence>
+</doc>
+<doc>
+<id>73334</id>
+<sentence num="0">2005 05 03 12 :15 :00 .Yedizlerden birinin kaybedilme riski doğdu ...</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz gebelik oluşan Aliağalı Sibel Deniz'in bebeklerinin hepsinin canlı ve sağlıklı olduğu ,ancak en öndeki bebeğin ,diğerlerinin baskısı nedeniyle yüzde 50 kaybedilme riski bulunduğu bildirildi .</sentence>
+<sentence num="2">Sibel Deniz'in doktoru ve Central Hospital Başhekimi Özer Gürbüz ,AA muhabirine yaptığı açıklamada ,annenin daha önce 2 kez kanama geçirdiğini ,ancak bunların hafif yaşandığını ,bu nedenle tedavinin bugüne kadar evde sürdürüldüğünü ifade etti .</sentence>
+<sentence num="3">Annenin hamileliğin 19 .haftasında bulunduğunu söyleyen Gürbüz ,şöyle konuştu :Anneyi normal şartlarda 20 .haftadan itibaren hastane bakımına alacaktık .</sentence>
+<sentence num="4">Ancak kanamalar artınca 19 .haftadan itibaren sürekli hastane bakımına aldık .</sentence>
+<sentence num="5">Bebeklerin genel sağlık durumu iyi ,hepsi canlı .</sentence>
+<sentence num="6">Ancak en öndeki bebekte ,diğerlerinin baskısı nedeniyle su azalması söz konusu yani yüzde 50 kaybedilme riski var .</sentence>
+<sentence num="7">İlerleyen günlerde baskıya bağlı olarak gelişme sorunu yaşanacak .</sentence>
+<sentence num="8">Muhtemelen bu bebeği kaybedeceğiz ,ancak bebek doğuma kadar diğerleriyle birlikte içeride kalacak .</sentence>
+<sentence num="9">Bu durumda anneye diğer bebeklerin etkilenmemesi için tedavi uygulayacağız .?</sentence>
+<sentence num="10">Evli erkekle kaçan kızını öldürdü ?</sentence>
+<sentence num="11">Ders çalışmaya giden 7 yaşındaki kızını hastanelik etti !..?</sentence>
+<sentence num="12">Üvey babasını pompalı tüfekle öldürdü ?</sentence>
+<sentence num="13">Babasını öldürüp ,ayağına taş bağlayıp nehre attı .</sentence>
+</doc>
+<doc>
+<id>73380</id>
+<sentence num="0">2005 05 03 13 :03 :00 .Yedizlerden birinin kaybedilme riski .</sentence>
+<sentence num="1">Sibel Deniz'in doktoru ve Central Hospital Başhekimi Özer Gürbüz ,yaptığı açıklamada ,annenin daha önce 2 kez kanama geçirdiğini ,ancak bunların hafif yaşandığını ,bu nedenle tedavinin bugüne kadar evde sürdürüldüğünü ifade etti .</sentence>
+<sentence num="2">Annenin hamileliğin 19 .haftasında bulunduğunu söyleyen Gürbüz ,şöyle konuştu :Anneyi normal şartlarda 20 .haftadan itibaren hastane bakımına alacaktık .</sentence>
+<sentence num="3">Ancak kanamalar artınca 19 .haftadan itibaren sürekli hastane bakımına aldık .</sentence>
+<sentence num="4">Bebeklerin genel sağlık durumu iyi ,hepsi canlı .</sentence>
+<sentence num="5">Ancak en öndeki bebekte ,diğerlerinin baskısı nedeniyle su azalması söz konusu yani yüzde 50 kaybedilme riski var .</sentence>
+<sentence num="6">İlerleyen günlerde baskıya bağlı olarak gelişme sorunu yaşanacak .</sentence>
+<sentence num="7">Muhtemelen bu bebeği kaybedeceğiz ,ancak bebek doğuma kadar diğerleriyle birlikte içeride kalacak .</sentence>
+<sentence num="8">Bu durumda anneye diğer bebeklerin etkilenmemesi için tedavi uygulayacağız ..</sentence>
+</doc>
+<doc>
+<id>74978</id>
+<sentence num="0">2005 05 05 18 :00 :00 .Yedizlerden birini kaybetme ihtimali artıyor .</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in doktoru ve Central Hospital Başhekimi Özer Gürbüz ,Bebeklerden birinin kaybedilmesi ihtimalinin arttığını söyledi .</sentence>
+<sentence num="2">Gürbüz ,AA muhabirine yaptığı açıklamada ,anne Sibel Deniz'in tedavisinin hastanede devam ettiğini belirtti .</sentence>
+<sentence num="3">Annenin sağlık durumunun iyi olduğunu vurgulayan Gürbüz ,şu bilgileri verdi :Önde gelen bebeği kaybetme ihtimalimizin yüzde 50 olduğunu söylemiştik .</sentence>
+<sentence num="4">Şimdi bu oran daha fazla ,kaybetme ihtimali artıyor .</sentence>
+<sentence num="5">Kaybetmesek de sakat kalacak .</sentence>
+<sentence num="6">Bebek ölürse anne karnında kalacak .</sentence>
+<sentence num="7">Diğer bebeklerin ve annenin durumları iyi ..</sentence>
+</doc>
+<doc>
+<id>75838</id>
+<sentence num="0">2005 05 07 09 :44 :00 .İzmirli yedizler 10'ar dakika arayla öldü .</sentence>
+<sentence num="1">İzmirli yedizler 10'ar dakika arayla öldü Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in bebeklerinin tümü öldü .</sentence>
+<sentence num="2">Sibel Deniz'in tedavi gördüğü Central Hospital'dan yapılan yazılı açıklamaya göre ,4 gündür kanaması olan ve erken doğum ağrıları ilaç tedavisiyle durdurulamayan Deniz ,bebeklerden 1'ini düşürdü .</sentence>
+<sentence num="3">Deniz ,aşırı kanama nedeniyle acil olarak sezaryene alındı ve bebeklerin kalan 6'sı çıkarılarak ,gebelik sonlandırıldı .</sentence>
+<sentence num="4">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in doktoru Özer Gürbüz ,bebeklerin birinin düşükle ,kalan 6'sının da sezaryenle dünyaya getirildiğini ,ancak hepsinin ortalama 10'ar dakika yaşadıktan sonra öldüğünü bildirdi .</sentence>
+<sentence num="5">Central Hospital Başhekimi ,Kadın Hastalıkları ve Doğum Uzmanı Op .Dr .Özer Gürbüz ,bebeklerin ölümüyle ilgili düzenlediği basın toplantısında ,yediz gebeliğin sabaha karşı 04 .00 sıralarında sonuçlandığını bildirdi .</sentence>
+<sentence num="6">Çoğul gebeliklerin anne ve bebeklerin sağlığı açısından riskli olduğunu ,7 bebeğin üçe indirilmesi gerektiğini anneye anlatmaya çalıştıklarını ifade eden Gürbüz ,''Ancak anne diğer 4 çocuğunu kaybetmek istemediğini söyleyerek ,yediz gebeliğin devamını istedi ''dedi .</sentence>
+<sentence num="7">Yediz gebeliklerde ,çocuklarını tamamen sağlıklı dünyaya getiren bir insanoğlunun bulunmadığını dile getiren Gürbüz ,bebeklerini Anneler Günü'nden bir gün önce kaybeden Sibel Deniz'in büyük üzüntü yaşadığını anlattı .</sentence>
+</doc>
+<doc>
+<id>75843</id>
+<sentence num="0">2005 05 07 09 :45 :00 .İzmirli yedizler öldü ...</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in bebeklerinin tümü öldü .</sentence>
+<sentence num="2">Sibel Deniz'in tedavi gördüğü Central Hospital'dan yapılan yazılı açıklamaya göre ,4 gündür kanaması olan ve erken doğum ağrıları ilaç tedavisiyle durdurulamayan Deniz ,bebeklerden 1'ini düşürdü .</sentence>
+<sentence num="3">Deniz ,aşırı kanama nedeniyle acil olarak sezaryene alındı ve bebeklerin kalan 6'sı çıkarılarak ,gebelik sonlandırıldı .</sentence>
+<sentence num="4">Açıklamada ,sezaryenle dünyaya getirilen bebeklerin canlı doğduğu ve 450'şer gram ağırlığında oldukları belirtilerek ,19 haftalık olan ve düşük kiloya sahip bebeklerin yaşatılamadığı bildirildi .</sentence>
+<sentence num="5">Açıklamada ,bebeklerin 6'sının erkek ,1'inin kız olduğu da ifade edildi .</sentence>
+<sentence num="6">Konuyla ilgili ayrıntılı açıklama için hastanede bugün bir basın toplantısı düzenleneceği bildirildi .?</sentence>
+<sentence num="7">Küçükçekmece'de bir kişi tabancayla öldürüldü ...?</sentence>
+<sentence num="8">Alkollü müşteriler ,pompacıları bıçakladı ...?</sentence>
+<sentence num="9">Çiğli'de bir kişi silahla vurularak öldürüldü ...?</sentence>
+<sentence num="10">Eşiyle şakalaşırken kendini vurduğu iddia edilen kişiyi oğlu öldürmüş .</sentence>
+</doc>
+<doc>
+<id>75876</id>
+<sentence num="0">2005 05 07 10 :33 :00 .İzmirli yedizler hayata veda etti .</sentence>
+<sentence num="1">Sibel Deniz'in tedavi gördüğü Central Hospital'dan yapılan yazılı açıklamaya göre ,4 gündür kanaması olan ve erken doğum ağrıları ilaç tedavisiyle durdurulamayan Deniz ,bebeklerden 1'ini düşürdü .</sentence>
+<sentence num="2">Deniz ,aşırı kanama nedeniyle acil olarak sezaryene alındı ve bebeklerin kalan 6'sı çıkarılarak ,gebelik sonlandırıldı .</sentence>
+<sentence num="3">Açıklamada ,sezaryenle dünyaya getirilen bebeklerin canlı doğduğu ve 450'şer gram ağırlığında oldukları belirtilerek ,19 haftalık olan ve düşük kiloya sahip bebeklerin yaşatılamadığı bildirildi .</sentence>
+<sentence num="4">Açıklamada ,bebeklerin 6'sının erkek ,1'inin kız olduğu da ifade edildi .</sentence>
+<sentence num="5">Konuyla ilgili ayrıntılı açıklama için hastanede bugün bir basın toplantısı düzenleneceği bildirildi .</sentence>
+<sentence num="6">BEBEKLERLE İLGİLİ BASIN TOPLANTISI İzmir Central Hospıtal Başhekimi ve Kadın Doğum Uzmanı Opr .Dr .Özer Gürbüz ,yedizlerin ölmesiyle ilgili basın basın toplantısı yaptı .</sentence>
+<sentence num="7">Anneler Günü'nde üzüntülü bir olayla karşı karşıya kaldıklarını belirten başhekim Gürbüz ,Haftaladır Türkiye'nin gündemine oturan yediz gebelik dün akşam itibariyle düşükle sonuçlandı .</sentence>
+<sentence num="8">dedi .</sentence>
+<sentence num="9">Cinsiyetle ilgili ilk açıklamalarında düzeltme yapmak istediklerini belirten Opr .Dr .Özer Gürbüz ,hayatını kaybeden bebeklerden 2'sinin kız ,5'inin erkek olduğunu kaydetti .</sentence>
+<sentence num="10">Dr .Gürbüz ,Sibel Deniz'in aşılama yöntemiyle yediz gebeliğe hamile kaldığını hatırlatarak ,Çoğul gebeliğin riskli olduğunu belirterek bebeklerin 3'e indirgenmesini istemiştik .</sentence>
+<sentence num="11">Tüm bilim dünyasının ortak görüşü buydu .</sentence>
+<sentence num="12">Aile başlangıçta bu teklife sıcak baktı .</sentence>
+<sentence num="13">Daha sonra rüya gördüğünü ve bu rüyadan çok etkilendiklerini söylediler .</sentence>
+<sentence num="14">Şaşkınlığa uğradık .</sentence>
+<sentence num="15">dedi .</sentence>
+</doc>
+<doc>
+<id>75958</id>
+<sentence num="0">2005 05 07 13 :20 :00 .Bebekler de öldü ,insanlık da .</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in doktoru ve Central Hospital Başhekimi Özer Gürbüz ,bebeklerin birinin düşükle ,kalan 6'sının da sezaryenle dünyaya getirildiğini ,ancak hepsinin ortalama 10'ar dakika yaşadıktan sonra öldüğünü bildirdi .</sentence>
+<sentence num="2">Ancak Başhekim ,basın toplantısında ,Sibel Deniz'in Anneler Günü arifesinde düşürdüğü ceninleri masanın üzerine yerleştirip basına göstererek şaşırttı .</sentence>
+<sentence num="3">Bir eli cebinde önünde 7 ceninle olayı anlatan Başhekimin rahat tavırları fotoğrafı görenleri dehşete düşürdü .</sentence>
+<sentence num="4">Ceninlerin konulduğu masanın üstüne hastanenin adı Central Hospital yazısının yerleştirildiği de dikkatlerden kaçmadı .</sentence>
+<sentence num="5">SABAHA KARŞI ÖLDÜLER Central Hospital Başhekimi ,Kadın Hastalıkları ve Doğum Uzmanı Op .Dr .Özer Gürbüz ,bebeklerin ölümüyle ilgili düzenlediği basın toplantısında ,yediz gebeliğin sabaha karşı 04 .00 sıralarında sonuçlandığını bildirdi .</sentence>
+<sentence num="6">Çoğul gebeliklerin anne ve bebeklerin sağlığı açısından riskli olduğunu ,7 bebeğin üçe indirilmesi gerektiğini anneye anlatmaya çalıştıklarını ifade eden Gürbüz ,Ancak anne diğer 4 çocuğunu kaybetmek istemediğini söyleyerek ,yediz gebeliğin devamını istedi dedi .</sentence>
+<sentence num="7">Yediz gebeliklerde ,çocuklarını tamamen sağlıklı dünyaya getiren bir insanoğlunun bulunmadığını dile getiren Gürbüz ,bebeklerini Anneler Günü'nden bir gün önce kaybeden Sibel Deniz'in büyük üzüntü yaşadığını anlattı .</sentence>
+<sentence num="8">BEBEKLER 10 DAKİKA YAŞADI Bir süredir hastanede tedavi altında tutulan Deniz'in 4 gündür kanaması olduğunu belirten Gürbüz ,bebeklerden birinin sabaha karşı 02 .</sentence>
+<sentence num="9">30 civarında düşük yöntemiyle dünyaya geldiğini ve yaklaşık 10 dakika canlı kaldıktan sonra kaybedildiğini söyledi .</sentence>
+<sentence num="10">Diğer bebeklerin ise annenin hayati tehlikesi nedeniyle saat 04 .00 sıralarında sezaryenle alındığını kaydetti .</sentence>
+<sentence num="11">6 bebeğin de 10'ar dakika yaşadıktan sonra öldüğünü dile getiren Gürbüz ,şöyle konuştu :Sibel Deniz riskler konusunda bilgilendirilmiştir .</sentence>
+<sentence num="12">Başımıza gelen bu olayda herhangi bir sürpriz yok .</sentence>
+<sentence num="13">Kendisi bu şekilde sonuçlanabileceğini kabul ediyor ve biliyordu .</sentence>
+<sentence num="14">Yediz bebeklerin hep birlikte doğma şansı yüzde 20'nin altındaydı .</sentence>
+<sentence num="15">Hamilelik yüzde 80 düşükle veya erken doğumla sonuçlanacaktı .</sentence>
+<sentence num="16">Dünyada 45 yediz gebelik oluşmuş ,Deniz'inki 46 .idi .Bunlardan sadece bir tanesi ABD'de dünyaya gelmişti ,bu olayda da 3 çocukta problem oluşmuştu .</sentence>
+<sentence num="17">Yediz gebeliklerde çocukları tamamen sağlıklı dünyaya getiren bir insanoğlu yok .</sentence>
+<sentence num="18">TEKRAR ÇOCUK SAHİBİ OLABİLİR Bebeklerin 19 haftalık ve 400 450 gram civarında olduğunu ,dünyada bu özellikteki hiçbir bebeğin yaşam imkanını bulunmadığını vurgulayan Gürbüz ,hastanede istirahat eden Sibel Deniz'in sağlık durumunun iyi olduğunu ifade etti .</sentence>
+<sentence num="19">Deniz'in tekrar çocuk sahibi olabileceğini söyleyen Gürbüz ,Sibel'in hayati tehlikesini ortadan kaldırdık .</sentence>
+<sentence num="20">Türkiye'nin yedizlerinin bu şekilde sonuçlanması hepimizi üzdü .</sentence>
+<sentence num="21">Sibel Deniz ,Anneler Günü arifesinde çocuklarını kaybetmenin üzüntüsünü yaşıyor diye konuştu .</sentence>
+<sentence num="22">Anne Sibel Deniz ile eşi Hüseyin Deniz ,basın toplantısına katılmadı .</sentence>
+<sentence num="23">Aile gazetecilerle de görüşmedi .?</sentence>
+<sentence num="24">İzmirli yedizler öldü ...</sentence>
+</doc>
+<doc>
+<id>76103</id>
+<sentence num="0">2005 05 07 20 :19 :00 .Yedizler öldü Anne Sibel Deniz ,riskler konusunda daha önce bilgilendirilmiş .</sentence>
+<sentence num="1">Ölen yedizler aynı mezara gömüldü İzmir'de yediz bebek bekleyen Sibel Deniz ,hamileliğinin 19'uncu haftasında ,aşırı kanama sonucu bütün bebeklerini kaybetti .</sentence>
+<sentence num="2">Bir süredir hastanede tedavi altında tutulan Sibel Deniz'in kanaması gece başladı .</sentence>
+<sentence num="3">Doktorlar hemen müdahale etti .</sentence>
+<sentence num="4">Ancak bebeklerden biri düşük olarak dünyaya geldi .</sentence>
+<sentence num="5">10 dakika yaşadıktan sonra da öldü .</sentence>
+<sentence num="6">Tehlike bununla da sınırlı kalmadı .</sentence>
+<sentence num="7">İki saat sonra annenin hayati tehlikesi başgösterince ,bu kez diğer bebekler sezaryenle alındı .</sentence>
+<sentence num="8">Bu bebekler de bir süre yaşadıktan sonra öldü .</sentence>
+<sentence num="9">Sibel Deniz'in doktoru Özer Gürbüz ,annenin riskler konusunda daha önceden bilgilendirildiğini ve bu olayda herhangi bir sürpriz olmadığını söyledi .</sentence>
+<sentence num="10">Yedizlerin teşhirine soruşturma Bu arada yedizlerin ölümü teşhir tartışmasını başlattı .</sentence>
+<sentence num="11">Hastane yönetiminin bir masa üzerine koyarak yedizleri basına göstermesi tepki topladı .</sentence>
+<sentence num="12">İzmir Tabip Odası ,ölen yedizleri teşhir etmekle suçladığı hastane yönetimi hakkında soruşturma açtı .</sentence>
+<sentence num="13">Yediz bebekler ise hastanedeki işlemlerin ardından Aliağa'daki belediye mezarlığında toprağa verildi .</sentence>
+<sentence num="14">Anne Sibel Deniz ,doktorların 'bebeklerin sayısını 3'e düşürelim 'uyarısını dinlememiş ve tüm riskleri göze alarak bebeklerin hepsini doğuracağını söylemişti .</sentence>
+<sentence num="15">Yürürlükteki yasa ve hasta hakları yönetmeliği gereği de ,doktorlar hastanın rızası alınmadığı için zamanında müdahalede bulunamamıştı .</sentence>
+<sentence num="16">Jinekolog Traş :Amacın tek gebelik olduğu unutulmamalı Jinekoloji ve Obstetrik Derneği Genel Başkanı ve Gazi Üniversitesi Öğretim üyesi Prof .Dr .Bülent Tıraş yedizlerin ölümü ile ilgili bir açıklamada bulundu .</sentence>
+<sentence num="17">Traş ,''gerek tüp bebek tedavilerinde gerekse aşılama tedavilerinde amacın her zaman tek gebelik olduğu unutulmamalı ''dedi .</sentence>
+<sentence num="18">Bülent Tıraş ,yaptığı açıklamada ,İzmirli yedizlerin ölümü ile ilgili olarak ocak ayı sonunda düzenledikleri basın toplantısı ile infertite tedavilerinde özellikle çoğul gebeliklerin beklenen ve istenen bir sonuç olmadığını vurguladıklarını hatırlattı .</sentence>
+<sentence num="19">Anne adayı Sibel Kılıç'ın da bundan sonraki tedavilerinde bilimin ışığının yolunda gitmesi önerisinde bulunan Prof .Dr .Tıraş ,her türlü desteği vereceklerini söyledi .</sentence>
+<sentence num="20">Bülent Tıraş ,bir soru üzerine ,ölümleri açıklanan bebeklerin basın toplantısı ile cesetlerinin gösterilmesini etik bulmadıklarını belirtti .</sentence>
+</doc>
+<doc>
+<id>76203</id>
+<sentence num="0">2005 05 08 07 :10 :00 .Yedizler öldü doktor şov yaptı .</sentence>
+<sentence num="1">Sibel Deniz ,aşılama yöntemiyle yedizlere hamile kaldığında ,doktorların tüm uyarılarına rağmen hepsini birlikte doğurmaya karar verdi .</sentence>
+<sentence num="2">Ancak Deniz ,önceki gece ,Anneler Günü'ne bir gün kala ,bebeklerinin hepsini kaybetti .</sentence>
+<sentence num="3">Konuşmakta zorluk çekmesine karşın kısa bir açıklama yapan Deniz ,Kendimi rüyada gibi hissediyorum .</sentence>
+<sentence num="4">Anneler Günü'nden bir gün önce bu olayı yaşamam beni çok üzdü .</sentence>
+<sentence num="5">Ama vicdanım rahat .</sentence>
+<sentence num="6">Demek ki bebeklerimin ömrü bu kadarmış .</sentence>
+<sentence num="7">Bugün yine aynı durumla karşılaşsam ,yediz bebek beklediğimi öğrensem ,sanırım yine hepsini doğurmak isterim dedi .'</sentence>
+<sentence num="8">Sürpriz olmadı 'Tüpraş'ta işçi olan baba Hüseyin Deniz (35 )ise ,Tüm riskleri doktorlar bize anlatmıştı .</sentence>
+<sentence num="9">Aslında bebekleri kaybetmemiz bizim için sürpriz olmadı .</sentence>
+<sentence num="10">Kendimizi her şeye hazırlamıştık .</sentence>
+<sentence num="11">Bebekleri kaybettiğimiz için bir yandan üzülüyorum ,eşimin sağlığı yerinde olduğu için de seviniyorum .</sentence>
+<sentence num="12">Üzüntüyü ve sevinci bir arada yaşıyorum diye konuştu .</sentence>
+<sentence num="13">Sibel Deniz'in annesi Halime Güngör de ,bebekleri kaybettikleri için çok üzüldüklerini belirtirken ,Önemli olan kızımın hayatta olması şeklinde konuştu .</sentence>
+<sentence num="14">10 dakika yaşadılar Özel hastanenin başhekimi ve kadın doğum uzmanı olan Opr .Dr .Özer Gürbüz ,düzenlediği basın toplantısında ,Deniz'in tekrar anne olabileceğini açıkladı .</sentence>
+<sentence num="15">Gürbüz ,şunları söyledi :6 Mayıs Cuma gecesi saat 22 .30'da Sibel Deniz'in kanaması arttı ve erken doğum ağrıları başladı .</sentence>
+<sentence num="16">Yapılan tüm tıbbi tedavilere rağmen kanama devam etti ve doğum ağrıları sıklaştı .</sentence>
+<sentence num="17">7 Mayıs Cumartesi saat 02 .30'da en altta bulunan ve amnios suyu azalan bebek vajinal yoldan düştü .</sentence>
+<sentence num="18">Diğer bebeklerin kalması için yaklaşık 1 .5 saat tıbbi tedaviye devam ettik .</sentence>
+<sentence num="19">Fakat aşırı kanama ve annenin hayatının tehlikeye girmesi nedeniyle ,anneyi acil olarak operasyona aldık .</sentence>
+<sentence num="20">Sezaryenle diğer 6 bebek alınarak kanama durduruldu ,annenin hayatı kurtarıldı .</sentence>
+<sentence num="21">Bebeklerin beşi erkek ,ikisi kızdı .</sentence>
+<sentence num="22">Fakat 19 haftalık ve ortalama 400 450 gram olmaları sebebiyle yaşamaları mümkün olmadı .</sentence>
+<sentence num="23">Bebekler 10 dakika hayatta kalabildi .</sentence>
+<sentence num="24">Dünyada 19 .haftada yaşatılabilmiş bebek yok .</sentence>
+<sentence num="25">Anne kabul etmedi Çoğul gebelik riski nedeniyle bütün doktorların ortak görüşü olan bebek sayısının 3'e indirilmesi önerisini anneye kabul ettiremediklerini vurgulayan Gürbüz ,Yedizlerin hepsini doğurmaya karar vermesi ,7 bebeği istemesinden değil ,4 bebeğinden vazgeçememesinden kaynaklandı .</sentence>
+<sentence num="26">Aslında ,Sibel Deniz ,11 yıl çocuk özlemi çektiği için ,annelik duygusuyla ,canı pahasına çok büyük bir fedak rlık yaptı dedi .</sentence>
+<sentence num="27">Doğum değil düşük 22 .haftayı geçirmiş bebeklerin dünyaya gelmesine doğum dendiğini belirten Gürbüz ,şu açıklamayı yaptı :19 haftalık yedizler canlı dünyaya geldi ,ancak bu bizim için doğum değil .</sentence>
+<sentence num="28">Biz bunu düşük olarak kabul ediyoruz .</sentence>
+<sentence num="29">Soruşturma açılıyor İZMİR Tabip Odası Başkanı Dr .Zeki Gül ,Central Hospital Başhekimi Opr .Dr .Özer Gürbüz'ün 7 cenini teşhir etmekle suçlandığını ve olayla ilgili soruşturma açılması için çalışmalara başladıklarını açıkladı .</sentence>
+<sentence num="30">Gül ,şunları kaydetti :Birçok telefon aldık .</sentence>
+<sentence num="31">Kamuoyu hastanenin konuyu reklam olarak kullandığı görüşünde .</sentence>
+<sentence num="32">İzmir Tabip Odası olarak bilimsel ve etik anlamda soruşturma açılması için çalışmalara başladık .</sentence>
+<sentence num="33">Ölüye saygı ,hele bebek ölümlerine saygı dünyada var .</sentence>
+<sentence num="34">Reklamın alınmadığı tek yer kefen belki de .</sentence>
+<sentence num="35">Kefende üreten firmanın adı da olmaz .</sentence>
+<sentence num="36">Ceninlerin reklam unsuru olarak kullanılması kabul edilemez .</sentence>
+<sentence num="37">Fotoğraflar ülkemiz tahripk r tıp ortamının fotoğrafı .</sentence>
+<sentence num="38">Toprağa verildiler BABA Hüseyin Deniz ,hastaneden aldığı yedizleri ,birkaç yakınıyla birlikte Aliağa Belediyesi Mezarlığı'nda toprağa verdi .</sentence>
+<sentence num="39">Mezarlıktaki defin işlemine Hüseyin Deniz'in babası Ferit Deniz ,ağabeyleri Fikret ve Mehmet Deniz ile Sibel Deniz'in annesi Halime Güngör katıldı .</sentence>
+<sentence num="40">Beyaz kefene sarılan yedizler ,tek bir mezara gömüldü .</sentence>
+<sentence num="41">22 haftayı doldurmayan yedizler için dini tören düzenlenmedi .</sentence>
+<sentence num="42">Bu arada ,Hüseyin Deniz ,bebeklerin sergileneceğinin kendisine bildirilmediğini söyledi .</sentence>
+<sentence num="43">Deniz şöyle konuştu :Özer Gürbüz ,benden 'Basın açıklaması yapacağız 'diye imza istedi .'</sentence>
+<sentence num="44">Kamuoyu çok ilgileniyor 'dedi .</sentence>
+<sentence num="45">Kafam karışık .</sentence>
+<sentence num="46">Ne yaptığımı bilmiyorum .</sentence>
+<sentence num="47">Doktor :İsteyen görüntü alabilir CENTRAL Hospital'dan sabah medya kuruluşlarına gönderilen bültende ,Basın toplantısı 11 .00'de hastanede yapılacak ve yedizler basına gösterilecektir cümlesi dikkat çekti .</sentence>
+<sentence num="48">Basın toplantısında yedizlerin nasıl kaybedildiğini anlatan Gürbüz ,isteyenlerin yedizlerden görüntü alabileceğini söyledi .</sentence>
+<sentence num="49">Gürbüz ,olayın tartışma yaratması üzerine şunları söyledi :Bebeklerin basına gösterilmesi reklam amaçlı değil .</sentence>
+<sentence num="50">Hem tıbbi etiğe sığmaz ,hem de RTÜK tarafından yayımlanması mümkün değil .</sentence>
+<sentence num="51">Arşiv amaçlı kullanılabileceğini ,dosyalarında saklayabileceklerini gazetecilere söyledim .</sentence>
+<sentence num="52">Yediz olduğunu iddia etmiştik .</sentence>
+<sentence num="53">İleride bebeklerin yediz değil de dördüz ,beşiz olduğu şeklinde bir vuku gelişebilirdi .</sentence>
+<sentence num="54">Görüntüler yayımlanmayacağı ,arşivlerde kullanılacağı düşüncesiyle izin verdim .</sentence>
+<sentence num="55">Hastaneden yapılan açıklamada da ,görüntülerin arşiv amaçlı kullanılması için verildiği bildirildi .</sentence>
+<sentence num="56">Gazeteciler :İzin verdi Toplantıdaki gazeteciler ise ,Başhekim bize ,bu fotoğrafları yayımlamayın ya da çekmeyin diye bir şey söylemedi .</sentence>
+<sentence num="57">İzin verdi ,bilgisi dahilinde görüntüler alındı .</sentence>
+<sentence num="58">Eğer arşiv için fotoğraflar çekilecekse ,gazetecilere değil ,bir fotoğrafçıya da bu işi yaptırabilirlerdi açıklamasını yaptılar .</sentence>
+<sentence num="59">Milliyet .</sentence>
+</doc>
+<doc>
+<id>76380</id>
+<sentence num="0">2005 05 08 14 :18 :00 .Sağlık Bakanlığı yediz bebeklerin görüntüleri ile ilgili soruşturma başlattı .</sentence>
+<sentence num="1">Sağlık Bakanlığı yediz bebeklerin görüntüleri ile ilgili soruşturma başlattı Sağlık Bakanlığı Teftiş Kurulu Başkanlığı ,yediz bebeklerin hayatını kaybetmesi ve İzmir'de bulunan özel hastanenin bebeklerin görüntülerini yansıtma şekliyle ilgili inceleme ve soruşturma başlattı .</sentence>
+<sentence num="2">Sağlık Bakanlığı'ndan yapılan açıklamada ,soruşturma sonuçlarına göre gerekli işlemlerin yapılacağı ve sonuçlarla ilgili kamuoyunun bilgilendirileceği kaydedildi .</sentence>
+<sentence num="3">Açıklamada ,bebeklerin görüntülerinin yayınlanmasıyla ilgili Radyo Televizyon Üst Kurulu'na başvuru yapılacağı bildirildi .</sentence>
+</doc>
+<doc>
+<id>76412</id>
+<sentence num="0">2005 05 08 15 :20 :00 .İzmirli yedizlerin ölümü ...</sentence>
+<sentence num="1">Ceninlerin teşhirine soruşturma başlatıldı .</sentence>
+<sentence num="2">Sağlık Bakanlığı Teftiş Kurulu Başkanlığı ,yediz bebeklerin hayatını kaybetmesi ve İzmir'de bulunan özel hastanenin bebeklerin görüntülerini yansıtma şekliyle ilgili inceleme ve soruşturma başlattı .</sentence>
+<sentence num="3">Sağlık Bakanlığı'ndan yapılan açıklamada ,soruşturma sonuçlarına göre gerekli işlemlerin yapılacağı ve sonuçlarla ilgili kamuoyunun bilgilendirileceği kaydedildi .</sentence>
+<sentence num="4">Açıklamada ,bebeklerin görüntülerinin yayınlanmasıyla ilgili Radyo Televizyon Üst Kurulu'na başvuru yapılacağı bildirildi .</sentence>
+<sentence num="5">İZMİR TABİP ODASI BAŞKANI :ALTYAPISIZ ÖZELLEŞTİRMENİN SONUCU İzmir Tabip Odası Başkanı Zeki Gül ,yediz bebeklerin ölümü sonrası yaşanan olayların sağlıkta altyapısız özelleştirmenin bir sonucu olduğunu ileri sürdü .</sentence>
+<sentence num="6">Başkan Gül ,yedizlere hamile kalan Sibel Deniz'in doktoru ,Kadın Hastalıkları Doğum Uzmanı ve Central Hospital Başhekimi Op .Dr .Özer Gürbüz'ün ceninlerle görüntü alınmasına izin vermesinin ,kamuoyunu dehşete düşürdüğünü ifade etti .</sentence>
+<sentence num="7">Yayınlanan haberler sonrası odaya tıp çevreleri ve kamuoyundan yoğun tepkiler ulaştığını kaydeden Gül ,Haberi izleyen tüm kesimlerden insanların ortak kanaati ,verilen görüntülerde reklam unsurunun gözetildiği yönünde .</sentence>
+<sentence num="8">Oda olarak bilimsel ve etik boyutuyla ilgili araştırma başlattık .</sentence>
+<sentence num="9">Soruşturma başlatılması için çalışma yapıyoruz dedi .</sentence>
+<sentence num="10">Gül ,tıp etiğine göre ceninlerin ancak zorunlu olması halinde ,bilimsel gelişme için ,sadece tıp yayınları ve kongrelerinde yayınlanabileceğine dikkati çekti .</sentence>
+<sentence num="11">Etik anlamda büyük bir yanlış yapıldığını kaydeden Gül ,şöyle konuştu :Yaşananlar ,sağlıkta önlem alınmadan ,altyapısız şekilde yapılan özelleştirmenin bir sonucudur .</sentence>
+<sentence num="12">Sağlık ,serbest piyasanın reklam kirlenmişliğine teslim edilemeyecek kadar önemlidir .</sentence>
+<sentence num="13">Sağlıkta yaşanan liberal dönüşümün etkilerine 6 7 aydır dikkat çekiyoruz .</sentence>
+<sentence num="14">Umuyoruz yaşanan bu olay kamuoyuna gereken mesajı vermiştir .</sentence>
+<sentence num="15">Artık sağlıkta özelleştirme konusunun yeniden masaya yatırılması ve çerçevesinin belirlenmesi gerekiyor .</sentence>
+<sentence num="16">Bu olay ,uzun yıllar tıp fakültelerinde hasta hekim ilişkileri konusunda ders olarak okutulacak .</sentence>
+<sentence num="17">BAŞHEKİM GÜRBÜZ :BU SUÇLAMALARI HAK ETMEDİM Bu arada ,yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in doktoru Özer Gürbüz de yaptığı açıklamada olayın yanlış anlaşıldığını savunarak şöyle konuştu :Basın toplantısı ceninlerin önünde yapılmış gibi lanse edildi .</sentence>
+<sentence num="18">Böyle bir durum söz konusu değil .</sentence>
+<sentence num="19">Ayrı bir yerdeydik .</sentence>
+<sentence num="20">Ben sanki ceninlerin karşısında basın toplantısı yapıyorum gibi anlaşılmış .</sentence>
+<sentence num="21">Beni 'olayı reklam aracı yaptı 'diye anlatıyorlar .</sentence>
+<sentence num="22">Ben bu suçlamaları hak etmedim ..</sentence>
+</doc>
+<doc>
+<id>76478</id>
+<sentence num="0">2005 05 08 18 :07 :00 .Yedizlerin teşhirine soruşturma Hastane yetkilileri ,haksızlığa uğradıklarını belirtti .</sentence>
+<sentence num="1">Sibel Deniz'in yedizleri ,aşırı kanama sonucu öldü Sağlık Bakanlığı Teftiş Kurulu ,hayatını kaybeden yediz bebeklerin görüntülerini reklama dönüştüren hastane hakkında soruşturma başlattı .</sentence>
+<sentence num="2">Sağlık Bakanlığı'ndan yapılan yazılı açıklamada ,İzmir'de bulunan özel hastanenin ,bebeklerin görüntülerini yansıtma şekliyle ilgili olarak Sağlık Bakanlığı Teftiş Kurulu'nun inceleme ve soruşturma başlattığı duyuruldu .</sentence>
+<sentence num="3">Açıklamada ,soruşturma sonuçlarına göre sorumlularına gerekli işlemler yapılacak ve sonuçlarla ilgili olarak kamuoyu bilgilendirilecektir denildi .</sentence>
+<sentence num="4">Bakanlık ,bebeklerin görüntülerinin yayınlanmasıyla ilgili olarak Radyo Televizyon Üst Kurulu'na da başvuru yapılacağını bildirdi .</sentence>
+<sentence num="5">Hastane :Reklam yapılmadı Aşılama yöntemiyle hamile kaldığı yediz bebeklerini dün kaybeden Aliağalı Sibel Deniz'in tedavi gördüğü Central Hospital ise suçlamanın ardından bir açıklama yaparak ,yedizlerle ilgili reklam yapılmadığını bildirdi .</sentence>
+<sentence num="6">Hastaneden yapılan yazılı açıklamada ,basın toplantısında ceninlerin gösterilmediği savunularak ,''basın toplantısı bittikten sonra bazı gazeteciler ,yediz bebeklerle ilgili ellerinde ultrason görüntülerinden başka bir veri olmadığını ,yediz gebeliği ispat etmek için ve zaten RTÜK nedeniyle yayınlayamayacaklarını söyleyerek ,yedizleri görmek istediklerini belirtmişlerdir denildi .</sentence>
+<sentence num="7">Açıklamada ,Dr .Özer Gürbüz ,yayınlanmamak kaydıyla daha önce kendi arşivinde kullanmak ve bilimsel yayın yapmak amacıyla hazırlayıp ,görüntü aldığı ceninleri ,basın toplantısı bittikten sonra annelerinden izin alarak göstermeyi kabul etmiştir .</sentence>
+<sentence num="8">Ceninlerin yanındaki 'Central Hospital 'yazısı reklam amaçlı değil ,arşiv amaçlıdır ''ifadesi yer aldı .</sentence>
+<sentence num="9">Yedizlerin magazinleştirilmemesi gerektiğinin baştan beri savunulduğu belirtilen açıklamada ,olgunun çok nadir olması nedeniyle basının ilgisini çektiği kaydedildi .</sentence>
+<sentence num="10">Çoğul gebeliklerin anne ve bebekler açısından risk taşıdığının hatırlatıldığı açıklamada ,bu konuda anneyi ikna etme çabalarının sonuçsuz kaldığı savunuldu .</sentence>
+<sentence num="11">İzmir İl Sağlık Müdürü Levent Kıdak ise ,yediz bebeklerin ölümünün kamuoyuna yansıtılma şekliyle ilgili inceleme başlatıldığını söyledi .</sentence>
+<sentence num="12">Kıdak ,''konunun kamuoyuna yansıtılma şekliyle ilgili ,Sağlık Bakanı Recep Akdağ'ın talimatları doğrultusunda sorumlular hakkında ,inceleme başlatıldı .</sentence>
+<sentence num="13">Konu her yönüyle incelenecek ve sonuç kamuoyuna açıklanacaktır ''diye konuştu .</sentence>
+<sentence num="14">Aşırı kanama yedizlerin sonu oldu İzmir'de yediz bebek bekleyen Sibel Deniz ,hamileliğinin 19'uncu haftasında ,aşırı kanama sonucu bütün bebeklerini dün kaybetti .</sentence>
+<sentence num="15">Bir süredir hastanede tedavi altında tutulan Sibel Deniz'in kanaması gece başladı .</sentence>
+<sentence num="16">Doktorlar hemen müdahale etti .</sentence>
+<sentence num="17">Ancak bebeklerden biri düşük olarak dünyaya geldi .</sentence>
+<sentence num="18">10 dakika yaşadıktan sonra da öldü .</sentence>
+<sentence num="19">Tehlike bununla da sınırlı kalmadı .</sentence>
+<sentence num="20">İki saat sonra annenin hayati tehlikesi baş gösterince ,bu kez diğer bebekler sezaryenle alındı .</sentence>
+<sentence num="21">Bu bebekler de bir süre yaşadıktan sonra öldü .</sentence>
+<sentence num="22">Sibel Deniz'in doktoru Özer Gürbüz ,annenin riskler konusunda daha önceden bilgilendirildiğini ve bu olayda herhangi bir sürpriz olmadığını söyledi .</sentence>
+</doc>
+<doc>
+<id>76486</id>
+<sentence num="0">2005 05 08 18 :33 :00 .Hastaneden yazılı savunma geldi .</sentence>
+<sentence num="1">Hastaneden yapılan yazılı açıklamada ,yedizlerle ilgili reklam yapılmadığı ve basın toplantısında ceninlerin gösterilmediği savunularak ,şu bilgilere yer verildi :''Basın toplantısı bittikten sonra bazı gazeteciler ,yediz bebeklerle ilgili ellerinde ultrason görüntülerinden başka bir veri olmadığını ,yediz gebeliği ispat etmek için ve zaten RTÜK nedeniyle yayınlayamayacaklarını söyleyerek ,yedizleri görmek istediklerini belirtmişlerdir .</sentence>
+<sentence num="2">Dr .Özer Gürbüz ,yayınlanmamak kaydıyla daha önce kendi arşivinde kullanmak ve bilimsel yayın yapmak amacıyla hazırlayıp ,görüntü aldığı ceninleri ,basın toplantısı bittikten sonra annelerinden izin alarak göstermeyi kabul etmiştir .</sentence>
+<sentence num="3">Ceninlerin yanındaki 'Central Hospital 'yazısı reklam amaçlı değil ,arşiv amaçlıdır .''</sentence>
+<sentence num="4">Yedizlerin magazinleştirilmemesi gerektiğinin baştan beri savunulduğu belirtilen açıklamada ,olgunun çok nadir olması nedeniyle basının ilgisini çektiği kaydedildi .</sentence>
+<sentence num="5">Central Hospital'in 3 yıldır sağlıkta vergi rekortmeni olduğu ,bilimsel yayın açısından lider bulunduğu ifade edilen açıklamada ,''Böyle olumlu özelliklere haiz bir kurumun ,kendi açısından böyle hassas bir konuda reklam yapması kabul edilemez ''denildi .</sentence>
+<sentence num="6">Çoğul gebeliklerin anne ve bebekler açısından risk taşıdığının hatırlatıldığı açıklamada ,bu konuda anneyi ikna etme çabalarının sonuçsuz kaldığı savunuldu .</sentence>
+<sentence num="7">19 .haftaya kadar izlenen hastanın 6 Mayıs 2005'te kanamasının artması ve erken doğum sancılarının durdurulamaması nedeniyle anne hayatını kurtarmak amacıyla yediz gebeliğe sezaryen operasyonuyla son verildiği kaydedilen açıklamada ,şu ifadelere yer verildi :''Anne hayatı kurtarılmıştır ,doğurganlık şansı devam etmektedir .</sentence>
+<sentence num="8">Operasyon süresince hastaya 4 ünite kan verilmiş ,bunun 2 ünitesi bizzat hastane personelinden alınmıştır .</sentence>
+<sentence num="9">Hastane ,yedizler konusunda başından sonuna kadar doğru yerde bulunmuştur .</sentence>
+<sentence num="10">Hasta haklarının 22 .maddesinde (hiçbir kişiye kendi istemeden tıbbi müdahale yapılamaz )denmektedir .</sentence>
+<sentence num="11">Hastayı ikna etmek için her türlü yola başvurulmuştur .</sentence>
+<sentence num="12">Tüm basın açıklamaları hastanın bilgisi dahilinde ve onayı alınarak yapılmıştır .</sentence>
+<sentence num="13">Uğradığımız haksızlıkla ilgili avukatlarımız gerekli incelemelerde bulunmaktadır .</sentence>
+<sentence num="14">Konuyla ilgili açıklama gelecek günlerde yapılacaktır .''</sentence>
+<sentence num="15">SAĞLIK MÜDÜRÜNÜN AÇIKLAMASI İzmir İl Sağlık Müdürü Levent Kıdak ,yaptığı açıklamada ,yediz bebeklerin ölümünün kamuoyuna yansıtılma şekliyle ilgili inceleme başlatıldığını söyledi .</sentence>
+<sentence num="16">Kıdak ,''Konunun kamuoyuna yansıtılma şekliyle ilgili ,Sağlık Bakanı Recep Akdağ'ın talimatları doğrultusunda sorumlular hakkında ,inceleme başlatıldı .</sentence>
+<sentence num="17">Konu her yönüyle incelenecek ve sonuç kamuoyuna açıklanacaktır ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>76792</id>
+<sentence num="0">2005 05 09 11 :59 :00 .Teşhirci doktor AKP'de görevli .</sentence>
+<sentence num="1">Sağlık Bakanlığı Müsteşarı Necdet Ünüvar ,İzmirli yedizlerin ölümünün tıbbi boyutu yanında etik boyutunun da olduğunu ifade etti .</sentence>
+<sentence num="2">Ünüver ,yeni TCK uygulamasının 2 ay ertelenmesini de değerlendirdi .</sentence>
+<sentence num="3">Ünüvar ,konuyla ilgili yapılan soruşturmanın kısa sürede tamamlanacağını söyledi .</sentence>
+<sentence num="4">Necdet Ünüvar ,TBMM Sağlık ,Aile ,Çalışma ve Sosyal İşler Komisyonu Başkanı Cevdet Erdöl ,komisyon üyeleri ile birlikte Adalet Komisyonu Başkanı Köksal Toptan'ı ziyaret etti .</sentence>
+<sentence num="5">Yeni Türk Ceza Kanunu'nun yasalaşma sürecinde ,hekimlerin daha rahat ortamda görev yapabilmeleri için gerekli yasal düzenlemelerin hayata geçirilmesi gerektiğini belirten Ünüvar ,''İcrada muallakta kalan noktaları görüşüp ,yasal düzenlemelerin bu yönde yapılmasını isteyeceğiz .</sentence>
+<sentence num="6">Yapılabilecek yasal düzenlemelerle Türk hekimleri ,mesleklerinin icrasını daha rahat bir ortamda yapabilecek ''diye konuştu .</sentence>
+<sentence num="7">TBMM Adalet Komisyonu Başkanı Toptan ,yeni TCK'nin uygulamasının 2 ay ertelenmesinin ,bazı eksiklik ve eleştirilerin giderilmesine fırsat olduğunu söyledi .</sentence>
+<sentence num="8">Yeni TCK'nin Bazı Maddelerinde Değişiklik Yapılmasına Dair Yasa Teklifi'nin alt komisyonda görüşüldüğünü belirten Toptan ,düzenlemenin hafta sonuna kadar ana komisyonda ,bir hafta sonra da Genel Kurul'da görüşüleceğini kaydetti .</sentence>
+<sentence num="9">YEDİZLERİN ÖLÜMÜ ...</sentence>
+<sentence num="10">İzmirli yedizlerin ölümü konusunda soruları cevaplandıran Sağlık Bakanlığı Müsteşarı Ünüvar ,yedizlerin ölümünün kamuoyuna yansıtılma şeklinin tepkilere neden olduğunu söyledi .</sentence>
+<sentence num="11">Konuyla ilgili Sağlık Bakanı Recep Akdağ'ın talimatıyla hemen soruşturma başlatıldığını anımsatan Ünüvar ,''Konunun tıbbi boyutunun yanı sıra etik boyutu da var .</sentence>
+<sentence num="12">Konu her yönüyle incelenecek .</sentence>
+<sentence num="13">Soruşturma kısa sürede tamamlanacak ''dedi .</sentence>
+<sentence num="14">Köksal Toptan ise ''özen gösterilmesi gereken bir konunun çirkin ve yakışıksız aksettirildiğini ''söyledi .</sentence>
+<sentence num="15">Cenin görüntüleriyle çocukların ve büyüklerin afişe edilmesinin yanlış olduğunu vurgulayan Toptan ,''Eğer konu reklam amaçlı kullanılmışsa ,çok vahim bir durum ortaya çıkar ''diye konuştu .</sentence>
+<sentence num="16">AKP'de görevli Sahibi olduğu hastanenin reklamını yapmak için annelerinin karnında ölen 7 ceninle basına poz veren Dr .Özer Gürbüz ,AKP'nin İzmir İl Başkan Yardımcısı .</sentence>
+<sentence num="17">İl Örgütü'nde 'Sosyal İşlerden Sorumlu İl Başkan Yardımcısı 'görevinde bulunan Dr .Gürbüz ,AKP'nin web sitesindeki özgeçmişinde Central Hospital'ın sahibi olarak görülüyor .</sentence>
+<sentence num="18">1959 Manisa doğumlu Gürbüz ,İzmir Sağlık Kuruluşları Derneği ,İzmir Tıp Odası Derneği'nin de üyesi .</sentence>
+<sentence num="19">hürriyet .</sentence>
+</doc>
+<doc>
+<id>76796</id>
+<sentence num="0">2005 05 09 12 :00 :00 .Yedizlerin teşhiri ile ilgili soruşturma kısa sürede sonuçlanacak .</sentence>
+<sentence num="1">Sağlık Bakanlığı Müsteşarı Necdet Ünüvar ,İzmirli yedizlerin ölümünün tıbbi boyutu yanında etik boyutunun da olduğunu bildirdi .</sentence>
+<sentence num="2">Ünüvar ,konuyla ilgili yapılan soruşturmanın kısa sürede tamamlanacağını söyledi .</sentence>
+<sentence num="3">Necdet Ünüvar ,TBMM Sağlık ,Aile ,Çalışma ve Sosyal İşler Komisyonu Başkanı Cevdet Erdöl ,komisyon üyeleri ile birlikte Adalet Komisyonu Başkanı Köksal Toptan'ı ziyaret etti .</sentence>
+<sentence num="4">Yeni Türk Ceza Kanunu'nun yasalaşma sürecinde ,hekimlerin daha rahat ortamda görev yapabilmeleri için gerekli yasal düzenlemelerin hayata geçirilmesi gerektiğini belirten Ünüvar ,İcrada muallakta kalan noktaları görüşüp ,yasal düzenlemelerin bu yönde yapılmasını isteyeceğiz .</sentence>
+<sentence num="5">Yapılabilecek yasal düzenlemelerle Türk hekimleri ,mesleklerinin icrasını daha rahat bir ortamda yapabilecek diye konuştu .</sentence>
+<sentence num="6">TBMM Adalet Komisyonu Başkanı Toptan ,yeni TCK'nin uygulamasının 2 ay ertelenmesinin ,bazı eksiklik ve eleştirilerin giderilmesine fırsat olduğunu söyledi .</sentence>
+<sentence num="7">Yeni TCK'nin Bazı Maddelerinde Değişiklik Yapılmasına Dair Yasa Teklifi'nin alt komisyonda görüşüldüğünü belirten Toptan ,düzenlemenin hafta sonuna kadar ana komisyonda ,bir hafta sonra da Genel Kurul'da görüşüleceğini kaydetti .</sentence>
+<sentence num="8">YEDİZLERİN ÖLÜMÜ ...</sentence>
+<sentence num="9">İzmirli yedizlerin ölümü konusunda soruları cevaplandıran Sağlık Bakanlığı Müsteşarı Ünüvar ,yedizlerin ölümünün kamuoyuna yansıtılma şeklinin tepkilere neden olduğunu söyledi .</sentence>
+<sentence num="10">Konuyla ilgili Sağlık Bakanı Recep Akdağ'ın talimatıyla hemen soruşturma başlatıldığını anımsatan Ünüvar ,Konunun tıbbi boyutunun yanı sıra etik boyutu da var .</sentence>
+<sentence num="11">Konu her yönüyle incelenecek .</sentence>
+<sentence num="12">Soruşturma kısa sürede tamamlanacak dedi .</sentence>
+<sentence num="13">Köksal Toptan ise özen gösterilmesi gereken bir konunun çirkin ve yakışıksız aksettirildiğini söyledi .</sentence>
+<sentence num="14">Cenin görüntüleriyle çocukların ve büyüklerin afişe edilmesinin yanlış olduğunu vurgulayan Toptan ,Eğer konu reklam amaçlı kullanılmışsa ,çok vahim bir durum ortaya çıkar diye konuştu .</sentence>
+</doc>
+<doc>
+<id>76870</id>
+<sentence num="0">2005 05 09 13 :53 :00 .AK Partili Ergin :Ceninlerin gösterilmesini tasvip etmemiz mümkün değil .</sentence>
+<sentence num="1">AK Partili Ergin :Ceninlerin gösterilmesini tasvip etmemiz mümkün değil AK Parti Grup Başkanvekili Sadullah Ergin ,İzmir'de yediz ceninleri basına gösteren doktorun partisinin İzmir İl Yönetim Kurulu üyesi olduğunu belirterek ,''Bu ,siyasi mülahazaların dışında değerlendirilmesi gereken hassas bir konu ...</sentence>
+<sentence num="2">Tasvip etmemiz mümkün değil .</sentence>
+<sentence num="3">Siyasi ve etik açıdan gerekli tahkikat yapılmaya başlanmıştır ''dedi .</sentence>
+</doc>
+<doc>
+<id>76892</id>
+<sentence num="0">2005 05 09 14 :25 :00 .Yedizlerin ölümünün etik boyutu .</sentence>
+<sentence num="1">Ölen yedizler İzmir Aliağa'da toprağa verildi Sağlık Bakanlığı Müsteşarı Necdet Ünüvar ,İzmirli yedizlerin ölümünün tıbbi boyutu yanında etik boyutunun da olduğunu söyledi .</sentence>
+<sentence num="2">Konuyla ilgili yapılan soruşturmanın kısa sürede tamamlanacağını belirten Ünüvar ,TBMM Sağlık ,Aile ,Çalışma ve Sosyal İşler Komisyonu Başkanı Cevdet Erdöl ,komisyon üyeleri ile birlikte Adalet Komisyonu Başkanı Köksal Toptan'ı ziyaret etti .</sentence>
+<sentence num="3">Ünüvar ,yedizlerin ölümünün kamuoyuna yansıtılma şeklinin tepkilere neden olduğunu vurgulayarak ,konuyla ilgili Sağlık Bakanı Recep Akdağ'ın talimatıyla hemen soruşturma başlatıldığını anımsattı .</sentence>
+<sentence num="4">Bakanlık Müsteşarı Ünüvar ,''konunun tıbbi boyutunun yanı sıra etik boyutu da var .</sentence>
+<sentence num="5">Konu her yönüyle incelenecek .</sentence>
+<sentence num="6">Soruşturma kısa sürede tamamlanacak ''diye konuştu .</sentence>
+<sentence num="7">AKP'den 'doktor üyemiz 'açıklama AKP Grup Başkanvekili Sadullah Ergin ,İzmir'de yediz ceninleri basına gösteren Dr .Özer Gürbüz'ün AKP İzmir İl Yönetim Kurulu üyesi olduğunu söyledi .</sentence>
+<sentence num="8">Hakkında soruşturma açılan doktorun AKP İzmir İl Başkan yardımcısı olmadığını vurgulayan Ergin ,görüntünün kamuoyunu rahatsız ettiğini söyledi .</sentence>
+<sentence num="9">Ergin ,kamu vicdanı bu görüntüleri kabul etmedi .</sentence>
+<sentence num="10">Bu hadise ,kamu vicdanında mahkum edilmiştir .</sentence>
+<sentence num="11">Sağlık Bakanlığı ,etik açıdan ve bakanlığın kendi işleyişi açısından soruşturma başlatmıştır dedi .</sentence>
+<sentence num="12">Yedizlerin ölümü yakışıksız aksettirildi Köksal Toptan ise 'özen gösterilmesi gereken bir konunun çirkin ve yakışıksız aksettirildiğini 'söyledi .</sentence>
+<sentence num="13">Cenin görüntüleriyle çocukların ve büyüklerin afişe edilmesinin yanlış olduğunun altını çizen Toptan ,''eğer konu reklam amaçlı kullanılmışsa ,çok vahim bir durum ortaya çıkar ''ifadesini kullandı .</sentence>
+<sentence num="14">Aşırı kanama yedizlerin sonu oldu İzmir'de yediz bebek bekleyen Sibel Deniz ,hamileliğinin 19'uncu haftasında ,aşırı kanama sonucu bütün bebeklerini geçtiğimiz cumartesi günü kaybetti .</sentence>
+<sentence num="15">Bir süredir hastanede tedavi altında tutulan Sibel Deniz'in kanaması gece başladı .</sentence>
+<sentence num="16">Doktorlar hemen müdahale etti .</sentence>
+<sentence num="17">Ancak bebeklerden biri düşük olarak dünyaya geldi .</sentence>
+<sentence num="18">10 dakika yaşadıktan sonra da öldü .</sentence>
+<sentence num="19">Tehlike bununla da sınırlı kalmadı .</sentence>
+<sentence num="20">İki saat sonra annenin hayati tehlikesi baş gösterince ,bu kez diğer bebekler sezaryenle alındı .</sentence>
+<sentence num="21">Bu bebekler de bir süre yaşadıktan sonra öldü .</sentence>
+<sentence num="22">Sibel Deniz'in doktoru Özer Gürbüz ,annenin riskler konusunda daha önceden bilgilendirildiğini ve bu olayda herhangi bir sürpriz olmadığını söyledi .</sentence>
+</doc>
+<doc>
+<id>76967</id>
+<sentence num="0">2005 05 09 16 :01 :00 .Ceninlerin Basına Teşhiri .</sentence>
+<sentence num="1">AK Parti Grup Başkanvekili Sadullah Ergin ,İzmir'de yediz ceninleri basına gösteren doktorun partisinin İzmir İl Yönetim Kurulu üyesi olduğunu belirterek ,Ancak kim olursa olsun bu olayı tasvip etmemiz mümkün değildir .</sentence>
+<sentence num="2">dedi .</sentence>
+<sentence num="3">Sadullah Ergin ,Meclis'te düzenlediği basın toplantısında ,ceninleri basına gösteren doktorun partisiyle bağlantısına açıklık getirdi .</sentence>
+<sentence num="4">Ergin ,yönetim kurulu üyesi olur ,üye olur üye olmaz bu tamamen siyasi mülahazaların dışında değerlendirilmesi gereken hassas bir konu .</sentence>
+<sentence num="5">İnsanların duyguları ,bu konudaki hassasiyetleri dikkate alınmadan yapılmış bir yayındır ,dolayısıyla tasvip etmemiz mümkün değil .''</sentence>
+<sentence num="6">Sadullah Ergin ,siyasi ve etik açıdan gerekli tahkikatın yapılmaya başlandığını kaydetti .</sentence>
+</doc>
+<doc>
+<id>77185</id>
+<sentence num="0">2005 05 10 01 :39 :00 .Yedizlerle poz veren doktora soruşturma .</sentence>
+<sentence num="1">Yedizler geçtiğimiz cumartesi günü hayatını kaybetti Yedi ölü ceninle basına poz veren doktor ,mercek altına alındı .</sentence>
+<sentence num="2">Doktor Özer Gürbüz hakkında hem Sağlık Bakanlığı hem de İzmir Tabip Odası soruşturma başlattı .</sentence>
+<sentence num="3">Yedi ölü ceninle basına poz veren doktoru Sağlık Bakanı da etik bulmadı .</sentence>
+<sentence num="4">Görüntüleri yakışıksız bulduğunu söyleyen Sağlık Bakanı Recep Akdağ ,doktor Özer Gürbüz hakkında soruşturma başlattı .</sentence>
+<sentence num="5">Sağlık Bakanlığı'nın soruşturmasının ardından İzmir Tabip Odası da harekete geçti ve ikinci bir soruşturma açtı .</sentence>
+<sentence num="6">Siyasi olarak değerlendirilmesin Doktor Özer Gürbüz aynı zamanda Adalet ve Kalkınma Partisi İzmir İl Yönetim Kurulu üyesi .</sentence>
+<sentence num="7">İşte bu nedenle konu AKP'nin de gündeminde .</sentence>
+<sentence num="8">AKP Grup Başkanvekili Sadullah Ergin ,olayın siyasi açıdan değerlendirilmemesini istedi .</sentence>
+<sentence num="9">Ergin ,doktorun kamu vicdanında mahkum edildiği görüşünü dile getirdi .</sentence>
+<sentence num="10">Ergin ,parti tüzüğü gereği konuyla ilgili olarak İl Disiplin Kurulu ve Genel Merkez Disiplin Kurulu'nun tasarrufta bulunma yetkisi olduğunu da söyledi .</sentence>
+<sentence num="11">Aşırı kanama sonları oldu İzmir'de yediz bebek bekleyen Sibel Deniz ,hamileliğinin 19'uncu haftasında ,aşırı kanama sonucu bütün bebeklerini geçtiğimiz cumartesi günü kaybetti .</sentence>
+<sentence num="12">Bir süredir hastanede tedavi altında tutulan Sibel Deniz'in kanaması gece başladı .</sentence>
+<sentence num="13">Doktorlar hemen müdahale etti ancak bebeklerden biri düşük olarak dünyaya geldi ;10 dakika yaşadıktan sonra da öldü .</sentence>
+<sentence num="14">Tehlike bununla da sınırlı kalmadı .</sentence>
+<sentence num="15">İki saat sonra annenin hayati tehlikesi baş gösterince ,bu kez diğer bebekler sezaryenle alındı .</sentence>
+<sentence num="16">Bu bebekler de bir süre yaşadıktan sonra öldü .</sentence>
+<sentence num="17">Sibel Deniz'in doktoru Özer Gürbüz ,annenin riskler konusunda daha önceden bilgilendirildiğini ve bu olayda herhangi bir sürpriz olmadığını söyledi .</sentence>
+<sentence num="18">Etik boyut önemli Sağlık Bakanlığı Müsteşarı Necdet Ünüvar ,dün İzmirli yedizlerin ölümünün tıbbi boyutu yanında etik boyutunun da olduğunu söylemişti .</sentence>
+</doc>
+<doc>
+<id>77187</id>
+<sentence num="0">2005 05 10 01 :49 :00 .Yedizlerin doktoruna soruşturma .</sentence>
+<sentence num="1">Yedi ölü ceninle basına poz veren doktoru Sağlık Bakanı da etik bulmadı .</sentence>
+<sentence num="2">Görüntüleri yakışıksız bulduğunu söyleyen Sağlık Bakanı Recep Akdağ ,doktor Özer Gürbüz hakkında soruşturma başlattı .</sentence>
+<sentence num="3">Sağlık Bakanlığı'nın soruşturmasının ardından İzmir Tabip Odası da harekete geçti ve ikinci bir soruşturma açtı .</sentence>
+<sentence num="4">Siyasi olarak değerlendirilmesin Doktor Özer Gürbüz aynı zamanda Adalet ve Kalkınma Partisi İzmir İl Yönetim Kurulu üyesi .</sentence>
+<sentence num="5">İşte bu nedenle konu AKP'nin de gündeminde .</sentence>
+<sentence num="6">AKP Grup Başkanvekili Sadullah Ergin ,olayın siyasi açıdan değerlendirilmemesini istedi .</sentence>
+<sentence num="7">Ergin ,doktorun kamu vicdanında mahkum edildiği görüşünü dile getirdi .</sentence>
+<sentence num="8">Ergin ,parti tüzüğü gereği konuyla ilgili olarak İl Disiplin Kurulu ve Genel Merkez Disiplin Kurulu'nun tasarrufta bulunma yetkisi olduğunu da söyledi .</sentence>
+<sentence num="9">Aşırı kanama sonları oldu İzmir'de yediz bebek bekleyen Sibel Deniz ,hamileliğinin 19'uncu haftasında ,aşırı kanama sonucu bütün bebeklerini geçtiğimiz cumartesi günü kaybetti .</sentence>
+<sentence num="10">Bir süredir hastanede tedavi altında tutulan Sibel Deniz'in kanaması gece başladı .</sentence>
+<sentence num="11">Doktorlar hemen müdahale etti ancak bebeklerden biri düşük olarak dünyaya geldi ;10 dakika yaşadıktan sonra da öldü .</sentence>
+<sentence num="12">Tehlike bununla da sınırlı kalmadı .</sentence>
+<sentence num="13">İki saat sonra annenin hayati tehlikesi baş gösterince ,bu kez diğer bebekler sezaryenle alındı .</sentence>
+<sentence num="14">Bu bebekler de bir süre yaşadıktan sonra öldü .</sentence>
+<sentence num="15">Sibel Deniz'in doktoru Özer Gürbüz ,annenin riskler konusunda daha önceden bilgilendirildiğini ve bu olayda herhangi bir sürpriz olmadığını söyledi .</sentence>
+<sentence num="16">Etik boyut önemli Sağlık Bakanlığı Müsteşarı Necdet Ünüvar ,dün İzmirli yedizlerin ölümünün tıbbi boyutu yanında etik boyutunun da olduğunu söylemişti .</sentence>
+<sentence num="17">CNNTURK .</sentence>
+</doc>
+<doc>
+<id>77263</id>
+<sentence num="0">2005 05 10 09 :35 :00 .Diyanet :Gebeliğe ancak anne sağlığı tehlikede ise son verilebilir .</sentence>
+<sentence num="1">Diyanet İşleri Başkanlığı ,gebeliğe son verilmesinin ,yalnızca ,anne sağlığının tehlikede olduğu durumlarda son verilebileceği yönünde görüş bildirdi .</sentence>
+<sentence num="2">Tüp bebek yöntemiyle hamile kalan Sibel Deniz'in yediz bebekleri son haftalarda Türkiye'nin gündemine oturmuştu .</sentence>
+<sentence num="3">Ancak Deniz'in anneler gününden bir gün önce 7 bebeğini birden kaybetmesi Bebeklerden birkaçı zamanında aldırılsaydı yine bu sonuç yaşanır mıydı ?</sentence>
+<sentence num="4">sorusunu akıllara getirdi .</sentence>
+<sentence num="5">Diyanet İşleri Başkanlığı ise annenin hayatının kurtarılması dışında herhangi bir nedenle gebeliğe son vermenin (kürtaj )haram ve cinayet hükmünde olduğunu savunurken ,Gebeliği önleyici tedbirlere başvurarak doğumu kontrol altında bulundurmak ,istenmeyen gebeliğe engel olmak dinen caiz ise de gebelikten sonra ,annenin hayati tehlikesi ve benzeri kesin ve meşru bir zaruret olmadıkça çocuğu düşürmek veya aldırmak (kürtaj )caiz değildir görüşünü belirtti .</sentence>
+<sentence num="6">İlahiyatçıların bu konuda referans olarak aldığı İmam Gazali'ye göre de aile planlamasının kabul edilemeyeceği iki durum bulunuyor .</sentence>
+<sentence num="7">Bunlardan ilkini kız çocuğu sahibi olmak istenmemesi ,diğerini de kadının hamile kalmaktan ve süt emzirmekten hoşlanmaması oluşturuyor .</sentence>
+</doc>
+<doc>
+<id>77389</id>
+<sentence num="0">2005 05 10 12 :00 :00 .Yedizleri teşhir doktor AKP'den ihraç ediliyor ...</sentence>
+<sentence num="1">İzmir'de hayatını kaybeden yediz bebekleri teşhir ederek büyük tepki toplayan özel bir hastanenin başhekimi Özer Gürbüz ,üyesi olduğu AKP'den ihraç ediliyor .</sentence>
+<sentence num="2">AK Parti Merkez Karar Yürütme Kurulu ,İzmir'de özel bir hastanenin başhekimi Özer Gürbüz'ü ölen yediz bebekleri teşhir ettiği için AKP İzmir İl Yönetimi'nden ihraç etmek amacıyla disiplin kuruluna sevketti .</sentence>
+<sentence num="3">Dün akşam toplanan AKP Merkez Yönetim Kurulu üyeleri ,özel bir hastanede başhekim olarak çalışan Dr .Özer Gürbüz'ün tavrına sert tepki gösterdi .</sentence>
+<sentence num="4">Başbakan Recep Tayyip Erdoğan da ,Gürbüz'ün ihraç istemiyle parti disiplin kuruluna sevk edilmesini istedi .</sentence>
+<sentence num="5">Başbakan Erdoğan ,Özer Gürbüz'ün bu davranışının parti ilkeleriyle bağdaşmadığını belirterek ,'Yaptığı saçmalık .</sentence>
+<sentence num="6">Toplumun hassasiyetlerini göz ardı etmiştir .</sentence>
+<sentence num="7">Böyle bir şey olmaz ,hemen ihraç edin 'dedi .</sentence>
+<sentence num="8">AKP Grup Başkanvekili Sadullah Ergin ,dün olayın siyasi açıdan değerlendirilmemesini istemiş ve doktorun kamu vicdanında mahkum edildiği görüşünü dile getirmişti .</sentence>
+<sentence num="9">Ergin ,parti tüzüğü gereği konuyla ilgili olarak İl Disiplin Kurulu ve Genel Merkez Disiplin Kurulu'nun tasarrufta bulunma yetkisi olduğunu da söylemişti .</sentence>
+<sentence num="10">İki soruşturma birden Yedi ölü ceninle basına poz veren doktor ,mercek altına alındı .</sentence>
+<sentence num="11">Doktor Özer Gürbüz hakkında hem Sağlık Bakanlığı hem de İzmir Tabip Odası soruşturma başlattı .</sentence>
+<sentence num="12">Sağlık Bakanlığı ,yedizlerin cansız bedenlerinin 'Central Hospital 'yazısıyla birlikte medyaya teşhir edilmesi üzerine dün soruşturma başlattı .</sentence>
+<sentence num="13">İzmirli Sibel Deniz'in yediz bebeklerini kaybetmesinin ardından tedavi gördüğü Central Hospital'ın ceninleri teşhir etmesi büyük tepki çekmişti .</sentence>
+<sentence num="14">Sağlık Bakanlığı Teftiş Kurulu Başkanlığı da ,yedizlerin hayatını kaybetmesi ve Central Hospital'ın bebeklerin görüntülerini yansıtma şekliyle ilgili inceleme ve soruşturma başlattı .</sentence>
+<sentence num="15">Bakanlıktan yapılan açıklamada ,soruşturma sonuçlarına göre gerekli işlemlerin yapılacağı belirtildi .</sentence>
+<sentence num="16">Açıklamada ,bebeklerin görüntülerinin yayımlanmasıyla ilgili Radyo Televizyon Üst Kurulu'na da başvuru yapılacağı vurgulandı .</sentence>
+<sentence num="17">Sağlık Bakanlığı'nın soruşturmasının ardından İzmir Tabip Odası da harekete geçti ve ikinci bir soruşturma açtı .</sentence>
+<sentence num="18">Başhekime ceza verilecek mi ?</sentence>
+<sentence num="19">İstanbul Tabip Odası Basın Sözcüsü Dr .Osman Öztürk ,ceninleri teşhir eden Başhekim Gürbüz'le ilgili hukuki süreçle ilgili şu bilgileri verdi :Yönetim Kurulu incelemeyi yapıp soruşturmayı açar .</sentence>
+<sentence num="20">Gerek görülürse Onur Kurulu'na sevk edilir .</sentence>
+<sentence num="21">Ceza verilip verilmeyeceğine Onur Kurulu karar verir .</sentence>
+<sentence num="22">Uyarı ,para cezası ve meslekten men gibi cezalar var .</sentence>
+<sentence num="23">Etik ilkelere aykırı davranıldığına kanaat getirilirse meslekten men cezası verilebilir .</sentence>
+<sentence num="24">Doktorun davranışı reklam gibi değerlendirilirse para cezası uygulanabilir .</sentence>
+<sentence num="25">Çünkü sağlıkta her türlü reklam suçtur .</sentence>
+<sentence num="26">Ancak bu olay etik olmamanın ötesinde insanın kanını donduruyor .</sentence>
+<sentence num="27">Neler olmuştu ?</sentence>
+<sentence num="28">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in doktoru ve Central Hospital Başhekimi Özer Gürbüz ,bebeklerin birinin düşükle ,kalan 6'sının da sezaryenle dünyaya getirildiğini ,ancak hepsinin ortalama 10'ar dakika yaşadıktan sonra öldüğünü bildirmişti .</sentence>
+<sentence num="29">Ancak Başhekim ,basın toplantısında ,Sibel Deniz'in Anneler Günü arifesinde düşürdüğü ceninleri masanın üzerine yerleştirip basına göstererek şaşırtmıştı .</sentence>
+<sentence num="30">Bir eli cebinde önünde 7 ceninle olayı anlatan Başhekimin rahat tavırları fotoğrafı görenleri dehşete düşürmüş ,ceninlerin konulduğu masanın üstüne hastanenin adı Central Hospital yazısının yerleştirildiği de dikkatlerden kaçmamıştı .</sentence>
+</doc>
+<doc>
+<id>77393</id>
+<sentence num="0">2005 05 10 12 :05 :00 .AKP doktoru ihraç ediyor .</sentence>
+<sentence num="1">Yedizler ,İzmir'de Aliağa Belediyesi Mezarlığı'nda defnedildi Yediz ceninleri teşhir etmekle suçlanan AKP İzmir İl Yönetim Kurulu üyesi Doktor Özer Gürbüz ,partiden ihraç istemiyle disiplin kuruluna verilecek .</sentence>
+<sentence num="2">AK Parti İzmir İl Başkanı Ali Aşlık ,Central Hospital Hastanesi Başhekimi ve AK Parti İzmir İl Yönetim Kurulu Üyesi Dr .Özer Gürbüz'ün ,İzmirli yedizlerin ölümündeki tutumunun siyasi bir konu olmadığını belirterek ,aynı zamanda bir hukukçu olarak açılan soruşturmaların sonucunun beklenmesi gerektiğine inanıyorum ''dedi .</sentence>
+<sentence num="3">Aşlık ,ceninlerin görüntülerinin basına verilmesi konusundaki tepkiler üzerine bazı gazetelerde bugün yer alan parti yönetiminin de Dr .Özer Gürbüz'ü cezalandırılacağı yolundaki iddialar konusunda bilgisi olmadığını söyledi .</sentence>
+<sentence num="4">Aşlık ,''Dr .Gürbüz ,yönetim kurulu üyesidir .</sentence>
+<sentence num="5">Bu konuda karar yetkisi de Genel Merkezindir ''dedi .</sentence>
+<sentence num="6">Dr .Özer Gürbüz ile bu konu hakkında bir görüşmeleri olmadığını da kaydeden Aşlık ,''bu siyasi değil ,tamamen mesleki bir problemdir ''diye konuştu .</sentence>
+<sentence num="7">Yönetim kurulu üyelerinden doktora tepki Dün akşam toplanan AKP Merkez Yönetim Kurulu üyeleri ,özel bir hastanede başhekim olarak çalışan Dr .Özer Gürbüz'ün tavrına sert tepki gösterdi .</sentence>
+<sentence num="8">Başbakan Recep Tayyip Erdoğan da ,Gürbüz'ün ihraç istemiyle parti disiplin kuruluna sevk edilmesini istedi .</sentence>
+<sentence num="9">Yediz bebek bekleyen Sibel Deniz hamileliğinin 19'uncu haftasında kanama geçirdiği için bebeklerini kaybetmişti .</sentence>
+<sentence num="10">Olaydan sonra yediz ceninlerle basın karşısına çıkan Dr .Özer Gürbüz hakkında Sağlık Bakanlığı tarafından soruşturma başlatıldı .</sentence>
+<sentence num="11">Gürbüz ,ceninleri teşhir ederken hastanenin logosu da dikkatlerden kaçmamıştı .</sentence>
+<sentence num="12">Sağlık Bakanlığı Müsteşarı Necdet Ünüvar ,İzmirli yedizlerin ölümünün tıbbi boyutu yanında etik boyutunun da olduğunu açıklamıştı .</sentence>
+<sentence num="13">Ünüvar ,yedizlerin ölümünün kamuoyuna yansıtılma şeklinin tepkilere neden olduğunu vurgulayarak ,konuyla ilgili Sağlık Bakanı Recep Akdağ'ın talimatıyla hemen soruşturma başlatıldığını belirtmişti .</sentence>
+<sentence num="14">AKP'den yediz açıklaması AKP Grup Başkanvekili Sadullah Ergin de ,dün yaptığı açıklamada İzmir'de yediz ceninleri basına gösteren Dr .Özer Gürbüz'ün AKP İzmir İl Başkan yardımcısı olmadığını söylemişti .</sentence>
+<sentence num="15">Hakkında soruşturma açılan doktorun AKP İzmir İl Yönetim Kurulu üyesi olduğunu hatırlatan Ergin ,görüntünün kamuoyunu rahatsız ettiğini belirtmişti .</sentence>
+<sentence num="16">Ergin ,kamu vicdanı bu görüntüleri kabul etmedi .</sentence>
+<sentence num="17">Bu hadise ,kamu vicdanında mahkum edilmiştir .</sentence>
+<sentence num="18">Sağlık Bakanlığı ,etik açıdan ve bakanlığın kendi işleyişi açısından soruşturma başlatmıştır demişti .</sentence>
+<sentence num="19">Köksal Toptan da tepki göstermişti AKP'li Köksal Toptan da ,özen gösterilmesi gereken bir konunun çirkin ve yakışıksız aksettirildiğini söylemişti .</sentence>
+<sentence num="20">Cenin görüntüleriyle çocukların ve büyüklerin afişe edilmesinin yanlış olduğunun altını çizen Toptan ,''eğer konu reklam amaçlı kullanılmışsa ,çok vahim bir durum ortaya çıkar ''demişti .</sentence>
+<sentence num="21">Hastane suçlamaları kabul etmemişti Aşılama yöntemiyle hamile kaldığı yediz bebeklerini kaybeden Sibel Deniz'in tedavi gördüğü Central Hospital ,teşhir olayının ardından bir açıklama yaparak ,yedizlerle ilgili reklam yapılmadığını belirtmişti .</sentence>
+<sentence num="22">Hastaneden yapılan yazılı açıklamada ,basın toplantısında ceninlerin gösterilmediği savunularak ,''basın toplantısı bittikten sonra bazı gazeteciler ,yediz bebeklerle ilgili ellerinde ultrason görüntülerinden başka bir veri olmadığını ,yediz gebeliği ispat etmek için ve zaten RTÜK nedeniyle yayınlayamayacaklarını söyleyerek ,yedizleri görmek istediklerini belirtmişlerdir denilmişti .</sentence>
+<sentence num="23">Açıklamada ,Dr .Özer Gürbüz ,yayınlanmamak kaydıyla daha önce kendi arşivinde kullanmak ve bilimsel yayın yapmak amacıyla hazırlayıp ,görüntü aldığı ceninleri ,basın toplantısı bittikten sonra annelerinden izin alarak göstermeyi kabul etmiştir .</sentence>
+<sentence num="24">Ceninlerin yanındaki 'Central Hospital 'yazısı reklam amaçlı değil ,arşiv amaçlıdır ''denilmişti .</sentence>
+<sentence num="25">Aşırı kanama yedizlerin sonu oldu İzmir'de yediz bebek bekleyen Sibel Deniz ,hamileliğinin 19'uncu haftasında ,aşırı kanama sonucu bütün bebeklerini kaybetti .</sentence>
+<sentence num="26">Bir süredir hastanede tedavi altında tutulan Sibel Deniz'in kanaması başladıktan sonra doktorlar hemen müdahale etti .</sentence>
+<sentence num="27">Ancak bebeklerden biri düşük olarak dünyaya geldi .</sentence>
+<sentence num="28">10 dakika yaşadıktan sonra da öldü .</sentence>
+<sentence num="29">Tehlike bununla da sınırlı kalmadı .</sentence>
+<sentence num="30">İki saat sonra annenin hayati tehlikesi baş gösterince ,bu kez diğer bebekler sezaryenle alındı .</sentence>
+<sentence num="31">Bu bebekler de bir süre yaşadıktan sonra öldü .</sentence>
+<sentence num="32">Sibel Deniz'in doktoru Özer Gürbüz ,annenin riskler konusunda daha önceden bilgilendirildiğini ve bu olayda herhangi bir sürpriz olmadığını söylemişti .</sentence>
+</doc>
+<doc>
+<id>77405</id>
+<sentence num="0">2005 05 10 12 :20 :00 .AK Parti doktoru ihraç ediyor .</sentence>
+<sentence num="1">Dün akşam toplanan AKP Merkez Yönetim Kurulu üyeleri ,özel bir hastanede çalışan Dr .Özer Gürbüz'ün tavrına sert tepti gösterdi .</sentence>
+<sentence num="2">Başbakan Recep Tayyip Erdoğan da ,Gürbüz'ün ihraç istemiyle parti disiplin kuruluna sevk edilmesini istedi .</sentence>
+<sentence num="3">Yediz bebek bekleyen Sibel Deniz hamileliğinin 19'uncu haftasında kanama geçirdiği için bebeklerini kaybetmişti .</sentence>
+<sentence num="4">Olaydan sonra hastanenin logosunun da üzerinde yer aldığı ,yediz ceninleri gösteren bir fotoğrafla basın karşısına çıkan Dr .Özer Gürbüz hakkında Sağlık Bakanlığı tarafından soruşturma başlatıldı .</sentence>
+<sentence num="5">Sağlık Bakanlığı Müsteşarı Necdet Ünüvar ,İzmirli yedizlerin ölümünün tıbbi boyutu yanında etik boyutunun da olduğunu açıklamıştı .</sentence>
+<sentence num="6">Ünüvar ,yedizlerin ölümünün kamuoyuna yansıtılma şeklinin tepkilere neden olduğunu vurgulayarak ,konuyla ilgili Sağlık Bakanı Recep Akdağ'ın talimatıyla hemen soruşturma başlatıldığını belirtmişti .</sentence>
+<sentence num="7">AKP'den yediz açıklaması AKP Grup Başkanvekili Sadullah Ergin de ,dün yaptığı açıklamada İzmir'de yediz ceninleri basına gösteren Dr .Özer Gürbüz'ün AKP İzmir İl Başkan yardımcısı olmadığını söylemişti .</sentence>
+<sentence num="8">Hakkında soruşturma açılan doktorun AKP İzmir İl Yönetim Kurulu üyesi olduğunu hatırlatan Ergin ,görüntünün kamuoyunu rahatsız ettiğini belirtmişti .</sentence>
+<sentence num="9">Ergin ,kamu vicdanı bu görüntüleri kabul etmedi .</sentence>
+<sentence num="10">Bu hadise ,kamu vicdanında mahkum edilmiştir .</sentence>
+<sentence num="11">Sağlık Bakanlığı ,etik açıdan ve bakanlığın kendi işleyişi açısından soruşturma başlatmıştır demişti .(</sentence>
+<sentence num="12">CNN Türk ).</sentence>
+</doc>
+<doc>
+<id>78157</id>
+<sentence num="0">2005 05 11 14 :15 :00 .Olay doktor AKP'den istifa etti .</sentence>
+<sentence num="1">YEDİZ ceninleri teşhir ettiği için AKP'nin Merkez Karar Yürütme Kurulu tarafından ,kesin ihraç istemiyle Merkez Disiplin Kurulu'na sevk edilen AKP İzmir İl Yönetim Kurulu Üyesi ve Sosyal İlişkilerden Sorumlu İl Başkan Yardımcısı Opr .Dr .Özer Gürbüz ,partiden istifa etti .</sentence>
+<sentence num="2">Yediz ceninlerin yanı sıra 1994'te de yapışık ölü ikizleri teşhir ettiği anlaşılan ve eleştiri oklarının hedefi haline gelen Central Hospital Hastanesi Başhekimi Özer Gürbüz'in AKP'deki siyasi hayatı bitti .</sentence>
+<sentence num="3">Opr .Dr .Gürbüz ,Merkez Disiplin Kurulu kararını beklemeden istifa ett .AKP İzmir İl Başkanı Ali Aşlık ,Opr .Dr .Gürbüz'ün partiden istifasının dün akşam saatlerinde kendisine ulaştığını söyledi .</sentence>
+<sentence num="4">Aşlık ,istifayla ilgili değerlendirmede bulunmazken ,Opr .Dr .Gürbüz de herhangi bir açıkama yapmadı .</sentence>
+</doc>
+<doc>
+<id>78185</id>
+<sentence num="0">2005 05 11 14 :50 :00 .AK Parti'deki görevinden istifa etti .</sentence>
+<sentence num="1">YEDİZ ceninleri teşhir ettiği için AKP'nin Merkez Karar Yürütme Kurulu tarafından ,kesin ihraç istemiyle Merkez Disiplin Kurulu'na sevk edilen AKP İzmir İl Yönetim Kurulu Üyesi ve Sosyal İlişkilerden Sorumlu İl Başkan Yardımcısı Opr .Dr .Özer Gürbüz ,partiden istifa etti .</sentence>
+<sentence num="2">Yediz ceninlerin yanı sıra 1994'te de yapışık ölü ikizleri teşhir ettiği anlaşılan ve eleştiri oklarının hedefi haline gelen Central Hospital Hastanesi Başhekimi Özer Gürbüz'in AKP'deki siyasi hayatı bitti .</sentence>
+<sentence num="3">Opr .Dr .Gürbüz ,Merkez Disiplin Kurulu kararını beklemeden istifa etti .</sentence>
+<sentence num="4">AKP İzmir İl Başkanı Ali Aşlık ,Opr .Dr .Gürbüz'ün partiden istifasının dün akşam saatlerinde kendisine ulaştığını söyledi .</sentence>
+<sentence num="5">Aşlık ,istifayla ilgili değerlendirmede bulunmazken ,Opr .Dr .Gürbüz de herhangi bir açıkama yapmadı .</sentence>
+</doc>
+<doc>
+<id>78187</id>
+<sentence num="0">2005 05 11 14 :55 :00 .Yedizlerin doktoru AKP'den istifa etti .</sentence>
+<sentence num="1">Gürbüz hakkında açılan soruşmalar sürüyor Yediz ceninleri teşhir etmekle suçlanan Doktor Özer Gürbüz AKP İzmir yönetim kurulu üyeliğinden istifa etti .</sentence>
+<sentence num="2">Geçtiğimiz pazartesi günü toplanan AKP Merkez Yönetim Kurulu üyeleri ,Gürbüz'ün basın karşısına yedizlerle çıkmasına tepki göstermiş ve doktoru ihraç edilmesi istemiyle Disiplin Kurulu'na sevketmeyi kararlaştırmıştı .</sentence>
+<sentence num="3">Başbakan Recep Tayyip Erdoğan da ,Gürbüz'ün ihraç istemiyle parti disiplin kuruluna sevk edilmesini istemişti .</sentence>
+<sentence num="4">Gürbüz ,Merkez Disiplin Kurulu kararından önce AKP'ye istifasını verdi .</sentence>
+<sentence num="5">Yediz bebek bekleyen Sibel Deniz hamileliğinin 19'uncu haftasında kanama geçirdiği için bebeklerini kaybetmişti .</sentence>
+<sentence num="6">Olaydan sonra Gürbüz yediz ceninlerle basın karşısına çıkmıştı .</sentence>
+<sentence num="7">Gürbüz ,ceninleri teşhir ederken hastanenin logosu da dikkatlerden kaçmamıştı .</sentence>
+<sentence num="8">Dr .Özer Gürbüz hakkında Sağlık Bakanlığı tarafından soruşturma sürüyor .</sentence>
+<sentence num="9">Doktor hakkında İzmir Tabip Odası da soruşturma başlatmıştı .</sentence>
+<sentence num="10">Hastane reklam yapıldığını kabul etmemişti Aşılama yöntemiyle hamile kaldığı yediz bebeklerini kaybeden Sibel Deniz'in tedavi gördüğü Central Hospital ,teşhir olayının ardından bir açıklama yaparak ,yedizlerle ilgili reklam yapılmadığını belirtmişti .</sentence>
+<sentence num="11">Hastaneden yapılan yazılı açıklamada ,basın toplantısında ceninlerin gösterilmediği savunularak ,''basın toplantısı bittikten sonra bazı gazeteciler ,yediz bebeklerle ilgili ellerinde ultrason görüntülerinden başka bir veri olmadığını ,yediz gebeliği ispat etmek için ve zaten RTÜK nedeniyle yayınlayamayacaklarını söyleyerek ,yedizleri görmek istediklerini belirtmişlerdir denilmişti .</sentence>
+<sentence num="12">Açıklamada ,Dr .Özer Gürbüz ,yayınlanmamak kaydıyla daha önce kendi arşivinde kullanmak ve bilimsel yayın yapmak amacıyla hazırlayıp ,görüntü aldığı ceninleri ,basın toplantısı bittikten sonra annelerinden izin alarak göstermeyi kabul etmiştir .</sentence>
+<sentence num="13">Ceninlerin yanındaki 'Central Hospital 'yazısı reklam amaçlı değil ,arşiv amaçlıdır ''denilmişti .</sentence>
+<sentence num="14">Yedizlerin ölüm nedeni aşırı kanama Yediz bebek bekleyen Sibel Deniz ,hamileliğinin 19'uncu haftasında ,aşırı kanama sonucu bütün bebeklerini geçtiğimiz cumartesi kaybetmişti .</sentence>
+<sentence num="15">Bebeklerden biri düşük olarak dünyaya gelmiş ,10 dakika yaşadıktan sonra da ölmüştü .</sentence>
+<sentence num="16">İki saat sonra annenin hayati tehlikesi baş gösterince ,bu kez diğer bebekler sezaryenle alınmıştı .</sentence>
+<sentence num="17">Bu bebekler de bir süre yaşadıktan sonra ölmüştü .</sentence>
+<sentence num="18">Sibel Deniz'in doktoru Özer Gürbüz ,annenin riskler konusunda daha önceden bilgilendirildiğini ve bu olayda herhangi bir sürpriz olmadığını söylemişti .</sentence>
+</doc>
+<doc>
+<id>78318</id>
+<sentence num="0">2005 05 11 18 :02 :00 .Yedizlerin Teşhiri İstifa Getirdi .</sentence>
+<sentence num="1">Erken doğum sırasında ölen yedizlerin basına gösterilmesinin ardından eleştirilere hedef olan Doktor Özer Gürbüz ,AK Parti'den istifa etti .</sentence>
+<sentence num="2">AK Parti İzmir İl Yönetim Kurulu Üyesi olan Gürbüz'ün istifasıyla ilgili herhangi bir açıklama yapılmadı .</sentence>
+</doc>
+<doc>
+<id>78747</id>
+<sentence num="0">2005 05 12 13 :50 :00 .AKP'li Hotar :Dr .Gürbüz istifa ederek doğru olanı yaptı .</sentence>
+<sentence num="1">AK Parti Genel Başkan Yardımcısı Nükhet Hotar ,ölen yedizleri basına gösteren Central Hospital Başhekimi Özer Gürbüz'ün ,mensubu olduğu AK Parti İzmir İl Yönetimi'nden istifa ederek ,partinin zarar görmemesi için doğru olanı yaptığını söyledi .</sentence>
+<sentence num="2">Hotar ,AA muhabirine yaptığı açıklamada ,Gürbüz'ün ölen yedizleri basına göstermesinin yanlış olduğunu belirtti .</sentence>
+<sentence num="3">Kendisinin de bir anne olarak bu görüntülerden üzüntü duyduğunu kaydeden Hotar ,Gürbüz ,görüntüleri her ne kadar yayınlanmamak için gösterdim dese de yapmamalıydı .</sentence>
+<sentence num="4">Bu durumu düşünmeliydi dedi .</sentence>
+<sentence num="5">Gürbüz'ün AK Parti Merkez Karar Yürütme Kurulu'nca kesin ihraç istemiyle Merkez Disiplin Kurulu'na sevk edildiğini hatırlatan Hotar ,şöyle konuştu :Bazı yayınlarda bu olay partimize mal edilmek isteniyor .</sentence>
+<sentence num="6">Ancak bu konu Dr .Özer Gürbüz'ün mesleğiyle ilgilidir .</sentence>
+<sentence num="7">Olayın AK Parti'yle yakından uzaktan ilgisi yoktur .</sentence>
+<sentence num="8">Kamuoyundan gelen tepkiye duyarsız kalınmayarak Gürbüz zaten Merkez Disiplin Kurulu'na sevk edilmişti .</sentence>
+<sentence num="9">Dr .Gürbüz ,istifa ederek ,partinin zarar görmemesi için doğru olanı yaptı ..</sentence>
+</doc>
+<doc>
+<id>78762</id>
+<sentence num="0">2005 05 12 14 :12 :00 .Hotar :Dr .Gürbüz doğru olanı yaptı .</sentence>
+<sentence num="1">Hotar ,yaptığı açıklamada ,Gürbüz'ün ölen yedizleri basına göstermesinin yanlış olduğunu belirtti .</sentence>
+<sentence num="2">Kendisinin de bir anne olarak bu görüntülerden üzüntü duyduğunu kaydeden Hotar ,Gürbüz ,görüntüleri her ne kadar yayınlanmamak için gösterdim dese de yapmamalıydı .</sentence>
+<sentence num="3">Bu durumu düşünmeliydi dedi .</sentence>
+<sentence num="4">Gürbüz'ün AK Parti Merkez Karar Yürütme Kurulu'nca kesin ihraç istemiyle Merkez Disiplin Kurulu'na sevk edildiğini hatırlatan Hotar ,şöyle konuştu :Bazı yayınlarda bu olay partimize mal edilmek isteniyor .</sentence>
+<sentence num="5">Ancak bu konu Dr .Özer Gürbüz'ün mesleğiyle ilgilidir .</sentence>
+<sentence num="6">Olayın AK Parti'yle yakından uzaktan ilgisi yoktur .</sentence>
+<sentence num="7">Kamuoyundan gelen tepkiye duyarsız kalınmayarak Gürbüz zaten Merkez Disiplin Kurulu'na sevk edilmişti .</sentence>
+<sentence num="8">Dr .Gürbüz ,istifa ederek ,partinin zarar görmemesi için doğru olanı yaptı ..</sentence>
+</doc>
+<doc>
+<id>80912</id>
+<sentence num="0">2005 05 16 15 :15 :00 .Yedizleri teşhir eden doktorun soruşturmasını yürütecek kişi atandı .</sentence>
+<sentence num="1">İzmir Tabip Odası Başkanı Zeki Gül ,aşılama yöntemiyle hamile kaldığı yediz bebeklerini kaybeden Aliağalı Sibel Deniz'in doktoru ve Central Hospital Hastanesi Başhekimi Dr .Özer Gürbüz ile hastanenin mesul müdürü hakkındaki soruşturmayı yürütecek kişiyi atadıklarını bildirdi .</sentence>
+<sentence num="2">Zeki Gül ,AA muhabirine yaptığı açıklamada ,soruşturma sürecinin başladığını ,en kısa zamanda sonuçlanacağını belirterek ,soruşturma için tıbbi etik konularda çalışmaları olan birini atadıklarını söyledi .</sentence>
+<sentence num="3">Kamuoyunun olduğu gibi kendilerinin de konu hakkında hassasiyetleri bulunduğunu belirten Gül ,hastane ve hekimlerle ilgili usul konusunda ayrımcılık yapılmadığını ve prosedürü uyguladıklarını ,bundan sonra soruşturmanın kendileri dışında gelişeceğini bildirdi .</sentence>
+<sentence num="4">EŞİM KENDİNİ TOPARLAMAYA ÇALIŞIYOR Yediz bebeklerin babası Hüseyin Deniz de eşini hafta sonu hastaneden çıkardıklarını ,şu anda İzmir'de bir akrabalarının evinde dinlendiğini ve kendini toparlamaya çalıştığını söyledi .</sentence>
+<sentence num="5">Deniz ,Tekrar bebek sahibi olmayı düşünüyor musunuz ?</sentence>
+<sentence num="6">sorusuna ,Şu anda kendimizi toparlamaya çalışıyoruz .</sentence>
+<sentence num="7">Kesin bir şey diyemeyiz .</sentence>
+<sentence num="8">Ancak eşim doğurganlığını kaybetmedi .</sentence>
+<sentence num="9">İleride tekrar bebek sahibi olmayı isteyebiliriz yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>81323</id>
+<sentence num="0">2005 05 17 10 :10 :00 .Çoğul gebelikler tartışılmaya açılıyor .</sentence>
+<sentence num="1">Aşılama yöntemiyle yediz bebeklere hamile kalan Aliağalı Sibel Deniz'in bebeklerinin ölmesi ve ölü cenin görüntülerinin basına yansıması ,İzmir'de çoğul gebeliğin etik ve bilimsel yönden tartışılmasına yol açtı .</sentence>
+<sentence num="2">İzmir Tabip Odası Başkanı Zeki Gül ,AA muhabirine yaptığı açıklamada ,yediz bebeklerden yola çıkarak konunun uzmanlarıyla çoğul gebelikleri etik ve bilimsel yönden tartışmaya açacaklarını söyledi .</sentence>
+<sentence num="3">Yediz bebeklerin basın yoluyla bilimsel olmayan bir ortamda tartışıldığına işaret eden Gül ,konunun başından beri tıbbı ortam yerine kamuoyu önünde tartışıldığını ,üniversiteler ,kadın doğum uzmanlık dernekleri ve eğitim hastanelerinin ilgili bölümlerinden uzmanları bir araya getirerek ,çoğul gebeliği bilimsel bir platformda masaya yatıracaklarını dile getirdi .</sentence>
+<sentence num="4">Bu platformda çoğul gebeliğin her yönüyle değerlendirileceğini ,çoğul gebeliğin ne olduğu ,nasıl olması gerektiğinin ortaya konulacağını belirten Gül ,akademik tartışmada ,ihtiyaçların tanımlanacağını ve çözüm yollarının belirleneceğini kaydetti .</sentence>
+<sentence num="5">Akademik tartışmanın sonuçlarını Sağlık Bakanlığı ve üniversitelerle paylaşacaklarını ,kamuoyuna da açıklayacaklarını ifade eden Gül ,şunları söyledi :Yediz bebekler basın yoluyla bilimsel olmayan bir ortamda tartışıldı .</sentence>
+<sentence num="6">Yedizleri özne yapmadan çoğul gebeliğin ,uzmanları tarafından etik ve bilimsel yönden değerlendirilmesi amacıyla böyle bir çalışma başlattık .</sentence>
+<sentence num="7">Yedizler öldüğünde duygusal bir ortam vardı .</sentence>
+<sentence num="8">O nedenle bu çalışma için biraz zaman geçmesini bekledik .</sentence>
+<sentence num="9">Yediz bebeklerin ölmesi bu yöntemlerle gebelik isteyen ailelerde hayal kırıklığına neden oldu .</sentence>
+<sentence num="10">Bunun giderilmesi gerekir .</sentence>
+<sentence num="11">Gül ,toplantıyı Mayıs ayı sonunda ya da Haziran ayının ilk haftasında gerçekleştirmeyi planladıklarını da sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>162937</id>
+<sentence num="0">2005 10 08 14 :00 :00 .Yedizlerin annesi üçüncü defa hamile .</sentence>
+<sentence num="1">İZMİR (DHA )HÜSRANLA biten yediz bebek rüyasından sonra Sibel Deniz doğal yoldan tekrar hamile kaldı .</sentence>
+<sentence num="2">11 yıl çocuk özlemi çektikten sonra ilk çocuğu 3 .5 yaşındaki İbrahim ve kaybettiği yedizleri için daha önce tedavi gördüğünü hatırlatan Deniz ,?</sentence>
+<sentence num="3">Doğal yoldan hamile kaldığıma inanamıyorum .</sentence>
+<sentence num="4">Şok olduk ''dedi .</sentence>
+<sentence num="5">İzmir'in Aliağa ilçesinde yaşayan ve yediz hamilelikle tıp camiasında ve kamuoyunda gündeme oturan ev kadını 34 yaşındaki Sibel Deniz ile Tüpraş Aliağa Rafinerisi'nde işçi olarak çalışan eşi Hüseyin Deniz çifti yeniden anne ve baba olmaya hazırlanıyor .</sentence>
+<sentence num="6">Yediz gebelik sona ermeseydi ,bugünlerde bebeklerini kucağında tutacak olan anne Deniz bu rüyasını gerçekleştiremedi .</sentence>
+<sentence num="7">Üçüncü hamileliğinde hiçbir tedavi görmeden doğal yolla hamile kalan Deniz ,yaşadığı kötü ayların ardından aldığı hamilelik haberiyle oğlu İbrahim ,eşi Hüseyin Deniz'in de desteğiyle hayata sıkı sıkı sarıldı .</sentence>
+<sentence num="8">Daha önce Özel Central Hospital Hastanesi'nde Başhekim Kadın Doğum Uzmanı Opr .Dr .Özer Gürbüz'ün gerçekleştirdiği yardımcı üreme tekniklerinden aşılama yöntemiyle 3 .5 yıl önce ilk çocuğu İbrahim'i dünyaya getiren ,tekrar anne olmak istediğinde ise gördüğü tedavi sonucunda aşılama yöntemiyle geçtiğimiz Ocak ayında yediz bebeğe hamile kaldığını öğrenen Sibel Deniz ,doktorların tüm ısrarlarına rağmen yedi bebeği de doğurmak istemişti .</sentence>
+<sentence num="9">Deniz'in bu ısrarı kendi hayatını da tehlikeye atarken ,yedizler 19'uncu haftada ,8 Mayıs Anneler Günü'nden bir gün önce öldü .</sentence>
+<sentence num="10">Hamileliği boyunca 3 kez kanama geçiren ve 3'üncü kanamanın ardından hastanede gözetim altında tutulmaya başlanan Deniz'in rüyası acı bitti .</sentence>
+<sentence num="11">Doktorlar bebeklerin sayısının fetal redüksiyon işlemi ile 3'e indirilmesini anne ve bebeklerin sağlığı açısından tavsiye ederken ,Deniz yediz bebek ısrarından vazgeçmemiş ve hepsini doğurmak istediğini söylemişti .</sentence>
+<sentence num="12">Nitekim 7 Mayıs Cumartesi saat 02 .30'da en altta bulunan ve amnios suyu azalan bebek vajinal yoldan düştü .</sentence>
+<sentence num="13">Diğer bebeklerin kalması için yaklaşık 1 .5 saat tıbbi tedaviye devam edildi .</sentence>
+<sentence num="14">Fakat aşırı kanama ve annenin hayatının tehlikeye girmesi nedeniyle ,anne acil olarak operasyona alındı ve sezaryenle diğer 6 bebek alınarak kanama durduruldu ,annenin hayatı kurtarıldı .</sentence>
+<sentence num="15">Ortalama 400 450 gram dünyaya gelen biri kız 6 erkek bebek sadece 10 dakika hayatta kalabildi .</sentence>
+<sentence num="16">DOĞAL YOLDAN HAMİLE KALDI Yediz bebekleri kaybetmesinin ardından 3 ay geçmişti ki Sibel Deniz yeniden hamile olduğunu öğrendi .</sentence>
+<sentence num="17">Deniz daha önce tedavi görüp hamile kalmasına karşılık bu sefer doğal yoldan hamile kaldı .</sentence>
+<sentence num="18">Deniz ,?</sentence>
+<sentence num="19">Ben 11 yıl boyunca çocuk sahibi olamadım .</sentence>
+<sentence num="20">Rahimde kistler oluştuğu için ,hamile kalamıyordum .</sentence>
+<sentence num="21">Bu yüzden tedavi görmüş ve oğlum İbrahim'e 11 yıl çocuk özlemimden sonra kavuştum .</sentence>
+<sentence num="22">Yedizler de aynı şekilde tedaviyle olmuştu .</sentence>
+<sentence num="23">Şimdi üçüncü kez hamile kaldım .</sentence>
+<sentence num="24">Ama bu sefer tedavi görmedim .</sentence>
+<sentence num="25">Doğal yoldan hamile kaldım .</sentence>
+<sentence num="26">İnanamadık .</sentence>
+<sentence num="27">Biz çok şaşırdık .</sentence>
+<sentence num="28">Ama doktorlar normal olduğunu söyledi ''dedi .</sentence>
+<sentence num="29">ARADAN ÜÇ AY GEÇTİ Mayıs ayının ilk haftasında yedizlerini kaybettikten sonra Ağustos ayının sonunda tekrar hamile olduğunu öğrendiğinde ?</sentence>
+<sentence num="30">şoke 'olduğunu ifade eden Sibel Deniz ,?</sentence>
+<sentence num="31">Hamileliği öğrendiğimde bebek 4 haftalıktı .</sentence>
+<sentence num="32">Tek gebelik gözüküyor .</sentence>
+<sentence num="33">Yine Central Hospital'da takip ediliyorum .</sentence>
+<sentence num="34">Sezaryenle doğum yapan kadınlara genelde 2 yıl ,en az 6 ay sonra hamile kalması tavsiye edilirken ben 3 ay sonra hamile kaldım .</sentence>
+<sentence num="35">Bu yüzden sık sık kontrole gidiyorum .</sentence>
+<sentence num="36">Doğal yoldan hamileliği hiç beklemiyorduk .</sentence>
+<sentence num="37">Eşim de ben de şok olduk adeta .</sentence>
+<sentence num="38">Doğal yoldan hamile kaldığıma inanamıyorduk ''diye konuştu .</sentence>
+<sentence num="39">KENDİMİ TOPARLADIM Yediz gebeliğin devam etmesi durumunda bugünlerde bebeklerini kucağında tutacak olması gerektiğini hatırlatan Deniz ,?</sentence>
+<sentence num="40">Yedizleri kaybettikten sonra eşim Hüseyin de ben de çok zor günler geçirdik .</sentence>
+<sentence num="41">Oğlum İbrahim'le de o dönemde çok fazla ilgilenememiştim .</sentence>
+<sentence num="42">Artık kendimi toparladım .</sentence>
+<sentence num="43">Kendimi çok iyi hissediyorum .</sentence>
+<sentence num="44">Tek düşüncem yeni doğacak yavrum .</sentence>
+<sentence num="45">Sağlıklı bir şekilde dünyaya gelmesi tek arzumuz ''dedi .?</sentence>
+<sentence num="46">Çocuğu kaçıranlar babayı cep telefonundan arayınca yakalandı .</sentence>
+</doc>
+<doc>
+<id>199555</id>
+<sentence num="0">2005 12 14 16 :08 :00 .Yedizlerin annesi erkek bebek bekliyor .</sentence>
+<sentence num="1">Central Hospital Hastanesi Başhekimi Dr .Özer Gürbüz ,yaptığı yazılı açıklamada ,21 haftalık hamile Sibel Deniz'in tekil gebeliğinin söz konusu olduğunu bildirdi .</sentence>
+<sentence num="2">Dr .Özer Gürbüz ,Sibel Deniz'in yediz gebelikten sonra kendiliğinden mucize eseri hamile kalmasının önceki tedavi sırasında kullanılan yumurtalık uyarıcı ilaçlar ve yedizlerin sezaryeni sırasında yumurtalıktaki kistlerin alınmasına bağlı olabileceğini belirtti .</sentence>
+<sentence num="3">Sibel Deniz'in bir erkek çocuk sahibi olmayı beklediğini kaydeden Dr .Özer Gürbüz ,şu bilgileri verdi :Şu anda 21 haftalık sağlıklı ve tekil gebelik söz konusudur .</sentence>
+<sentence num="4">Daha önce aynı tedaviyle bir erkek çocuk sahibi olan çiftin düşükle sonuçlanan yedizlerin altısı da erkekti .</sentence>
+<sentence num="5">Şimdi beklenen bebeğin de cinsiyeti erkek .</sentence>
+<sentence num="6">Yakın zamanda sezaryen olduğu için bu gebeliğin riskleri hastaya anlatıldı .</sentence>
+<sentence num="7">Bu gebelik de benim tarafımdan takip edilmektedir .</sentence>
+<sentence num="8">Yaklaşık 8 yıl önce aşılama yöntemiyle bir erkek çocuğu sahibi olan Sibel Deniz ,yediz bebeklere hamileliğinde ,doktorların bebek sayısının azaltılması önerilerine uymadığı için 7 Mayıs'ta hamileliğinin 19 .haftasında yedizlerini düşük yaparak kaybetmişti .</sentence>
+<sentence num="9">Hasta ,doktorların önerilerine uymadığı ,doktorlar ise hastanenin reklamını yaptıkları iddiasıyla basın ve kamuoyu tarafından eleştirilmişti .</sentence>
+<sentence num="10">İlgili kurumlar tarafından yapılan soruşturmalar tamamlanmış ,Sağlık Bakanlığı Sanayi ve Ticaret Bakanlığı ,Reklam Üst Kurulu ve Cumhuriyet Başsavcılığı soruşturmaları sonucu doktor ve hastanenin reklam kastı ve amacının olmadığı ve teşhir fiilinin suç unsuru taşımadığına karar vermişti .</sentence>
+<sentence num="11">Konuyla ilgili İzmir Tabip Odası'nın soruşturması ise halen devam ediyor .</sentence>
+</doc>

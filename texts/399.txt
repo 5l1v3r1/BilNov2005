@@ -1,0 +1,250 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 10 29 15 :32 :00 .hindistan'da patlama 10 ölü ,40 yaralı ..</sentence>
+<sentence num="1">hindistan'da patlama 10 ölü ,40 yaralı hindistan'ın başkenti yeni delhi'de şiddetli patlama oldu .</sentence>
+<sentence num="2">patlamada ilk belirlemelere göre 10 kişi öldü ,40 kişi yaralandı .</sentence>
+<sentence num="3">yeni delhi televizyonu ,başkentin pahar ganj mahallesindeki patlamada yaralananların hastanelere kaldırıldığını duyurdu .</sentence>
+<sentence num="4">bir itfaiye görevlisi de patlamanın ana tren istasyonu civarındaki kalabalık bir pazar yerinin yakınında olduğunu söyledi .</sentence>
+<sentence num="5">patlanın nedeni henüz bilinmiyor .</sentence>
+</doc>
+<doc>
+<id>174399</id>
+<sentence num="0">2005 10 29 16 :05 :00 .Yeni Delhi'de şiddetli patlama :10 ölü .</sentence>
+<sentence num="1">Başkentin göbeğinde meydana gelen patlamada ,ilk belirlemelere göre 10 kişi öldü .</sentence>
+<sentence num="2">Patlamanın nedeni henüz açıklanmadı .</sentence>
+</doc>
+<doc>
+<id>174407</id>
+<sentence num="0">2005 10 29 16 :22 :00 .Hindistan'da peş peşe patlama .</sentence>
+<sentence num="1">Yeni Delhi televizyonu ,ikinci patlamanın genellikle kalabalık olan bir pazaryerinde üçüncü patlamanınsa kentin güneyindeki Serojini Nagar mahallesindeki büyük pazaryerinin yakınında olduğunu duyurdu .</sentence>
+<sentence num="2">Polis ise kentteki pazaryerlerinde en az 4 şiddetli patlama olduğunu ,patlamalarda ilk belirlemelere göre 5 kişinin öldüğünü ,birçok da yaralı bulunduğunu belirtti .</sentence>
+<sentence num="3">Paharganj'daki pazaryerinde meydana gelen ilk patlamada ilk belirlemelere göre 10 kişinin öldüğünden endişe edildiği ,40 kişinin yaralandığı bildirilmişti .</sentence>
+<sentence num="4">Polis ,ilk patlamaya bombanın yol açtığını söylemişti .</sentence>
+<sentence num="5">AA .</sentence>
+</doc>
+<doc>
+<id>174417</id>
+<sentence num="0">2005 10 29 16 :45 :00 .Hindistan'da üç patlama :En az beş ölü .</sentence>
+<sentence num="1">Hindistan'ın başkenti Yeni Delhi'de ,ayrı pazar yerlerinde üç patlama oldu .</sentence>
+<sentence num="2">İlk belirlemelere göre beş kişi öldü .</sentence>
+<sentence num="3">Hindistan medyası ,ilk iki patlamanın genellikle kalabalık olan bir pazaryerinde üçüncü patlamanınsa kentin güneyindeki Serojini Nagar mahallesindeki büyük pazaryerinin yakınında olduğunu duyurdu .</sentence>
+<sentence num="4">Polis ise kentteki pazaryerlerinde en az dört şiddetli patlama olduğunu ,patlamalarda ilk belirlemelere göre beş kişinin öldüğünü ,birçok da yaralı olduğunu açıkladı .</sentence>
+<sentence num="5">Yeni Delhi polisi ,ilk patlamanın bombadan kaynaklandığını belirtti .</sentence>
+</doc>
+<doc>
+<id>174427</id>
+<sentence num="0">2005 10 29 17 :06 :00 .Hindistan'daki patlamalarda çelişkili haberler geliyor .</sentence>
+<sentence num="1">Hindistan'daki patlamalarda çelişkili haberler geliyor Hindistan'ın başkenti Yeni Delhi'de peş peşe meydana gelen 3 patlamada ölü sayısının 30 olmasından endişe ediliyor .</sentence>
+<sentence num="2">Bir üst düzey hükümet yetkilisi ,ölü sayısıyla ilgili çelişkili haberler geldiğini ,itfaiye görevlilerinin 30 31 kişinin öldüğünü belirttiğini söyledi .</sentence>
+<sentence num="3">Bir televizyon kanalıysa ölü sayısını 15 olarak duyurdu .</sentence>
+<sentence num="4">Yaralı sayısının da 60 olduğu belirtildi .</sentence>
+<sentence num="5">Yeni Delhi'de ilk olarak Paharganj mahallesindeki pazaryerinde patlama olmuş ,bundan dakikalar sonra iki patlama daha olduğu haber verilmişti .</sentence>
+<sentence num="6">Patlamalarda ilk belirlemelere göre 10 kişinin öldüğü açıklanmıştı .</sentence>
+<sentence num="7">Bu arada itfaiye müdürlüğü sözcüsü Vir Sing ,diğer patlamalardan birinin Sarojini Nagar mahallesindeki pazaryerinde ,diğerinin de Govindpuri mahallesindeki bir otobüste meydana geldiğini söyledi .</sentence>
+</doc>
+<doc>
+<id>174435</id>
+<sentence num="0">2005 10 29 17 :30 :00 .Hindistan'da ölü sayısı 49'a çıktı .</sentence>
+<sentence num="1">Hindistan'ın başkenti Yeni Delhi'de meydana gelen üç patlamada ölenlerin sayısının 49 olduğu bildirildi .</sentence>
+<sentence num="2">İçişleri Bakanı Shivraj Patil ,televizyonda yayınlanan açıklamasında ,Sarojini Nagar mahallesindeki pazaryerinde meydana gelen patlamada 39 kişinin öldüğünü söyledi .</sentence>
+<sentence num="3">Patil ,halkın pazaryerlerinden dağılıp evlerine gitmelerini istedi .</sentence>
+<sentence num="4">Yeni Delhi itfaiye sözcüsü Jagtar Singh de ,yaptığı açıklamada ,ilk patlamanın meydana geldiği Paharganj mahallesindeki pazaryerinde 7 kişinin ,Govindpuri mahallesindeki bir otobüste meydana gelen patlamada da 3 kişinin öldüğünü söyledi .</sentence>
+<sentence num="5">Sözcü ,ayrıntılı bilgi vermedi .</sentence>
+<sentence num="6">Patlamalarda 60 kişinin yaralandığı belirtilmişti AA .</sentence>
+</doc>
+<doc>
+<id>174454</id>
+<sentence num="0">2005 10 29 18 :20 :00 .Hindistan'da patlamalar :55 ölü ,152 yaralı !</sentence>
+<sentence num="1">Hindistan'ın başkenti Yeni Delhi'de bir pazaryerine düzenlenen saldırılarda ölenlerin sayısı 55'e yükseldi .</sentence>
+<sentence num="2">Sağlık Bakanlığı yetkilileri ,kentin değişik yerlerindeki hastanelerden elde ettikleri kayıtlara göre ölü sayısının 55'e yükseldiğini ,yaralı sayısının da 152 olduğunu belirttiler .</sentence>
+<sentence num="3">Hindistan resmi haber ajansı PTI'nin bildirdiğine göre ,yaralılar arasında çok sayıda yabancı turist de bulunuyor .</sentence>
+<sentence num="4">Bu arada ,polis kaynakları ,saldırılarla ilgili yürütülen soruşturma çerçevesinde 10 kişinin sorgulandığını belirttiler .</sentence>
+<sentence num="5">Hindistan İçişleri Bakanı Shivraj Patil ,bugün ülkesinde meydana gelen ve kaza olmadığı aşikar olan patlamalarda en az 55 kişinin hayatını kaybettiğini bildirdi .</sentence>
+<sentence num="6">İçişleri Bakanı Patil ,gazetecilere yaptığı açıklamada ,Kaza olmadığı açık olan üç patlamada ölenler ,yaralananlar var diye konuştu .</sentence>
+<sentence num="7">Başbakan Manmohan Singh de yaptığı açıklamada ,halkı sakin olmaya çağırdı .</sentence>
+<sentence num="8">Başbakan'ın üst düzey danışmanlarından Sanjaya Baru tarafından CNN televizyonunda okunan açıklamada ,Hindistan'ın ,terörizme karşı mücadeleyi kazanacağı kaydedildi .</sentence>
+<sentence num="9">Baru ayrıca ,bu patlamaların ,teröristlerin işi olduğunu belirtti .</sentence>
+<sentence num="10">Yeni Delhi televizyonu ,başkentin Pahar Ganj mahallesindeki patlamada yaralananların hastanelere kaldırıldığını duyurdu .</sentence>
+<sentence num="11">Bir itfaiye görevlisi de patlamanın ana tren istasyonu civarındaki kalabalık bir pazar yerinin yakınında olduğunu söyledi .</sentence>
+<sentence num="12">HİNDİSTAN'DA İKİ PATLAMA DAHA !</sentence>
+<sentence num="13">Hindistan'ın başkenti Yeni Delhi'de ,ilk şiddetli patlamadan dakikalar sonra iki patlama daha olduğu bildirildi .</sentence>
+<sentence num="14">Yeni Delhi televizyonu ,ikinci patlamanın genellikle kalabalık olan bir pazaryerinde üçüncü patlamanınsa kentin güneyindeki Serojini Nagar mahallesindeki büyük pazaryerinin yakınında olduğunu duyurdu .</sentence>
+<sentence num="15">Polis ise kentteki pazaryerlerinde en az 4 şiddetli patlama olduğunu ,patlamalarda ilk belirlemelere göre 5 kişinin öldüğünü ,birçok da yaralı bulunduğunu belirtti .</sentence>
+<sentence num="16">ÖLÜ SAYISININ 30 OLMASINDAN ENDİŞE EDİLİYOR Hindistan'ın başkenti Yeni Delhi'de peş peşe meydana gelen 3 patlamada ölü sayısının 60 olmasından endişe ediliyor .</sentence>
+<sentence num="17">Bir üst düzey hükümet yetkilisi ,ölü sayısıyla ilgili çelişkili haberler geldiğini ,itfaiye görevlilerinin 30 31 kişinin öldüğünü belirttiğini söyledi .</sentence>
+<sentence num="18">Bu arada itfaiye müdürlüğü sözcüsü Vir Sing ,diğer patlamalardan birinin Sarojini Nagar mahallesindeki pazaryerinde ,diğerinin de Govindpuri mahallesindeki bir otobüste meydana geldiğini söyledi .</sentence>
+<sentence num="19">Sözcü ayrıntılı bilgi vermedi .</sentence>
+<sentence num="20">SİNGH :PATLAMALARDAN TERÖRİST UNSURLAR SORUMLU Hindistan Başbakanı Manmohan Singh ,ülkesinde bugün meydana gelen ,55 kişinin ölümüne neden olan patlamalardan terörist unsurların sorumlu olduğunu söyledi .</sentence>
+<sentence num="21">Başbakan Singh yayımladığı bildiride ,Hedeflenenler masum vatandaşlar .</sentence>
+<sentence num="22">Kaos yaratma ve barış ortamını bozma girişimleri ne pahasına olursa olsun hoş görülmeyecektir .</sentence>
+<sentence num="23">Hükümet terörist unsurların bu korkunç amaçlarını engellemeye kararlıdır ifadesi kullandı .</sentence>
+<sentence num="24">Sözcüsü Sanjaya Baru da ülkenin kuzeydoğusundaki Tripura eyaletinde bulunan Başbakan Singh'in derhal Yeni Delhi'ye döneceğini belirtti .?</sentence>
+<sentence num="25">Hindistan'daki tren kazasında ölü sayısı 100'ü aşkın ...</sentence>
+</doc>
+<doc>
+<id>174465</id>
+<sentence num="0">2005 10 29 18 :58 :00 .Hindistan'daki eş zamanlı patlamalarda 55 kişi öldü .</sentence>
+<sentence num="1">Hindistan'daki eş zamanlı patlamalarda 55 kişi öldü Hindistan'ın başkenti Yeni Delhi'de meydana gelen üç patlamada ölenlerin sayısının 55 olduğu bildirildi .</sentence>
+<sentence num="2">İçişleri Bakanı Shivraj Patil ,televizyonda yayınlanan açıklamasında ,Sarojini Nagar mahallesindeki pazaryerinde meydana gelen patlamada 39 kişinin öldüğünü söyledi .</sentence>
+<sentence num="3">Patil ,halkın pazaryerlerinden dağılıp evlerine gitmelerini istedi .</sentence>
+<sentence num="4">Yeni Delhi itfaiye sözcüsü Jagtar Singh de ,yaptığı açıklamada ,ilk patlamanın meydana geldiği Paharganj mahallesindeki pazaryerinde 7 kişinin ,Govindpuri mahallesindeki bir otobüste meydana gelen patlamada da 3 kişinin öldüğünü söyledi .</sentence>
+<sentence num="5">Sözcü ,ayrıntılı bilgi vermedi .</sentence>
+<sentence num="6">Patlamalarda 60 kişinin yaralandığı belirtilmişti .</sentence>
+</doc>
+<doc>
+<id>174466</id>
+<sentence num="0">2005 10 29 19 :04 :00 .Pakistan ,Hindistan'daki patlamaları kınadı .</sentence>
+<sentence num="1">Pakistan ,Hindistan'daki patlamaları kınadı Pakistan ,Hindistan'ın başkenti Yeni Delhi'de meydana gelen patlamaları kınadı .</sentence>
+<sentence num="2">Dışişleri Bakanlığı'ndan yapılan açıklamada ,''Birçok masum hayata mal olan bu terörist saldırıları şiddetle kınıyoruz ''denildi .</sentence>
+<sentence num="3">Bu saldırıların bir terörist eylemi olduğu ifade edilen açıklamada ,Pakistan hükümeti ve halkının ,bu barbar eylem karşısında şok olduğu belirtildi .</sentence>
+<sentence num="4">Açıklamada ,kurbanların ailelerine başsağlığı dilendi .</sentence>
+</doc>
+<doc>
+<id>174474</id>
+<sentence num="0">2005 10 29 19 :52 :00 .Hindistan'daki patlamalara kınama .</sentence>
+<sentence num="1">PAKİSTAN Pakistan ,Hindistan'ın başkenti Yeni Delhi'de meydana gelen patlamaları kınadı .</sentence>
+<sentence num="2">Dışişleri Bakanlığı'ndan yapılan açıklamada ,''Birçok masum hayata mal olan bu terörist saldırıları şiddetle kınıyoruz ''denildi .</sentence>
+<sentence num="3">Bu saldırıların bir terörist eylemi olduğu ifade edilen açıklamada ,Pakistan hükümeti ve halkının ,bu barbar eylem karşısında şok olduğu belirtildi .</sentence>
+<sentence num="4">Açıklamada ,kurbanların ailelerine başsağlığı dilendi .</sentence>
+<sentence num="5">İNGİLTERE İngiltere Dışişleri Bakanı Jack Straw ,Hindistan'ın başkenti Yeni Delhi'de meydana gelen patlamaları kınadı .</sentence>
+<sentence num="6">Straw ,yaptığı açıklamada ,en az 49 kişinin öldüğü patlamaların kalabalık bölgelerde yapılarak ,katliamın çok fazla olmasının amaçlandığını ifade etti .</sentence>
+<sentence num="7">Bu saldırıların ,teröristlerin ,insan hayatını önemsemediğinin bir başka örneği olduğunu belirten Straw ,İngiliz hükümeti olarak Hindistan'a destek verdiklerini bildirdi ve başsağlığı diledi .</sentence>
+<sentence num="8">AA .</sentence>
+</doc>
+<doc>
+<id>174490</id>
+<sentence num="0">2005 10 29 21 :10 :00 .Hindistan'daki patlamalarda ölenlerin sayısı netleşti :51 !</sentence>
+<sentence num="1">Hindistan'ın başkenti Yeni Delhi'de meydana gelen patlamalarda ölenlerin sayısının 51 olduğu bildirildi .</sentence>
+<sentence num="2">Delhi eyaleti Bakanı Şeyla Dikşit'in bir yardımcısı ,yaptığı açıklamada ,birkaç dakika arayla meydana gelen patlamalarda en az 51 kişinin öldüğünü söyledi .</sentence>
+<sentence num="3">Dikşit'in yardımcısı ,54 kişinin de yaralandığını belirtti .</sentence>
+<sentence num="4">Bu arada ,Bangladeş ,Hindistan'da meydana gelen patlamaları kınadı .</sentence>
+<sentence num="5">Dışişleri Bakanı Mürşit Han ,başkent Dakka'da gazetecilere yaptığı açıklamada ,bunun en talihsiz ,korkak ve çirkin bir eylem olduğunu belirtti .</sentence>
+<sentence num="6">Han ,böyle bir eyleme hiçbir insanın ve ulusun müsamaha gösteremeyeceğini bildirdi .</sentence>
+</doc>
+<doc>
+<id>174502</id>
+<sentence num="0">2005 10 29 22 :36 :00 .Hindistan'daki patlamaya AB tepkisi .</sentence>
+<sentence num="1">Solana ,yayımladığı açıklamada ,masum sivillere yönelik bu çirkin saldırı karşısında şoke olduğunu ifade ederek ,hiçbir şeyin terörizmi haklı çıkaramayacağını belirtti .</sentence>
+<sentence num="2">Bu çirkin saldırıların sorumlularının adalet önüne çıkarılacağını ve çıkarılması gerektiğini kaydeden Solana ,bu terörist saldırıları şiddetle kınadığını bildirdi .</sentence>
+<sentence num="3">AA .</sentence>
+</doc>
+<doc>
+<id>174553</id>
+<sentence num="0">2005 10 30 08 :57 :00 .Hindistan'daki patlamada 61 ölü Saldırıları 'İnkılap 'adlı bir örgüt üstlendi .</sentence>
+<sentence num="1">Patlamaların bilançosu ağırlaşıyor İlgili Galeri Foto Galeri için tıklayınız Hindistan'ın başkenti Yeni Delhi'de meydana gelen patlamalarda 61 kişi öldü ,188 kişi de yaralandı .</sentence>
+<sentence num="2">Hindistan Başbakanı Manmohan Singh ,patlamalardan 'terörist unsurların 'sorumlu olduğunu söyledi .</sentence>
+<sentence num="3">Başbakan Singh yayımladığı bildiride ,''hedeflenenler masum vatandaşlar .</sentence>
+<sentence num="4">Kaos yaratma ve barış ortamını bozma girişimleri ne pahasına olursa olsun hoş görülmeyecektir .</sentence>
+<sentence num="5">Hükümet terörist unsurların bu korkunç amaçlarını engellemeye kararlıdır ''ifadesini kullandı .</sentence>
+<sentence num="6">Patlamaların meydana geldiği bölgede çok sayıda ceset ve yaralılar ambulanslara bindirilerek kentteki hastanelere kaldırıldı .</sentence>
+<sentence num="7">Bir çok Yeni Delhili de patlamalarda ölen veya yaralanan yakınlarını bulmak için patlamaların olduğu bölgelere akın etti .</sentence>
+<sentence num="8">Saldırıları 'İnkılap 'adlı bir örgüt üstlendi Yeni Delhi'de dün peş peşe düzenlenen üç saldırıyı ,adı daha önce duyulmamış Keşmirli bir örgüt üstlendi .</sentence>
+<sentence num="9">Hindistan'ın özel Yeni Delhi televizyonu ,'İnkılap 'adlı örgütün ,Cammu Keşmir'in yazlık başkenti Şrinagar'daki bir yerel haberajansını arayarak ,saldırıların sorumluluğunu üstlendiğini duyurdu .</sentence>
+<sentence num="10">Yeni saldırı tehdidinde de bulunduğu belirtilen örgütün daha büyük bir örgütün paravanı olup olmadığı bilinmiyor .</sentence>
+<sentence num="11">Güvenlik uzmanları ise ,bu çaptaki bir saldırıyı ,merkezi Pakistan'da bulunan Laşkar i Taibe ya da Ceyş i Muhammed örgütlerinin düzenleyebileceğini belirtiyor .</sentence>
+<sentence num="12">Televizyon ,haberinde ,Yeni Delhi'deki bir körler okulu yakınlarında üç şüpheli paketin bulunması üzerine ,polisin çevrede güvenlik çemberi oluşturduğu da duyurdu .</sentence>
+<sentence num="13">150'den fazla kişi gözaltına alındı Saldırıların ardından başkent genelindeki küçük otellere operasyonlar düzenleyen güvenlik güçleri 150'den fazla kişiyi gözaltına aldı .</sentence>
+<sentence num="14">Hindistan'da yayın yapan özel Star televizyonu ,gözaltına alınanlardan hiçbirinin henüz tutuklanmadığını duyurdu .</sentence>
+<sentence num="15">Polisin olağanüstü hal ilan ettiği kentteki tüm pazaryerleri de kapatıldı .</sentence>
+<sentence num="16">Hindistan'daki saldırılardan endişe duyan Bangladeş'te ,Ramazan Bayramı ve gelecek ayki Güney Asya zirvesinden önce tüm polislerin izinleri iptal edildi .</sentence>
+<sentence num="17">Pakistan saldırıları kınadı Hindistan ,son zamanlarda maruz kaldığı terör saldırıları nedeniyle Pakistan'ı suçlamıştı .</sentence>
+<sentence num="18">2001 yılında Pakistan kökenli militanların Hindistan parlamentosunu basması ve bir düzine insanı öldürmesi iki komşuyu nükleer bir savaşın eşiğine getirmişti .</sentence>
+<sentence num="19">Ancak Pakistan ,bugünkü saldırıların ardından hemen bir açıklama yaptı ve saldırıları kınadığını belirtti .</sentence>
+<sentence num="20">Pakistan Dışişleri Bakanlığı'ndan yapılan açıklamada ,''birçok masum hayata mal olan bu terörist saldırıları şiddetle kınıyoruz ''denildi .</sentence>
+<sentence num="21">Bu saldırıların bir terörist eylemi olduğu ifade edilen açıklamada ,Pakistan hükümeti ve halkının ,bu barbar eylem karşısında şok olduğu ifade edildi .</sentence>
+<sentence num="22">Patlamalar art arda geldi Yeni Delhi'de ilk olarak Paharganj mahallesindeki pazaryerinde patlama olmuş ,bundan dakikalar sonra iki patlama daha olduğu haber verilmişti .</sentence>
+<sentence num="23">İtfaiye müdürlüğü sözcüsü Vir Sing ,diğer patlamalardan birinin Sarojini Nagar mahallesindeki pazaryerinde ,diğerinin de Govindpuri mahallesindeki bir otobüste meydana geldiğini söyledi .</sentence>
+</doc>
+<doc>
+<id>174556</id>
+<sentence num="0">2005 10 30 09 :13 :00 .Hindistan'daki saldırılarda ölü sayısı 61'e çıktı .</sentence>
+<sentence num="1">Hindistan'daki saldırılarda ölü sayısı 61'e çıktı Hindistan'ın başkenti Yeni Delhi'deki pazaryerlerinde dün peş peşe düzenlenen saldırılarda ölenlerin sayısı 61'e çıktı .</sentence>
+<sentence num="2">Polis ,bombalı saldırılarda 61 kişinin öldüğünü ,188 kişinin yaralandığını söyledi .</sentence>
+<sentence num="3">İlk olarak başkentin Paharganj mahallesindeki kalabalık pazaryerinde meydana gelen patlamada 18 ,Sarojini Nagar pazarındaki saldırıda 43 kişinin öldüğü ,Govindpuri mahallesinde bir otobüste meydana gelen patlamada da yaralananlar olduğu belirtildi .</sentence>
+<sentence num="4">Bu arada ,güvenlik güçlerinin başkent genelindeki küçük otellere düzenlediği baskınlarda 150'den fazla kişiyi gözaltına aldıkları bildirildi .</sentence>
+<sentence num="5">Hindistan'da yayın yapan özel Star televizyonu ,gözaltına alınanlardan hiçbirinin henüz tutuklanmadığını duyurdu .</sentence>
+<sentence num="6">Polisin olağanüstü hal ilan ettiği kentteki tüm pazaryerlerinin kapatıldığı da kaydedildi .</sentence>
+<sentence num="7">Öte yandan ,Hindistan'daki saldırılardan endişe duyan Bangladeş'te ,Ramazan Bayramı ve gelecek ayki Güney Asya zirvesinden önce tüm polislerin izinleri iptal edildi .</sentence>
+<sentence num="8">Bir polis yetkilisi ,bayram ve zirve dolayısıyla güvenlik önlemlerini zaten sıkı tuttuklarını ,ancak Yeni Delhi'deki saldırılardan sonra izinlerin de iptal edildiğini söyledi .</sentence>
+<sentence num="9">Güvenlik yetkilileri de Bangladeş'in Hindistan ve Myanmar sınırlarında ,''teröristlerin ülkeye girişine ya da ülkeden çıkışına olanak tanımamak için kırmızı alarma ''geçildiğini belirtti .</sentence>
+</doc>
+<doc>
+<id>174558</id>
+<sentence num="0">2005 10 30 09 :15 :00 .Hindistan'da ölü sayısı 61'e çıktı ...</sentence>
+<sentence num="1">Hindistan'ın başkenti Yeni Delhi'deki pazaryerlerinde dün peş peşe düzenlenen saldırılarda ölenlerin sayısı 61'e çıktı .</sentence>
+<sentence num="2">Polis ,bombalı saldırılarda 61 kişinin öldüğünü ,188 kişinin yaralandığını söyledi .</sentence>
+<sentence num="3">İlk olarak başkentin Paharganj mahallesindeki kalabalık pazaryerinde meydana gelen patlamada 18 ,Sarojini Nagar pazarındaki saldırıda 43 kişinin öldüğü ,Govindpuri mahallesinde bir otobüste meydana gelen patlamada da yaralananlar olduğu belirtildi .</sentence>
+<sentence num="4">Bu arada ,güvenlik güçlerinin başkent genelindeki küçük otellere düzenlediği baskınlarda 150'den fazla kişiyi gözaltına aldıkları bildirildi .</sentence>
+<sentence num="5">Hindistan'da yayın yapan özel Star televizyonu ,gözaltına alınanlardan hiçbirinin henüz tutuklanmadığını duyurdu .</sentence>
+<sentence num="6">Polisin olağanüstü hal ilan ettiği kentteki tüm pazaryerlerinin kapatıldığı da kaydedildi .</sentence>
+<sentence num="7">Öte yandan ,Hindistan'daki saldırılardan endişe duyan Bangladeş'te ,Ramazan Bayramı ve gelecek ayki Güney Asya zirvesinden önce tüm polislerin izinleri iptal edildi .</sentence>
+<sentence num="8">Bir polis yetkilisi ,bayram ve zirve dolayısıyla güvenlik önlemlerini zaten sıkı tuttuklarını ,ancak Yeni Delhi'deki saldırılardan sonra izinlerin de iptal edildiğini söyledi .</sentence>
+<sentence num="9">Güvenlik yetkilileri de Bangladeş'in Hindistan ve Myanmar sınırlarında ,''teröristlerin ülkeye girişine ya da ülkeden çıkışına olanak tanımamak için kırmızı alarma ''geçildiğini belirtti .</sentence>
+<sentence num="10">SALDIRILARI ,KEŞMİRLİ BİR ÖRGÜT ÜSTLENDİ Hindistan'ın başkenti Yeni Delhi'de dün peş peşe düzenlenen 3 saldırıyı ,adı daha önce duyulmamış Keşmirli bir örgüt üstlendi .</sentence>
+<sentence num="11">Hindistan'ın özel Yeni Delhi televizyonu ,İnkılap adlı örgütün ,Cammu Keşmir'in yazlık başkenti Şrinagar'daki bir yerel haber ajansını arayarak ,saldırıların sorumluluğunu üstlendiğini duyurdu .</sentence>
+<sentence num="12">Yeni saldırı tehdidinde de bulunduğu belirtilen örgütün daha büyük bir örgütün paravanı olup olmadığı bilinmiyor .</sentence>
+<sentence num="13">Güvenlik uzmanları ,bu çaptaki bir saldırıyı ,merkezi Pakistan'da bulunan Laşkar i Taibe ya da Ceyş i Muhammed örgütlerinin düzenleyebileceğini belirtiyor .</sentence>
+<sentence num="14">Öte yandan ,televizyonun haberinde ,Yeni Delhi'deki bir körler okulu yakınlarında üç şüpheli paketin bulunması üzerine ,polisin çevrede güvenlik çemberi oluşturduğu bildirildi .?</sentence>
+<sentence num="15">Hindistan'daki tren kazasında ölü sayısı 109'a yükseldi ...</sentence>
+</doc>
+<doc>
+<id>174569</id>
+<sentence num="0">2005 10 30 09 :26 :00 .Hindistan'da ölü sayısı 61'e çıktı .</sentence>
+<sentence num="1">İlk olarak başkentin Paharganj mahallesindeki kalabalık pazaryerinde meydana gelen patlamada 18 ,Sarojini Nagar pazarındaki saldırıda 43 kişinin öldüğü ,Govindpuri mahallesinde bir otobüste meydana gelen patlamada da yaralananlar olduğu belirtildi .</sentence>
+<sentence num="2">Bu arada ,güvenlik güçlerinin başkent genelindeki küçük otellere düzenlediği baskınlarda 150'den fazla kişiyi gözaltına aldıkları bildirildi .</sentence>
+<sentence num="3">Hindistan'da yayın yapan özel Star televizyonu ,gözaltına alınanlardan hiçbirinin henüz tutuklanmadığını duyurdu .</sentence>
+<sentence num="4">Polisin olağanüstü hal ilan ettiği kentteki tüm pazaryerlerinin kapatıldığı da kaydedildi .</sentence>
+<sentence num="5">Öte yandan ,Hindistan'daki saldırılardan endişe duyan Bangladeş'te ,Ramazan Bayramı ve gelecek ayki Güney Asya zirvesinden önce tüm polislerin izinleri iptal edildi .</sentence>
+<sentence num="6">Bir polis yetkilisi ,bayram ve zirve dolayısıyla güvenlik önlemlerini zaten sıkı tuttuklarını ,ancak Yeni Delhi'deki saldırılardan sonra izinlerin de iptal edildiğini söyledi .</sentence>
+<sentence num="7">Güvenlik yetkilileri de Bangladeş'in Hindistan ve Myanmar sınırlarında ,''teröristlerin ülkeye girişine ya da ülkeden çıkışına olanak tanımamak için kırmızı alarma ''geçildiğini belirtti .</sentence>
+<sentence num="8">aa .</sentence>
+</doc>
+<doc>
+<id>174624</id>
+<sentence num="0">2005 10 30 11 :08 :00 .Bombalı saldırıyı İnkılap üstlendi .</sentence>
+<sentence num="1">Hindistan'ın özel Yeni Delhi televizyonu ,''İnkılap ''adlı örgütün ,Cammu Keşmir'in yazlık başkenti Şrinagar'daki bir yerel haber ajansını arayarak ,saldırıların sorumluluğunu üstlendiğini duyurdu .</sentence>
+<sentence num="2">Yeni saldırı tehdidinde de bulunduğu belirtilen örgütün daha büyük bir örgütün paravanı olup olmadığı bilinmiyor .</sentence>
+<sentence num="3">Güvenlik uzmanları ,bu çaptaki bir saldırıyı ,merkezi Pakistan'da bulunan Laşkar i Taibe ya da Ceyş i Muhammed örgütlerinin düzenleyebileceğini belirtiyor .</sentence>
+<sentence num="4">Öte yandan ,televizyonun haberinde ,Yeni Delhi'deki bir körler okulu yakınlarında üç şüpheli paketin bulunması üzerine ,polisin çevrede güvenlik çemberi oluşturduğu bildirildi .</sentence>
+<sentence num="5">aa .</sentence>
+</doc>
+<doc>
+<id>174625</id>
+<sentence num="0">2005 10 30 11 :09 :00 .Hindistan'daki saldırıları ,Keşmirli bir örgüt üstlendi .</sentence>
+<sentence num="1">Hindistan'daki saldırıları ,Keşmirli bir örgüt üstlendi Hindistan'ın başkenti Yeni Delhi'de dün peş peşe düzenlenen 3 saldırıyı ,adı daha önce duyulmamış Keşmirli bir örgüt üstlendi .</sentence>
+<sentence num="2">Hindistan'ın özel Yeni Delhi televizyonu ,''İnkılap ''adlı örgütün ,Cammu Keşmir'in yazlık başkenti Şrinagar'daki bir yerel haber ajansını arayarak ,saldırıların sorumluluğunu üstlendiğini duyurdu .</sentence>
+<sentence num="3">Yeni saldırı tehdidinde de bulunduğu belirtilen örgütün daha büyük bir örgütün paravanı olup olmadığı bilinmiyor .</sentence>
+<sentence num="4">Güvenlik uzmanları ,bu çaptaki bir saldırıyı ,merkezi Pakistan'da bulunan Laşkar i Taibe ya da Ceyş i Muhammed örgütlerinin düzenleyebileceğini belirtiyor .</sentence>
+<sentence num="5">Öte yandan ,televizyonun haberinde ,Yeni Delhi'deki bir körler okulu yakınlarında üç şüpheli paketin bulunması üzerine ,polisin çevrede güvenlik çemberi oluşturduğu bildirildi .</sentence>
+</doc>
+<doc>
+<id>175120</id>
+<sentence num="0">2005 10 31 11 :50 :00 .Yeni Delhi'de saldırılar dolayısıyla güvenlik önlemleri arttırıldı .</sentence>
+<sentence num="1">Yeni Delhi'de saldırılar dolayısıyla güvenlik önlemleri arttırıldı Hindistan'ın başkenti Yeni Delhi'de önceki gün peş peşe düzenlenen saldırıların ardından ,kentteki güvenlik önlemlerinin artırıldığı bildirildi .</sentence>
+<sentence num="2">Polis ,yarın başlayacak Hindu Işık Festivali (Divali )ve perşembe günü başlayacak Ramazan Bayramı dolayısıyla kente takviye güvenlik gücü gönderildiğini belirtti .</sentence>
+<sentence num="3">Kente girişlerin sıkı denetim altında tutulduğu ve önemli kamu binalarının askerler tarafından korunduğu kaydedildi .</sentence>
+<sentence num="4">62 kişinin hayatını kaybettiği ,200'den fazla kişinin yaralandığı saldırıların sorumluluğunu ,adı daha önce duyulmamış ,Keşmirli ''İnkılap ''örgütü üstlenmişti .</sentence>
+</doc>
+<doc>
+<id>175301</id>
+<sentence num="0">2005 10 31 15 :31 :00 .Pakistan Devlet Başkanı Müşerref Hindistan'daki saldırıları kınadı .</sentence>
+<sentence num="1">Pakistan Devlet Başkanı Müşerref Hindistan'daki saldırıları kınadı Pakistan Devlet Başkanı Pervez Müşerref ,Hindistan'ın başkenti Yeni Delhi'de önceki gün peş peşe düzenlenen saldırıları kınadı .</sentence>
+<sentence num="2">Müşerref ,başkent İslamabad yakınındaki Ravalpindi kentinde düzenlediği basın toplantısında ,''alçak bir terörist saldırı ''olarak nitelendirdiği saldırılarla ilgili herhangi bir soruşturmada ülkesinin tam işbirliği yapacağını söyledi .</sentence>
+<sentence num="3">Pakistan'ın ,Hindistan'ın yanında olduğunu belirten Müşerref ,ay başında Pakistan'ı vuran ,özellikle Keşmir'de etkili olan depremin ,iki ülkenin bölge konusunda yaptığı görüşmelerde ilerleme kaydetmesi açısından bir fırsat yarattığını ifade etti .</sentence>
+</doc>
+<doc>
+<id>175865</id>
+<sentence num="0">2005 11 01 14 :20 :00 .Türkiye ,Hindistan'daki saldırıları şiddetle kınadı .</sentence>
+<sentence num="1">Türkiye ,29 ekimde Hindistan'ın başkenti Yeni Delhi'de çok sayıda can kaybına ve yaralanmaya yol açan terör saldırılarını şiddetle kınadı .</sentence>
+<sentence num="2">Dışişleri Bakanlığı'ndan yapılan yazılı açıklamada ,bu tür saldırıların tüm insanlığa karşı işlenmiş bir suç olarak değerlendirildiği belirtilerek ,şöyle denildi :Hindistan hükümetine ,halkına ve saldırılarda yakınlarını kaybedenlere başsağlığı dileklerimizi sunuyor ,yaralılara acil şifalar diliyoruz .</sentence>
+<sentence num="3">Türkiye ,dünyanın neresinde olursa olsun ,terör eylemlerinin yarattığı acıları anlamakta ve içtenlikle paylaşmaktadır .</sentence>
+<sentence num="4">Bakanlık açıklamasında ,Türkiye'nin ,bu vesileyle uluslararası alanda terörizmle çok daha etkili bir mücadele sürdürülmesinin gerekliliğine işaret ederek bir uygarlık görevi haline gelen bu mücadelede daha süratli adımlar atılması ve bu konudaki işbirliğinin artırılması konusunda uluslararası topluma bir kez daha çağrıda bulunduğu da ifade edildi .</sentence>
+<sentence num="5">Yeni Delhi'de cumartesi günü peş peşe düzenlenen 3 terör saldırısında 60 dolayında kişi hayatını kaybetmiş ,200'den fazla kişi yaralanmıştı .</sentence>
+</doc>
+<doc>
+<id>176140</id>
+<sentence num="0">2005 11 02 04 :30 :00 .Dışişleri Bakanı Gül'den ,Hindistan'a başsağlığı mesajı .</sentence>
+<sentence num="1">Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül ,Hindistan'da cumartesi günü düzenlenen saldırılar münasebetiyle Hintli muhatabına başsağlığı mesajı gönderdi .</sentence>
+<sentence num="2">Edinilen bilgiye göre ,Gül Hindistan Dışişleri Bakanı Natwar Singh'e gönderdiği mesajda ,''menfur terör eylemlerini şiddetle kınayarak ,saldırılarda hayatını kaybedenlerin yakınlarına ve dost Hindistan halkına başsağlığı ,yaralananlara ise acil şifalar ''diledi .</sentence>
+<sentence num="3">Türkiye ,Hindistan'ın başkenti Yeni Delhi'de 29 Ekim'de 60 dolayında kişinin ölümüne ,200'den fazla kişinin yaralanmasına yol açan terör saldırılarını şiddetle kınamıştı .</sentence>
+</doc>

@@ -1,0 +1,388 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 10 15 00 :00 :00 .maslak'taki patlamada yaralananlar tedavi altına alındı ..</sentence>
+<sentence num="1">maslak'taki patlamada yaralananlar tedavi altına alındı maslak'taki akaryakıt istasyonunda meydana gelen patlamada yaralanan 3 kişi ,hastanede tedavi altına alındı .</sentence>
+<sentence num="2">akaryakıt istasyonundaki patlamanın ardından olay yerine gelen polis ekipleri güvenlik çemberi oluşturdu .</sentence>
+<sentence num="3">patlama sırasında istasyonda aracına yakıt aldığını söyleyen taksi şoförü osman topal hafif şekilde başından yaralandı ve olay yerindeki ambulansta tedavi edildi .</sentence>
+<sentence num="4">olayı anlatan topal ,yakıt aldığı sırada büyük bir patlama olduğunu söyledi .</sentence>
+<sentence num="5">patlamanın ardından herhangi bir alev görmediğini ifade eden topal ,patlamanın istasyonun tam olarak neresinde olduğunu ise kestiremediğini anlattı .</sentence>
+<sentence num="6">patlamanın olduğu istasyonda beyaz renkli bir araç parçalandı ve parçaları etrafa dağıldı .</sentence>
+<sentence num="7">istasyonda bulunan biri ticari otomobil olmak üzere 4 araç daha hasar gördü .</sentence>
+<sentence num="8">patlamanın etkisiyle istasyonun tavanının alt kısmının bir bölümü parçalanarak etrafa dağıldı .</sentence>
+<sentence num="9">olayda yaralanan 30 yaşlarındaki durmuş özkan ,ersin aslan (30 )ve sezai çetin (24 ),okmeydanı eğitim ve araştırma hastanesi'ne kaldırıldı .</sentence>
+<sentence num="10">yaralılardan aslan ve çetin'in sağlık durumunun iyi olduğu belirtildi .</sentence>
+<sentence num="11">polisin olay yerindeki incelemeleri sürüyor .</sentence>
+<sentence num="12">şişli belediye başkanı mustafa sarıgül ,benzin istasyonunda incelemelerde bulundu .</sentence>
+</doc>
+<doc>
+<id>166784</id>
+<sentence num="0">2005 10 15 19 :30 :00 .Benzin istasyonunda patlama :Beş yaralı İlk belirlemelere göre can kaybı yok .</sentence>
+<sentence num="1">Maslak'ta bir akaryakıt istasyonunda patlama meydana geldi .</sentence>
+<sentence num="2">Patlamada biri ağır ,beş kişi yaralandı .</sentence>
+<sentence num="3">Patlama Mehmetcik Vakfı'na ait Opet benzin isyasyonunda meydana geldi .</sentence>
+<sentence num="4">Doğan Haber Ajansı ,patlamanın LPG'den kaynaklandığını duyurdu .</sentence>
+<sentence num="5">Patlamada yaralananlar SSK Okmeydanı Hastanesi'ne kaldırılırken ,bir yaralının durumunun ciddi olduğu belirtiliyor .</sentence>
+<sentence num="6">Saat 19 .25 sıralarında meydana gelen patlama bölgesine çok sayıda itfaiye ve polis ekipleri sevk edildi .</sentence>
+<sentence num="7">Olay yerine itfaiye ekipleri ulaştı ,ancak istasyonda patlama sonucu yangın meydana gelmedi .</sentence>
+<sentence num="8">İlk belirlemelere göre can kaybının olmadığı patlama nedeniyle ,benzin istasyonun tavanının yarısı çöktü .</sentence>
+<sentence num="9">Akaryakıt istasyonundaki patlamanın ardından olay yerine gelen polis ekipleri güvenlik çemberi oluşturdu .</sentence>
+<sentence num="10">Patlamanın olduğu istasyonda beyaz renkli bir araç parçalandı ve parçaları etrafa dağıldı .</sentence>
+<sentence num="11">İstasyonda bulunan biri ticari otomobil olmak üzere dört araç daha hasar gördü .</sentence>
+<sentence num="12">Şişli Belediye Başkanı Mustafa Sarıgül ,benzin istasyonunda incelemelerde bulundu .</sentence>
+<sentence num="13">Mustafa Sarıgül ,patlamanın LPG'li bir araçta meydana geldiğini söyledi .</sentence>
+<sentence num="14">Olay yerindeki incelemelerini sürdüren polis ise ,bomba ihtimali üzerinde duruyor .</sentence>
+<sentence num="15">Patlamada yaralananların isimleri şöyle :Ersin Aslan Durmuş Özkan (durumu ağır )Sezai Çetin Tolga Kayabaşlı Osman Topal .</sentence>
+</doc>
+<doc>
+<id>166785</id>
+<sentence num="0">2005 10 15 19 :35 :00 .Maslak'ta benzin istasyonunda patlama .</sentence>
+<sentence num="1">Maslak'ta benzin istasyonunda patlama İstanbul Maslak'ta OPET'e ait bir benzin istasyonunda patlama meydana geldi .</sentence>
+<sentence num="2">Patlamanın sebebi henüz anlaşılamadı .</sentence>
+</doc>
+<doc>
+<id>166789</id>
+<sentence num="0">2005 10 15 19 :52 :00 .Maslak'ta patlama ,2 yaralı var .</sentence>
+<sentence num="1">Maslak'ta bir benzin istasyonunda meydana gelen patlamada ilk belirlemelere göre dört kişi yaralandı .</sentence>
+<sentence num="2">Yaralılar Okmeydanı Hastanesi'nde tedavi altına alındı .</sentence>
+<sentence num="3">Patlama sırasında bir araç tahrip oldu .</sentence>
+<sentence num="4">Benzinlikteki alışveriş merkezinde çok sayıda insanın bulunduğu sırada meydana gelen patlama benzinlikte de büyük hasara neden oldu .</sentence>
+<sentence num="5">Patlama ile ilgili polisin incelemesi sürüyor .</sentence>
+<sentence num="6">İlk incelemelere göre patlamanın LPG'li bir aracın yakıt alımı sırasında meydana geldiği tahmin ediliyor .</sentence>
+<sentence num="7">Meydana gelen patlamada 4 kişi yaralandı .</sentence>
+<sentence num="8">Yaralılar Özel Levent Polikliniği'nde ve ambulanslarda tedavi edildi .</sentence>
+<sentence num="9">Patlama sonrası benzin istasyonunun çatısı çöktü .</sentence>
+<sentence num="10">Benzin istasyonunda konaklama yapan araçlar zarar gördü .</sentence>
+<sentence num="11">Olay sonrası büyük panik yaşandı .</sentence>
+<sentence num="12">Yaralıların yakınları olay yerine koştu .</sentence>
+<sentence num="13">Patlamanın ardından olay yerine çok sayıda polis ve sağlık ekibi gönderildi .</sentence>
+<sentence num="14">Yetkililer halen incelemesi sürüyor .</sentence>
+</doc>
+<doc>
+<id>166793</id>
+<sentence num="0">2005 10 15 19 :59 :00 .Maslak'taki patlamada ilk belirlemelere göre iki kişi yaralandı .</sentence>
+<sentence num="1">Maslak'taki patlamada ilk belirlemelere göre iki kişi yaralandı Maslak'taki bir akaryakıt istasyonunda meydana gelen patlamada ilk belirlemelere göre 2 kişi yaralandı .</sentence>
+<sentence num="2">Alınan ilk bilgilere göre ,Maslak'taki bir akaryakıt istasyonunda bulunun araçta saat 19 .35 sıralarında patlama oldu .</sentence>
+<sentence num="3">Olayda ilk belirlemelere göre 2 kişi yaralandı .</sentence>
+<sentence num="4">Yaralılar ,Okmeydanı Eğitim ve Araştırma Hastanesi'ne kaldırıldı .</sentence>
+<sentence num="5">Olay yerine itfaiye ekipleri ulaştı ,ancak istasyonda patlama sonucu yangın meydana gelmedi .</sentence>
+</doc>
+<doc>
+<id>166794</id>
+<sentence num="0">2005 10 15 20 :00 :00 .Maslak'ta patlama meydana geldi :1'i ağır 5 yaralı .</sentence>
+<sentence num="1">Maslak'taki bir akaryakıt istasyonunda bulunun araçta saat 19 .35 sıralarında patlama oldu .</sentence>
+<sentence num="2">Olayda ilk belirlemelere göre 1'i ağır 5 kişi yaralandı .</sentence>
+<sentence num="3">Yaralılar ,Okmeydanı Eğitim ve Araştırma Hastanesi'ne kaldırıldı .</sentence>
+<sentence num="4">Olay yerine itfaiye ekipleri ulaştı ,ancak istasyonda patlama sonucu yangın meydana gelmedi .?</sentence>
+<sentence num="5">Sarıgül'den patlama açıklaması :''Ucuz atlattık ''?</sentence>
+<sentence num="6">Opet Petrolcülük :''Patlama dolum sırasında meydana gelmemiş ''?</sentence>
+<sentence num="7">İstanbul Emniyet Müdürü Cerrah :''Araştırmamız sürüyor ''?</sentence>
+<sentence num="8">Yaralıların durumu iyi Patlamada yaralanan bir şahsın verdiği bilgilere göre ,LPG'den daha şiddetli büyük bir patlama yaşandı .</sentence>
+<sentence num="9">Patlamanın meydana geldiği benzin istasyonunun yakınındaki alışveriş merkezinde bulunan vatandaşlardın ise tehlikeyi ucuz atlattıkları ifade edildi .</sentence>
+<sentence num="10">İstasyona sevk edilen itfaiye ve polis ekipleri patlama üzerinde çalışmalarını sürdürüyor .</sentence>
+<sentence num="11">Olay yerine gelen Şişli Belediye Başkanı Mustafa Sarıgül ,emniyet ve itfaiye görevlilerinden bilgi alarak ,patlama hakkında ilerleyen saatlerde detaylı açıklama yapacaklarını kaydetti .</sentence>
+</doc>
+<doc>
+<id>166805</id>
+<sentence num="0">2005 10 15 20 :54 :00 .Maslak'ta bomba patlamış .</sentence>
+<sentence num="1">Maslak'taki akaryakıt istasyonunda meydana gelen patlamada yaralanan 3 kişi ,hastanede tedavi altına alındı .</sentence>
+<sentence num="2">Akaryakıt istasyonundaki patlamanın ardından olay yerine gelen polis ekipleri güvenlik çemberi oluşturdu .</sentence>
+<sentence num="3">Patlama sırasında istasyonda aracına yakıt aldığını söyleyen taksi şoförü Osman Topal hafif şekilde başından yaralandı ve olay yerindeki ambulansta tedavi edildi .</sentence>
+<sentence num="4">AA muhabirine olayı anlatan Topal ,yakıt aldığı sırada büyük bir patlama olduğunu söyledi .</sentence>
+<sentence num="5">Patlamanın ardından herhangi bir alev görmediğini ifade eden Topal ,patlamanın istasyonun tam olarak neresinde olduğunu ise kestiremediğini anlattı .</sentence>
+<sentence num="6">Patlamanın olduğu istasyonda beyaz renkli bir araç parçalandı ve parçaları etrafa dağıldı .</sentence>
+<sentence num="7">İstasyonda bulunan biri ticari otomobil olmak üzere 4 araç daha hasar gördü .</sentence>
+<sentence num="8">Patlamanın etkisiyle istasyonun tavanının alt kısmının bir bölümü parçalanarak etrafa dağıldı .</sentence>
+<sentence num="9">Olayda yaralanan 30 yaşlarındaki Durmuş Özkan ,Ersin Aslan (30 )ve Sezai Çetin (24 ),Okmeydanı Eğitim ve Araştırma Hastanesi'ne kaldırıldı .</sentence>
+<sentence num="10">Yaralılardan Aslan ve Çetin'in sağlık durumunun iyi olduğu belirtildi .</sentence>
+<sentence num="11">Polisin olay yerindeki incelemeleri sürüyor .</sentence>
+<sentence num="12">Şişli Belediye Başkanı Mustafa Sarıgül ,benzin istasyonunda incelemelerde bulundu .</sentence>
+<sentence num="13">Alınan son bilgilere göre ise polis ekiplerinin yaptırları incelemede patlamaya lpgli bir aracın değil bir bombanın neden olduğu ifade edildi .</sentence>
+</doc>
+<doc>
+<id>166812</id>
+<sentence num="0">2005 10 15 21 :28 :00 .Patlamada bomba şüphesi Benzin istasyonundaki patlamada beş kişi yaralandı .</sentence>
+<sentence num="1">Patlamada beş kişi yaralandı Polis ,Maslak'ta Mehmetcik Vakfı'na ait bir benzin istasyonunda meydana gelen patlamanın bombadan kaynaklanmış olması ihtimalini araştırıyor .</sentence>
+<sentence num="2">Benzin istasyonunun güvenlik kamerasında yapılan incelemede ,dolum sırasında araç şoförünün aracından inerek uzaklaştığı ve ardından patlamanın meydana geldiği anlaşıldı .</sentence>
+<sentence num="3">İstanbul Emniyet Müdürü Celalettin Cerrah yaptığı açıklamada ,patlamanın nedeninin bomba olup olmadığını araştırdıklarını söyledi .</sentence>
+<sentence num="4">Maslak'taki petrol istasoyununda meydana gelen patlama ile ilgili yazılı bir açıklama da benzin firmasından geldi .</sentence>
+<sentence num="5">Firma yetkilileri patlamanın dolum sırasında meydana gelmediğini açıkladı .</sentence>
+<sentence num="6">Patlamada beş kişi yaralandı Maslak'ta Mehmetcik Vakfı'na ait Opet akaryakıt isyasyonunda saat 19 :25 sıralarında meydana gelen patlamada biri ağır beş kişi yaralandı .</sentence>
+<sentence num="7">Patlamada yaralananlar SSK Okmeydanı Hastanesi'ne kaldırılırken ,bir yaralının durumunun ciddi olduğu belirtiliyor .</sentence>
+<sentence num="8">Olay yerine itfaiye ekipleri ulaştı ,ancak istasyonda patlama sonucu yangın meydana gelmedi .</sentence>
+<sentence num="9">İlk belirlemelere göre can kaybının olmadığı patlama nedeniyle ,benzin istasyonun tavanının yarısı çöktü .</sentence>
+<sentence num="10">Patlamanın olduğu istasyonda beyaz renkli bir araç parçalandı ve parçaları etrafa dağıldı .</sentence>
+<sentence num="11">İstasyonda bulunan biri ticari otomobil olmak üzere dört araç daha hasar gördü .</sentence>
+<sentence num="12">Patlamadan sonra olay yerine gelerek yetkillilerden bilgi alan Şişli Belediye Başkanı Mustafa Sarıgül ,patlamanın LPG'li bir araçta meydana geldiğini söylemişti .</sentence>
+<sentence num="13">Patlamada yaralananların isimleri şöyle :Ersin Aslan Durmuş Özkan (durumu ağır )Sezai Çetin Tolga Kayabaşlı Osman Topal .</sentence>
+</doc>
+<doc>
+<id>166820</id>
+<sentence num="0">2005 10 15 22 :10 :00 .Maslak'taki patlama dolum sırasında meydana gelmemiş .</sentence>
+<sentence num="1">Maslak'taki patlama dolum sırasında meydana gelmemiş OPET Petrolcülük A .Ş ,''ilk alınan bilgilere göre patlamanın dolum sırasında değil ,market önünde park eden bir arabadan kaynaklandığının görgü tanıklarınca belirtildiğini ''bildirdi .</sentence>
+<sentence num="2">Konuya ilişkin yazılı açıklamada ,''İlk alınan bilgilere göre ,Opet Maslak İstasyonu'nda meydana gelen patlamanın ,dolum sırasında değil ,market önünde park eden bir arabadan kaynaklandığı görgü tanıkları tarafından belirtilmiş olup ,ilk belirlemelere göre Okmeydanı Hastanesi'ne kaldırılan bazı yaralılar bulunmaktadır ''denildi .</sentence>
+<sentence num="3">Marketin önü ve kanopinin binaya yakın bölümlerinde maddi hasar meydana geldiği belirtilen açıklamada ,akaryakıt ve LPG sistemlerinde bir sorun bulunmadığı kaydedildi .''</sentence>
+<sentence num="4">Konuyla ilgili olarak teknik ekiplerinin araştırmalarını sürdürdüğü ''ifade edilen açıklamada ,''İstasyon personelinin soğukkanlı bir şekilde ilk önlemleri alması ,ayrıca böyle bir durumda istasyonun otomatik yakıt ve elektrik ikmalini kesen sisteminin bulunması ,olayın facia haline gelmesini önlemiştir ''ifadesine yer verildi .</sentence>
+</doc>
+<doc>
+<id>166823</id>
+<sentence num="0">2005 10 15 22 :19 :00 .Sarıgül'e göre patlama LPG'den .</sentence>
+<sentence num="1">Bir akaryakıt istasyonunda meydana gelen patlamanın ardından olay yerine gelerek inceleme yapan Sarıgül ,gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="2">Sarıgül ,''İftar saatinin sonrası olması nedeniyle burada büyük bir olay atlattık .</sentence>
+<sentence num="3">Daha fazla zarar olabilirdi ''dedi .</sentence>
+<sentence num="4">Belediye Başkanı Sarıgül ,mülkiyeti Mehmetçik Vakfı'na ait olan istasyondaki patlamanın nedenine ilişkin ise ''İtfaiye ve istasyon çalışanlarının bize verdiği bilgiye göre patlama LPG'den kaynaklandı ''dedi .</sentence>
+<sentence num="5">LPG'li araçlara dikkati çeken Sarıgül ,gazetecilerin ''patlamanın bir taksi de mi olduğunu ''sorması üzerine ise ''Hayır ,araç ticari değil ''yanıtını verdi .</sentence>
+<sentence num="6">AA .</sentence>
+</doc>
+<doc>
+<id>166824</id>
+<sentence num="0">2005 10 15 22 :20 :00 .Sarıgül'den patlama açıklaması :Ucuz atlattık .</sentence>
+<sentence num="1">Şişli Belediye Başkanı Mustafa Sarıgül ,kendilerine verilen bilgiye göre ,Maslak'taki patlamanın LPG'li bir araçta meydana geldiğini ifade etti .</sentence>
+<sentence num="2">Bir akaryakıt istasyonunda meydana gelen patlamanın ardından olay yerine gelerek inceleme yapan Sarıgül ,gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="3">Sarıgül ,''İftar saatinin sonrası olması nedeniyle burada büyük bir olay atlattık .</sentence>
+<sentence num="4">Daha fazla zarar olabilirdi ''dedi .</sentence>
+<sentence num="5">Belediye Başkanı Sarıgül ,mülkiyeti Mehmetçik Vakfı'na ait olan istasyondaki patlamanın nedenine ilişkin ise ''İtfaiye ve istasyon çalışanlarının bize verdiği bilgiye göre patlama LPG'den kaynaklandı ''dedi .</sentence>
+<sentence num="6">LPG'li araçlara dikkati çeken Sarıgül ,gazetecilerin ''patlamanın bir taksi de mi olduğunu ''sorması üzerine ise ''Hayır ,araç ticari değil ''yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>166827</id>
+<sentence num="0">2005 10 15 22 :30 :00 .Opet Petrolcülük :Patlama dolum sırasında meydana gelmemiş .</sentence>
+<sentence num="1">OPET Petrolcülük A .Ş ,''ilk alınan bilgilere göre patlamanın dolum sırasında değil ,market önünde park eden bir arabadan kaynaklandığının görgü tanıklarınca belirtildiğini ''bildirdi .</sentence>
+<sentence num="2">Konuya ilişkin yazılı açıklamada ,''İlk alınan bilgilere göre ,Opet Maslak İstasyonu'nda meydana gelen patlamanın ,dolum sırasında değil ,market önünde park eden bir arabadan kaynaklandığı görgü tanıkları tarafından belirtilmiş olup ,ilk belirlemelere göre Okmeydanı Hastanesi'ne kaldırılan bazı yaralılar bulunmaktadır ''denildi .</sentence>
+<sentence num="3">Marketin önü ve kanopinin binaya yakın bölümlerinde maddi hasar meydana geldiği belirtilen açıklamada ,akaryakıt ve LPG sistemlerinde bir sorun bulunmadığı kaydedildi .''</sentence>
+<sentence num="4">Konuyla ilgili olarak teknik ekiplerinin araştırmalarını sürdürdüğü ''ifade edilen açıklamada ,''İstasyon personelinin soğukkanlı bir şekilde ilk önlemleri alması ,ayrıca böyle bir durumda istasyonun otomatik yakıt ve elektrik ikmalini kesen sisteminin bulunması ,olayın facia haline gelmesini önlemiştir ''ifadesine yer verildi .</sentence>
+</doc>
+<doc>
+<id>166828</id>
+<sentence num="0">2005 10 15 22 :30 :00 .İstanbul Emniyet Müdürü Cerrah :Araştırmamız sürüyor .</sentence>
+<sentence num="1">İstanbul Emniyet Müdürü Celalettin Cerrah ,Maslak'taki patlamaya ilişkin ,''Görgü tanıklarının bize verdiği bilgiye göre ,LPG tüpü dolumu yapan bir araç diyorlar ''dedi .</sentence>
+<sentence num="2">Olay yerinde incelemede bulunan Cerrah ,gazetecilerin sorularını yanıtladı .</sentence>
+<sentence num="3">Cerrah ,''Burada ,gördüğünüz gibi bir patlama olmuş .</sentence>
+<sentence num="4">Görgü tanıklarının bize verdiği bilgiye göre ,LPG tüpü dolumu yapan bir araç diyorlar .</sentence>
+<sentence num="5">Hatta birisinin ağzında sigara olduğu söyleniyor ''diye konuştu .</sentence>
+<sentence num="6">1'i ağır 5 yaralı olduğunu ifade eden Cerrah ,''7 araç da hasar gördü .</sentence>
+<sentence num="7">Sonuç olarak arkadaşlarımız araştırmalarını sürdürüyor ''diye konuştu .</sentence>
+<sentence num="8">Gazetecilerin ,''patlamanın olduğu aracın bir kamyonet olduğunun söylendiğini ''ifade etmeleri üzerine Emniyet Müdürü Cerrah ,''Hayır ,otomobil ''dedi .</sentence>
+<sentence num="9">Cerrah ,bir gazetecinin ,''Patlamanın olduğu aracın sürücüsü hakkında bilgi var mı ?</sentence>
+<sentence num="10">Yaralılar arasında mı ?''</sentence>
+<sentence num="11">şeklindeki sorusuna ise ''5 yaralı var .</sentence>
+<sentence num="12">Arkadaşlarımız bunu da araştırıyor ''yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>166834</id>
+<sentence num="0">2005 10 15 22 :49 :00 .'LPG tankının patlamasının bu kadar hasar vereceğini sanmıyorum '.'</sentence>
+<sentence num="1">LPG tankının patlamasının bu kadar hasar vereceğini sanmıyorum 'OPET Yönetim Kurulu Başkanı Fikret Öztürk ,Maslak'taki patlamaya ilişkin ,''LPG tankının patlamasından bu kadar hasar olacağını sanmıyorum ''dedi .</sentence>
+<sentence num="2">Olay yerinde incelemede bulunan Öztürk ,basın mensuplarına yaptığı açıklamada ,istasyonun depreme karşı duyarlı olduğunu belirterek ,herhangi bir tehlike anında pompaların otomatik olarak kapandığını söyledi .''</sentence>
+<sentence num="3">Patlamanın ,pompaların olduğu bölümde değil ,marketin önünde meydana geldiğini ''ifade eden Öztürk ,''Bir çukur oluşmuş .</sentence>
+<sentence num="4">LPG tankının patlamasından bu kadar hasar olacağını sanmıyorum .</sentence>
+<sentence num="5">LPG tankı ya da başka bir şey olduğu araştırmalardan sonra belli olacak .</sentence>
+<sentence num="6">Gönül ister ki sigaradan olsun da başka bir şeyden olmasın ''dedi .</sentence>
+<sentence num="7">Fikret Öztürk ,araştırmaların sürdüğünü ,istasyona ait güvenlik kamerasının da emniyet tarafından incelenmek üzere alındığını bildirdi .</sentence>
+<sentence num="8">Gazetecilerin ,patlamanın olduğu araca ilişkin sorusuna ise Öztürk ,''Taksi deniyor ,hususi araç deniyor ,kamyonet deniyor .</sentence>
+<sentence num="9">Araç parçalandığı için şu anda tam olarak bir şey söylemek mümkün değil ''yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>166845</id>
+<sentence num="0">2005 10 15 23 :11 :00 .Maslak'taki patlamada yaralananların tedavisi sürüyor .</sentence>
+<sentence num="1">Maslak'taki patlamada yaralananların tedavisi sürüyor Maslak'ta OPET akaryakıt istasyonundaki patlamada yaralanan 5 kişiden 3'ünün hastanedeki tedavisi sürüyor .</sentence>
+<sentence num="2">Olayda yaralanan 5 kişiden Durmuş Özkan ,Ersin Aslan ve Sezai Çetin'in Okmeydanı Eğitim ve Araştırma Hastanesi'ndeki tedavilerine devam ediliyor .</sentence>
+<sentence num="3">Bu kişilerden Özkan'ın yüzünde travma olduğu ,Aslan ve Çetin'in sağlık durumlarının ise iyi olduğu belirtildi .</sentence>
+<sentence num="4">Olay sırasında istasyonda aracına yakıt alan ve başından hafif yaralanan taksi sürücüsü Osman Topal ,olay yerindeki bir ambulansta yapılan müdahalenin ardından buradan ayrıldı .</sentence>
+<sentence num="5">Levent Hastanesi'ne kaldırılan diğer yaralı Tolga Kayabaşlı ise buradaki tedavisinin ardından taburcu edildi .</sentence>
+<sentence num="6">Öte yandan ,akaryakıt istasyonundaki patlamanın ardından caddeye saçılan parçalar ,Olay Yeri İnceleme Şube Müdürlüğü ekipleri tarafından toplanarak özel torbalara konuldu .</sentence>
+<sentence num="7">Bu parçalar ,akaryakıt istasyonunda bomba uzmanı ekiplerce toplanan diğer parçalarla birlikte incelemeye alındı .</sentence>
+<sentence num="8">Akaryakıt istasyonunun önündeki caddenin temizlenmesinin ardından ,bir süredir trafiğe kapalı tutulan yol da saat 22 .</sentence>
+<sentence num="9">30 itibariyle yeniden trafiğe açıldı .</sentence>
+<sentence num="10">Polisin ,kordon altında tuttuğu akaryakıt istasyonundaki incelemeleri sürüyor .</sentence>
+</doc>
+<doc>
+<id>166849</id>
+<sentence num="0">2005 10 15 23 :25 :00 .Yaralıların durumu iyi .</sentence>
+<sentence num="1">Maslak'ta OPET akaryakıt istasyonundaki patlamada yaralanan 5 kişiden 3'ünün hastanedeki tedavisi sürüyor .</sentence>
+<sentence num="2">Olayda yaralanan 5 kişiden Durmuş Özkan ,Ersin Aslan ve Sezai Çetin'in Okmeydanı Eğitim ve Araştırma Hastanesi'ndeki tedavilerine devam ediliyor .</sentence>
+<sentence num="3">Bu kişilerden Özkan'ın yüzünde travma olduğu ,Aslan ve Çetin'in sağlık durumlarının ise iyi olduğu belirtildi .</sentence>
+<sentence num="4">Olay sırasında istasyonda aracına yakıt alan ve başından hafif yaralanan taksi sürücüsü Osman Topal ,olay yerindeki bir ambulansta yapılan müdahalenin ardından buradan ayrıldı .</sentence>
+<sentence num="5">Levent Hastanesi'ne kaldırılan diğer yaralı Tolga Kayabaşlı ise buradaki tedavisinin ardından taburcu edildi .</sentence>
+<sentence num="6">Öte yandan ,akaryakıt istasyonundaki patlamanın ardından caddeye saçılan parçalar ,Olay Yeri İnceleme Şube Müdürlüğü ekipleri tarafından toplanarak özel torbalara konuldu .</sentence>
+<sentence num="7">Bu parçalar ,akaryakıt istasyonunda bomba uzmanı ekiplerce toplanan diğer parçalarla birlikte incelemeye alındı .</sentence>
+<sentence num="8">Akaryakıt istasyonunun önündeki caddenin temizlenmesinin ardından ,bir süredir trafiğe kapalı tutulan yol da saat 22 .</sentence>
+<sentence num="9">30 itibariyle yeniden trafiğe açıldı .</sentence>
+<sentence num="10">Polisin ,kordon altında tuttuğu akaryakıt istasyonundaki incelemeleri sürüyor .</sentence>
+</doc>
+<doc>
+<id>166851</id>
+<sentence num="0">2005 10 15 23 :35 :00 .İstanbul'da Patlama .</sentence>
+<sentence num="1">İstanbul'da bir akaryakıt istasyonunda meydana gelen patlamada biri ağır 5 kişi yaralandı .</sentence>
+<sentence num="2">Maslak'taki bir akaryakıt istasyonunda saat 19 .35 sıralarında patlama oldu .</sentence>
+<sentence num="3">İstasyonda bulunan bir otomobilde meydana gelen patlama sonucu biri ağır 5 kişi yaralandı .</sentence>
+<sentence num="4">3 Yaralı Okmeydanı Eğitim ve Araştırma hastanesine sevkedildi .</sentence>
+<sentence num="5">Ağır yaralanan Durmuş Özkan ,buradan Memorial Hastanesi'ne gönderildi .</sentence>
+<sentence num="6">Başından hafif şekilde yaralanan iki kişi de ayakta tedavi edildi .</sentence>
+<sentence num="7">Patlama sonucu benzin istasyonunun tavanı çökerken ,7 araç hasar gördü .</sentence>
+<sentence num="8">Bu arada ,olay yerinde inceleme yapan İstanbul Emniyet Müdürü Celalettin Cerrah ,patlamanın nedeninin henüz belli olmadığını ,araştırmanın sürdüğünü bildirdi .</sentence>
+</doc>
+<doc>
+<id>166865</id>
+<sentence num="0">2005 10 16 00 :54 :00 .OPET'ten patlama açıklaması .</sentence>
+<sentence num="1">Olay yerinde incelemede bulunan Öztürk ,basın mensuplarına yaptığı açıklamada ,istasyonun depreme karşı duyarlı olduğunu belirterek ,herhangi bir tehlike anında pompaların otomatik olarak kapandığını söyledi .''</sentence>
+<sentence num="2">Patlamanın ,pompaların olduğu bölümde değil ,marketin önünde meydana geldiğini ''ifade eden Öztürk ,''Bir çukur oluşmuş .</sentence>
+<sentence num="3">LPG tankının patlamasından bu kadar hasar olacağını sanmıyorum .</sentence>
+<sentence num="4">LPG tankı ya da başka bir şey olduğu araştırmalardan sonra belli olacak .</sentence>
+<sentence num="5">Gönül ister ki sigaradan olsun da başka bir şeyden olmasın ''dedi .</sentence>
+<sentence num="6">Fikret Öztürk ,araştırmaların sürdüğünü ,istasyona ait güvenlik kamerasının da emniyet tarafından incelenmek üzere alındığını bildirdi .</sentence>
+<sentence num="7">Gazetecilerin ,patlamanın olduğu araca ilişkin sorusuna ise Öztürk ,''Taksi deniyor ,hususi araç deniyor ,kamyonet deniyor .</sentence>
+<sentence num="8">Araç parçalandığı için şu anda tam olarak bir şey söylemek mümkün değil ''yanıtını verdi .</sentence>
+<sentence num="9">AA .</sentence>
+</doc>
+<doc>
+<id>167112</id>
+<sentence num="0">2005 10 16 16 :47 :00 .Maslak'taki patlamaya bomba neden oldu .</sentence>
+<sentence num="1">Maslak'taki patlamaya bomba neden oldu Maslak'taki OPET akaryakıt istasyonunda meydana gelen patlamaya ,bir araca yerleştirilen bombanın neden olduğu belirlendi .</sentence>
+<sentence num="2">Üst düzey bir emniyet yetkilisinden alınan bilgiye göre ,incelemeler sonucu patlamanın ,bir araca yerleştirilen bombanın uzaktan kumanda ile infilak ettirilmesiyle gerçekleştiği anlaşıldı .</sentence>
+<sentence num="3">Patlayıcı maddenin türü konusundaki incelemelerin sürdüğünü kaydeden aynı yetkili ,patlama sırasında parçalanan aracın çalıntı kaydına rastlanmadığını bildirdi .</sentence>
+</doc>
+<doc>
+<id>167117</id>
+<sentence num="0">2005 10 16 17 :00 :00 .Benzin istasyonundaki patlamada bomba izi !</sentence>
+<sentence num="1">Maslak'taki OPET akaryakıt istasyonunda meydana gelen patlamaya ,bir araca yerleştirilen bombanın neden olduğu belirlendi .</sentence>
+<sentence num="2">Üst düzey bir emniyet yetkilisinden alınan bilgiye göre ,incelemeler sonucu patlamanın ,bir araca yerleştirilen bombanın uzaktan kumanda ile infilak ettirilmesiyle gerçekleştiği anlaşıldı .</sentence>
+<sentence num="3">Patlayıcı maddenin türü konusundaki incelemelerin sürdüğünü kaydeden aynı yetkili ,patlama sırasında parçalanan aracın çalıntı kaydına rastlanmadığını bildirdi .</sentence>
+<sentence num="4">Yetkili ,olaya ilişkin soruşturmanın çok yönlü olarak sürdürüldüğünü kaydetti .</sentence>
+<sentence num="5">CNNTurk Televizyonu ise patlamaya ,aracın LPG deposunun üzerine cep telefonu düzeneğine bağlı olarak yerleştirilen A4 tipi plastik patlayıcının neden olduğunu duyurdu .</sentence>
+<sentence num="6">İSTASYON MEHMETÇİK VAKFI'NA AİT Saldırının gerçekleştiği OPET akaryakıt istasyonu Mehmetçik Vakfı'na ait .</sentence>
+<sentence num="7">Dün akşam meydana gelen patlama sonrası çevrede geniş güvenlik önlemleri alan polis ,çalışmalarını bomba ihtimali üzerine yoğunlaştırmıştı .</sentence>
+<sentence num="8">Patlama sonrası yerde 1 .5 metre çapında bir çukur açılması ve benzin istasyonunun Mehmetçik Vakfı'na ait olması saldırı ihtimallerini kuvvetlendiriyordu .</sentence>
+<sentence num="9">Emniyet güçlerinin dün akşamdan beri yürüttükleri çalışmalar sonucunda patlamaya cep telefonu düzeneğine bağlanmış ,A4 tipi bombanın neden olduğu belirlendi .</sentence>
+<sentence num="10">Bu yöntemin PKK'nın eylemleriyle benzerlik taşıması dikkat çeken bir diğer nokta .</sentence>
+<sentence num="11">Olayla ilgili geniş çaplı soruşturma sürüyor .</sentence>
+<sentence num="12">OLAY Büyükdere Caddesi'ndeki OPET akaryakıt istasyonuna gelen beyaz renkli bir otomobilde dün 19 .35 sıralarında büyük bir patlama meydana geldi .</sentence>
+<sentence num="13">Patlamanın ardından otomobilde yangın çıkarken ,benzin pompalarının üzerindeki çatı çöktü ve istasyonun 3 katlı hizmet binasının camları kırıldı .</sentence>
+<sentence num="14">Patlayan otomobilin parçaları da 100 metrekarelik alana yayıldı .</sentence>
+<sentence num="15">Patlama sırasında çeşitli yerlerinden yaralanan Durmuş Özkan (30 ),Tolga Kayabaşlı ,Osman Topal ,Sezai Çetin (24 )ve Ersin Arslan (30 )hemen hastaneye kaldırıldı .</sentence>
+<sentence num="16">Özkan'ın durumunun ciddi olduğu belirtildi .</sentence>
+<sentence num="17">Patlamada ,7 araç da hasar gördü .</sentence>
+<sentence num="18">Görgü tanıklarının ilk ifadeleri ve patlamanın meydana geldiği noktanının LPG pompalarının olduğu yerde olması ,akıllara ilk olarak LPG patlaması olasılığını getirmişti .</sentence>
+<sentence num="19">Olay yerinde inceleme yapan Şişli Belediye Başkanı Mustafa Sarıgül ,NTV'ye yaptığı açıklamada olayın terör saldırısı olmadığını ,LPG'li araçtan kaynaklandığını açıklamıştı .</sentence>
+<sentence num="20">OPET Yönetim Kurulu Başkanı Fikret Öztürk ise ,LPG tankının patlamasıyla bu kadar hasar olacağını sanmıyorum şeklinde konuşmuştu .</sentence>
+</doc>
+<doc>
+<id>167125</id>
+<sentence num="0">2005 10 16 17 :10 :00 .Patlamanın nedeni bomba .</sentence>
+<sentence num="1">AA muhabirinin üst düzey bir emniyet yetkilisinden aldığı bilgiye göre ,incelemeler sonucu patlamanın ,bir araca yerleştirilen bombanın uzaktan kumanda ile infilak ettirilmesiyle gerçekleştiği anlaşıldı .</sentence>
+<sentence num="2">Patlayıcı maddenin türü konusundaki incelemelerin sürdüğünü kaydeden aynı yetkili ,patlama sırasında parçalanan aracın çalıntı kaydına rastlanmadığını bildirdi .</sentence>
+<sentence num="3">Yetkili ,olaya ilişkin soruşturmanın çok yönlü olarak sürdürüldüğünü kaydetti .</sentence>
+</doc>
+<doc>
+<id>167128</id>
+<sentence num="0">2005 10 16 17 :13 :00 .Patlamanın nedeni A 4 tipi patlayıcı .</sentence>
+<sentence num="1">Maslak'taki patlamada beş kişi yaralanmıştı Maslak'ta Mehmetçik Vakfı'na ait Opet benzin istasyonunda dün meydana gelen patlamanın nedeninin A 4 tipi plastik patlayıcı olduğu belirlendi .</sentence>
+<sentence num="2">Benzinciye gelen otomobilin büyük bir gürültü ile patlaması istasyonu yerle bir etmiş ,biri ağır olmak üzere beş kişi yaralanmıştı .</sentence>
+<sentence num="3">Patlamada çok sayıda araç da zarar görmüştü .</sentence>
+<sentence num="4">Patlamanın ardından olay yeri inceleme ekiplerince elde edilen verilerin kriminal polis laboratuvarında yapılan incelemesinde patlamaya bombanın yol açtığı belirlendi .</sentence>
+<sentence num="5">Bomba uzmanları aracın içinde bulunan LPG deposu üzerine yerleştirilmiş cep telefonu düzenekli bombanın harekete geçirilmesi ile patlamanın gerçekleştiğini tespit etti .</sentence>
+<sentence num="6">Olayla ilgili soruşturma devam ediyor .</sentence>
+<sentence num="7">Patlamada beş kişi yaralandı Maslak'ta Mehmetcik Vakfı'na ait Opet akaryakıt isyasyonunda dün saat 19 .25 sıralarında meydana gelen patlamada biri ağır beş kişi yaralandı .</sentence>
+<sentence num="8">Patlamada yaralananlar SSK Okmeydanı Hastanesi'ne kaldırılmıştı .</sentence>
+<sentence num="9">Patlamadan sonra olay yerine gelerek yetkillilerden bilgi alan Şişli Belediye Başkanı Mustafa Sarıgül ,patlamanın LPG'li bir araçta meydana geldiğini söylemişti .</sentence>
+<sentence num="10">Patlamada yaralananların isimleri şöyle :Ersin Aslan Durmuş Özkan (durumu ağır )Sezai Çetin Tolga Kayabaşlı Osman Topal .</sentence>
+</doc>
+<doc>
+<id>167213</id>
+<sentence num="0">2005 10 17 00 :03 :00 .Patlamanın Nedeni Henüz Belirsiz .</sentence>
+<sentence num="1">İstanbul Maslak'taki benzin istasyonunda önceki (15 .10 .2005 )akşam meydana gelen patlama ile ilgili soruşturma sürdürülüyor .</sentence>
+<sentence num="2">Olayın ,terörist bir saldırı olduğu yönündeki iddialar da değerlendiriliyor .</sentence>
+<sentence num="3">Patlamanın ardından ortaya atılan tüm iddialar ,polis tarafından inceleniyor .</sentence>
+<sentence num="4">Özellikle güvenlik kamerasındaki görüntüler olayın aydınlanması açısından büyük önem taşıyor .</sentence>
+<sentence num="5">Patlama sırasında benzin ve likit petrol gazı depolarının alev almamış olması büyük bir şans olarak nitelendiriliyor .</sentence>
+<sentence num="6">Bu arada ,olayda yaralanan 5 kişiden Durmuş Özkan'ın sağlık durumu ciddiyetini koruyor .</sentence>
+</doc>
+<doc>
+<id>174138</id>
+<sentence num="0">2005 10 28 23 :23 :00 .Maslak'taki patlamaya 4 gözaltı .</sentence>
+<sentence num="1">Terörle Mücadele Şube Müdürlüğü ekipleri ,OPET Maslak İstasyonu'nda 15 Ekim 2005 günü meydana gelen ve 5 kişinin yaralanmasıyla sonuçlanan patlamaya ilişkin yürüttüğü soruşturma kapsamında ,E .</sentence>
+<sentence num="2">A ,E .S ,L .D .ve N .İ'yi gözaltına alındı .</sentence>
+<sentence num="3">Yakalanan bu kişilerin ,terör örgütü PKK adına benzin istasyonuna bomba koydukları öne sürüldü .</sentence>
+<sentence num="4">Zanlıların Terörle Mücadele Şube Müdürlüğü'ndeki sorguları sürüyor .</sentence>
+<sentence num="5">AA .</sentence>
+</doc>
+<doc>
+<id>174299</id>
+<sentence num="0">2005 10 29 12 :03 :00 .Maslak'taki patlamaya ilişkin 6 kişinin sorgusu sürüyor .</sentence>
+<sentence num="1">Maslak'taki patlamaya ilişkin 6 kişinin sorgusu sürüyor Maslak'taki patlamaya ilişkin İstanbul ve Diyarbakır'da gerçekleştirilen operasyonlarda gözaltına alınan 6 kişinin sorgusu sürüyor .</sentence>
+<sentence num="2">İstihbarat Şube Müdürlüğü ve Terörle Mücadele Şube Müdürlüğü ekiplerinin OPET Maslak İstasyonu'nda 15 Ekim 2005 günü meydana gelen ve 5 kişinin yaralanmasıyla sonuçlanan patlamaya ilişkin yürüttükleri soruşturma kapsamında ,İstanbul ve Diyarbakır'da eşzamanlı operasyonlar gerçekleştirildi .</sentence>
+<sentence num="3">Operasyonların İstanbul bölümünde E .</sentence>
+<sentence num="4">A ,E .S ,L .D .ve N .I .adlı kişiler gözaltına alındı .</sentence>
+<sentence num="5">Diyarbakır'da gözaltına alınan ve terör örgütü PKK adına bomba yüklü aracı benzin istasyonuna bıraktığı ileri sürülen K .</sentence>
+<sentence num="6">A .ile kuryelik yaptığı iddia edilen L .Y .de İstanbul'a getirildi .</sentence>
+<sentence num="7">Gözaltında tutulan 6 kişinin sorgu ve işlemlerinin sürdüğü bildirildi .</sentence>
+</doc>
+<doc>
+<id>174375</id>
+<sentence num="0">2005 10 29 15 :00 :00 .Maslak'taki patlama için 6 gözaltı .</sentence>
+<sentence num="1">İstihbarat Şube Müdürlüğü ve Terörle Mücadele Şube Müdürlüğü ekiplerinin OPET Maslak İstasyonu'nda 15 Ekim 2005 günü meydana gelen ve 5 kişinin yaralanmasıyla sonuçlanan patlamaya ilişkin yürüttükleri soruşturma kapsamında ,İstanbul ve Diyarbakır'da eşzamanlı operasyonlar gerçekleştirildi .</sentence>
+<sentence num="2">Operasyonların İstanbul bölümünde E .</sentence>
+<sentence num="3">A ,E .S ,L .D .ve N .I .adlı kişiler gözaltına alındı .</sentence>
+<sentence num="4">Diyarbakır'da gözaltına alınan ve terör örgütü PKK adına bomba yüklü aracı benzin istasyonuna bıraktığı ileri sürülen K .</sentence>
+<sentence num="5">A .ile kuryelik yaptığı iddia edilen L .Y .de İstanbul'a getirildi .</sentence>
+<sentence num="6">Gözaltında tutulan 6 kişinin sorgu ve işlemlerinin sürdüğü bildirildi .</sentence>
+<sentence num="7">aa .</sentence>
+</doc>
+<doc>
+<id>174421</id>
+<sentence num="0">2005 10 29 16 :55 :00 .Maslak'taki patlamaya altı gözaltı .</sentence>
+<sentence num="1">Maslak'taki patlamada beş kişi yaralanmıştı İstanbul Maslak'ta Mehmetçik Vakfı'na ait benzin istasyonundaki patlamaya ilişkin soruşturma kapsamında ,altı kişi gözaltına alındı .</sentence>
+<sentence num="2">Gözaltıların dördü İstanbul'da ,ikisi ise Diyarbakır'da gerçekleşti .</sentence>
+<sentence num="3">Opet Maslak İstasyonu'nda 15 ekimde meydana gelen ve beş kişinin yaralanmasıyla sonuçlanan patlamayla ilgili yakalananların ,eylemi terör örgütü PKK adına gerçekleştirdikleri öne sürüldü .</sentence>
+<sentence num="4">Zanlıların ,Terörle Mücadele Şube Müdürlüğü'ndeki sorguları sürüyor .</sentence>
+<sentence num="5">Maslak'tan faciadan dönüldü Maslak'ta Mehmetcik Vakfı'na ait Opet akaryakıt isyasyonunda geçtiğimiz 15 ekimde bir patlama meydana gelmişti .</sentence>
+<sentence num="6">Patlamada beş kişi yaralanmıştı .</sentence>
+<sentence num="7">Patlamadan hemen sonra yapılan açıklamalarda ,patlamanın LPG'den kaynaklanabileceği belirtilmiş ancak polisin olay yerini incelemesinin ardından patlamanın bomba kaynaklı olduğu anlaşılmıştı .</sentence>
+<sentence num="8">Mehmetçik Vakfı'na ait Maslak'taki akaryakıt istasyonu ,İstanbul'daki en büyük istasyonlardan biri .</sentence>
+</doc>
+<doc>
+<id>175221</id>
+<sentence num="0">2005 10 31 13 :50 :00 .Cerrah :Operasyonlarda 8 kişi yakalandı .</sentence>
+<sentence num="1">İstanbul Emniyet Müdürü Celalettin Cerrah ,2 ayrı terör örgütüne yönelik düzenlenen operasyonlarda 8 kişinin yakalandığını bildirdi .</sentence>
+<sentence num="2">Cerrah ,Terörle Mücadele Şube Müdürlüğü'nde yaptığı açıklamada ,15 Ekim 2005 tarihinde OPET Maslak İstasyonu'nda meydana gelen patlamaya ilişkin bölücü terör örgütü üyesi 6 kişinin yakalandığını belirtti .</sentence>
+<sentence num="3">Cerrah ,bu kişilerle birlikte operasyonun Diyarbakır ayağında 7 kilo 800 gram patlayıcı ile 5 adet fünye ele geçirildiğini açıkladı .</sentence>
+<sentence num="4">Celalettin Cerrah ,dini motifli bir terör örgütüne yönelik düzenlenen diğer operasyonda da 2 kişinin yakalandığını bildirdi .</sentence>
+</doc>
+<doc>
+<id>175485</id>
+<sentence num="0">2005 10 31 21 :16 :00 .Maslak'taki patlamaya dört tutuklama .</sentence>
+<sentence num="1">Gözaltına alınanlardan iki kişi tutuklandı İstanbul Maslak'ta Mehmetçik Vakfına ait bir akaryakıt istasyonunda meydana gelen patlamayla ilgili gözaltına alınan altı kişiden dördü tutuklandı .</sentence>
+<sentence num="2">Terörle Mücadele Şube Müdürlüğü'ndeki işlemleri tamamlanan altı kişinin ,gönderildikleri Beşiktaş'taki İstanbul Adliyesi'nde Cumhuriyet Savcılığı'nca ifadeleri alındı .</sentence>
+<sentence num="3">Cumhuriyet Savcısı ,'yasadışı örgüte üye olmak 'suçundan beş kişiyi tutuklanmaları talebiyle nöbetçi mahkemeye sevk ederken ,bir kişiyi serbest bıraktı .</sentence>
+<sentence num="4">Nöbetçi İstanbul 14'üncü Ağır Ceza Mahkemesi'nce tekrar sorgulanan Nusret İ ,Kenan A ,Lütfi Y .ve Veysel D .tutuklanırken ,Levent D .serbest bırakıldı .</sentence>
+<sentence num="5">Maslak'tan faciadan dönüldü Maslak'ta Mehmetcik Vakfı'na ait Opet akaryakıt isyasyonunda geçtiğimiz 15 ekimde bir patlama meydana gelmişti .</sentence>
+<sentence num="6">Patlamada beş kişi yaralanmıştı .</sentence>
+<sentence num="7">Patlamadan hemen sonra yapılan açıklamalarda ,patlamanın LPG'den kaynaklanabileceği belirtilmiş ancak polisin olay yerini incelemesinin ardından patlamanın bomba kaynaklı olduğu anlaşılmıştı .</sentence>
+<sentence num="8">Mehmetçik Vakfı'na ait Maslak'taki akaryakıt istasyonu ,İstanbul'daki en büyük istasyonlardan biri .</sentence>
+</doc>
+<doc>
+<id>175501</id>
+<sentence num="0">2005 10 31 22 :22 :00 .Maslak Saldırısında 4 Tutuklama .</sentence>
+<sentence num="1">İstanbul Maslak'ta 15 gün önce bir akaryakıt istasyonunda meydana gelen patlamaya ilişkin İstanbul ve Diyarbakır'da gözaltına alınan 6 kişiden 4'ü tutuklandı .</sentence>
+<sentence num="2">Maslak'ta patlamayla ilgili olarak İstanbul ve Diyarbakır'da gözaltına alınan 6 kişinin ,emniyetteki sorgusu tamamlandı .</sentence>
+<sentence num="3">Terör örgütü PKK adına eylemi gerçekleştirdikleri bildirilen bu kişilerden ,Diyarbakır'da yakalanan birinin ,bomba yüklü aracı ,benzin istasyonuna bıraktığının ortaya çıkarıldığı kaydedildi .</sentence>
+<sentence num="4">İstanbul Emniyet Müdürü Celalettin Cerrah ,kimlik tespitinde kendilerine yardımcı olan ,kamera sisteminin önemine dikkat çekti .</sentence>
+<sentence num="5">Celalettin Cerrah :Kişinin şeklini şemalini gördük ,oradan arkadaşlarımız çalışmalarını fazlalaştırdılar ,o yöne yöneldiler ve şahsı tespit etmemize yardımcı oldu .</sentence>
+<sentence num="6">Kuyumcular dahil ,mutlaka kamera sistemi kurmalılar ve kayıt yapmalılar .</sentence>
+<sentence num="7">Bütün arkadaşlarımız ilçe müdürlerimiz tebligat yapıyorlar .</sentence>
+<sentence num="8">Bunun yanında büyük holdingler ,iş merkezleri var ,Buralarda da kayıt sistemli kamera sistemlerine ihtiyacımız var ,mutlaka konulmalı .</sentence>
+<sentence num="9">dedi .</sentence>
+</doc>
+<doc>
+<id>175920</id>
+<sentence num="0">2005 11 01 15 :35 :00 .Muğla Üniversitesi :Maslak'taki patlamada adı geçenlerle işlem yapmıştık .</sentence>
+<sentence num="1">Muğla Üniversitesi Rektörü Prof .Dr .Şener Oktik ,İstanbul Maslak'ta 15 Ekim'de meydana gelen bombalı terör eyleminde üniversitelerinin adının geçmesinin kendilerini üzdüğünü belirterek ,Üniversitemiz öğrencisi olan 2 kişi hakkında yasadışı gösterilere katıldıkları için üniversitemizce daha önce işlem yapılmış dedi .</sentence>
+<sentence num="2">Rektör Prof .Dr .Şener Oktik ,AA muhabirine ,Maslak'taki olayda bombalı aracı akaryakıt istasyonuna park eden ve Muğla Üniversitesi Sınıf Öğretmenliği Bölümü öğrencisi olduğu iddia edilen K .A'nın ,üniversitelerinin öğrencisi olmadığını söyledi .</sentence>
+<sentence num="3">Böyle bir öğrencinin kayıtlarda görünmediğini belirten Rektör Prof .Dr .Oktik ,şöyle konuştu :Hatta üniversitemizi kazanan öğrenciler arasında bile adı yok .</sentence>
+<sentence num="4">Olayda adı geçen öğrencilerden L .Y üniversitemizin Fen Edebiyat Fakültesi öğrencisi ve bu öğrenci hakkında 2005 Mayıs ayında Milas'ta düzenlenen 1 Mayıs gösterilerine katıldığı için disiplin soruşturması açılarak kınama cezası verilmiş .</sentence>
+<sentence num="5">Olayda adı geçen öğrencilerden M .S'nin ise Muğla Üniversitesi İktisadi ve İdari Bilimler Fakültesi öğrencisi olduğunu ifade eden Prof .Dr .Oktik ,Bu öğrenci ise son dönem kaydını yeniletmemiş .</sentence>
+<sentence num="6">Bu öğrenci hakkında da katıldığı yasadışı gösteriler nedeniyle disiplin soruşturması açılmış .</sentence>
+<sentence num="7">Fakat disiplin cezası verilmemiş .</sentence>
+<sentence num="8">Yani sonuçta Üniversitemiz öğrencisi olan 2 kişi hakkında yasadışı gösterilere katıldıkları için üniversitemizce daha önce işlem yapılmış .</sentence>
+<sentence num="9">Rektör Oktik ,üniversite gençliğinin terörün içine çekilmesi ve böyle amaçlar için kullanılmasını nefretle kınadığını kaydetti .</sentence>
+<sentence num="10">Öğrencilerden birisinin katkı kredisi aldığına dikkati çeken Rektör Oktik ,Bildiğiniz gibi bu krediyi üniversite değil ,Kredi ve Yurtlar Kurumu veriyor .</sentence>
+<sentence num="11">Bu öğrenci muhtemelen kendisinden istenen bilgileri gerçeğe aykırı bir şekilde vermiş olabilir diye konuştu .</sentence>
+</doc>

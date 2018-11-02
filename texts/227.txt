@@ -1,0 +1,1042 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 01 15 14 :22 :00 .34 .avrupa basketbol şampiyonası'nda gruplar belli oldu ..</sentence>
+<sentence num="1">34 .avrupa basketbol şampiyonası'nda gruplar belli oldu sırbistan karadağ'da 15 25 eylül tarihleri arasında düzenlenecek 34 .avrupa erkekler basketbol şampiyonası finallerinin kura çekimi yapıldı .</sentence>
+<sentence num="2">belgrad'daki sava center'de yapılan kura çekimine 2 .torbadan katılan türkiye ,(b )grubu'nda litvanya ,hırvatistan ve bulgaristan ile eşleşti .</sentence>
+<sentence num="3">kura çekimi sonunda diğer gruplar da şöyle oluştu :(a )grubu :rusya ,almanya ,italya ,ukrayna (c )grubu :slovenya ,fransa ,yunanistan ,bosna hersek (d )grubu :letonya ,sırbistan karadağ ,ispanya ,2 .eleme turundan gelecek takım finaller ,sırbistan karadağ'ın başkenti belgrad ile novi sad ,podgorica ve vrsaç kentlerinde gerçekleştirilecek .</sentence>
+</doc>
+<doc>
+<id>8007</id>
+<sentence num="0">2005 01 15 14 :25 :00 .Avrupa Erkekler Basketbol Şampiyonası'nda Türkiye B Grubu'nda .</sentence>
+<sentence num="1">Sırbistan Karadağ'da 15 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Erkekler Basketbol Şampiyonası finallerinin kura çekimi yapıldı .</sentence>
+<sentence num="2">Belgrad'daki Sava Center'de yapılan kura çekimine 2 .torbadan katılan Türkiye ,(B )Grubu'nda Litvanya ,Hırvatistan ve Bulgaristan ile eşleşti .</sentence>
+<sentence num="3">Kura çekimi sonunda diğer gruplar da şöyle oluştu :(A )Grubu :Rusya ,Almanya ,İtalya ,Ukrayna .(</sentence>
+<sentence num="4">C )Grubu :Slovenya ,Fransa ,Yunanistan ,Bosna Hersek .(</sentence>
+<sentence num="5">D )Grubu :Letonya ,Sırbistan Karadağ ,İspanya ,2 .eleme turundan gelecek takım .</sentence>
+<sentence num="6">Finaller ,Sırbistan Karadağ'ın başkenti Belgrad ile Novi Sad ,Podgorica ve Vrsaç kentlerinde gerçekleştirilecek .</sentence>
+<sentence num="7">Türkiye ,geçen yıl eylül ayında yapılan grup eleme maçlarını yenilgisiz lider tamamlayarak finallere katılmaya hak kazanmıştı .</sentence>
+<sentence num="8">ELEME GRUBU Finallerde mücadele edecek son takımın belirleneceği eleme grupları kuraları da çekildi .</sentence>
+<sentence num="9">9 ülkenin 11 13 Eylül tarihleri arasında Belgrad'da yapacağı 2 .eleme turu için gruplar şöyle oluştu :(A )Grubu :Estonya ,Çek Cumhuriyeti ,Polonya .(</sentence>
+<sentence num="10">B )Grubu :Belçika ,İsrail ,Hollanda .(</sentence>
+<sentence num="11">C )Grubu :Portekiz ,Macaristan ,İsveç .</sentence>
+<sentence num="12">Eleme maçları sonunda 1 .olacak takım ,34 .Avrupa Erkekler Basketbol Şampiyonası finalleri (D )Grubu'nda Letonya ,Sırbistan Karadağ ve İspanya ile mücadele edecek .</sentence>
+<sentence num="13">AY YILDIZLILAR ,İLK MAÇINDA LİTVANYA İLE KARŞILAŞACAK Sırbistan Karadağ'da 15 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Erkekler Basketbol Şampiyonası Finalleri'nde (B )Grubu'nda mücadele edecek Türkiye ,grup maçlarını Podgorica kentinde yapacak .(</sentence>
+<sentence num="14">A )Milliler ,gruptaki ilk maçında Litvanya ile karşılaştıktan sonra ,sırasıyla Bulgaristan ve Hırvatistan ile mücadele edecek .</sentence>
+<sentence num="15">Belgrad Sava Center'daki kura çekimine katılan (A )Milli Takım Antrenörü Bogdan Tanjeviç ,zor bir gruba düştüklerini belirterek ,''Litvanya ile yapacağımız ilk maç çok önemli .</sentence>
+<sentence num="16">Statü gereği grupta ilk sırayı almamız lazım ''dedi .</sentence>
+<sentence num="17">Milli Takımlar Genel Menajeri Doğan Hakyemez de kura çekimi sonrası yaptığı açıklamada ,zorlu bir grupta mücadele edeceklerini ifade ederek ,şunları söyledi :''Litvanya çok iyi ve bize ters gelen bir takım .</sentence>
+<sentence num="18">Hırvatistan da güçlü bir ekip .</sentence>
+<sentence num="19">Bulgaristan ise grubun en zayıf takımı .</sentence>
+<sentence num="20">Grup maçlarını kesinlikle ilk sırada tamamlamamız lazım .</sentence>
+<sentence num="21">Grubu 2 ve 3'üncü sırada tamamlayacak ekipler ,ev sahibi Sırbistan Karadağ'ın da bulunduğu (D )Grubu'nun 2 ve 3'üncüsü ile çapraz eşleşerek tur mücadelesi verecek .''</sentence>
+<sentence num="22">ŞAMPİYONANIN AÇILIŞ MAÇINDA HIRVATİSTAN İLE BULGARİSTAN KARŞILAŞACAK Sırbistan Karadağ'da ,15 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Erkekler Basketbol Şampiyonası Finalleri'nde Türkiye ,grubundaki ilk maçını Litvanya ile 16 Eylül tarihinde yapacak .</sentence>
+<sentence num="23">Ay yıldızlılar ,finallerdeki 2 .maçını 17 Eylül'de Bulgaristan ile son maçta ise Hırvatistan ile 18 Eylül tarihinde karşı karşıya gelecek .</sentence>
+<sentence num="24">16 takımın 4 grupta karşılaşacağı finallerde ,Türkiye'nin de yer aldığı (B )Grubu takımlarından Hırvatistan ve Bulgaristan ,16 Eylül'de şampiyonanın açılış maçını oynayacak .</sentence>
+</doc>
+<doc>
+<id>8018</id>
+<sentence num="0">2005 01 15 14 :56 :00 .Euro 2005'te rakipler güçlü Türkiye ;Litvanya ,Hırvatistan ve Bulgaristan ile eşleşti .</sentence>
+<sentence num="1">Türkiye ,Sırbistan Karadağ'da 15 25 eylül tarihleri arasında düzenlenecek 34'üncü Avrupa Erkekler Basketbol Şampiyonası finallerinde Litvanya ,Hırvatistan ve Bulgaristan ile aynı gruba düştü .</sentence>
+<sentence num="2">Belgrad'daki Sava Center'de yapılan kura çekimine ikinci torbadan katılan Türkiye ,(B )Grubu'nda Litvanya ,Hırvatistan ve Bulgaristan ile eşleşti .</sentence>
+<sentence num="3">Kura çekimi sonunda gruplar şöyle oluştu :(A )Grubu :Rusya ,Almanya ,İtalya ,Ukrayna (B )Grubu :Litvanya ,Türkiye ,Hırvatistan Bulgaristan (C )Grubu :Slovenya ,Fransa ,Yunanistan ,B .Hersek (D )Grubu :Letonya ,Sırbistan Karadağ ,İspanya ve ikinci eleme turundan gelecek takım .</sentence>
+<sentence num="4">Finaller ,Sırbistan Karadağ'ın başkenti Belgrad ile Novi Sad ,Podgorica ve Vrsaç kentlerinde gerçekleştirilecek .</sentence>
+<sentence num="5">Türkiye ,B Grubu'ndaki maçlarını Podgorica kentinde yapacak .</sentence>
+<sentence num="6">A Milliler ,gruptaki ilk maçında Litvanya ile karşılaştıktan sonra ,sırasıyla Bulgaristan ve Hırvatistan ile mücadele edecek .</sentence>
+<sentence num="7">Türkiye ,geçen yıl eylül ayında yapılan grup eleme maçlarını yenilgisiz lider tamamlayarak finallere katılmaya hak kazanmıştı .</sentence>
+<sentence num="8">Litvanya can sıktı Milli Takım Antrenörü Bogdan Tanjeviç ,zor bir gruba düştüklerini belirterek ,Litvanya ile yapacağımız ilk maç çok önemli .</sentence>
+<sentence num="9">Statü gereği grupta ilk sırayı almamız lazım dedi .</sentence>
+<sentence num="10">Milli Takımlar Genel Menajeri Doğan Hakyemez de kura çekimi sonrası yaptığı açıklamada ,zorlu bir grupta mücadele edeceklerini ifade ederek ,şunları söyledi :Litvanya çok iyi ve bize ters gelen bir takım .</sentence>
+<sentence num="11">Hırvatistan da güçlü bir ekip .</sentence>
+<sentence num="12">Bulgaristan ise grubun en zayıf takımı .</sentence>
+<sentence num="13">Grup maçlarını kesinlikle ilk sırada tamamlamamız lazım .</sentence>
+<sentence num="14">Grubu iki ve üçüncü sırada tamamlayacak ekipler ,ev sahibi Sırbistan Karadağ'ın da bulunduğu grubun iki ve üçüncüsü ile çapraz eşleşerek tur mücadelesi verecek .</sentence>
+<sentence num="15">Eleme grubu Finallerde mücadele edecek son takımın belirleneceği eleme grupları kuraları da çekildi .</sentence>
+<sentence num="16">Dokuz ülkenin 11 13 eylül tarihleri arasında Belgrad'da yapacağı ikinci eleme turu için gruplar şöyle oluştu :(A )Grubu :Estonya ,Çek Cumhuriyeti ,Polonya (B )Grubu :Belçika ,İsrail ,Hollanda (C )Grubu :Portekiz ,Macaristan ,İsveç Eleme maçları sonunda birinci olacak takım ,34'üncü Avrupa Erkekler Basketbol Şampiyonası finalleri (D )Grubu'nda Letonya ,Sırbistan Karadağ ve İspanya ile mücadele edecek .</sentence>
+</doc>
+<doc>
+<id>8050</id>
+<sentence num="0">2005 01 15 15 :51 :00 .Potada 2005'in rakipleri belli oldu .</sentence>
+<sentence num="1">Litvanya Hırvatistan Bulgaristan .</sentence>
+</doc>
+<doc>
+<id>8069</id>
+<sentence num="0">2005 01 15 16 :55 :00 .12 Dev Adama Zor Rakipler .</sentence>
+<sentence num="1">Sırbistan Karadağ'da 15 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Erkekler Basketbol şampiyonası finallerinin kura çekimi yapıldı .</sentence>
+<sentence num="2">Belgrad'daki Sava Center'de yaplan kura çekimine 2 .torbadan katılan Türkiye ,(B )Grubu'nda Litvanya ,Hırvatistan ve Bulgaristan ile eleşti .</sentence>
+<sentence num="3">Kura çekimi sonunda diğer gruplar da şöyle oluştu :(A )Grubu :Rusya ,Almanya ,İtalya ,Ukrayna (C )Grubu :Slovenya ,Fransa ,Yunanistan ,Bosna Hersek (D )Grubu :Letonya ,Sırbistan Karadağ ,İspanya ,2 .eleme turundan gelecek takım .</sentence>
+<sentence num="4">Finaller ,Sırbistan Karadağ'ın başkenti Belgrad ile Novi Sad ,Podgorica ve Vrsaç kentlerinde gerçekleştirilecek .</sentence>
+<sentence num="5">Türkiye ,geçen yıl eylül ayında yapılan grup eleme maçlarının yenilgisiz lider tamamlayarak finallere katılmaya hak kazanmıştı .</sentence>
+<sentence num="6">Finallerde mücadele edecek son takımın belirleneceği eleme grupları kuraları da çekildi .</sentence>
+<sentence num="7">9 ülkenin 11 13 Eylül tarihleri arasnda Belgrad'da yapacağı 2 .eleme turu için gruplar şöyle oluştu :(A )Grubu :Estonya ,Çek Cumhuriyeti ,Polonya (B )Grubu :Belçika ,İsrail ,Hollanda (C )Grubu :Portekiz ,Macaristan ,İsveç Eleme maçları sonunda 1 .olacak takım ,34 .Avrupa Erkekler Basketbol Şampiyonası finalleri (D )Grubu'nda Letonya ,Sırbistan Karadağ ve İspanya ile mücadele edecek .</sentence>
+</doc>
+<doc>
+<id>8362</id>
+<sentence num="0">2005 01 16 14 :33 :00 .34 .Avrupa Basketbol Şampiyonası .</sentence>
+<sentence num="1">Sırbistan Karadağ'da 15 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Erkekler Basketbol Şampiyonası Finalleri'nde (B )Grubu'nda mücadele edecek Türkiye ,grup maçlarını Podgorica kentinde yapacak .(</sentence>
+<sentence num="2">A )Milliler ,gruptaki ilk maçında Litvanya ile karşılaştıktan sonra ,sırasıyla Bulgaristan ve Hırvatistan ile mücadele edecek .</sentence>
+<sentence num="3">Belgrad Sava Center'daki kura çekimine katılan (A )Milli Takım Antrenörü Bogdan Tanjeviç ,zor bir gruba düştüklerini belirterek ,Litvanya ile yapacağımız ilk maç çok önemli .</sentence>
+<sentence num="4">Statü gereği grupta ilk sırayı almamız lazım dedi .</sentence>
+<sentence num="5">Milli Takmlar Genel Menajeri Doğan Hakyemez de kura çekimi sonrası yaptığı açıklamada ,zorlu bir grupta mücadele edeceklerini ifade ederek ,şunları söyledi :Litvanya çok iyi ve bize ters gelen bir takım .</sentence>
+<sentence num="6">Hırvatistan da güçlü bir ekip .</sentence>
+<sentence num="7">Bulgaristan ise grubun en zayıf takımı .</sentence>
+<sentence num="8">Grup maçlarını kesinlikle ilk sırada tamamlamamız lazım .</sentence>
+<sentence num="9">Grubu 2 ve 3'üncü sırada tamamlayacak ekipler ,ev sahibi Sırbistan Karadağ'ın da bulunduğu (D )Grubu'nun 2 ve 3'üncüsü ile çapraz eşleşerek tur mücadelesi verecek ..</sentence>
+</doc>
+<doc>
+<id>35999</id>
+<sentence num="0">2005 03 04 14 :06 :00 .Tanjeviç :İlk 5 Arasına Girebiliriz .</sentence>
+<sentence num="1">A Milli Erkek Basketbol Takımı Başantrenörü Bogdan Tanjeviç ,Türkiye'nin basketbolda elde ettiği Avrupa ikinciliği başarısını unutmaması gerektiğini söyledi .</sentence>
+<sentence num="2">Basketbolda Avrupa'da çok güçlü 10 ülkenin bulunduğunu kaydeden Tanjeviç ,Örneğin Slovenya'nın NBA'de 5 oyuncusu var .</sentence>
+<sentence num="3">Biz de çok çalışacağız ve Belgrad'daki Avrupa Şampiyonası'nda iyi bir derece elde edeceğiz .</sentence>
+<sentence num="4">İlk 5 arasına girebiliriz dedi .</sentence>
+<sentence num="5">Tanjeviç ,milli takıma aldığı genç oyuncular içinde çok başarılı olanları gördüğünü dile getirerek ,2 3 genç oyuncuyu Avrupa Şampiyonası kadrosuna aday olarak görüyorum .</sentence>
+<sentence num="6">Bunun için gençlere önem veriyorum .</sentence>
+<sentence num="7">Ayrıca Türk vatandaşı olan tüm sporculara eşit fırsat vereceğim diye konuştu .</sentence>
+</doc>
+<doc>
+<id>75535</id>
+<sentence num="0">2005 05 06 15 :13 :00 .(</sentence>
+<sentence num="1">A )Milli Basketbol Takımı Toplandı .(</sentence>
+<sentence num="2">A )Milli Erkek Basketbol Takımı aday kadrosu ,16 25 Eylül tarihlerinde Sırbistan Karadağ'da yapılacak Avrupa Şampiyonası finalleri için hazırlık çalışmalarına başladı .</sentence>
+<sentence num="3">Türkiye Basketbol Ligi'nde takımlarıyla play out ve play off maçlarında mücadele edecek oyuncular henüz çalışmalara katılmazken ,NBA'de Orlando Magic'te forma giyen Hidayet Türkoğlu ve İTÜ'den Reha Öz ,Abdi İpekçi Spor Salonu'nda antrenmana çıktı .(</sentence>
+<sentence num="4">A )Milli Takım Antrenörü Bogdan Tanjevic'in Sırbistan Karadağ'ın Pljevlja kentinde yaşayan annesinin vefatı nedeniyle ilk hafta çalışmalarına katılmayacağı açıklandı .</sentence>
+<sentence num="5">9 Mayıs Pazartesi gününden itibaren de Ümit Türkoğlu (Bandırma Banvitspor ),Fırat Aydemir (Erdemirspor ),Ersan Özseven (OYAK Renault ),Volkan Çetintahra (TOFAŞ )çalışmalara başlayacak .</sentence>
+</doc>
+<doc>
+<id>79366</id>
+<sentence num="0">2005 05 13 12 :35 :00 .</sentence>
+<sentence num="1">A Milli Bayan Basketbol takımının aday kadrosu açıklandı ...</sentence>
+<sentence num="2">Türkiye'de 2 11 Eylül tarihlerinde düzenlenecek 30 .Avrupa Bayanlar Basketbol Şampiyonası Finalleri'nde mücadele edecek (A )Milli Takım'ın aday kadrosu açıklandı .</sentence>
+<sentence num="3">Şampiyona hazırlıklarına 26 Mayıs tarihinde başlayacak milli takımın aday kadrosuna 16 oyuncu çağrıldı .</sentence>
+<sentence num="4">Genel koordinatör Füzen Sönmez ,takım menajeri Mihriban Oğuz ,antrenör Cem Akdağ ,yardımcı antrenörler Ceyhun Yıldızoğlu ,Aydın Uğuz ve Fırat Okul yönetiminde çalışacak aday kadroda yer alan oyuncular şöyle :Arzu Özyiğit Bildirir ,Esmeral Tunçluer ,Nihan Anaz ,Yasemin Horasan (Beşiktaş ),Aylin Yıldızoğlu ,Sariye Gökçe (Ceyhan Belediyesi ),Birsel Vardarlı (Migrosspor ),Dilek Buyuran (Erdemirspor ),Gülçin Cantekin (Galatasaray ),Gülşah Akkaya (Mersin Büyükşehir Belediyesi ),Müjde Yüksel ,Nilay Yiğit ,Serap Yücesir ,Şaziye İvegün (Fenerbahçe ),Nevriye Yılmaz (Pool Comenze ),Şebnem Kimyacıoğlu (Stanford Üniversitesi ).</sentence>
+<sentence num="5">KAMP 26 MAYIS'TA BAŞLIYOR (A )Milli Bayan Basketbol Takımı ,26 Mayıs Perşembe günü İstanbul'da biraraya gelerek ,Pamukspor Tesisleri'nde kampa girecek .</sentence>
+<sentence num="6">Milliler ,çalışmalarını eylül ayına kadar yoğun bir program dahilinde sürdürecek .</sentence>
+<sentence num="7">1 Haziran'da İtalya'nın Bormio kentine giderek burada 9 günlük bir kamp çalışması yapacak ve İtalya Milli Takımı ile 3 hazırlık maçı yapacak olan bayan milliler ,daha sonra ise çalışmalarına 12 17 Haziran tarihleri arasında Antalya'da devam edecek .</sentence>
+<sentence num="8">Antalya'da Hırvatistan ,Slovakya ve Fransa Milli Takımları ile karşı karşıya gelecek olan ay yıldızlı ekip ,iki günlük bir aranın ardından 20 Haziran'da yeniden toplanacak .</sentence>
+<sentence num="9">AKDENİZ OYUNLARI'NA KATILACAKLAR 22 Haziran'da İspanya'ya giderek ,23 Haziran 1 Temmuz tarihleri arasında Almeira kentinde düzenlenecek olan Akdeniz Oyunları'na katılacak (A )Milli Bayan Basketbol Takım ,3 20 Temmuz tarihleri arasında çalışmalarına ara verecek .</sentence>
+<sentence num="10">21 Temmuz'da İstanbul'da toplanarak çalışmalarına yeniden start verecek olan milliler ,Avrupa Şampiyonası hazırlıklarını yurtiçi ve yurtdışı kamplarıyla sürdürecek .</sentence>
+<sentence num="11">Fransa ve Çek Cumhuriyeti'nde oynanacak olan hazırlık maçlarının ardından 23 Ağustos'ta Avrupa Şampiyonası grup maçlarını oynayacağı İzmir'e hareket edecek olan bayan milliler ,2 Eylül'den itibaren finallerdeki maçlarına başlayacak .</sentence>
+<sentence num="12">AKDAĞ :İLK HEDEFİMİZ GRUPTAN ÇIKMAK Türkiye'nin yer aldığı gruptaki takımların daha önce oynanan Avrupa Şampiyonalarında oldukça başarılı sonuçlar aldıklarının altını çizen (A )Milli Bayan Takımı Antrenörü Cem Akdağ ,Basketbol Federasyonu'nun resmi internet sitesine yaptığı değerlendirmede şunları kaydetti :İlk defa katılacağımız ve evimizde oynayacağımız bu şampiyonada ilk hedefimiz gruptan çıkarak ,ilk 8 takım içinde yer alabilmek .</sentence>
+<sentence num="13">Bunu başarabilirsek çok daha iyi bir derece yaparak turnuvayı başarılı bir şekilde tamamlayabiliriz .</sentence>
+<sentence num="14">Finallerdeki ilk rakipleri Sırbistan Karadağ maçı ve programa da değinen Akdağ ,Sırbistan Karadağ çok tecrübeli bir ekip .</sentence>
+<sentence num="15">Tüm oyuncuları Avrupa'nın değişik ülkelerinde yer alan saygın takımlarda Euroleague mücadelesi veriyorlar .</sentence>
+<sentence num="16">Turnuvaya iyi bir başlangıç yapabilmek için bu maçı mutlak kazanmamız gerekiyor .</sentence>
+<sentence num="17">Seyircimizin de desteği ile bu maçı kazanmak için elimizden gelen her şeyi yapacağız dedi .</sentence>
+<sentence num="18">MAÇ PROGRAMI (A )Milli Bayan Basketbol Takımı'nın ,Avrupa Şampiyonası Finalleri'nde gruptaki maç programı şöyle :2 Eylül Cuma :Türkiye Sırbistan Karadağ 3 Eylül Cumartesi :Türkiye Rusya 4 Eylül Pazar :Türkiye Litvanya 6 Eylül Salı :Türkiye Romanya 7 Eylül Çarşamba :Türkiye İspanya .</sentence>
+</doc>
+<doc>
+<id>112571</id>
+<sentence num="0">2005 07 07 15 :05 :00 .</sentence>
+<sentence num="1">A Milli Basketbol Takımı 27 Temmuz'da toplanıyor ...</sentence>
+<sentence num="2">Akdeniz Oyunlarını 4 .sırada tamamlayan ve oyunların ardından tatile çıkan (A )Milli Basketbol Takımı ,27 Temmuz'da biraraya gelecek .</sentence>
+<sentence num="3">Sırbistan Karadağ'ın Belgrad şehrinde yapılacak olan Avrupa Şampiyonası Finalleri hazırlıkları için İstanbul'da toplanacak olan milliler ,10 Ağustos'a kadar çalışmalarını burada sürdürecek .</sentence>
+<sentence num="4">Ay Yıldızlılar ,İstanbul'daki hazırlıklar çerçevesinde özel bir turnuvada İsrail ,Polonya ve Üniversite Milli Takımları ile hazırlık maçları yapacak .</sentence>
+<sentence num="5">10 Ağustos'ta İtalya'nın Bormio kentine gidecek olan 12 Dev Adam burada 15 günlük bir kamp programı uygulayacak .</sentence>
+<sentence num="6">Bulgaristan ,İtalya ,Gürcistan ve Finlandiya ile hazırlık maçları yapacak olan milliler ,yurda döndükten sonra ise İstanbul'da düzenlenecek olan Efes Cup'ta mücadele edecek .</sentence>
+<sentence num="7">A Milliler ,Efes Cup'ta ilk olarak Fransa ve Rusya karşısında sınav verecek .</sentence>
+<sentence num="8">7 Eylül'de Fransa'ya gidecek olan 12 Dev Adam burada 4 günlük bir kamp programından sonra İstanbul'a dönecek ve 14 Eylül'de Avrupa Şampiyonası Finalleri için Sırbistan Karadağ'a gidecek .</sentence>
+</doc>
+<doc>
+<id>112666</id>
+<sentence num="0">2005 07 07 16 :45 :00 .Potada Milli Mesai Başlıyor .</sentence>
+<sentence num="1">Akdeniz Oyunlarını 4 .sırada tamamlayan ve oyunların ardından tatile çıkan (A )Milli Basketbol Takımı ,27 Temmuz'da biraraya gelecek .</sentence>
+<sentence num="2">Sırbistan Karadağ'ın Belgrad şehrinde yapılacak olan Avrupa Şampiyonası Finalleri hazırlıkları için İstanbul'da toplanacak olan milliler ,10 Ağustos'a kadar çalışmalarını burada sürdürecek .</sentence>
+<sentence num="3">Ay Yıldızlılar ,İstanbul'daki hazırlıklar çerçevesinde özel bir turnuvada İsrail ,Polonya ve Üniversite Milli Takımları ile hazırlık maçları yapacak .</sentence>
+<sentence num="4">10 Ağustos'ta İtalya'nın Bormio kentine gidecek olan 12 Dev Adam burada 15 günlük bir kamp programı uygulayacak .</sentence>
+<sentence num="5">Bulgaristan ,İtalya ,Gürcistan ve Finlandiya ile hazırlık maçları yapacak olan milliler ,yurda döndükten sonra ise İstanbul'da düzenlenecek olan Efes Cup'ta mücadele edecek .</sentence>
+<sentence num="6">A Milliler ,Efes Cup'ta ilk olarak Fransa ve Rusya karşısında sınav verecek .</sentence>
+<sentence num="7">7 Eylül'de Fransa'ya gidecek olan 12 Dev Adam burada 4 günlük bir kamp programından sonra İstanbul'a dönecek ve 14 Eylül'de Avrupa Şampiyonası Finalleri için Sırbistan Karadağ'a gidecek .</sentence>
+</doc>
+<doc>
+<id>118920</id>
+<sentence num="0">2005 07 19 14 :10 :00 .12 Dev Adam ın aday kadrosu açıklandı ...</sentence>
+<sentence num="1">Sırbistan Karadağ'da Eylül ayında yapılacak Avrupa Şampiyonası'na katılacak (A )Milli Erkek Basketbol Takımı'nın aday kadrosu açıklandı .</sentence>
+<sentence num="2">16 25 Eylül tarihleri arasında gerçekleştirilecek şampiyona için belirlenen 18 kişilik aday kadro ,29 Temmuz'da İstanbul'da kampa alınacak .</sentence>
+<sentence num="3">Milli Takımlar Genel Menajeri Doğan Hakyemez ,(A )Milli Takım Menajeri Barbaros Akkaş ,antrenör Bogdan Tanjevic ,yardımcıları Nihat İziç ,Orhun Ene ve Levent Topsakal'ın da yer aldığı (A )Milli Takım'daki aday oyuncular şunlar :Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Cenk Akyol ,Kerem Gönlüm (Efes Pilsen ),Kerem Tunçeri ,Oğuz Savaş ,Fatih Solak (Ülkerspor ),Hakan Demirel ,Semih Erden (Fenerbahçe ),Hakan Köseoğlu (Tuborg Pilsener ),Reha Öz (İTÜ ),Hidayet Türkoğlu (Orhando Magic ),Mehmet Okur (Utah Jazz ),Mirsad Türkcan (Dinamo Moskova ),İbrahim Kutluay (Panathinaikos ),Serkan Eredoğan (TAU Ceramica ),Cem Dinç (Almanya ).</sentence>
+<sentence num="4">KAMP PROGRAMI (A )Milli Erkek Basketbol Takımı ,29 Temmuz'da İstanbul'da kampa girecek ve şampiyonaya kadar çeşitli hazırlık maçları yapacak ,turnuvalara katılacak .</sentence>
+<sentence num="5">Polat Renaissance Otel'de konaklayacak milliler ,antrenmanlarını Abdi İpekçi Spor Salonu'nda gerçekleştirecek .</sentence>
+<sentence num="6">4 Ağustos'ta İsrail ile özel maçta karşı karşıya gelecek (A )Milli Takım ,ardından düzenlenecek turnuvada 5 Ağustos'ta İsrail ,6 Ağustos'ta Üniversite Milli Takımı ,7 Ağustos'ta da Polonya ile maç yapacak .</sentence>
+<sentence num="7">İtalya'nın Bormio kentine 10 Ağustos'ta giderek burada Bulgaristan ,İtalya ve Gürcistan ile turnuva maçlarında karşılaşacak milliler ,hazırlıklarına 24 Ağustos'a kadar da burada devam edecek .</sentence>
+<sentence num="8">Bu arada ,(A )Milli Takım 23 Ağustos'ta İrlanda Cumhuriyeti ,24 Ağustos'ta da Finlandiya ile maç yapacak .(</sentence>
+<sentence num="9">A )Milli Erkek Basketbol Takımı ,Türkiye'ye döndükten sonra İstanbul'da 30 Ağustos'ta başlayacak Efes Cup'ta mücadele edecek ve ilk etapta Fransa ve Rusya ile karşılaşacak .</sentence>
+<sentence num="10">Fransa'da 7 Eylül'de 4 günlük kampa girecek ''12 Dev Adam '',14 Eylül'de de Avrupa Şampiyonası finallerine katılmak üzere Sırbistan Karadağ'a gidecek .</sentence>
+</doc>
+<doc>
+<id>119347</id>
+<sentence num="0">2005 07 20 11 :28 :00 .Basketbol Milli Takımı Toplanıyor .</sentence>
+<sentence num="1">Sırbistan Karadağ'da Eylül ayında yapılacak Avrupa Şampiyonası'na katılacak (A )Milli Erkek Basketbol Takımı'nın aday kadrosu açıklandı .</sentence>
+<sentence num="2">16 25 Eylül tarihleri arasında gerçekleştirilecek şampiyona için belirlenen 18 kişilik aday kadro ,29 Temmuz'da İstanbul'da kampa alınacak .</sentence>
+<sentence num="3">Milli Takımlar Genel Menajeri Doğan Hakyemez ,(A )Milli Takım Menajeri Barbaros Akkaş ,antrenör Bogdan Tanjevic ,yardımcıları Nihat İziç ,Orhun Ene ve Levent Topsakal'ın da yer aldığı (A )Milli Takım'daki aday oyuncular şunlar :Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Cenk Akyol ,Kerem Gönlüm (Efes Pilsen ),Kerem Tunçeri ,Oğuz Savaş ,Fatih Solak (Ülkerspor ),Hakan Demirel ,Semih Erden (Fenerbahçe ),Hakan Köseoğlu (Tuborg Pilsener ),Reha Öz (İTÜ ),Hidayet Türkoğlu (Orhando Magic ),Mehmet Okur (Utah Jazz ),Mirsad Türkcan (Dinamo Moskova ),İbrahim Kutluay (Panathinaikos ),Serkan Eredoğan (TAU Ceramica ),Cem Dinç (Almanya ).(</sentence>
+<sentence num="4">A )Milli Erkek Basketbol Takımı ,29 Temmuz'da İstanbul'da kampa girecek ve şampiyonaya kadar çeşitli hazırlık maçları yapacak ,turnuvalara katılacak .</sentence>
+<sentence num="5">Milliler ,antrenmanlarını Abdi İpekçi Spor Salonu'nda gerçekleştirecek .</sentence>
+<sentence num="6">4 Ağustos'ta İsrail ile özel maçta karşı karşıya gelecek (A )Milli Takım ,ardından düzenlenecek turnuvada 5 Ağustos'ta İsrail ,6 Ağustos'ta Üniversite Milli Takımı ,7 Ağustos'ta da Polonya ile maç yapacak .</sentence>
+<sentence num="7">İtalya'nın Bormio kentine 10 Ağustos'ta giderek burada Bulgaristan ,İtalya ve Gürcistan ile turnuva maçlarında karşılaşacak milliler ,hazırlıklarına 24 Ağustos'a kadar da burada devam edecek .</sentence>
+<sentence num="8">Bu arada ,(A )Milli Takım 23 Ağustos'ta İrlanda Cumhuriyeti ,24 Ağustos'ta da Finlandiya ile maç yapacak .(</sentence>
+<sentence num="9">A )Milli Erkek Basketbol Takımı ,Türkiye'ye döndükten sonra İstanbul'da 30 Ağustos'ta başlayacak Efes Cup'ta mücadele edecek ve ilk etapta Fransa ve Rusya ile karşılaşacak .</sentence>
+<sentence num="10">Fransa'da 7 Eylül'de 4 günlük kampa girecek 12 Dev Adam ,14 Eylül'de de Avrupa Şampiyonası finallerine katılmak üzere Sırbistan Karadağ'a gidecek .</sentence>
+</doc>
+<doc>
+<id>123575</id>
+<sentence num="0">2005 07 28 11 :00 :00 .12 Dev adam mesaiye başlıyor .(</sentence>
+<sentence num="1">A )Milli Erkek Basketbol Takımı ,34 .Avrupa Şampiyonası finallerinin hazırlıklarına yarın İstanbul'da başlayacak .</sentence>
+<sentence num="2">Sırbistan Karadağ'da eylül ayında düzenlenecek Avrupa Şampiyonası için yarın sabah Polat Renaissance Otel'de biraraya gelecek milliler ,daha sonra ilk çalışmalarını Abdi İpekçi Spor Salonu'nda yapacak .</sentence>
+<sentence num="3">HAZIRLIK DÖNEMİ Hazırlıklarını 10 Ağustos'a dek İstanbul'da sürdürecek olan ''12 Dev Adam '',İstanbul'daki hazırlıklar çerçevesinde özel turnuvada İsrail ,Polonya ve Türkiye Üniversite Milli Takımı ile hazırlık maçları yapacak .</sentence>
+<sentence num="4">10 Ağustos'da İtalya'nın Bormio kentine gidecek olan milliler ,burada 15 günlük bir kamp programı uygulayacak .</sentence>
+<sentence num="5">Bulgaristan ,İtalya ,Gürcistan ,İrlanda ve Finlandiya ile hazırlık maçları yapacak olan milliler ,yurda döndükten sonra ise İstanbul'da düzenlenecek Efes Cup'ta mücadele edecek .(</sentence>
+<sentence num="6">A )milliler ,Efes Cup'ta ilk olarak Fransa ve Rusya karşısında sınav verecek .</sentence>
+<sentence num="7">7 Eylül'de Fransa'ya gidecek olan ''12 Dev Adam ''burada 4 günlük bir kamp programından sonra İstanbul'a dönecek ve 14 Eylül'de Avrupa Şampiyonası finalleri için Sırbistan Karadağ'a gidecek .</sentence>
+<sentence num="8">Elemelerde oynadığı bütün maçları kazanarak finallere gitme hakkını kazanan Türkiye ,finallerde Litvanya ,Bulgaristan ve Hırvatistan ile (B )Grubu'nda yer alacak .</sentence>
+<sentence num="9">KADRO (A )Milli Takım kadrosunda Milli Takımlar Genel Menajeri Doğan Hakyemez ,menajer Barbaros Akkaş ,teknik direktör Bogdan Tanjevic ,antrenörler Nihat İziç ,Orhun Ene ve Levent Topsakal ile şu sporcular bulunuyor :Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Cenk Akyol ,Kerem Gönlüm ,Barış Ermiş (Efes Pilsen ),Kerem Tunçeri ,Oğuz Savaş ,Fatih Solak ,İbrahim Kutluay ,Mirsad Türkcan (Ülkerspor ),Hakan Demirel ,Semih Erden (Fenerbahçe ),Reha Öz (İTÜ ),Hidayet Türkoğlu (Orlando Magic ),Mehmet Okur (Utah Jazz ),Serkan Erdoğan (TAU Ceramica ),Cem Dinç (Almanya ).</sentence>
+</doc>
+<doc>
+<id>124595</id>
+<sentence num="0">2005 07 29 21 :00 :00 .Milli Erkek Basketbol Takımı Avrupa Şampiyonası sürdürüyor ...(</sentence>
+<sentence num="1">A )Milli Erkek Basketbol Takımı ,Avrupa Şampiyonası hazırlıklarını akşam antrenmanıyla sürdürdü .</sentence>
+<sentence num="2">Eylül ayında Sırbistan Karadağ'da düzenlenecek şampiyona öncesi ,sabah Polat Renaissance Otel'de toplanan ve ilk çalışmasını da Abdi İpekçi Spor Salonu'nda gerçekleştiren milliler ,akşam aynı salonda antrenman yaptı .</sentence>
+<sentence num="3">Basketbol Federasyonu Başkanı Turgay Demirel'in de izlediği antrenmanda ,basketbolcular antrenör Bogdan Tanjevic yönetiminde çalıştı .(</sentence>
+<sentence num="4">A )Milli Basketbol Takımı ,hazırlıklarını yarın yapacağı çift antrenmanla sürdürecek .</sentence>
+</doc>
+<doc>
+<id>128117</id>
+<sentence num="0">2005 08 05 15 :00 :00 .</sentence>
+<sentence num="1">A Milli Basketbol Takımı'nda Semih Erden'in yerine Hüseyin Demiral .</sentence>
+<sentence num="2">Sırbistan Karadağ'da eylül ayında düzenlenecek 34 .Avrupa Erkekler Basketbol Şampiyonası finallerinin hazırlıklarını sürdüren (A )Milli Takım'da ,sakatlığı nedeniyle Semih Erden'in yerine Hüseyin Demiral kadroya dahil edildi .</sentence>
+<sentence num="3">Basketbol Federasyonu'ndan yapılan açıklamada ,belindeki rahatsızlıktan dolayı bir süredir antrenmanlara katılamayan Fenerbahçeli Semih Erden'in yapılan kontroller sonucunda sakatlığının ciddi olduğunun anlaşılması üzerine kadrodan çıkarıldığı bildirildi .</sentence>
+<sentence num="4">Açıklamada ,bu oyuncunun yerine kadroya dahil edilen Galatasaraylı basketbolcu Hüseyin Demiral'ın bugün takımla birlikte çalışmalara katıldığı ifade edildi .</sentence>
+<sentence num="5">Bu arada ,dün akşam oynanan ve İsrail'in 81 71 galibiyetiyle biten maçtan sonra (A )milliler ,sabah yaptıkları antrenman ile hazırlıklarına devam etti .</sentence>
+<sentence num="6">Abdi İpekçi Spor Salonu'nda ,antrenör Bogdan Tanjevic nezaretinde yapılan antrenmanda milliler ,taktik ağırlıklı bir çalışma yaptı .</sentence>
+<sentence num="7">Öte yandan ,Genç Milli Takım ile Avrupa Şampiyonası'nda ikinci olduktan sonra antrenör Tanjevic tarafından izin verilen yardımcısı antrenör Nihat İziç de kampa katıldı .(</sentence>
+<sentence num="8">A )milliler bu akşam Avrupa Şampiyonası hazırlıkları çerçevesinde saat 20 .00'de Polonya ile bir hazırlık maçı yapacak .</sentence>
+<sentence num="9">Maç SKY Türk Televizyonu'ndan naklen yayınlanacak .</sentence>
+</doc>
+<doc>
+<id>145072</id>
+<sentence num="0">2005 09 06 17 :06 :00 .Son hazırlık Fransa'da .</sentence>
+<sentence num="1">Efes Cup'ı kazanan Türkiye Fransa'da üç hazırlık maçı oynayacak A Milli Basketbol Takımı ,Avrupa Şampiyonası'nın son provasını Fransa'daki dörtlü turnuvada yapacak .</sentence>
+<sentence num="2">Efes Pilsen World Cup finalinde İtalya'yı yenerek şampiyon olan Türkiye ,Eurobasket 2005 öncesi son hazırlık maçlarını Fransa'da katılacağı dörtlü turnuvada oynayacak .</sentence>
+<sentence num="3">Turnuvaya Bulgaristan ,Ukrayna ve Türkiye'nin Efes Cup'ta 93 85 yendiği Fransa da katılacak .</sentence>
+<sentence num="4">Milli takımın başantrenörü Bogdan Tanjevic ,Efes Cup'ta takım olarak gösterdikleri performansı Belgrad'da 16 eylülde başlayacak Avrupa Şampiyonası'nda da tekrarlamaları halinde başarılı olacaklarını söyledi .</sentence>
+<sentence num="5">Tanjevic ,ama başarılı olmamız sadece bizim oynayacağımız basketbola değil rakiplerimizin göstereceği performansa da bağlı diye konuştu .</sentence>
+<sentence num="6">A Milli Basketbol Takımı turnuvada 8 eylülde Bulgaristan ,9 eylülde Ukrayna ve 10 eylülde Fransa ile karşılaşacak .</sentence>
+<sentence num="7">Türkiye'nin Fransa'daki dörtlü turnuvada oynayacağı maçlar CNN TÜRK'ten yayınlanacak .</sentence>
+</doc>
+<doc>
+<id>145337</id>
+<sentence num="0">2005 09 07 10 :15 :00 .12 Dev Adam Fransa'ya gitti ...</sentence>
+<sentence num="1">Sırbistan Karadağ'da 16 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Erkekler Basketbol Şampiyonası finallerine hazırlanan (A )Milli Takım ,özel maçlar yapmak üzere bu sabah Fransa'ya gitti .</sentence>
+<sentence num="2">Finaller öncesi son hazırlık maçlarını Fransa'da yapacak (A )Milliler ,turnuvadaki ilk maçında yarın Bulgaristan ile karşılaşacak .</sentence>
+<sentence num="3">Türkiye ,9 Eylül Cuma günü Ukrayna ,10 Eylül Cumartesi günü de evsahibi Fransa ile oynayacak .</sentence>
+<sentence num="4">11 Eylül Pazar günü İstanbul'a dönecek olan milliler ,14 Eylül Çarşamba günü ,34 .Avrupa Şampiyonası finalleri için Sırbistan Karadağ'a gidecek .</sentence>
+</doc>
+<doc>
+<id>146507</id>
+<sentence num="0">2005 09 09 04 :12 :00 .Basketbolda milliler Bulgaristan'ı yendi Türkiye :73 Bulgaristan :67 .Sırbistan Karadağ'da yapılacak Avrupa Basketbol Şampiyonası Finalleri'ne hazırlanan (A )Milli Basketbol Takımı ,Fransa'da katıldığı Limoges Turnuvası'ndaki ilk maçında Bulgaristan'ı 73 67 yendi .</sentence>
+<sentence num="1">Milliler ,ilk yarıda etkili bir oyun sergilerken ,özellikle ikinci yarıdaki top kayıplarıyla maçta sıkıntılı anlar yaşadı .</sentence>
+<sentence num="2">Mirsad Türkcan'ın galibiyette önemli rol oynadığı karşılaşmada ,ilk periyodu 24 14 önde geçen ay yıldızlılar ,devreyi de 51 29'luk üstünlükle tamamladı .</sentence>
+<sentence num="3">Üçüncü periyotta rakibin etkili oyunu karşısında zorlanan Türkiye ,buna karşın skordaki üstünlüğünü sürdürdü ve bu bölümü de 63 45 önde geçti .</sentence>
+<sentence num="4">Son periyotta rakip potaya sadece 10 sayı bırakabilen milliler ,22 sayı yemelerine karşın sahadan 73 67'lik galibiyetle ayrılmayı başardı .(</sentence>
+<sentence num="5">A )Milli Takım'da Ender 4 ,İbrahim 14 ,Mehmet 10 ,Kerem Gönlüm 4 ,Kaya 2 ,Cenk 3 ,Ermal 2 ,Serkan 12 ,Mirsad 18 ve Kerem Tunçeri 4 sayıyla maçı tamamladı .</sentence>
+<sentence num="6">Türkiye ,turnuvadaki ikinci maçında bugün TSİ 19 .00'da Ukrayna ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>148632</id>
+<sentence num="0">2005 09 13 11 :10 :00 .12 Dev Adam yarın Sırbistan Karadağ'a gidecek ...(</sentence>
+<sentence num="1">A )Milli Erkek Basketbol Takımı ,34 .Avrupa Şampiyonası finallerine katılmak üzere yarın Sırbistan Karadağ'a gidecek .</sentence>
+<sentence num="2">Hazırlıklarının İstanbul etabını bugün yapacağı çift idmanla tamamlayacak olan ''12 Dev Adam '',yarın sabah özel uçakla Sırbistan Karadağ'a hareket edecek .</sentence>
+<sentence num="3">16 25 Eylül tarihlerinde gerçekleştirilecek finallerde Türkiye ,(B )Grubu'nda 16 Eylül Cuma günü Litvanya ,17 Eylül Cumartesi günü Bulgaristan ,18 Eylül Pazar günü de Hırvatistan ile karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>148838</id>
+<sentence num="0">2005 09 13 14 :40 :00 .12 Dev Adam ,gözünü zirveye dikti ...</sentence>
+<sentence num="1">Sırbistan Karadağ'da 16 25 Eylül tarihleri arasında gerçekleştirilecek 34 .Avrupa Erkekler Basketbol Şampiyonası'na hazırlanan (A )Milli Takım'da oyuncular iddialı konuştu .</sentence>
+<sentence num="2">Basketbol Federasyonu'nun resmi internet sitesinde yapılan açıklamalarda kaptan İbrahim Kutluay ,iyi bir hazırlık dönemi geçirdiklerine dikkat çekerek ,''Hazırlık maçlarında iyi oynadığımızı düşünüyorum .</sentence>
+<sentence num="3">Bu tür maçlarda sonuçtan çok takım içindeki uyuma bakılması lazım .</sentence>
+<sentence num="4">Biz de çok iyi bir takım olduğumuzu Efes Pilsen İstanbul World Cup 4'teki maçlarda gösterdik .</sentence>
+<sentence num="5">Kendimize olan güvenimiz tam .</sentence>
+<sentence num="6">Şampiyonaya hazır durumdayız ''dedi .</sentence>
+<sentence num="7">Kutluay ,Avrupa Şampiyonası'ndaki ilk rakip olan Litvanya ile çok önemli bir maç oynanacağını da vurgulayarak ,''Hem ilk maç olması itibariyle ,hem de grup birinciliği hedefimiz itibariyle Litvanya maçı çok önemli ve biz bu maçı kazanacak güçteyiz .</sentence>
+<sentence num="8">Grubu birinci bitirmemizin bize büyük avantaj sağlayacağını düşünüyorum ''diye konuştu .</sentence>
+<sentence num="9">SERKAN :''HEDEFİMİZ İLK 5 VE TABİİ Kİ MADALYA ''Son dönemde yakaladığı performansla göz dolduran Serkan Erdoğan ise bütün güçleri ve konsantrasyonlarıyla Avrupa Şampiyonası'na başlayacaklarını dile getirerek ,şunları kaydetti :''Hedefimiz ilk 5 ve tabii ki madalya .</sentence>
+<sentence num="10">Bunun dışındaki olasılıkları başarısızlık olarak kabul ediyoruz .</sentence>
+<sentence num="11">İlk maçlar her zaman çok önemlidir .</sentence>
+<sentence num="12">İlk maçta Litvanya ile karşılaşacağız ve ben eksik kadroyla şampiyonaya gelecek olan Litvanya'yı yeneceğimizi düşünüyorum .''</sentence>
+<sentence num="13">ENDER :''HERKESİ YENECEK GÜÇTEYİZ ''(A )Milli Takım'ın genç yıldızlarından Ender Arslan da yapılan hazırlık maçlarında gösterilen performansın olumlu olduğuna değinerek ,''Özellikle Efes Pilsen İstanbul World Cup 4'teki oyunumuz ve müdafaamız çok başarılıydı .</sentence>
+<sentence num="14">Fransa'daki mücadelelerde ise bekleneni veremedik fakat takım olarak çok yorgunduk .</sentence>
+<sentence num="15">Şimdi önemli olan Avrupa Şampiyonası'ndaki maçlar .</sentence>
+<sentence num="16">Biz takım olarak herkesi yenecek güce sahibiz .''</sentence>
+<sentence num="17">KAYA :''İLK MAÇ ÖNEMLİ ''Milli oyuncu Kaya Peker ,Avrupa Şampiyonası'nda Litvanya ile yapılacak ilk maçın önemine değinerek ,''Turnuvadaki ilk maçımız çok önemli ve iyi başlamamız lazım .</sentence>
+<sentence num="18">Bu tür turnuvalarda maçlar her sonuca açık olabiliyor .</sentence>
+<sentence num="19">Bundan dolayı şansa da ihtiyacımız var .</sentence>
+<sentence num="20">Gruptan ilk sırada çıkmayı başarırsak ,bana göre ilk hedefimiz olan Dünya Şampiyonası'na gitmek için ve madalya için büyük avantajımız olur ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>148856</id>
+<sentence num="0">2005 09 13 15 :02 :00 .12 Dev Adam'ın gözü zirvede .</sentence>
+<sentence num="1">İbrahim Kutlıay takımına güvendiğini söyledi Sırbistan Karadağ'da 16 25 eylül tarihleri arasında gerçekleştirilecek 34'üncü Avrupa Erkekler Basketbol Şampiyonası'na hazırlanan (A )Milli Takım'da oyuncular iddialı konuştu .</sentence>
+<sentence num="2">Basketbol Federasyonu'nun resmi internet sitesinde yapılan açıklamalarda kaptan İbrahim Kutluay ,iyi bir hazırlık dönemi geçirdiklerine dikkat çekerek ,''hazırlık maçlarında iyi oynadığımızı düşünüyorum dedi .</sentence>
+<sentence num="3">Bu tür maçlarda sonuçtan çok takım içindeki uyuma bakılmasının gerektiğini belirten Kutluay ,biz de çok iyi bir takım olduğumuzu Efes Pilsen İstanbul World Cup 4'teki maçlarda gösterdik .</sentence>
+<sentence num="4">Kendimize olan güvenimiz tam .</sentence>
+<sentence num="5">Şampiyonaya hazır durumdayız ''dedi .</sentence>
+<sentence num="6">Kutluay ,Avrupa Şampiyonası'ndaki ilk rakip olan Litvanya ile çok önemli bir maç oynanacağını da vurgulayarak ,''hem ilk maç olması itibariyle ,hem de grup birinciliği hedefimiz itibariyle Litvanya maçı çok önemli ve biz bu maçı kazanacak güçteyiz .</sentence>
+<sentence num="7">Grubu birinci bitirmemizin bize büyük avantaj sağlayacağını düşünüyorum ''diye konuştu .</sentence>
+<sentence num="8">Serkan :''Hedefimiz ilk beş ve madalya Son dönemde yakaladığı performansla göz dolduran Serkan Erdoğan ise bütün güçleri ve konsantrasyonlarıyla Avrupa Şampiyonası'na başlayacaklarını dile getirdi .''</sentence>
+<sentence num="9">Hedefimiz ilk beş ve tabii ki madalya diyen Erdoğan ,bunun dışındaki olasılıkları başarısızlık olarak kabul ediyoruz .</sentence>
+<sentence num="10">İlk maçlar her zaman çok önemlidir .</sentence>
+<sentence num="11">İlk maçta Litvanya ile karşılaşacağız ve ben eksik kadroyla şampiyonaya gelecek olan Litvanya'yı yeneceğimizi düşünüyorum ''dedi .(</sentence>
+<sentence num="12">A )Milli Takım'ın genç yıldızlarından Ender Arslan da yapılan hazırlık maçlarında gösterilen performansın olumlu olduğuna değinerek ,''özellikle Efes Pilsen İstanbul World Cup 4'teki oyunumuz ve müdafaamız çok başarılıydı .</sentence>
+<sentence num="13">Şimdi önemli olan Avrupa Şampiyonası'ndaki maçlar .</sentence>
+<sentence num="14">Biz takım olarak herkesi yenecek güce sahibiz ''dedi .</sentence>
+<sentence num="15">Milli oyuncu Kaya Peker de ,Avrupa Şampiyonası'nda Litvanya ile yapılacak ilk maçın önemine değinerek ,''turnuvadaki ilk maçımız çok önemli ve iyi başlamamız lazım .</sentence>
+<sentence num="16">Bu tür turnuvalarda maçlar her sonuca açık olabiliyor .</sentence>
+<sentence num="17">Bundan dolayı şansa da ihtiyacımız var diye konuştu .</sentence>
+</doc>
+<doc>
+<id>149037</id>
+<sentence num="0">2005 09 13 20 :30 :00 .12 dev adam hazırlıklarını tamamladı ...</sentence>
+<sentence num="1">Sırbistan Karadağ'da 16 Eylül'de başlayacak Avrupa Şampiyonası finallerinde mücadele edecek (A )Milli Erkek Basketbol Takımı ,İstanbul'daki son antrenmanını yaptı .(</sentence>
+<sentence num="2">A )Milliler ,Abdi İpekçi Spor Salonu'nda bugün çift antrenman yaptı .</sentence>
+<sentence num="3">Akşam antrenmanında oyuncuların morallerinin oldukça iyi olduğu gözlenirken ,sabah rahatsızlıkları nedeniyle çalışmaya katılamayan Ermal Kurtoğlu ve Mirsad Türkcan ,akşam antrenmanında yer aldı .</sentence>
+<sentence num="4">Bu arada ,Can Dinç'in ardından bugün de Barış Ermiş kadro dışında bırakıldı ve Avrupa Şampiyonası'na gidecek 12 kişilik ekip ortaya çıktı .(</sentence>
+<sentence num="5">A )Milli Basketbol Takımı ,Avrupa Şampiyonası için yarın saat 11 .15'te THY'ye ait özel uçakla Sırbistan Karadağ'a gidecek .</sentence>
+</doc>
+<doc>
+<id>149303</id>
+<sentence num="0">2005 09 14 12 :02 :00 .12 Dev Adam Sırbistan Karadağ'a gitti .</sentence>
+<sentence num="1">12 Dev Adam Sırbistan Karadağ'a gitti (A )Milli Erkek Basketbol Takımı ,16 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Şampiyonası Finalleri'ne katılmak üzere Sırbistan Karadağ'a gitti .</sentence>
+<sentence num="2">İstanbul'daki hazırlıklarını tamamlayan ''12 Dev Adam '',özel uçakla Sırbistan Karadağ'a hareket etti .</sentence>
+<sentence num="3">Atatürk Havalimanı'nda hareket öncesi açıklamalarda bulunan Milli Takımlar Genel Menajeri Doğan Hakyemez ,''İlk defa hedefe giderken çok huzurluyuz .</sentence>
+<sentence num="4">Takımımız çok iyi durumda .</sentence>
+<sentence num="5">Rakiplerimiz de bizimle aynı seviyede .</sentence>
+<sentence num="6">Şansımız iyi giderse bu gruptan birinci çıkarız .</sentence>
+<sentence num="7">Tek hedefimiz Dünya Şampiyonası'na katılabilecek dereceyi elde etmek ''dedi .</sentence>
+</doc>
+<doc>
+<id>149306</id>
+<sentence num="0">2005 09 14 12 :05 :00 .12 Dev Adam'dan umuda yolculuk ...(</sentence>
+<sentence num="1">A )Milli Erkek Basketbol Takımı ,16 25 Eylül tarihleri arasında düzenlenecek 34 .Avrupa Şampiyonası Finalleri'ne katılmak üzere Sırbistan Karadağ'a gitti .</sentence>
+<sentence num="2">İstanbul'daki hazırlıklarını tamamlayan ''12 Dev Adam '',özel uçakla Sırbistan Karadağ'a hareket etti .</sentence>
+<sentence num="3">Atatürk Havalimanı'nda hareket öncesi açıklamalarda bulunan Milli Takımlar Genel Menajeri Doğan Hakyemez ,''İlk defa hedefe giderken çok huzurluyuz .</sentence>
+<sentence num="4">Takımımız çok iyi durumda .</sentence>
+<sentence num="5">Rakiplerimiz de bizimle aynı seviyede .</sentence>
+<sentence num="6">Şansımız iyi giderse bu gruptan birinci çıkarız .</sentence>
+<sentence num="7">Tek hedefimiz Dünya Şampiyonası'na katılabilecek dereceyi elde etmek ''dedi .</sentence>
+<sentence num="8">OYUNCULARIN GÖRÜŞLERİ Takım kaptanı İbrahim Kutluay ,Türk halkının kendilerinden çok şeyler beklediğinin farkında olduklarını vurgulayarak ,''Potansiyeli yüksek bir takımız .</sentence>
+<sentence num="9">Gruptan birinci çıkarsak sonrası için önemli avantaj sağlarız .</sentence>
+<sentence num="10">Madalyaya giden yol bizim için çok daha kolay olur .</sentence>
+<sentence num="11">İyi çalıştık .</sentence>
+<sentence num="12">İyi mücadele edersek bu turnuvada beklentilerimizin üzerinde bir derece alacağımızı düşünüyoruz ''diye konuştu .</sentence>
+<sentence num="13">Hidayet Türkoğlu da milli takım olarak Türk halkını başarılara alıştırdıklarına dikkat çekerek ,''2001 yılından bu yana beklentiler daha çoğaldı .</sentence>
+<sentence num="14">Bizden başarılar bekliyorlar ,bunun farkındayız .</sentence>
+<sentence num="15">Türk halkını tekrar sevince boğmak istiyoruz .</sentence>
+<sentence num="16">Madalyayı hak ediyoruz ''dedi .</sentence>
+<sentence num="17">Ermal Kurtoğlu ise iyi bir hazırlık döneminin ardından şampiyonaya katıldıklarını belirterek ,''Madalya için gidiyoruz .</sentence>
+<sentence num="18">Takım olarak iyi oynamamız lazım .</sentence>
+<sentence num="19">Kolay maç diye bir şey yok .</sentence>
+<sentence num="20">Biz iyi bir takımız ''dedi .</sentence>
+<sentence num="21">Kerem Gönlüm de takımda her şeyin yolunda olduğunu ,morallerin üst seviyede bulunduğunu ifade ederek ,''Litvanya ,bizim için finale giden yolda en önemli maç .</sentence>
+<sentence num="22">Bunun bilincindeyiz .</sentence>
+<sentence num="23">Takım olarak iyi oynarsak onları rahat yenebiliriz .</sentence>
+<sentence num="24">Gruptan birinci çıkarsak finale kadar gideriz ''dedi .</sentence>
+<sentence num="25">İLK MAÇ CUMA GÜNÜ LİTVANYA İLE Türkiye ,16 25 Eylül tarihlerinde gerçekleştirilecek finallerde (B )Grubu'nda ,Podgorica kentinde maçlarını oynayacak .''</sentence>
+<sentence num="26">12 Dev Adam '',16 Eylül Cuma günü Litvanya ,17 Eylül Cumartesi günü Bulgaristan ,18 Eylül Pazar günü de Hırvatistan ile karşılaşacak .</sentence>
+<sentence num="27">KADRO Milli Takımlar Genel Menajeri Doğan Hakyemez ,(A )Milli Takım Menajeri Barbaros Akkaş ,antrenör Bogdan Tanjevic ,yardımcı antrenörler Nihat İzic ,Orhun Ene ve Levent Topsakal yönetimindeki milli takım kafilesinde şu oyuncular yer alıyor :Ermal Kurtoğlu ,Kaya Peker ,Ender Arslan ,Cenk Akyol ,Kerem Gönlüm (Efes Pilsen ),Kerem Tunçeri (Beşiktaş ),Fatih Solak (Galatasaray ),Hidayet Türkoğlu (Orlanda Magic ),Mehmet Okur (Utah Jazz ),Mirsad Türkcan ,İbrahim Kutluay (Ülkerspor ),Serkan Erdoğan (Tau Ceramica ).</sentence>
+</doc>
+<doc>
+<id>149559</id>
+<sentence num="0">2005 09 14 17 :00 :00 .12 Dev Adam ,Sırbistan Karadağ'da ...</sentence>
+<sentence num="1">S .Gökhan Akengin Bildiriyor 34 .Avrupa Erkekler Basketbol Şampiyonası finallerine katılacak (A )Milli Takım ,Sırbistan Karadağ'a geldi .</sentence>
+<sentence num="2">İstanbul'dan ,yaklaşık 1 .5 saat süren bir uçak yolcuğunun ardından grup maçlarını yapacağı eski adı Titograd olan Karadağ Cumhuriyeti'nin başkenti Podgorica'ya gelen milli takım kafilesi ,daha sonra kent merkezine yaklaşık 70 kilometre uzaklıktaki oteline geçerek ,dinlenmeye çekildi .(</sentence>
+<sentence num="3">A )Milli Takım Başantrenörü Bogdan Tanjeviç ,Podgorica'da yaptığı açıklamada ,''Çok sayıda maç yaptık ,uzun bir kamp dönemi geçirdik ,şu anda form düzeyimiz yüzde 90'larda ,maç günü bu yüzde 100'e çıkacak ''dedi .</sentence>
+<sentence num="4">Şu ana dek yaptıkları hazırlık maçlarında kendi oyunlarına dikkat ettiklerini ifade eden Sırp çalıştırıcı ,''Ama bugünden itibaren Litvanya maçına bakıyoruz .</sentence>
+<sentence num="5">Litvanya bir basketbol ekolü ve her zaman her turnuvaya hazır olarak geliyorlar .</sentence>
+<sentence num="6">Buraya da madalya için geliyorlar ''diye konuştu .</sentence>
+<sentence num="7">Tanjeviç ,Türkiye'nin artık bir takım niteliği kazandığını ve bunu oyuncularının başardığını belirterek ,tek handikaplarının ,oyuncularının maç başlamadan önce karşılaşmayı ''kazandık ''demeleri olacağını sözlerine ekledi .</sentence>
+<sentence num="8">Podgorica'daki ilk antrenmanını bu gece yapacak olan (A )Milli Takım ,gruptaki ilk maçında 16 Eylül Cuma günü Litvanya ile TSİ 22 .00'de karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>149637</id>
+<sentence num="0">2005 09 14 19 :24 :00 .Milliler Litvanya'yı bekliyor .</sentence>
+<sentence num="1">A Milli Takım Avrupa Şampiyonası'na Litvanya maçıyla başlayacak 34'üncü Avrupa Erkekler Basketbol Şampiyonası finallerine katılacak Türk Milli Takımı Sırbistan Karadağ'a geldi .</sentence>
+<sentence num="2">İstanbul'dan yaklaşık 1 .5 saat süren bir uçak yolcuğunun ardından grup maçlarını yapacağı eski adı Titograd olan Karadağ Cumhuriyeti'nin başkenti Podgorica'ya gelen milli takım kafilesi ,daha sonra kent merkezine yaklaşık 70 kilometre uzaklıktaki oteline geçerek dinlenmeye çekildi .,</sentence>
+<sentence num="3">Türk Milli Takımı'nın başantrenörü Bogdan Tanjevic ,Podgorica'da yaptığı açıklamada ,çok sayıda maç yaptık ,uzun bir kamp dönemi geçirdik ,şu anda form düzeyimiz yüzde 90'larda ,maç günü bu yüzde 100'e çıkacak dedi .</sentence>
+<sentence num="4">Şu ana dek yaptıkları hazırlık maçlarında kendi oyunlarına dikkat ettiklerini ifade eden Sırp çalıştırıcı ,ama bugünden itibaren Litvanya maçına bakıyoruz .</sentence>
+<sentence num="5">Litvanya bir basketbol ekolü ve her zaman her turnuvaya hazır olarak geliyorlar .</sentence>
+<sentence num="6">Buraya da madalya için geliyorlar diye konuştu .</sentence>
+<sentence num="7">Tanjevic Türkiye'nin artık bir takım niteliği kazandığını ve bunu oyuncularının başardığını belirterek ,tek handikaplarının ,oyuncularının maç başlamadan önce karşılaşmayı kazandık demeleri olacağını sözlerine ekledi .</sentence>
+<sentence num="8">Türkiye gruptaki ilk maçında 16 eylül cuma günü Litvanya ile TSİ 22 .00'da karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>150766</id>
+<sentence num="0">2005 09 16 15 :32 :00 .12 Dev Adam ilk sınavda .</sentence>
+<sentence num="1">Soldan sağa :Ermal ,Hidayet ve Cenk Sırbistan Karadağ'da düzenlenen 34'üncü Avrupa Basketbol Şampiyonası grup maçlarıyla başlıyor .</sentence>
+<sentence num="2">Türkiye ilk maçında bu akşam Litvanya ile karşılaşacak .</sentence>
+<sentence num="3">Türkiye ,Eurobasket 2005'teki ilk sınavını son Avrupa şampiyonu Litvanya karşısında verecek .</sentence>
+<sentence num="4">A Milli Takım ,Litvanya ile daha önce 12 kez karşılaştı ve 11 maçı kaybetti .</sentence>
+<sentence num="5">Türkiye güçlü rakibi karşısında tek galibiyetini Aydın Örs dönemindeki bir hazırlık turnuvasında aldı .</sentence>
+<sentence num="6">Üst üste sekizinci kez Avrupa Şampiyonası finallerinde mücadele edecek olan Türkiye ,bu akşamki rakibi Litvanya karşısında en farklı yenilgisini 2003 Avrupa Şampiyonası eleme grubunda 100 62'lik skorla aldı .</sentence>
+<sentence num="7">Şampiyon unvanıyla Sırbistan Karadağ'a gelen Litvanya ,NBA'e giden kilit oyuncuları Sarunas Jasikevicius ve Arvydas Macijauskas'dan yoksun olarak mücadele edecek .</sentence>
+<sentence num="8">Günün diğer maçları Podgorica kentinde oynanacak Türkiye Litvanya karşılaşması saat 22 .00'de başlayacak .</sentence>
+<sentence num="9">Grubun diğer maçında Hırvatistan ve Bulgaristan saat 19 .00'da karşılaşacak .</sentence>
+<sentence num="10">Avrupa Şampiyonası'nın ilk gününde A Grubu'nda Almanya İtalya ,Rusya Ukrayna ,C Grubu'nda Slovenya Bosna Hersek ,Fransa Yunanistan ,D Grubu'nda Letonya İsrail ,Sırbistan Karadağ İspanya maçları oynanacak .</sentence>
+<sentence num="11">Statü gereği grup liderleri doğrudan çeyrek finale yükselecek .</sentence>
+<sentence num="12">İkinci ve üçüncü sırayı alan takımlardan dördü de çapraz eşleşmenin ardından çeyrek final vizesi alacak .</sentence>
+<sentence num="13">Türkiye 18'inci kez finallerde 34'üncü Avrupa Erkekler Basketbol Şampiyonası finallerinde mücadele edecek A Milli Takım 18'inci kez Avrupa Şampiyonası finallerinde yer alacak .</sentence>
+<sentence num="14">Türkiye bugüne kadar en iyi derecesini evsahipliği yaptığı 2001 yılındaki şampiyonada ikinci olarak elde etti .</sentence>
+<sentence num="15">Milliler bu başarının ardından İsveç'te düzenlenen 33'üncü Avrupa Şampiyonası'nda ilk sekize kalamayarak dereceye giremedi .</sentence>
+</doc>
+<doc>
+<id>150947</id>
+<sentence num="0">2005 09 16 21 :22 :00 .Bulgaristan Hırvatları terletti Eurobasket 2005'e İtalya ,İsrail ve Slovenya galibiyetle başladı .</sentence>
+<sentence num="1">Hırvatistan'ın guard'ı Ukic ,Mladenov'un savunmasına rağmen basket arayışında Avrupa Basketbol Şampiyonası dört maçla başladı .</sentence>
+<sentence num="2">Türkiye'nin de yer aldığı B Grubu'nda Hırvatistan Bulgaristan'ı 88 84 yendi .</sentence>
+<sentence num="3">Sırbistan Karadağ'ın evsahipliği yaptığı 34'üncü Avrupa Basketbol Şampiyonası'na Slovenya ,İsrail ,Hırvatistan ve İtalya galibiyetle başladı .</sentence>
+<sentence num="4">Türkiye'nin de yer aldığı B Grubu'nun açılış maçında Hırvatistan Bulgaristan karşısında çok zorlanmasına rağmen 88 84 galip geldi .</sentence>
+<sentence num="5">İlk üç çeyrekte skorda geri kalan Hırvatistan ,Bulgarların faul sorununa girmesiyle üstünlüğü ele aldı ve ilk yarıyı 21 sayıyla bitiren Stoykov'a da iyi savunma yapınca salondan galip ayrıldı .</sentence>
+<sentence num="6">A Grubu maçında iki eski şampiyon karşıya geldi .</sentence>
+<sentence num="7">Büyük yıldızı Dirk Nowitzki'nin önderliğinde İtalya karşısına çıkan Almanya ,baştan sona çekişme içinde geçen maçta İtalya'ya uzatmada 84 82 kaybetti .</sentence>
+<sentence num="8">Almanya son çeyreğe 10 sayı önde girmesine rağmen İtalya dengeyi sağladı ve normal süre 74 74 sona erdi .</sentence>
+<sentence num="9">Dirk Nowitzki 27 sayı ,15 ribaund ,2 top çalma ve 2 blokla oynamasına rağmen üçlük atışlarda ancak 4 14 isabet sağlayabildi .</sentence>
+<sentence num="10">C Grubu'nda Slovenya Bosna Hersek'e 74 65 üstünlük sağladı .</sentence>
+<sentence num="11">Slovenya'da NBA oyuncuları Primoz Brezec 16 sayı ve 11 ribaund ,Bostjan Nachbar 16 sayıyla oynadı .</sentence>
+<sentence num="12">Bosna Hersek'te Efes Pilsenli Henry Domercant 11 sayı ,Fenerbahçeli Damir Mrsic 9 sayı ve 4 asist üretti .</sentence>
+<sentence num="13">D Grubu'nun açılış maçında İsrail Letonya'yı 74 65 yendi .</sentence>
+<sentence num="14">İlk yarıyı 41 38 yenik kapatan İsrail 18 8'lik üçüncü çeyrek skoruyla öne geçti ve avantajını koruyarak Avrupa Şampiyonası'na galibiyetle başladı .</sentence>
+</doc>
+<doc>
+<id>150995</id>
+<sentence num="0">2005 09 17 00 :10 :00 .Tanjeviç :Aradaki fark o kadar fazlaydı ki kapatamadık .(</sentence>
+<sentence num="1">A )Milli Basketbol Takımı Antrenörü Bogdan Tanjeviç ,87 75'lik Litvanya yenilgisi sonrasında ,Litvanya'yı gönülden kutluyorum .</sentence>
+<sentence num="2">İlk yarıda ,maçı kazanacak skoru elde etti dedi .</sentence>
+<sentence num="3">Karşılaşma boyunca inanılmaz kötü şut attıklarını belirten Tanjeviç ,İkinci yarıda onların sertliklerine cevap verdik ama aradaki fark o kadar fazlaydı ki kapatmaya yetmedi .</sentence>
+<sentence num="4">Bulgaristan maçını kazanıp ,Hırvatistan'ın Litvanya'yı yenmesini bekleyeceğiz diye konuştu .</sentence>
+<sentence num="5">Milli basketbolcu Mirsad Türkcan ise son Avrupa şampiyonu Litvanya'nın o kadrosundan 5 oyuncusunu kaybettiğini vurgulayarak ,Rakip ,takım oyunu oynamayı başardı .</sentence>
+<sentence num="6">Biz bu maçı unuttuk ,Bulgaristan ile yarın kritik bir maç yapacağız .</sentence>
+<sentence num="7">Bulgarların Hırvatistan karşısındaki basketbolu gerçekten etkileyiciydi dedi .</sentence>
+<sentence num="8">Litvanya Antrenörü Antanas Sireika ise kadroda çok büyük problemleri olduğunu ,çok eksikleri bulunduğunu belirterek ,Maçtan önce çok endişeliydim ,ancak bizim çocuklar sahada çok iyi işler yaptı .</sentence>
+<sentence num="9">Grubu lider tamamlayıp Belgrad'a gitmek istiyoruz diye konuştu .</sentence>
+</doc>
+<doc>
+<id>150997</id>
+<sentence num="0">2005 09 17 00 :11 :00 .TÜRKİYE :75 LİTVANYA :87 .TÜRKİYE :75 LİTVANYA :87 34 .Avrupa Basketbol Şampiyonası'nda (B )Grubu'nda mücadele eden Türkiye ,ilk maçında Litvanya'ya 87 75 yenildi .</sentence>
+<sentence num="1">Kadrosunda önemli eksikleri bulunan rakibi karşısında maça tutuk başlayan (A )Milliler ,Kemal Tunçeri'nin sakatlığı nedeniyle ilk beşte çıkan Ender'in takımı yönlendirememesi ve diğer oyuncuların dış şutlardaki düşük yüzdesiyle bu bölümde üstünlüğü Litvanya'ya kaptırdı .</sentence>
+<sentence num="2">5 .dakika 10 4 Litvanya'nın üstünlüğüyle geçilirken ,hızlı hücumlarda pota altını iyi kullanan rakip takım ,antrenör Tanjeviç'in Kerem Tunçeri ,Mirsad ve Serkan ile oyuna müdahalesine karşın farkı açmaya devam etti ve Türkiye ilk periyodu 22 13 geride tamamladı .</sentence>
+<sentence num="3">İkinci periyotta da özellikle savunmada pota altında yaşanan sıkıntıya çare bulamayan Türkiye ,Litvanya hücumlarında çaresiz kalırken ,hücumda da ısrar ettiği dış şutlarda skor üretemeyince fark da açıldı .</sentence>
+<sentence num="4">Oyuna girdikten sonra pota altındaki mücadelesiyle takımı az da olsa hareketlendiren Ermal'ın mücadelesine karşın Siskauskas'ı durduramayan (A )milliler ,15 .dakikasını 11 sayı (32 21 ),17 .dakikasını 16 sayı farkla (24 40 )geride kapadığı devreyi de 18 sayı farkla 46 28 yenik tamamladı .</sentence>
+<sentence num="5">Dış şutlarda devre boyunca bir türlü aradığı yüzdeyi bulamayan Türkiye ,ilk iki periyotta 2 sayılık atışlarda 16'da 8 ,3 sayılık atışlarda ise 15'te 3 gibi düşük bir oranla oynadı .</sentence>
+<sentence num="6">Bu yarıda (A )Millilerin pota altında etkisiz kalmasının bir diğer nedeni de ,Mehmet Okur'un sahada kaldığı 10 .54 dakika içinde sadece 1 ribauntla oynaması hiç sayı atamaması oldu .</sentence>
+<sentence num="7">İkinci yarıya da etkili başlayan Litvanya ,22 .dakika geçildiğinde farkı 20 sayıya (32 52 )çıkardı .</sentence>
+<sentence num="8">25 .dakikayı da 22 sayı farkla 57 35 önde geçen Litvanya ,Mirsad'ın savunma ve hücumdaki gayretli oyununa karşın farkın kapanmasına izin vermedi .</sentence>
+<sentence num="9">Çeyreğin son bölümünde hareketli savunması yavaşlayan Litvanya karşısında Türkiye ,Mehmet ve Ender ile sayılar bulsa da 3 .periyot da 19 sayı farkla 65 46 rakip üstünlüğünde tamamlandı .</sentence>
+<sentence num="10">Son periyoda istekli başlayan ve özellikle hücumda pota altını iyi kullanmaya başlayan Türkiye ,34 .dakika geçildiğinde farkı 12 sayıya (55 67 )kadar indirdi .</sentence>
+<sentence num="11">Mirsad'ın ürettiği sayılarla oyunda hareketlenen (A )Milliler ,maçın son 5 dakikasına girildiğinde farkı 7 sayıya kadar indirdi :62 69 .3 periyot boyu süren tutukluğunu son çeyrekte atan ,rakibin temposunu düşüren ve özellikle bitime beş kala savunmada mücadele etmeye başlayan Türkiye ,son dakikalardaki acele atışlardan sayı bulamayıp ,savunmada da basit hatalar yapınca ,sahadan 87 75'lik yenilgiyle ayrıldı .(</sentence>
+<sentence num="12">B )Grubu'ndaki diğer maçta ise Hırvatistan ,Bulgaristan'ı 88 84 yenmişti .</sentence>
+<sentence num="13">Türkiye ,gruptaki 2 .maçını bugün TSİ 22 .00'de Bulgaristan ile yapacak .</sentence>
+</doc>
+<doc>
+<id>151007</id>
+<sentence num="0">2005 09 17 00 :29 :00 .Tanjeviç :Litvanya'yı gönülden kutluyorum .</sentence>
+<sentence num="1">Tanjeviç :Litvanya'yı gönülden kutluyorum (A )Milli Basketbol Takımı Antrenörü Bogdan Tanjeviç ,87 75'lik Litvanya yenilgisi sonrasında ,''Litvanya'yı gönülden kutluyorum .</sentence>
+<sentence num="2">İlk yarıda ,maçı kazanacak skoru elde etti ''dedi .</sentence>
+<sentence num="3">Karşılaşma boyunca inanılmaz kötü şut attıklarını belirten Tanjeviç ,''İkinci yarıda onların sertliklerine cevap verdik ama aradaki fark o kadar fazlaydı ki kapatmaya yetmedi .</sentence>
+<sentence num="4">Bulgaristan maçını kazanıp ,Hırvatistan'ın Litvanya'yı yenmesini bekleyeceğiz ''diye konuştu .</sentence>
+<sentence num="5">Milli basketbolcu Mirsad Türkcan ise son Avrupa şampiyonu Litvanya'nın o kadrosundan 5 oyuncusunu kaybettiğini vurgulayarak ,''Rakip ,takım oyunu oynamayı başardı .</sentence>
+<sentence num="6">Biz bu maçı unuttuk ,Bulgaristan ile yarın kritik bir maç yapacağız .</sentence>
+<sentence num="7">Bulgarların Hırvatistan karşısındaki basketbolu gerçekten etkileyiciydi ''dedi .</sentence>
+<sentence num="8">Litvanya Antrenörü Antanas Sireika ise kadroda çok büyük problemleri olduğunu ,çok eksikleri bulunduğunu belirterek ,''Maçtan önce çok endişeliydim ,ancak bizim çocuklar sahada çok iyi işler yaptı .</sentence>
+<sentence num="9">Grubu lider tamamlayıp Belgrad'a gitmek istiyoruz ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>151011</id>
+<sentence num="0">2005 09 17 00 :45 :00 .Tanjeviç :İnanılmaz Kötü Şut Attık .</sentence>
+<sentence num="1">A Milli Basketbol Takımı Antrenörü Bogdan Tanjeviç ,87 75'lik Litvanya yenilgisi sonrasında ,Litvanya'yı gönülden kutluyorum .</sentence>
+<sentence num="2">İlk yarıda ,maçı kazanacak skoru elde etti dedi .</sentence>
+<sentence num="3">Karşılaşma boyunca inanılmaz kötü şut attıklarını belirten Tanjeviç ,İkinci yarıda onların sertliklerine cevap verdik ama aradaki fark o kadar fazlaydı ki kapatmaya yetmedi .</sentence>
+<sentence num="4">Bulgaristan maçını kazanıp ,Hırvatistan'ın Litvanya'yı yenmesini bekleyeceğiz diye konuştu .</sentence>
+<sentence num="5">Milli basketbolcu Mirsad Türkcan ise son Avrupa şampiyonu Litvanya'nın o kadrosundan 5 oyuncusunu kaybettiğini vurgulayarak ,Rakip ,takım oyunu oynamayı başardı .</sentence>
+<sentence num="6">Biz bu maçı unuttuk ,Bulgaristan ile kritik bir maç yapacağız .</sentence>
+<sentence num="7">Bulgarların Hırvatistan karşısındaki basketbolu gerçekten etkileyiciydi dedi .</sentence>
+<sentence num="8">Litvanya Antrenörü Antanas Sireika ise kadroda çok büyük problemleri olduğunu ,çok eksikleri bulunduğunu belirterek ,Maçtan önce çok endişeliydim ,ancak bizim çocuklar sahada çok iyi işler yaptı .</sentence>
+<sentence num="9">Grubu lider tamamlayıp Belgrad'a gitmek istiyoruz diye konuştu .</sentence>
+</doc>
+<doc>
+<id>151314</id>
+<sentence num="0">2005 09 17 21 :02 :00 .Favoriler kayıpsız ilerliyor .</sentence>
+<sentence num="1">Garbajosa ,Letonya'nın oyun kurucusu Stelmahers'ı durdurmaya çalışıyor 34'üncü Avrupa Basketbol Şampiyonası'nda İspanya ,Litvanya ve Rusya grupta oynadıkları ikinci maçlarını da kazandı .</sentence>
+<sentence num="2">B Grubu'ndaki ilk maçında Türkiye'yi yenen Litvanya ,ilk gün Bulgaristan'ı mağlup eden Hırvatistan'a ikinci yarıdaki etkili oyunuyla 85 67 üstünlük sağladı .</sentence>
+<sentence num="3">Grup liderliği için büyük avantaj yakalayan Litvanya'da 20 sayı atan Siskauskas maçın en skorer ismi oldu ,Jankunas 16 sayı ve 7 ribaundla oynadı .</sentence>
+<sentence num="4">A Grubu'nda Rusya İtalya'yı 87 61 yenerek ikinci maçından da galibiyetle ayrıldı .</sentence>
+<sentence num="5">Rusya'da Kirilenko 16 sayı ve 10 ribaund ,Khryapa 15 sayı ve 10 ribaund ,JR Holden 15 sayı üretti .</sentence>
+<sentence num="6">Bosna Hersek'i 79 62 yenen Fransa C Grubu'ndaki ikinci maçında galibiyetle tanıştı .</sentence>
+<sentence num="7">Boris Diaw 23 sayı ,7 ribaund ve 7 asistle maçın yıldızı oldu ,Mike Pietrus 22 sayı ve 7 ribaundla Diaw'a eşlik etti .</sentence>
+<sentence num="8">Fransa'nın büyük kozu Tony Parker maçı sadece 2 sayıyla tamamladı .</sentence>
+<sentence num="9">Grupta ikinci yenilgisini alan Bosna Hersek'te Fenerbahçeli Damir Mrsic 24 sayı ve 8 ribaund ,Efesli Henry Domercant 13 sayılık performans sergiledi .</sentence>
+<sentence num="10">D Grubu'nda İspanya Letonya'yı uzatmada 114 109 yenerek ikide iki yaptı .</sentence>
+<sentence num="11">Navarro 35 sayıyla maçın en skoreri olurken ,Garbajosa 31 sayı ve 4 top çalma ,Reyes 18 sayı ve 15 ribaundla oynadı .</sentence>
+<sentence num="12">İsrail'den sonra İspanya'ya da normal süresi 98 98 biten maçta kaybeden Letonya'da Valters 28 ,Janicenoks 25 sayı kaydetti .</sentence>
+</doc>
+<doc>
+<id>151368</id>
+<sentence num="0">2005 09 18 00 :19 :00 .Türkiye uzatmada kazandı Türkiye 94 89 Bulgaristan (normal süre 79 79 ).Mirsad ,Bulgaristan maçının kazanılmasında çok önemli rol oynadı Türkiye ,Avrupa Basketbol Şampiyonası B Grubu'ndaki ikinci maçında Bulgaristan'ı uzatmada 94 89 yendi ve ilk galibiyetini aldı .</sentence>
+<sentence num="1">Sırbistan Karadağ'a Avrupa Şampiyonası'nda iyi bir derece yapmak için gelen Türkiye ilk galibiyetine Bulgaristan karşısında ulaştı .</sentence>
+<sentence num="2">B Grubu'ndaki ilk maçında Litvanya'ya 87 75 yenilen Türkiye ,üstüste dokuz kez mağlup ettiği Bulgaristan'ı normal süresi 79 79 biten karşılaşmada 94 89 yendi .</sentence>
+<sentence num="3">Savunmada Videnov ,Stoikov ve Mladenov'u durduramayan ,serbest atışlarda çok düşük bir yüzdeyle oynayan milli takım ilk çeyreği 23 19 ,devreyi de 47 40 geride tamamladı .</sentence>
+<sentence num="4">Türkiye ikinci yarıya istekli ve iyi savunma yaparak başlayınca 2 .5 dakika içinde farkı bir sayıya (47 46 )indirdi .</sentence>
+<sentence num="5">Ancak maçı bırakmayan Bulgaristan farkı giderek açtı .</sentence>
+<sentence num="6">Son çeyreğe 67 57 yenik giren milliler İbrahim'in üç üçlüğüyle skorda dengeyi sağladı .</sentence>
+<sentence num="7">Türkiye son dakikaya üç sayı farkla önde girmesine rağmen normal süre 79 79 sona erdi ve maç uzatmaya gitti .</sentence>
+<sentence num="8">Angelov ve Stoikov'un üçlükleri ile uzatmada altı sayı geriye düşen Türkiye Kerem'in basketleri ile oyundan kopmadı .</sentence>
+<sentence num="9">Hidayet'in 32 saniye kala uzun mesafeli üçlüğü ile 92 89 öne geçen ay yldızlılar bitime 14 saniye kala Kerem Tunçeri'nin iki isabetli faul atışıyla karşılaşmadan 94 89 galip ayrıldı .</sentence>
+<sentence num="10">Mirsad 19 sayı ve 6 ribaund ,Mehmet Okur 13 sayı ve 6 ribaund ,Hidayet 17 sayı ve Serkan 13 sayı üretti .</sentence>
+<sentence num="11">Maçın en skorer ismi ise 23 sayı atan Videnov oldu .</sentence>
+<sentence num="12">Türkiye B Grubu'ndaki son maçında bu akşam saat 22 .00'da Hırvatistan ile oynayacak ve gruptaki sıralama belli olacak .</sentence>
+<sentence num="13">Son maçlar öncesinde Litvanya iki galibiyetle lider ,birer galibiyeti bulunan ekiplerden Türkiye ikinci ,Hırvatistan üçüncü ,iki maçını da kaybeden Bulgaristan ise son sırada .</sentence>
+<sentence num="14">Grup lideri doğrudan çeyrek finale kalırken ,ikinci ve üçüncü sıraya alacak takımlar A Grubu'ndan gelecek ikinci ve üçüncülerle çapraz eşleşerek çeyrek finale yükselebilmek için karşılaşacak .</sentence>
+<sentence num="15">Salon :Moraca Hakemler :Zoran Sutulovic (Sırbistan Karadağ ),Saso Pukl (Slovenya ),Shuel Bachar (İsrail )Bulgaristan :Radionov ,Videnov 23 ,Stoykov 21 ,Georgiev 6 ,Banev 4 ,Dimitrov 10 ,Davidov 4 ,Mladenov 15 ,Angelov 6 Türkiye :Ender 2 ,İbrahim 9 ,Hidayet 17 ,Kaya 3 ,Ermal 2 ,Kerem Tunçeri 9 ,Mehmet Okur 13 ,Mirsad 19 ,Kerem Gönlüm 4 ,Serkan Erdoğan 16 Çeyrek skorları :23 19 ,47 40 ,67 57 ,normal süre :79 79 Beş faulle çıkanlar :35 .58 Banev (Bulgaristan ),39 .34 İbrahim (Türkiye ).</sentence>
+</doc>
+<doc>
+<id>151369</id>
+<sentence num="0">2005 09 18 00 :24 :00 .BULGARİSTAN :89 TÜRKİYE :94 .BULGARİSTAN :89 TÜRKİYE :94 34 .Avrupa Erkekler Basketbol Şampiyonası'nda ,Türkiye (B )Grubu'ndaki ikinci maçında ,normal süresi 79 79 berabere tamamlanan maçta ,Bulgaristan'ı uzatmada 94 89 yenerek ilk galibiyetini aldı .</sentence>
+<sentence num="1">İlk periyota kontrollü başlayan ve hücumda Hidayet ile skor üreten Türkiye 5 .dakikayı 11 9 önde geçti .</sentence>
+<sentence num="2">Bu bölümün sonlarında ,Hidayet'in Bulgarların etkili ismi Stoykov'u iyi savunmasına karşın ,rakibin dış şutlardan kazandığı basketleri engelleyemeyen Türkiye ,Bulgaristan karşısında bu periyodu 23 19 geride tamamladı .</sentence>
+<sentence num="3">Karşılıklı basketlere sahne olan 2 .periyotun ilk bölümünde Bulgaristan ,Videnov'un skorer oyunuyla etkili oldu ve 15 .dakikayı 36 35 önde geçti .</sentence>
+<sentence num="4">Basit hatalarla rakip yarı alanda kaptırılan topları hızlı hücumlarla iyi değerlendiren Bulgaristan ,Stoykov'un başarılı hücum organizasyonları ve sayılarıyla farkı açtı ve (A )Milli Takım ,soyunma odasına 47 40'lık skorla geride girdi .</sentence>
+<sentence num="5">Milliler ,ilk yarıda 2 sayılık atışlarda 19'da 12 isabet bulurken ,3 sayı denemelerinde Litvanya maçındaki sıkıntı devam etti ve 6 atıştan sadece birinde başarılı olabildiler .</sentence>
+<sentence num="6">Bulgaristan'ın 3 sayılık atışlarda 10 denemeden 5'inde başarılı olması ilk yarıdaki skor üstünlüğünde önemli rol oynadı .</sentence>
+<sentence num="7">İlk yarı boyunca içerden oynamak yerine dış şutlarla sonuca gitmeye çalışan Türkiye ,ikinci yarıda hücumda Kerem Gönlüm ve Kaya ile pota altını kullanmaya başladı ve zorlanan Bulgar savunması karşısında aradaki sayı farkını da eritmeye başladı .</sentence>
+<sentence num="8">Ancak Millilerin en büyük eksiklerinden biri olan serbest atışlar yine kaçmaya başlayınca ve dönen toplar hızlı hücumlarda sayıya dönünce fark tekrar açılmaya başladı ve 28 .dakikaya gelindiğinde ,Bulgaristan farkı 11 sayıya kadar çıkardı :63 52 .Savunma ribauntlarında etkisiz kalan ,rakip pota altında ise çok basit hatalarla top kaybedip sayı üretemeyen Milliler karşısında periyodun sonuna kadar farkı koruyan Bulgaristan ,bu bölümü de 67 57 önde geçti .</sentence>
+<sentence num="9">Son periyotta Serkan ve İbrahim'in dış şutlarıyla sayılar bulan Türkiye ,sert ve hareketli savunmaya geçip Bulgar hücumlarında sayıya izin vermeyince fark da azaldı ve son 5 dakikaya girildiğinde fark bir sayıya kadar indi :71 70 .Son 3 dakikası karşılıklı basketlerle geçen maçta ,Türkiye bitime 1 dakika 45 saniye kala beraberliği yakaladı :75 75 .Son dakikaya girilirken İbrahim'in 3 sayılık basketiyle öne geçen ay yıldızlılar ,son 10 saniyesine 79 79'luk beraberlikle girilen maçta ,son hücumdan Serkan ve Mirsad ile yararlanamayınca ,normal süre bu skorla bitti .</sentence>
+<sentence num="10">Uzatmada dış şutlardan art arda gelen Bulgar basketlerine ,Kerem Tunçeri ve Mirsad ile cevap vermeye çalışan Türkiye ,son dakikasına 89 89 beraberlikle girilen maçta Hidayet'in 3 sayılık basketiyle öne geçti ve Kerem Tunçeri'nin faul atışlarıyla rahatlayarak son Bulgar hücumunu da engelleyerek ,sahadan 94 89'luk galibiyetle ayrıldı .</sentence>
+</doc>
+<doc>
+<id>151374</id>
+<sentence num="0">2005 09 18 00 :44 :00 .Dev Adamlar Galibiyetle Tanıştı .</sentence>
+<sentence num="1">Avrupa Erkekler Basketbol Şampiyonası'nda mücadele eden A Milli Basketbol takımımız ,B grubundaki 2 .maçında Bulgaristan'ı uzatmalarda 94 89 yendi .</sentence>
+<sentence num="2">Millilerimiz ;maça Ermal Kurtoğlu ,Ender Arslan ,İbrahim Kutluay ,Kaya Peker ve Hidayet Türkoğlu 5'iyle çıktı .</sentence>
+<sentence num="3">Ekibimiz Hidayet'in ardarda gelen sayılarıyla hızlı başladı .</sentence>
+<sentence num="4">Fakat komşu Bulgaristan ,özellikle pota altından bulduğu sayılarla skordan kopmadı ve ilk yarı 47 40 Bulgaristan'ın üstünlüğüyle sonuçlandı .</sentence>
+<sentence num="5">2 .yarıda da skor üstünlüğü yine Bulgaristan'daydı .</sentence>
+<sentence num="6">Fakat Millilerimiz oyundan kopmadı ve bitime 2 dakika kala Mehmet Okur'un basketiyle skora 75 75 denge geldi .</sentence>
+<sentence num="7">Hemen sonrasında İbrahim Kutluay'ın 3 sayılık basketiyle ekibimiz öne geçse de maçın normal süresi 79 79 luk eşitlikle sonuçlandı .</sentence>
+<sentence num="8">5 dakikalık uzatma periyodunun başında ardarda sayılar bulan Bulgaristan bir ara 6 sayı öne geçti fakat Millierimiz özellikle Kerem Gönlüm'ün başarılı oyunuyla oyundan kopmadı .</sentence>
+<sentence num="9">Rakibini yakalayan ekibimiz ,Hidayet'in bitime 20 saniye kala gelen kritik 3 sayılık atışıyla 92 89 öne geçti .</sentence>
+<sentence num="10">Kalan saniyelerde skor üstünlüğünü elinde tutan ekibimiz bu kritik maçı ,zor da olsa 94 89 kazanarak şampiyonadaki 2 .maçında galibiyetle tanıştı .</sentence>
+</doc>
+<doc>
+<id>151375</id>
+<sentence num="0">2005 09 18 00 :48 :00 .Türkiye Bulgaristan'ı uzatmalarda yendi .</sentence>
+<sentence num="1">Bulgaristan :89 Türkiye :94 34 .Avrupa Erkekler Basketbol Şampiyonası'nda ,Türkiye (B )Grubu'ndaki ikinci maçında ,normal süresi 79 79 berabere tamamlanan maçta ,Bulgaristan'ı uzatmada 94 89 yenerek ilk galibiyetini aldı .</sentence>
+<sentence num="2">İlk periyota kontrollü başlayan ve hücumda Hidayet ile skor üreten Türkiye 5 .dakikayı 11 9 önde geçti .</sentence>
+<sentence num="3">Bu bölümün sonlarında ,rakibin dış şutlardan kazandığı basketleri engelleyemeyen Türkiye ,Bulgaristan karşısında bu periyodu 23 19 geride tamamladı .</sentence>
+<sentence num="4">Karşılıklı basketlere sahne olan 2 .periyotun ilk bölümünde Bulgaristan ,Videnov'un skorer oyunuyla etkili oldu ve 15 .dakikayı 36 35 önde geçti .</sentence>
+<sentence num="5">Basit hatalarla rakip yarı alanda kaptırılan topları hızlı hücumlarla iyi değerlendiren Bulgaristan ,Stoykov'un başarılı hücum organizasyonları ve sayılarıyla farkı açtı ve (A )Milli Takım ,soyunma odasına 47 40'lık skorla geride girdi .</sentence>
+<sentence num="6">Milliler ,ilk yarıda 2 sayılık atışlarda 19'da 12 isabet bulurken ,3 sayı denemelerinde Litvanya maçındaki sıkıntı devam etti ve 6 atıştan sadece birinde başarılı olabildiler .</sentence>
+<sentence num="7">Bulgaristan'ın 3 sayılık atışlarda 10 denemeden 5'inde başarılı olması ilk yarıdaki skor üstünlüğünde önemli rol oynadı .</sentence>
+<sentence num="8">İlk yarı boyunca içerden oynamak yerine dış şutlarla sonuca gitmeye çalışan Türkiye ,ikinci yarıda hücumda Kerem Gönlüm ve Kaya ile pota altını kullanmaya başladı ve zorlanan Bulgar savunması karşısında aradaki sayı farkını da eritmeye başladı .</sentence>
+<sentence num="9">Ancak Millilerin en büyük eksiklerinden biri olan serbest atışlar yine kaçmaya başlayınca ve dönen toplar hızlı hücumlarda sayıya dönünce fark tekrar açılmaya başladı ve 28 .dakikaya gelindiğinde ,Bulgaristan farkı 11 sayıya kadar çıkardı :63 52 .Savunma ribauntlarında etkisiz kalan ,rakip pota altında ise çok basit hatalarla top kaybedip sayı üretemeyen Milliler karşısında periyodun sonuna kadar farkı koruyan Bulgaristan ,bu bölümü de 67 57 önde geçti .</sentence>
+<sentence num="10">Son periyotta Serkan ve İbrahim'in dış şutlarıyla sayılar bulan Türkiye ,sert ve hareketli savunmaya geçip Bulgar hücumlarında sayıya izin vermeyince fark da azaldı ve son 5 dakikaya girildiğinde fark bir sayıya kadar indi :71 70 .Son 3 dakikası karşılıklı basketlerle geçen maçta ,Türkiye bitime 1 dakika 45 saniye kala beraberliği yakaladı :75 75 .Son dakikaya girilirken İbrahim'in 3 sayılık basketiyle öne geçen ay yıldızlılar ,son 10 saniyesine 79 79'luk beraberlikle girilen maçta ,son hücumdan Serkan ve Mirsad ile yararlanamayınca ,normal süre bu skorla bitti .</sentence>
+<sentence num="11">Uzatmada dış şutlardan art arda gelen Bulgar basketlerine ,Kerem Tunçeri ve Mirsad ile cevap vermeye çalışan Türkiye ,son dakikasına 89 89 beraberlikle girilen maçta Hidayet'in 3 sayılık basketiyle öne geçti ve Kerem Tunçeri'nin faul atışlarıyla rahatlayarak son Bulgar hücumunu da engelleyerek ,sahadan 94 89'luk galibiyetle ayrıldı .</sentence>
+<sentence num="12">Salon :Moraca Hakemler :Zoran Sutuloviç x (Sırbistan Karadağ ),Saso Pukl x (Slovenya ),Shuel Bachar x (İsrail )Bulgaristan :Radionov x ,Videnov xxx 23 ,Stoykov xxx 21 ,Georgiev x 6 ,Banev x 4 ,Dimitrov xx 10 ,Davidov x 4 ,Mladenov xxx 15 ,Angelov xx 6 Türkiye :Ender xx 2 ,İbrahim xx 9 ,Hidayet xx 17 ,Kaya xx 3 ,Ermal x 2 ,Kerem Tunçeri xx 9 ,Mehmet Okur x 13 ,Mirsad xxx 19 ,Kerem Gönlüm x 4 ,Serkan Erdoğan xxx 16 1 .periyot :23 19 Devre :47 40 (Bulgaristan lehine )3 .periyot :67 57 Beş faulle çıkanlar :35 .58 Banev (Bulgaristan ),39 .34 İbrahim (Türkiye )Normal süre :79 79 AA .</sentence>
+</doc>
+<doc>
+<id>151681</id>
+<sentence num="0">2005 09 18 20 :36 :00 .Türkiye'ye İbrahim Kutluay şoku .</sentence>
+<sentence num="1">Türkiye yoluna İbrahim Kutluay olmadan devam edecek Bulgaristan maçında parmağı kırılan İbrahim Kutluay ,Türkiye'nin Avrupa Basketbol Şampiyonası'nda kalan maçlarında forma giyemeyecek .</sentence>
+<sentence num="2">34'üncü Avrupa Erkekler Basketbol Şampiyonası B Grubu'nda mücadele eden Türk Milli Takımı'nda büyük bir şanssızlık yaşandı .</sentence>
+<sentence num="3">Bulgaristan maçının son çeyreğinde üç tane üçlük basketle galibiyette önemli rol oynayan takım kaptanı İbrahim Kutluay'ın sağ el serçe parmağının kırıldığı belirlendi .</sentence>
+<sentence num="4">Maç sırasında kırığı farketmeyen ,ancak karşılaşma sonrası ağrıları artan deneyimli oyuncunun çekilen filminde ,serçe parmağında kırık olduğu anlaşıldı .</sentence>
+<sentence num="5">İbrahim'in takımın kalan maçlarında forma giyemeyeceğini açıklayan genel menajer Doğan Hakyemez ,skorer oyuncunun İstanbul'a dönünce ameliyat olacağını söyledi .</sentence>
+</doc>
+<doc>
+<id>151751</id>
+<sentence num="0">2005 09 19 00 :07 :00 .Milliler grup üçüncüsü Hırvatistan 80 67 Türkiye .</sentence>
+<sentence num="1">Ermal pota altında Kasun'u savunmaya çalışıyor 34'üncü Avrupa Basketbol Şampiyonası'nda Hırvatistan'a 80 67 yenilen Türkiye üçüncü olarak gruptan çıktı .</sentence>
+<sentence num="2">Milli takım çeyrek finale yükselebilmek için Almanya ile karşılaşacak .</sentence>
+<sentence num="3">Türk Milli Takımı ,Avrupa Basketbol Şampiyonası B Grubu maçlarını 80 67'lik Hırvatistan yenilgisiyle tamamladı .</sentence>
+<sentence num="4">Litvanya ve Bulgaristan karşısında hayal kırıklığı yaratan Türkiye bir galibiyet ,iki yenilgiyle bitirdiği grup maçları sonunda B Grubu'nda üçüncü sırayı aldı .</sentence>
+<sentence num="5">A Milli Takım ,20 eylül salı akşamı Almanya ile Vrsac'ta oynayacağı karşılaşmayı kazanırsa çeyrek finalde Slovenya'nın rakibi olacak .</sentence>
+<sentence num="6">Hırvatistan karşısında ilk yarıyı 41 38 önde bitiren Türkiye ,tarihin en kötü üçüncü çeyreklerinden birinci oynayınca yenilgiye razı oldu .</sentence>
+<sentence num="7">Bu bölümde ilk basketini bitime 1 :38 kala bulan Türkiye üçüncü çeyrekte sadece 5 sayı kaydetti ,potasında 29 sayı gördü ,maçı da 80 67 kaybetti .</sentence>
+<sentence num="8">Ay yıldızlı ekipte 23 sayı atan Kaya dışında hiçbir oyuncu çift haneli skor üretemedi .</sentence>
+<sentence num="9">Yenilgiyi hazırlayan bir başka faktör ise Türkiye'nin yaptığı 27 top kaybıydı .</sentence>
+<sentence num="10">Grup maçları sonunda Rusya ,Litvanya ,Slovenya ve İspanya birinci olarak doğrudan çeyrek finale kaldı .</sentence>
+<sentence num="11">Bu dört takım ,diğer grupların ikinci ve üçüncüleri arasında oynanacak eleme maçlarından gelecek ekiplerle çeyrek finalde karşılaşacak .</sentence>
+<sentence num="12">Eleme maçları 20 .09 .2005 19 :00 Almanya Türkiye (Slovenya )19 :00 Hırvatistan İtalya (İspanya )21 :30 Yunanistan İsrail (Rusya )21 :30 Sırb .</sentence>
+<sentence num="13">Karadağ Fransa (Litvanya ).</sentence>
+</doc>
+<doc>
+<id>151754</id>
+<sentence num="0">2005 09 19 00 :14 :00 .Hırvatistan :80 Türkiye :67 .Hırvatistan :80 Türkiye :67 34 .Avrupa Erkekler Basketbol Şampiyonası'nda Türkiye ,(B )Grubu'ndaki son maçında Hırvatistan'a 80 67 yenilerek grubunda 3 .oldu ve çeyrek finale çıkma şansını ,Almanya ile yapacağı eleme turu karşılaşmasına bıraktı .</sentence>
+<sentence num="1">İlk periyoda peş peşe basketlerle Hırvatistan çok hızlı başlasa da maça farklı bir ilk beşle başlayan Türkiye ,Ender'in akıllı oyunuyla başta Kaya olmak üzere rakip pota altında hemen etkili olmaya başladı .</sentence>
+<sentence num="2">Karşılıklı basketlerle geçen bu bölümde Türkiye ,5 .dakikayı 11 9 önde geçti .</sentence>
+<sentence num="3">Kerem'in içeriyi zorlayarak kazandırdığı sayılarla ve son bölümde Mehmet Okur ve Hidayet Türkoğlu'nun da skora katkısıyla oyuna ağırlığını koyan (A )Milliler ,ilk periyodu 23 17 önde geçti .</sentence>
+<sentence num="4">İkinci periyotta temposunu düşürmeyen ,Mirsad ,Serkan ve Mehmet Okur'un skora katkılarıyla farkı açan Türkiye ,Hırvatistan'da Gırıcek ,Vujciç ve Prkaçin'in çabalarına karşın 15 .dakikayı 11 sayı farkla 34 23 önde geçti .</sentence>
+<sentence num="5">Bu dakikadan sonra Planinic'in skorer oyununa Kerem Tunçeri ile cevap veren ay yıldızlılar ,hücumdaki basit hatalarla gelen top kayıpları ve Tanjeviç'in 3 saniye bölgesinde verimli oynayan Mehmet Okur'u kenara almasıyla potasında sayı görmeye başladı ve devre 41 38 Türkiye'nin üstünlüğüyle sona erdi .</sentence>
+<sentence num="6">İkinci yarıya etkili başlayan ve Türkiye'nin hücumdaki top kayıplarını iyi değerlendiren Hırvatistan ,Popoviç'in basketiyle 22 .dakika geçilirken 43 41 öne geçti .(</sentence>
+<sentence num="7">A )Milliler 3 .periyotta tam 8 .</sentence>
+<sentence num="8">30 dakika sayı üretemezken ,Vujcic ile dış şutlarda yüksek isabet sağlayan ve 24 0'lık bir seri yakalayan Hırvatistan ,periyodun bitimine bir buçuk dakika kala 21 sayı farka ulaştı :62 41 .3 .periyot ,Hırvat ekibinin 67 46'lık üstünlüğüyle tamamlandı .</sentence>
+<sentence num="9">Son çeyreğe Serkan'ın dışardan ,Kaya'nın da içerden bulduğu sayılarla başlayan ve farkı azaltmak için ümitlenen Türkiye ,rakip pota altında zorlama atışlar yapmaya başlayıp ,hızlı Hırvat hücumlarında geriye dönmekte zorlanınca ,Bagaric ve Planinic'in sayılarına engel olamadı .</sentence>
+<sentence num="10">Ay yıldızlılar ,son 3 dakikasına 16 sayı farkla (75 59 )geride girdiği maçta ,son dakikalarda farkı azaltmasına karşın ,Hırvatistan'a 80 67 yenildi ve grup üçüncülüğünde kaldı .</sentence>
+<sentence num="11">Türkiye ,(A )Grubu'nda 3'lü averajla ikinci olan Almanya ile Vrsac kentinde 20 Eylül Salı günü TSİ 19 .00'da çeyrek finale kalabilmek için eleme maçı oynayacak .</sentence>
+</doc>
+<doc>
+<id>151757</id>
+<sentence num="0">2005 09 19 00 :25 :00 .Milliler ,Hırvatistan'a Direnemedi .</sentence>
+<sentence num="1">34 .Avrupa Erkekler Basketbol Şampiyonası'nda Türkiye ,B Grubu'ndaki son maçında Hırvatistan'a 80 67 yenilerek grubunda 3 .oldu ve çeyrek finale çıkma şansını ,Almanya ile yapacağı eleme turu karşılaşmasına bıraktı .</sentence>
+<sentence num="2">İlk periyoda peş peşe basketlerle Hırvatistan çok hızlı başlasa da maça farklı bir ilk beşle başlayan Türkiye ,Ender'in akıllı oyunuyla başta Kaya olmak üzere rakip pota altında hemen etkili olmaya başladı .</sentence>
+<sentence num="3">Karşılıklı basketlerle geçen bu bölümde Türkiye ,5 .dakikayı 11 9 önde geçti .</sentence>
+<sentence num="4">Kerem'in içeriyi zorlayarak kazandırdığı sayılarla ve son bölümde Mehmet Okur ve Hidayet Türkoğlu'nun da skora katkısıyla oyuna ağırlığını koyan (A )Milliler ,ilk periyodu 23 17 önde geçti .</sentence>
+<sentence num="5">İkinci periyotta temposunu düşürmeyen ,Mirsad ,Serkan ve Mehmet Okur'un skora katkılarıyla farkı açan Türkiye ,Hırvatistan'da Gırıcek ,Vujciç ve Prkaçin'in çabalarına karşın 15 .dakikayı 11 sayı farkla 34 23 önde geçti .</sentence>
+<sentence num="6">Bu dakikadan sonra Planinic'in skorer oyununa Kerem Tunçeri ile cevap veren ay yıldızlılar ,hücumdaki basit hatalarla gelen top kayıpları ve Tanjeviç'in 3 saniye bölgesinde verimli oynayan Mehmet Okur'u kenara almasıyla potasında sayı görmeye başladı ve devre 41 38 Türkiye'nin üstünlüğüyle sona erdi .</sentence>
+<sentence num="7">İkinci yarıya etkili başlayan ve Türkiye'nin hücumdaki top kayıplarını iyi değerlendiren Hırvatistan ,Popoviç'in basketiyle 22 .dakika geçilirken 43 41 öne geçti .(</sentence>
+<sentence num="8">A )Milliler 3 .periyotta tam 8 .</sentence>
+<sentence num="9">30 dakika sayı üretemezken ,Vujcic ile dış şutlarda yüksek isabet sağlayan ve 24 0'lık bir seri yakalayan Hırvatistan ,periyodun bitimine bir buçuk dakika kala 21 sayı farka ulaştı :62 41 .3 .periyot ,Hırvat ekibinin 67 46'lık üstünlüğüyle tamamlandı .</sentence>
+<sentence num="10">Son çeyreğe Serkan'ın dışardan ,Kaya'nın da içerden bulduğu sayılarla başlayan ve farkı azaltmak için ümitlenen Türkiye ,rakip pota altında zorlama atışlar yapmaya başlayıp ,hızlı Hırvat hücumlarında geriye dönmekte zorlanınca ,Bagaric ve Planinic'in sayılarına engel olamadı .</sentence>
+<sentence num="11">Ay yıldızlılar ,son 3 dakikasına 16 sayı farkla (75 59 )geride girdiği maçta ,son dakikalarda farkı azaltmasına karşın ,Hırvatistan'a 80 67 yenildi ve grup üçüncülüğünde kaldı .</sentence>
+<sentence num="12">Türkiye ,A Grubu'nda 3'lü averajla ikinci olan Almanya ile Vrsac kentinde 20 Eylül Salı günü saat 19 .00'da çeyrek finale kalabilmek için eleme maçı oynayacak .</sentence>
+</doc>
+<doc>
+<id>151758</id>
+<sentence num="0">2005 09 19 00 :25 :00 .Tanjeviç :Üçüncü periyotta ne oldu bilmiyorum .</sentence>
+<sentence num="1">Tanjeviç :Üçüncü periyotta ne oldu bilmiyorum 34 .Avrupa Erkekler Basketbol Şampiyonası'nda (B )Grubu'ndaki son maçında Hırvatistan'a yenilerek üçüncülükte kalan ve eleme maçında Almanya'nın rakibi olan (A )Milli Basketbol Takımı'nın Antrenörü Bogdan Tanjeviç ,karşılaşma sonrası yaptığı açıklamada ,''Üçüncü periyotta ne oldu bilmiyorum ''dedi .</sentence>
+<sentence num="2">Tüm oyuncularının takım olarak ilk 2 periyotta süper bir oyun sergilediğini ifade eden Tanjeviç ,''3 .periyotta olanlar ,yenilgiyi de beraberinde getirdi .</sentence>
+<sentence num="3">Eleme maçı için Vrsac'a gidecek olmamız büyük dezavantaj ,burada kalsak çok iyi olacaktı ''diye konuştu .</sentence>
+<sentence num="4">Tanjeviç ,dün oynanan Bulgaristan maçı sonrası soyunma odasında herhangi bir yumruklaşmanın yaşanmadığını belirterek ,bir tartışma söz konusuydu ve bunu yaptığımız toplantıyla hallettik ''dedi .</sentence>
+</doc>
+<doc>
+<id>152176</id>
+<sentence num="0">2005 09 19 16 :15 :00 .Tanjeviç :Bu gemide hep baraberiz ,birlik olmazsak batarız .</sentence>
+<sentence num="1">34 .Avrupa Erkekler Basketbol Şampiyonası finallerinde ,(B )Grubu'nda 3 .olarak elemelerde Almanya ile eşleşen (A )Milli Takım ,Podgorica'dan ayrılarak Belgrad üzerinden Vrsaç kentine geçti .</sentence>
+<sentence num="2">Podgorica'dan yaklaşık 1 saat süren bir uçak yolculuğunun ardından Belgrad'a gelen ''12 Dev Adam '',buradan otobüsle (A )Grubu maçlarının yapıldığı 80 kilometre mesafedeki Vrsaç kentine geçti .</sentence>
+<sentence num="3">TANJEVIC UMUTLU Podgorica'da yapılan grup maçlarını değerlendiren başantrenör Bogdan Tanjeviç ,''Grup maçlarında herşey yarı yarıyaydı ''dedi .</sentence>
+<sentence num="4">Litvanya ve Bulgaristan maçlarında ikinci yarılarda ,Hırvatistan karşısında ise ilk yarıda iyi basketbol sergilediklerini ,bir türlü bu kapasitelerini tüm maça yansıtamadıklarını belirten deneyimli teknik adam ,şöyle devam etti :''(A )Grubu'nu 2 .sırada tamamlayarak rakibimiz olan Almanya ile eşleşmemiz bir şans .</sentence>
+<sentence num="5">Rakibimiz tam dişimize göre .</sentence>
+<sentence num="6">Eğer ,Hırvatistan'ı yenerek grupta 2 .olsaydık ,İtalya ile eleme maçında karşılaşacaktık ve bu daha zor olacaktı .</sentence>
+<sentence num="7">Basketbol olarak Podgorica'da yapamadıklarımızı ,Almanya karşısında sergileyip çeyrek finale çıkacağımıza inanıyorum .''</sentence>
+<sentence num="8">Tanjeviç ,takım içinde huzursuzluk olduğu biçimindeki söylentilerle ilgili olarak da herşeyin yolunda olduğunu belirterek ,sporcularıyla toplantı yaptıklarını ve bu gemide hep beraber olduklarını ,birlik içinde olmazlarsa geminin batacağını kendilerine söylediğini sözlerine ekledi .</sentence>
+<sentence num="9">KUTLUAY VE OKUR Serçe parmağı kırıldığı için takımdan ayrı kalan kaptan İbrahim Kutluay ,''En huzurlu olduğumuz turnuva bu ,takımda hiçbir sorun yok ''dedi .</sentence>
+<sentence num="10">Ameliyat olmak için İstanbul'a dönmek yerine takımı yalnız bırakmayarak Vrsaç'a gelen deneyimli basketbolcu ,''Almanya karşısında gerçek gücümüzü göstererek çeyrek finale çıkacağımızı düşünüyorum ''diye konuştu .</sentence>
+<sentence num="11">Grup maçlarında beklenilen performansı gösteremeyen ve eleştirilere hedef olan NBA patentli yıldız oyuncu Mehmet Okur ise ''Neden iyi olmadığımın sebebini ben de bilmiyorum ''dedi .</sentence>
+<sentence num="12">Moral motivasyon olarak hiçbir eksiğinin bulunmadığını belirten Okur ,''Almanya karşısında gerçek Mehmet'i sahada göstermek istiyorum .</sentence>
+<sentence num="13">Turnuvaya kötü başladık ,ancak final bile oynayabiliriz ''diye konuştu .(</sentence>
+<sentence num="14">A )Milli Takım ,Almanya ile yarın TSİ 19 .00'da Vrsaç kentinde karşılaşacak .</sentence>
+</doc>
+<doc>
+<id>152180</id>
+<sentence num="0">2005 09 19 16 :17 :00 .Tanjeviç :'Almanya bizim için şans '.</sentence>
+<sentence num="1">Podgorica'dan yaklaşık bir saat süren bir uçak yolculuğunun ardından Belgrad'a gelen milliler ,buradan otobüsle A Grubu maçlarının yapıldığı 80 kilometre mesafedeki Vrsaç kentine geçti .</sentence>
+<sentence num="2">Tanjeviç Almanya Maçından ümitli A Grubu'nu ikinci sırada tamamlayarak rakibimiz olan Almanya ile eşleşmemiz bir şans .</sentence>
+<sentence num="3">Rakibimiz tam dişimize göre .</sentence>
+<sentence num="4">Eğer ,Hırvatistan'ı yenerek grupta ikinci olsaydık ,İtalya ile eleme maçında karşılaşacaktık ve bu daha zor olacaktı ...</sentence>
+<sentence num="5">Basketbol olarak Podgorica'da yapamadıklarımızı ,Almanya karşısında sergileyip çeyrek finale çıkacağımıza inanıyorum .</sentence>
+<sentence num="6">Takımda her şey yolunda mesajı Tanjeviç ,takım içinde huzursuzluk olduğu biçimindeki söylentilerle ilgili olarak da her şeyin yolunda olduğunu belirterek ,sporcularıyla toplantı yaptıklarını ve bu gemide hep beraber olduklarını ,birlik içinde olmazlarsa geminin batacağını kendilerine söylediğini sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>152466</id>
+<sentence num="0">2005 09 20 09 :44 :00 .Devler Panzer Avında .</sentence>
+<sentence num="1">12 Dev Adam Avrupa Şampiyonası'nda çeyrek final vizesi alabilmek için bugün Almanya'yı yenmek zorunda .</sentence>
+<sentence num="2">34 .Avrupa Erkekler Basketbol Şampiyonası'nda B Grubu'nu 3 .sırada tamamlayan A Milli Takım A Grubu ikincisi Almanya ile karşılaşacak .</sentence>
+<sentence num="3">12 Dev Adam ,TSİ 19 :00'da başlayacak karşılaşmayı kazanması halinde çeyrek finale yükselecek ve Slovenya yarı final mücadelesi verecek .</sentence>
+</doc>
+<doc>
+<id>152565</id>
+<sentence num="0">2005 09 20 11 :22 :00 .Almanya ile dört yıl sonra yeniden .</sentence>
+<sentence num="1">Almanya'nın en büyük kozu Nowitzki 34'üncü Avrupa Basketbol Şampiyonası ikinci turunda Türkiye ,bu akşam Almanya ile karşılaşacak .</sentence>
+<sentence num="2">Türkiye ,2001'in yarı finalinde yendiği rakibini bu sefer de geçerse çeyrek finalde Slovenya ile oynayacak .</sentence>
+<sentence num="3">Avrupa Basketbol Şampiyonası'nda B Grubu'nu üçüncü sırada tamamlayan Türkiye ,A Grubu'nu ikinci bitiren Almanya ile bugün saat 19 .00'da çeyrek final mücadelesine çıkacak .'</sentence>
+<sentence num="4">12 Dev Adam ',bugünkü rakibi Almanya'yı 2001'de Türkiye'de düzenlenen 32'nci Avrupa Basketbol Şampiyonası'nın yarı finalinde müthiş bir mücadeleden sonra geçmeyi başarmıştı .</sentence>
+<sentence num="5">Tanjeviç umutlu Bugünkü karşılaşma öncesinde Milli Takım Başantrenörü Bogdan Tanjeviç ,grup maçlarında Litvanya ve Bulgaristan maçlarında ikinci yarılarda ,Hırvatistan maçında ise ilk yarıda iyi oynadıklarını söyledi .</sentence>
+<sentence num="6">Maçın bütününde tam kapasitelerini bir türlü sahaya yansıtamadıklarını söyleyen Tanjeviç şöyle devam etti :Almanya tam dişimize göre bir rakip .</sentence>
+<sentence num="7">Kazanıp çeyrek finale çıkacağımıza eminim ..</sentence>
+</doc>
+<doc>
+<id>152968</id>
+<sentence num="0">2005 09 20 22 :00 :00 .Tanjeviç :İstanbul'a dönünce istifamı sunacağım .(</sentence>
+<sentence num="1">A )Milli Basketbol Takımı Antrenörü Tanjeviç ,İstanbul'a dönünce istifamı sunacağım dedi .</sentence>
+<sentence num="2">34 .Avrupa Erkekler Basketbol Şampiyonası'nda bu gece yapılan eleme maçında Almanya'ya 66 57 yenilerek şampiyonaya veda eden (A )Milli takımının antrenörü Tanjeviç ,karşılaşma sonrası düzenlediği basın toplantısında ,Takımın hazırlık döneminde bir hata yapmış olabilirim .</sentence>
+<sentence num="3">Oturup bunu düşüneceğim .</sentence>
+<sentence num="4">Çok üzgünüm .</sentence>
+<sentence num="5">Sahada istatistiki olarak her şeyi yaptık ,ancak en önemli şeyi ,skor üretmeyi unuttuk diye konuştu .</sentence>
+<sentence num="6">Tanjeviç ,şöyle devam etti :Şampiyonaya devam etmek için Almanya ile çok önemli bir şans yakalamıştık ,ancak iyi mücadele etmemize rağmen kötü şut yüzdemizden dolayı sonuca ulaşamadık .</sentence>
+<sentence num="7">Almanlar maksimumlarını ortaya koydular ,ancak onların Nowitzki'si var ve yine çok iyi oynadı .</sentence>
+<sentence num="8">Bu oyuncuyu durdurmak çok zor ve biz bunu sahada başaramadık .</sentence>
+<sentence num="9">Milli takım kaptanı İbrahim Kutluay ise basın toplantısında yaptığı açıklamada ,Nowitzki'yi durduramadıklarını söyledi .</sentence>
+<sentence num="10">Vrsac'a finale gitmek için geldiklerini ,maçın ilk yarısında gerekeni yaptıklarını ,ancak ikinci yarıda gereken basketbolu sergileyemediklerini belirten Kutluay ,Avrupa'nın en iyisi ,NBA'in de en iyilerinden biri olan Nowitzki'yi durduramadık .</sentence>
+<sentence num="11">Sakatlığım nedeniyle bu mücadelede arkadaşlarımın yanında olamadığım için çok üzgünüm diye konuştu .</sentence>
+<sentence num="12">FEDERASYON BAŞKANI DEMİREL'DEN RED Basketbol Federasyonu Başkanı Turgay Demirel ,Tanjeviç'in istifasını sunacağı şeklindeki açıklamasına cevap olarak ,Tanjeviç'le uzun süre çalışacağız ,istifayı kabul etmeyeceğim dedi .</sentence>
+<sentence num="13">Demirel ,tecrübeli antrenör ile 2008 yılının sonuna kadar anlaşmalarının bulunduğunu ve böyle bir kararın yanında olmayacaklarını belirterek ,Tanjeviç'le uzun soluklu bir program yaptık .</sentence>
+<sentence num="14">Onunla yolları ayırmak gibi bir düşüncemiz kesinlikle yok diye konuştu .</sentence>
+</doc>
+<doc>
+<id>153058</id>
+<sentence num="0">2005 09 21 08 :24 :00 .Tanjevic :Dönünce istifa edeceğim .</sentence>
+<sentence num="1">Tanjeviç ,Almanya maçında Nowitzki'yi durduramadıklarını söyledi A Milli Basketbol Takımı Antrenörü Tanjeviç ,''İstanbul'a dönünce istifamı sunacağım ''dedi .</sentence>
+<sentence num="2">34'üncü Avrupa Erkekler Basketbol Şampiyonası'nda dün gece yapılan eleme maçında Almanya'ya 66 57 yenilerek şampiyonaya veda eden A milli takımının antrenörü Tanjeviç ,takımın hazırlık döneminde bir hata yapmış olabilirim ...</sentence>
+<sentence num="3">Oturup bunu düşüneceğim .</sentence>
+<sentence num="4">Çok üzgünüm .</sentence>
+<sentence num="5">Sahada istatistiki olarak her şeyi yaptık ,ancak en önemli şeyi ,skor üretmeyi unuttuk diye konuştu .</sentence>
+<sentence num="6">Almanya bizim için şanstı Tanjeviç ,şöyle devam etti :Şampiyonaya devam etmek için Almanya ile çok önemli bir şans yakalamıştık ,ancak iyi mücadele etmemize rağmen kötü şut yüzdemizden dolayı sonuca ulaşamadık ...</sentence>
+<sentence num="7">Almanlar maksimumlarını ortaya koydular ,ancak onların Nowitzki'si var ve yine çok iyi oynadı .</sentence>
+<sentence num="8">Bu oyuncuyu durdurmak çok zor ve biz bunu sahada başaramadık .</sentence>
+<sentence num="9">Demirel'den istifaya ret Basketbol Federasyonu Başkanı Turgay Demirel ,Tanjeviç'in istifasını sunacağı şeklindeki açıklamasına cevap olarak ,Tanjeviç'le uzun süre çalışacağız ,istifayı kabul etmeyeceğim dedi .</sentence>
+<sentence num="10">Demirel ,Tanjeviç'le 2008 sonuna kadar anlaşmalarının bulunduğunu ve böyle bir kararın yanında olmayacaklarını belirterek ,uzun soluklu bir program yaptık .</sentence>
+<sentence num="11">Onunla yolları ayırmak gibi bir düşüncemiz kesinlikle yok diye konuştu .</sentence>
+<sentence num="12">Kutluay :Nowitzki'yi durduramadık Milli takım kaptanı İbrahim Kutluay ise basın toplantısında yaptığı açıklamada ,Nowitzki'yi durduramadıklarını söyledi .</sentence>
+<sentence num="13">Vrsac'a finale gitmek için geldiklerini belirten Kutluay ,Avrupa'nın en iyisi ,NBA'in de en iyilerinden biri olan Nowitzki'yi durduramadık .</sentence>
+<sentence num="14">Sakatlığım nedeniyle bu mücadelede arkadaşlarımın yanında olamadığım için çok üzgünüm diye konuştu .</sentence>
+<sentence num="15">Sürprizler turnuvası 34'üncü Avrupa Basketbol Şampiyonası ikinci turu sürprizleri de beraberinde getirdi .</sentence>
+<sentence num="16">Türkiye'nin ardından Sırbistan Karadağ ve İtalya da elendi .</sentence>
+<sentence num="17">Turnuvanın favorilerinden ev sahibi Sırbistan Karadağ müthiş bir çekişmenin yaşandığı maçta Fransa'ya 74 71 ,İtalya da Türkiye'nin grubundan ikinci olarak çıkan Hırvatistan'a 74 66 mağlup oldu .</sentence>
+</doc>
+<doc>
+<id>153162</id>
+<sentence num="0">2005 09 21 10 :35 :00 .Tanjeviç :İstanbul'a dönünce istifamı sunacağım .(</sentence>
+<sentence num="1">A )Milli Basketbol Takımı Antrenörü Tanjeviç ,İstanbul'a dönünce istifamı sunacağım dedi .</sentence>
+<sentence num="2">34 .Avrupa Erkekler Basketbol Şampiyonası'nda bu gece yapılan eleme maçında Almanya'ya 66 57 yenilerek şampiyonaya veda eden (A )Milli takımının antrenörü Tanjeviç ,karşılaşma sonrası düzenlediği basın toplantısında ,Takımın hazırlık döneminde bir hata yapmış olabilirim .</sentence>
+<sentence num="3">Oturup bunu düşüneceğim .</sentence>
+<sentence num="4">Çok üzgünüm .</sentence>
+<sentence num="5">Sahada istatistiki olarak her şeyi yaptık ,ancak en önemli şeyi ,skor üretmeyi unuttuk diye konuştu .</sentence>
+<sentence num="6">Tanjeviç ,şöyle devam etti :Şampiyonaya devam etmek için Almanya ile çok önemli bir şans yakalamıştık ,ancak iyi mücadele etmemize rağmen kötü şut yüzdemizden dolayı sonuca ulaşamadık .</sentence>
+<sentence num="7">Almanlar maksimumlarını ortaya koydular ,ancak onların Nowitzki'si var ve yine çok iyi oynadı .</sentence>
+<sentence num="8">Bu oyuncuyu durdurmak çok zor ve biz bunu sahada başaramadık .</sentence>
+<sentence num="9">Milli takım kaptanı İbrahim Kutluay ise basın toplantısında yaptığı açıklamada ,Nowitzki'yi durduramadıklarını söyledi .</sentence>
+<sentence num="10">Vrsac'a finale gitmek için geldiklerini ,maçın ilk yarısında gerekeni yaptıklarını ,ancak ikinci yarıda gereken basketbolu sergileyemediklerini belirten Kutluay ,Avrupa'nın en iyisi ,NBA'in de en iyilerinden biri olan Nowitzki'yi durduramadık .</sentence>
+<sentence num="11">Sakatlığım nedeniyle bu mücadelede arkadaşlarımın yanında olamadığım için çok üzgünüm diye konuştu .</sentence>
+<sentence num="12">FEDERASYON BAŞKANI DEMİREL'DEN RED Basketbol Federasyonu Başkanı Turgay Demirel ,Tanjeviç'in istifasını sunacağı şeklindeki açıklamasına cevap olarak ,Tanjeviç'le uzun süre çalışacağız ,istifayı kabul etmeyeceğim dedi .</sentence>
+<sentence num="13">Demirel ,tecrübeli antrenör ile 2008 yılının sonuna kadar anlaşmalarının bulunduğunu ve böyle bir kararın yanında olmayacaklarını belirterek ,Tanjeviç'le uzun soluklu bir program yaptık .</sentence>
+<sentence num="14">Onunla yolları ayırmak gibi bir düşüncemiz kesinlikle yok diye konuştu .</sentence>
+</doc>
+<doc>
+<id>153458</id>
+<sentence num="0">2005 09 21 16 :19 :00 .Tanjevic'in istifası gündemde yok .</sentence>
+<sentence num="1">Tanjevic ve Demirel'in neşeli başlayan Sırbistan seyahati tatsız bitti Basketbol Federasyonu Başkanı Turgay Demirel ,Avrupa Şampiyonası'na ilk sekize giremeden veda eden Türk Milli Takımı'nın antrenörü Bogdan Tanjevic'in istifasını kabul etmelerinin sözkonusu olmadığını söyledi .</sentence>
+<sentence num="2">Sırbistan Karadağ'da süren 34'üncü Avrupa Basketbol Şampiyonası'na Almanya yenilgisiyle erken veda eden A Milli Takım yurda döndü .</sentence>
+<sentence num="3">Atatürk Havalimanı'nda gazetecilerin sorularını cevaplandıran antrenör Bogdan Tanjevic kötü sonuçlardan sonra istifa ettiğini ve yönetim kurulunun toplantısından çıkacak sonucu bekleyeceğini söyledi .</sentence>
+<sentence num="4">Tanjevic ,dürüst olmam gerektiğini düşünüyorum .</sentence>
+<sentence num="5">Başarısız olduktan sonra kendi istifamı vermek istedim ama yönetim kurulunun toplantısından sonra bakacağız dedi .</sentence>
+<sentence num="6">Türkiye Basketbol Federasyonu Başkanı Turgay Demirel ise Bogdan Tanjevic ile 2008'e kadar sözleşmelerinin bulunduğunu ve istifasını kabul etmelerinin gündemde olmadığını söyledi .</sentence>
+<sentence num="7">Çocuklar ellerinden geleni yaptı Başarısızlığın nedeninin sorulması üzerine Tanjevic şöyle konuştu :''Belli bir sorun olduğunu söyleyemem .</sentence>
+<sentence num="8">Federasyon ve Türk Devleti çok güzel şartlar sundu .</sentence>
+<sentence num="9">Hazırlık süreci kaliteli şekilde geçti .</sentence>
+<sentence num="10">Oyuncular geçen yıldan bu yana söylediklerimi takip ettiler .</sentence>
+<sentence num="11">Şampiyona öncesi oyuncularım kalbimdeydiler ,hala da kalbimdeler .</sentence>
+<sentence num="12">Ellerinden geleni yaptılar ,sözlerimi dinlediler .</sentence>
+<sentence num="13">Bizim çocuklarımız maksimum derecede işlerini iyi yaptılar .</sentence>
+<sentence num="14">Bulgaristan maçı sonrası oyuncular arasında tartışma yaşandığına ilişkin haberler çıktığının hatırlatılması üzerine Tanjevic ,''Bulgaristan maçı sonrası bir olayımız oldu .</sentence>
+<sentence num="15">Maçın sonunda birbirlerine birkaç söz söylediler .</sentence>
+<sentence num="16">Soyunma odasında herhangi bir şey olmadı ,birbiriyle konuşmayan oyuncu da yok .</sentence>
+<sentence num="17">Bulgaristan maçı sonrası bir toplantı yaptık ve problem olmadığını tespit ettik diye konuştu .</sentence>
+</doc>
+<doc>
+<id>153465</id>
+<sentence num="0">2005 09 21 16 :32 :00 .Kimse kusurumuza bakmasın .</sentence>
+<sentence num="1">Avrupa Şampiyonası'ndan elenen Türk Milli Takımı yurda döndü Sırbistan Karadağ'da devam eden Avrupa Basketbol Şampiyonası'ndan elendikleri için şokta olduklarını söyleyen Hidayet Türkoğlu ,''kimse kusurumuza bakmasın ''dedi .</sentence>
+<sentence num="2">Almanya'ya yenilerek Avrupa Basketbol Şampiyonası'ndan elenen Türk Milli Takımı'nın deneyimli oyuncusu Hidayet Türkoğlu ,beklemedikleri bir sonuç aldıklarını söyledi .</sentence>
+<sentence num="3">Hidayet ,çok daha iyi yerlere gelmemiz gereken bir turnuvaydı .</sentence>
+<sentence num="4">Herkes şokta .</sentence>
+<sentence num="5">Bizden kötü bir takıma yenilip elendik .</sentence>
+<sentence num="6">Kimse kusurumuza bakmasın diye konuştu .</sentence>
+<sentence num="7">Oyuncular arasında tartışma olup olmadığına ilişkin soruya karşılık Hidayet ,her zaman çıkabilir .</sentence>
+<sentence num="8">Maç içinde ve dışında çıkabiliyor .</sentence>
+<sentence num="9">Ama bu mağlubiyeti bununla bağdaştırmıyorum .</sentence>
+<sentence num="10">İkinci devrelerde yaptığımız hatalarla kaybettik .</sentence>
+<sentence num="11">Takımda kopukluk olsaydı ,maçların başında belli olurdu dedi .</sentence>
+<sentence num="12">Takım kaptanı İbrahim Kutluay ,kimsenin beklemediği bir sonuç aldıklarını ifade ederek ,çok üzgünüz .</sentence>
+<sentence num="13">Sakatlandığım için çok üzgünüm .</sentence>
+<sentence num="14">Çok kritik dönemde şanssız bir sakatlık geçirdim dedi .</sentence>
+<sentence num="15">Şampiyonada fazla dakika alamayan Kerem Gönlüm ise Türkiye'den özür dilediklerini belirterek ,elimizden geleni yaptık .</sentence>
+<sentence num="16">Tanjevic herkese eşit süre vermeye çalıştı diye konuştu .</sentence>
+<sentence num="17">Demirel'in görüşleri Basketbol Federasyonu Başkanı Turgay Demirel ,Bulgaristan maçında yaşanan takım için sorunlar ,belki de bugünkü durumun sebebidir dedi .</sentence>
+<sentence num="18">Türkiye'nin şampiyonada sergilediği performansı değerlendiren Demirel ,bu tip şampiyonalarda sonucu ufak detaylar belirliyor .</sentence>
+<sentence num="19">Sonuçta istemediğimiz bir durumla karşılaştık .</sentence>
+<sentence num="20">Hatalarımızı ve eksiklerimizi değerlendirip önümüze bakacağız diye konuştu .</sentence>
+<sentence num="21">Şampiyonaya gelirken her türlü sonuca açık olduklarını vurgulayan Demirel şöyle konuştu :Her takımın tur atlama ,her takımın da elenme ihtimali olduğunu iyi biliyorduk .</sentence>
+<sentence num="22">Görüntü şu ki bizim dışımızda son şampiyon Sırbistan Karadağ ve İtalya gibi takımlar da turnuvaya veda etti .</sentence>
+<sentence num="23">Bu tip yüksek kalitedeki şampiyonalarda bu durumlar normaldir .</sentence>
+<sentence num="24">Hedef 2010 Demirel ,hedeflerinin 2010 yılında Türkiye'de organize edilecek Dünya Şampiyonası olduğunu söyledi .</sentence>
+<sentence num="25">Altyapıya önemli yatırım yaptıklarını ve genç yeteneklerin peşpeşe aldığı uluslararası başarılarla kendilerini fazlasıyla umutlandırdığını ifade eden Demirel ,takımda kalpten oynayacak ,uzun süren kamp dönemlerinde sürekli özveride bulunacak oyuncular arıyoruz .</sentence>
+<sentence num="26">Milli takım hazırlık döneminde bizi fazlasıyla memnun etti ,ancak burada bir konsantrasyon eksikliği olduğu kesin diye konuştu .</sentence>
+<sentence num="27">Demirel ,başantrenör Bogdan Tanjevic ile uzun yıllar beraber olacaklarını söyledi .</sentence>
+<sentence num="28">Deneyimli teknik adamla 2008 yılına dek sözleşmelerinin bulunduğunu ve uzun soluklu bir programları olduğuna dikkati çeken Demirel ,istifasını kabul etmek gibi bir konu gündemimizde yok .</sentence>
+<sentence num="29">Takımda yapılacak olası bir kadro değişikliği ise tamamıyla teknik heyetin takdirindedir dedi .</sentence>
+</doc>
+<doc>
+<id>153539</id>
+<sentence num="0">2005 09 21 17 :58 :00 .Obradovic Sırbistan Karadağ'ı bıraktı .</sentence>
+<sentence num="1">Obradovic ,Sırbistan Karadağ'daki görevinden ayrıldı Evsahipliği yaptığı Avrupa Basketbol Şampiyonası'nda ilk sekize giremeyen Sırbistan Karadağ Milli Takımı'nın antrenörü Zelimir Obradovic istifa etti .</sentence>
+<sentence num="2">Yugoslavya'yı 2001 Avrupa Şampiyonası ve 2002 Dünya Şampiyonası'nda altın madalyaya taşıyan Zelimir Obradovic Sırbistan Karadağ Milli Takımı antrenörlüğünden istifa etti .</sentence>
+<sentence num="3">Eurobasket 2005'in evsahibi Sırbistan Karadağ ,büyük yıldızı Predrag Stojakovic'ten yoksun olsa da şampiyonluğun en güçlü adayları arasında gösteriliyordu .</sentence>
+<sentence num="4">Ancak D Grubu'nda çeyrek finale doğrudan yükselemeyen Sırbistan Karadağ ,baraj maçında Fransa'ya 74 71 yenilerek elendi .</sentence>
+<sentence num="5">Oyuncularının kendisini ve ülkelerini hayal kırıklığına uğrattığına belirten Obradovic ,turnuvanın başından son gününe dek çok kötü bir performans ortaya koyduk ,bunun nedeni oyuncularımın egolarıydı dedi .</sentence>
+<sentence num="6">Sırbistan Karadağ ,2002 yılında Yugoslavya adı altında Indianapolis'teki Dünya Şampiyonası'nı kazandıktan sonra hiçbir büyük turnuvada madalyaya ulaşamadı .</sentence>
+</doc>
+<doc>
+<id>153695</id>
+<sentence num="0">2005 09 22 08 :32 :00 .Sporcumuz zeki çevik ahlaksız mı ?</sentence>
+<sentence num="1">Sırbistan'ın Karadağ'da yapılan 34'üncü Avrupa Basketbol Şampiyonası'nda mücadele eden A Milli Basketbol takımı oyuncularından Ermal Kurtoğlu'nda doping çıktı .</sentence>
+<sentence num="2">FIBA'dan gelen yazıda Litvanya maçı sonrasında yapılan kontrolllerde ,milli basketbolcuda dopingli madde olduğu tespit edildi .</sentence>
+<sentence num="3">Ermal'ın karar kesinleştikten sonra 2 yıl basketboldan men cezası alması bekleniyor .</sentence>
+<sentence num="4">sonsayfa .</sentence>
+</doc>
+<doc>
+<id>154208</id>
+<sentence num="0">2005 09 22 21 :49 :00 .Eurobasket'te Yunanistan yarı finalist .</sentence>
+<sentence num="1">Rusya'nın büyük umudu Khryapa 3 11 isabetle hayal kırıklığı yarattı Rusya'yı 66 61 yenen Yunanistan Avrupa Basketbol Şampiyonası'nda yarı finale yükseldi .</sentence>
+<sentence num="2">Sırbistan Karadağ'ın evsahipliği yaptığı Avrupa Basketbol Şampiyonası'nda yarı finale yükselen ilk takım Yunanistan oldu .</sentence>
+<sentence num="3">Yunanistan ,ilk yarısını 33 26 yenik kapattığı mücadelede Rusya'yı 66 61 mağlup etti ve 1997 yılından sonra ilk kez yarı final oynama hakkını elde etti .</sentence>
+<sentence num="4">Theodoros Papaloukas 6 7 ikilik ve 2 3 üçlük isabetiyle 23 sayı üreterek maçın en skorer ismi oldu .</sentence>
+<sentence num="5">Rusya'da Andrei Kirilenko 20 sayı ,16 ribaundla oynamasına rağmen üçlüklerde ancak 1 6 isabet buldu .</sentence>
+<sentence num="6">Karşılaşmaya 13 2'lik seriyle başlayan ve Yunanistan'a dokuz dakika sayı attırmayan Rusya üçlük atışlarda 4 27 isabet oranıyla oynadı .</sentence>
+</doc>
+<doc>
+<id>154210</id>
+<sentence num="0">2005 09 22 22 :00 :00 .12 Dev adam'da doping şoku ....</sentence>
+<sentence num="1">Uğur TENEKECİOĞLU ANKARA ,(DHA )SIRBİSTAN Karadağ'da yapılan 34'üncü Avrupa Basketbol Şampiyonası'nda mücadele eden A Milli Basketbol takımı oyuncularından Ermal Kurtoğlu'nda doping çıktı .</sentence>
+<sentence num="2">FIBA'dan gelen yazıda Litvanya maçı sonrasında yapılan kontrolllerde ,milli basketbolcuda dopingli madde olduğu tespit edildi .</sentence>
+<sentence num="3">Ermal'ın karar kesinleştikten sonra 2 yıl basketboldan men cezası alması bekleniyor .</sentence>
+</doc>
+<doc>
+<id>154226</id>
+<sentence num="0">2005 09 22 23 :04 :00 .'12 dev adam'da doping şoku .</sentence>
+<sentence num="1">Türkiye ,Litvanya'ya 87 75 yenilmişti Sırbistan Karadağ'da yapılan 34'üncü Avrupa Basketbol Şampiyonası'nda mücadele eden A Milli Basketbol takımı oyuncularından Ermal Kurtoğlu'nda doping çıktı .</sentence>
+<sentence num="2">FIBA'dan yapılan yazılı açıklamada Litvanya maçı sonrasında yapılan kontrolllerde ,milli basketbolcu Ermal Kurtoğlu'nda dopingli madde olduğu tespit edildi .</sentence>
+<sentence num="3">FIBA'nın kararı kesinleştikten sonra Ermal Kurtoğlu'nun iki yıl basketboldan men cezası alması bekleniyor .</sentence>
+<sentence num="4">Türkiye şampiyonaya veda etti Sırbistan Karadağ'da süren Avrupa Basketbol Şampiyonası'na Almanya yenilgisiyle erken veda eden A Milli Takım yurda döndü .</sentence>
+<sentence num="5">Elendikleri için şokta olduklarını söyleyen Hidayet Türkoğlu ,kimse kusurumuza bakmasın dedi .</sentence>
+<sentence num="6">Basketbol Federasyon Başkanı Turgay Demirel ,Bulgaristan maçında yaşanan takım içindeki sorunlar ,belki de bugünkü durumun sebebidir diye konuştu .</sentence>
+</doc>
+<doc>
+<id>154230</id>
+<sentence num="0">2005 09 22 23 :27 :00 .Yunanistan ve Fransa ilk yarı finalist .</sentence>
+<sentence num="1">Yunanistan ve Fransa ilk yarı finalist 34 .Avrupa Erkekler Basketbol Şampiyonası'nda ilk yarı finalistler belli oldu .</sentence>
+<sentence num="2">Bu akşam yapılan çeyrek final maçlarında Yunanistan rakibini yenerek ,1997 yılından bu yana ilk kez yarı finale yükselirken ,bir diğer yarı finalist ise Fransa oldu .</sentence>
+<sentence num="3">Çeyrek final maçında Rusya ile karşılaşan Yunanistan ,ilk çeyrekte rakibinin 13 6 öne geçmesini engelleyemezken ,devreyi 33 26 geride tamamladı .</sentence>
+<sentence num="4">3 .çeyreğe çok hızlı başlayan Yunan Milli Takımı ,bu çeyreğin sonunda skoru 44 40 yaparken ,karşılaşmadan da 66 61 üstün ayrılarak 1997 yılından bu yana ilk kez Avrupa Şampiyonası'nda yarı finale yükseldi .</sentence>
+<sentence num="5">Öte yandan Türkiye'nin de bulunduğu grubu lider olarak tamamlayan Litvanya ile karşılaşan Fransa ,maçın ilk çeyreğinde rakibi karşısında 14 6'lık üstünlük sağlarken ,devreyi de 32 16 önde kapadı .</sentence>
+<sentence num="6">Etkili oyununu üçüncü çeyrekte de sürdüren Fransa ,bu çeyreği 44 36 üstün tamamladı ve maçı 63 47 kazanmayı bildi .</sentence>
+<sentence num="7">Böylece Avrupa Erkekler Basketbol Şampiyonası'nda yarı finalde karşı karşıya gelecek ilk iki takım belirlenmiş oldu .</sentence>
+</doc>
+<doc>
+<id>154234</id>
+<sentence num="0">2005 09 22 23 :45 :00 .Avrupa Erkekler Basketbol Şampiyonası'nda ilk yarı finalistler belli oldu .</sentence>
+<sentence num="1">34 .Avrupa Erkekler Basketbol Şampiyonası'nda ilk yarı finalistler belli oldu .</sentence>
+<sentence num="2">Bu akşam yapılan çeyrek final maçlarında Yunanistan rakibini yenerek ,1997 yılından bu yana ilk kez yarı finale yükselirken ,bir diğer yarı finalist ise Fransa oldu .</sentence>
+<sentence num="3">Çeyrek final maçında Rusya ile karşılaşan Yunanistan ,ilk çeyrekte rakibinin 13 6 öne geçmesini engelleyemezken ,devreyi 33 26 geride tamamladı .</sentence>
+<sentence num="4">3 .çeyreğe çok hızlı başlayan Yunan Milli Takımı ,bu çeyreğin sonunda skoru 44 40 yaparken ,karşılaşmadan da 66 61 üstün ayrılarak 1997 yılından bu yana ilk kez Avrupa Şampiyonası'nda yarı finale yükseldi .</sentence>
+<sentence num="5">Öte yandan Türkiye'nin de bulunduğu grubu lider olarak tamamlayan Litvanya ile karşılaşan Fransa ,maçın ilk çeyreğinde rakibi karşısında 14 6'lık üstünlük sağlarken ,devreyi de 32 16 önde kapadı .</sentence>
+<sentence num="6">Etkili oyununu üçüncü çeyrekte de sürdüren Fransa ,bu çeyreği 44 36 üstün tamamladı ve maçı 63 47 kazanmayı bildi .</sentence>
+<sentence num="7">Böylece Avrupa Erkekler Basketbol Şampiyonası'nda yarı finalde karşı karşıya gelecek ilk iki takım belirlenmiş oldu .</sentence>
+</doc>
+<doc>
+<id>154334</id>
+<sentence num="0">2005 09 23 09 :30 :00 .Milli basketbolcu Ermal Kurtoğlu'nda doping çıktı .</sentence>
+<sentence num="1">Uğur TENEKECİOĞLU ANKARA ,(DHA )SIRBİSTAN Karadağ'da yapılan 34'üncü Avrupa Basketbol Şampiyonası'nda mücadele eden A Milli Basketbol takımı oyuncularından Ermal Kurtoğlu'nda doping çıktı .</sentence>
+<sentence num="2">FIBA'dan gelen yazıda Litvanya maçı sonrasında yapılan kontrolllerde ,milli basketbolcuda dopingli madde olduğu tespit edildi .</sentence>
+<sentence num="3">Ermal'ın karar kesinleştikten sonra 2 yıl basketboldan men cezası alması bekleniyor .</sentence>
+<sentence num="4">YASAKLI FUROSEMİT MADDESİNE RASTLANDI FIBA tarafından yapılan açıklamada ,Ermal Kurtoğlu'ndan Litvanya maçı sonrası alınan numunede ,idrar söktürücü olarak tanımlanan Furosemit maddesine rastlandığı bildirildi .?</sentence>
+<sentence num="5">Silici 'olarak kabul edilen bu madde nedeniyle Ermal Kurtoğlu'nun 2 yıl ceza alması bekleniyor .</sentence>
+<sentence num="6">FIBA tarafından gönderilen yazıda ,milli basketbolcudan alınan ?</sentence>
+<sentence num="7">B Numunesi'ni açtırıp açtırmama kararı Türkiye Basketbol Federasyonu'na bırakıldı ?</sentence>
+<sentence num="8">Tromso'nun defans oyuncusu Kibebe :Ümit bana tükürdü ...?</sentence>
+<sentence num="9">Demirören :İhanet edenler çamurda boğulur ...</sentence>
+</doc>
+<doc>
+<id>154757</id>
+<sentence num="0">2005 09 23 18 :34 :00 .Doping testi pozitif çıkan Ermal Kurtoğlu'na ceza .</sentence>
+<sentence num="1">Doping testi pozitif çıkan Ermal Kurtoğlu'na ceza Sırbistan Karadağ'da düzenlenen 34 .Avrupa Şampiyonası'nda ,Litvanya maçı sonrası doping kontrolü için verdiği numunenin sonucu potizif çıkan milli basketbolcu Ermal Kurtoğlu'na ,Uluslararası Basketbol Federasyonları Birliği (FIBA )tarafından resmi maçlarda oynama yasağı getirildi .</sentence>
+<sentence num="2">Basketbol Federasyonu'ndan yapılan açıklamada ,Ermal'in saç dökülmesi için kullandığı ''Propecia ''adlı ilaçta bulunan ''Finasteride ''maddesinin ,Dünya Anti Doping Ajansı'nın (WADA )doping ilaçları listesinde yer aldığı belirtilerek ,kesin karar açıklanana dek bu sporcunun resmi maçlarda oynamasına FIBA tarafından yasak getirildiği ve bu kararın Basketbol Federasyonu'na ulaştığı bildirildi .</sentence>
+</doc>
+<doc>
+<id>154762</id>
+<sentence num="0">2005 09 23 18 :40 :00 .Ermal Kurtoğlu'na maç yasağı .</sentence>
+<sentence num="1">Sırbistan Karadağ'da düzenlenen 34 .Avrupa Şampiyonası'nda ,Litvanya maçı sonrası doping kontrolü için verdiği numunenin sonucu potizif çıkan milli basketbolcu Ermal Kurtoğlu'na ,Uluslararası Basketbol Federasyonları Birliği (FIBA )tarafından resmi maçlarda oynama yasağı getirildi .</sentence>
+<sentence num="2">Basketbol Federasyonu'ndan yapılan açıklamada ,Ermal'in saç dökülmesi için kullandığı Propecia adlı ilaçta bulunan Finasteride maddesinin ,Dünya Anti Doping Ajansı'nın (WADA )doping ilaçları listesinde yer aldığı belirtilerek ,kesin karar açıklanana dek bu sporcunun resmi maçlarda oynamasına FIBA tarafından yasak getirildiği ve bu kararın Basketbol Federasyonu'na ulaştığı bildirildi .</sentence>
+<sentence num="3">FIBA kararının ,Ermal Kurtoğlu ve kulübü Efes Pilsen'e ,Basketbol Federasyonu tarafından iletildiği ,Ermal'in bu karara yasal olarak 10 gün içinde itiraz etme hakkı bulunduğu kaydedildi .</sentence>
+</doc>
+<doc>
+<id>154806</id>
+<sentence num="0">2005 09 23 21 :09 :00 .Almanya Slovenya'ya takılmadı .</sentence>
+<sentence num="1">Nowitzki ve arkadaşları Türkiye'den Slovenya'yı da safdışı bıraktı Almanya ,Slovenya'yı 76 62 yenerek Avrupa Basketbol Şampiyonası'nda yarı finale yükseldi .</sentence>
+<sentence num="2">Almanya ,Slovenya'yı ikinci yarıdaki başarılı performansıyla 76 62 yendi ve Sırbistan Karadağ'da düzenlenen Avrupa Basketbol Şampiyonası'nda son dörde kaldı .</sentence>
+<sentence num="3">İlk yarısı 34 34 sona eren mücadelede Almanya üçüncü çeyreği 52 47 önde kapattı .</sentence>
+<sentence num="4">Son çeyrekte 14 2'lik seri yakalayan Almanya skoru 66 49'a getirdi .</sentence>
+<sentence num="5">Slovenya'nın son dakikalardaki çabası rakibini yakalamaya yetmedi ve Almanya maçtan 76 62 galip ayrıldı .</sentence>
+<sentence num="6">Dirk Nowitzki 4 10 ikilik ,2 8 üçlük ve 8 9 faul isabetiyle 22 sayıyla maçın en skorer ismi oldu .</sentence>
+<sentence num="7">Alman yıldız 9 ribaud alırken ,3 de blok yaptı .</sentence>
+<sentence num="8">Takım halinde 11 23 üçlük isabeti yakalayan Almanya'nın oyun kurucuları Patrick Roller ve Mithat Demirel 15'er sayıyla Nowitzki'ye eşlik etti .</sentence>
+<sentence num="9">Slovenya'da Slokar ve Becirovic 13 ,Lakovic 12 sayı kaydetti .</sentence>
+<sentence num="10">Slovenler takım halinde üçlük atışlarda 6 22 isabette kalırken ,14 top kaybetti .</sentence>
+<sentence num="11">Slovenya'yı yenerek Avrupa Şampiyonası'nda son dörde giren Almanya Dünya Şampiyonası'na gitmeyi de garantiledi .</sentence>
+</doc>
+<doc>
+<id>154808</id>
+<sentence num="0">2005 09 23 21 :11 :00 .FIBA'dan Ermal'a Maç Yasağı .</sentence>
+<sentence num="1">Sırbistan Karadağ'da düzenlenen 34 .Avrupa Şampiyonası'nda ,Litvanya maçı sonrası doping kontrolü için verdiği numunenin sonucu potizif çıkan milli basketbolcu Ermal Kurtoğlu'na ,Uluslararası Basketbol Federasyonları Birliği (FIBA )tarafından resmi maçlarda oynama yasağı getirildi .</sentence>
+<sentence num="2">Basketbol Federasyonu'ndan yapılan açıklamada ,Ermal'in saç dökülmesi için kullandığı Propecia adlı ilaçta bulunan Finasteride maddesinin ,Dünya Anti Doping Ajansı'nın (WADA )doping ilaçları listesinde yer aldığı belirtilerek ,kesin karar açıklanana dek bu sporcunun resmi maçlarda oynamasına FIBA tarafından yasak getirildiği ve bu kararın Basketbol Federasyonu'na ulaştığı bildirildi .</sentence>
+<sentence num="3">FIBA kararının ,Ermal Kurtoğlu ve kulübü Efes Pilsen'e ,Basketbol Federasyonu tarafından iletildiği ,Ermal'in bu karara yasal olarak 10 gün içinde itiraz etme hakkı bulunduğu kaydedildi .</sentence>
+</doc>
+<doc>
+<id>154818</id>
+<sentence num="0">2005 09 23 21 :40 :00 .Slovenya'yı 76 62 yenen Almanya yarı finalde ...</sentence>
+<sentence num="1">34 .Avrupa Erkekler Basketbol Şampiyonası'nda ,Slovenya'yı 76 62 yenen Almanya yarı finale yükseldi .</sentence>
+<sentence num="2">Bu akşam yapılan çeyrek final maçında ,ilk çeyreği 21 12 önde geçen Almanya ,ikinci çeyrekte Slovenya'nın farkı kapamasına izin verdi ve devreyi 34 33 kılpayı önde tamamladı .</sentence>
+<sentence num="3">Çekişmeli geçen maçın üçüncü çeyreği de 52 44 Almanya üstünlüğüyle geçildi .</sentence>
+<sentence num="4">Maçı 76 62 kazanan Almanya ,Yunanistan ve Fransa'dan sonra 3 .yarı finalist oldu .</sentence>
+<sentence num="5">Diğer yarı finalist ,bu akşam yapılacak İspanya Hırvatistan karşılaşmasının galibi olacak .</sentence>
+</doc>
+<doc>
+<id>154852</id>
+<sentence num="0">2005 09 23 23 :44 :00 .Basketbol Federasyonu :Bundan sonra hiç kimse konuşmayacak .</sentence>
+<sentence num="1">Basketbol Federasyonu :Bundan sonra hiç kimse konuşmayacak Basketbol Federasyonu Başkanı Turgay Demirel ,(A )Milli Erkek Basketbol Takımı'nda 34 .Avrupa Şampiyonası sonrasında yaşanan olaylara el koydu .</sentence>
+<sentence num="2">Demirel ,federasyonun resmi internet sitesinde yer alan açıklamasında ,34 .Avrupa Erkekler Basketbol Şampiyonası sonrasında kamuoyunu meşgul eden gelişmeleri değerlendirdi .</sentence>
+<sentence num="3">Avrupa Şampiyonası'na giderken beklentilerin yüksek olduğunu belirten Demirel ,şunları kaydetti :''Avrupa Şampiyonası'nda çok büyük olan isimlerin ve takımların da zor anlar yaşadığını biliyoruz .</sentence>
+<sentence num="4">Önemli olan gerçekten iyi oyuncularla bu işleri başarabilecek mücadeleyi sahaya yansıtabilmek .</sentence>
+<sentence num="5">Biz bunu Avrupa Şampiyonası'nda yapabileceğimizi hissetmiştik .</sentence>
+<sentence num="6">Türkiye'de basketbol takip eden herkes bunu hissetmişti ,medya da bunu hissetmişti .</sentence>
+<sentence num="7">Avrupa Şampiyonası'nda bunu göremeyince açıkçası hepimizde bir hayal kırıklığı oldu .</sentence>
+<sentence num="8">Doğal olarak başarısız bir ortamda ne yapılabilir sorusu gündeme geldi .</sentence>
+<sentence num="9">Bu arada istenmeyen bazı açıklamaların yapılması ,oyuncuların birtakım konuşmalar yapıyor olmaları ve bunların artık bir sonu var .</sentence>
+<sentence num="10">Bundan sonra hiç kimse bir konuşma yapmayacak .</sentence>
+<sentence num="11">Biz hem teknik kadro ,hem oyuncular ,hem federasyon yetkilileri önümüzdeki dönemin nasıl daha iyi olabileceği konusunda konuşmalar ,analizler yapacağız .</sentence>
+<sentence num="12">Türk basketbolünü 2010 yılında Dünya Şampiyonası'na en iyi şekilde hazır edebilmek için çalışacağız .</sentence>
+<sentence num="13">2006 Dünya Şampiyonası'na katılabilmemiz için bir şansımız daha var .</sentence>
+<sentence num="14">Şimdi dağılma değil ,toparlanma zamanı .</sentence>
+<sentence num="15">Yaptığımız hataları da tekrarlamadan ,bütün oyuncuların iyi niyetli gayretlerini birleştirerek ileriye doğru gideceğiz .''.</sentence>
+</doc>
+<doc>
+<id>155104</id>
+<sentence num="0">2005 09 24 15 :45 :00 .Demirel :Mehmet Okur ,maksadını aşan ifade kullanmış ...</sentence>
+<sentence num="1">Basketbol Federasyonu Başkanı Turgay Demirel ,34 .Avrupa Erkekler Basketbol Şampiyonası finallerinde yaşanan başarısızlığın ardından yaşanan olumsuz gelişmelerle ilgili olarak ,''İçinde bulunduğumuz durumda sağduyulu olarak ,akıllı bir şekilde hareket etmemiz gerekiyor ''dedi .</sentence>
+<sentence num="2">Turgay Demirel ,CNN Türk'te katıldığı canlı yayında ,kendisinin istikrardan yana olduğunu ,bu doğrultuda antrenör Bogdan Tanjevic ile yola devam etmek istediğini vurgulayarak ,yönetim kurulu toplantısında bu konuya karar vereceklerini söyledi .(</sentence>
+<sentence num="3">A )Milli Takım'ın iyi bir hazırlık dönemi geçirdiğini belirten Demirel ,34 .Avrupa Şampiyonası'na Litvanya maçıyla kötü bir başlangıç yapmalarının çözülmeyi ve dolayısıyla bugünkü neticeyi doğurduğunu kaydetti .''</sentence>
+<sentence num="4">MEDYAYA KONUŞMALARI HİÇ DOĞRU OLMADI ''Demirel ,''Oyuncuların medyaya konuşmaları hiç doğru olmadı .</sentence>
+<sentence num="5">Böyle bir çaba içine gerilmemesi gerekirdi .</sentence>
+<sentence num="6">Tanjevic de bu konuda 'oyuna gelmeyin 'diye uyardı .</sentence>
+<sentence num="7">Bulgaristan maçı sonrası yaşananlar basına yansıdı .</sentence>
+<sentence num="8">Bunların hepsi yanlış oldu .</sentence>
+<sentence num="9">Basketbol ve milli takıma zarar verdi .</sentence>
+<sentence num="10">Dün yurtdışından döndükten sonra ,bundan böyle kaptan dışında kimsenin basına bireysel demeç vermemesini istedim .</sentence>
+<sentence num="11">Artık bunlara bir set çekmek gerekiyor ''dedi .</sentence>
+<sentence num="12">Bulgaristan maçı sonrasında bazı oyuncular arasında yaşanan istenmeyen olayları ''büyük hata ''olarak nitelendiren Demirel ,basına yaptıkları açıklamalar nedeniyle oyunculara herhangi bir ceza uygulanmasını gerektirecek bir durumun da olmadığını ifade etti .</sentence>
+<sentence num="13">SAĞDUYU ÇAĞRISI Federasyon yönetim kurulunun önümüzdeki günlerde yapacağı yönetim kurulu toplantısına antrenör Tanjevic'in de katılacağını belirten Demirel ,belli bir dinlenme süresinin sonrasında daha sağlıklı bir görüşme yapacaklarını ,mutlaka en doğruyu bulacaklarını söyledi .</sentence>
+<sentence num="14">Turgay Demirel ,içinde bulundukları durumda sağduyulu olarak ,akıllı bir şekilde hareket etmeleri gerektiğine dikkat çekti .''</sentence>
+<sentence num="15">MEHMET ,MAKSADINI AŞAN İFADE KULLANMIŞ ''Milli Takımlar Genel Menajeri Doğan Hakyemiz'in istifa etmesini gerektirecek bir durum olduğunu düşünmediğini kaydeden federasyon başkanı Turgay Demirel ,milli oyuncu Mehmet Okur'un ,Hakyemez ile ilgili sözlerini ,''maksadını aşan bir ifade ''olarak nitelendirdi .</sentence>
+<sentence num="16">Demirel ,''Herhangi bir oyuncunun teknik ve idari kadroyla ilgili açıklama yapmaması lazım .</sentence>
+<sentence num="17">Herkesin kendi işine bakması gerekiyor .</sentence>
+<sentence num="18">Ayrıca ,Mehmet'in bunları isteyerek söylediğini de düşünmüyorum ''dedi .</sentence>
+<sentence num="19">ERMAL'DAKİ DOPİNG İDDİASI Basketbol Federasyonu Başkanı Turgay Demirel ,34 .Avrupa Şampiyonası sırasında yapılan doping kontrolünde ,milli basketbolcu Ermal Kurtoğlu'ndan alınan numunenin pozitif çıkmasıyla ilgili olarak da ,''Bizi bayağı üzdü ''dedi .</sentence>
+<sentence num="20">Ermal'ın çok iyi bir insan ve sporcu olduğunu belirten Demirel ,''Söylediklerine sonuna kadar inanıyoruz .</sentence>
+<sentence num="21">Büyük bir talihsizlik ''derken ,FIBA yetkilileriyle gerekli temaslarda bulunacaklarını anlattı .</sentence>
+</doc>
+<doc>
+<id>155216</id>
+<sentence num="0">2005 09 24 21 :18 :00 .Basketbolda Fransa'yı yenen Yunanistan ilk finalist oldu .</sentence>
+<sentence num="1">Basketbolda Fransa'yı yenen Yunanistan ilk finalist oldu 34 .Avrupa Erkekler Basketbol Şampiyonası'nda ,Fransa'yı 67 66 yenen Yunanistan ,ilk finalist oldu .</sentence>
+<sentence num="2">Son derece çekişmeli geçen maçın ilk çeyreğini 16 14 önde kapatan Yunanistan ,ilk periyodu 30 29 geride bitirdi .</sentence>
+<sentence num="3">Üçüncü çeyrekte de başa baş giden maç skoru ,çeyreğin bitiminde 45 44 Fransa lehine oldu .</sentence>
+<sentence num="4">Yunanistan ,kıyasıya geçen bu mücadelede 67 66 kılpayı galip geldi ve şampiyonanın ilk finalisti oldu .</sentence>
+<sentence num="5">Yunanistan'ın finaldeki rakibi ,bu akşam Almanya ve İspanya arasında yapılacak maçın galibi olacak .</sentence>
+</doc>
+<doc>
+<id>155223</id>
+<sentence num="0">2005 09 24 21 :45 :00 .Fransa'yı 67 66 yenen Yunanistan ilk finalist oldu ...</sentence>
+<sentence num="1">34 .Avrupa Erkekler Basketbol Şampiyonası'nda ,Fransa'yı 67 66 yenen Yunanistan ,ilk finalist oldu .</sentence>
+<sentence num="2">Son derece çekişmeli geçen maçın ilk çeyreğini 16 14 önde kapatan Yunanistan ,ilk periyodu 30 29 geride bitirdi .</sentence>
+<sentence num="3">Üçüncü çeyrekte de başa baş giden maç skoru ,çeyreğin bitiminde 45 44 Fransa lehine oldu .</sentence>
+<sentence num="4">Yunanistan ,kıyasıya geçen bu mücadelede 67 66 kılpayı galip geldi ve şampiyonanın ilk finalisti oldu .</sentence>
+<sentence num="5">Yunanistan'ın finaldeki rakibi ,bu akşam Almanya ve İspanya arasında yapılacak maçın galibi olacak .</sentence>
+</doc>
+<doc>
+<id>155278</id>
+<sentence num="0">2005 09 25 00 :37 :00 .34 .Avrupa Erkekler Basketbol Şampiyonası'nda Almanya ikinci finalist .</sentence>
+<sentence num="1">34 .Avrupa Erkekler Basketbol Şampiyonası'nda Almanya ikinci finalist 34 .Avrupa Erkekler Basketbol Şampiyonası'nda ,Yunanistan'ın ardından ,ikinci finalist Almanya .</sentence>
+<sentence num="2">Bu gece oynanan çekişmeli yarı final karşılaşmasında Almanya ,Fransa'yı 1 sayı farkla ,74 73 geride bırakarak final oynama hakkı kazandı .</sentence>
+<sentence num="3">İlk çeyreği İspanya'nın 23 16 önde kapatmasına karşın ilk yarı sonunda Almanya farkı 1'e indirdi .</sentence>
+<sentence num="4">Üçüncü çeyrek başa baş geçerken son çeyrekte rakibinin biraz üzerinde sayı kaydeden Almanya ,maçı almayı başardı .</sentence>
+</doc>
+<doc>
+<id>155639</id>
+<sentence num="0">2005 09 25 23 :52 :00 .Yunanistan Avrupa'nın zirvesinde .</sentence>
+<sentence num="1">Turnuvanın sayı kralı Dirk Nowitzki'nin çabası finalde Almanya'ya yetmedi Almanya'yı 78 62 yenen Yunanistan tarihinde ikinci kez Avrupa Şampiyonu oldu .</sentence>
+<sentence num="2">Sırbistan Karadağ'ın evsahipliği yaptığı Avrupa Basketbol Şampiyonası'nda zafer Yunanistan'ın oldu .</sentence>
+<sentence num="3">1987 yılında kendi ülkesinde düzenlenen şampiyonada ilk kez Avrupa'nın zirvesine çıkan Yunan Milli Takımı ,finalde Almanya'yı 78 62 yendi ve 18 yıl sonra ikinci kez Avrupa şampiyonluğuna ulaştı .</sentence>
+<sentence num="4">İlk çeyreği 19 12 ,devreyi 39 32 önde kapatan Yunanista üçüncü çeyrekte farkı iyice açtı ve son 10 dakikaya 64 48 önde girdi .</sentence>
+<sentence num="5">Tunuvanın yıldızı Dirk Nowitzki ,takım arkadaşlarından fazla yardım göremeyince Almanya maç boyunca Yunanistan'a yaklaşamadı .</sentence>
+<sentence num="6">Şampiyona boyunca sergilediği sert savunmayı ,yorgun bir görüntü çizen Almanya'ya da yapan Yunan Milli Takımı final maçından 78 62 galip ayrıldı .</sentence>
+<sentence num="7">Yunanistan'da Papaloukas 22 sayı ,6 asist ,3 top çalma ile oynarken ,Zisis 13 ,Papadopoulos 11 sayı kaydetti .</sentence>
+<sentence num="8">Maçın en skorer ismi ise 23 sayıyla Nowitzki oldu .</sentence>
+<sentence num="9">Ancak Alman yıldız üçlük atışlarda ancak 1 8 isabet elde etti .</sentence>
+<sentence num="10">İspanya'yı 98 68 yenen Fransa Avrupa Şampiyonası'nı üçüncü sırada bitirirken ,Litvanya Slovenya'yı 79 70 mağlup etti beşinci oldu .</sentence>
+<sentence num="11">Yunanistan ,Almanya ,Fransa ,İspanya ,Litvanya ve Slovenya önümüzdeki yıl Japonya'da düzenlenecek Dünya Şampiyonası'nda mücadele edecek .</sentence>
+</doc>
+<doc>
+<id>155655</id>
+<sentence num="0">2005 09 26 00 :40 :00 .Basketbol Şampiyonası'nda ,şampiyon Yunanistan oldu .</sentence>
+<sentence num="1">Basketbol Şampiyonası'nda ,şampiyon Yunanistan oldu Sırbistan Karadağ'da bugün sona eren 34 .Avrupa Erkekler Basketbol Şampiyonası'nda ,finalde Almanya'yı 78 62 yenen Yunanistan ,altın madalyanın sahibi oldu .</sentence>
+<sentence num="2">Başkent Belgrad'da oynanan maçta Yunanistan ,rakibi önünde devreyi 39 32 önde geçti ,maçtan da 78 62 galip ayrılarak şampiyonluğa ulaştı .</sentence>
+<sentence num="3">Öte yandan ,şampiyonada bronz madalyayı ,İspanya'yı 98 68 yenen Fransa kazandı .</sentence>
+<sentence num="4">Rakibi karşısında devreyi 44 36 ,karşılaşmayı da 98 68 üstün tamamlayan Fransa ,turnuvada üçüncülüğü elde etti .</sentence>
+</doc>
+<doc>
+<id>155666</id>
+<sentence num="0">2005 09 26 01 :39 :00 .Yunanistan'da Zafer Coşkusu .</sentence>
+<sentence num="1">Yunanistan'ın basketbolda Avrupa şampiyonu olması ,ülkede sevinç gösterileriyle kutlanıyor .</sentence>
+<sentence num="2">Sokaklara çıkan halk arabalarının kornalarını kesintisiz çaldı ,Atina'yı bayraklarla donattı .</sentence>
+<sentence num="3">34 .Avrupa Erkekler Basketbol Şampiyonasında Yunanistan'ın ,rakibi Almanya'yı 78 62 mağlup etmesiyle birlikte ,bütün ülkede halk sokaklara çıktı .</sentence>
+<sentence num="4">Başta başkent Atina'da olmak üzere ,çeşitli kentlerde ,kalabalıklar büyük caddeleri ve ana meydanları doldurdu .</sentence>
+<sentence num="5">Yunanistan'ın ,1987'den sonra kazandığı bu ikinci Avrupa şampiyonluğu sonrasında Atina bayraklarla donatıldı ,şampiyonluk ,kesintisiz çalınan kornalarla kutlandı .</sentence>
+</doc>
+<doc>
+<id>155669</id>
+<sentence num="0">2005 09 26 01 :45 :00 .Yunanistan'da ,Avrupa Şampiyonluğu ,sevinç gösterileri ile kutlandı .</sentence>
+<sentence num="1">Yunanistan'ın basketbolda Avrupa şampiyonu olması ,ülkede sevinç gösterileriyle kutlanıyor .</sentence>
+<sentence num="2">Sokaklara çıkan halk arabalarının kornalarını kesintisiz çaldı ,Atina'yı bayraklarla donattı .</sentence>
+<sentence num="3">34'üncü Avrupa Erkekler Basketbol Şampiyonasında Yunanistan'ın ,rakibi Almanya'yı 78 62 mağlup etmesiyle birlikte ,bütün ülkede halk sokaklara çıktı .</sentence>
+<sentence num="4">Başta başkent Atina'da olmak üzere ,çeşitli kentlerde ,kalabalıklar büyük caddeleri ve ana meydanları doldurdu .</sentence>
+<sentence num="5">Yunanistan'ın ,1987'den sonra kazandığı bu ikinci Avrupa şampiyonluğu sonrasında Atina bayraklarla donatıldı ,şampiyonluk ,kesintisiz çalınan kornalarla kutlandı .</sentence>
+</doc>
+<doc>
+<id>156842</id>
+<sentence num="0">2005 09 27 19 :42 :00 .Tanjeviç'in istifası kabul edilmedi .</sentence>
+<sentence num="1">Basketbol Federasyonu Başkanı Turgay Demirel ,Bogdan Tanjeviç'le uzun süre çalışmak istiyor Basketbol Federasyonu Yönetim Kurulu ,Avrupa Şampiyonası'nda hayal kırıklığı yaratan sonuçlar alan A Milli Erkek Basketbol Takımı'nın antrenörü Bogdan Tanjevic'in istifasını kabul etmedi .</sentence>
+<sentence num="2">Basketbol Federasyonu Yönetim Kurulu ,bugünkü toplantısının ardından bir basın açıklaması yaptı .</sentence>
+<sentence num="3">Açıklamada Tanjevic'in ,Avrupa Şampiyonası'nda alınan sonucun beklentilerin altında kalması nedeniyle ,yönetim kurulunun rahat karar verebilmesi amacıyla ,dört yıllık kontratı olmasına rağmen istifasını verdiği hatırlatıldı .</sentence>
+<sentence num="4">Şampiyonada alınan neticeleri ve sergilenen performansı idari ve teknik yönleri ile etraflıca tartışan Yönetim Kurulu ,başarısızlık olarak adlandırılan neticenin büyük hatalardan kaynaklanmadığı sonucuna vardı .</sentence>
+<sentence num="5">Açıklamada ,Tanjeviç'in ,dünya ve Avrupa basketbolunu çok iyi tanıyan ,yüksek kariyerli biri olduğu ve 15 aydır Türk basketboluna hizmet ettiği vurgulanarak ,şu görüşlere yer verildi :Tanjeviç'in bundan sonra da elimizdeki çok değerli oyuncularımızla ,yeni yetişen yetenekli gençlerimizi en iyi şekilde kullanarak ,milli takıma ve Türk basketboluna hizmete devam etmesinde yarar görülmüştür ...</sentence>
+<sentence num="6">Bu anlamda yönetim kurulu ,Tanjeviç'i toplantıya davet ederek istifasının kabul edilmediğini kendisine bildirmiş ve Avrupa Şampiyonası'nın ayrıntılı bir değerlendirmesini ve geleceğe yönelik planlarını yönetime sunmasını istemiştir ...</sentence>
+<sentence num="7">Kendisinden başarı beklendiği ve bunun için yönetim kurulunun her türlü imkanıyla kendisini desteklemeye devam edeceği vurgulanmıştır ..</sentence>
+</doc>
+<doc>
+<id>156852</id>
+<sentence num="0">2005 09 27 20 :27 :00 .Tanjeviç'in istifası kabul edilmedi .</sentence>
+<sentence num="1">Basketbol Federasyonu Yönetim Kurulu ,bugünkü toplantısının ardından bir basın açıklaması yaptı .</sentence>
+<sentence num="2">Federasyonun resmi internet sitesinde yapılan açıklamada ,Tanjevic'in ,Avrupa Şampiyonası'nda alınan sonucun beklentilerin altında kalması nedeniyle ,yönetim kurulunun rahat karar verebilmesi amacıyla ,4 yıllık kontratı olmasına rağmen istifasını verdiği hatırlatılarak ,''Yönetim kurulumuz ,şampiyonada alınan neticeleri ve sergilenen performansı ,idari ve teknik yönleri ile etraflıca tartışmış ,beklentilerimizle kıyaslandığında başarısızlık olarak adlandırılan neticenin büyük hatalardan kaynaklanmadığı sonucuna varmıştır ''denildi .</sentence>
+<sentence num="3">Açıklamada ,Tanjevic'in ,Dünya ve Avrupa basketbolunu çok iyi tanıyan ,yüksek kariyerli biri olduğu ve 15 aydır Türk basketboluna hizmet ettiği vurgulanarak ,şu görüşlere yer verildi :''Tanjevic'in bundan sonra da elimizdeki çok değerli oyuncularımızla ,yeni yetişen yetenekli gençlerimizi en iyi şekilde kullanarak ,milli takıma ve Türk basketboluna hizmete devam etmesinde yarar görülmüştür .</sentence>
+<sentence num="4">Bu anlamda yönetim kurulu ,Tanjevic'i toplantıya davet ederek istifasının kabul edilmediğini kendisine bildirmiş ,en kısa zamanda Avrupa Şampiyonası'nın ayrıntılı bir değerlendirmesini ve geleceğe yönelik planlarını yönetime sunmasını istemiştir .</sentence>
+<sentence num="5">Kendisinden başarı beklendiği ve bunun için yönetim kurulunun her türlü imkanıyla kendisini desteklemeye devam edeceği vurgulanmıştır .''</sentence>
+<sentence num="6">2005 YILI DEĞERLENDİRMESİ Toplantıda ,2005 yılında gerçekleştirilen faaliyetlerin bir değerlendirmesi de yapıldı .</sentence>
+<sentence num="7">Açıklamada ,2005 yılının ,bayan ve erkeklerde yıldız ,genç ,ümit ve (A )takım düzeyindeki tüm takımların Avrupa kupası finallerinde yarışması ;Akdeniz Oyunları ile Üniversite Oyunları'na 4 takımın katılması ;ev sahipliği üstlenilen Bayanlar Avrupa Şampiyonası organizasyonuyla ,Türk basketbol tarihinin en üst düzeyde ,en yoğun milli takımlar faaliyetlerinin yaşandığı bir yıl olduğu dile getirildi .''</sentence>
+<sentence num="8">Değerlendirmede ,''Akdeniz Oyunları'nda kızlarımızın aldığı altın madalya ,yıldız erkeklerde alınan Avrupa şampiyonluğu ,genç erkeklerde alınan Avrupa ikinciliği bizleri sevindirirken ,(A )Milli Erkek Takımı'nın Sırbistan Karadağ'daki Avrupa Şampiyonası'nda ilk 8'e girememesi ,bizi ve tüm kamuoyunu üzmüştür ''ifadelerine yer verildi .</sentence>
+<sentence num="9">AA .</sentence>
+</doc>
+<doc>
+<id>156893</id>
+<sentence num="0">2005 09 27 23 :58 :00 .Tanjevic'in İstifası Kabul Edilmedi .</sentence>
+<sentence num="1">Basketbol Federasyonu Yönetim Kurulu ,Avrupa Şampiyonası'nda hayal kırıklığı yaratan sonuçlar alan A Milli Erkek Takımı'nın antrenörü Bogdan Tanjevic'in istifasını kabul etmedi .</sentence>
+<sentence num="2">Federasyonun resmi internet sitesinde yapılan açıklamada ,Tanjevic'in ,Avrupa Şampiyonası'nda alınan sonucun beklentilerin altında kalması nedeniyle ,yönetim kurulunun rahat karar verebilmesi amacıyla ,4 yıllık kontratı olmasına rağmen istifasını verdiği hatırlatılarak ,Yönetim kurulumuz ,şampiyonada alınan neticeleri ve sergilenen performansı ,idari ve teknik yönleri ile etraflıca tartışmış ,beklentilerimizle kıyaslandığında başarısızlık olarak adlandırılan neticenin büyük hatalardan kaynaklanmadığı sonucuna varmıştır denildi .</sentence>
+<sentence num="3">Açıklamada ,Tanjevic'in ,Dünya ve Avrupa basketbolunu çok iyi tanıyan ,yüksek kariyerli biri olduğu ve 15 aydır Türk basketboluna hizmet ettiği vurgulanarak ,şu görüşlere yer verildi :Tanjevic'in bundan sonra da elimizdeki çok değerli oyuncularımızla ,yeni yetişen yetenekli gençlerimizi en iyi şekilde kullanarak ,milli takıma ve Türk basketboluna hizmete devam etmesinde yarar görülmüştür .</sentence>
+<sentence num="4">Bu anlamda yönetim kurulu ,Tanjevic'i toplantıya davet ederek istifasının kabul edilmediğini kendisine bildirmiş ,en kısa zamanda Avrupa Şampiyonası'nın ayrıntılı bir değerlendirmesini ve geleceğe yönelik planlarını yönetime sunmasını istemiştir .</sentence>
+<sentence num="5">Kendisinden başarı beklendiği ve bunun için yönetim kurulunun her türlü imkanıyla kendisini desteklemeye devam edeceği vurgulanmıştır ..</sentence>
+</doc>
+<doc>
+<id>178348</id>
+<sentence num="0">2005 11 07 16 :50 :00 .Efes Pilsenli oyuncu Ermal ,WADA'ya ifade verdi ...</sentence>
+<sentence num="1">Sırbistan Karadağ'da düzenlenen 2005 Avrupa Erkekler Basketbol Şampiyonası maçları sırasında doping testi pozitif çıkan Efes Pilsenli oyuncu Ermal ,Dünya Anti Doping Merkezi'nde (WADA )ifade verdi .</sentence>
+<sentence num="2">İfade vermek üzere Efes Pilsen Kulübü Asbaşkanı Çetin Çeki ve Basketbol Federasyonu Dış İlişkiler Sorumlusu Emir Turam ile birlikte İsviçre'ye giden Ermal ,WADA'ya ifadesini verirken ,Lacivert beyazlı kulübün genel menajeri Engin Özerhun ,Ermal ile ilgili kararın önümüzdeki günlerde verileceğini söyledi .</sentence>
+<sentence num="3">Özerhun ,WADA'nın Ermal'in ifadesini aldığını ve bu ifadeye göre önümüzdeki günlerde kararını açıklayacağını dile getirdi .</sentence>
+</doc>
+<doc>
+<id>178389</id>
+<sentence num="0">2005 11 07 18 :03 :00 .WADA Ermal'ın İfadesini Aldı .</sentence>
+<sentence num="1">Sırbistan Karadağ'da düzenlenen 2005 Avrupa Erkekler Basketbol Şampiyonası maçları sırasında doping testi pozitif çıkan Efes Pilsenli oyuncu Ermal ,Dünya Anti Doping Merkezi'nde (WADA )ifade verdi .</sentence>
+<sentence num="2">İfade vermek üzere Efes Pilsen Kulübü Asbaşkanı Çetin Çeki ve Basketbol Federasyonu Dış İlişkiler Sorumlusu Emir Turam ile birlikte İsviçre'ye giden Ermal ,WADA'ya ifadesini verirken ,Lacivert beyazlı kulübün genel menajeri Engin Özerhun ,Ermal ile ilgili kararın önümüzdeki günlerde verileceğini söyledi .</sentence>
+</doc>

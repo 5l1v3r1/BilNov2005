@@ -1,0 +1,243 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 11 18 18 :35 :00 .istanbul beylikdüzü'nde patlama :6 yaralı ..</sentence>
+<sentence num="1">istanbul beylikdüzü'nde patlama meydana geldi 6 yaralı var .</sentence>
+<sentence num="2">beylikdüzü'ndeki bir üst geçidin yakınında patlama oldu .</sentence>
+<sentence num="3">tatilya eğlence merkezi'nin önündeki üst geçidin yakınında meydana geldiği belirtilen patlama nedeniyle yaralananlar olduğu ve olay yerine ambulansların sevk edildiği bildirildi .</sentence>
+<sentence num="4">ayrıntılar birazdan ...</sentence>
+</doc>
+<doc>
+<id>185040</id>
+<sentence num="0">2005 11 18 18 :45 :00 .Beylikdüzü'nde patlama :6 kişi yaralandı .</sentence>
+<sentence num="1">Beylikdüzü'nde patlama :6 kişi yaralandı Beylikdüzü'nde bir üst geçidin yakınındaki çöp kutusunda patlama meydana geldi .</sentence>
+<sentence num="2">Tatilya Eğlence Merkezi'nin önündeki üst geçidin yakınında meydana geldiği belirtilen patlamada ilk belirlemelere göre 6 kişinin yaralandığı bildirildi .</sentence>
+<sentence num="3">Yaralılardan 5'inin Avcılar Hospital'e birinin de Avcılar Anadolu Hastanesi'ne kaldırıldığı öğenildi .</sentence>
+<sentence num="4">Jandarma ve polis ekipleri olay yerini güvenlik çemberine aldı .</sentence>
+<sentence num="5">Güvenlik güçleri patlamaya sebep olan bombanın türü konusunda bir açıklama yapmadı .</sentence>
+</doc>
+<doc>
+<id>185042</id>
+<sentence num="0">2005 11 18 18 :56 :00 .İstanbul Beylikdüzü'nde patlama .</sentence>
+<sentence num="1">Beylikdüzü'nde bir üstgeçidin altındaki otobüs durağında bulunan çöp kutusunda patlama meydana geldi .</sentence>
+<sentence num="2">Patlamada ilk belirmelere göre 1 kişi öldü ,5 kişi de yaralandı .</sentence>
+<sentence num="3">Edinilen bilgiye göre patlama saat 18 :15 sıralarında Tatilya önündeki üst geçidin altında meydana geldi .</sentence>
+<sentence num="4">Üst geçit altındaki çöp bidonuna bırakılan bomba ,büyük bir gürültü ile patladı .</sentence>
+<sentence num="5">Patlama sırasında otobüs durağında bulunan 6 kişi yaralandı .</sentence>
+<sentence num="6">Yaralılardan Mustafa Sayar tüm müdahalelere rağmen kurtarılamayarak hayatını kaybetti .</sentence>
+<sentence num="7">Diğer yaralılar da çevredeki hastanelere kaldırılarak tedavi altına alındı .</sentence>
+<sentence num="8">Özel Avcılar Hospital Başhekimi Dr .Şavaş Vural ,hastanede bulunan 4 yaralının durumunun iyi olduğunu açıkladı .</sentence>
+<sentence num="9">Vural ,Hastanede Tanju Şirin (18 ),Gülay Gür ,Gülay Tan ve Mecit Şirin hasatanede tedavi altına alındı .</sentence>
+<sentence num="10">Patlamadan sonra ağır yaralı olarak hastaneye getirilen Mustafa Sayar ,doktorların tüm müdahalelerine rağmen yaşamını yitirdi .</sentence>
+<sentence num="11">diye konuştu .</sentence>
+<sentence num="12">Avcılar Anadolu Hastanesi'ne kaldırılan Ömer Aktuna ,Büşra Oto ve Faruk Aslan isimli yaralılar kaldırılarak tedavi altına altına alındı .</sentence>
+<sentence num="13">Yaralılardan durumu ağır olan Faruk Aslan İstanbul Tıp Fakültesi Hastanesi'ne sevk edildi .</sentence>
+<sentence num="14">Olay yerine gelen polis ekipleri ,patlamanın meydana geldiği yerde geniş güvenlik önlemi aldı .</sentence>
+<sentence num="15">Polisin incelemesi devam ediyor .</sentence>
+</doc>
+<doc>
+<id>185043</id>
+<sentence num="0">2005 11 18 19 :03 :00 .Beylikdüzü'nde patlama :1 ölü 11 yaralı .</sentence>
+<sentence num="1">Patlamada 1 kişi öldü ,11 kişi yaralandı İlgili Galeri Foto Galeri için tıklayınız İstanbul Beylikdüzü'nde çöp kutusuna bırakılan bombanın patlaması sonucu 1 kişi öldü ,11 kişi de yaralandı .</sentence>
+<sentence num="2">Patlama Beylikdüzü'nde Tatilya Eğlence Merkezi'nin önündeki üst geçidin yakınında meydana geldi .</sentence>
+<sentence num="3">Patlamada yaralanan kişilerin isimleri ve kaldırıldıkları hastaneler şöyle :Gülay Gür (25 ),Gülay Tan (25 ),ağır yaralı olan ve ameliyata alınan Mecit Şirin (40 )ile Tanju Şirin (16 )Özel Avcılar Hastanesi'ne kaldırıldı .</sentence>
+<sentence num="4">Faruk Aslan (27 )Özel Avcılar Hastanesi'nden Çapa Tıp Fakültesi Hastanesi'ne sevk edildi .</sentence>
+<sentence num="5">Ağır yaralı olan Ömer Akçura (22 )da Özel Avcılar Hastanesi'nde ameliyata alındı .</sentence>
+<sentence num="6">Büşra Oto'nun da Özel Avcılar Anadolu Hastanesi'nde tedavisi devam ediyor .</sentence>
+<sentence num="7">Olayda bombanın tipinin A 4 olduğu ortaya çıktı .</sentence>
+<sentence num="8">PKK eylemlerinde genellikle A 4 tipi bomba kullanıyor .</sentence>
+<sentence num="9">Olay yerine gelen jandarma ekibi geniş güvenlik önlemi alırken patlama nedeniyle yoldan geçen bir sivil araç hasar gördü .</sentence>
+<sentence num="10">Olay yerine gelen jandarma ekibi bölgede bulunan bütün çöp konteynırları kontrol etti .</sentence>
+<sentence num="11">Güler yaralıları ziyaret etti İstanbul Valisi Muammer Güler ile Emniyet Müdürü Celalettin Cerrah ,Beylikdüzü'ndeki patlamada yaralananları hastanede ziyaret etti .</sentence>
+<sentence num="12">Vali Güler ile Emniyet Müdürü Cerrah ,patlamada yaralanan vatandaşları ziyaret etmek üzere Avcılar Hospital'a geldi .</sentence>
+<sentence num="13">Jandarma ve emniyet teşkilatının müştereken olayı soruşturduğunu söyleyen Güler ,''parça tesirli A 4 tipi bomba ihtimali var ,cep telefonu düzenekli ''dedi .</sentence>
+<sentence num="14">Güler ,olayda bir kişinin öldüğünü ,11 kişinin yaralandığını ,bunlardan 8'inin hastanelerde olduğunu ,2 kişinin de ameliyatlarının sürdüğünü belirtti .</sentence>
+<sentence num="15">Vali Güler ,İstanbullular'ın huzurunu kaçırmaya yönelik bu tip eylemlere hiçbir şekilde fırsat verilmeyeceğini de söyledi .'</sentence>
+<sentence num="16">Bu olay ,Hakkari ve Şemdinli olaylarının devamı mı ?'</sentence>
+<sentence num="17">sorusuna ise Güler ,''kesinlikle öyle bir şey demek mümkün değil .</sentence>
+<sentence num="18">Ama elbette terör örgütünün her zaman için bu tür arayışları var .</sentence>
+<sentence num="19">Fırsat buldukları takdirde her zaman için böyle eylemler yapmaya çalışıyorlar .</sentence>
+<sentence num="20">Bunlara fırsat verilmeycektir ''dedi .</sentence>
+</doc>
+<doc>
+<id>185084</id>
+<sentence num="0">2005 11 18 22 :41 :00 .Beylikdüzündeki bomba 'cep telefonu düzenekli 'A 4 .Beylikdüzündeki bomba 'cep telefonu düzenekli 'A 4 İstanbul Valisi Muammer Güler ile Emniyet Müdürü Celalettin Cerrah ,Beylikdüzü'ndeki patlamada yaralananları hastanede ziyaret etti .</sentence>
+<sentence num="1">Vali Güler ile Emniyet Müdürü Cerrah ,patlamada yaralanan vatandaşları ziyaret etmek üzere Avcılar Hospital'a geldi .</sentence>
+<sentence num="2">Güler ,hastaneye girerken gazetecilere yaptığı açıklamada ,jandarma ve emniyet teşkilatının müştereken olayı soruşturduğunu söyledi .</sentence>
+<sentence num="3">Patlayıcının ,Tatilya Eğlence Merkezi'nin önündeki üst geçidin yanında bulunan otobüs durağının arkasındaki çöp konteynerine konulduğunun tespit edildiğini belirten Güler ,''Parça tesirli A 4 tipi bomba ihtimali var ,cep telefonu düzenekli ''dedi .</sentence>
+<sentence num="4">Güler ,olayda 12 kişinin yaralandığını ,bunlardan 8'inin hastanelerde olduğunu ,1 vatandaşın hayatını kaybettiğini ,2 kişinin de ameliyatlarının sürdüğünü söyledi .</sentence>
+<sentence num="5">Bir soru üzerine ,patlamanın ardından üst geçitte bulunan şüpheli paketlerin incelendiğini kaydeden Güler ,herhangi bir sorun olmadığının tespit edildiğini bildirdi .</sentence>
+<sentence num="6">Vali Güler ,''İstanbullular'ın huzurunu kaçırmaya yönelik bu tip eylemlere hiçbir şekilde fırsat verilmeyecek ''dedi .</sentence>
+<sentence num="7">Bir gazetecinin ,''Bu olay ,Hakkari ve Şemdinli olaylarının devamı mı ?''</sentence>
+<sentence num="8">şeklindeki sorusu üzerine Güler ,''Kesinlikle öyle bir şey demek mümkün değil .</sentence>
+<sentence num="9">Ama elbette terör örgütünün her zaman için bu tür arayışları var .</sentence>
+<sentence num="10">Fırsat buldukları takdirde her zaman için böyle eylemler yapmaya çalışıyorlar .</sentence>
+<sentence num="11">Bunlara fırsat verilmeycektir ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>185095</id>
+<sentence num="0">2005 11 18 23 :25 :00 .Beylikdüzü'nde meydana gelen patlamada 1 kişi öldü ,12 kişi yaralandı .</sentence>
+<sentence num="1">İstanbul Valisi Muammer Güler ile Emniyet Müdürü Celalettin Cerrah ,Beylikdüzü'ndeki patlamada yaralananları hastanede ziyaret etti .</sentence>
+<sentence num="2">Vali Güler ile Emniyet Müdürü Cerrah ,patlamada yaralanan vatandaşları ziyaret etmek üzere Avcılar Hospital'a geldi .</sentence>
+<sentence num="3">Güler ,hastaneye girerken gazetecilere yaptığı açıklamada ,jandarma ve emniyet teşkilatının müştereken olayı soruşturduğunu söyledi .</sentence>
+<sentence num="4">Patlayıcının ,Tatilya Eğlence Merkezi'nin önündeki üst geçidin yanında bulunan otobüs durağının arkasındaki çöp konteynerine konulduğunun tespit edildiğini belirten Güler ,''Parça tesirli A 4 tipi bomba ihtimali var ,cep telefonu düzenekli ''dedi .</sentence>
+<sentence num="5">Güler ,olayda 12 kişinin yaralandığını ,bunlardan 8'inin hastanelerde olduğunu ,1 vatandaşın hayatını kaybettiğini ,2 kişinin de ameliyatlarının sürdüğünü söyledi .</sentence>
+<sentence num="6">Bir soru üzerine ,patlamanın ardından üst geçitte bulunan şüpheli paketlerin incelendiğini kaydeden Güler ,herhangi bir sorun olmadığının tespit edildiğini bildirdi .</sentence>
+<sentence num="7">Vali Güler ,''İstanbullular'ın huzurunu kaçırmaya yönelik bu tip eylemlere hiçbir şekilde fırsat verilmeyecek ''dedi .</sentence>
+<sentence num="8">Bir gazetecinin ,''Bu olay ,Hakkari ve Şemdinli olaylarının devamı mı ?''</sentence>
+<sentence num="9">şeklindeki sorusu üzerine Güler ,''Kesinlikle öyle bir şey demek mümkün değil .</sentence>
+<sentence num="10">Ama elbette terör örgütünün her zaman için bu tür arayışları var .</sentence>
+<sentence num="11">Fırsat buldukları takdirde her zaman için böyle eylemler yapmaya çalışıyorlar .</sentence>
+<sentence num="12">Bunlara fırsat verilmeycektir ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>185269</id>
+<sentence num="0">2005 11 19 12 :30 :00 .Güler :Bomba koyanlar bulunacak .</sentence>
+<sentence num="1">İstanbul Valisi Muammer Güler ,Beylikdüzü'nde dün akşam gerçekleşen bombalı saldırı olayına ilişkin ,''Masum insanların öldürülmesine yönelik insanlık dışı hunharca bir girişimdir .</sentence>
+<sentence num="2">Bölücü örgüt tarafından yapıldığını ,Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a da taşınmak istendiğini biliyoruz ''dedi .</sentence>
+<sentence num="3">Vali Güler ,Asılsız Ermeni İddialarıyla Mücadele Federasyonu (ASEF )tarafından The Marmara Oteli'nde düzenlenen ''Millet i Sadıka :Ermeniler ''konulu konferansa verilen arada basın mensuplarının sorularını yanıtladı .</sentence>
+<sentence num="4">Beylikdüzü'ndeki olayla ilgili her türlü inceleme ve soruşturmanın sürdüğünü anlatan Güler ,olayda 1 kişinin öldüğünü ,hastanedeki yaralılardan 1'inin durumunun ağır olduğunu ve tedavilerin devam ettiğini bildirdi .</sentence>
+<sentence num="5">Vali Güler ,''Masum insanların öldürülmesine yönelik insanlık dışı hunharca bir girişimdir .</sentence>
+<sentence num="6">Bölücü örgüt tarafından yapıldığını ,Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a da taşınmak istendiğini biliyoruz .</sentence>
+<sentence num="7">Buna fırsat verilmeyecektir .</sentence>
+<sentence num="8">Failler en kısa zamanda yakalanacaktır ''diye konuştu .</sentence>
+<sentence num="9">Masum insanların katledilmesine yönelik bu tür hareketlerin ne tür gayeyle yapıldığının insanlara anlatılmasının mümkün olmadığını vurgulayan Güler ,olayı ''masum insanlara yönelik hunharca bir girişim ''olarak değerlendirdiklerini söyledi .</sentence>
+<sentence num="10">Güler ,saldırının parça tesirli bir bomba ile yapıldığının tespit edildiğini ve bombanın cep telefonu düzeneğine bağlı olarak çöp konteynerine konulduğunu anlattı .</sentence>
+<sentence num="11">Bu saldırıyı düzenleyenlerin amaçlarının ne olduğunu Türkiye'nin bildiğini ifade eden Muammer Güler ,saldırıyı lanetle kınadı .''</sentence>
+<sentence num="12">BÖLÜCÜ ÖRGÜTÜN SENARYOSUNUN GERÇEKLEŞMESİ MÜMKÜN DEĞİL ''Bir gazetecinin ''Şemdinli'deki olaylarla bağlantısı olabilir mi ?''</sentence>
+<sentence num="13">sorusu üzerine Güler ,herhangi bir bulgu olmadan bir şey söyleyemeyeceğini belirterek ,Türkiye'deki bölücü hareketin sadece Şemdinli'de değil ,pek çok yerde bu tür girişimlerde bulunduğunu kaydetti .</sentence>
+<sentence num="14">İstanbul Valisi Güler ,''Türkiye'nin her yerinde bu amaçlı bir girişim olabilir .</sentence>
+<sentence num="15">Elbette bölücü örgütün kafasında bir senaryo var .</sentence>
+<sentence num="16">Ancak bunun gerçekleşmesi mümkün değil .</sentence>
+<sentence num="17">Herkes ,kararlı ,duyarlı olarak ,bu tür terör hareketlerinin başarılı olamayacağı inancını göstermelidir ''dedi .</sentence>
+</doc>
+<doc>
+<id>185272</id>
+<sentence num="0">2005 11 19 12 :40 :00 .Vali Güler :Beylikdüzü'ndeki saldırının failleri yakalanacak .</sentence>
+<sentence num="1">İstanbul Valisi Muammer Güler ,Beylikdüzü'nde dün akşam gerçekleşen bombalı saldırı olayına ilişkin ,''Masum insanların öldürülmesine yönelik insanlık dışı hunharca bir girişimdir .</sentence>
+<sentence num="2">Bölücü örgüt tarafından yapıldığını ,Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a da taşınmak istendiğini biliyoruz ''dedi .</sentence>
+<sentence num="3">Vali Güler ,Asılsız Ermeni İddialarıyla Mücadele Federasyonu (ASEF )tarafından The Marmara Oteli'nde düzenlenen ''Millet i Sadıka :Ermeniler ''konulu konferansa verilen arada basın mensuplarının sorularını yanıtladı .</sentence>
+<sentence num="4">Beylikdüzü'ndeki olayla ilgili her türlü inceleme ve soruşturmanın sürdüğünü anlatan Güler ,olayda 1 kişinin öldüğünü ,hastanedeki yaralılardan 1'inin durumunun ağır olduğunu ve tedavilerin devam ettiğini bildirdi .</sentence>
+<sentence num="5">Vali Güler ,''Masum insanların öldürülmesine yönelik insanlık dışı hunharca bir girişimdir .</sentence>
+<sentence num="6">Bölücü örgüt tarafından yapıldığını ,Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a da taşınmak istendiğini biliyoruz .</sentence>
+<sentence num="7">Buna fırsat verilmeyecektir .</sentence>
+<sentence num="8">Failler en kısa zamanda yakalanacaktır ''diye konuştu .</sentence>
+<sentence num="9">Masum insanların katledilmesine yönelik bu tür hareketlerin ne tür gayeyle yapıldığının insanlara anlatılmasının mümkün olmadığını vurgulayan Güler ,olayı ''masum insanlara yönelik hunharca bir girişim ''olarak değerlendirdiklerini söyledi .</sentence>
+<sentence num="10">Güler ,saldırının parça tesirli bir bomba ile yapıldığının tespit edildiğini ve bombanın cep telefonu düzeneğine bağlı olarak çöp konteynerine konulduğunu anlattı .</sentence>
+<sentence num="11">Bu saldırıyı düzenleyenlerin amaçlarının ne olduğunu Türkiye'nin bildiğini ifade eden Muammer Güler ,saldırıyı lanetle kınadı .''</sentence>
+<sentence num="12">BÖLÜCÜ ÖRGÜTÜN SENARYOSUNUN GERÇEKLEŞMESİ MÜMKÜN DEĞİL ''Bir gazetecinin ''Şemdinli'deki olaylarla bağlantısı olabilir mi ?''</sentence>
+<sentence num="13">sorusu üzerine Güler ,herhangi bir bulgu olmadan bir şey söyleyemeyeceğini belirterek ,Türkiye'deki bölücü hareketin sadece Şemdinli'de değil ,pek çok yerde bu tür girişimlerde bulunduğunu kaydetti .</sentence>
+<sentence num="14">İstanbul Valisi Güler ,''Türkiye'nin her yerinde bu amaçlı bir girişim olabilir .</sentence>
+<sentence num="15">Elbette bölücü örgütün kafasında bir senaryo var .</sentence>
+<sentence num="16">Ancak bunun gerçekleşmesi mümkün değil .</sentence>
+<sentence num="17">Herkes ,kararlı ,duyarlı olarak ,bu tür terör hareketlerinin başarılı olamayacağı inancını göstermelidir ''dedi .</sentence>
+</doc>
+<doc>
+<id>185275</id>
+<sentence num="0">2005 11 19 12 :50 :00 .İstanbul Valisi :'Olaylar İstanbul'a taşınmak isteniyor '.</sentence>
+<sentence num="1">İstanbul Valisi Muammer Güler ,Beylikdüzü'nde dün düzenlenen bombalı saldırının bölücü örgüt tarafından yapıldığını belirterek olayların İstanbul'a taşınmak istendiğini söyledi .</sentence>
+<sentence num="2">Saldırının 'masum insanların öldürülmesine yönelik insanlık dışı hunharca bir girişim 'olduğunu vurgulayan Güler ,Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a da taşınmak istendiğini biliyoruz ''dedi .</sentence>
+<sentence num="3">Vali Güler ,Asılsız Ermeni İddialarıyla Mücadele Federasyonu (ASEF )tarafından The Marmara Oteli'nde düzenlenen konferansta habercilerin sorularını yanıtladı .'</sentence>
+<sentence num="4">Yaralılardan birinin durumu ağır 'Beylikdüzü'ndeki olayla ilgili her türlü incelemenin sürdüğünü belirten Güler ,bir kişinin öldüğünü ,hastanedeki yaralılardan birinin durumunun ağır olduğunu ve tedavilerin devam ettiğini söyledi .</sentence>
+<sentence num="5">Saldırının parça tesirli bir bomba ile yapıldığının belirlendiğini açıklayan Güler ,bombanın cep telefonu düzeneğine bağlı olarak çöp konteynerine konulduğunu kaydetti .</sentence>
+<sentence num="6">Güler ,bir habercinin 'Şemdinli'deki olaylarla bağlantısı olabilir mi ?'</sentence>
+<sentence num="7">yönündeki sorusuna da ''Türkiye'nin her yerinde bu amaçlı bir girişim olabilir .</sentence>
+<sentence num="8">Elbette bölücü örgütün kafasında bir senaryo var .</sentence>
+<sentence num="9">Ancak bunun gerçekleşmesi mümkün değil .</sentence>
+<sentence num="10">Herkes ,kararlı ,duyarlı olarak ,bu tür terör hareketlerinin başarılı olamayacağı inancını göstermelidir ''yorumu yaptı .</sentence>
+<sentence num="11">Beylikdüzü'nde dün akşam çöp kutusuna bırakılan bombanın patlaması sonucu 1 kişi öldü ,11 kişi de yaralanmıştı .</sentence>
+<sentence num="12">Patlama Beylikdüzü'nde Tatilya Eğlence Merkezi'nin önündeki üst geçidin yakınında meydana gelmişti .</sentence>
+<sentence num="13">Olayda kullanılan bombanın tipinin A 4 olduğu ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>185276</id>
+<sentence num="0">2005 11 19 12 :54 :00 .'Olaylar İstanbul'a taşınmak isteniyor '.</sentence>
+<sentence num="1">Güler olayın ardından hastanede yaralıları ziyaret etmişti İstanbul Valisi Muammer Güler ,Beylikdüzü'nde dün düzenlenen bombalı saldırının bölücü örgüt tarafından yapıldığını belirterek olayların İstanbul'a taşınmak istendiğini söyledi .</sentence>
+<sentence num="2">Saldırının 'masum insanların öldürülmesine yönelik insanlık dışı hunharca bir girişim 'olduğunu vurgulayan Güler ,Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a da taşınmak istendiğini biliyoruz ''dedi .</sentence>
+<sentence num="3">Vali Güler ,Asılsız Ermeni İddialarıyla Mücadele Federasyonu (ASEF )tarafından The Marmara Oteli'nde düzenlenen konferansta habercilerin sorularını yanıtladı .'</sentence>
+<sentence num="4">Yaralılardan birinin durumu ağır 'Beylikdüzü'ndeki olayla ilgili her türlü incelemenin sürdüğünü belirten Güler ,bir kişinin öldüğünü ,hastanedeki yaralılardan birinin durumunun ağır olduğunu ve tedavilerin devam ettiğini söyledi .</sentence>
+<sentence num="5">Saldırının parça tesirli bir bomba ile yapıldığının belirlendiğini açıklayan Güler ,bombanın cep telefonu düzeneğine bağlı olarak çöp konteynerine konulduğunu kaydetti .</sentence>
+<sentence num="6">Güler ,bir habercinin 'Şemdinli'deki olaylarla bağlantısı olabilir mi ?'</sentence>
+<sentence num="7">yönündeki sorusuna da ''Türkiye'nin her yerinde bu amaçlı bir girişim olabilir .</sentence>
+<sentence num="8">Elbette bölücü örgütün kafasında bir senaryo var .</sentence>
+<sentence num="9">Ancak bunun gerçekleşmesi mümkün değil .</sentence>
+<sentence num="10">Herkes ,kararlı ,duyarlı olarak ,bu tür terör hareketlerinin başarılı olamayacağı inancını göstermelidir ''yorumu yaptı .</sentence>
+<sentence num="11">Beylikdüzü'nde dün akşam çöp kutusuna bırakılan bombanın patlaması sonucu 1 kişi öldü ,11 kişi de yaralanmıştı .</sentence>
+<sentence num="12">Patlama Beylikdüzü'nde Tatilya Eğlence Merkezi'nin önündeki üst geçidin yakınında meydana gelmişti .</sentence>
+<sentence num="13">Olayda kullanılan bombanın tipinin A 4 olduğu ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>185343</id>
+<sentence num="0">2005 11 19 15 :39 :00 .Beylikdüzü'ndeki patlamada ölen makine mühendisi toprağa verildi .</sentence>
+<sentence num="1">Beylikdüzü'ndeki patlamada ölen makine mühendisi toprağa verildi Beylikdüzü'nde dün akşam gerçekleşen bombalı saldırıda hayatını kaybeden makine mühendisi Mustafa Sayar (36 ),İstanbul'da toprağa verildi .</sentence>
+<sentence num="2">Sayar için Büyükçekmece Mimar Sinan Camii'nde ikindi vakti kılınan cenaze namazına ,eşi Özden Sayar ile yakınları ve arkadaşlarından oluşan kalabalık bir topluluk katıldı .</sentence>
+<sentence num="3">Mustafa Sayar'ın Türk Bayrağı'na sarılı cenazesi ,namazın ardından götürüldüğü Mimar Sinan Mezarlığı'nda defnedildi .</sentence>
+<sentence num="4">Bu arada Mustafa Sayar'ın bazı yakınları ,basın mensuplarına ,babasının öldüğünü henüz bilmeyen 6 yaşındaki kızı Dilara'nın cenaze törenine getirilmediğini söylediler .</sentence>
+</doc>
+<doc>
+<id>185370</id>
+<sentence num="0">2005 11 19 16 :34 :00 .Oyunu İstanbul'a Taşıyamayacaklar .</sentence>
+<sentence num="1">İstanbul Beylikdüzü'ndeki bir üst geçidin altında önceki gece meydana gelen patlamada bir kişi öldü ,10 kişi yaralandı .</sentence>
+<sentence num="2">Vali Muammer Güler ,terör örgütü tarafından Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a taşınmasına fırsat verilmeyeceğini belirtti .</sentence>
+<sentence num="3">Tatilya Eğlence Merkezi'nin önündeki üst geçidin altında bulunan çöp bidonunda dün gece bir patlama meydana geldi .</sentence>
+<sentence num="4">Patlamada yaralanan 11 kişi çevredeki hastanelerde tedavi altına alındı .</sentence>
+<sentence num="5">Yaralılardan Mustafa Sayar hayatını kaybetti .</sentence>
+<sentence num="6">İstanbul Valisi Muammer Güler ve İstanbul Emniyet Müdürü Celalettin Cerrah olay yerinde incelemelerde bulundu ve yaralıları ziyaret etti .</sentence>
+<sentence num="7">Vali Güler ,saldırının parça tesirli bir bomba ile yapıldığını ve bombanın cep telefonu düzeneğine bağlı olarak çöp konteynerine konulduğunu belirtti .</sentence>
+<sentence num="8">Muammer Güler ,Türkiye'nin birçok yerinde sergilenmek istenen oyunun İstanbul'a da taşınmak istendiğini biliyoruz .</sentence>
+<sentence num="9">Buna fırsat verilmeyecektir .</sentence>
+<sentence num="10">Failler en kısa zamanda yakalanacaktır diye konuştu .</sentence>
+<sentence num="11">Muammer Güler ;Elbette bölücü örgütün kafasında düşündüğü bir senaryo var ama onun gerçekleşmesi mümkün değil .</sentence>
+<sentence num="12">Herkesin kararlılığı ,duyarlılığı bu tür terör hareketlerinin başarılı olamayacağı konusunda kuvvetli duruşu göstermesi lazım diye konuştu .</sentence>
+</doc>
+<doc>
+<id>185386</id>
+<sentence num="0">2005 11 19 17 :10 :00 .Beylikdüzü'ndeki patlama ...</sentence>
+<sentence num="1">Yaralılardan 4'ünün tedavisi sürüyor .</sentence>
+<sentence num="2">Beylikdüzü'nde dün akşam gerçekleşen bombalı saldırıda yaralananlardan 4'ünün tedavisi sürüyor .</sentence>
+<sentence num="3">Alınan bilgiye göre ,yaralılardan Faruk Aslan ile Ömer Akçura'nın tedavileri ,İstanbul Üniversitesi İstanbul Tıp Fakültesi Hastanesi'nde devam ediyor .</sentence>
+<sentence num="4">Aslan'ın ,cerrahi yoğun bakım servisinde olduğu belirtildi .</sentence>
+<sentence num="5">Yaralılardan Gülay Gül'ün de İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Hastanesi'nin yoğun bakım ünitesindeki tedavisi sürüyor .</sentence>
+<sentence num="6">Olayda oğluyla birlikte yaralanan Mecit Şirin ,Avcılar Hospital'da tedavi altında tutuluyor .</sentence>
+<sentence num="7">Şirin'in oğlu Tanju Şirin'in ise taburcu edildiği bildirildi .</sentence>
+</doc>
+<doc>
+<id>186965</id>
+<sentence num="0">2005 11 22 17 :10 :00 .Beylikdüzü'ndeki patlamada ağır yaralanan kişi hayatını kaybetti .</sentence>
+<sentence num="1">Beylikdüzü'ndeki patlamada ağır yaralanan kişi hayatını kaybetti Beylikdüzü'nde 4 gün önce meydana gelen bombalı saldırıda yaralananlardan Ömer Akçura da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="2">Olayda ağır şekilde yaralanan ve İstanbul Üniversitesi Tıp Fakültesi Hastanesi'nde tedavi altına alınan Ömer Akçura ,yapılan müdahalelere rağmen kurtarılamadı .</sentence>
+<sentence num="3">Akçura'nın cesedi ,daha sonra otopsi işlemi yapılmak üzere Adli Tıp Kurumu'na gönderildi .</sentence>
+</doc>
+<doc>
+<id>186969</id>
+<sentence num="0">2005 11 22 17 :18 :00 .Beylikdüzü'ndeki patlamada 1 kişi daha öldü .</sentence>
+<sentence num="1">Olayda ağır şekilde yaralanan ve İstanbul Üniversitesi Tıp Fakültesi Hastanesi'nde tedavi altına alınan Ömer Akçura ,yapılan müdahalelere rağmen kurtarılamadı .</sentence>
+<sentence num="2">Akçura'nın cesedi ,daha sonra otopsi işlemi yapılmak üzere Adli Tıp Kurumu'na gönderildi .</sentence>
+<sentence num="3">Olayda yaralananlardan Faruk Aslan'ın aynı hastanede ,Gülay Gül'ün ise İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Hastanesi'nde tedavilerinin sürdüğü ,ancak hayati tehlikeleri bulunmadığı belirtildi .</sentence>
+<sentence num="4">Bombalı saldırıda ,makine mühendisi Mustafa Sayar da hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>186978</id>
+<sentence num="0">2005 11 22 17 :25 :00 .Beylikdüzü'ndeki patlamada yaralanan Ömer Akçura hayatını kaybetti .</sentence>
+<sentence num="1">Beylikdüzü'nde 4 gün önce meydana gelen bombalı saldırıda yaralananlardan Ömer Akçura da tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="2">Alınan bilgiye göre ,olayda ağır şekilde yaralanan ve İstanbul Üniversitesi Tıp Fakültesi Hastanesi'nde tedavi altına alınan Ömer Akçura ,yapılan müdahalelere rağmen kurtarılamadı .</sentence>
+<sentence num="3">Akçura'nın cesedi ,daha sonra otopsi işlemi yapılmak üzere Adli Tıp Kurumu'na gönderildi .</sentence>
+<sentence num="4">Olayda yaralananlardan Faruk Aslan'ın aynı hastanede ,Gülay Gül'ün ise İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Hastanesi'nde tedavilerinin sürdüğü ,ancak hayati tehlikeleri bulunmadığı belirtildi .</sentence>
+<sentence num="5">Bombalı saldırıda ,makine mühendisi Mustafa Sayar da hayatını kaybetmişti .</sentence>
+</doc>
+<doc>
+<id>186983</id>
+<sentence num="0">2005 11 22 17 :32 :00 .Saldırıda yaralanan bir kişi daha öldü Beylikdüzü'ndeki saldırıda yaralanan Ömer Akçura öldü .</sentence>
+<sentence num="1">Beylikdüzü'nde çöp kutusuna bomba konulmuştu Beylikdüzü'nde geçtiğimiz cuma günü meydana gelen bombalı saldırıda yaralananlardan Ömer Akçura tedavi gördüğü hastanede hayatını kaybetti .</sentence>
+<sentence num="2">İstanbul Üniversitesi Tıp Fakültesi Hastanesi'nde tedavi altına alınan Ömer Akçura olayda ağır şekilde yaralanmıştı .</sentence>
+<sentence num="3">Akçura'nın cesedi ,otopsi işlemi yapılmak üzere Adli Tıp Kurumu'na gönderildi .</sentence>
+<sentence num="4">Olayda yaralananlardan Faruk Aslan'ın İstanbul Üniversitesi Tıp Fakültesi'nde ,Gülay Gül'ün ise İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Hastanesi'nde tedavileri devam ediyor .</sentence>
+<sentence num="5">İstanbul Beylikdüzü'nde geçtiğimiz cuma günü çöp kutusuna bırakılan bombanın patlaması sonucu 1 kişi ölmüş ,11 kişi de yaralanmıştı .</sentence>
+<sentence num="6">Patlama Beylikdüzü'nde Tatilya Eğlence Merkezi'nin önündeki üst geçidin yakınında meydana gelmişti .</sentence>
+</doc>
+<doc>
+<id>186987</id>
+<sentence num="0">2005 11 22 17 :39 :00 .Beylikdüzü'nde Ölü Sayısı 2 Oldu .</sentence>
+<sentence num="1">İstanbul Beylikdüzü'nde geçen Cuma akşamı bomba patlaması sonucu yaralananlardan 1 kişi daha hayatını kaybetti .</sentence>
+<sentence num="2">Patlamada ağır yaralanan ve İstanbul Üniversitesi Tıp Fakültesi Hastanesi'nde tedavi altına alınan Ömer Akçura ,yapılan müdahalelere rağmen kurtarılamadı .</sentence>
+<sentence num="3">Beylikdüzü'nde cuma akşama meydana gelen patlamada Mustafa Sayar ölmüş ,10 kişi de yaralanmıştı .</sentence>
+</doc>

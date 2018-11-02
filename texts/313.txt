@@ -1,0 +1,276 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 07 05 11 :46 :00 .ırak başbakanı caferi ,iran'ı ziyaret edecek ..</sentence>
+<sentence num="1">ırak başbakanı caferi ,iran'ı ziyaret edecek ırak başbakanı ibrahim caferi'nin iran'a resmi ziyaret yapacağı bildirildi .</sentence>
+<sentence num="2">ırna ajansının haberine göre ,caferi'nin ziyareti 12 temmuz salı günü başlayacak ve üç gün sürecek .</sentence>
+<sentence num="3">caferi'nin ziyaretinden iki gün önce 10 ıraklı bakan ,çeşitli alanlarda karşılıklı işbirliğini geliştirmek amacıyla araştırma ve hazırlık yapmak için tahran'a gelecek .</sentence>
+</doc>
+<doc>
+<id>111145</id>
+<sentence num="0">2005 07 05 11 :49 :00 .İbrahim Caferi İran'a gidiyor .</sentence>
+<sentence num="1">IRNA ajansının haberine göre ,Caferi'nin ziyaretinden iki gün önce 10 Iraklı bakan ,çeşitli alanlarda karşılıklı işbirliğini geliştirmek amacıyla araştırma ve hazırlık yapmak için Tahran'a gelecek .</sentence>
+<sentence num="2">Irak Başbakanı Caferi'nin ziyaretinin önemli olduğu ve Tahran Bağdat ilişkilerinde yeni bir dönem başlatacağı belirtiliyor .</sentence>
+<sentence num="3">Cumhurbaşkanı birinci yardımcısı Muhammed Rıza Arif'le görüşecek Caferi'nin ziyareti sırasında ,Basra Abadan petrol boru hattının kapasitesinin günlük 350 bin varile çıkarılması ,Irak'a verilen elektriğin artırılması ,ticari ilişkiler ve iki ülke arasındaki önemli konuların ele alınması bekleniyor .</sentence>
+<sentence num="4">1980'lerde 8 yıl süresince savaşan iki ülke arasındaki ilişkiler ,Saddam Hüseyin yönetiminin devrilmesinden bu yana düzelme eğilimi gösterdi .</sentence>
+<sentence num="5">ABD'nin öncülük ettiği koalisyonun Irak'ı işgalinden sonra yönetimde güçlenen Şiiler ,İran ile ilişkileri geliştirmek için çaba harcıyor .</sentence>
+<sentence num="6">İki ülke arasındaki ilişkilerin düzelme sinyali vermesinden sonra İran Dışişleri Bakanı Kemal Harrazi ,mayıs ayı ortalarında Irak'ı ziyaret etmişti .</sentence>
+<sentence num="7">İran Dışişleri Bakanlığı sözcüsü Hamid Rıza Asefi ,daha önce Caferi'nin İran'ı ziyaret edeceğini açıklamış fakat Caferi ,ziyaret için bazı şartlar öne sürmüştü .</sentence>
+</doc>
+<doc>
+<id>111148</id>
+<sentence num="0">2005 07 05 11 :50 :00 .Caferi ,İran'a gidiyor ...</sentence>
+<sentence num="1">Irak Başbakanı İbrahim Caferi'nin İran'a resmi ziyaret yapacağı bildirildi .</sentence>
+<sentence num="2">IRNA ajansının haberine göre ,Caferi'nin ziyareti 12 Temmuz Salı günü başlayacak ve üç gün sürecek .</sentence>
+<sentence num="3">Caferi'nin ziyaretinden iki gün önce 10 Iraklı bakan ,çeşitli alanlarda karşılıklı işbirliğini geliştirmek amacıyla araştırma ve hazırlık yapmak için Tahran'a gelecek .</sentence>
+<sentence num="4">Irak Başbakanı Caferi'nin ziyaretinin önemli olduğu ve Tahran Bağdat ilişkilerinde yeni bir dönem başlatacağı belirtiliyor .</sentence>
+<sentence num="5">Cumhurbaşkanı birinci yardımcısı Muhammed Rıza Arif'le görüşecek Caferi'nin ziyareti sırasında ,Basra Abadan petrol boru hattının kapasitesinin günlük 350 bin varile çıkarılması ,Irak'a verilen elektriğin artırılması ,ticari ilişkiler ve iki ülke arasındaki önemli konuların ele alınması bekleniyor .</sentence>
+<sentence num="6">1980'lerde 8 yıl süresince savaşan iki ülke arasındaki ilişkiler ,Saddam Hüseyin yönetiminin devrilmesinden bu yana düzelme eğilimi gösterdi .</sentence>
+<sentence num="7">ABD'nin öncülük ettiği koalisyonun Irak'ı işgalinden sonra yönetimde güçlenen Şiiler ,İran ile ilişkileri geliştirmek için çaba harcıyor .</sentence>
+<sentence num="8">İki ülke arasındaki ilişkilerin düzelme sinyali vermesinden sonra İran Dışişleri Bakanı Kemal Harrazi ,mayıs ayı ortalarında Irak'ı ziyaret etmişti .</sentence>
+<sentence num="9">İran Dışişleri Bakanlığı sözcüsü Hamid Rıza Asefi ,daha önce Caferi'nin İran'ı ziyaret edeceğini açıklamış fakat Caferi ,ziyaret için bazı şartlar öne sürmüştü .</sentence>
+</doc>
+<doc>
+<id>114645</id>
+<sentence num="0">2005 07 11 16 :45 :00 .Irak Başbakanı Caferi'nin İran ziyareti ertelendi .</sentence>
+<sentence num="1">Irak Başbakanı Caferi'nin İran ziyareti ertelendi Irak Başbakanı İbrahim Caferi'nin İran'a yapacağı resmi ziyaretin ertelendiği bildirildi .</sentence>
+<sentence num="2">Irak'ın Tahran Büyükelçisi Muhammed Macid Abbas el Şeyh ,Caferi'nin yarın yapması planlanan İran ziyaretinin ''belirsiz nedenlerden ''dolayı bir kez daha ertelendiğini açıkladı .</sentence>
+</doc>
+<doc>
+<id>114648</id>
+<sentence num="0">2005 07 11 16 :50 :00 .Irak Başbakanı Caferi'nin İran ziyareti ertelendi ...</sentence>
+<sentence num="1">Irak Başbakanı İbrahim Caferi'nin İran'a yapacağı resmi ziyaretin ertelendiği bildirildi .</sentence>
+<sentence num="2">Irak'ın Tahran Büyükelçisi Muhammed Macid Abbas el Şeyh ,Caferi'nin yarın yapması planlanan İran ziyaretinin ''belirsiz nedenlerden ''dolayı bir kez daha ertelendiğini açıkladı .</sentence>
+<sentence num="3">Ziyaretin ikinci kez ertelenmesinin Bağdat'taki son patlamalarla ilgisi bulunup bulunmadığı yönündeki bir soru üzerine Abbas el Şeyh ,ertelemenin nedeni konusunda şimdiye kadar bir şey bildirilmediğini ,ziyaretin gelecek haftanın ilk günlerinde yapılacağını söyledi .</sentence>
+<sentence num="4">Caferi'nin yarın Tahran'ı ziyaret etmesi ve üst düzey yetkililerle görüşmesi kararlaştırılmıştı .</sentence>
+<sentence num="5">Caferi'nin ziyareti daha önce de İran'daki tatil günlerine denk gelmesi nedeniyle ertelenmişti .</sentence>
+<sentence num="6">Irak'ta Saddam Hüseyin yönetiminin devrilmesinden sonra ,1980'lerde 8 yıl süresince savaşan iki ülke arasındaki ilişkiler düzelme eğilimi gösterdi .</sentence>
+<sentence num="7">ABD'nin öncülük ettiği koalisyonun Irak'ı işgalinden sonra yönetimde güçlenen Şiiler ,İran ile ilişkileri geliştirmek için çaba harcıyor .</sentence>
+<sentence num="8">İki ülke arasındaki ilişkilerin düzelme sinyali vermesinden sonra İran Dışişleri Bakanı Kemal Harrazi ,mayıs ayı ortalarında Irak'ı ziyaret etmiş ,Irak Savunma Bakanı Sadun El Duleymi de geçen hafta üst düzey askeri yetkililerle İran'a resmi ziyarette bulunmuştu .</sentence>
+</doc>
+<doc>
+<id>114670</id>
+<sentence num="0">2005 07 11 17 :26 :00 .Caferi'nin İran ziyareti ertelendi .</sentence>
+<sentence num="1">Irak'ın Tahran Büyükelçisi Muhammed Macid Abbas el Şeyh ,Caferi'nin yarın yapması planlanan İran ziyaretinin ''belirsiz nedenlerden ''dolayı bir kez daha ertelendiğini açıkladı .</sentence>
+<sentence num="2">Ziyaretin ikinci kez ertelenmesinin Bağdat'taki son patlamalarla ilgisi bulunup bulunmadığı yönündeki bir soru üzerine Abbas el Şeyh ,ertelemenin nedeni konusunda şimdiye kadar bir şey bildirilmediğini ,ziyaretin gelecek haftanın ilk günlerinde yapılacağını söyledi .</sentence>
+<sentence num="3">Caferi'nin yarın Tahran'ı ziyaret etmesi ve üst düzey yetkililerle görüşmesi kararlaştırılmıştı .</sentence>
+<sentence num="4">Caferi'nin ziyareti daha önce de İran'daki tatil günlerine denk gelmesi nedeniyle ertelenmişti .</sentence>
+<sentence num="5">Irak'ta Saddam Hüseyin yönetiminin devrilmesinden sonra ,1980'lerde 8 yıl süresince savaşan iki ülke arasındaki ilişkiler düzelme eğilimi gösterdi .</sentence>
+<sentence num="6">ABD'nin öncülük ettiği koalisyonun Irak'ı işgalinden sonra yönetimde güçlenen Şiiler ,İran ile ilişkileri geliştirmek için çaba harcıyor .</sentence>
+<sentence num="7">İki ülke arasındaki ilişkilerin düzelme sinyali vermesinden sonra İran Dışişleri Bakanı Kemal Harrazi ,mayıs ayı ortalarında Irak'ı ziyaret etmiş ,Irak Savunma Bakanı Sadun El Duleymi de geçen hafta üst düzey askeri yetkililerle İran'a resmi ziyarette bulunmuştu .</sentence>
+</doc>
+<doc>
+<id>117469</id>
+<sentence num="0">2005 07 16 12 :55 :00 .İran basını :Caferi'nin ziyareti iki ülke ilişkilerinde yeni sayfa açacak .</sentence>
+<sentence num="1">Irak Başbakanı İbrahim Caferi'nin İran'a yapacağı resmi ziyaretin ,iki ülke ilişkilerinde ve Ortadoğu siyasetinde ''yeni sayfa ''açacağı ifade ediliyor .</sentence>
+<sentence num="2">İki ülke ilişkilerini çeşitli alanlarda geliştirmek için İran üst düzey yetkilileriyle görüşmeler yapmak üzere ,akşam saatlerinde İran'a gelecek olan Caferi'ye ,aralarında Dışişleri Bakanı Hoşyar Zebari ve Savunma Bakanı Sadun El Duleymi'nin de yer aldığı 9 bakan eşlik edecek .</sentence>
+<sentence num="3">İran basın yayın organları ,Caferi'nin ziyaretinin iki ülke ilişkilerinde ve Ortadoğu siyasetinde ''yeni sayfa ''açacağı yorumlarında bulunuyor .</sentence>
+<sentence num="4">Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif tarafından karşılanacak olan Caferi ,Cumhurbaşkanı Muhammed Hatemi ve Dışişleri Bakanı Kemal Harrazi ile görüşecek .</sentence>
+<sentence num="5">Heyetler arasında yapılacak görüşmelerde siyasi ,ekonomik ve kültürel ilişkilerin geliştirilmesinin yanı sıra savunma ve sınır güvenliği ,Irak'taki İran rejim karşıtlarının durumu ,kutsal mekanların ziyaretine karşılıklı izin verilmesi ve savaş tazminatı konularının ele alınması bekleniyor .</sentence>
+<sentence num="6">İran'ın Irak sanayisinin geliştirilmesine yardımcı olması ,petrol sanayisinin yeniden inşasına destek vermesi ,savunma anlaşmaları çerçevesinde Irak Silahlı Kuvvetleri'ne eğitim ve teçhizat desteği sağlaması ,iki ülke arasında kara ,hava ve demiryolu ulaşımının geliştirilmesi de görüşmelerde ele alınacak diğer konular arasında yer alıyor .</sentence>
+<sentence num="7">Ziyaret sırasında ,Irak'ın 1990'da Kuveyt'i işgalinden sonra İran'a sığınan ve bugüne kadar Uluslararası Tahran Mehrabad Havalimanı'nda bekletilen 5 Boeing tipi uçağının durumunun da gündeme geleceği ifade ediliyor .</sentence>
+<sentence num="8">Daha önce uçakları savaş tazminatı olarak değerlendiren İran ,uçakların iadesine sıcak bakıyor .</sentence>
+<sentence num="9">Görüşmelerde gündeme gelmesi beklenen konulardan Basra Abadan petrol boru hattı projesine göre ,günlük 150 bin varil ham petrol Irak'tan Abadan rafinerine ulaştırılacak ve aynı miktarda işlenmiş petrol de Basra'ya gönderilecek .</sentence>
+<sentence num="10">Projenin finansmanı iç ve uluslararası kaynaklar aracılığıyla İran tarafından sağlanacak .</sentence>
+<sentence num="11">Irak'ta Saddam Hüseyin yönetiminin devrilmesinden sonra ,1980'lerde 8 yıl süresince savaşan iki ülke arasındaki ilişkiler düzelme eğilimi gösterdi .</sentence>
+<sentence num="12">ABD'nin öncülük ettiği koalisyonun Irak'ı işgalinden sonra yönetimde güçlenen Şiiler ,İran ile ilişkileri geliştirmek için çaba harcıyor .</sentence>
+<sentence num="13">İki ülke arasındaki ilişkilerin düzelme sinyali vermesinden sonra İran Dışişleri Bakanı Kemal Harrazi ,mayıs ayı ortalarında Irak'ı ziyaret etmiş ,Irak Savunma Bakanı Sadun El Duleymi de bir süre önce üst düzey askeri yetkililerle İran'a resmi ziyarette bulunmuştu .</sentence>
+<sentence num="14">Heyetler arasında yapılan görüşmelerde ,savaştan sonra ilk kez askeri işbirliği yapılmasına karar verilmişti .</sentence>
+<sentence num="15">Irak Başbakanı Caferi'nin ziyareti daha önce iki kez çeşitli nedenlerle ertelenmişti .</sentence>
+</doc>
+<doc>
+<id>117602</id>
+<sentence num="0">2005 07 16 17 :14 :00 .Irak Başbakanı Caferi ,İran'da ...</sentence>
+<sentence num="1">Irak Başbakanı Caferi ,İran'da ...</sentence>
+<sentence num="2">Irak Başbakanı İbrahim Caferi ,resmi ziyaret amacıyla İran'ın başkenti Tahran'a gitti .</sentence>
+<sentence num="3">Caferi ,Sadabad Sarayı'nda Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif tarafından askeri törenle karşılandı .</sentence>
+<sentence num="4">Başbakan Caferi'ye ,aralarında Dışişleri Bakanı Hoşyar Zebari ve Savunma Bakanı Sadun El Duleymi'nin de bulunduğu 9 bakan eşlik ediyor .</sentence>
+</doc>
+<doc>
+<id>117603</id>
+<sentence num="0">2005 07 16 17 :15 :00 .Irak Başbakanı Caferi ,İran ...</sentence>
+<sentence num="1">Irak Başbakanı İbrahim Caferi ,resmi ziyaret amacıyla İran'ın başkenti Tahran'a geldi .</sentence>
+<sentence num="2">Caferi ,Sadabad Sarayı'nda Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif tarafından askeri törenle karşılandı .</sentence>
+<sentence num="3">Başbakan Caferi'ye ,aralarında Dışişleri Bakanı Hoşyar Zebari ve Savunma Bakanı Sadun El Duleymi'nin de bulunduğu 9 bakan eşlik ediyor .</sentence>
+<sentence num="4">Irak Başbakanı ,Cumhurbaşkanı Muhammed Hatemi ve Dışişleri Bakanı Kemal Harrazi ile görüşecek ,Ayetullah Humeyni'nin mezarını ziyaret edecek .</sentence>
+<sentence num="5">Caferi'nin İran ziyareti daha önce iki kez çeşitli nedenlerle ertelenmişti .</sentence>
+</doc>
+<doc>
+<id>117657</id>
+<sentence num="0">2005 07 16 19 :50 :00 .Irak Başbakanı Caferi ,İran'da .</sentence>
+<sentence num="1">Irak Başbakanı Caferi ,İran'da Irak Başbakanı İbrahim Caferi ,İran Irak ilişkilerinin geliştirilmesinin yalnızca iki ülke için değil ,bölge ve bütün dünya için faydalı olacağını söyledi .</sentence>
+<sentence num="2">Caferi ,Sadabad Sarayı'nda kendisi için düzenlenen karşılama töreninin ardından ,İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif'le gazetecilere açıklama yaptı .</sentence>
+</doc>
+<doc>
+<id>117660</id>
+<sentence num="0">2005 07 16 20 :01 :00 .Caferi :İran Irak ilişkisi yararlı olacak .</sentence>
+<sentence num="1">Caferi ,Sadabad Sarayı'nda kendisi için düzenlenen karşılama töreninin ardından ,İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif'le gazetecilere açıklama yaptı .</sentence>
+<sentence num="2">İran'la ikili ilişkileri geliştirmek istediklerini ve buna çok önem verdiklerini ifade eden Caferi ,''İran'la birçok ortak menfaatlerimiz var ,ancak Irak İran ilişkilerinin geliştirilmesi yalnızca iki ülke için değil ,bölge ve bütün dünya için faydalı olacak ''dedi .</sentence>
+<sentence num="3">İki ülke ilişkilerinin ''ortak çıkar ilkesine ''dayandığını ve ilişkileri geliştirmek için yapılacak çok şey olduğunu kaydeden Caferi ,''Bu yolda bizi birçok tehlike bekliyor ''diye konuştu .</sentence>
+<sentence num="4">Geçen yıllarda Irak'ın ''bir kriz merkezine ''dönüştüğünü ifade eden Caferi ,yaşanan bütün olumsuzlukların geçmişte kaldığını söyledi .''</sentence>
+<sentence num="5">IRAK'IN GÜVENLİĞİ ,KENDİ GÜVENLİĞİMİZDİR ''İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif de Irak'la tarihsel ,kültürel ,dini ve coğrafik birçok ortak noktalarının bulunduğunu belirtti .</sentence>
+<sentence num="6">Saddam Hüseyin döneminde ''birçok olumsuzluklar ''yaşandığını anımsatan Arif ,''Ama şimdi ilişkilerimiz çok iyi .</sentence>
+<sentence num="7">Biz mevcut Irak hükümetinin desteklenmesinden yanayız .</sentence>
+<sentence num="8">Çünkü bu hükümeti Irak halkı seçti ''diye konuştu .</sentence>
+<sentence num="9">İran Irak ilişkilerinin daha iyi noktalara taşınabileceğine işaret eden Arif ,bunun dünya ülkelerine örnek olabileceğini kaydetti .</sentence>
+<sentence num="10">İran'ın her alanda Irak hükümetine yardıma hazır olduğunu ifade eden Arif ,İran İslam Devrimi'nden sonra edindikleri tecrübeleri Irak'a aktarabileceklerini söyledi .''</sentence>
+<sentence num="11">Irak'ın güvenliğini kendi güvenliğimiz olarak algılıyoruz ''diyen Arif ,''Ziyaretiniz iki ülke münasebetlerinde yeni bir dönem başlatacak .</sentence>
+<sentence num="12">Saddam Hüseyin'in devrilmesinden sonra ilişkiler düzelmeye başlamıştı ,ama sizin ziyaretiniz bu ilişkileri daha iyi bir seviyeye taşıyacak ''dedi .</sentence>
+<sentence num="13">Irak Başbakanı Caferi'ye ,Dışişleri Bakanı Hoşyar Zebari ve Savunma Bakanı Sadun El Duleymi'nin yanı sıra petrol ,enerji ,turizm ,ulaştırma ,ticaret ,savunma sanayi bakanları da eşlik ediyor .</sentence>
+<sentence num="14">Caferi'nin Tahran ziyareti sırasında ,dini lider Ayetullah Ali Hamaney ,Cumhurbaşkanı Muhammed Hatemi ,24 Haziran'daki cumhurbaşkanlığı seçimlerini kazanan Mahmud Ahmedinecad ,Düzenin Yararını Teşhis Konseyi Başkanı Ali Ekber Haşimi Rafsancani ,İslami Şura Meclisi (parlamento )Başkanı Gulamali Haddad Adel ve Dışişleri Bakanı Kemal Harrazi ile görüşmesi bekleniyor .</sentence>
+<sentence num="15">Daha önce İran'a cumhurbaşkanı yardımcısı olarak birkaç kez gelen Caferi ,başbakan olduktan sonra İran'ı ilk kez ziyaret ediyor .</sentence>
+<sentence num="16">Irak'ta Saddam Hüseyin yönetiminin devrilmesinden sonra ,1980'lerde 8 yıl süresince savaşan iki ülke arasındaki ilişkiler düzelme eğilimi gösterdi .</sentence>
+<sentence num="17">ABD'nin öncülük ettiği koalisyonun Irak'ı işgalinden sonra yönetimde güçlenen Şiiler ,İran ile ilişkileri geliştirmek için çaba harcıyor .</sentence>
+<sentence num="18">İki ülke arasındaki ilişkilerin düzelme sinyali vermesinden sonra İran Dışişleri Bakanı Kemal Harrazi ,mayıs ayı ortalarında Irak'ı ziyaret etmiş ,Irak Savunma Bakanı Sadun El Duleymi de geçtiğimiz günlerde üst düzey askeri yetkililerle İran'a resmi ziyarette bulunmuştu .</sentence>
+</doc>
+<doc>
+<id>117691</id>
+<sentence num="0">2005 07 16 22 :06 :00 .İran Irak Arasında Yakınlaşma .</sentence>
+<sentence num="1">80'li yıllarda ,100 binlerce insanın yaşamına mal olan savaş dönemi yaşayan İran ve Irak ilişkileri onarma gayretinde .</sentence>
+<sentence num="2">Irak Başbakanı İbrahim Caferi geniş bir heyetle İran'a resmi bir ziyaret gerçekleştiriyor .</sentence>
+<sentence num="3">Caferi ,iki ülke arasındaki ilişkilerin geliştirilmesinin bölge ve bütün dünya için faydalı olacağını söyledi .</sentence>
+<sentence num="4">İbrahim Caferi ,Tahran'da İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif'le gazetecilere açıklamalarda bulundu .</sentence>
+<sentence num="5">Caferi ,İran'la ilikilerini geliştirmeye çalıştıklarını belirterek geçmişte yaşananlarını unuttuklarını söyledi .</sentence>
+<sentence num="6">Caferi ,İran'la birçok ortak menfaatlerimiz var ,ancak Irak İran ilişkilerinin geliştirilmesi yalnızca iki ülke için değil ,bölge ve bütün dünya için faydalı olacak dedi .</sentence>
+<sentence num="7">İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif de iki ülke arasındakmi ilişkilerin daha iyi noktalara taşınabileceğini belirterek ,bunun da dünya ülkelerine örnek olabileceğini kaydetti .</sentence>
+<sentence num="8">Arif ,her alanda Irak hükümetine yardıma hazır olduklarını da bildirdi .</sentence>
+</doc>
+<doc>
+<id>117705</id>
+<sentence num="0">2005 07 16 23 :01 :00 .İran :Saddam belgelerini verebiliriz .</sentence>
+<sentence num="1">Muhammed Rıza Arif ,Irak Başbakanı İbrahim Caferi ve heyet üyeleriyle Sadabad Sarayı'ndaki görüşmenin ardından yaptığı açıklamada ,Irak halkının istikrara ve birliğe yeni dönemde daha çok ihtiyacı olduğunu belirtti .</sentence>
+<sentence num="2">İki ülke ilişkilerinin geçmişte Saddam Hüseyin nedeniyle bozulduğunu ifade eden Arif ,''Saddam Hüseyin'in yargılanması için elimizde belgeler var .</sentence>
+<sentence num="3">Bu belgeleri uluslararası mahkemeye sunmaya hazırız ''dedi .</sentence>
+<sentence num="4">Irak'taki cezaevlerinde ABD askerleri tarafından tutuklanan İran vatandaşları bulunduğunu dile getiren Arif ,bunların serbest bırakılmasını istedi .</sentence>
+<sentence num="5">Arif ,yarın yapılacak heyetlerarası görüşmelerde başta petrol ,elektrik ,su ve bankacılık olmak üzere birçok alanda işbirliği anlaşması imzalanacağını kaydetti .</sentence>
+<sentence num="6">Irak Başbakanı Caferi de Saddam Hüseyin'in devrilmesiyle Irak'ta ''yeni bir dönemin ''başladığını ifade etti .</sentence>
+<sentence num="7">Irak'taki bazı şehirlerin İranlılar için kutsal olduğuna işaret eden Caferi ,''İki ülke halkı bundan sonra kutsal mekanları rahatça ziyaret edebilecekler ''diye konuştu .</sentence>
+<sentence num="8">İran'la her alanda işbirliği yapmaya hazır olduklarını ifade eden Caferi ,İran ve Irak makamları arasındaki karşılıklı ziyaretlerin ,''işbirliği ve dostluğun mesajı ,iki ülke halkının yakınlığının işareti ''olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>117811</id>
+<sentence num="0">2005 07 17 11 :41 :00 .Irak Başbakanı Caferi İran'da temaslarını sürdürüyor .</sentence>
+<sentence num="1">Irak Başbakanı Caferi İran'da temaslarını sürdürüyor Resmi ziyaret için İran'ın başkenti Tahran'da bulunan Irak Başbakanı İbrahim Caferi ,temaslarını sürdürüyor .</sentence>
+<sentence num="2">İran Cumhurbaşkanı Muhammed Hatemi ,Caferi'yi ,Sadabad Sarayı'nda kabul ederek ,bir süre görüştü .</sentence>
+<sentence num="3">Yalnızca görüntü alınmasına izin verilen görüşmede ,İran Dışişleri Bakanı Kemal Harrazi ile Irak Dışişleri Bakanı Hoşyar Zebari ,Savunma Bakanı Sadun El Duleymi ve Irak heyetindeki diğer bakanlar da hazır bulundu .</sentence>
+<sentence num="4">Bu arada Caferi ,sabah saatlerinde Ayetullah İmam Musevi Humeyni'nin mezarını ziyaret ederek ,çelenk bıraktı ve özel defteri imzaladı .</sentence>
+</doc>
+<doc>
+<id>117962</id>
+<sentence num="0">2005 07 17 19 :17 :00 .Hatemi :Özgür ,bağımsız ve gelişmiş bir Irak istiyoruz .</sentence>
+<sentence num="1">Hatemi :Özgür ,bağımsız ve gelişmiş bir Irak istiyoruz İran Cumhurbaşkanı Muhammed Hatemi ,özgür ,bağımsız ve gelişmiş bir Irak istediklerini söyledi .</sentence>
+<sentence num="2">Hatemi ,resmi ziyaret için Tahran'da bulunan Irak Başbakanı İbrahim Caferi'yi kabulünün ardından yaptığı açıklamada ,iki ülkenin güvenlik ,istikrar ve ilerlemesinin birbirine bağlı olduğunu belirtti .''</sentence>
+<sentence num="3">Biz ,özgür ,bağımsız ve gelişmiş bir Irak istiyoruz ''diyen Hatemi ,Irak toplumunun kültürel kriterleri paralelinde demokratik bir sistem oluşturulmasının ''ızdırap çeken Irak halkının ''yararına olacağını ifade etti .</sentence>
+<sentence num="4">Hatemi ,''Irak'ın düşmanları ,ülkedeki güvensizlik ortamını sürdürmek isteseler de Irak'ın yapılandırılması ve istikrarının sağlanmasında bütün gücümüzü kullanacağız ''dedi .</sentence>
+<sentence num="5">Saddam Hüseyin yönetiminin kendilerine ''çok zarar verdiğini ''anımsatan Hatemi ,Caferi'nin ziyaretinin ''karşılıklı ilişkilerde bir dönüm noktası ve geçmiş dönemdeki olumsuzlukların giderilmesine vesile olmasını ''temenni etti .</sentence>
+<sentence num="6">Irak Başbakanı Caferi de ülkesindeki güvenlik ve istikrarın sağlanmasının bölgedeki bütün ülkelerin yararına olacağını vurguladı .</sentence>
+<sentence num="7">Irak'ta son dönemdeki siyasi gelişmelere değinen Caferi ,''Biz yeni bir başlangıcın eşiğindeyiz ''diye konuştu .</sentence>
+<sentence num="8">Caferi ,yeni bir anayasa için oluşturulan komisyonun bu çerçevede birçok olumlu adım attığını söyledi .</sentence>
+<sentence num="9">Irak'ta masum insanlara karşı yapılan ,çoğunlukla da kadın ve çocukların öldüğü terörist saldırılara dikkat çeken Caferi ,bölgedeki ülkelerin ve bütün dünyanın terörizme karşı evrensel bir mücadele yürütmeleri gerektiğine dikkat çekti .</sentence>
+<sentence num="10">Geçmişte iki ülke arasında olumsuzluklar yaşandığını hatırlatan Caferi ,''Ben Saddam'ın zulmünü anlıyorum ama o Irak halkının temsilcisi değildi ''diye konuştu .</sentence>
+<sentence num="11">DİĞER GÖRÜŞMELER Caferi ,İran İslami Şura Meclisi Başkanı Gulamali Haddad Adel'i de ziyaret etti .</sentence>
+<sentence num="12">Haddad Adel ,yaptığı konuşmada ,ziyaretin ''Tahran Bağdat arasında kuvvetlenen bağların ''bir göstergesi olduğunu söyledi .</sentence>
+<sentence num="13">Parlamentoların ikili ilişkilerin geliştirilmesindeki konumuna işaret eden Haddad Adel ,İran meclisinin Irak Ulusal Meclisi ile işbirliğine hazır olduğunu kaydetti .</sentence>
+<sentence num="14">Caferi ,Düzenin Yararını Teşhis Konseyi Başkanı Ali Ekber Haşimi Rafsancani ile de bir araya gelerek ,bir süre görüştü .</sentence>
+<sentence num="15">Bu arada ,iki ülke heyetleri arasında görüşmeler yapıldı ve çeşitli alanlarda karşılıklı işbirliği anlaşması imzalandı .</sentence>
+<sentence num="16">İran Ticaret Bakanı Muhammed Şeriatmedari ile Iraklı meslektaşı Abdulbasit Kerim Mevlud başkanlığındaki ticari görüşmelerde ,iki ülke arasındaki ticaretin artırılması ,ticari vizenin kolaylaştırılması ,altyapı projelerinde ortak yatırım yapılması ,özel fuarların açılması konularında anlaşmaya varıldı .</sentence>
+<sentence num="17">Görüşmelerde ,iki ülke arasında serbest ticaret anlaşması imzalandı ve İran'ın Bağdat'ta ticari temsilcilik açması kararlaştırıldı .</sentence>
+<sentence num="18">Diğer heyetlerarası görüşmelerde de ulaştırma ,sanayi ,maden ,finans ,taşımacılık ,enerji ,İran'da yaşayan Iraklı göçmenler konuları değerlendirildi ve İran'ın Irak'a otomotiv ,çimento ,çelik ,petrokimya ürünlerini ithal etmesi yönünde görüş birliğine varıldı .</sentence>
+<sentence num="19">Tahran ziyaretini bu akşam yapacağı temaslarla tamamlayacak Caferi ,yarın sabah İran'dan ayrılacak .</sentence>
+</doc>
+<doc>
+<id>118005</id>
+<sentence num="0">2005 07 17 23 :02 :00 .İran ve Irak iki ülke sınırına yakın kentlerde konsolosluk açacak .</sentence>
+<sentence num="1">İran ve Irak iki ülke sınırına yakın kentlerde konsolosluk açacak Irak Başbakanı İbrahim Caferi ,resmi ziyaret için bulunduğu İran'ın başkenti Tahran'da temaslarını sürdürüyor .</sentence>
+<sentence num="2">İran Dışişleri Bakanı Kemal Harrazi ile görüşen Caferi ,daha sonra yaptığı açıklamada ,iki ülke arasında derin tarihi ve coğrafi ilişkiler bulunduğunu ,bu ilişkileri sürekli hale getirmek istediklerini söyledi .''</sentence>
+<sentence num="3">Yaptığımız görüşmeler sonunda iki ülke halkına büyük bir hediye sunacağımıza inanıyorum ''diyen Caferi ,hükümet olarak bütün alanlarda yapılan görüşmelerden ''iyi bir sonuç ''elde ettiklerini kaydetti .</sentence>
+<sentence num="4">İran Dışişleri Bakanı Kemal Harrazi de Irak ile işbirliği yapmak ve mevcut hükümeti desteklemenin dış politikalarının temel unsurlarından biri olduğunu ifade etti .</sentence>
+<sentence num="5">Enerji ,ticaret ,ulaştırma ,petrol ürünleri alışverişi ve turizm konuları üzerinde ciddiyetle durulduğunu belirten Harrazi ,tüm görüşmeleri ve imzalanan anlaşmaları olumlu olarak değerlendirdi .</sentence>
+<sentence num="6">Saddam Hüseyin zamanında bazı sıkıntılar yaşandığını anımsatan Harrazi ,''Irak hükümeti ,Saddam ve rejiminin diğer sorumlularını yargılayarak ,iki ülke halkına ve bölge ülkelerine teselli verebilir ''dedi .</sentence>
+<sentence num="7">Harrazi ,iki ülke sınırına yakın bazı şehirlerde karşılıklı konsolosluk açılmasına karar verildiğini bildirdi .</sentence>
+<sentence num="8">Caferi'nin Tahran ziyareti sırasında ,Dini Lider Ayetullah Ali Hamaney ve 9 .cumhurbaşkanlığı seçimlerinin galibi Mahmud Ahmedinecad ile de görüşmesi beklendiği ,ancak henüz bu görüşmelerin kesinlik kazanmadığı ifade ediliyor .</sentence>
+<sentence num="9">Irak heyetinin ,Dini Lider Hamaney ile görüşmeye büyük önem verdiği belirtiliyor .</sentence>
+<sentence num="10">Irak Başbakanı Caferi ,yarın sabah İran'dan ayrılacak .</sentence>
+</doc>
+<doc>
+<id>118056</id>
+<sentence num="0">2005 07 18 08 :20 :00 .İran Irak ilişkilerinde yeni dönem .</sentence>
+<sentence num="1">Hatemi ve Caferi'nin görüşmesi sıcak bir havada geçti Irak'ta Şiilerin ülke yönetimine gelmesinden sonra İran ile yakınlaşma sürüyor .</sentence>
+<sentence num="2">Irak Başbakanı İbrahim El Caferi ,yıllar sonra İran'ı ziyaret eden ilk Iraklı üst düzey yetkili oldu .</sentence>
+<sentence num="3">Caferi ,İran Cumhurbaşkanı Muhammed Hatemi ile görüştü .</sentence>
+<sentence num="4">Hatemi ,Sadabad Sarayı'ndaki görüşmenin ardından yaptığı açıklamada ,bağımsız ve gelişmiş bir Irak istiyoruz dedi .</sentence>
+<sentence num="5">İran Cumhurbaşkanı ,Irak'ın düşmanları ,ülkedeki güvensizlik ortamını sürdürmek isteseler de Irak'ın yapılandırılması ve istikrarının sağlanmasında bütün gücümüzü kullanacağız diye konuştu .</sentence>
+<sentence num="6">Caferi de ülkesindeki güvenlik ve istikrarın sağlanmasının bölgedeki bütün ülkelerin yararına olacağını vurguladı .</sentence>
+<sentence num="7">İran Bağdat'ta temsilcilik açıyor Irak Başbakanı'na 12 bakan da eşlik ediyor .</sentence>
+<sentence num="8">Görüşmelerde ,iki ülke arasında serbest ticaret anlaşması imzalandı ve İran'ın Bağdat'ta ticari temsilcilik açması kararlaştırıldı .</sentence>
+<sentence num="9">Heyetlerarası görüşmelerde İran'ın Irak'a gıda ,otomotiv ,çimento ,çelik ,petrokimya ürünlerini ithal etmesi yönünde de görüş birliğine varıldı .</sentence>
+<sentence num="10">Temaslarını İran Dışişleri Bakanı Kemal Harrazi ile yapacağı görüşmeyle tamamlayacak olan Caferi ,bu sabah İran'dan ayrılacak .</sentence>
+</doc>
+<doc>
+<id>118270</id>
+<sentence num="0">2005 07 18 13 :00 :00 .Caferi :İran makamlarıyla olumlu görüşmeler yaptık .</sentence>
+<sentence num="1">Caferi :İran makamlarıyla olumlu görüşmeler yaptık Irak Başbakanı İbrahim Caferi ,resmi ziyaret için bulunduğu Tahran'da İran makamlarıyla olumlu görüşmeler yaptığını söyledi .</sentence>
+<sentence num="2">Caferi ,İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif ile düzenlediği basın toplantısında ,İran ile ilişkilerin geliştirilmesine çok önem verdiklerini ,ziyareti kabinenin 9 üyesiyle birlikte yapmasının bunun bir işareti olduğunu belirtti .</sentence>
+<sentence num="3">Ekonomi ,ticaret ,politika ,Irak'ın yapılandırılması ve terörizmle mücadele konularında komisyonlar oluşturulduğunu kaydeden Caferi ,başta petrol ve elektrik olmak üzere birçok alanda heyetlerarası görüşmeler yapıldığını ifade etti .</sentence>
+</doc>
+<doc>
+<id>118273</id>
+<sentence num="0">2005 07 18 13 :05 :00 .Irak ve İran arasında petrol boru hattı anlaşması ...</sentence>
+<sentence num="1">Irak Başbakanı İbrahim Caferi ,resmi ziyaret için bulunduğu Tahran'da İran makamlarıyla olumlu görüşmeler yaptığını söyledi .</sentence>
+<sentence num="2">Caferi ,İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif ile düzenlediği basın toplantısında ,İran ile ilişkilerin geliştirilmesine çok önem verdiklerini ,ziyareti kabinenin 9 üyesiyle birlikte yapmasının bunun bir işareti olduğunu belirtti .</sentence>
+<sentence num="3">Ekonomi ,ticaret ,politika ,Irak'ın yapılandırılması ve terörizmle mücadele konularında komisyonlar oluşturulduğunu kaydeden Caferi ,başta petrol ve elektrik olmak üzere birçok alanda heyetlerarası görüşmeler yapıldığını ifade etti .</sentence>
+<sentence num="4">Irak'ın ''hassas bir konumda ''olduğuna işaret eden Caferi ,terörizmin bölgesel bir sorun olduğunu ,bu nedenle terörizmle mücadele konusunun da görüşmelerde gündeme geldiğini bildirdi .</sentence>
+<sentence num="5">Tahran ziyareti sırasında ,Cumhurbaşkanı Muhammed Hatemi ,Meclis Başkanı Gulamali Haddad Adel ,Düzenin Yararını Teşhis Heyeti Başkanı Ali Ekber Haşimi Rafsancani ve 9 .cumhurbaşkanlığı seçimlerini kazanan Mahmud Ahmedinecad ile görüştüğünü belirten Caferi ,görüşmelerin olumlu geçtiğini söyledi .</sentence>
+<sentence num="6">MUHAMMED RIZA ARİF İran Cumhurbaşkanı Birinci Yardımcısı Muhammed Rıza Arif de samimi bir ortamda görüştüklerini kaydetti .</sentence>
+<sentence num="7">Irak hükümetine sorunların çözümü için yardımcı olacaklarını belirten Arif ,''Bağımsızlığın sağlanmasıyla Irak halkının sorunları büyük oranda çözülmüş olacak ''dedi .</sentence>
+<sentence num="8">Görüşmelerde ,iki ülke bakanları arasında ortak yatırım anlaşmaları imzalandığını ,özellikle elektrik konusunda anlaşmaya varıldığını belirten Arif ,Irak'ta elektrik santralı kuracaklarını söyledi .</sentence>
+<sentence num="9">Arif ,anlaşmalar yapıldıktan 10 gün sonra bakan yardımcıları düzeyinde bir komisyonu kurularak ,imzalanan anlaşmaların ciddiyetle takip edileceğini belirtti .</sentence>
+<sentence num="10">BASRA ABADAN PETROL BORU HATTI Görüşmelerde gündeme gelen konular arasında yer alan Basra Abadan petrol boru hattı projesi konusunda anlaşmaya varıldı .</sentence>
+<sentence num="11">Buna göre ,ilgili anlaşmanın imzalanmasından sonra santral inşaatının 10 ay içinde başlaması ve 2006'da faaliyete geçmesi planlanıyor .</sentence>
+<sentence num="12">Boru hattının faaliyete geçmesiyle günlük 150 bin varil ham petrol Basra'dan Abadan'a aktarılacak ,aynı miktarda işlenmiş petrol de Basra'ya ulaştırılacak .</sentence>
+<sentence num="13">Finansmanı İran tarafından sağlanacak projenin ayrıntılarına ilişkin gelecek ay ayrı bir anlaşma imzalanacak .</sentence>
+<sentence num="14">İşbirliği anlaşmaları için bugün yapılması planlanan imza töreni ,anlaşmaların uzmanlarca ayrıntılı olarak incelenmesi için yarına ertelendi .</sentence>
+<sentence num="15">Bu arada ,Tahran'dan bugün ayrılacağı belirtilen Caferi'nin programında değişiklik yapıldığı bildirildi .</sentence>
+<sentence num="16">Dini lider Ayetullah Ali Hamaney ile görüşmek için Cumhurbaşkanı Birinci Yardımcısı Arif'le Meşhed'e giden Caferi'nin İran'dan yarın ayrılacağı tahmin ediliyor .</sentence>
+</doc>
+<doc>
+<id>118570</id>
+<sentence num="0">2005 07 18 21 :38 :00 .Caferi ,Hamaney ile görüştü .</sentence>
+<sentence num="1">Caferi ,Hamaney ile görüştü İran dini lideri Ayetullah Ali Hamaney ,ABD'nin Irak'ta bulunmasının Irak ve bölge halkı için ''eziyet kaynağı ''olduğunu söyledi .</sentence>
+<sentence num="2">Resmi ziyaret için İran'da bulunan Irak Başbakanı İbrahim Caferi ',İran dini lideri Ayetullah Ali Hamaney ile Meşhed'de görüştü .</sentence>
+<sentence num="3">Hamaney ,görüşmede yaptığı konuşmada ,İran ve Irak halkının ''kardeş ''olduğunu vurguladı .</sentence>
+<sentence num="4">İki ülke halkının Saddam Hüseyin ve yönetiminden ''nefret ettiklerini ''dile getiren Hamaney ,''Saddam'ın devrilmesi İranlıları da en az Irak halkı kadar sevindirdi ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>118574</id>
+<sentence num="0">2005 07 18 21 :45 :00 .Irak Başbakanı Caferi İran'da ...</sentence>
+<sentence num="1">İran dini lideri Ayetullah Ali Hamaney ,ABD'nin Irak'ta bulunmasının Irak ve bölge halkı için eziyet kaynağı olduğunu söyledi .</sentence>
+<sentence num="2">Resmi ziyaret için İran'da bulunan Irak Başbakanı İbrahim Caferi ',İran dini lideri Ayetullah Ali Hamaney ile Meşhed'de görüştü .</sentence>
+<sentence num="3">Hamaney ,görüşmede yaptığı konuşmada ,İran ve Irak halkının kardeş olduğunu vurguladı .</sentence>
+<sentence num="4">İki ülke halkının Saddam Hüseyin ve yönetiminden nefret ettiklerini dile getiren Hamaney ,Saddam'ın devrilmesi İranlıları da en az Irak halkı kadar sevindirdi diye konuştu .</sentence>
+<sentence num="5">Yeni Irak'ın ilerlemesine karşı olan bazı güçlerin ülkede terör olayları çıkararak istikrarın sağlanmasını engellediklerini belirten Hamaney ,Irak'ta güvensizlik ortamı oluşturan terör saldırılarında siyonistlerin parmağı olduğunu söyledi .</sentence>
+<sentence num="6">ABD'nin Irak'ta bulunmasını Irak ve bölge halkı için eziyet kaynağı olarak nitelendiren Hamaney ,Yeni Irak hükümetinin İslam dünyasında birçok taraftarı var .</sentence>
+<sentence num="7">Bütün Müslüman ülkeler ,ABD'nin Irak'ta bulunmasından rahatsız dedi .</sentence>
+<sentence num="8">Yeni bir anayasa oluşturulmasının Irak'ın en önemli sorunlarından biri olduğuna işaret eden Hamaney ,Irak halkının İslam eksenli bir anayasa istediğini söyledi ve milletvekillerinin bu yönde karar alacaklarından umutlu olduğunu kaydetti .</sentence>
+<sentence num="9">Irak Başbakanı Caferi de İran ziyaretinden ve özellikle dini lider Hamaney ile görüşmesinden duyduğu memnuniyeti dile getirdi .</sentence>
+<sentence num="10">İran'ın yaptığı yardımlar için teşekkür eden Caferi ,öncelik verdikleri konuların altyapının halledilmesi ve ekonomik sorunların çözülmesi olduğunu belirtti .</sentence>
+<sentence num="11">Irak'ta son günlerde meydana gelen şiddetli terör saldırılarına da değinen Caferi ,bu saldırıları komplo olarak nitelendirdi ve saldırılara rağmen güvenlik ortamının kısa sürede oluşacağını söyledi .</sentence>
+<sentence num="12">Irak Başbakanı Caferi ,İran'dan yarın ayrılacak .</sentence>
+</doc>
+<doc>
+<id>119041</id>
+<sentence num="0">2005 07 19 16 :59 :00 .İran ve Irak Arasında İşbirliği .</sentence>
+<sentence num="1">İran ve Irak ,ham petrole karşılık ,benzin ve gaz yağı alışverişini sağlayacak anlaşmayı imzaladı .</sentence>
+<sentence num="2">Irak Başbakanı İbrahim Caferi'nin İran'daki temasları sonrasında sağlanan anlaşmaya göre ,Irak günde 150 bin varil ham petrolü İran'ın güneybatısındaki Abadan rafinerisine gönderecek .</sentence>
+<sentence num="3">İran da bunun karşılığında Irak'a benzin ,gazyağı ve kerosen verecek .</sentence>
+<sentence num="4">Irak petrol bakanı Bahr El Ulom ,iki ülke arasında petrol boru hattının inşasına başlanacağını ve bunun en fazla 6 ay süreceğini bildirdi .</sentence>
+</doc>
+<doc>
+<id>162096</id>
+<sentence num="0">2005 10 06 22 :05 :00 .İran'dan İngiltere'ye Yalanlama .</sentence>
+<sentence num="1">Tahran yönetimi ,Irak'taki İngiliz askerlerine yönelik saldırılara İranlılar'ın karıştığı iddialarını yalanladı .</sentence>
+<sentence num="2">İran Dışişleri Bakanlığı sözcüsü Hamid Rıza Asefi ,devlet televizyonuna yaptığı açıklamada ,İngiltere Başbakanı Tony Blair'in İran ile ilgili ifadelerini yersiz bulduğunu söyledi .</sentence>
+<sentence num="3">İngiliz yetkililerden ellerinde belge varsa açıklamalarını isteyen Asefi ,İngiltere ,kamuoyunu yanıltmak için İran aleyhine bu iddiaları ortaya atıyor dedi .</sentence>
+<sentence num="4">Irak Başbakanı İbrahim Caferi de İran televizyonuna yaptığı açıklamada ,İran ve Irak arasındaki mevcut sağlam ilişkilerden gurur duyduklarını söyledi .</sentence>
+<sentence num="5">Bazı ülkelerin İran ve Irak arasındaki dostane ilişkileri bozmak istediğini ifade eden Caferi ,buna izin vermeyeceklerini belirtti .</sentence>
+<sentence num="6">Blair ,Irak Devlet Başkanı Celal Talabani ile düzenlediği basın toplantısında ,son zamanlarda Irak'taki koalisyon güçlerine yönelik saldırılarda yeni bir patlayıcının kullanıldığını ,bu patlayıcının yapısının İran'dan ya da Hizbullah'tan kuşku duyulmasına yol açtığını söylemişti .</sentence>
+</doc>

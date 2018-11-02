@@ -1,0 +1,752 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 01 06 10 :50 :00 .memurlara derece artışı geliyor ..</sentence>
+<sentence num="1">memurlara derece artışı geliyor hükümet ,1 milyon dolayındaki devlet memuruna 1 derece artışı veriyor .</sentence>
+<sentence num="2">bir sosyal güvenlik kuruluşundan maaş alanlara ,ayrıca yetim aylığı bağlanması uygulamasına ise son veriliyor .</sentence>
+<sentence num="3">657 sayılı devlet memurları kanunu'nda değişiklik yapan yasa taslağına ilişkin çalışmalar tamamlandı .</sentence>
+<sentence num="4">önümüzdeki günlerde tbmm'ye sunulması planlanan 40 maddelik düzenlemeyle ,1991 yılından sonra işbaşı yapan devlet memurlarının ,bulundukları derecelerden 1 üst dereceye çıkması sağlanıyor .</sentence>
+<sentence num="5">taslakta ,bu durumdaki devlet memurlarına ,15 şubat 2005 tarihinden itibaren 1 derece verilmesi öngörülürken ,hükümetin buna ilişkin kanunun kısa sürede çıkarılması halinde ,derece yükseltme işlemini 15 ocak'a çekebileceği belirtiliyor .</sentence>
+</doc>
+<doc>
+<id>2722</id>
+<sentence num="0">2005 01 06 11 :20 :00 .Memura derece müjdesi ...</sentence>
+<sentence num="1">Yetim aylıkları da yeniden düzenleniyor ...</sentence>
+<sentence num="2">Hükümet ,1 milyon dolayındaki devlet memuruna 1 derece artışı veriyor .</sentence>
+<sentence num="3">Bir sosyal güvenlik kuruluşundan maaş alanlara ,ayrıca yetim aylığı bağlanması uygulamasına ise son veriliyor .</sentence>
+<sentence num="4">Edinilen bilgiye göre ,657 Sayılı Devlet Memurları Kanunu'nda değişiklik yapan yasa taslağına ilişkin çalışmalar tamamlandı .</sentence>
+<sentence num="5">Önümüzdeki günlerde TBMM'ye sunulması planlanan 40 maddelik düzenlemeyle ,1991 yılından sonra işbaşı yapan devlet memurlarının ,bulundukları derecelerden 1 üst dereceye çıkması sağlanıyor .</sentence>
+<sentence num="6">Taslakta ,bu durumdaki devlet memurlarına ,15 Şubat 2005 tarihinden itibaren 1 derece verilmesi öngörülürken ,hükümetin buna ilişkin Kanunun kısa sürede çıkarılması halinde ,derece yükseltme işlemini 15 Ocak'a çekebileceği belirtiliyor .</sentence>
+<sentence num="7">Derece artışı ,konsolide bütçeli kuruluşlar ile KİT ve belediyelerde 1991 sonrası işe başlayan 1 milyon dolayında devlet memurunu ilgilendiriyor .</sentence>
+<sentence num="8">1 milyon devlet memuruna 1 derece verilmesi ile ortaya çıkacak maaş artışının bütçeye yıllık faturası da 200 ile 250 trilyon lira arasında hesaplanıyor .</sentence>
+<sentence num="9">Bunun 25 ile 50 trilyon lira arasındaki bölümünün KİT'ler ve belediyelerden kaynaklanacağı ifade ediliyor .</sentence>
+<sentence num="10">YETİM AYLIKLARINA YENİ DÜZEN Bu arada aynı taslakta yeralan bir başka düzenlemeyle ,yetim aylığı bağlanmasına ilişkin esaslarda değişikliğe gidiliyor ve herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son buluyor .</sentence>
+<sentence num="11">SSK ,Bağ Kur ,Emekli Sandığı ve Bankaların Sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarını saklı tutan düzenleme ,halen bu durumda olanların bundan sonra da yetim aylığı almaya devam etmesini hükme bağlıyor .</sentence>
+<sentence num="12">Taslağa göre ,yeni Kanunun yürürlüğe girmesinden sonra kendisi emekli ya da dul aylığı alırken ,bir de ölen anne ve babasından yetim aylığı bağlanabilecek kişiler ,artık yetim aylığını alamayacak .</sentence>
+<sentence num="13">Ancak bağlanacak yaşlılık aylığı ,diğer aylıktan daha düşükse ,hak sahibi bundan vazgeçebilecek .</sentence>
+<sentence num="14">Bu kişinin talepte bulunması halinde ,yaşlılık aylığı yerine kendisine daha yüksek olan yetim aylığı bağlanabilcek .</sentence>
+<sentence num="15">Getirilen yeni sistem ,örneklerle şöyle uygulanacak .</sentence>
+<sentence num="16">Bir ev kadını ,eşi vefat ettiği için SSK'dan dul aylığı alıyor .</sentence>
+<sentence num="17">Daha sonra Emekli Sandığı'ndan emekli aylığı alan babasını da kaybediyor .</sentence>
+<sentence num="18">Mevcut sistemde ,bu kişiye eşinin dul aylığının yanı sıra babasından yetim aylığı da bağlanıyor .</sentence>
+<sentence num="19">Yeni sistemde ,iki kuruluştan birden aylık alınamayacak .</sentence>
+<sentence num="20">Ancak babadan bağlanacak yetim aylığı daha yüksek ise kişi ,eşinin dul aylığından feragat edip ,babasının yetim aylığını alabilecek .</sentence>
+<sentence num="21">Bekar bayan .</sentence>
+<sentence num="22">Emekli Sandığı'ndan emekli olmuş .</sentence>
+<sentence num="23">Bir süre sonra Bağ Kur'dan emekli aylığı alan babasını kaybediyor .</sentence>
+<sentence num="24">Mevcut sistemde babasından yetim aylığı bağlanıyor .</sentence>
+<sentence num="25">Yeni Kanun çıktıktan sonra ,artık bunu alamayacak .</sentence>
+<sentence num="26">İLGİLİ KANUNLARA TAŞIMA 2005 yılı Bütçe Kanunu'nda yer alan doğum ve çocuk yardımlarındaki artış da ,taslak ile ilgili Kanununa taşınıyor .</sentence>
+<sentence num="27">Yine taslakta ,istisnalar dışında herhangi bir sosyal güvenlik kurumundan emeklilik ya da yaşlılık aylığı alanların ,belirlenen kurum ve kuruluşların kadrolarına açıktan atanamaması ve herhangi bir sosyal güvenlik kurumundan emeklilik veya yaşlılık aylığı alanların ,bu aylıkları kesilmeksizin kamuda görev alamamasına ilişkin Bütçe hükmü de ilgili Kanuna alınıyor .</sentence>
+</doc>
+<doc>
+<id>2787</id>
+<sentence num="0">2005 01 06 12 :56 :00 .Memurlara derece artışı Artışının aylıklara etkisi 20 milyon lira civarında olacak .</sentence>
+<sentence num="1">Uygulamadan 1991 yılından sonra işbaşı yapan devlet memurları yararlanacak Hükümet ,bir milyon dolayındaki devlet memuruna 1 derece artışı veriyor .</sentence>
+<sentence num="2">Bir sosyal güvenlik kuruluşundan maaş alanlara ,ayrıca yetim aylığı bağlanması uygulamasına ise son veriliyor .</sentence>
+<sentence num="3">657 Sayılı Devlet Memurları Kanunu'nda değişiklik yapan yasa taslağına ilişkin çalışmalar tamamlandı .</sentence>
+<sentence num="4">Önümüzdeki günlerde TBMM'ye sunulması planlanan 40 maddelik düzenlemeyle ,1991 yılından sonra işbaşı yapan devlet memurlarının ,bulundukları derecelerden 1 üst dereceye çıkması sağlanıyor .</sentence>
+<sentence num="5">Bütçeye faturası 200 250 trilyon lira Derece artışı ,konsolide bütçeli kuruluşlar ile KİT ve belediyelerde 1991 sonrası işe başlayan 1 milyon dolayında devlet memurunu ilgilendiriyor .</sentence>
+<sentence num="6">1 milyon devlet memuruna 1 derece verilmesi ile ortaya çıkacak maaş artışının bütçeye yıllık faturası da 200 ile 250 trilyon lira arasında hesaplanıyor .</sentence>
+<sentence num="7">Derce artışının maaşlara yansımasının ise aylık 20 milyon TL seviyesinde olması bekleniyor .</sentence>
+<sentence num="8">Çift maaş uygulamasına son Bu arada aynı taslakta yer alan bir başka düzenlemeyle ,yetim aylığı bağlanmasına ilişkin esaslarda değişikliğe gidiliyor ve herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son buluyor .</sentence>
+<sentence num="9">SSK ,Bağ Kur ,Emekli Sandığı ve Bankaların Sandıklarından yaşlılık yada dul ve yetim aylığı alanların kazanılmış haklarını saklı tutan düzenleme ,halen bu durumda olanların bundan sonra da yetim aylığı almaya devam etmesini hükme bağlıyor .</sentence>
+<sentence num="10">Taslağa göre ,yeni Kanun'un yürürlüğe girmesinden sonra kendisi emekli yada dul aylığı alırken ,bir de ölen anne ve babasından yetim aylığı bağlanabilecek kişiler ,artık yetim aylığını alamayacak .</sentence>
+<sentence num="11">Ancak bağlanacak yaşlılık aylığı ,diğer aylıktan daha düşükse ,hak sahibi bundan vazgeçebilecek .</sentence>
+</doc>
+<doc>
+<id>2830</id>
+<sentence num="0">2005 01 06 13 :42 :00 .Memura derece müjdesi .</sentence>
+<sentence num="1">Bir sosyal güvenlik kuruluşundan maaş alanlara da ayrıca yetim aylığı bağlanamayacak .</sentence>
+<sentence num="2">Önümüzdeki günlerde TBMM'ye sunulması planlanan düzenlemeyle ,1991 yılından sonra işbaşı yapan devlet memurlarının ,bulundukları derecelerden 1 üst dereceye çıkması sağlanıyor .</sentence>
+<sentence num="3">Taslakta ,bu durumdaki devlet memurlarına ,15 Şubat 2005 tarihinden itibaren 1 derece verilmesi öngörülürken ,hükümetin buna ilişkin Kanunun kısa sürede çıkarılması halinde ,derece yükseltme işlemini 15 Ocak'a çekebileceği belirtiliyor .</sentence>
+<sentence num="4">Derece artışı ,konsolide bütçeli kuruluşlar ile KİT ve belediyelerde 1991 sonrası işe başlayan 1 milyon dolayında devlet memurunu ilgilendiriyor .</sentence>
+<sentence num="5">1 milyon devlet memuruna 1 derece verilmesi ile ortaya çıkacak maaş artışının bütçeye yıllık faturası da 200 ile 250 trilyon lira arasında hesaplanıyor .</sentence>
+<sentence num="6">Bunun 25 ile 50 trilyon lira arasındaki bölümünün KİT'ler ve belediyelerden kaynaklanacağı ifade ediliyor .</sentence>
+<sentence num="7">YETİM AYLIKLARINA YENİ DÜZEN Aynı taslakta yeralan bir başka düzenlemeyle ,herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son buluyor .</sentence>
+<sentence num="8">SSK ,Bağ Kur ,Emekli Sandığı ve Bankaların Sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarını saklı tutan düzenleme ,halen bu durumda olanların bundan sonra da yetim aylığı almaya devam etmesini hükme bağlıyor .</sentence>
+<sentence num="9">Taslağa göre ,yeni Kanunun yürürlüğe girmesinden sonra kendisi emekli ya da dul aylığı alırken ,bir de ölen anne ve babasından yetim aylığı bağlanabilecek kişiler ,artık yetim aylığını alamayacak .</sentence>
+<sentence num="10">Ancak bağlanacak yaşlılık aylığı ,diğer aylıktan daha düşükse ,hak sahibi bundan vazgeçebilecek .</sentence>
+<sentence num="11">Bu kişinin talepte bulunması halinde ,yaşlılık aylığı yerine kendisine daha yüksek olan yetim aylığı bağlanabilcek .</sentence>
+<sentence num="12">Getirilen yeni sistem ,örneklerle şöyle uygulanacak :Bir ev kadını ,eşi vefat ettiği için SSK'dan dul aylığı alıyor .</sentence>
+<sentence num="13">Daha sonra Emekli Sandığı'ndan emekli aylığı alan babasını da kaybediyor .</sentence>
+<sentence num="14">Mevcut sistemde ,bu kişiye eşinin dul aylığının yanı sıra babasından yetim aylığı da bağlanıyor .</sentence>
+<sentence num="15">Yeni sistemde ,iki kuruluştan birden aylık alınamayacak .</sentence>
+<sentence num="16">Ancak babadan bağlanacak yetim aylığı daha yüksek ise kişi ,eşinin dul aylığından feragat edip ,babasının yetim aylığını alabilecek .</sentence>
+<sentence num="17">Bekar bayan .</sentence>
+<sentence num="18">Emekli Sandığı'ndan emekli olmuş .</sentence>
+<sentence num="19">Bir süre sonra Bağ Kur'dan emekli aylığı alan babasını kaybediyor .</sentence>
+<sentence num="20">Mevcut sistemde babasından yetim aylığı bağlanıyor .</sentence>
+<sentence num="21">Yeni Kanun çıktıktan sonra ,artık bunu alamayacak .</sentence>
+</doc>
+<doc>
+<id>3239</id>
+<sentence num="0">2005 01 07 09 :09 :00 .1 milyon memura derece müjdesi .</sentence>
+<sentence num="1">Hükumet ,1 milyon dolayındaki devlet memuruna 1 derece artışı veriyor .</sentence>
+<sentence num="2">Bir sosyal güvenlik kuruluşundan maaş alanlara ,ayrıca yetim aylığı bağlanması uygulamasına ise son veriliyor .</sentence>
+<sentence num="3">657 Sayılı Devlet Memurları Kanunu'nda değişiklik yapan yasa taslağına ilişkin çalışmalar tamamlandı .</sentence>
+<sentence num="4">Önümüzdeki günlerde TBMM'ye sunulması planlanan 40 maddelik düzenlemeyle ,1991 yılından sonra işbaşı yapan devlet memurlarının ,bulundukları derecelerden 1 üst dereceye çıkması sağlanıyor .</sentence>
+<sentence num="5">Taslakta ,bu durumdaki devlet memurlarına ,15 Şubat 2005 tarihinden itibaren 1 derece verilmesi öngörülürken ,hükumetin buna ilişkin kanunun kısa sürede çıkarılması halinde ,derece yükseltme işlemini 15 Ocak'a çekebileceği belirtiliyor .</sentence>
+<sentence num="6">Derece artışı ,konsolide bütçeli kuruluşlar ile KİT ve belediyelerde 1991 sonrası işe başlayan 1 milyon dolayında devlet memurunu ilgilendiriyor .</sentence>
+<sentence num="7">1 milyon devlet memuruna 1 derece verilmesi ile ortaya çıkacak maaş artışının bütçeye yıllık faturası da 200 ile 250 trilyon lira arasında hesaplanıyor .</sentence>
+<sentence num="8">Bunun 25 ile 50 trilyon lira arasındaki bölümünün KİT'ler ve belediyelerden kaynaklanacağı ifade ediliyor .</sentence>
+<sentence num="9">YETİM AYLIKLARINA YENİ DÜZEN Aynı taslakta yeralan bir başka düzenlemeyle ,yetim aylığı bağlanmasına ilişkin esaslarda değişikliğe gidiliyor ve herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son buluyor .</sentence>
+<sentence num="10">SSK ,Bağ Kur ,Emekli Sandığı ve Bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarını saklı tutan düzenleme ,halen bu durumda olanların bundan sonra da yetim aylığı almaya devam etmesini hükme bağlıyor .</sentence>
+<sentence num="11">Taslağa göre ,yeni kanunun yürürlüğe girmesinden sonra kendisi emekli ya da dul aylığı alırken ,bir de ölen anne ve babasından yetim aylığı bağlanabilecek kişiler ,artık yetim aylığını alamayacak .</sentence>
+<sentence num="12">Ancak bağlanacak yaşlılık aylığı ,diğer aylıktan daha düşükse ,hak sahibi bundan vazgeçebilecek .</sentence>
+<sentence num="13">Bu kişinin talepte bulunması halinde ,yaşlılık aylığı yerine kendisine daha yüksek olan yetim aylığı bağlanabilecek .</sentence>
+<sentence num="14">İki kuruluştan aylık alınamayacak Örnek 1 Bir ev kadını ,eşi vefat ettiği için SSK'dan dul aylığı alıyor .</sentence>
+<sentence num="15">Daha sonra Emekli Sandığı'ndan emekli aylığı alan babasını da kaybediyor .</sentence>
+<sentence num="16">Mevcut sistemde ,bu kişiye eşinin dul aylığının yanısıra babasından yetim aylığı da bağlanıyor .</sentence>
+<sentence num="17">Yeni sistemde ,iki kuruluştan birden aylık alınamayacak .</sentence>
+<sentence num="18">Ancak babadan bağlanacak yetim aylığı daha yüksek ise kişi ,eşinin dul aylığından feragat edip ,babasının yetim aylığını alabilecek .</sentence>
+<sentence num="19">Örnek 2 Bekar bayan .</sentence>
+<sentence num="20">Emekli Sandığı'ndan emekli olmuş .</sentence>
+<sentence num="21">Bir süre sonra Bağ Kur'dan emekli aylığı alan babasını kaybediyor .</sentence>
+<sentence num="22">Mevcut sistemde babasından yetim aylığı bağlanıyor .</sentence>
+<sentence num="23">Yeni kanun çıktıktan sonra ,artık bunu alamayacak .</sentence>
+</doc>
+<doc>
+<id>3693</id>
+<sentence num="0">2005 01 07 18 :49 :00 .Memura derece verilmesini öngören tasarı TBMM'de .</sentence>
+<sentence num="1">Memura derece verilmesini öngören tasarı TBMM'de Devlet memuruna 1 derece artışı verilmesi ve herhangi bir sosyal güvenlik kuruluşundan maaş alanlara ayrıca yetim aylığı bağlanması uygulamasına son verilmesine ilişkin yasa tasarısı TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="2">Devlet Memurları Kanunu ve Emekli Sandığı ile Diğer Bazı Kanunlarda ve KHK'lerde Değişiklik Yapılmasına Dair Kanun Tasarısı ,TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="3">Geçici ,yürütme ve yürürlük dahil toplam 38 maddeden oluşan tasarıda ,1991 yılından sonra işbaşı yapan devlet memurlarının ,bulundukları derecelerden 1 üst dereceye çıkması öngördü .</sentence>
+<sentence num="4">Derece artışının ,konsolide bütçeli kuruluşlar ile KİT ve belediyelerde 1991 sonrası işe başlayan 1 milyon dolayında devlet memurunu ilgilendirdiği belirtildi .</sentence>
+<sentence num="5">1 milyon devlet memuruna 1 derece verilmesi ile ortaya çıkacak maaş artışının bütçeye yıllık faturası da 200 ile 250 trilyon lira arasında hesaplanıyor .</sentence>
+</doc>
+<doc>
+<id>3706</id>
+<sentence num="0">2005 01 07 19 :24 :00 .Memurlara 1 Derece Verilecek .</sentence>
+<sentence num="1">15 Ekim 1991 tarihinden sonra işe başlayan memurlara bir derece verilmesine ilişkin tasarı Meclis'e sunuldu .</sentence>
+<sentence num="2">Tasarıyla ,ilk kez 1978'de Ecevit Hükümetince ,1991 yılında da Mesut Yılmaz hükümeti döneminde verilen derece yükseltmesinden yararlanamayan memurlara birer derece veriliyor .</sentence>
+<sentence num="3">Derece yükseltmesinden yararlanamadan emekli olan memurlar da bu haktan faydalanacak .</sentence>
+<sentence num="4">Tasarıyla ,Yetim aylığı bağlanmasına ilişkin esaslarda değişikliğe gidildi .</sentence>
+<sentence num="5">Buna göre ,herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması tasarının yasalaşmasıyla son bulacak .</sentence>
+<sentence num="6">SSK ,Bağ Kur ,Emekli Sandığı ve bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarını saklı tutan düzenleme ,halen bu durumda olanların bundan sonra da yetim aylığı almaya devam etmesini hükme bağlıyor .</sentence>
+<sentence num="7">Tasarıya göre ,yeni kanunun yürürlüğe girmesinden sonra kendisi emekli ya da dul aylığı alırken ,bir de ölen anne ve babasından yetim aylığı bağlanabilecek kişiler ,artık yetim aylığını alamayacak .</sentence>
+<sentence num="8">Ancak bağlanacak yaşlılık aylığı ,diğer aylıktan daha düşükse ,hak sahibi bundan vazgeçebilecek .</sentence>
+<sentence num="9">Bu kişinin talepte bulunması halinde ,yaşlılık aylığı yerine kendisine daha yüksek olan yetim aylığı bağlanabilecek .</sentence>
+<sentence num="10">Bazı istisnalar hariç ,kamudan emekli olanlar yeniden kamuda istihdam edilemeyecek .</sentence>
+<sentence num="11">Daha önce atanmış ya da seçilmiş oldukları görevdeki aylığından daha düşük aylıklı bir işe atananlar ,aradaki farkı ödemeleri durumunda emeklilik açısından yüksek olan ek göstergeden yararlanacaklar .</sentence>
+<sentence num="12">Toplu Konut İdaresi ile Savunma Sanayi Müsteşarlığı'nda SSK'lı olarak çalışan sözleşmeli personel ,istemeleri halinde Emekli Sandığı'na geçebilecek .</sentence>
+<sentence num="13">Memurluğa başlamadan önce hastalık veya sakatlığı olduğu belirlenenler malül sayılmayacak .</sentence>
+<sentence num="14">Kişinin muhtaç sayılması için asgari ücretin üstünde geliri olmaması koşulu aranacak .</sentence>
+<sentence num="15">Yeşil kart sahiplerinin ayakta tedavilerindeki ilaç masrafları devletçe karşılanacak .</sentence>
+<sentence num="16">KİT'ler ve Devlet Demiryolları'na ait atıl durumdaki taşınmazlar satılabilecek .</sentence>
+<sentence num="17">Mevcut otoyolların ve bu otoyollar üzerindeki tesislerin işletme hakları belirli bir bedel karşılığında özel sektöre devredilebilecek .</sentence>
+<sentence num="18">Tarım Kredi Kooperatiflerine olan borçları ,yeniden yapılandırıldığı halde bu borçlarını yine ödeyemeyenlere ,yeni bir ödeme kolaylığı geliyor .</sentence>
+<sentence num="19">Borçlar ve Türk Ticaret Kanunlarına göre faiz ödenmesi gereken hallerde uygulanacak yıllık faiz oranı yüzde 12'ye iniyor .</sentence>
+</doc>
+<doc>
+<id>3745</id>
+<sentence num="0">2005 01 07 21 :26 :00 .Memura derece verilmesi Meclis'te ...</sentence>
+<sentence num="1">Düzenleme neler getiriyor ?</sentence>
+<sentence num="2">Devlet memuruna 1 derece artışı verilmesi ve herhangi bir sosyal güvenlik kuruluşundan maaş alanlara ayrıca yetim aylığı bağlanması uygulamasına son verilmesine ilişkin yasa tasarısı TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="3">Devlet Memurları Kanunu ve Emekli Sandığı ile Diğer Bazı Kanunlarda ve KHK'lerde Değişiklik Yapılmasına Dair Kanun Tasarısı ,TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="4">Geçici ,yürütme ve yürürlük dahil toplam 38 maddeden oluşan tasarıda ,1991 yılından sonra işbaşı yapan devlet memurlarının ,bulundukları derecelerden 1 üst dereceye çıkması öngördü .</sentence>
+<sentence num="5">Derece artışının ,konsolide bütçeli kuruluşlar ile KİT ve belediyelerde 1991 sonrası işe başlayan 1 milyon dolayında devlet memurunu ilgilendirdiği belirtildi .</sentence>
+<sentence num="6">1 milyon devlet memuruna 1 derece verilmesi ile ortaya çıkacak maaş artışının bütçeye yıllık faturası da 200 ile 250 trilyon lira arasında hesaplanıyor .</sentence>
+<sentence num="7">YETİM AYLIKLARINA YENİ DÜZEN Tasarıda ,yetim aylığı bağlanmasına ilişkin esaslarda değişikliğe gidildi .</sentence>
+<sentence num="8">Buna göre ,herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son bulacak .</sentence>
+<sentence num="9">SSK ,Bağ Kur ,Emekli Sandığı ve bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarını saklı tutan düzenleme ,halen bu durumda olanların bundan sonra da yetim aylığı almaya devam etmesini hükme bağlıyor .</sentence>
+<sentence num="10">Tasarıya göre ,yeni kanunun yürürlüğe girmesinden sonra kendisi emekli ya da dul aylığı alırken ,bir de ölen anne ve babasından yetim aylığı bağlanabilecek kişiler ,artık yetim aylığını alamayacak .</sentence>
+<sentence num="11">Ancak bağlanacak yaşlılık aylığı ,diğer aylıktan daha düşükse ,hak sahibi bundan vazgeçebilecek .</sentence>
+<sentence num="12">Bu kişinin talepte bulunması halinde ,yaşlılık aylığı yerine kendisine daha yüksek olan yetim aylığı bağlanabilecek .</sentence>
+<sentence num="13">İLGİLİ KANUNLARA TAŞIMA 2005 Yılı Bütçe Kanunu'nda yer alan doğum ve çocuk yardımlarındaki artış da tasarı ile ilgili kanununa taşınıyor .</sentence>
+<sentence num="14">Tasarıda ayrıca ,istisnalar dışında herhangi bir sosyal güvenlik kurumundan emeklilik ya da yaşlılık aylığı alanların ,belirlenen kurum ve kuruluşların kadrolarına açıktan atanamaması ve herhangi bir sosyal güvenlik kurumundan emeklilik veya yaşlılık aylığı alanların ,bu aylıkları kesilmeksizin kamuda görev alamamasına ilişkin bütçe hükmü de ilgili kanuna gönderiliyor .</sentence>
+<sentence num="15">Tasarıyla ,0 6 yaş grubundaki çocuklar için aile yardımı ödeneği ile doğum yardımı ödeneği de artırılıyor .</sentence>
+<sentence num="16">YAŞ HADDİ YENİDEN DÜZENLENİYOR Devlet Memurları Kanunu ,Emekli Sandığı Kanunu ile Diğer Bazı Kanun ve KHK'lerde Değişiklik Yapılmasına Dair Tasarı ,Anayasa Mahkemesi'nin iptal ettiği yaş haddi ile ilgili maddeyi yeniden düzenliyor .</sentence>
+<sentence num="17">Buna göre ,belediye başkanlığına ve illerin daimi komisyonu üyeliklerine seçilen veya seçilecekler hariç yaş haddi 65 olacak .</sentence>
+<sentence num="18">65 yaşını dolduranların açıktan veya naklen atamaları yapılmayacak .</sentence>
+<sentence num="19">Ancak ,61 yaşını dolduranlar hakkında da kurumlarında yaş haddi uygulanabilecek .</sentence>
+<sentence num="20">Üniversite öğretim üyelerinin görevleri ile ilişkilerinin kesilmesini gerektiren yaş haddi 67 olacak .</sentence>
+<sentence num="21">Tasarıya göre ,Emekli Sandığı'na tabi göreve atandıkları tarihten önce malul sayılmayı gerektiren hastalık veya sakatlığı olduğu belirlenenlerle ,talim ,manevra ,seferberlik veya harp dolayısıyla vazifeleriyle ilgileri kesilmeksizin silah altına alınanlardan malullükleri asıl vazifelerini yapmaya mani olmayanlar malulen emekli edilemeyecekler .</sentence>
+<sentence num="22">Tasarı ile kimlerin muhtaç sayılacağına da açıklık getiriliyor .</sentence>
+<sentence num="23">Buna göre ,İş Kanunu uyarınca 16 yaşından büyük işçiler için tespit edilen asgari ücretin net tutarından az aylık geliri olup ,kendisini ve Türk Medeni Kanunu hükümlerine göre bakmaya mecbur olduğu aile fertlerini geçindirmeye yetecek kadar malı da olmayanlar muhtaç sayılacak .</sentence>
+<sentence num="24">YÜKSEK EK GÖSTERGE SEÇİLEBİLECEK Daha önce atandığı ya da seçildiği kadro ,görev veya aylık aldığı dereceler için belirlenen ek göstergelerden daha düşük ek gösterge ödenmesi gereken veya ek göstergesi olmayan bir kadro ,görev veya dereceye atanan ya da seçilenler ,daha önceden yararlandıkları ek gösterge rakamı arasındaki farktan kaynaklanan kesenek ve karşılık tutarının tamamının aylıklarından kesilmesi suretiyle emeklilik açısından yüksek olanlar ek göstergeden yararlanacaklar .</sentence>
+<sentence num="25">Tasarıyla ,birinci basamak sağlık hizmeti sunan kuruluşlar dahil olmak üzere Sağlık Bakanlığı kurum ve kuruluşları ile bağlı kuruluşlarına (Hudut ve Sahiller Sağlık Genel Müdürlüğü hariç )verilen döner sermaye miktarı 3 katrilyon liraya çıkarılması öngörüldü .</sentence>
+<sentence num="26">Tasarıyla döner sermayenin kapsamı da genişletildi ve döner sermayeli işletmelerin birbirinden hizmet satın almasına ve il sınırları içindeki döner sermayeli işletmelerin birbirine ödünç mal vermeleri imkanı da sağlandı .</sentence>
+<sentence num="27">Ekonomik olmayan taşıtların ekonomik olanlarıyla değiştirilmesi ile kamu görevlilerinden hangilerine resmi taşıt tahsis edileceğine ilişkin esas ve usulleri Bakanlar Kurulu belirleyecek .</sentence>
+<sentence num="28">Şeref aylığı alanların eşleri ,eşlerinden ayrı olarak seyahat ettiklerinde de bazı toplu taşıma araçlarından ücretsiz yararlanabilecek .</sentence>
+<sentence num="29">MUHTAR AYLIKLARI Muhtarların aylıklarını ,muhtarlıkların yerleşim yerinin idari yapısı ya da nüfusu gibi kriterleri de birlikte ya da ayrı ayrı dikkate alarak bir katına kadar farklı belirleme konusunda da Bakanlar Kurulu'na yetki verilecek .</sentence>
+<sentence num="30">EMEKLİLERİN KUMU KURUM VE KURULUŞLARINDA ÇALIŞMALARINA SINIRLAMA GETİRİLİYOR Toprak Mahsulleri Ofisi (TMO )ile Türkiye Şeker Fabrikaları A .Ş'nin kredi borçları ,görev zararı alacakları ve ödenmemiş sermaye alacaklarıyla mahsup edilecek .</sentence>
+<sentence num="31">Devlet Memurları Kanunu ,Emekli Sandığı Kanunu ile Diğer Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkındaki Yasa Tasarısı ,önemli değişiklikler içeriyor .</sentence>
+<sentence num="32">Tasarıya göre ,Devlet Hava Meydanları İşletmesi (DHMİ )Genel Müdürlüğü personeline en yüksek devlet memuru aylığının brüt tutarının yüzde 200'ünü geçmemek üzere ''havacılık tazminatı ''ödenecek .</sentence>
+<sentence num="33">Bu şekilde yapılacak ödemeler ,sözleşmeli personel için belirlenen ücret tavanı ile kapsama dahil personele verilecek diğer hak ve ödemelerin tespitinde dikkate alınmayacak .</sentence>
+<sentence num="34">Emeklilerin kamu kurum ve kuruluşlarında çalıştırılmalarına sınırlama getiren 2005 Bütçe Kanunu'ndaki düzenleme de ilgili kanunlara da taşınıyor .</sentence>
+<sentence num="35">Cumhurbaşkanı tarafından atananlar ,Bakanlar Kurulu kararı veya müşterek kararnameyle atanan veya görevlendirilenler ,TBMM tarafından yapılan seçimler sonucunda görev verilenler ile yükseköğretim kurumlarının öğretim üyeliklerine yapılacak atamalar hariç olmak üzere herhangi bir sosyal güvenlik kurumundan emeklilik veya yaşlılık aylığı alanlar ;genel bütçeye dahil dairelerin ,katma bütçeli idarelerin ,döner sermayelerin ,kefalet sandıklarının ,sosyal güvenlik kurumlarının ve bütçeden yardım alan kuruluşların kadrolarına açıktan atanamayacak .</sentence>
+<sentence num="36">Herhangi bir sosyal güvenlik kurumundan emeklilik veya yaşlılık aylığı alanlar bu aylıkları kesilmeksizin ;genel bütçeye dahil idareler ,katma bütçeli idareler ,döner sermayeler ,fonlar ,belediyeler ,il özel idareleri ,belediyeler ve il özel idareleri tarafından kurulan birlik ve işletmeler ,sosyal güvenlik kurumları ,bütçeden yardım alan kuruluşlar ile özel kanunla kurulmuş kamu kurum ,kurul ,üst kurul ve kuruluşları ,KİT ve bunların bağlı ortaklıkları ile müessese ve işletmelerinde ,sermayesinin yüzde 50'sinden fazlası kamuya ait olan diğer ortaklıklarda herhangi bir kadro ,pozisyon ve görevde çalıştırılamayacak ve görev alamayacak .</sentence>
+<sentence num="37">Cumhurbaşkanlığına seçilenler ,dışarıdan Bakanlar Kurulu üyeliğine atananlar ,yasama organı üyeliğine seçilenler ,mahalli idareler seçimleri sonucuna görev alanlar ,toplantı veya huzur ücreti ya da hakkı ödenen görevleri yürütenler ile yönetim ve denetim kurulu üyeliği karşılığı ücret alanlar ,yaş haddini aşmamak kaydıyla ders ücreti karşılığı örgün ve yaygın eğitim kurumlarında ders verenler ,vakıf üniversitelerinde görev alanlar ,özel kanunlarında emeklilik veya yaşlılık aylığı kesilmeksizin çalıştırılma veya görev yapma hakkı verilenlerden Cumhurbaşkanı tarafından atananlar ,Bakanlar Kurulu kararı veya müşterek kararname ile atanan veya görevlendirilenler ve TBMM tarafından yapılan seçimler sonucunda görev verilenler bu uygulama dışında tutulacak .</sentence>
+<sentence num="38">TCDD TAŞINMAZLARININ SATIŞI Genel bütçeye dahil daireler ile katma bütçeli idarelerin teşkilat yapıları ve hizmet amacına uyun olarak personel dağılımı sağlanmasına yönelik önlemler almaya ,ihtiyaç fazlası personelin genel bütçeye dahil dairelere ,katma bütçeli idarelere ,döner sermayelere ,kefalet sandıklarına ,sosyal güvenlik kurumlarına ,bütçeden yardım alan kuruluşlara nakledilmesine ilişkin esas ve usulleri Devlet Personel Başkanlığı'nın bağlı olduğu bakan ile Maliye Bakanı yetkili olacak .</sentence>
+<sentence num="39">Devlet Demiryolları İşletmesi Genel Müdürlüğü mülkiyetindeki işlemecilik fazlası taşınmazların satılarak veya devredilerek satış veya devir bedellerinin yeni demiryolu inşaatı ve mevcut demiryollarının bakım ve onarımı ile iyileştirilmesinde kullanılması kaydıyla taşınmazların satış ve devrine Devlet Demiryolları Genel Müdürlüğü Yönetim Kurulu yetkili kılınacak .</sentence>
+<sentence num="40">ÖDENEKSİZ HARCAMA YAPILAMAYACAK Hastane ödemelerinde ödeneksiz harcama yapılması imkanı ortadan kaldırılıyor .</sentence>
+<sentence num="41">Bu amaçla ,''herhangi bir kısıtlamaya tabi tutulmaksızın öncelik ve ivedilikle ve ödeme emri beklenilmeksizin ödenir ''hükmü ,kanun metninden çıkarılıyor .</sentence>
+<sentence num="42">Kooperatif ve birliklerin yeniden yapılandırılması ,ekonomik etkinlik ve verimlilik ilkeleri çerçevesinde faaliyetlerini sürdürülebilir bir yapıya kavuşturabilmesi için oluşumundan itibaren en çok 4 yıl görev yapması öngörülen ''Yeniden Yapılandırılma Kurulu ''nun görev süresi uzatılıyor .''</sentence>
+<sentence num="43">Bölgede her ölçekteki planlarla günübirlik alan olarak ilan edilen özel mülkiyet dışındaki alanların ve kumsalların irtifak hakkı Başkanlığa geçer ,başkanlık bu yerleri işletir ve işletmesini sağlar ''hükmü ,Medeni Kanun ve diğer kanunlara aykırı olduğu gerekçesiyle yürürlükten kaldırılıyor .</sentence>
+<sentence num="44">TMO VE TFŞAŞ'NİN GÖREV ZARARI 2002 yılından sonraki alım kampanyalarında TMO'nun görev zararları içinde önemli yer tutan yurtiçi hububat satışlarından dolayı oluşan 500 milyon Euro tutarındaki kredi borcu ,görev zararı alacakları ve ödenmemiş sermaye alacakları ile mahsup edilecek Türkiye Şeker Fabrikaları (TŞFAŞ )A .Ş Genel Müdürlüğü'nün kendi kaynakları ile ödemesi mümkün olmayan 275 milyon Euro tutarındaki kredi borcunun da görev zararı alacakları ve ödenmemiş sermaye alacakları ile mahsup edilmesi yoluna gidiliyor .</sentence>
+<sentence num="45">Bu amaçla Hazine Müsteşarlığı'nın bağlı olduğu Bakan ve Maliye Bakanı'na yetki veriliyor .</sentence>
+<sentence num="46">TMO ve TŞFAŞ'nin nominal sermayeleri bu mahsuba konu olan miktar kadar artırılmış sayılacak .</sentence>
+<sentence num="47">TCDD'NİN BORCU Devlet Demiryolları İşletmesi Genel Müdürlüğü'nün ilgili yıllar yatırım programında yer alan ve Hazine Müsteşarlığı tarafından dış finansman sağlanmasına izin verilmiş ancak henüz finansman temin çalışmaları sonuçlandırılmamış olan projeler ile 2005 yılı yatırım programında yer alan projelerin finansmanı amacıyla yurtdışından sağlanacak krediler hakkında genel ve katma bütçeli idarelerin tabi olduğu esaslar uygulanacak .</sentence>
+<sentence num="48">Genel Müdürlüğün vergi borçları ,Ulaştırma Bakanlığı bütçesinden alması gereken yol bakım ve onarım giderleri karşılığı tutarlarına mahsup kabul edilerek ;prim ve benzeri borçlarının Emekli Sandığı Genel Müdürlüğü'ne Maliye Bakanlığı'nın 2005 yılı bütçesinde yer alan ödenekten ,SSK'ya olan borcu Çalışma ve Sosyal Güvenlik Bakanlığı'nın 2005 yılı bütçesinin tertibinden yer alan ödenekten alacaklarına mahsuben ödenecek .</sentence>
+<sentence num="49">TEKEL'İN VERGİ BORCU Tekel'in 31 Aralık 2002 tarihi itibarıyla ödenmemiş borçları ile bu borçlarına ilişkin gecikme zammı ve faizlerine karşılık ;mülkiyeti genel müdürlüğü ait taşınmazlardan genel bütçeye dahil daireler ile katma bütçeli kuruluşlarca ihtiyaç duyulanlar oluşturulacak komisyon tarafından takdir edilecek rayiç bedel üzerinden ve borçlu kurumun da uygun görüşü alınarak Maliye Bakanlığınca satın alınabilecek .</sentence>
+<sentence num="50">ILISU VE YUSUFELİ BARAJI KREDİLERİ Ilısu ve Yusufeli Baraj ve HES projelerinde kullanılmak üzere temin edilen kredileri ile diğer her türlü imkan ,avans mahsubunu müteakiben bütçeleştirilecek .</sentence>
+<sentence num="51">Düzenlemenin gerekçesinde ,Ilısu ve Yusufeli baraj ve HES projelerine sözleşme gereği ödenmesi gereken 311 milyon 317 bin dolar karşılığı yüzde 15 tutarındaki avans ödemesinin 2005 yılında yapılması gerekliliğine işaret edilerek ,ikili işbirliği kapsamında kredili yürütülen ve yürütülecek projelerde ödenek darboğazına neden olacağı gösterildi .</sentence>
+<sentence num="52">OTOYOLLARIN BAKIMI VE İŞLETİLMESİ ÖZEL ŞİRKETLER TARAFINDAN DA YAPILABİLECEK Bakanlar Kurulu ,Yap İşlet Devret sözleşmesi çerçevesinde ortaya çıkabilecek ödeme yükümlülükleri ,sözleşme hükümleri gereği mali yükümlülük altına giren kamu kurum ve kuruluşları ile fonlar lehine de garanti verecek .</sentence>
+<sentence num="53">Devlet Memurları Kanunu ,Emekli Sandığı ile Diğer Bazı Kanunlarda ve KHK'lerde Değişiklik Yapılmasına Dair Kanun Tasarısı'na göre ,bulunan veya trafikten men edilerek alıkonulan ,ancak sahipleri tarafından 6 ay içinde teslim alınmayan veya aranmayan araçlar ,Hazine tarafından satılarak ,bedelleri emanet hesabına yatırılacak .</sentence>
+<sentence num="54">Satıldığı tarihten itibaren 5 yıl içinde müracaat halinde emanet hesabındaki bedeller ,işlemler sırasında yapılan masraflar düşüldükten sonra ilgililere iade edilecek .</sentence>
+<sentence num="55">5 yılı içinde herhangi bir müracaatın olmaması halinde söz konusu bedeller Hazine'ye irat kaydedilecek .</sentence>
+<sentence num="56">Genel bütçeye dahil daireler ,katma bütçeli idareler ve Devlet Demir Yolları Genel Müdürlüğü tarafından ,kamulaştırılan taşınmazların sahiplerine ,kabul etmeleri halinde kamulaştırma bedeli yerine Hazine'ye ait taşınmazların satış işlemlerinde ödeme aracı olarak kullanılmak üzere ,taşınmazın bedelini gösteren üçüncü kişilere devredilebilen bir belge verilecek .</sentence>
+<sentence num="57">Tasarıda ,Toplu Konut İdaresi Başkanlığı ile Savunma Sanayii Müsteşarlığı'nda kadro karşılığı gösterilmeksizin çalıştırılan personel ile ilgili de düzenleme getiriliyor .</sentence>
+<sentence num="58">Bu statüde çalışan sözleşmeli personel ;sosyal güvenlik açısından Sosyal Sigortalar Kanunu'na tabi olanlar ,bu maddenin yürürlüğe girdiği tarihten itibaren 3 ay içinde yazılı olarak idareye başvurmaları halinde Emekli Sandığı Kanunu ile ilişkilendirilecek .</sentence>
+<sentence num="59">Bu süre içinde Emekli Sandığı Kanunu ile ilişkilendirilme talebinde bulunmayanların ise Sosyal Sigortalar Kanunu ile ilişkilerine devam edecekler .</sentence>
+<sentence num="60">KANUNİ FAİZ VE TEMERRÜT FAİZİ ORANLARI Tasarıda ,kanuni faiz ve temerrüt faiz oranları da yeniden düzenlendi .</sentence>
+<sentence num="61">Borçlar Kanunu ve Türk Ticaret Kanunu'na göre faiz ödenmesi gereken hallerde ,miktarı sözleşme ile tespit edilmemişse bu ödeme yıllık yüzde 12 oranında yapılacak .</sentence>
+<sentence num="62">Bakanlar Kurulu ,bu oranı aylık olarak belirlemeye ,bu oranı yüzde on kadar indirmeye veya bir katına kadar artırmaya yetkili olacak .</sentence>
+<sentence num="63">FONLARIN GARANTİ ALTINA ALINMASI Tasarıda ,bazı yatırım ve hizmetlerin Yap İşlet Devret modeli çerçevesinde yaptırılmasına ilişkin düzenleme de değiştiriliyor .</sentence>
+<sentence num="64">Buna göre ,Hazine'den sorumlu ilgili bakanın görüşüne bağlı olarak Bakanlar Kurulu ,yap işlet devret sözleşmesi çerçevesinde ortaya çıkabilecek ödeme yükümlülükleri ,sözleşme hükümleri gereği mali yükümlülük altına giren kamu kurum ve kuruluşları ile fonlar lehine garanti verecek .</sentence>
+<sentence num="65">Böylece fonların mali disiplin altına alınması sağlanacak .</sentence>
+<sentence num="66">Bakanlar Kurulu ,ayrıca ,gerektiğinde proje ile ilgili anlaşmalardaki koşullar çerçevesinde köprü krediler sağlanmasına veya sağlanacak bu krediler için geri ödeme garantisi vermeye ve yap işlet devret modeline dayanan tesisin veya şirket hisselerinin söz konusu projelere ilişkin anlaşmalardaki koşullara uygun olarak satın alınması halinde de dış kredi borçlarını yüklenecek kamu kurum ve kuruluşları ile bağlı ortaklıklarının ve mahalli idarelerin lehine ,finansör kuruluşlara garanti vermeye ve garanti koşullarını belirleye yetkili olacak .</sentence>
+<sentence num="67">OTOYOLLARIN YAPIMI VE İŞLETMESİ Özel şirketler ,otoyolların yapımı ,bakımı ve işletilmesi ile görevlendirilebilecek .</sentence>
+<sentence num="68">Tespit edilen görev yerinde ,bütün tesisleri ile birlikte otoyolun veya yolculukla ilgili hizmet tesislerinin projelendirilerek veya projesine göre yapımı ,bakımı ve işletilmesini kapsayabilecek .</sentence>
+<sentence num="69">Ayrıca ,mevcut otoyolların ,işletme ve bakım tesislerinin veya yolculukla ilgili hizmet tesislerinin bakımı ,iyileştirilmesi ,genişletilmesi veya işletme kararının devri şeklinde olabilecek .</sentence>
+<sentence num="70">Böylece mevcut otoyolların veya otoyol üzerinde mevcut hizmet tesislerinin işletme hakları belli bir bedel karşılığında belli bir süre için özel şirketlere devredilecek .</sentence>
+<sentence num="71">Sistemle ,işletme hakkı devri karşılığında Karayolları Genel Müdürlüğü tarafından elde edilecek gelir ,bütçeye yeni finansman kaynağı olarak aktarılacak .</sentence>
+<sentence num="72">DEVLET İÇ BORÇLANMA SENEDİ Hazine Müsteşarlığı'nca ihraç edilen Devlet İç Borçlanma Senetleri (DİBS )ve bu senetlerin yerine düzenlenen belgeler ,satılacak Hazine taşınmazlarının bedellerinin ödenmesinde nominal değerleri üzerinden ödeme aracı olarak kabul edilecek .</sentence>
+<sentence num="73">Söz konusu senet ve belgelerin nominal bedele faiz dahil edilerek ihraç edilmiş olması halinde ,bu işlemlerde anaparaya tekabül eden satış değerleri esas alınacak .</sentence>
+<sentence num="74">Dışarıda yerleşik kişiler ile geçimini yurtdışında temin eden Türk vatandaşlarından ,taşınmaz satışı ihalelerinde Merkez Bankası'nca belirlenen konvertibl döviz ,teminat olarak alınabilecek .</sentence>
+<sentence num="75">Özel tertip DSİB ,ikrazen ihraç edilmesi durumunda düzenlenecek ikraz anlaşmasının vade ,faiz ve diğer şartları ilgili Bakan tarafından belirlenecek .</sentence>
+<sentence num="76">HAZİNE'NİN TMSF'DEN ALACAKLARININ DURUMU İkrazen verilen senetlerden kaynaklanan Hazine alacaklarının ilgili mevzuat çerçevesinde silinmesi halinde bu tutarlar ,yıl bütçesine ödenek konmak kaydıyla bütçeye gider olarak kaydedilecek ancak Hazine Müsteşarlığı'nın TMSF'deki alacakları için bu hükümler uygulanmayacak .</sentence>
+<sentence num="77">Hazine'nin ,devlet dış borcu kapsamında ortaya çıkan yükümlülüklerinin uluslararası sermaye piyasasında mevcut muhtelif finansal araçlar vasıtası ile yönetimi amacıyla ,takas dahil her türlü türev ürünü kullanmaya ,daha önce uluslararası sermaye piyasalarında ihraç olunan tahvilleri geri almaya ,başka tahvillerle değiştirmeye ve benzeri işlemlere ilişkin anlaşma yapmaya ilgili bakan yetkili olacak .</sentence>
+<sentence num="78">Çiftçiler ,Türkiye Tarım Kredi Kooperatiflerine olan borçlarının yeniden yapılandırılması çerçevesinde ilk peşinatı eksiksiz yatıranlar ,borçlarını ödemeleri gereken vadeden sonraki 90 gün içinde ilgili her ay için bir önceki ay DİE tarafından ilan edilen tarımsal TEFE artış oranlarının yıllık beş puan fazlası ile ödeyebilecekler .</sentence>
+<sentence num="79">KAMU MALI TAŞINMAZLAR Kamu malı niteliğindeki taşınmaz mal ve sair varlıklar işleten veya kullanan ve finansman durumları uygun olan KİT'ler ve kamu şirketlerinin hasılatından ,bu kullanım karşılığı bir bedelin bütçeye gelir kaydedilmesi ,bedel tahsil edilecek kurum ve kuruluşlar ile hasılat payı oranlarının ve hasılat payları zamanında yatırılmaması durumunda ,ödenecek zam oranı Bakanlar Kurulu tarafından belirlenecek .</sentence>
+<sentence num="80">ADLİ VE İDARİ PARA CEZALARI Adli ve idari para cezalarının hesaplanmasında ve ödenmesinde bir Yeni Türk Lirası'nın (YTL )altında kalan tutar dikkate alınmayacak .</sentence>
+<sentence num="81">Faal durumdaki devlet memuru ve diğer kamu görevlileri ile sosyal güvenlik kurumlarından tedavi yardımı alan emekliler ve bunların bakmakla yükümlü oldukları aile fertlerinde olduğu gibi ,yeşil kart sahiplerinin de ayakta tedavi kapsamında kullandıkları ortez ,protez ve diğer iyileştirme araçları ile ilaç bedellerinin ödenmesine ilişkin usul ve esasları belirleme hususunda Maliye Bakanlığı yetkili kılındı .</sentence>
+</doc>
+<doc>
+<id>4200</id>
+<sentence num="0">2005 01 09 10 :57 :00 .Meclis ,memurlara derece müjdesi vermek için çalışacak .</sentence>
+<sentence num="1">Meclis ,memurlara derece müjdesi vermek için çalışacak Meclis ,bu hafta memurlara ''derece ''müjdesi vermek için çalışacak .</sentence>
+<sentence num="2">Memurlara ilave derece verilmesini düzenleyen ve Devlet Memurları Kanunu'nda değişiklik yapan tasarı ,bu hafta önce Plan ve Bütçe Komisyonu'nda ,daha sonra da Genel Kurul'da ele alınacak .</sentence>
+<sentence num="3">Hükümet'in bayram öncesinde yasalaşmasını istediği tasarı ,1991 yılından sonra memur olanlara ilave bir derece verilmesini öngörüyor .</sentence>
+<sentence num="4">Geçici maddeler dahil toplam 38 maddeden oluşan tasarıya göre ,herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son bulacak .</sentence>
+<sentence num="5">Emekli Sandığı ,SSK ,Bağkur ve bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarına ise dokunulmayacak .</sentence>
+<sentence num="6">TBMM Genel Kurulu'nda 11 Ocak Salı günü denetim konuları görüşülecek .</sentence>
+<sentence num="7">Uluslararası anlaşmaların onaylanmasının uygun bulunduğuna dair 10 yasa tasarısının da bu hafta yasalaşması amaçlanıyor .</sentence>
+<sentence num="8">KOMİSYONLAR TBMM'deki ihtisas komisyonları da gündemlerindeki tasarı ve teklifleri görüşecek .</sentence>
+<sentence num="9">Plan ve Bütçe Komisyonu ,memurlara ilave bir derece verilmesini içeren yasa tasarısını görüşecek .</sentence>
+<sentence num="10">Komisyon ,11 Ocak Salı günü AK Parti Niğde Milletvekili Erdoğan Özegen'in TEDAŞ Genel Müdürlüğü ve bağlı ortaklıkları ve müesseselerinin enerji bedelinden doğan alacakları ve gecikme bedellerinin tahsiline ilişkin yasa teklifini görüşecek .</sentence>
+<sentence num="11">AB Uyum Komisyonu ,11 Ocak Salı günü ,AB'ye uyum kapsamında Karayolları Trafik Kanunu'nda değişiklik yapılmasını içeren yasa tasarısını tali komisyon olarak ele alacak .</sentence>
+<sentence num="12">Sporda şiddet ,şike ,rüşvet ve haksız rekabet iddialarının araştırılarak alınması gereken önlemleri belirlemek amacıyla oluşturulan Meclis Araştırma Komisyonu ,11 Ocak Salı günü toplanarak çalışma takvimini belirleyecek .</sentence>
+<sentence num="13">Sokak Çocukları Araştırma Komisyonu ise 11 Ocak Salı günü toplanarak çalışmalarını sürdürecek .</sentence>
+</doc>
+<doc>
+<id>4205</id>
+<sentence num="0">2005 01 09 11 :00 :00 .Meclis ,memurlara bir derece verilmesini görüşecek ...</sentence>
+<sentence num="1">Meclis ,bu hafta memurlara ''derece ''müjdesi vermek için çalışacak .</sentence>
+<sentence num="2">Memurlara ilave derece verilmesini düzenleyen ve Devlet Memurları Kanunu'nda değişiklik yapan tasarı ,bu hafta önce Plan ve Bütçe Komisyonu'nda ,daha sonra da Genel Kurul'da ele alınacak .</sentence>
+<sentence num="3">Hükümet'in bayram öncesinde yasalaşmasını istediği tasarı ,1991 yılından sonra memur olanlara ilave bir derece verilmesini öngörüyor .</sentence>
+<sentence num="4">Geçici maddeler dahil toplam 38 maddeden oluşan tasarıya göre ,herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son bulacak .</sentence>
+<sentence num="5">Emekli Sandığı ,SSK ,Bağkur ve bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarına ise dokunulmayacak .</sentence>
+<sentence num="6">TBMM Genel Kurulu'nda 11 Ocak Salı günü denetim konuları görüşülecek .</sentence>
+<sentence num="7">Uluslararası anlaşmaların onaylanmasının uygun bulunduğuna dair 10 yasa tasarısının da bu hafta yasalaşması amaçlanıyor .</sentence>
+<sentence num="8">KOMİSYONLAR TBMM'deki ihtisas komisyonları da gündemlerindeki tasarı ve teklifleri görüşecek .</sentence>
+<sentence num="9">Plan ve Bütçe Komisyonu ,memurlara ilave bir derece verilmesini içeren yasa tasarısını görüşecek .</sentence>
+<sentence num="10">Komisyon ,11 Ocak Salı günü AK Parti Niğde Milletvekili Erdoğan Özegen'in TEDAŞ Genel Müdürlüğü ve bağlı ortaklıkları ve müesseselerinin enerji bedelinden doğan alacakları ve gecikme bedellerinin tahsiline ilişkin yasa teklifini görüşecek .</sentence>
+<sentence num="11">AB Uyum Komisyonu ,11 Ocak Salı günü ,AB'ye uyum kapsamında Karayolları Trafik Kanunu'nda değişiklik yapılmasını içeren yasa tasarısını tali komisyon olarak ele alacak .</sentence>
+<sentence num="12">Sporda şiddet ,şike ,rüşvet ve haksız rekabet iddialarının araştırılarak alınması gereken önlemleri belirlemek amacıyla oluşturulan Meclis Araştırma Komisyonu ,11 Ocak Salı günü toplanarak çalışma takvimini belirleyecek .</sentence>
+<sentence num="13">Sokak Çocukları Araştırma Komisyonu ise 11 Ocak Salı günü toplanarak çalışmalarını sürdürecek .</sentence>
+</doc>
+<doc>
+<id>4207</id>
+<sentence num="0">2005 01 09 11 :00 :00 .TBMM'de bu hafta ...</sentence>
+<sentence num="1">Meclis ,bu hafta memurlara ''derece ''müjdesi vermek için çalışacak .</sentence>
+<sentence num="2">Memurlara ilave derece verilmesini düzenleyen ve Devlet Memurları Kanunu'nda değişiklik yapan tasarı ,bu hafta önce Plan ve Bütçe Komisyonu'nda ,daha sonra da Genel Kurul'da ele alınacak .</sentence>
+<sentence num="3">Hükümet'in bayram öncesinde yasalaşmasını istediği tasarı ,1991 yılından sonra memur olanlara ilave bir derece verilmesini öngörüyor .</sentence>
+<sentence num="4">Geçici maddeler dahil toplam 38 maddeden oluşan tasarıya göre ,herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son bulacak .</sentence>
+<sentence num="5">Emekli Sandığı ,SSK ,Bağkur ve bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarına ise dokunulmayacak .</sentence>
+<sentence num="6">TBMM Genel Kurulu'nda 11 Ocak Salı günü denetim konuları görüşülecek .</sentence>
+<sentence num="7">Uluslararası anlaşmaların onaylanmasının uygun bulunduğuna dair 10 yasa tasarısının da bu hafta yasalaşması amaçlanıyor .</sentence>
+<sentence num="8">KOMİSYONLAR TBMM'deki ihtisas komisyonları da gündemlerindeki tasarı ve teklifleri görüşecek .</sentence>
+<sentence num="9">Plan ve Bütçe Komisyonu ,memurlara ilave bir derece verilmesini içeren yasa tasarısını görüşecek .</sentence>
+<sentence num="10">Komisyon ,11 Ocak Salı günü AK Parti Niğde Milletvekili Erdoğan Özegen'in TEDAŞ Genel Müdürlüğü ve bağlı ortaklıkları ve müesseselerinin enerji bedelinden doğan alacakları ve gecikme bedellerinin tahsiline ilişkin yasa teklifini görüşecek .</sentence>
+<sentence num="11">AB Uyum Komisyonu ,11 Ocak Salı günü ,AB'ye uyum kapsamında Karayolları Trafik Kanunu'nda değişiklik yapılmasını içeren yasa tasarısını tali komisyon olarak ele alacak .</sentence>
+<sentence num="12">Sporda şiddet ,şike ,rüşvet ve haksız rekabet iddialarının araştırılarak alınması gereken önlemleri belirlemek amacıyla oluşturulan Meclis Araştırma Komisyonu ,11 Ocak Salı günü toplanarak çalışma takvimini belirleyecek .</sentence>
+<sentence num="13">Sokak Çocukları Araştırma Komisyonu ise 11 Ocak Salı günü toplanarak çalışmalarını sürdürecek .</sentence>
+</doc>
+<doc>
+<id>4315</id>
+<sentence num="0">2005 01 09 15 :29 :00 .Memurları memnun edecek yasa Meclis'te .</sentence>
+<sentence num="1">Aynı gün Sokak Çocukları Araştırma Komisyonu da toplanarak çalışmalarını sürdürecek 1991 yılından sonra memur olanlara ilave bir derece verilmesini öngören yasa tasarısı bu hafta önce Meclis Plan ve Bütçe Komisyonu'nda ,ardından da Genel Kurul'da ele alınacak .</sentence>
+<sentence num="2">Hükümet ,memurlara ilave derece verilmesini düzenleyen ve Devlet Memurları Kanunu'nda değişiklik yapan tasarıyı bayramdan önce yasalaştırmak istiyor .</sentence>
+<sentence num="3">Geçici maddeler dahil toplam 38 maddeden oluşan tasarıya göre ,herhangi bir sosyal güvenlik kuruluşundan emekli olanlar ile dul aylığı alanlara ,ayrıca yetim aylığı bağlanması uygulaması son bulacak .</sentence>
+<sentence num="4">SSK ve Bağ Kur'a dokunulmayacak Emekli sandığı ,SSK ,Bağ Kur ve bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı Emekli sandığı ,SSK ,Bağ Kur ve bankaların sandıklarından yaşlılık ya da dul ve yetim aylığı alanların kazanılmış haklarına ise dokunulmayacak .</sentence>
+<sentence num="5">Sporda şiddet ,şike ,rüşvet ve haksız rekabet iddialarının araştırılarak alınması gereken önlemleri belirlemek amacıyla oluşturulan Meclis Araştırma Komisyonu da ,11 ocak salı günü toplanarak çalışma takvimini belirleyecek .</sentence>
+<sentence num="6">Aynı gün sokak çocuklarının sorunlarını araştırma komisyonu da toplanarak çalışmalarını sürdürecek .</sentence>
+</doc>
+<doc>
+<id>5986</id>
+<sentence num="0">2005 01 12 12 :41 :00 .Memura 1 Derece Komisyon Gündeminde .</sentence>
+<sentence num="1">15 Ekim 1991 yılından sonra işe başlayan memurlara bir derece verilmesine ilişkin tasarı Meclis Plan ve Bütçe Komisyonu'nda görüşülmeye başlandı .</sentence>
+<sentence num="2">Tasarıyla ,ilk kez 1978'de Ecevit Hükümeti döneminde ,1991 yılında da Mesut Yılmaz hükümeti döneminde verilen derece yükseltmesinden yararlanamayan memurlara birer derece veriliyor .</sentence>
+<sentence num="3">Getirilen önemli bir değişiklik de yetim aylıklarıyla ilgili .</sentence>
+<sentence num="4">Herhangi bir sosyal güvenlik kuruluşuna bağlı olarak çalışan ,emekli veya dul aylığı alanlara ,Emekli Sandığı'ndan yetim aylığı bağlanmayacak .</sentence>
+<sentence num="5">Memurlara bayram öncesinde müjde vermek isteyen iktidar ,tasarıyı yarın (13 .01 .2005 )Genel Kurul gündemine getirerek yasalaştırmayı amaçlıyor .</sentence>
+</doc>
+<doc>
+<id>6279</id>
+<sentence num="0">2005 01 12 18 :17 :00 .Babacan :Memurlara derece verilmesi bütçeye ek yük getirmeyecek .</sentence>
+<sentence num="1">Babacan :Memurlara derece verilmesi bütçeye ek yük getirmeyecek TBMM Plan ve Bütçe Komisyonu'nda memurlara bir derece verilmesinin yanı sıra çok sayıda yasada değişiklik yapan tasarının görüşmelerine başlandı .</sentence>
+<sentence num="2">Devlet Bakanı Ali Babacan ,tasarıyı sunuş konuşmasında ,bu düzenleme ile yıllardır çeşitli nedenlerle bütçe yasalarında yer alan ,ancak Anayasa'ya aykırı olduğu gerekçesiyle Anayasa Mahkemesi tarafından iptal edilen bütçe yasası maddelerinin ilgili yasalarına taşındığını bildirdi .</sentence>
+<sentence num="3">Babacan ,Anayasa'nın bütçe yasalarının bütçe gelir ve giderlerini ilgilendiren ve mali yılla sınırlı etkiler doğuran hükümleri içermesini ,bütçe ile doğrudan ilgisi olmayan hükümlere yer vermemeyi gerektirdiğini belirtti .</sentence>
+</doc>
+<doc>
+<id>6293</id>
+<sentence num="0">2005 01 12 18 :33 :00 .Memurlara derece verilmesini öngören tasarı alt komisyona sevk edildi .</sentence>
+<sentence num="1">Memurlara derece verilmesini öngören tasarı alt komisyona sevk edildi TBMM Plan ve Bütçe Komisyonu ,memurlara ilave bir derece verilmesinin yanı sıra çok sayıda yasada değişiklik yapılmasını öngören tasarıyı ,alt komisyona sevk etti .</sentence>
+<sentence num="2">Komisyon ,memurlara ilave bir derece verilmesiyle ilgili yasa teklifini görüşmeyi kararlaştırdı .</sentence>
+<sentence num="3">Tasarı üzerinde söz alan CHP milletvekilleri ,emeklilik yaşı ,dul ve yetim maaşları ile emekli maaşlarını düzenleyen hükümlerin Anayasa'ya aykırı olduğunu ileri sürerek ,tasarının aynı zamanda daha önce kabul edilen Mali Kontrol Yasası ile de çeliştiğini söylediler .</sentence>
+</doc>
+<doc>
+<id>6296</id>
+<sentence num="0">2005 01 12 18 :55 :00 .Memura derece alt komisyonda .</sentence>
+<sentence num="1">Komisyon ,memurlara ilave bir derece verilmesiyle ilgili yasa teklifini görüşmeyi kararlaştırdı .</sentence>
+<sentence num="2">Tasarı üzerinde söz alan CHP milletvekilleri ,emeklilik yaşı ,dul ve yetim maaşları ile emekli maaşlarını düzenleyen hükümlerin Anayasa'ya aykırı olduğunu ileri sürerek ,tasarının aynı zamanda daha önce kabul edilen Mali Kontrol Yasası ile de çeliştiğini söylediler .</sentence>
+<sentence num="3">CHP milletvekillerinin ,memurlara ilave bir derece verilmesi ile ilgili maddenin tasarıdan ayrılarak görüşülmesi ,diğer maddelerin ise alt komisyona sevk edilmesi önerisine ,AK Parti milletvekilleri de destek verdi .</sentence>
+<sentence num="4">Bunun üzerine Komisyon Başkanı Sait Açba ,tasarının bir maddesinin ayrılarak görüşülmesinin İçtüzük hükümlerine uygun olmadığını belirterek ,''Tasarının tamamı alt komisyona sevk edilecek .</sentence>
+<sentence num="5">Ancak ,gündemimizde memurlara ilave bir derece verilmesini öngören bir yasa teklifi var .</sentence>
+<sentence num="6">Onun görüşülmesi için teknik çalışma yapıyoruz ''dedi .</sentence>
+<sentence num="7">Açba ,hazırlıkların tamamlanması için komisyon çalışmalarına bir süre ara verdi .</sentence>
+<sentence num="8">AA .</sentence>
+</doc>
+<doc>
+<id>6310</id>
+<sentence num="0">2005 01 12 19 :30 :00 .Memurlara derece verilmesini öngören tasarı kabul edildi .</sentence>
+<sentence num="1">Memurlara derece verilmesini öngören tasarı kabul edildi TBMM Plan ve Bütçe Komisyonu'nda ,1991'den sonra işe giren memurlara ve diğer kamu görevlilerine bir derece verilmesine ilişkin kanun teklifi kabul edildi .</sentence>
+<sentence num="2">Komisyonda ,memurlara derece verilmesini de öngören kanun tasarısının alt komisyona sevk edilmesinin ardından ,memurlara derece verilmesine ilişkin ,AK Parti Samsun Milletvekili Mustafa Çakır ve Şanlıurfa Milletvekili Yahya Akman'ın ayrı ayrı verdikleri teklifler ile DYP Iğdır Milletvekili Dursun Akdemir ve Denizli Milletvekili Ümmet Kandoğan'ın birlikte verdiği teklifin birleştirilerek ele alınması kararlaştırıldı .</sentence>
+</doc>
+<doc>
+<id>6402</id>
+<sentence num="0">2005 01 13 00 :05 :00 .Memura 1 Derece Komisyon'dan Geçti .</sentence>
+<sentence num="1">15 Ekim 1991 yılından sonra işe başlayan memurlara bir derece verilmesine ilişkin düzenleme Meclis Plan ve Bütçe Komisyonu'nda kabul edildi .</sentence>
+<sentence num="2">Daha önce hükümetin gönderdiği ve başta yetim aylıkları olmak üzere çok sayıda önemli düzenleme içeren tasarı bayram öncesine yetişmeyeceği endişesiyle alt komisyona sevkedildi .</sentence>
+<sentence num="3">Tek maddede düzenlenen memurlara derece verilmesine ilişkin düzenleme ise komisyonda görüşülerek kabul edildi .</sentence>
+<sentence num="4">Teklifle ,ilk kez 1979'da Bülent Ecevit ,1991'de de Mesut Yılmaz hükümeti döneminde verilen derece yükseltmesinden yararlanamayan memurlara birer derece veriliyor .</sentence>
+<sentence num="5">Düzenlemenin bugün (13 .01 .2005 )Genel Kurul'da yasalaşması bekleniyor .</sentence>
+</doc>
+<doc>
+<id>6499</id>
+<sentence num="0">2005 01 13 09 :15 :00 .Memura Erdoğan derecesi .</sentence>
+<sentence num="1">ANKARA Milliyet Kamuda çalışan bir milyona yakın memur ,merakla beklediği bir derece uygulamasını Kurban Bayramı öncesinde elde etti .</sentence>
+<sentence num="2">TBMM Plan ve Bütçe Komisyonu'nda kabul edilen yasa teklifi bugün TBMM Genel Kurulu'nda görüşülerek yasalaştırılacak .</sentence>
+<sentence num="3">Hareketli görüşmelerin yaşandığı Plan ve Bütçe Komisyonu'nda ilk olarak memurlara ilave bir derece verilmesinin yanı sıra çok sayıda yasada değişiklik yapılmasını öngören ve torba tasarı olarak adlandırılan yasa tasarısı ele alındı .</sentence>
+<sentence num="4">Devlet Bakanı Ali Babacan ,tasarının memura bir derece verilmesini öngören düzenleme dahil 32 madde ve 6 geçici maddeden oluştuğunu belirtirken ,bunlarla 25 yasa ve 7 KHK'de değişiklik yapıldığını söyledi .</sentence>
+<sentence num="5">Bu düzenlemenin bütçeye hiçbir ilave yük getirmeyeceğini belirten Babacan ,bunun ,2005 yılı bütçesi hazırlanırken göz önüne alındığını ve mali kaynakların personel ödeneklerine konulduğunu bildirdi .</sentence>
+<sentence num="6">CHP milletvekilleri de ,memurlara ilave bir derece verilmesi ile ilgili maddenin tasarıdan ayrılarak görüşülmesi ,diğer maddelerin ise alt komisyona sevk edilmesini önerdi .</sentence>
+<sentence num="7">AKP milletvekilleri de bu görüşe destek verdi .</sentence>
+<sentence num="8">Komisyon Başkanı Sait Açba ise ,tasarının bir derece verilmesine ilişkin maddesinin ayrılarak görüşülmesinin İçtüzük hükümlerine uygun olmadığını belirterek ,Tasarının tamamı alt komisyona sevk edilecek .</sentence>
+<sentence num="9">Ancak ,gündemimizde memurlara ilave bir derece verilmesini öngören bir yasa teklifi var .</sentence>
+<sentence num="10">Onu görüşelim dedi .</sentence>
+<sentence num="11">Teklifle yapıldı Memurlara derece verilmesine ilişkin Torba tasarı alt komisyona sevkedilirken ,yine memurlara derece verilmesine öngören AKP Samsun Milletvekili Mustafa Çakır'ın teklifi komisyonda ele alındı .</sentence>
+<sentence num="12">Teklifin görüşmelerinde AKP Samsun Milletvekili Musa Uzunkaya'nın eski başbakanlardan Bülent Ecevit'in 1979'da ,Mesut Yılmaz'ın da 1991'de çıkardıkları derece yasalarını hatırlatırken ,Bunun adı da `Erdoğan derecesi 'olacak dedi .</sentence>
+<sentence num="13">CHP Trabzon Milletvekili Akif Hamzaçebi ise ,hükümetlerin dereceleri yıpranmaya başladıklarında verdiklerini anımsatarak ,o dereceleri verenler hükümete veda ettiler ,unutmayın dedi .</sentence>
+<sentence num="14">Komisyonda adı değiştirilerek kabul edilen teklife göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="15">Daha önce derece verilmesine ilişkin yasalardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+<sentence num="16">Teklifin 15 Ocak'tan itibaren geçerli olması öngörülürken ,memurlar düzenlemeden kaynaklanacak ücret farkını Şubat ayında alacak .</sentence>
+<sentence num="17">Komisyonda kabul edilen teklif bayram öncesinde memura müjde olması amacıyla bugün TBMM Genel Kurulu'nda yasalaştırılacak .</sentence>
+</doc>
+<doc>
+<id>6553</id>
+<sentence num="0">2005 01 13 10 :30 :00 .Memur 'derece'leniyor .</sentence>
+<sentence num="1">Hareketli görüşmelerin yaşandığı Plan ve Bütçe Komisyonu'nda ilk olarak memurlara ilave bir derece verilmesinin yanı sıra çok sayıda yasada değişiklik yapılmasını öngören ve torba tasarı olarak adlandırılan yasa tasarısı ele alındı .</sentence>
+<sentence num="2">Devlet Bakanı Ali Babacan ,tasarının memura bir derece verilmesini öngören düzenleme dahil 32 madde ve 6 geçici maddeden oluştuğunu belirtirken ,bunlarla 25 yasa ve 7 KHK'de değişiklik yapıldığını söyledi .</sentence>
+<sentence num="3">Bu düzenlemenin bütçeye hiçbir ilave yük getirmeyeceğini belirten Babacan ,bunun ,2005 yılı bütçesi hazırlanırken göz önüne alındığını ve mali kaynakların personel ödeneklerine konulduğunu bildirdi .</sentence>
+<sentence num="4">CHP milletvekilleri de ,memurlara ilave bir derece verilmesi ile ilgili maddenin tasarıdan ayrılarak görüşülmesi ,diğer maddelerin ise alt komisyona sevk edilmesini önerdi .</sentence>
+<sentence num="5">AKP milletvekilleri de bu görüşe destek verdi .</sentence>
+<sentence num="6">Komisyon Başkanı Sait Açba ise ,tasarının bir derece verilmesine ilişkin maddesinin ayrılarak görüşülmesinin İçtüzük hükümlerine uygun olmadığını belirterek ,Tasarının tamamı alt komisyona sevk edilecek .</sentence>
+<sentence num="7">Ancak ,gündemimizde memurlara ilave bir derece verilmesini öngören bir yasa teklifi var .</sentence>
+<sentence num="8">Onu görüşelim dedi .</sentence>
+<sentence num="9">Teklifle yapıldı Memurlara derece verilmesine ilişkin Torba tasarı alt komisyona sevkedilirken ,yine memurlara derece verilmesine öngören AKP Samsun Milletvekili Mustafa Çakır'ın teklifi komisyonda ele alındı .</sentence>
+<sentence num="10">Teklifin görüşmelerinde AKP Samsun Milletvekili Musa Uzunkaya'nın eski başbakanlardan Bülent Ecevit'in 1979'da ,Mesut Yılmaz'ın da 1991'de çıkardıkları derece yasalarını hatırlatırken ,Bunun adı da `Erdoğan derecesi 'olacak dedi .</sentence>
+<sentence num="11">CHP Trabzon Milletvekili Akif Hamzaçebi ise ,hükümetlerin dereceleri yıpranmaya başladıklarında verdiklerini anımsatarak ,o dereceleri verenler hükümete veda ettiler ,unutmayın dedi .</sentence>
+<sentence num="12">Komisyonda adı değiştirilerek kabul edilen teklife göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="13">Daha önce derece verilmesine ilişkin yasalardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+<sentence num="14">Teklifin 15 Ocak'tan itibaren geçerli olması öngörülürken ,memurlar düzenlemeden kaynaklanacak ücret farkını Şubat ayında alacak .</sentence>
+<sentence num="15">Komisyonda kabul edilen teklif bayram öncesinde memura müjde olması amacıyla bugün TBMM Genel Kurulu'nda yasalaştırılacak .</sentence>
+<sentence num="16">KAYNAK :MİLLİYET .</sentence>
+</doc>
+<doc>
+<id>6564</id>
+<sentence num="0">2005 01 13 10 :35 :00 .Memurlar zamlı maaşla birlikte fark da alacak .</sentence>
+<sentence num="1">Memurlar ,zamlı maaşlarını 15 Ocak'ta 15 günlük farkıyla birlikte alacak .</sentence>
+<sentence num="2">Maliye Bakanı Kemal Unakıtan ,bütçe yasası kapsamında memurların maaş ve diğer özlük haklarıyla ilgili yapılacak işlemleri bir tel emriyle ilgili birimlere duyurdu .</sentence>
+<sentence num="3">Buna göre 1 Ocak 2004'ten geçerli olmak üzere ,aylık gösterge tablosunda yer alan rakamlar ile ek gösterge rakamlarının aylık tutarlara çevrilmesine esas aylık katsayısı 0 .0401 ,memuriyet taban aylığı göstergesine uygulanan taban aylık katsayısı 0 .486 ,iş güçlüğü ,iş riski ,temininde güçlük ve mali sorumluluk zamlarının aylık tutarlara çevrilmesine esas yan ödeme katsayısı ise 0 .0126 olarak belirlendi .</sentence>
+<sentence num="4">2005 yılında düşük maaş alana yüksek yüksek maaş alana da düşük zam ilkesi çerçevesinde memur aylıklarının kümülatif bazda yüzde 8 .1'le yüzde 12 .1 oranında artırılması kararlaştırılmıştı .</sentence>
+<sentence num="5">Memurlara verilecek bir derece ve aile yardımı ödeneğindeki artışla en düşük devlet memur aylığındaki kümülatif artış yüzde 13 .5'e ulaşacak .</sentence>
+<sentence num="6">Memur emekli aylıklarındaki kümülatif artış ise yüzde 11 .4 düzeyinde bulunuyor .</sentence>
+<sentence num="7">Zamlar 1 Ocak'tan geçerli olduğu için memurlar 15 Ocak'ta maaşlarını 15 günlük farklarıyla birlikte alacaklar .</sentence>
+<sentence num="8">EN DÜŞÜK MAAŞ 525 YTL OLUYOR 1 Ocak'tan geçerli olacak zamla en düşük dereceli memur olan 414'üncü derecenin ikinci kademesindeki memur maaşı 525 .</sentence>
+<sentence num="9">20 YTL (525 milyon 200 bin lira )düzeyine çıktı .</sentence>
+<sentence num="10">Birinci derecenin 4'üncü kademesindeki genel müdürün aylığı 2 bin 716 .27 YTL (2 milyar 716 milyon 270 bin lira ),aynı derece ve kademedeki şube müdürünün maaşı da 949 .95 YTL'ye (949 milyon 950 bin lira )çıktı .</sentence>
+<sentence num="11">9'un 1'inden işe başlayan memurun aylığı da 528 .04 YTL'ye yükseldi .</sentence>
+<sentence num="12">1'inci derecenin 4'üncü kademesindeki valinin maaşı 2 bin 735 .64 YTL (2 milyar 735 milyon 640 bin lira ),7'nci derecenin birinci kademesinden göreve başlayan kaymakam maaşı 1089 .21 YTL (1 milyar 89 milyon 210 bin lira )yükseldi .</sentence>
+<sentence num="13">1'in 4'ündeki birinci sınıf yargıcın maaşı 2 bin 861 .73 YTL (2 milyar 861 milyon 730 bin lira ),8'inci derecenin 4'üncü kademesinden göreve başlayan yargıcın aylığı da 1378 .81 YTL'ye (1 milyar 378 milyon 810 bin lira )çıktı .</sentence>
+<sentence num="14">1'in 4'ündeki profesör maaşı 2 bin 285 .65 YTL (2 milyar 285 milyon 650 bin lira ),aynı derece ve kademedeki öğretmenin aylığı 836 .41 YTL'ye (836 milyon 410 bin lira )yükseldi .</sentence>
+<sentence num="15">9'un 1'inden işe başlayan öğretmen maaşı 670 .81 YTL (670 milyon 810 bin lira )oldu .</sentence>
+<sentence num="16">Başkomiserin maaşı 1070 .84 YTL (1 milyar 70 milyon 840 bin ),polis memurunun maaşı da 882 .64 YTL (882 milyon 640 bin lira )oldu .</sentence>
+<sentence num="17">1'in 4'ündeki uzman doktorun aylığı 1148 .15 YTL (1 milyar 148 milyon 150 bin ),8'inci derecenin 3'üncü kademesinden göreve başlayan yeni mezun doktor maaşı da 904 .87 YTL (904 milyon 870 bin lira )oldu .</sentence>
+<sentence num="18">Birinci derecenin 4'üncü kademesindeki mühendisin aylığı ,989 .25 YTL'ye (985 milyon 250 bin lira )yükseldi .</sentence>
+<sentence num="19">ÇOCUK VE DOĞUM YARDIMI Memurlara çocuklardan her biri için 250 olarak uygulanan aile yardımı ödeneği gösterge rakamı ,15 Ocak'tan itibaren 0 6 yaş grubunda yer alan çocuklar için 500 olarak uygulanacak .</sentence>
+<sentence num="20">Aile yardımı ödeneğine hak kazanan ikiden fazla çocuğu bulunanlarda ,bu yaş grubunda yer alan çocuklara öncelik verilecek .</sentence>
+<sentence num="21">Bu düzenlemenin memur maaşlarına yansıması 20 milyon lira olarak hesaplanıyor .</sentence>
+<sentence num="22">Söz konusu tutar daha önce 9 milyon 600 bin lira düzeyinde bulunuyordu .</sentence>
+<sentence num="23">Doğum yardımı ödeneği katsayısı da 75'den 1000 gösterge rakamına çıkarılıyor .</sentence>
+<sentence num="24">Böylelikle memurlara doğum yardımı olarak 40 milyon lira verilecek .</sentence>
+<sentence num="25">LOJMAN TAZMİNATI KALDIRILIYOR Memurlara daha önce ödenen lojman tazminatı tutarları ,15 Ocak'tan itibaren ödenmeyecek .</sentence>
+<sentence num="26">SÖZLEŞMELİ PERSONEL ÜCRETLERİ Memur maaşlarındaki artışa bağlı olarak ,kamuda çalışan sözleşmeli personelin ücret tavanları da değiştirildi .</sentence>
+<sentence num="27">Ücret tavanı sözleşmeli personel için 1830 YTL olarak belirlendi .</sentence>
+<sentence num="28">Sözleşmeli personel olarak 2004 yılında çeşitli statülerde çalıştırılanlardan 2005 yılında da görevlerine devam etmeleri ilgili bakanlık ya da kuruluşlarca uygun görülenlerin ocak ,şubat ve mart aylarına ait sözleşme ücretleri ,yeni bir sözleşme imzalanana kadar ücretlerine göre yüzde 6'yla yüzde 4 arasında değişen oranlarda artırılacak .</sentence>
+<sentence num="29">Bu arada işçilere ödenecek kıdem tazminatlarında yıllık tavan da 1648 .90 YTL'ye yükseldi .</sentence>
+<sentence num="30">Erbaş ve erler için ödenecek tazminat 1 Ocak 30 Haziran 2005 arasındaki sürede 100 YTL'yi geçmeyecek .</sentence>
+</doc>
+<doc>
+<id>6831</id>
+<sentence num="0">2005 01 13 15 :15 :00 .Memura derece verilmesi ,bayramdan sonra ele alınacak ...</sentence>
+<sentence num="1">AK Parti Grup Başkanvekili İrfan Gündüz ,memurlara ilave bir derece verilmesini öngören yasa teklifinin bugün TBMM Genel Kurulu'nda ele alınmayacağını söyledi .</sentence>
+<sentence num="2">Gündüz ,gazetecilerin sorusu üzerine ,TBMM Plan ve Bütçe Komisyonu ,yasa teklifinin raporunu tamamlayamadığı için Kurban Bayramı sonrasında görüşülmesini kararlaştırdıklarını bildirdi .</sentence>
+<sentence num="3">İrfan Gündüz ,memurların mağdur edilmemesi için ,bayram sonu çıkarılması planlanan yasanın yürürlük tarihinin 15 Ocak 2005 olarak düzenleneceğini kaydetti .</sentence>
+<sentence num="4">Meclis'in bayram tatiline girmesiyle ilgili soru üzerine de Gündüz ,''CHP Kurultayı dolayısıyla centilmenlik gereği Meclis'in 25 ,26 ve 27 Ocak'ta da tatil edilmesini kararlaştırdık ''dedi .</sentence>
+</doc>
+<doc>
+<id>6996</id>
+<sentence num="0">2005 01 13 18 :41 :00 .Memurlara 1 Derece Bayramdan Sonra .</sentence>
+<sentence num="1">Devlet Bakanı ve Başbakan Yardımcısı Mehmet Ali Şahin ,bazı aksaklıklar nedeniyle çıkarılamayan memurlara bir derece verilmesine ilişkin düzenlemenin bayramdan hemen sonra görüşüleceğini söyledi .</sentence>
+<sentence num="2">Mehmet Ali Şahin ,Meclis Genel Kurulu'nda yaptığı açıklamada ,sözkonusu düzenlemenin 15 Ocak'tan itibaren geçerli olacağı için çalışanların hak kaybına uğramayacaklarını belirtti .</sentence>
+<sentence num="3">Sahin :Kurban Bayramından sonraki ilk çalışma gününde huzurunuza getireceğiz ve birlikte çıkaracağız .</sentence>
+<sentence num="4">Memurlarımızın herhangi bir kaybı sözkonusu olmayacak ,çünkü yürürlük tarihi tasarıdaki yürürlük tarihi olacaktır ..</sentence>
+</doc>
+<doc>
+<id>15691</id>
+<sentence num="0">2005 01 30 10 :55 :00 .''Memura derece ''yasası Meclis'te ...</sentence>
+<sentence num="1">TBMM ,Kurban Bayramı ve CHP Kurultayı dolayısıyla ara verdiği çalışmalarına ,bu hafta yeniden başlayacak .</sentence>
+<sentence num="2">TBMM Genel Kurulu'nda ,1 Şubat Salı günü denetim yapılacak .</sentence>
+<sentence num="3">AK Parti Kütahya Milletvekili Hasan Fehmi Kinay ve 39 milletvekilinin ,el sanatlarının geliştirilmesi ,korunması ve gelecek kuşaklara aktarılması ,üreticilerin sorunlarının araştırılarak çözüm önerilerinin belirlenmesi amacıyla verdiği araştırma önergesi görüşülecek .</sentence>
+<sentence num="4">Genel Kurul ,2 Şubat Çarşamba günü ise memurlara ilave bir derece verilmesini öngören yasa teklifini görüşecek .</sentence>
+<sentence num="5">Teklif ,1991 ve sonrasında memur olanlara ilave bir derece verilmesini öngörüyor .</sentence>
+<sentence num="6">Bayram öncesinde çıkarılması planlanan ancak ,Plan ve Bütçe Komisyonu'nun raporunu zamanında verememesi nedeniyle yetişemeyen düzenlemenin yürürlük tarihi ,memurların mağdur edilmemesi için 15 Ocak 2005 olarak düzenlenecek .</sentence>
+<sentence num="7">Bazı uluslararası anlaşmaların onaylanmasının uygun bulunduğunu içeren tasarılar da 3 Şubat Perşembe günü Genel Kurul'da ele alınacak .</sentence>
+<sentence num="8">KOMİSYONLAR Düzenleyici ve denetleyici kurumlar için ortak usul ve esaslar getiren yasa tasarısı ,2 Şubat Çarşamba günü TBMM Plan ve Bütçe Komisyonu'nda görüşülecek .</sentence>
+<sentence num="9">Tasarı ,Bankacılık Düzenleme ve Denetleme Kurumu ,Enerji Piyasası Düzenleme Kurumu ,Kamu İhale Kurumu ,Radyo ve Televizyon Üst Kurulu ,Rekabet Kurumu ,Sermaye Piyasası Kurulu ,Telekomünikasyon Kurumu ve Tütün ,Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu'nu kapsıyor .</sentence>
+<sentence num="10">Tasarruf Mevduatı Sigorta Fonu hakkında da ''kurum bütçesi ''ni düzenleyen madde dışında tasarıdaki hükümler uygulanacak .</sentence>
+<sentence num="11">AB Uyum Komisyonu ,1 Şubat Salı günü toplanarak ,daha önce görüşmeye başladığı Karayolları Trafik Kanunu'nda Değişiklik Yapılmasına ilişkin Yasa Tasarısı'nı ele alacak .</sentence>
+</doc>
+<doc>
+<id>15693</id>
+<sentence num="0">2005 01 30 10 :59 :00 .Memura derece verilmesini öngören tasarı görüşülecek .</sentence>
+<sentence num="1">Memura derece verilmesini öngören tasarı görüşülecek TBMM ,Kurban Bayramı ve CHP Kurultayı dolayısıyla ara verdiği çalışmalarına ,bu hafta yeniden başlayacak .</sentence>
+<sentence num="2">TBMM Genel Kurulu'nda ,1 Şubat Salı günü denetim yapılacak .</sentence>
+<sentence num="3">AK Parti Kütahya Milletvekili Hasan Fehmi Kinay ve 39 milletvekilinin ,el sanatlarının geliştirilmesi ,korunması ve gelecek kuşaklara aktarılması ,üreticilerin sorunlarının araştırılarak çözüm önerilerinin belirlenmesi amacıyla verdiği araştırma önergesi görüşülecek .</sentence>
+<sentence num="4">Genel Kurul ,2 Şubat Çarşamba günü ise memurlara ilave bir derece verilmesini öngören yasa teklifini görüşecek .</sentence>
+<sentence num="5">Teklif ,1991 ve sonrasında memur olanlara ilave bir derece verilmesini öngörüyor .</sentence>
+<sentence num="6">Bayram öncesinde çıkarılması planlanan ancak ,Plan ve Bütçe Komisyonu'nun raporunu zamanında verememesi nedeniyle yetişemeyen düzenlemenin yürürlük tarihi ,memurların mağdur edilmemesi için 15 Ocak 2005 olarak düzenlenecek .</sentence>
+<sentence num="7">Bazı uluslararası anlaşmaların onaylanmasının uygun bulunduğunu içeren tasarılar da 3 Şubat Perşembe günü Genel Kurul'da ele alınacak .</sentence>
+<sentence num="8">KOMİSYONLAR Düzenleyici ve denetleyici kurumlar için ortak usul ve esaslar getiren yasa tasarısı ,2 Şubat Çarşamba günü TBMM Plan ve Bütçe Komisyonu'nda görüşülecek .</sentence>
+<sentence num="9">Tasarı ,Bankacılık Düzenleme ve Denetleme Kurumu ,Enerji Piyasası Düzenleme Kurumu ,Kamu İhale Kurumu ,Radyo ve Televizyon Üst Kurulu ,Rekabet Kurumu ,Sermaye Piyasası Kurulu ,Telekomünikasyon Kurumu ve Tütün ,Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu'nu kapsıyor .</sentence>
+<sentence num="10">Tasarruf Mevduatı Sigorta Fonu hakkında da ''kurum bütçesi ''ni düzenleyen madde dışında tasarıdaki hükümler uygulanacak .</sentence>
+<sentence num="11">AB Uyum Komisyonu ,1 Şubat Salı günü toplanarak ,daha önce görüşmeye başladığı Karayolları Trafik Kanunu'nda Değişiklik Yapılmasına ilişkin Yasa Tasarısı'nı ele alacak .</sentence>
+</doc>
+<doc>
+<id>15784</id>
+<sentence num="0">2005 01 30 13 :49 :00 .'Memura derece 'yasası Meclis'te .</sentence>
+<sentence num="1">TBMM Genel Kurulu'nda ,1 Şubat Salı günü denetim yapılacak .</sentence>
+<sentence num="2">AK Parti Kütahya Milletvekili Hasan Fehmi Kinay ve 39 milletvekilinin ,el sanatlarının geliştirilmesi ,korunması ve gelecek kuşaklara aktarılması ,üreticilerin sorunlarının araştırılarak çözüm önerilerinin belirlenmesi amacıyla verdiği araştırma önergesi görüşülecek .</sentence>
+<sentence num="3">Genel Kurul ,2 Şubat Çarşamba günü ise memurlara ilave bir derece verilmesini öngören yasa teklifini görüşecek .</sentence>
+<sentence num="4">Teklif ,1991 ve sonrasında memur olanlara ilave bir derece verilmesini öngörüyor .</sentence>
+<sentence num="5">Bayram öncesinde çıkarılması planlanan ancak ,Plan ve Bütçe Komisyonu'nun raporunu zamanında verememesi nedeniyle yetişemeyen düzenlemenin yürürlük tarihi ,memurların mağdur edilmemesi için 15 Ocak 2005 olarak düzenlenecek .</sentence>
+<sentence num="6">Bazı uluslararası anlaşmaların onaylanmasının uygun bulunduğunu içeren tasarılar da 3 Şubat Perşembe günü Genel Kurul'da ele alınacak .</sentence>
+<sentence num="7">KOMİSYONLAR Düzenleyici ve denetleyici kurumlar için ortak usul ve esaslar getiren yasa tasarısı ,2 Şubat Çarşamba günü TBMM Plan ve Bütçe Komisyonu'nda görüşülecek .</sentence>
+<sentence num="8">Tasarı ,Bankacılık Düzenleme ve Denetleme Kurumu ,Enerji Piyasası Düzenleme Kurumu ,Kamu İhale Kurumu ,Radyo ve Televizyon Üst Kurulu ,Rekabet Kurumu ,Sermaye Piyasası Kurulu ,Telekomünikasyon Kurumu ve Tütün ,Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu'nu kapsıyor .</sentence>
+<sentence num="9">Tasarruf Mevduatı Sigorta Fonu hakkında da ''kurum bütçesi ''ni düzenleyen madde dışında tasarıdaki hükümler uygulanacak .</sentence>
+<sentence num="10">AB Uyum Komisyonu ,1 Şubat Salı günü toplanarak ,daha önce görüşmeye başladığı Karayolları Trafik Kanunu'nda Değişiklik Yapılmasına ilişkin Yasa Tasarısı'nı ele alacak .</sentence>
+</doc>
+<doc>
+<id>15860</id>
+<sentence num="0">2005 01 30 15 :57 :00 .Meclis tatilden dönüyor .</sentence>
+<sentence num="1">TBMM ,tatilin ardından çalışmalarına bu hafta devam edecek Meclis ,Kurban Bayramı ve CHP Kurultayı nedeniyle ara verdiği çalışmalarına bu hafta yeniden başlayacak .</sentence>
+<sentence num="2">Genel kurulun ilk gündem maddesi ,memurlara ilave bir derece verilmesini öngören yasa teklifi .</sentence>
+<sentence num="3">Teklif ,1991 sonrasında memur olanlara ilave bir derece verilmesini öngörüyor .</sentence>
+<sentence num="4">Kurban Bayramı ve CHP Kurultayı nedeniyle çalışmalarına ara veren Meclis ,memurlara ilave bir derece verilmesini öngören yasa teklifini çarşamba günü ele alacak .</sentence>
+<sentence num="5">AB ile ilgili çalışmalara devam edilecek Meclis ,Avrupa Birliği ile ilgili çalışmalarına da bu hafta devam edecek .</sentence>
+<sentence num="6">AB Uyum Komisyonu salı günü toplanarak daha önce görüşmeye başladığı Karayolları Trafik Kanunu'nda değişiklik yapılmasına ilişkin yasa tasarısını ele alacak .</sentence>
+<sentence num="7">Plan ve Bütçe Komisyonu'nun bu haftaki gündeminde ise düzenleyici ve denetleyici kurumlar için ortak usul ve esaslar getiren yasa tasarısı var .</sentence>
+<sentence num="8">Tasarı BDDK ,RTÜK ,EPDK ,Kamu İhale Kurumu ,SPK ,Rekabet Kurumu gibi kurumları kapsıyor .</sentence>
+</doc>
+<doc>
+<id>16747</id>
+<sentence num="0">2005 02 01 00 :07 :00 .Memurlara Bir Derece Verilmesi .</sentence>
+<sentence num="1">16 Ekim 1991 tarihinden sonra işe başlayan memurlara bir derece verilmesine ilişkin teklif ,yarın (02 .02 .2005 )Meclis Genel Kurulu'nda ele alınacak .</sentence>
+<sentence num="2">Teklife göre ,16 Ekim 1991 yılından sonra işe başlayan memurlara bir derece verilecek .</sentence>
+<sentence num="3">Derece yükseltmesinden yararlanamadan emekli olanlar da bu haktan yararlanacak .</sentence>
+<sentence num="4">Yaklaşık bir milyon memurun faydalanacağı derece ilavesiyle ,maaşlarda yaklaşık 60 Yeni Türk Lirası artış olacağı belirtiliyor .</sentence>
+<sentence num="5">Bayram öncesinde çıkarılması planlanan ancak görüşülemeyen teklifin yürürlük tarihi ,memurların mağdur edilmemesi için 15 Ocak 2005 olarak öngörülüyor .</sentence>
+</doc>
+<doc>
+<id>17316</id>
+<sentence num="0">2005 02 01 17 :06 :00 .Memurlara derece verilmesini öngören tasarı bu hafta görüşülecek .</sentence>
+<sentence num="1">Memurlara derece verilmesini öngören tasarı bu hafta görüşülecek TBMM Genel Kurulu'nda bu hafta memurlara bir derece verilmesini öngören yasa teklifi ele alınacak .</sentence>
+<sentence num="2">Danışma Kurulu'nun konuya ilişkin önerisi ,Genel Kurul'da kabul edildi .</sentence>
+<sentence num="3">Memurlara bir derece verilmesini içeren yasa teklifi ile esnaf ve sanatkarlar federasyonlarının genel kurul ve seçimlerini 2006 yılına erteleyen yasa teklifi Genel Kurul gündeminin ön sıralarına alındı .</sentence>
+<sentence num="4">Genel Kurul'da bugün sözlü soruların ardından AK Parti Kütahya Milletvekili Hasan Fehmi Kinay'ın geleneksel Türk el sanatlarıyla ilgili araştırma önergesi görüşülecek .</sentence>
+<sentence num="5">Genel Kurul'da ,sevkedildikleri komisyonlarda 45 gün içinde görüşülmeyen iki yasa teklifinin doğrudan güdeme alınmasına ilişkin önergeler kabul edilmedi .</sentence>
+</doc>
+<doc>
+<id>17327</id>
+<sentence num="0">2005 02 01 17 :15 :00 .Memurlara ek derece bu hafta TBMM'de görüşülecek .</sentence>
+<sentence num="1">TBMM Genel Kurulu'nda bu hafta memurlara bir derece verilmesini öngören yasa teklifi ele alınacak .</sentence>
+<sentence num="2">Danışma Kurulu'nun konuya ilişkin önerisi ,Genel Kurul'da kabul edildi .</sentence>
+<sentence num="3">Memurlara bir derece verilmesini içeren yasa teklifi ile esnaf ve sanatkarlar federasyonlarının genel kurul ve seçimlerini 2006 yılına erteleyen yasa teklifi Genel Kurul gündeminin ön sıralarına alındı .</sentence>
+<sentence num="4">Genel Kurul'da bugün sözlü soruların ardından AK Parti Kütahya Milletvekili Hasan Fehmi Kinay'ın geleneksel Türk el sanatlarıyla ilgili araştırma önergesi görüşülecek .''</sentence>
+<sentence num="5">İŞÇİ BAYRAMI ''TEKLİFİ KABUL EDİLMEDİ Genel Kurul'da ,sevkedildikleri komisyonlarda 45 gün içinde görüşülmeyen iki yasa teklifinin doğrudan güdeme alınmasına ilişkin önergeler kabul edilmedi .</sentence>
+<sentence num="6">CHP Ardahan Milletvekili Ensar Öğüt'ün Türkiye'ye kaçak hayvan girişinin önlenmesi amacıyla verdiği yasa teklifi ,reddedildi .</sentence>
+<sentence num="7">Tarım ve Köyişleri Bakanı Sami Güçlü ,kaçak hayvancılığın önlenmesi amacıyla alınan önlemlerin olumlu sonuç verdiğini söyledi .</sentence>
+<sentence num="8">Bakanlıkta bu yönde bir yasa çalışması yapıldığını belirten Güçlü ,bunun yılın ikinci yarısında TBMM gündemine geleceğini ifade etti .</sentence>
+<sentence num="9">AK Parti Bursa Milletvekili Ertuğrul Yalçınbayır'ın ,1 Mayıs'ın ''işçi bayramı ''olarak kutlanmasını içeren yasa teklifinin doğrudan gündeme alınmasına CHP de destek verdi .</sentence>
+<sentence num="10">CHP'li milletvekillerinin yanı sıra Devlet Bakanı Mehmet Aydın ,AK Parti'den Sakarya Milletvekili Süleyman Gündüz ,Manisa Milletvekili Hüseyin Tanrıverdi ve Gaziantep Milletvekili Mahmut Durdu'nun destek verdiği önerge ,AK Parti'li milletvekillerinin oylarıyla reddedildi .</sentence>
+</doc>
+<doc>
+<id>17706</id>
+<sentence num="0">2005 02 02 11 :44 :00 .Memurlara derece görüşmeleri bugün Teklif ,yasalaşırsa 15 ocak 2005'ten itibaren geçerli olacak .</sentence>
+<sentence num="1">Memurlara derece teklifi bugün görüşülecek 1991'den sonra işe giren memurlara ve diğer kamu görevlilerine bir derece verilmesine ilişkin yasa teklifi bugün Meclis Genel Kurulu'nda görüşülecek .</sentence>
+<sentence num="2">Bugün Genel Kurul'da görüşülecek teklife göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="3">Teklifin yasalaşması halinde ,15 ocak tarihinden itibaren geçirli olacak .</sentence>
+<sentence num="4">Plan ve Bütçe Komisyonu'nda ele alınmıştı Memurlara derece verilmesine ilişkin ,AK Parti Samsun milletvekili Mustafa Çakır ve şanlıurfa milletvekili yahya akman'ın teklifleri ile DYP Iğdır milletvekili Dursun Akdemir ve Denizli milletvekili Ümmet Kandoğan'ın birlikte verdiği değişiklik teklileri Plan ve Bütçe Komisyonu'nda birleştirilerek ele alınmıştı .</sentence>
+<sentence num="5">Teklifin adı da 'devlet memurları ve diğer kamu görevlileri hakkında kanun teklifi 'olarak değiştirilmişti .</sentence>
+</doc>
+<doc>
+<id>18000</id>
+<sentence num="0">2005 02 02 16 :47 :00 .Memura Derece Teklifi Görüşülüyor .</sentence>
+<sentence num="1">16 Ekim 1991 yılından sonra işe başlayan memurlara bir derece verilmesine ilişkin teklif ,Meclis Genel Kurulu'nda ele alınıyor .</sentence>
+<sentence num="2">Teklife göre ,memuriyeti devam edenlerin yanısıra ,derece yükseltmesinden yararlanamadan emekli olanlar da bu haktan yararlanacak .</sentence>
+<sentence num="3">Düzenlemeden Yaklaşık bir milyon memur faydalanacak .</sentence>
+<sentence num="4">Bayram öncesinde çıkarılması planlanan ancak görüşülemeyen teklifin yürürlük tarihi ,memurların mağdur edilmemesi için 15 Ocak 2005 olarak öngörülüyor .</sentence>
+</doc>
+<doc>
+<id>18079</id>
+<sentence num="0">2005 02 02 18 :55 :00 .Memura 1 Derece Veriliyor .</sentence>
+<sentence num="1">16 Ekim 1991 tarihinden sonra işe başlayan memurlara bir derece veriliyor .</sentence>
+<sentence num="2">15 Ocak'tan itibaren geçerli olacak yasa ,Meclis Genel Kurulu'nda kabul edildi .</sentence>
+<sentence num="3">Yasayla ,1979 ve 1991 yıllarında yapılan düzenlemelerin bir benzeri getiriliyor .</sentence>
+<sentence num="4">16 Ekim 1991 yılından sonra işe başlayanlardan ,halen memuriyette olanların yanı sıra ,ücretsiz izinde bulunanlar ile derece yükseltmesini alamadan emekli olanlar da bu haktan yararlanacak .</sentence>
+<sentence num="5">Düzenlemeden yaklaşık 1 milyon kişinin faydalanacağı belirtiliyor .</sentence>
+</doc>
+<doc>
+<id>18111</id>
+<sentence num="0">2005 02 02 20 :11 :00 .Memura 1 Derece Veriliyor .</sentence>
+<sentence num="1">16 Ekim 1991 tarihinden sonra işe başlayan memurlara bir derece veriliyor .</sentence>
+<sentence num="2">15 Ocak'tan itibaren geçerli olacak yasa ,Meclis Genel Kurulu'nda kabul edildi .</sentence>
+<sentence num="3">Yasayla ,1979 ve 1991 yıllarında yapılan düzenlemelerin bir benzeri getiriliyor .</sentence>
+</doc>
+<doc>
+<id>18170</id>
+<sentence num="0">2005 02 03 00 :00 :00 .Memura derece verilmesi TBMM Genel Kurulu'nda kabul edildi .</sentence>
+<sentence num="1">TBMM Genel Kurulu'nda ,1991'den sonra işe giren memurlara ve diğer kamu görevlilerine bir derece verilmesine ilişkin kanun teklifi kabul edildi .</sentence>
+<sentence num="2">TBMM Genel Kurulu'nda ,AK Parti Samsun Milletvekili Mustafa Çakır ve Şanlıurfa Milletvekili Yahya Akman ile DYP Iğdır Milletvekili Dursun Akdemir ve Denizli Milletvekili Ümmet Kandoğan'ın ,komisyonda birleştirilen teklifleri ele alındı .</sentence>
+<sentence num="3">Genel Kurul'da CHP'nin de desteği ile kabul edilen yasaya göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="4">Daha önce derece verilmesine ilişkin yasalardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+<sentence num="5">15 Ocak'tan itibaren geçerli olacak yasaya göre ,bu tarihte ücretsiz izinde bulunan devlet memurları ile diğer kamu personeli de yararlanacak .''</sentence>
+<sentence num="6">BU ,BİR HÜKÜMET TASARRUFUDUR ''Maliye Bakanı Kemal Unakıtan ,hükümetin işbaşına gelirken işçiyi ,memuru ,fakir ,fukarayı enflasyonun altında ezdirmeme sözü verdiğini ve hep buna göre hareket ettiğini söyledi .</sentence>
+<sentence num="7">AK Parti iktidarında işçi ve memur maaşlarının reel olarak arttığını dile getiren Unakıtan ,ücretlerde artışa neden olacak her tür düzenlemenin ancak hükümetlerin plan ve programları ,hesaplamaları doğrultusunda gerçekleşebileceğini kaydetti .</sentence>
+<sentence num="8">Unakıtan ,hükümetin memura bir derece artışını da içeren bir tasarıyı hazırlayarak Meclis'e gönderdiğini anımsattı .</sentence>
+<sentence num="9">Unakıtan ,zaman darlığı nedeniyle 35 40 maddelik tasarıdan derece artışına ilişkin bölümü çıkararak ,öncelikle yasalaştırmak istediklerini ,bu çerçevede de konuya ilişkin verilen yasa tekliflerinin birleştirilerek ele alındığını bildirdi .</sentence>
+<sentence num="10">Unakıtan ,''Dolayısıyla kimse çıkıp ,burada sanki bu konuyu hükümet hiç düşünmemiş gibi laflar etmesin .</sentence>
+<sentence num="11">Hükümet hesabını ,kitabını yapmıştır ,imkanlar ölçüsünde bugün için memura bu kadar verebileceğine karar vermiştir .</sentence>
+<sentence num="12">Yani bu ,bir hükümet tasarrufudur ''dedi .</sentence>
+<sentence num="13">Kemal Unakıtan ,memurlara verilen bir dereceyle bazı memurlarda yükseleceği derecede hak edeceği diğer yan ödemelerle birlikte yüzde 22'lere kadar yükselen oranlarda ücret artışı sağladığını belirtti .</sentence>
+<sentence num="14">DYP Denizli Milletvekili Dursun Akdemir ise derece artışının verilen ekstra örnekler dışında memur maaşlarında cüzi artışlara yol açacağını ;maaşında sadece 6 8 YTL'lik artış olacak memurlar dahi bulunduğunu dile getirdi .</sentence>
+<sentence num="15">CHP sözcüleri de derece artışının kamudaki ücret adaletsizliğini gidermediğini ,personel reformunun bir an önce yapılması gerektiğini söylediler .</sentence>
+<sentence num="16">Birleştirilerek ele alınan teklifler ,TBMM Genel Kurulu'nda oybirliği ile kabul edildi .?</sentence>
+<sentence num="17">İller Bankası ajandasında Kürdistan haritası ?</sentence>
+<sentence num="18">Ankara'da PKK zirvesi .</sentence>
+</doc>
+<doc>
+<id>18177</id>
+<sentence num="0">2005 02 03 00 :16 :00 .Memurlara derece müjdesi .</sentence>
+<sentence num="1">Memurlara 1 derece verilmesinin bütçeye ilave yük getirmeyeceği ve buna ilişkin ödeneğin 2005 bütçesine konulduğu belirtiliyor .</sentence>
+<sentence num="2">Yasa ,memur maaşlarına yüzde 12 oranında bir artış yapılmasını da öngörüyor .</sentence>
+</doc>
+<doc>
+<id>20919</id>
+<sentence num="0">2005 02 07 19 :36 :00 .Memura 1 Derece'ye Sezer'den Onay .</sentence>
+<sentence num="1">Cumhurbaşkanı Ahmet Necdet Sezer ,aralarında ,Memurlar ve diğer kamu görevlilerine bir derece verilmesine ilişkin kanunun da bulunduğu bir dizi kanunu onayladı .</sentence>
+<sentence num="2">Cumhurbaşkanlığı Basın Merkezi'nden yapılan açıklamaya göre ,Cumhurbaşkanı Sezer tarafından onaylanan kanunlar yayımlanmak üzere Başbakanlığa gönderildi .</sentence>
+<sentence num="3">Cumhurbaşkanı Sezer tarafından onaylanan ,Memurlar ve Diğer Kamu Görevlerine Bir Derece Verilmesi Hakkında Kanun 1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilmesini öngörüyor .</sentence>
+<sentence num="4">Daha önce derece verilmesine ilişkin yasalardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+<sentence num="5">15 Ocak'tan itibaren geçerli olacak yasaya göre ,bu tarihte ücretsiz izinde bulunan devlet memurları ile diğer kamu personeli de yararlanacak .</sentence>
+</doc>
+<doc>
+<id>20926</id>
+<sentence num="0">2005 02 07 20 :00 :00 .Cumhurbaşkanı Sezer 10 kanunu onayladı .</sentence>
+<sentence num="1">Cumhurbaşkanı Ahmet Necdet Sezer ,aralarında ''Memurlar ve Diğer kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanun ''un da bulunduğu 10 kanunu onayladı .</sentence>
+<sentence num="2">Cumhurbaşkanlığı Basın Merkezi'nden yapılan açıklamaya göre ,kanunlar ,yayımlanmak üzere Başbakanlığa gönderildi .</sentence>
+<sentence num="3">Cumhurbaşkanı'nca onaylanan ve yayımlanmak üzere Başbakanlığa gönderilen kanunlar şunlar :5289 sayılı ''Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanun ''5291 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Lübna Cumhuriyeti Tarım Bakanlığı Arasında Tarım Alanında Teknik ,Bilimsel ve Ekonomik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5292 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Küba Cumhuriyeti Tarım Bakanlığı Arasında Karantina ve Bitki Koruma Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5293 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Küba Cumhuriyeti Tarım Bakanlığı Arasında Veterinerlik Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5294 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Moğolistan Gıda ve Tarım Bakanlığı Arasında Tarım Alanında Teknik ,Bilimsel ve Ekonomik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5295 sayılı ''Türkiye Cumhuriyeti ve Slovenya Cumhuriyeti Arasında Yatırımların Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5296 sayılı ''Türkiye Cumhuriyeti ve Suriye Arap Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5297 sayılı ''Türkiye Cumhuriyeti ve Afganistan İslami Geçiş Devleti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5298 sayılı ''Türkiye Cumhuriyeti ve Lübnan Cumhuriyeti Arasında Yatırımların Teşviki ve Karşılıklı Korunmasını İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5299 sayılı ''Türkiye Cumhuriyeti ve Güney Afrika Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''MEMURLARA BİR DERECE VERİLMESİ 5289 sayılı ''Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanun ''a göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="4">Daha önce derece verilmesine ilişkin kanunlardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+<sentence num="5">15 Ocak'tan itibaren geçerli olacak kanundan ,bu tarihte ücretsiz izinde bulunan devlet memurları ile diğer kamu personeli de yararlanacak .</sentence>
+</doc>
+<doc>
+<id>20930</id>
+<sentence num="0">2005 02 07 20 :10 :00 .Sezer'den memura derece onayı .</sentence>
+<sentence num="1">Cumhurbaşkanlığı Basın Merkezi'nden yapılan açıklamaya göre ,kanunlar ,yayımlanmak üzere Başbakanlığa gönderildi .</sentence>
+<sentence num="2">Cumhurbaşkanı'nca onaylanan ve yayımlanmak üzere Başbakanlığa gönderilen kanunlar şunlar :5289 sayılı ''Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanun ''5291 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Lübna Cumhuriyeti Tarım Bakanlığı Arasında Tarım Alanında Teknik ,Bilimsel ve Ekonomik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5292 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Küba Cumhuriyeti Tarım Bakanlığı Arasında Karantina ve Bitki Koruma Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5293 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Küba Cumhuriyeti Tarım Bakanlığı Arasında Veterinerlik Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5294 sayılı ''Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Moğolistan Gıda ve Tarım Bakanlığı Arasında Tarım Alanında Teknik ,Bilimsel ve Ekonomik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5295 sayılı ''Türkiye Cumhuriyeti ve Slovenya Cumhuriyeti Arasında Yatırımların Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5296 sayılı ''Türkiye Cumhuriyeti ve Suriye Arap Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5297 sayılı ''Türkiye Cumhuriyeti ve Afganistan İslami Geçiş Devleti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5298 sayılı ''Türkiye Cumhuriyeti ve Lübnan Cumhuriyeti Arasında Yatırımların Teşviki ve Karşılıklı Korunmasını İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''5299 sayılı ''Türkiye Cumhuriyeti ve Güney Afrika Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun ''MEMURLARA BİR DERECE VERİLMESİ 5289 sayılı ''Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanun ''a göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="3">Daha önce derece verilmesine ilişkin kanunlardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+<sentence num="4">15 Ocak'tan itibaren geçerli olacak kanundan ,bu tarihte ücretsiz izinde bulunan devlet memurları ile diğer kamu personeli de yararlanacak .</sentence>
+<sentence num="5">AA .</sentence>
+</doc>
+<doc>
+<id>21070</id>
+<sentence num="0">2005 02 08 09 :34 :00 .Sezer'den memurlara ek dereceye onay Yasa 15 ocaktan itibaren geçerli olacak .</sentence>
+<sentence num="1">Sezer'in onayladığı yasa Resmi Gazete'de yayımlanınca yürürlüğe girecek 1991'den sonra işe giren memurlara ve diğer kamu görevlilerine bir derece verilmesine ilişkin yasa ,Cumhurbaşkanı Ahmet Necdet Sezer tarafından onaylandı .</sentence>
+<sentence num="2">Yasaya göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="3">Yasadan ,ücretsiz izinli olan memurlar da yararlanacak .</sentence>
+<sentence num="4">15 ocaktan geçerli olacak Resmi Gazete'de yayımlanmasıyla yürürlüğe girecek olan yasa 15 ocak tarihinden itibaren geçerli olacak .</sentence>
+<sentence num="5">Böylece devlet memurları ,15 şubattaki maaşlarında derece farkının yanı sıra bir aylık da fark alacaklar .</sentence>
+<sentence num="6">1991 yılından sonra memur olanlara ilave bir derece verilmesini öngören yasa tasarısı ocak ayının ikinci haftasında Meclis'e sevk edilerek önce Meclis Plan ve Bütçe Komisyonu'nda görüşülmüş ,geçen hafta da Genel Kurul'da ele alınmıştı .</sentence>
+</doc>
+<doc>
+<id>21116</id>
+<sentence num="0">2005 02 08 10 :10 :00 .Memurlara ek bir derece veren yasa yürürlükte .</sentence>
+<sentence num="1">Memurlara ek bir derece verilmesine ilişkin yasa Resmi Gazete'de yayımlanarak yürürlüğe girdi .</sentence>
+<sentence num="2">Resmi Gazete'de yayımlanan Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanunu a göre ,16 Ekim 1991 tarihinden sonra göreve başlayan memurlar bulundukları derece ve kademeden bir defaya mahsus olmak üzere öğrenim durumlarına bakılmaksızın ve kadro şartı aranmaksızın bir üst derecenin aynı kademesine terfi ettirilecek ve alt derecede bulunan kademede geçirilen süre üst derecedeki kademede geçmiş sayılacak .</sentence>
+<sentence num="3">Yasa ,aylıksız izinde bulunanları da kapsayacak .</sentence>
+<sentence num="4">Bu yasadan emekli olanlar ,malullük ,vazife malüllüğü ile dul ve yetim aylığı alanlar da yararlanacaklar .</sentence>
+<sentence num="5">Düzenlemeden yaklaşık 1 milyon memur yararlanacak .</sentence>
+<sentence num="6">15 Ocak 2005'ten itibaren geçerli olacak derece artışı memurların bulundukları kademeye göre maaşlarına çeşitli oranlarda yansıyacak .</sentence>
+</doc>
+<doc>
+<id>21140</id>
+<sentence num="0">2005 02 08 10 :35 :00 .Memurlara derece verilmesine ilişkin kanun Resmi Gazete'de .</sentence>
+<sentence num="1">Memurlara derece verilmesine ilişkin kanun Resmi Gazete'de 1991'den sonra işe giren memurlara ve diğer kamu görevlilerine bir derece verilmesine ilişkin kanun ,Resmi Gazete'nin bugünkü sayısında yayımlandı .</sentence>
+<sentence num="2">Yasaya göre ,1991'den sonra işe başlayan sözleşmeli subay ,sözleşmeli astsubay ,uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="3">Daha önce derece verilmesine ilişkin yasalardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+</doc>
+<doc>
+<id>21148</id>
+<sentence num="0">2005 02 08 10 :41 :00 .Memurlar derecelendi .</sentence>
+<sentence num="1">Resmi Gazete'de yayımlanan Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanunu a göre ,16 Ekim 1991 tarihinden sonra göreve başlayan memurlar bulundukları derece ve kademeden bir defaya mahsus olmak üzere öğrenim durumlarına bakılmaksızın ve kadro şartı aranmaksızın bir üst derecenin aynı kademesine terfi ettirilecek ve alt derecede bulunan kademede geçirilen süre üst derecedeki kademede geçmiş sayılacak .</sentence>
+<sentence num="2">Yasa ,aylıksız izinde bulunanları da kapsayacak .</sentence>
+<sentence num="3">Bu yasadan emekli olanlar ,malullük ,vazife malüllüğü ile dul ve yetim aylığı alanlar da yararlanacaklar .</sentence>
+<sentence num="4">Düzenlemeden yaklaşık 1 milyon memur yararlanacak .</sentence>
+<sentence num="5">15 Ocak 2005'ten itibaren geçerli olacak derece artışı memurların bulundukları kademeye göre maaşlarına çeşitli oranlarda yansıyacak .</sentence>
+</doc>
+<doc>
+<id>21235</id>
+<sentence num="0">2005 02 08 12 :13 :00 .Memura Derece Resmi Gazete'de .</sentence>
+<sentence num="1">1991'den sonra işe giren memurlara ve diğer kamu görevlilerine bir derece verilmesine ilişkin kanun ,Resmi Gazete'de yayımlandı .</sentence>
+<sentence num="2">Yasaya göre ,1991'den sonra işe başlayan sözleşmeli subay ve astsubaylar ile uzman jandarma ve uzman erbaşlar da dahil olmak üzere devlet memurları ile diğer kamu görevlilerine bir derece verilecek .</sentence>
+<sentence num="3">Daha önce derece verilmesine ilişkin yasalardan yararlanmayan emekli ,malullük ,vazife malullüğü ile dul ve yetim aylığı alanlar da bu haktan yararlanacak .</sentence>
+<sentence num="4">15 Ocak'tan geçerli olacak yasaya göre ,bu tarihte ücretsiz izinde bulunan devlet memurları ile diğer kamu personeli de yararlanacak .</sentence>
+<sentence num="5">Uygulamadan yararlanacakların aylıkları ,yüzde 22'ye varan oranlarda artacak .</sentence>
+</doc>
+<doc>
+<id>23069</id>
+<sentence num="0">2005 02 11 00 :14 :00 .Bir derece kimleri yükseltecek ?</sentence>
+<sentence num="1">Memurlara ve kamu personeline verilen bir derece ,pek çok çevre tarafından yeteri kadar algılanamadı .</sentence>
+<sentence num="2">memurlar .</sentence>
+<sentence num="3">net sitesi ,kimin nasıl yararlanabileceğine ilişkin geniş bir açıklama yayınladı .</sentence>
+<sentence num="4">İşte ayrıntılar .</sentence>
+<sentence num="5">1 399 II Sayılı Cetvel :Bu personelin aldıkları aylıklarda bir değişme olmayacağına ilişkin daha önce bir açıklama yapmıştık .</sentence>
+<sentence num="6">Bu açıklama için tıklayın .</sentence>
+<sentence num="7">2 657 4 B :Bu personelin ücretleri unvana göre belirlenmektedir .</sentence>
+<sentence num="8">Bu nedemle 4 B personeli bir dereceden yararlanamayacaktır .</sentence>
+<sentence num="9">Bu personelin ücretlerine ilişkin bilgiler için tıklayın .</sentence>
+<sentence num="10">3 Sözleşmeli sağlık personeli :Bu personelin ücretleri 657 sayılı Kanunun 4 B maddesine göre çalışan personelin ücretlerinin katları şeklinde belirlenmektedir .</sentence>
+<sentence num="11">Bu nedenle bu personelin aldıkları aylıkları bir derece etkilememektedir .</sentence>
+<sentence num="12">Ancak bu personel Emekli Sandığına tabidir ve Emekli Sandığına esas aylıkları yükseleceğinden bunların emeklilik keseneği artacaktır .</sentence>
+<sentence num="13">Maaşta bir miktar düşme olacaktır .(</sentence>
+<sentence num="14">Bakınız 4924 sayılı Kanunun 6 .maddesi )4 Kadro karşılığı sözleşmeli personel :Bu personel ,genelde Başbakanlık ve bağlı kuruluşlarında çalışmaktadır .</sentence>
+<sentence num="15">Ücretlerinin tavan ve taban miktarları Bakanlar Kurulu Kararı ile belirlenmektedir .</sentence>
+<sentence num="16">Ücretlerde bir değişme olmayacaktır .</sentence>
+<sentence num="17">Ancak bu personel Emekli Sandığına tabidir ve Emekli Sandığına esas aylıkları yükseleceğinden bunların emeklilik keseneği artacaktır .</sentence>
+<sentence num="18">Maaşta bir miktar düşme olacaktır .</sentence>
+<sentence num="19">5 Teşkilat kanunlarına göre sözleşmeli çalışanlar :DPT ,Hazine gibi kurumlar ile özerk kurumlarda çalışanlar bu statüdedir .</sentence>
+<sentence num="20">Bunların da maaşlarında değişme olmayacaktır .</sentence>
+<sentence num="21">ancak bunlardan emekli sandığına tabi olanların maaşlarında bir miktar düşme olacaktır .</sentence>
+<sentence num="22">6 Vekil memurlar :Bu memurlar atandıkları kadronunun derece ve kademesinin 2 3'ünü almaktadırlar .</sentence>
+<sentence num="23">Vekil memurlar için kazanılmış hak aylığı söz konusu değildir .</sentence>
+<sentence num="24">Bir derece kazanılmış hak aylık derecesini etkilendiğinden vekil memurlar bir dereden yararlanamayacaktır .</sentence>
+<sentence num="25">7 Milli Eğitim Bakanlığında çalışan İngilizce ve Bilgisayar Dil Öğreticileri :Bu personelin maaşı ek derse göre hesaplanmaktadır .</sentence>
+<sentence num="26">Başka bir öedeme kalemi bulunmadığından bu personel bir dereden yararlanamamaktadır .</sentence>
+<sentence num="27">Bu personele ilişkin MEB'in yayımladığı genelge için tıklayın .</sentence>
+</doc>
+<doc>
+<id>26624</id>
+<sentence num="0">2005 02 17 10 :45 :00 .Emekli Sandığı :Müracaat edenlerin derece artışı yapılacak .</sentence>
+<sentence num="1">Emekli Sandığı Genel Müdürlüğü ,15 Ocak 2005 tarihinden önce aylık bağlanmış olanlardan derece artışı kapsamına girmiş olanların ,''müracaat etmeleri ''halinde ,derece artışı alacaklarını bildirdi .</sentence>
+<sentence num="2">Emekli Sandığı'ndan yapılan yazılı açıklamada ,5289 Sayılı Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkındaki Kanunun ,15 Ocak 2005 tarihinden geçerli olmak üzere yürürlüğe girdiğine dikkat çekilerek ,şöyle denildi :''Söz konusu Kanun ,gerek 1 Mart 1979 tarihinde 2182 ve 2160 sayılı Kanunlar ,gerekse 15 Ekim 1991 tarihinde 457 ,458 ve 459 sayılı Kanun Hükmünde Kararnameler uyarınca verilen bir derece uygulamalarından bu tarihlerde Sandığa tabi görevde olmamaları nedeniyle yararlanamamış olanlardan ,15 Ocak 2005 tarihinde görevde bulunanlar (aylıksız izinde bulunanlar dahil )ile bunlardan anılan tarihten önce emekli ,adi malullük ,vazife malullüğü ve dul yetim aylığı bağlananları kapsamaktadır .</sentence>
+<sentence num="3">Buna göre ,Sandığımızca 15 Ocak 2005 tarihinden önce emekli ,adi malullük ,vazife malullüğü ,dul ve yetim aylığı bağlanmış olanlardan bu Kanun kapsamına girenlerin müracaatları halinde 15 Ocak 2005 tarihinden itibaren bir derece ilave edilmek suretiyle intibakları yapılacaktır ..</sentence>
+</doc>
+<doc>
+<id>26625</id>
+<sentence num="0">2005 02 17 10 :45 :00 .Emekli Sandığı'ndan derece artışı açıklaması ...</sentence>
+<sentence num="1">Emekli Sandığı'ndan derece artışı açıklaması ...</sentence>
+<sentence num="2">Emekli Sandığı Genel Müdürlüğü ,15 Ocak 2005 tarihinden önce aylık bağlanmış olanlardan derece artışı kapsamına girmiş olanların ,''müracaat etmeleri ''halinde ,derece artışı alacaklarını bildirdi .</sentence>
+<sentence num="3">Emekli Sandığı'ndan yapılan yazılı açıklamada ,5289 Sayılı Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkındaki Kanunun ,15 Ocak 2005 tarihinden geçerli olmak üzere yürürlüğe girdiğine dikkat çekilerek ,şöyle denildi :''Söz konusu Kanun ,gerek 1 Mart 1979 tarihinde 2182 ve 2160 sayılı Kanunlar ,gerekse 15 Ekim 1991 tarihinde 457 ,458 ve 459 sayılı Kanun Hükmünde Kararnameler uyarınca verilen bir derece uygulamalarından bu tarihlerde Sandığa tabi görevde olmamaları nedeniyle yararlanamamış olanlardan ,15 Ocak 2005 tarihinde görevde bulunanlar (aylıksız izinde bulunanlar dahil )ile bunlardan anılan tarihten önce emekli ,adi malullük ,vazife malullüğü ve dul yetim aylığı bağlananları kapsamaktadır .</sentence>
+<sentence num="4">Buna göre ,Sandığımızca 15 Ocak 2005 tarihinden önce emekli ,adi malullük ,vazife malullüğü ,dul ve yetim aylığı bağlanmış olanlardan bu Kanun kapsamına girenlerin müracaatları halinde 15 Ocak 2005 tarihinden itibaren bir derece ilave edilmek suretiyle intibakları yapılacaktır .''.</sentence>
+</doc>
+<doc>
+<id>26721</id>
+<sentence num="0">2005 02 17 12 :13 :00 .Emekli Sandığı :Talep edene derece artışı yapılacak .</sentence>
+<sentence num="1">Emekli Sandığı'ndan yapılan yazılı açıklamada ,5289 Sayılı Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkındaki Kanunun ,15 Ocak 2005 tarihinden geçerli olmak üzere yürürlüğe girdiğine dikkat çekilerek ,şöyle denildi :''Söz konusu Kanun ,gerek 1 Mart 1979 tarihinde 2182 ve 2160 sayılı Kanunlar ,gerekse 15 Ekim 1991 tarihinde 457 ,458 ve 459 sayılı Kanun Hükmünde Kararnameler uyarınca verilen bir derece uygulamalarından bu tarihlerde Sandığa tabi görevde olmamaları nedeniyle yararlanamamış olanlardan ,15 Ocak 2005 tarihinde görevde bulunanlar (aylıksız izinde bulunanlar dahil )ile bunlardan anılan tarihten önce emekli ,adi malullük ,vazife malullüğü ve dul yetim aylığı bağlananları kapsamaktadır .</sentence>
+<sentence num="2">Buna göre ,Sandığımızca 15 Ocak 2005 tarihinden önce emekli ,adi malullük ,vazife malullüğü ,dul ve yetim aylığı bağlanmış olanlardan bu Kanun kapsamına girenlerin müracaatları halinde 15 Ocak 2005 tarihinden itibaren bir derece ilave edilmek suretiyle intibakları yapılacaktır ..</sentence>
+</doc>
+<doc>
+<id>67756</id>
+<sentence num="0">2005 04 24 11 :00 :00 .Derecedeki 1 puanlık artış ,memur maaşlarına nasıl yansıdı ?</sentence>
+<sentence num="1">Memurlara bir derece verilmesine ilişkin yasadan yararlanan kamu görevlilerinin maaşlarındaki artışın binde 1 ile yüzde 2 .1 arasında değiştiği bildirildi .</sentence>
+<sentence num="2">DYP Deniz Milletvekili Ümmet Kandoğan'ın konuyla ilgili soru önergesini yanıtlayan Maliye Bakanı Kemal Unakıtan ,15 Ocak 2005 tarihinde görev bulunan ve daha önce bir derece artışından yararlanamamış personelin maaşlarında meydana gelecek değişikliklerin ,düzenlemeden yararlanacak personelin tabi olduğu personel yasası ,hizmet sınıfı ,görev yaptığı kurum ,kadro unvanı ,hizmet yılı ve maaş aldığı derece ile emekli keseneğine esas aylık derecesi gibi ölçütlere göre farklılık gösterdiğini belirtti .</sentence>
+<sentence num="3">Unakıtan ,yanıtında ,genel idare hizmetleri ,teknik hizmetler ,sağlık hizmetleri ve emniyet hizmetleri sınıflarında yer alan bazı unvanların bir derece uygulamasından önceki ve sonraki maaşlarına ilişkin bilgi de verdi .</sentence>
+<sentence num="4">Buna göre ,bazı kamu görevlilerinin maaşlarında bir derece verilmesiyle meydana gelen değişikler şöyle :Unvan derece Önceki ve sonraki net aylığı (YTL )Net fark artış oranı (%)Memur 4 1 571 583 12 2 .1 Memur 7 1 538 539 1 0 .2 Memur 11 1 529 530 1 0 .2 Mühendis 4 1 898 903 5 0 .6 Mühendis 7 1 845 857 12 1 .4 Teknisyen 11 1 570 572 2 0 .4 Doktor 4 1 976 981 4 0 .5 Doktor 7 1 909 916 7 0 .8 Hemşire 11 1 618 619 1 0 .2 Başkomiser 4 1 1 .058 1 .069 11 1 .0 Polis 7 1 922 923 1 0 .1 Polis 9 2 883 884 1 0 .1 ?</sentence>
+<sentence num="5">Türkiye'yi zorlayan hesap ...?</sentence>
+<sentence num="6">Türkiye enflasyonda 30'uncu oldu ...?</sentence>
+<sentence num="7">Erdoğan ,Aycell eski yöneticilerin uyardı ...?</sentence>
+<sentence num="8">Piyasaların reel faiz beklentisi yüzde 8 .1'e indi ...?</sentence>
+<sentence num="9">Batık tüketici kredileri 1 milyar YTL'yi geçti ...?</sentence>
+<sentence num="10">ABD'de dolar düştü ,emlak piyasası canlandı ...</sentence>
+</doc>
+<doc>
+<id>67761</id>
+<sentence num="0">2005 04 24 11 :10 :00 .Memura bir derecenin maaşlara yansıması ...</sentence>
+<sentence num="1">Memura bir derecenin maaşlara yansıması ...</sentence>
+<sentence num="2">Memurlara bir derece verilmesine ilişkin yasadan yararlanan kamu görevlilerinin maaşlarındaki artışın binde 1 ile yüzde 2 .1 arasında değiştiği bildirildi .</sentence>
+<sentence num="3">DYP Deniz Milletvekili Ümmet Kandoğan'ın konuyla ilgili soru önergesini yanıtlayan Maliye Bakanı Kemal Unakıtan ,15 Ocak 2005 tarihinde görev bulunan ve daha önce bir derece artışından yararlanamamış personelin maaşlarında meydana gelecek değişikliklerin ,düzenlemeden yararlanacak personelin tabi olduğu personel yasası ,hizmet sınıfı ,görev yaptığı kurum ,kadro unvanı ,hizmet yılı ve maaş aldığı derece ile emekli keseneğine esas aylık derecesi gibi ölçütlere göre farklılık gösterdiğini belirtti .</sentence>
+</doc>
+<doc>
+<id>67774</id>
+<sentence num="0">2005 04 24 11 :41 :00 .Memur maaşları ne kadar artacak .</sentence>
+<sentence num="1">DYP Deniz Milletvekili Ümmet Kandoğan'ın konuyla ilgili soru önergesini yanıtlayan Maliye Bakanı Kemal Unakıtan ,15 Ocak 2005 tarihinde görev bulunan ve daha önce bir derece artışından yararlanamamış personelin maaşlarında meydana gelecek değişikliklerin ,düzenlemeden yararlanacak personelin tabi olduğu personel yasası ,hizmet sınıfı ,görev yaptığı kurum ,kadro unvanı ,hizmet yılı ve maaş aldığı derece ile emekli keseneğine esas aylık derecesi gibi ölçütlere göre farklılık gösterdiğini belirtti .</sentence>
+<sentence num="2">Unakıtan ,yanıtında ,genel idare hizmetleri ,teknik hizmetler ,sağlık hizmetleri ve emniyet hizmetleri sınıflarında yer alan bazı unvanların bir derece uygulamasından önceki ve sonraki maaşlarına ilişkin bilgi de verdi .</sentence>
+<sentence num="3">Buna göre ,bazı kamu görevlilerinin maaşlarında bir derece verilmesiyle meydana gelen değişikler şöyle :derece verilmeden net fark artış oranı unvan derece önceki ve sonraki net aylığı (YTL )(YTL )(%)memur 4 1 571 583 12 2 .1 memur 7 1 538 539 1 0 .2 memur 11 1 529 530 1 0 .2 mühendis 4 1 898 903 5 0 .6 mühendis 7 1 845 857 12 1 .4 teknisyen 11 1 570 572 2 0 .4 doktor 4 1 976 981 4 0 .5 doktor 7 1 909 916 7 0 .8 hemşire 11 1 618 619 1 0 .2 başkomiser 4 1 1 .058 1 .069 11 1 .0 polis 7 1 922 923 1 0 .1 polis 9 2 883 884 1 0 .1 AA .</sentence>
+</doc>
+<doc>
+<id>68170</id>
+<sentence num="0">2005 04 25 09 :45 :00 .Derecedeki 1 puanlık artış ,memur maaşlarına nasıl yansıdı ?</sentence>
+<sentence num="1">Memurlara bir derece verilmesine ilişkin yasadan yararlanan kamu görevlilerinin maaşlarındaki artışın binde 1 ile yüzde 2 .1 arasında değiştiği bildirildi .</sentence>
+<sentence num="2">DYP Deniz Milletvekili Ümmet Kandoğan'ın konuyla ilgili soru önergesini yanıtlayan Maliye Bakanı Kemal Unakıtan ,15 Ocak 2005 tarihinde görev bulunan ve daha önce bir derece artışından yararlanamamış personelin maaşlarında meydana gelecek değişikliklerin ,düzenlemeden yararlanacak personelin tabi olduğu personel yasası ,hizmet sınıfı ,görev yaptığı kurum ,kadro unvanı ,hizmet yılı ve maaş aldığı derece ile emekli keseneğine esas aylık derecesi gibi ölçütlere göre farklılık gösterdiğini belirtti .</sentence>
+<sentence num="3">Unakıtan ,yanıtında ,genel idare hizmetleri ,teknik hizmetler ,sağlık hizmetleri ve emniyet hizmetleri sınıflarında yer alan bazı unvanların bir derece uygulamasından önceki ve sonraki maaşlarına ilişkin bilgi de verdi .</sentence>
+<sentence num="4">Buna göre ,bazı kamu görevlilerinin maaşlarında bir derece verilmesiyle meydana gelen değişikler şöyle :Unvan derece Önceki ve sonraki net aylığı (YTL )Net fark artış oranı (%)Memur 4 1 571 583 12 2 .1 Memur 7 1 538 539 1 0 .2 Memur 11 1 529 530 1 0 .2 Mühendis 4 1 898 903 5 0 .6 Mühendis 7 1 845 857 12 1 .4 Teknisyen 11 1 570 572 2 0 .4 Doktor 4 1 976 981 4 0 .5 Doktor 7 1 909 916 7 0 .8 Hemşire 11 1 618 619 1 0 .2 Başkomiser 4 1 1 .058 1 .069 11 1 .0 Polis 7 1 922 923 1 0 .1 Polis 9 2 883 884 1 0 .1 .</sentence>
+</doc>
+<doc>
+<id>68267</id>
+<sentence num="0">2005 04 25 11 :32 :00 .Bir derecelik artış maaşlara yansımadı .</sentence>
+<sentence num="1">Memura derece arttı ama derecenin maaşa yansıması düşük oldu Yaklaşık bir milyon memura bir derece verilmesini öngören yasa yürürlüğe girdi .</sentence>
+<sentence num="2">Ancak derecesi yükselen kamu çalışanlarının maaşları yükselmedi .</sentence>
+<sentence num="3">Artış binde 1 ile yüzde 2 .1 arasında kaldı .</sentence>
+<sentence num="4">Memurlara bir derece verilmesini öngören yasanın çıkmasını bekleyen memurlar yine hüsrana uğradı .</sentence>
+<sentence num="5">Çünkü memura derece arttı ama derecenin maaşlara yansıması binde 1 ile yüzde 2 .1 arasında oldu .</sentence>
+<sentence num="6">Konuyla ilgili verilen soru önergesini yanıtlayan Maliye Bakanı Kemal Unakıtan'ın verdiği rakamlara göre ,en yüksek artış yüzde 2 .1 ile 'birin dördüncü derecesindeki bir memurun maaşında 12 YTL olarak yansıdı .</sentence>
+<sentence num="7">Derece verilmeden önce 571 YTL alan bir memurun eline bugün 583 YTL geçiyor .</sentence>
+<sentence num="8">Aynı durumdaki bir mühendis ise derece verilmeden önce 898 YTL alırken bugün 903 YTL alıyor .</sentence>
+<sentence num="9">Artış yüzde 0 .6 ile sadece 5 YTL .</sentence>
+<sentence num="10">Benzer durumdaki bir doktorun eline ise bir derece verilmeden önce 976 YTL geçerken şimdi yüzde 0 .5 artışla 981 YTL geçiyor .</sentence>
+<sentence num="11">Ek ücret kazanmak için kamu hastanelerinin yanında özel kuruluşlarda da çalışan doktorların maaşındaki artış da sadece 4 milyon .</sentence>
+<sentence num="12">Derece verilmesi ile maaşı yüzde 0 .1 yani 1 milyon YTL yükselenler ise ikinin dokuzuncu derecesindeki polis memurları .</sentence>
+<sentence num="13">Bulunduğu derecenin kademelerinde yıllarca bekleyen memurlar dereceyi aldı ama maaşlara derece şimdilik yansımadı .</sentence>
+</doc>

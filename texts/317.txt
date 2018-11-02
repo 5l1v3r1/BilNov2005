@@ -1,0 +1,573 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 04 21 14 :33 :00 .kütahya'da maden ocağında göçük ..</sentence>
+<sentence num="1">kütahya'da maden ocağında göçük kütahya'nın gediz ilçesi'ne bağlı gökler beldesi'ndeki bir maden ocağında göçük meydana geldi .</sentence>
+<sentence num="2">meydana gelen göçükten 2 işçinin kurtarıldığı ,mahsur durumdaki 20'ye yakın personelin kurtarılması için çalışmaların sürdürüldüğü bildirildi .</sentence>
+<sentence num="3">gediz'e 30 kilometre uzaklıkta bulunan kömür ocağında bir patlamaya bağlı göçük meydana geldi .</sentence>
+<sentence num="4">madende çalışan biri mühendis 20'ye yakın personel ,ocakta mahsur kalırken ,2 işçi kurtarıldı .</sentence>
+<sentence num="5">bölgeye çok sayıda ambulans sevk edilirken ,kütahya valisi aydın güçlü ile gediz kaymakamı ali nazım balcıoğlu da gökler beldesi'ne hareket etti .</sentence>
+</doc>
+<doc>
+<id>66189</id>
+<sentence num="0">2005 04 21 14 :45 :00 .Kütahya'da maden ocağında göçük TTK kurtarma ekibinden 12 kişi helikopterle bölgeye gidiyor .</sentence>
+<sentence num="1">Kütahya'da maden ocağında grizu patlaması meydana geldi Kütahya'nın Gediz ilçesine bağlı Gökler beldesinde grizu patlaması meydana gelen ocakta 18 işçi mahsur kaldı .</sentence>
+<sentence num="2">Gediz Kaymakamı Ali Nazım Balcıoğlu ,grizu patlamasının ardından ,ocağın yüzeyine yakın yerde bulunan iki işçinin ,arkadaşları tarafından hafif yaralı olarak kurtarıldığını ve tedavileri için Uşak'a gönderildiği söyledi .</sentence>
+<sentence num="3">Yaklaşık 300 350 metre derinliğindeki ocakta halen 18 işçinin bulunduğunu ifade eden Balcıoğlu ,işçilerin yerel ekipler tarafından kurtarılmaya çalışıldığını belirtti .</sentence>
+<sentence num="4">Balcıoğlu ,bu tür kurtarma çalışmalarının teknik ekipler tarafından yürütülmesi gerektiğini dile getirerek ,''bu çerçevede ,Garp Linyitleri İşletmesi'nin Tunçbilek'teki tesislerinden ve Zongultak'tan kurtarma ekipleri istedik .</sentence>
+<sentence num="5">Her iki bölgeden ekiplerin yola çıktığını öğrendik dedi .</sentence>
+<sentence num="6">Şu anda yerel ekiplerin çalışmalarını sürdürdüğünü dile getiren Balcıoğlu ,ocağa giren ekip dönmediği için orada ne olup bittiğini henüz bilmiyoruz ''dedi .</sentence>
+<sentence num="7">Bardakçı :Ocakta 18 kişi mahsur Gökler Belediye Başkanı Murat Bardakçı ise ocakta halen 18 kişinin mahsur kaldığını duyurdu .</sentence>
+<sentence num="8">Bardakçı ocakta bulunanların isimlerini şöyle açıkladı :Musa Kartal Türker Öztürk İbrahim Atmaca Lokman Özten Ahmet Ertürk Yüksel Dağcı İbrahim Kılıç Ethem Eroğlu Rüştü Söyler Mehmet Özdemir Fatih Gümüş Ahmet Asal Ramazan Atak Nazım Özdoğan Mustafa Akdemir İsmail Üner Kadir Erdoğan Mehmet Çelen Olayın gelişimi Gediz'e 30 kilometre uzaklıktaki Gökler beldesi yakınlarında patlamanın meydana geldiği ocağın ,özelleştirmeye hazırlık çalışmaları süren Kömür İşletmeleri A .Ş'ye ait olduğu belirtildi .</sentence>
+<sentence num="9">Olay 12 .00 sıralarında meydana geldi .</sentence>
+<sentence num="10">KİAŞ Genel Müdürlüğü yetkilileri ,7 numaralı ocakta yaşanan olayla ilgili şu ana kadar sağlıklı bilgi alınamadığını ,Genel Müdür Mustafa Kıraç başkanlığındaki bir ekibin Gediz'e hareket ettiğini açıkladı .</sentence>
+<sentence num="11">Bölgedeki diğer maden işletmelerinden de kurtarma çalışmaları için yardım istendi .</sentence>
+<sentence num="12">TTK kurtarma ekibi yardıma gidiyor Grizu patlaması meydana gelen ocakta mahsur kalan personelin kurtarılması çalışmalarına yardımcı olmak için Türkiye Taşkömürü Kurumu (TTK )kurtarma ekibinden 12 kişi helikopterle bölgeye gidecek .</sentence>
+</doc>
+<doc>
+<id>66194</id>
+<sentence num="0">2005 04 21 14 :53 :00 .Kömür madeni ocağında göçük .</sentence>
+<sentence num="1">Gediz'e 30 kilometre uzaklıktaki Gökler Beldesi yakınlarında Ankara Kömür İşletmeleri A .Ş .'ye ait kömür madenindeki yedi numaralı ocakta bugün saat 12 .00 sıralarında patlamaya bağlı göçük meydana geldi .</sentence>
+<sentence num="2">Madende çalışan biri mühendis 20'ye yakın personel ,ocakta mahsur kaldı .</sentence>
+<sentence num="3">Olay sırasında ocak ağzında bulunan iki işçi kurtuldu .</sentence>
+<sentence num="4">Göçükten sonra içeride bir yangın olduğu belirtildi .</sentence>
+<sentence num="5">Zonguldak'tan bölgeye gidecek bir kurtarma ekipi yola çıktı .</sentence>
+<sentence num="6">Yetkililer ,yangının devam ettiği ocakta madencilerin mahsur kaldığı bölüme hava verildiğini söyledi .</sentence>
+<sentence num="7">GEDİZ KAYMAKAMI'NIN AÇIKLAMASI Gediz Kaymakamı Ali Nazım Balcıoğlu ,grizu patlamasının ardından ,ocağın yüzeyine yakın yerde bulunan iki işçinin ,arkadaşları tarafından hafif yaralı olarak kurtarıldığını ve tedavileri için Uşak'a gönderildiği söyledi .</sentence>
+<sentence num="8">Yaklaşık 300 350 metre derinliğindeki ocakta halen 17 işçinin bulunduğunu ifade eden Balcıoğlu ,işçilerin yerel ekipler tarafından kurtarılmaya çalışıldığını kaydetti .</sentence>
+<sentence num="9">Balcıoğlu ,bu tür kurtarma çalışmalarının teknik ekipler tarafından yürütülmesi gerektiğini dile getirerek ,Bu çerçevede ,Garp Linyitleri İşletmesi'nin Tunçbilek'teki tesislerinden ve Zongultak'tan kurtarma ekipleri istedik .</sentence>
+<sentence num="10">Her iki bölgeden ekiplerin yola çıktığını öğrendik .</sentence>
+<sentence num="11">Şu anda yerel ekiplerimiz çalışmalarını sürdürüyor .</sentence>
+<sentence num="12">Ancak ,ocağa giren ekip dönmediği için orada ne olup bittiğini henüz bilmiyoruz dedi .</sentence>
+<sentence num="13">Bu arada ,patlamanın meydana geldiği ocağın ,özelleştirmeye hazırlık çalışmaları süren Kömür İşletmeleri A .Ş'ye ait olduğu bildirildi .</sentence>
+<sentence num="14">KİAŞ Genel Müdürlüğü yetkilileri ,7 numaralı ocakta yaşanan olayla ilgili şu ana kadar sağlıklı bilgi alınamadığını ,Genel Müdür Mustafa Kıraç başkanlığındaki bir ekibin Gediz'e hareket ettiğini ,bölgedeki diğer maden işletmelerinden de kurtarma çalışmaları için yardım istediklerini kaydettiler .'</sentence>
+<sentence num="15">İÇERİDE YANGIN VAR 'AÇIKLAMASI CNN TÜRK'e konuşan Gökler Beldesi Belediye Başkanı Murat Bardakçı da mahsur durumdaki 20'ye yakın personelin kurtarılması için çalışmaların şu anda yapılamadığını söyledi .</sentence>
+<sentence num="16">Bardakçı ,göçükten sonra içeride bir yangın olduğunu tahmin ettiklerini belirtti .</sentence>
+<sentence num="17">Madendeki göçüğün bir patlamaya bağlı olduğu kaydedildi .</sentence>
+<sentence num="18">İçeride şuanda yangın ve göçük olduğu açıklandı .</sentence>
+<sentence num="19">Bölgeye çok sayıda ambulans sevk edilirken ,Kütahya Valisi Aydın Güçlü ile Gediz Kaymakamı Ali Nazım Balcıoğlu da Gökler beldesine hareket etti .</sentence>
+<sentence num="20">Zonguldak'ta bir kurtarma ekibi yola çıktı .</sentence>
+<sentence num="21">Tavşanlı'dan da bir kurtarma ekibi göçük yerine gitti .</sentence>
+<sentence num="22">TTK'DAN EKİP GİDİYOR Grizu patlaması meydana gelen ocakta mahsur kalan personelin kurtarılması çalışmalarına yardımcı olmak için Türkiye Taşkömürü Kurumu (TTK )kurtarma ekibinden 12 kişi helikopterle bölgeye gidecek .</sentence>
+<sentence num="23">Ayrıntılar gelecek .</sentence>
+</doc>
+<doc>
+<id>66247</id>
+<sentence num="0">2005 04 21 15 :47 :00 .Gediz'de maden ocağında göçük meydana geldi .</sentence>
+<sentence num="1">Gediz'de maden ocağında göçük meydana geldi Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde grizu patlaması meydana gelen ocakta ,halen 17 işçinin bulunduğu bildirildi .</sentence>
+<sentence num="2">Gediz Kaymakamı Ali Nazım Balcıoğlu ,grizu patlamasının ardından ,ocağın yüzeyine yakın yerde bulunan iki işçinin ,arkadaşları tarafından hafif yaralı olarak kurtarıldığını ve tedavileri için Uşak'a gönderildiği söyledi .</sentence>
+<sentence num="3">Yaklaşık 300 350 metre derinliğindeki ocakta halen 17 işçinin bulunduğunu ifade eden Balcıoğlu ,işçilerin yerel ekipler tarafından kurtarılmaya çalışıldığını kaydetti .</sentence>
+<sentence num="4">Balcıoğlu ,bu tür kurtarma çalışmalarının teknik ekipler tarafından yürütülmesi gerektiğini dile getirerek ,''Bu çerçevede ,Garp Linyitleri İşletmesi'nin Tunçbilek'teki tesislerinden ve Zongultak'tan kurtarma ekipleri istedik .</sentence>
+<sentence num="5">Her iki bölgeden ekiplerin yola çıktığını öğrendik .</sentence>
+<sentence num="6">Şu anda yerel ekiplerimiz çalışmalarını sürdürüyor .</sentence>
+<sentence num="7">Ancak ,ocağa giren ekip dönmediği için orada ne olup bittiğini henüz bilmiyoruz ''dedi .</sentence>
+<sentence num="8">Bu arada ,patlamanın meydana geldiği ocağın ,özelleştirmeye hazırlık çalışmaları süren Kömür İşletmeleri A .Ş'ye ait olduğu bildirildi .</sentence>
+</doc>
+<doc>
+<id>66270</id>
+<sentence num="0">2005 04 21 16 :12 :00 .TTK'dan 12 kişilik ekip Gediz'e gönderilecek .</sentence>
+<sentence num="1">TTK'dan 12 kişilik ekip Gediz'e gönderilecek Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde grizu patlaması meydana gelen ocakta mahsur kalan personelin kurtarılması çalışmalarına yardımcı olmak üzere ,Türkiye Taşkömürü Kurumu (TTK )kurtarma ekibinden 12 kişi ,helikopterle bölgeye gönderilecek .</sentence>
+<sentence num="2">TTK Genel Müdür Yardımcısı Çetin Onur ,maden ocağında meydana gelen patlamanın ardından ocakta mahsur kalan işçileri kurtarma çalışmalarına yardım etmek amacıyla 12 kişinin bölgeye gönderileceğini söyledi .</sentence>
+</doc>
+<doc>
+<id>66318</id>
+<sentence num="0">2005 04 21 16 :49 :00 .Arama kurtarma ekipleri olay yerine sevk edildi .</sentence>
+<sentence num="1">Arama kurtarma ekipleri olay yerine sevk edildi Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında meydana gelen göçük ile ilgili arama kurtarma çalışmalarına katılmak üzere arama kurtarma ekiplerinin sevk edildiğini bildirdi .</sentence>
+<sentence num="2">Yapılan yazılı açıklamada ,ilk etapta göçükten 2 kişinin kurtarılarak hastaneye sevk edildiği ,olay yerine gelen Gediz Kaymakamı'nın göçük altında 17 kişinin bulunduğunu tahmin ettiklerini bildirdiği ifade edildi .</sentence>
+</doc>
+<doc>
+<id>66319</id>
+<sentence num="0">2005 04 21 16 :49 :00 .Gediz'de çöken madende mahsur kalan işçilerin kimlikleri belirlendi .</sentence>
+<sentence num="1">Gediz'de çöken madende mahsur kalan işçilerin kimlikleri belirlendi Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde ,grizu patlaması meydana gelen ocakta mahsur kalan işçilerin kimlikleri belirlendi .</sentence>
+<sentence num="2">Gökler Belediye Başkanı Murat Bardakçı ,yaptığı açıklamada ,Süleyman Koç ve Emrullah Ölmez'in hafif yaralı olarak çıkarıldığı ocakta halen 18 kişi bulunduğunu bildirdi .</sentence>
+<sentence num="3">Bardakçı'nın verdiği bilgiye göre ,ocakta bulunanların isimleri şöyle :''Musa Kartal ,Türker Öztürk ,İbrahim Atmaca ,Lokman Özten ,Ahmet Ertürk ,Yüksel Dağcı ,İbrahim Kılıç ,Ethem Eroğlu ,Rüştü Söyler ,Mehmet Özdemir ,Fatih Gümüş ,Ahmet Asal ,Ramazan Atak ,Nazım Özdoğan ,Mustafa Akdemir ,İsmail Üner ,Kadir Erdoğan ,Mehmet Çelen ''.</sentence>
+</doc>
+<doc>
+<id>66326</id>
+<sentence num="0">2005 04 21 16 :58 :00 .Kütahya'da Grizu Patlaması .</sentence>
+<sentence num="1">Kütahya'nın Gediz ilçesinde özel sektöre ait bir kömür ocağında grizu patlaması meydana geldi .</sentence>
+<sentence num="2">Patlama sonrasında 2 işçi sağ olarak kurtarılırken ,17 işçi mahsur kaldı .</sentence>
+<sentence num="3">Gökler Beldesi'ndeki kömür ocağına çok sayıda ambulans ve arama kurtarma ekibi sevk edildi .</sentence>
+<sentence num="4">Bu arada ,Türkiye Taş Kömürü İşletmeleri'ne ait yeraltı kurtarma ekibi de bölgeye gitti .</sentence>
+<sentence num="5">Göçük altında kaldığı sanılan 17 işçinin isimleri şöyle :Türker Öztürk ,İbrahim Atmaca ,Lokman Özten ,Ahmet Ertürk ,Yüksel Dağcı ,İbrahim Kılıç ,Ethem Eroğlu ,Rüştü Söyler ,Mehmet Özdemir ,Fatih Gümüş ,Ahmet Asal ,Ramazan Atak ,Nazım Özdoğan ,Mustafa Akdemir ,İsmail Üner ,Kadir Erdoğan ,Mehmet Çelen .</sentence>
+</doc>
+<doc>
+<id>66332</id>
+<sentence num="0">2005 04 21 17 :01 :00 .Göçük altında 18 işçi bulunuyor .</sentence>
+<sentence num="1">Gökler Belediye Başkanı Murat Bardakçı ,yaptığı açıklamada ,Süleyman Koç ve Emrullah Ölmez'in hafif yaralı olarak çıkarıldığı ocakta halen 18 kişi bulunduğunu bildirdi .</sentence>
+<sentence num="2">Bardakçı'nın verdiği bilgiye göre ,ocakta bulunanların isimleri şöyle :Musa Kartal ,Türker Öztürk ,İbrahim Atmaca ,Lokman Özten ,Ahmet Ertürk ,Yüksel Dağcı ,İbrahim Kılıç ,Ethem Eroğlu ,Rüştü Söyler ,Mehmet Özdemir ,Fatih Gümüş ,Ahmet Asal ,Ramazan Atak ,Nazım Özdoğan ,Mustafa Akdemir ,İsmail Üner ,Kadir Erdoğan ,Mehmet Çelen ''ARAMA KURTARMA EKİPLERİ OLAY YERİNE SEVK EDİLDİ Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında meydana gelen göçük ile ilgili arama kurtarma çalışmalarına katılmak üzere arama kurtarma ekiplerinin sevk edildiğini bildirdi .</sentence>
+<sentence num="3">Yapılan yazılı açıklamada ,ilk etapta göçükten 2 kişinin kurtarılarak hastaneye sevk edildiği ,olay yerine gelen Gediz Kaymakamı'nın göçük altında 17 kişinin bulunduğunu tahmin ettiklerini bildirdiği ifade edildi .</sentence>
+<sentence num="4">Açıklamada ,kazanın haber alınmasından sonra Genel Müdürlükçe ,Kütahya Valiliği ve Gediz Kaymakamlığı ile irtibata geçilerek ,her türlü ihtiyaçlarının bildirilmesi ve gelişmelerden kurumun haberdar edilmesinin istendiği kaydedildi .</sentence>
+<sentence num="5">Açıklamada ,ayrıca Genelkurmay Başkanlığı ,Jandarma Genel Komutanlığı ,Zonguldak Türkiye Taş Kömürü İşletmeleri Genel Müdürlüğü ve Sivil Savunma Genel Müdürlüğü yetkilileri ile görüşülerek arama ve kurtarma çalışmalarının koordinasyonunun yapıldığı belirtildi .</sentence>
+<sentence num="6">Olay yerine çok sayıda ambulans ve arama kurtarma ekibinin sevk edildiği ,Jandarma timinin de halen arama kurtarma faaliyetlerine devam ettiği bildirilen açıklamada ,Kütahya İl Sivil Savunma Müdürlüğü'nden 5 personel ve 1 kurtarma aracı ,Tavşanlı Tunçbilek yer altı kurtarma ekibinden (tahlisiye ekibi )9 personel ve 2 mühendis ,Soma İlçesi'nden 6 kişilik madenci arama kurtarma ekibinin olay mahalline hareket ettiği bildirildi .</sentence>
+<sentence num="7">Açıklamada ,Zonguldak Türkiye Taş Kömürü İşletmeleri Genel Müdürlüğü ile temas kurularak 12 kişilik bir tahlisiye ekibinin bölgeye gönderilmek üzere hazırlandığı ,ekibin Emniyet Genel Müdürlüğü'ne ait helikopterle olay yerine intikal ettirileceği kaydedildi .</sentence>
+</doc>
+<doc>
+<id>66354</id>
+<sentence num="0">2005 04 21 17 :28 :00 .TTK ,Gediz'e ekip gönderdi .</sentence>
+<sentence num="1">TTK ,Gediz'e ekip gönderdi Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde faaliyet gösteren kömür madeninde meydana gelen grizu patlamasında mahsur kalan personellerin kurtarılması çalışmalarına yardımcı olmak için Türkiye Taşkömürü Kurumu (TTK )tahlisiye (kurtarma )ekibinden 6 kişi helikopterle ,12 kişi de karayoluyla bölgeye gönderildi .</sentence>
+<sentence num="2">TTK Genel Müdür Yardımcısı Çetin Onur ,maden ocağında patlama nedeniyle meydana gelen göçükte mahsur kalan işçilerin kurtarılması amacıyla Başbakanlık Acil Durum Genel Müdürlüğü'nden tahsis edilerek Zonguldak Karaelmas Üniversitesi pistine gelen helikopterle 6 kişilik ekibin acil olarak olay yerine hareket ettiğini söyledi .</sentence>
+<sentence num="3">Karayoluyla da 12 kişinin yola çıktığını anlatan Onur ,ekibin göçük ve grizu patlaması gibi kazalarda yürütülen arama kurtarma çalışmalarında tecrübe sahibi olduğunu kaydetti .</sentence>
+</doc>
+<doc>
+<id>66435</id>
+<sentence num="0">2005 04 21 20 :14 :00 .Enerji Bakanı Güler ,Gediz'e hareket etti .</sentence>
+<sentence num="1">Enerji Bakanı Güler ,Gediz'e hareket etti Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde bulunan linyit madeninde meydana gelen göçük nedeniyle bölgeye hareket etti .</sentence>
+<sentence num="2">Enerji ve Tabii Kaynaklar Bakanlığı'ndan yapılan açıklamada ,Bakan Güler'in İstanbul'da katılmakta olduğu ''Elektrik Sistemlerinin Enterkonneksiyonu Bakanlar Komitesi ''toplantısını yarıda keserek maden bölgesine hareket ettiği bildirildi .</sentence>
+</doc>
+<doc>
+<id>66472</id>
+<sentence num="0">2005 04 21 21 :53 :00 .Gediz'de 4 işçinin cesedine ulaşıldı .</sentence>
+<sentence num="1">Gediz'de 4 işçinin cesedine ulaşıldı Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki bir maden ocağında ,grizu patlaması sonucu göçük altında kalan 4 işçinin cesedine ulaşıldığı bildirildi .</sentence>
+</doc>
+<doc>
+<id>66473</id>
+<sentence num="0">2005 04 21 21 :54 :00 .Kütahya'da maden ocağında göçük !..</sentence>
+<sentence num="1">Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde grizu patlaması meydana gelen ocakta ,halen 18 işçinin bulunduğu bildirildi .</sentence>
+<sentence num="2">Gediz Kaymakamı Ali Nazım Balcıoğlu ,AA muhabirine yaptığı açıklamada ,grizu patlamasının ardından ,ocağın yüzeyine yakın yerde bulunan iki işçinin ,arkadaşları tarafından hafif yaralı olarak kurtarıldığını ve tedavileri için Uşak'a gönderildiği söyledi .</sentence>
+<sentence num="3">Yaklaşık 300 350 metre derinliğindeki ocakta halen 18 işçinin bulunduğunu ifade eden Balcıoğlu ,işçilerin yerel ekipler tarafından kurtarılmaya çalışıldığını kaydetti .</sentence>
+<sentence num="4">Balcıoğlu ,bu tür kurtarma çalışmalarının teknik ekipler tarafından yürütülmesi gerektiğini dile getirerek ,Bu çerçevede ,Garp Linyitleri İşletmesi'nin Tunçbilek'teki tesislerinden ve Zongultak'tan kurtarma ekipleri istedik .</sentence>
+<sentence num="5">Her iki bölgeden ekiplerin yola çıktığını öğrendik .</sentence>
+<sentence num="6">Şu anda yerel ekiplerimiz çalışmalarını sürdürüyor .</sentence>
+<sentence num="7">Ancak ,ocağa giren ekip dönmediği için orada ne olup bittiğini henüz bilmiyoruz dedi .</sentence>
+<sentence num="8">Bu arada ,patlamanın meydana geldiği ocağın ,özelleştirmeye hazırlık çalışmaları süren Kömür İşletmeleri A .Ş'ye ait olduğu bildirildi .</sentence>
+<sentence num="9">KİAŞ Genel Müdürlüğü yetkilileri ,7 numaralı ocakta yaşanan olayla ilgili şu ana kadar sağlıklı bilgi alınamadığını ,Genel Müdür Mustafa Kıraç başkanlığındaki bir ekibin Gediz'e hareket ettiğini ,bölgedeki diğer maden işletmelerinden de kurtarma çalışmaları için yardım istediklerini kaydettiler .</sentence>
+<sentence num="10">KİMLİKLERİ BELİRLENDİ Ocakta mahsur kalan işçilerin kimlikleri belirlendi .</sentence>
+<sentence num="11">Gökler Belediye Başkanı Murat Bardakçı ,yaptığı açıklamada ,Süleyman Koç ve Emrullah Ölmez'in hafif yaralı olarak çıkarıldığı ocakta halen 18 kişi bulunduğunu bildirdi .</sentence>
+<sentence num="12">Bardakçı'nın verdiği bilgiye göre ,ocakta bulunanların isimleri şöyle :Musa Kartal ,Türker Öztürk ,İbrahim Atmaca ,Lokman Özten ,Ahmet Ertürk ,Yüksel Dağcı ,İbrahim Kılıç ,Ethem Eroğlu ,Rüştü Söyler ,Mehmet Özdemir ,Fatih Gümüş ,Ahmet Asal ,Ramazan Atak ,Nazım Özdoğan ,Mustafa Akdemir ,İsmail Üner ,Kadir Erdoğan ,Mehmet Çelen İŞÇİLERİN TAMAMININ CESEDİNE ULAŞILDI Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde ,maden ocağında grizu patlamasının yol açtığı göçüğün altında kalan işçilerin tamamının cesetlerine ulaşılırken ,daha önce mahsur kaldığı bildirilen bir kişinin ocakta bulunmadığı belirlendi .</sentence>
+<sentence num="13">AA muhabirinin aldığı bilgiye göre ,Kömür İşletmeleri A .Ş'nin ,Gökler kömür havzasında bulunan 7 No'lu ocağında göçük altında kalan işçilerin kurtarılması için seferber olan ekipler ,önce 4 ,daha sonra da 13 işçinin cesedine ulaştı .</sentence>
+<sentence num="14">Kurtarma ekiplerinin çalışmalarını endişeli gözlerle izleyen çok sayıda işçi yakını ,Kütahya Jandarma Komutanı Kıdemli Albay Mehmet Tarık Hatipoğlu tarafından sakinleştirilmeye çalışıldı .</sentence>
+<sentence num="15">Bu arada ,daha önce ocakta mahsur kaldığı belirtilen Musa Kartal adlı işçinin ,olay sırasında ocakta bulunmadığının anlaşıldığı bildirildi .</sentence>
+</doc>
+<doc>
+<id>66478</id>
+<sentence num="0">2005 04 21 22 :16 :00 .Göçükten sağ çıkan olmadı .</sentence>
+<sentence num="1">Gediz ilçesindeki madende saat 12 .00 sıralarında patlama meydana gelmişti Kütahya'nın Gediz ilçesindeki maden ocağında meydana gelen grizu patlaması sonucu toprak altında kalan 17 kişinin cesedine ulaşıldı .</sentence>
+<sentence num="2">Daha önce mahsur kaldığı bildirilen bir kişinin ocakta bulunmadığının belirlenmesiyle ,madende patlama meydana geldiği sırada 17 kişinin olduğu anlaşıldı .</sentence>
+<sentence num="3">Patlama ,Gediz'e 30 kilometre uzaklıktaki Ankara Kömür İşletmeleri'ne ait maden ocağında meydana geldi .</sentence>
+<sentence num="4">Patlamadan iki işçi yaralı olarak kurtarıldı .</sentence>
+<sentence num="5">Jandarma yetkililerinin verdiği bilgiye göre göçük altında kalanların tamamının cesedine ulaşıldı .</sentence>
+<sentence num="6">Maden ocağının 50 yıldır faaliyette olduğu ancak patlamanın meydana geldiği ocağın iki yıl önce açıldığı öğrenildi .</sentence>
+<sentence num="7">Ocakta mahsur kalan kişilerin isimleri ise şöyle açıklanmıştı :Musa Kartal Türker Öztürk İbrahim Atmaca Lokman Özten Ahmet Ertürk Yüksel Dağcı İbrahim Kılıç Ethem Eroğlu Rüştü Söyler Mehmet Özdemir Fatih Gümüş Ahmet Asal Ramazan Atak Nazım Özdoğan Mustafa Akdemir İsmail Üner Kadir Erdoğan Mehmet Çelen Olayın gelişimi Gediz'e 30 kilometre uzaklıktaki Gökler beldesi yakınlarında patlamanın meydana geldiği ocağın ,özelleştirmeye hazırlık çalışmaları süren Kömür İşletmeleri A .Ş'ye ait olduğu belirtildi .</sentence>
+<sentence num="8">Olay 12 .00 sıralarında meydana geldi .</sentence>
+<sentence num="9">Olayın ardından bölgedeki diğer maden işletmelerinden de kurtarma çalışmaları için yardım istendi .</sentence>
+</doc>
+<doc>
+<id>66485</id>
+<sentence num="0">2005 04 21 22 :30 :00 .Gediz'de toplam 17 işçinin cesedine ulaşıldı .</sentence>
+<sentence num="1">Gediz'de toplam 17 işçinin cesedine ulaşıldı Gediz'de maden ocağında grizu patlaması sonucu göçük altında kalan 13 işçinin daha cesedine ulaşıldı .</sentence>
+<sentence num="2">Böylece 17 işçinin cesetlerine ulaşılmış oldu .</sentence>
+</doc>
+<doc>
+<id>66490</id>
+<sentence num="0">2005 04 21 22 :52 :00 .Gediz'deki maden ocağında göçük altında kalan tüm işçilere ulaşıldı .</sentence>
+<sentence num="1">Gediz'deki maden ocağında göçük altında kalan tüm işçilere ulaşıldı Gediz'deki maden ocağında grizu patlamasının yol açtığı göçüğün altında kalan işçilerin tamamının cesetlerine ulaşıldı Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde ,maden ocağında grizu patlamasının yol açtığı göçüğün altında kalan işçilerin tamamının cesetlerine ulaşılırken ,daha önce mahsur kaldığı bildirilen bir kişinin ocakta bulunmadığı belirlendi .</sentence>
+<sentence num="2">AA muhabirinin aldığı bilgiye göre ,Kömür İşletmeleri A .Ş'nin ,Gökler kömür havzasında bulunan 7 No'lu ocağında göçük altında kalan işçilerin kurtarılması için seferber olan ekipler ,önce 4 ,daha sonra da 13 işçinin cesedine ulaştı .</sentence>
+<sentence num="3">Kurtarma ekiplerinin çalışmalarını endişeli gözlerle izleyen çok sayıda işçi yakını ,Kütahya Jandarma Komutanı Kıdemli Albay Mehmet Tarık Hatipoğlu tarafından sakinleştirilmeye çalışıldı .</sentence>
+<sentence num="4">Bu arada ,daha önce ocakta mahsur kaldığı belirtilen Musa Kartal adlı işçinin ,olay sırasında ocakta bulunmadığının anlaşıldığı bildirildi .</sentence>
+</doc>
+<doc>
+<id>66548</id>
+<sentence num="0">2005 04 22 03 :00 :00 .Bakan Güler :17 arkadaşımızı kaybettik ,başımız sağolsun .</sentence>
+<sentence num="1">Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,grizu faciasının yaşandığı ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde bulunan maden ocağına gelerek incelemelerde bulundu .</sentence>
+<sentence num="2">Bakan Güler ,Gediz Belediyesi'nde ,Kütahya Valisi Aydın Güçlü ve Gediz Belediye Başkanı Mehmet Ali Sarıoğlu'ndan yaşanan olayla ilgili bilgi aldı .</sentence>
+<sentence num="3">Gazetecilere kısa bir açıklama yapan Güler ,''İhmal var mı ?''</sentence>
+<sentence num="4">şeklindeki soruya ,''Henüz bunu araştırmaya vakit bulamadık .</sentence>
+<sentence num="5">Ama gerekli araştırma yapılıyor .</sentence>
+<sentence num="6">17 arkadaşımızı kaybettik ,başımız sağ olsun .</sentence>
+<sentence num="7">Türkiye'de bildiğiniz gibi madencilik çok zor ''yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>66555</id>
+<sentence num="0">2005 04 22 06 :31 :00 .Kütahya Gediz'de Grizu Patlaması .</sentence>
+<sentence num="1">Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde bir maden ocağında ,grizu patlaması sonucu meydana gelen göçükte 1'i mühendis 17 kişi hayatını kaybetti .</sentence>
+<sentence num="2">Kurtarma ekipleri geç saatlerde göçük altında kalan mühendis ve işçilerin cesetlerine ulaştı .</sentence>
+<sentence num="3">Kömür İşletmeleri'nin Gökler Beldesi yakınındaki kömür ocağında öğle saatlerinde grizu patlaması oldu .</sentence>
+<sentence num="4">Patlama sonrası meydana gelen göçükte ,2 işçi yaralı olarak kurtarıldı .</sentence>
+<sentence num="5">Süleyman Koç ve Emrullah Ölmez adlı yaralıların tedavisi ,82'nci Yıl Devlet Hastanesi'nde sürüyor .</sentence>
+<sentence num="6">Patlamadan sonra bölgeye giden kurtarma ekipleri ,gece geç saatlere kadar sürdürdüğü çalışmalar sonucunda göçük altında kalan 17 kişinin cesetlerine ulaşabildi .</sentence>
+<sentence num="7">Göçük altında kalarak hayatlarını kaybeden mühendis ve işçilerin isimleri şöyle :Mühendis Türker Öztürk ,işçiler Mustafa Akdemir ,İsmail Üner ,İbrahim Kılıç ,Yüksel Dağcı ,Lokman Özten ,Ahmet Ertürk ,Ahmet Asal ,İbrahim Atmaca ,Mehmet Çelen ,Mehmet Özdemir ,Rüştü Söyler ,Ramazan Atak ,Kadir Erdoğan ,Ethem Eroğlu ,Fatih Gümüş ve Nazım Özdoğan .</sentence>
+</doc>
+<doc>
+<id>66558</id>
+<sentence num="0">2005 04 22 07 :15 :00 .18 madenciden kurtulan olmadı .</sentence>
+<sentence num="1">Kütahya'nın Gediz ilçesine bağlı Gökler beldesindeki maden ocağında dün meydana gelen grizu patlaması sonucu göçük altında kalarak ölenlerin sayısının 18 olduğu ortaya çıktı .</sentence>
+<sentence num="2">Önce maden ocağında mahsur kaldığı bildirilen ,daha sonra ise ocakta bulunmadığı belirtilen Musa Kartal'ın da hayatını kaybeden işçiler arasında olduğu belirlendi .</sentence>
+<sentence num="3">Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde ,maden ocağında meydana gelen grizu patlaması sonucu göçük altında kalan 18 işçi yaşamını yitirdi .</sentence>
+<sentence num="4">İşçilerin cesedi ,uzun çalışmalar sonunda ocaktan çıkarıldı .</sentence>
+<sentence num="5">Maden ocağının bir katında toplanan cesetler ,battaniyelere sarılarak ekipler tarafından dışarı taşındı .</sentence>
+<sentence num="6">Cesetler ,daha sonra ambulanslarla Gediz Devlet Hastanesi Morgu'na götürüldü .</sentence>
+<sentence num="7">İşçilerin cesetlerinin çıkarılışı sırasında ,ocak yakınlarında bekleyişlerini sürdüren aileleri ve yakınları gözyaşlarına boğulurken ,jandarma ekipleri çevrede geniş güvenlik önlemleri aldılar .</sentence>
+<sentence num="8">MADENDEKİ ÇALIŞMALAR Kömür İşletmeleri AŞ'nin ,Gökler kömür havzasında bulunan maden ocağında grizu patlamasının yol açtığı göçük altında kalan işçilerin kurtarılması için olayın meydana geldiği öğle saatlerinden gece yarısına kadar aralıksız olarak çalışmalırın sürdüren kurtarma ekipleri ,ilk olarak 4 işçinin cesedine ulaştı .</sentence>
+<sentence num="9">Kısa bir süre sonra da 14 işçinin cesedine ulaşan kurtarma ekipleri ,böylece maden ocağındaki göçükte kalan bütün işçilerin cesetlerine ulaşmayı başardı .</sentence>
+<sentence num="10">Madendeki göçükte bulunduğu tahmin edilen işçi Musa Kartal'ın ise olay anında ocakta bulunmadığı belirlendi .</sentence>
+<sentence num="11">Maden faciasında yaklaşık 350 metre derinlikteki galeride çalışan Türker Öztürk ,İbrahim Atmaca ,Lokman Öztan ,Ahmet Ertürk ,Yüksel Dağcı ,İbrahim Kılıç ,Etem Eroğlu ,Rüştü Söyler ,Mehmet Özdemir ,Fatih Gümüş ,Ahmet Asal ,Ramazan Atak ,Nazım Özdoğan ,Mustafa Akdemir ,İsmail Üner ,Kadir Erdoğan ,Mehmet Çelen ve Musa Kartal yaşamını yitirdi .</sentence>
+<sentence num="12">Mahsur kalanlardan Türker Öztürk'ün maden mühendisi olduğu açıklandı .</sentence>
+<sentence num="13">İbrahim Atmaca'nın da vardiya çavuşu olduğu belirtildi .</sentence>
+<sentence num="14">Yüksek vasıflı linyit kömürünün çıkarıldığı madende ,patlama bölgesinin uzağında çalışan işçilerden Süleyman Koç ve Emrullah Ölmez de yaralı kurtuldu .</sentence>
+<sentence num="15">Akşam 22 .00 sıralarında göçük altındaki 18 işçinin cesedi çıkarıldı .</sentence>
+<sentence num="16">Erken yemek kurtardı Faciadan yaralı kurtulan Emrullah Ölmez (20 )ile Süleyman Koç'un (33 )Gediz 82 .Yıl Devlet Hastanesi'nde tedavisinin sürdüğü belirtildi .</sentence>
+<sentence num="17">1 .5 yıldır madende çalıştığını belirten evli ve bir çocuk babası Ölmez ,faciayı şöyle anlattı :Yemek saatiydi .</sentence>
+<sentence num="18">Süleyman Koç ile birlikte madenin içindeki balkon bölümüne geçmiştik .</sentence>
+<sentence num="19">Diğer arkadaşlar da yavaş yavaş peşimizden gelmeye hazırlanıyordu .</sentence>
+<sentence num="20">Tam oturduk ,aniden önümüzden ateş topu geçti ,şiddetli patlama ve göçük oldu .</sentence>
+<sentence num="21">Ne olduğunu biz de anlayamadık .</sentence>
+<sentence num="22">Hepimizi bir yere fırlattı .</sentence>
+<sentence num="23">Her taraf duman oldu .</sentence>
+<sentence num="24">Gerisini hatırlamıyorum .</sentence>
+<sentence num="25">Biz madenin çıkışına biraz daha yakın olduğumuz için kurtulduk .</sentence>
+<sentence num="26">Diğer arkadaşlar geride kaldığı için mahsur kaldılar .</sentence>
+<sentence num="27">Madenin 50 yıldır faaliyet gösterdiği belirtildi .</sentence>
+<sentence num="28">BAKAN GÜLER :17 ARKADAŞIMIZI KAYBETTİK ,BAŞIMIZ SAĞOLSUN Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,grizu faciasının yaşandığı ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde bulunan maden ocağına gelerek incelemelerde bulundu .</sentence>
+<sentence num="29">Bakan Güler ,Gediz Belediyesi'nde ,Kütahya Valisi Aydın Güçlü ve Gediz Belediye Başkanı Mehmet Ali Sarıoğlu'ndan yaşanan olayla ilgili bilgi aldı .</sentence>
+<sentence num="30">Gazetecilere kısa bir açıklama yapan Güler ,''İhmal var mı ?''</sentence>
+<sentence num="31">şeklindeki soruya ,''Henüz bunu araştırmaya vakit bulamadık .</sentence>
+<sentence num="32">Ama gerekli araştırma yapılıyor .</sentence>
+<sentence num="33">17 arkadaşımızı kaybettik ,başımız sağ olsun .</sentence>
+<sentence num="34">Türkiye'de bildiğiniz gibi madencilik çok zor ''yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>66562</id>
+<sentence num="0">2005 04 22 07 :26 :00 .Güler :17 arkadaşımızı kaybettik ,başımız sağolsun .</sentence>
+<sentence num="1">Güler :17 arkadaşımızı kaybettik ,başımız sağolsun Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,grizu faciasının yaşandığı ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'nde bulunan maden ocağına gelerek incelemelerde bulundu .</sentence>
+<sentence num="2">Güler ,''İhmal var mı ?''</sentence>
+<sentence num="3">şeklindeki soruya ,''Henüz bunu araştırmaya vakit bulamadık .</sentence>
+<sentence num="4">Ama gerekli araştırma yapılıyor .</sentence>
+<sentence num="5">17 arkadaşımızı kaybettik ,başımız sağ olsun .</sentence>
+<sentence num="6">Türkiye'de bildiğiniz gibi madencilik çok zor ''yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>66642</id>
+<sentence num="0">2005 04 22 10 :00 :00 .Göçük altında ölenlerin sayısı 18'e yükseldi .</sentence>
+<sentence num="1">Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki bir maden ocağında dün meydana gelen grizu patlaması sonucu göçük altında kalarak ölenlerin sayısının 18 olduğu bildirildi .</sentence>
+<sentence num="2">İlk olarak mahsur kaldığı açıklanan ,ancak daha sonra ocakta bulunmadığı belirtilen Musa Kartal'ın da hayatını kaybeden işçiler arasında olduğunun anlaşıldığı açıklandı .</sentence>
+<sentence num="3">Gediz Kaymakamı Ali Nazım Balcıoğlu ,göçük altında kalarak ölenlerin sayısının 18 olduğunu belirterek ,''Ocağı işleten şirketin vardiya listesinde Musa Kartal'ın ismi olmadığı için ,bu işçinin ocağa girmediği sanılıyordu .</sentence>
+<sentence num="4">Ancak ,diğer işçilerle birlikte bu işçimizin de cesedine ulaşıldı ''dedi .</sentence>
+<sentence num="5">AA muhabirlerinin aldığı bilgiye göre ,ocaktan çıkarılarak ambulanslarla Gediz ve 82 .Yıl devlet hastaneleri morglarına taşınan cesetlerin ,ailelere teslim edilmesine başlandı .</sentence>
+<sentence num="6">Kazada ölen mühendis Türker Öztürk'ün cenazesi ,toprağa verilmek üzere memleketi Kırşehir'e gönderilirken ,diğer işçilerin cenazeleri ,bugün Gediz Ulucamii'de düzenlenecek törenin ardından defnedilecek .</sentence>
+</doc>
+<doc>
+<id>66650</id>
+<sentence num="0">2005 04 22 10 :05 :00 .Gediz'deki grizu patlamasında 18 kişi öldü .</sentence>
+<sentence num="1">Gediz'deki grizu patlamasında 18 kişi öldü Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki bir maden ocağında dün meydana gelen grizu patlaması sonucu göçük altında kalarak ölenlerin sayısının 18 olduğu bildirildi .</sentence>
+<sentence num="2">İlk olarak mahsur kaldığı açıklanan ,ancak daha sonra ocakta bulunmadığı belirtilen Musa Kartal'ın da hayatını kaybeden işçiler arasında olduğunun anlaşıldığı açıklandı .</sentence>
+<sentence num="3">Gediz Kaymakamı Ali Nazım Balcıoğlu ,göçük altında kalarak ölenlerin sayısının 18 olduğunu belirterek ,''Ocağı işleten şirketin vardiya listesinde Musa Kartal'ın ismi olmadığı için ,bu işçinin ocağa girmediği sanılıyordu .</sentence>
+<sentence num="4">Ancak ,diğer işçilerle birlikte bu işçimizin de cesedine ulaşıldı ''dedi .</sentence>
+</doc>
+<doc>
+<id>66660</id>
+<sentence num="0">2005 04 22 10 :14 :00 .Başesgioğlu Gökler Beldesi'ne gitti .</sentence>
+<sentence num="1">Başesgioğlu Gökler Beldesi'ne gitti Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ne gitti .</sentence>
+<sentence num="2">Bakanlık'tan yapılan açıklamaya göre ,Başesgioğlu ,patlama meydana gelen maden ocağında incelemelerde bulunacak .</sentence>
+</doc>
+<doc>
+<id>66675</id>
+<sentence num="0">2005 04 22 10 :27 :00 .Kütahya'daki grizu patlamasında 18 kişi öldü Cenazelerin ailelere teslim edilmesine başlandı .</sentence>
+<sentence num="1">Patlamanın meydana geldiği ocağın iki yıl önce açıldığı öğrenildi İlgili Galeri Foto Galeri için tıklayınız Kütahya'nın Gediz ilçesine bağlı Gökler beldesinde bir maden ocağında dün meydana gelen grizu patlamasında ölü sayısı 18'e yükseldi .</sentence>
+<sentence num="2">Gediz Kaymakamı Ali Nazım Balcıoğlu ,göçük altında kalarak ölenlerin sayısının 18 olduğunu belirterek ,''ocağı işleten şirketin vardiya listesinde Musa Kartal'ın ismi olmadığı için ,bu işçinin ocağa girmediği sanılıyordu .</sentence>
+<sentence num="3">Ancak ,diğer işçilerle birlikte bu işçimizin de cesedine ulaşıldı ''dedi .</sentence>
+<sentence num="4">Gediz'e 30 kilometre uzaklıktaki Ankara Kömür İşletmeleri'ne ait maden ocağında meydana gelen patlamadan iki işçi de yaralı olarak kurtarıldı .</sentence>
+<sentence num="5">Maden ocağının 50 yıldır faaliyette olduğu ancak patlamanın meydana geldiği ocağın iki yıl önce açıldığı öğrenildi .</sentence>
+<sentence num="6">Bu arada ,Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,Kütahya'da patlamanın meydana geldiği maden ocağında incelemelerde bulunmak üzere Gediz ilçesine bağlı Gökler beldesine gitti .</sentence>
+<sentence num="7">Güler :Teknik eksiklik yok gibi Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında ,18 kişinin ölümüyle sonuçlanan kazaya ilişkin ,olayda ihmal olup olmadığı konusunda yaptığı açıklamada ,ocakta bir mühendisin de yaşamını yitirmesi ,teknik olarak bir eksikliğin olmadığı kanaatini uyandırıyor dedi .</sentence>
+<sentence num="8">Bakan Güler ,ihmal olup olmadığı konusunun olayla ilgili hazırlanan raporun tamamlanmasından sonra tam olarak anlaşılacağını söyledi .</sentence>
+<sentence num="9">Cesetler ailelere teslim ediliyor Ocaktan çıkarılarak ambulanslarla Gediz ve 82'nci Yıl devlet hastaneleri morglarına taşınan cesetlerin ,ailelere teslim edilmesine başlandı .</sentence>
+<sentence num="10">Kazada ölen mühendis Türker Öztürk'ün cenazesi ,toprağa verilmek üzere memleketi Kırşehir'e gönderilirken ,diğer işçilerin cenazeleri ,bugün Gediz Ulucamii'de düzenlenecek törenin ardından defnedilecek .</sentence>
+<sentence num="11">CHP Parlamento heyeti bölgede CHP'den bir heyet de ,grizu patlaması sonucu meydana gelen göçükte 18 işçinin hayatını kaybettiği maden ocağının bulunduğu bölgede incelemelerde bulunmak üzere ,bölgeye hareket etti .</sentence>
+<sentence num="12">Gruptan yapılan açıklamaya göre ,heyet üyeleri ,hayatını kaybeden 18 maden işçisinin ailelerine başsağlığı ziyaretinde de bulunacak .</sentence>
+<sentence num="13">ÖLEN İŞÇİLERİN İSİMLERİ Musa Kartal Türker Öztürk İbrahim Atmaca Lokman Özten Ahmet Ertürk Yüksel Dağcı İbrahim Kılıç Ethem Eroğlu Rüştü Söyler Mehmet Özdemir Fatih Gümüş Ahmet Asal Ramazan Atak Nazım Özdoğan Mustafa Akdemir İsmail Üner Kadir Erdoğan Mehmet ÇelenÖlen işçilerin hayata dair öyküleri Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında meydana gelen grizu patlaması sonucu ölen işçiler ,arkalarında hayata dair öykülerini bırakarak sevdiklerinden ayrılırken ,hikayeler adeta yürek burkuyor .</sentence>
+<sentence num="14">Yerin yüzlerce metre altında çalışırken ,bir anda grizu patlamasının yol açtığı göçüğün altında kalarak can veren işçiler ,son yolculuklarına uğurlanmak üzere aileleri tarafından teslim alınırken ;Ethem Eroğlu ,Mustafa Akdemir ve İsmail Üner ,beraberlerinde acı dolu öykülerini de götürdüler .</sentence>
+<sentence num="15">Eşi Ethem Eroğlu'nu kaybetmenin derin acısını yaşayan Mehpare Eroğlu ,7 aylık hamile olduğunu söyledi .</sentence>
+<sentence num="16">Eşinin ,iki ay sonra dünyaya gelecek bebeklerinin heyecanını taşıdığını ifade eden Mehpare Eroğlu ,''İkimiz de büyük mutluluk ve heyecan içindeydik .</sentence>
+<sentence num="17">Ama ,eşim çocuğunu göremeden öldü .</sentence>
+<sentence num="18">Acımız çok büyük ''dedi .</sentence>
+<sentence num="19">10 yıl önce kurtulduğu ölüme yakalandı Ocaktan cesedi çıkarılan Mustafa Akdemir'in ise 10 yıl önce bir başka maden ocağında büyük bir kaza geçirdiği ve ölümden kılpayı kurtulduğu bildirildi .</sentence>
+<sentence num="20">Madenci arkadaşları ,Akdemir'in ,çalıştığı maden ocağında vagonun devrilmesi sonucu yaklaşık 100 150 metre sürüklendiğini belirterek ,''arkadaşımız ,kazada ağır yaralanmıştı .</sentence>
+<sentence num="21">İki yıl süren tedavisi nedeniyle mesleğine ara vermek zorunda kalmıştı ''dediler .</sentence>
+<sentence num="22">Grizu patlamasının neden olduğu göçüğün altında kalarak ölen İsmail Üner'in de 19 yıldır madenlerde çalıştığını ifade eden arkadaşları ,Üner'in mayıs ayı başı itibariyle emekliye ayrılacağını belirttiler .</sentence>
+</doc>
+<doc>
+<id>66693</id>
+<sentence num="0">2005 04 22 10 :43 :00 .Kütahya'da Grizu Faciası :18 Ölü .</sentence>
+<sentence num="1">Kütahya'nın Gediz ilçesindeki kömür ocağında meydana gelen grizu patlamasında hayatını kaybeden 18 kişinin cesedi çıkarıldı .</sentence>
+<sentence num="2">Hayatını kaybeden 18 kişi ,Gediz'de düzenlen törenin ardından memleketlerinde toprağa verildi .</sentence>
+<sentence num="3">Dün öğle saatlerinde Gökler Beldesi yakınındaki kömür ocağında grizu patlaması oldu .</sentence>
+<sentence num="4">Patlamanın ardından ilk etapta iki işçi sağ olarak kurtarıldı .</sentence>
+<sentence num="5">Daha sonra içeride mahsur kalan 1 mühendis ve 17 işçiyi kurtarma çalışmaları başlatıldı .</sentence>
+<sentence num="6">Çevre il ve ilçelerin yanısıra ,Zonguldak Türkiye Taşkömürü İşletmeleri'nden gelen ekiplerin sabah saatlerine kadar süren kurtarma çalışmalarında maden ocağından 18 kişinin cesedi çıkarıldı .</sentence>
+<sentence num="7">Olayda hayatını kaybedenlerin isimleri şöyle :Muhendis Türker Öztürk ,işçiler İbrahim Atmaca ,Lokman Özten ,Yüksel Dağcı ,İbrahim Kılıç ,Ethem Eroğlu ,Rüştü Söyler ,Mehmet Özdemir ,Fatih Gümüş ,Ahmet Asal ,Ramazan Atak ,Nazım Özdoğan ,Ahmet Ertürk ,Mustafa Akdemir ,İsmail Üner ,Kadir Erdoğan ,Mehmet Çelen ve Musa Kartal .</sentence>
+<sentence num="8">Hayatını kaybedenler için Gediz'de bir tören düzenlendi .</sentence>
+<sentence num="9">Törene ,Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ile Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler de katıldı .</sentence>
+<sentence num="10">Cenazeler ,Gediz Ulu Camii'nde kılınan cenaze namazının ardından memleketlerine götürülerek toprağa verildi .</sentence>
+</doc>
+<doc>
+<id>66702</id>
+<sentence num="0">2005 04 22 10 :52 :00 .Grizu patlamasında ölü sayısı 18 oldu .</sentence>
+<sentence num="1">Gediz Kaymakamı Ali Nazım Balcıoğlu ,göçük altında kalarak ölenlerin sayısının 18 olduğunu belirterek ,''ocağı işleten şirketin vardiya listesinde Musa Kartal'ın ismi olmadığı için ,bu işçinin ocağa girmediği sanılıyordu .</sentence>
+<sentence num="2">Ancak ,diğer işçilerle birlikte bu işçimizin de cesedine ulaşıldı ''dedi .</sentence>
+<sentence num="3">Gediz'e 30 kilometre uzaklıktaki Ankara Kömür İşletmeleri'ne ait maden ocağında meydana gelen patlamadan iki işçi de yaralı olarak kurtarıldı .</sentence>
+<sentence num="4">Maden ocağının 50 yıldır faaliyette olduğu ancak patlamanın meydana geldiği ocağın iki yıl önce açıldığı öğrenildi .</sentence>
+<sentence num="5">Bu arada ,Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,Kütahya'nın patlamanın meydana geldiği maden ocağında incelemelerde bulunmak üzere Gediz ilçesine bağlı Gökler beldesine gitti .</sentence>
+</doc>
+<doc>
+<id>66716</id>
+<sentence num="0">2005 04 22 11 :03 :00 .Madenciler son yolculuğuna uğurlandı .</sentence>
+<sentence num="1">Gediz Ulucamii'nde düzenlenen cenaze törenine ,işçilerin aileleri ,yakınları ,Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,Kütahya Hava Er Eğitim Tugay Komutanı Tuğgeneral Mehmet Bali ,milletvekilleri ,belediye başkanları ve kalabalık vatandaş topluluğu katıldı .</sentence>
+<sentence num="2">İşçilerin Türk Bayrağı'na sarılı tabutlarının camiye getirilişi sırasında ,aileleri ve yakınları ağıt yakarak ,gözyaşlarına boğuldu .</sentence>
+<sentence num="3">Bakan Başesgioğlu ,törende yaptığı konuşmada ,madende yaşamını yitiren 18 kişiyi şehit olarak gördüklerini belirterek ,şöyle konuştu :''Şehitlerimiz ,maden ocağında hem ailelerinin nafakasını çıkarıyor hem de Türk ekonomisine katkıda bulunuyorlardı .</sentence>
+<sentence num="4">Bu şehitlerimizi ,bundan önceki şehitlerimizle birlikte rahmetle anıyoruz .</sentence>
+<sentence num="5">Geride kalanlara sabır diliyoruz .</sentence>
+<sentence num="6">Başbakan Recep Tayyip Erdoğan'ın da başsağlığı ve sabır dileklerini getirdim .</sentence>
+<sentence num="7">Hükümet olarak üzüntünüzü paylaşıyoruz .''</sentence>
+<sentence num="8">İşçilerin cenazeleri ,daha sonra kılınan namazın ardından ambulanslarla köylerine gönderildi .</sentence>
+<sentence num="9">Bakan Başesgioğlu ve Güler de tabutları bir süre omuzladı .</sentence>
+<sentence num="10">Bu arada ,bazı vatandaşlar ,göçük olayına ihmalin neden olduğunu iddia ederek ,bakanlardan konunun takipçisi olmalarını istediler .</sentence>
+<sentence num="11">Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,konunun yakından takipçisi olduklarını ifade ederek ,''Merak etmeyin ,müsterih olun .</sentence>
+<sentence num="12">Araştırmalarımıza dün akşamdan itibaren başladık ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>66749</id>
+<sentence num="0">2005 04 22 11 :45 :00 .2 ay sonra baba olacaktı ...</sentence>
+<sentence num="1">Hayaller göçük altında kaldı ...</sentence>
+<sentence num="2">Vedat Yücebaş Harun Kaymaz bildiriyor Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında meydana gelen grizu patlaması sonucu ölen işçiler ,arkalarında hayata dair öykülerini bırakarak sevdiklerinden ayrılırken ,hikayeler adeta yürek burkuyor .</sentence>
+<sentence num="3">Yerin yüzlerce metre altında çalışırken ,bir anda grizu patlamasının yol açtığı göçüğün altında kalarak can veren işçiler ,son yolculuklarına uğurlanmak üzere aileleri tarafından teslim alınırken ;Ethem Eroğlu ,Mustafa Akdemir ve İsmail Üner ,beraberlerinde acı dolu öykülerini de götürdüler .</sentence>
+<sentence num="4">İKİ AY SONRA BABA OLACAKLARDI Eşi Ethem Eroğlu'nu kaybetmenin derin acısını yaşayan Mehpare Eroğlu ,AA muhabirine ,7 aylık hamile olduğunu söyledi .</sentence>
+<sentence num="5">Eşinin ,iki ay sonra dünyaya gelecek bebeklerinin heyecanını taşıdığını ifade eden Mehpare Eroğlu ,''İkimiz de büyük mutluluk ve heyecan içindeydik .</sentence>
+<sentence num="6">Ama ,eşim çocuğunu göremeden öldü .</sentence>
+<sentence num="7">Acımız çok büyük ''dedi .</sentence>
+<sentence num="8">10 YIL ÖNCE KURTULDUĞU ÖLÜME YAKALANDI Ocaktan cesedi çıkarılan Mustafa Akdemir'in ise 10 yıl önce bir başka maden ocağında büyük bir kaza geçirdiği ve ölümden kılpayı kurtulduğu bildirildi .</sentence>
+<sentence num="9">Madenci arkadaşları ,Akdemir'in ,çalıştığı maden ocağında vagonun devrilmesi sonucu yaklaşık 100 150 metre sürüklendiğini belirterek ,''Arkadaşımız ,kazada ağır yaralanmıştı .</sentence>
+<sentence num="10">İki yıl süren tedavisi nedeniyle mesleğine ara vermek zorunda kalmıştı ''dediler .</sentence>
+<sentence num="11">Grizu patlamasının neden olduğu göçüğün altında kalarak ölen İsmail Üner'in de 19 yıldır madenlerde çalıştığını ifade eden arkadaşları ,Üner'in Mayıs ayı başı itibariyle emekliye ayrılacağını kaydettiler .</sentence>
+</doc>
+<doc>
+<id>66761</id>
+<sentence num="0">2005 04 22 11 :54 :00 .CHP Parlamento heyeti Gökler Beldesi'ne gitti .</sentence>
+<sentence num="1">CHP Parlamento heyeti Gökler Beldesi'ne gitti CHP'den bir heyet ,grizu patlaması sonucu meydana gelen göçükte 18 işçinin hayatını kaybettiği maden ocağının bulunduğu bölgede incelemelerde bulunmak üzere ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ne gitti .</sentence>
+<sentence num="2">TBMM CHP Grubu'ndan yapılan açıklamaya göre ,CHP Genel Başkan Yardımcısı Cevdet Selvi ,Bursa Milletvekili Mehmet Küçükaşık ,Eskişehir Milletvekili Vedat Yücesan'dan oluşan heyet ,göçük bölgesinde incelemelerde bulunacak .</sentence>
+</doc>
+<doc>
+<id>66831</id>
+<sentence num="0">2005 04 22 12 :45 :00 .Gediz'deki göçükte ölenler için cenaze töreni düzenlendi .</sentence>
+<sentence num="1">Gediz'deki göçükte ölenler için cenaze töreni düzenlendi Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında ,grizu patlaması sonucu göçük altında kalarak hayatlarını kaybeden işçiler için cenaze töreni düzenlendi .</sentence>
+<sentence num="2">Gediz Ulucamii'nde düzenlenen cenaze törenine ,işçilerin aileleri ,yakınları ,Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,Kütahya Hava Er Eğitim Tugay Komutanı Tuğgeneral Mehmet Bali ,milletvekilleri ,belediye başkanları ve kalabalık vatandaş topluluğu katıldı .</sentence>
+</doc>
+<doc>
+<id>66836</id>
+<sentence num="0">2005 04 22 12 :50 :00 .Maden ocağı faciası ...</sentence>
+<sentence num="1">Ölenler toprağa verildi ...</sentence>
+<sentence num="2">Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında ,grizu patlaması sonucu göçük altında kalarak hayatlarını kaybeden işçiler için cenaze töreni düzenlendi .</sentence>
+<sentence num="3">Gediz Ulucamii'nde düzenlenen cenaze törenine ,işçilerin aileleri ,yakınları ,Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,Kütahya Hava Er Eğitim Tugay Komutanı Tuğgeneral Mehmet Bali ,milletvekilleri ,belediye başkanları ve kalabalık vatandaş topluluğu katıldı .</sentence>
+<sentence num="4">İşçilerin Türk Bayrağı'na sarılı tabutlarının camiye getirilişi sırasında ,aileleri ve yakınları ağıt yakarak ,gözyaşlarına boğuldu .</sentence>
+<sentence num="5">Bakan Başesgioğlu ,törende yaptığı konuşmada ,madende yaşamını yitiren 18 kişiyi şehit olarak gördüklerini belirterek ,şöyle konuştu :''Şehitlerimiz ,maden ocağında hem ailelerinin nafakasını çıkarıyor hem de Türk ekonomisine katkıda bulunuyorlardı .</sentence>
+<sentence num="6">Bu şehitlerimizi ,bundan önceki şehitlerimizle birlikte rahmetle anıyoruz .</sentence>
+<sentence num="7">Geride kalanlara sabır diliyoruz .</sentence>
+<sentence num="8">Başbakan Recep Tayyip Erdoğan'ın da başsağlığı ve sabır dileklerini getirdim .</sentence>
+<sentence num="9">Hükümet olarak üzüntünüzü paylaşıyoruz .''</sentence>
+<sentence num="10">İşçilerin cenazeleri ,daha sonra kılınan namazın ardından ambulanslarla köylerine gönderildi .</sentence>
+<sentence num="11">Bakan Başesgioğlu ve Güler de tabutları bir süre omuzladı .</sentence>
+<sentence num="12">Bu arada ,bazı vatandaşlar ,göçük olayına ihmalin neden olduğunu iddia ederek ,bakanlardan konunun takipçisi olmalarını istediler .</sentence>
+<sentence num="13">Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,konunun yakından takipçisi olduklarını ifade ederek ,''Merak etmeyin ,müsterih olun .</sentence>
+<sentence num="14">Araştırmalarımıza dün akşamdan itibaren başladık ''diye konuştu .?</sentence>
+<sentence num="15">Göçük altında ölenlerin sayısı 18'e yükseldi ?</sentence>
+<sentence num="16">2 ay sonra baba olacaktı ...</sentence>
+<sentence num="17">Hayaller göçük altında kaldı ...?</sentence>
+<sentence num="18">Güler ve Başesgioğlu grizu faciasından yaralı kurtulanları ziyaret etti .</sentence>
+</doc>
+<doc>
+<id>66870</id>
+<sentence num="0">2005 04 22 13 :40 :00 .Güler ve Başesgioğlu grizu faciasından yaralı kurtulanları ziyaret etti .</sentence>
+<sentence num="1">Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,Kütahya'nın Gediz İlçesi'ne bağlı Gökler Beldesi'ndeki maden ocağında ,18 kişinin ölümüyle sonuçlanan kazaya ilişkin ,''Olayda ihmal olup olmadığı konusunda şu anda bir şey söyleyemem ''dedi .</sentence>
+<sentence num="2">Maden ocağında meydana gelen grizu patlaması sonucu göçük altında kalarak hayatlarını kaybeden işçilerin cenaze törenine katılan Bakan Güler ile Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,daha sonra kazadan yaralı kurtulan Emrullah Ölmez ve Süleyman Koç'u ,tedavi gördükleri Gediz .</sentence>
+<sentence num="3">82 .Yıl Devlet Hastanesi'nde ziyaret etti .</sentence>
+<sentence num="4">ÇİÇEK VERDİLER Bakanlar ,çiçek vererek geçmiş olsun dileğinde bulundukları işçilerden olayı anlatmalarını istediler .</sentence>
+<sentence num="5">Emrullah Ölmez ,bunun üzerine ,önce boğuk bir ses ,sonra patlama duyduğunu belirterek ,''Patlamayla birlikte alev çıktı .</sentence>
+<sentence num="6">Ben yemek almak için madenin dışına çıkmak üzereydim .</sentence>
+<sentence num="7">Patlama olduktan sonra arkadaşlarıma ,alevin çıktığı yöne doğru yönelmelerini söyledim .</sentence>
+<sentence num="8">Ama onlar ,tam tersi istikamete gittiler .</sentence>
+<sentence num="9">Ben çıktım ,kurtuldum ''dedi .</sentence>
+<sentence num="10">Süleyman Koç ise hayatta kalmasının büyük bir şans olduğunu ifade ederek ,''Bu ,bana Allah'ın bir lütfu .</sentence>
+<sentence num="11">Çok korktuk .</sentence>
+<sentence num="12">Çok şükür hayattayım ''diye konuştu .</sentence>
+<sentence num="13">Bakanlar ,ziyaretin ardından başkan Mehmet Ali Sarıoğlu ile birlikte Gediz Belediyesi'ne gittiler .</sentence>
+<sentence num="14">GÜLER'İN AÇIKLAMASI Bakan Güler ,burada gazetecilere yaptığı açıklamada ,madenciliğin zor bir iş ve özellikli bir sektör olduğuna işaret ederek ,''Bunlar ,temenni etmediğimiz ama maalesef tekerrür eden olaylar .</sentence>
+<sentence num="15">İhmal olup olmadığı konusunda şu anda bir şey söyleyemeyeceğim .</sentence>
+<sentence num="16">Rapor hazırlandıktan sonra daha iyi analiz yapabiliriz .</sentence>
+<sentence num="17">Ancak ocakta bir mühendisin de yaşamını yitirmesi ,teknik olarak bir eksikliğin olmadığı kanaatini uyandırıyor ''dedi .</sentence>
+<sentence num="18">Bir gazetecinin ,olayda ihmal bulunup bulunmadığını sorması üzerine Güler ,ilk tespitin ,olayın grizu patlamasının etkisiyle meydana geldiği yönünde olduğunu bildirdi .</sentence>
+<sentence num="19">İhmal konusunda şu anda bir şey söyleyemeyeceğini vurgulayan Güler ,''Biraz önce de söyledim .</sentence>
+<sentence num="20">Olayda ihmal olup olmadığın raporları inceledikten sonra söyleyebiliriz ''diye konuştu .</sentence>
+<sentence num="21">Güler ,''İçerde panik olduğu ,ölümlerin bu nedenle yaşandığı yönünde iddialar var .</sentence>
+<sentence num="22">Ne diyorsunuz ?''</sentence>
+<sentence num="23">yönündeki soruya da ,''Şu anda bir şey söyleyemeyeceğim .</sentence>
+<sentence num="24">Rapor çıksın ,ondan sonra ''yanıtını verdi .</sentence>
+<sentence num="25">CHP HEYETİ GEDİZ'DE Bu arada ,Gökler Beldesi'ndeki maden ocağında yaşanan olayla ilgili incelemelerde bulunmak üzere ,CHP Genel Başkan Yardımcısı Cevdet Selvi ,Bursa Milletvekili Mehmet Küçükaşık ve Eskişehir Milletvekili Vedat Yücesan'dan oluşan heyet ,Gediz'e geldi .</sentence>
+<sentence num="26">Cevdet Selvi ,AA muhabirine yaptığı açıklamada ,işçiler için Gediz'de düzenlenen cenaze törenine yetişemediklerini ,ancak köylerdeki cenaze törenlerine katılarak ,ölen işçilerin yakınlarına başsağlığı dileğinde bulunacaklarını söyledi .</sentence>
+<sentence num="27">Vatandaşlarla yaptıkları ilk görüşmelerde ,maden ocağının havalandırmasının olmadığı ve birkaç gündür ocaktan koku geldiğini öğrendiklerini belirten Selvi ,vatandaşların ,uyarılarına rağmen ,yetkililerin konuya ilgili göstermediklerini öne sürdüklerini kaydetti .</sentence>
+<sentence num="28">Selvi ,bölgede incelemelerde bulunacaklarını dile getirerek ,''Bu olayın sıkı takipçisi olacağız .</sentence>
+<sentence num="29">İncelemelerimiz sonucunda elde ettiğimiz bilgileri kamuoyuyla paylaşacağız .</sentence>
+<sentence num="30">Bu konuda TBMM'ye bir soru önergesi de vereceğiz .</sentence>
+<sentence num="31">Bu üzüntünün son olmasını istiyoruz .</sentence>
+<sentence num="32">Vefat edenlere rahmet ,yakınlarına sabır diliyoruz ''dedi .</sentence>
+</doc>
+<doc>
+<id>66898</id>
+<sentence num="0">2005 04 22 14 :19 :00 .Güler ve Başesgioğlu facia bölgesinde .</sentence>
+<sentence num="1">Maden ocağında meydana gelen grizu patlaması sonucu göçük altında kalarak hayatlarını kaybeden işçilerin cenaze törenine katılan Bakan Güler ile Çalışma ve Sosyal Güvenlik Bakanı Murat Başesgioğlu ,daha sonra kazadan yaralı kurtulan Emrullah Ölmez ve Süleyman Koç'u ,tedavi gördükleri Gediz .</sentence>
+<sentence num="2">82 .Yıl Devlet Hastanesi'nde ziyaret etti .</sentence>
+<sentence num="3">ÇİÇEK VERDİLER Bakanlar ,çiçek vererek geçmiş olsun dileğinde bulundukları işçilerden olayı anlatmalarını istediler .</sentence>
+<sentence num="4">Emrullah Ölmez ,bunun üzerine ,önce boğuk bir ses ,sonra patlama duyduğunu belirterek ,''Patlamayla birlikte alev çıktı .</sentence>
+<sentence num="5">Ben yemek almak için madenin dışına çıkmak üzereydim .</sentence>
+<sentence num="6">Patlama olduktan sonra arkadaşlarıma ,alevin çıktığı yöne doğru yönelmelerini söyledim .</sentence>
+<sentence num="7">Ama onlar ,tam tersi istikamete gittiler .</sentence>
+<sentence num="8">Ben çıktım ,kurtuldum ''dedi .</sentence>
+<sentence num="9">Süleyman Koç ise hayatta kalmasının büyük bir şans olduğunu ifade ederek ,''Bu ,bana Allah'ın bir lütfu .</sentence>
+<sentence num="10">Çok korktuk .</sentence>
+<sentence num="11">Çok şükür hayattayım ''diye konuştu .</sentence>
+<sentence num="12">Bakanlar ,ziyaretin ardından başkan Mehmet Ali Sarıoğlu ile birlikte Gediz Belediyesi'ne gittiler .</sentence>
+<sentence num="13">GÜLER'İN AÇIKLAMASI Bakan Güler ,burada gazetecilere yaptığı açıklamada ,madenciliğin zor bir iş ve özellikli bir sektör olduğuna işaret ederek ,''Bunlar ,temenni etmediğimiz ama maalesef tekerrür eden olaylar .</sentence>
+<sentence num="14">İhmal olup olmadığı konusunda şu anda bir şey söyleyemeyeceğim .</sentence>
+<sentence num="15">Rapor hazırlandıktan sonra daha iyi analiz yapabiliriz .</sentence>
+<sentence num="16">Ancak ocakta bir mühendisin de yaşamını yitirmesi ,teknik olarak bir eksikliğin olmadığı kanaatini uyandırıyor ''dedi .</sentence>
+<sentence num="17">Bir gazetecinin ,olayda ihmal bulunup bulunmadığını sorması üzerine Güler ,ilk tespitin ,olayın grizu patlamasının etkisiyle meydana geldiği yönünde olduğunu bildirdi .</sentence>
+<sentence num="18">İhmal konusunda şu anda bir şey söyleyemeyeceğini vurgulayan Güler ,''Biraz önce de söyledim .</sentence>
+<sentence num="19">Olayda ihmal olup olmadığın raporları inceledikten sonra söyleyebiliriz ''diye konuştu .</sentence>
+<sentence num="20">Güler ,''İçerde panik olduğu ,ölümlerin bu nedenle yaşandığı yönünde iddialar var .</sentence>
+<sentence num="21">Ne diyorsunuz ?''</sentence>
+<sentence num="22">yönündeki soruya da ,''Şu anda bir şey söyleyemeyeceğim .</sentence>
+<sentence num="23">Rapor çıksın ,ondan sonra ''yanıtını verdi .</sentence>
+<sentence num="24">CHP HEYETİ GEDİZ'DE Bu arada ,Gökler Beldesi'ndeki maden ocağında yaşanan olayla ilgili incelemelerde bulunmak üzere ,CHP Genel Başkan Yardımcısı Cevdet Selvi ,Bursa Milletvekili Mehmet Küçükaşık ve Eskişehir Milletvekili Vedat Yücesan'dan oluşan heyet ,Gediz'e geldi .</sentence>
+<sentence num="25">Cevdet Selvi ,AA muhabirine yaptığı açıklamada ,işçiler için Gediz'de düzenlenen cenaze törenine yetişemediklerini ,ancak köylerdeki cenaze törenlerine katılarak ,ölen işçilerin yakınlarına başsağlığı dileğinde bulunacaklarını söyledi .</sentence>
+<sentence num="26">Vatandaşlarla yaptıkları ilk görüşmelerde ,maden ocağının havalandırmasının olmadığı ve birkaç gündür ocaktan koku geldiğini öğrendiklerini belirten Selvi ,vatandaşların ,uyarılarına rağmen ,yetkililerin konuya ilgili göstermediklerini öne sürdüklerini kaydetti .</sentence>
+<sentence num="27">Selvi ,bölgede incelemelerde bulunacaklarını dile getirerek ,''Bu olayın sıkı takipçisi olacağız .</sentence>
+<sentence num="28">İncelemelerimiz sonucunda elde ettiğimiz bilgileri kamuoyuyla paylaşacağız .</sentence>
+<sentence num="29">Bu konuda TBMM'ye bir soru önergesi de vereceğiz .</sentence>
+<sentence num="30">Bu üzüntünün son olmasını istiyoruz .</sentence>
+<sentence num="31">Vefat edenlere rahmet ,yakınlarına sabır diliyoruz ''dedi .</sentence>
+</doc>
+<doc>
+<id>67387</id>
+<sentence num="0">2005 04 23 13 :02 :00 .DİSK :Grizu patlamasının sorumlusu hükümetler .</sentence>
+<sentence num="1">DİSK :Grizu patlamasının sorumlusu hükümetler Türkiye Devrimci İşçi Sendikaları Konfederasyonu'ndan (DİSK ),Kütahya'nın Gediz İlçesi'nde maden ocağında meydana gelen patlamaya ilişkin yapılan açıklamada ,''Bu patlamanın tek sorumlusu ,madende gerekli yatırımları yapmayan ve işçi güvenliğini göz ardı ederek işletilmesine izin veren hükümetlerdir ''denildi .</sentence>
+<sentence num="2">DİSK'ten yapılan yazılı açıklamada ,maden ocağında meydana gelen grizu patlamasında 18 işçinin hayatını kaybettiği anımsatılarak ,şu ifadelere yer verildi :''Özelleştirme kapsamında bulunan maden ,Kömür İşletmeleri'ne ait .</sentence>
+<sentence num="3">Bu patlamanın tek sorumlusu ise madende gerekli yatırımları yapmayan ve işçi güvenliğini göz ardı ederek işletilmesine izin veren hükümetlerdir .</sentence>
+<sentence num="4">Özel sektördeki madenleri denetlemeyen ,kendi yönetiminde olan madenleri ise satmaya çalışan hükümet yetkililerini derhal göreve çağırıyoruz .''.</sentence>
+</doc>
+<doc>
+<id>67400</id>
+<sentence num="0">2005 04 23 13 :25 :00 .DİSK :Gediz'deki patlamanın sorumlusu hükümetlerdir ...</sentence>
+<sentence num="1">Türkiye Devrimci İşçi Sendikaları Konfederasyonu'ndan (DİSK ),Kütahya'nın Gediz İlçesi'nde maden ocağında meydana gelen patlamaya ilişkin yapılan açıklamada ,''Bu patlamanın tek sorumlusu ,madende gerekli yatırımları yapmayan ve işçi güvenliğini göz ardı ederek işletilmesine izin veren hükümetlerdir ''denildi .</sentence>
+<sentence num="2">DİSK'ten yapılan yazılı açıklamada ,maden ocağında meydana gelen grizu patlamasında 18 işçinin hayatını kaybettiği anımsatılarak ,şu ifadelere yer verildi :''Özelleştirme kapsamında bulunan maden ,Kömür İşletmeleri'ne ait .</sentence>
+<sentence num="3">Bu patlamanın tek sorumlusu ise madende gerekli yatırımları yapmayan ve işçi güvenliğini göz ardı ederek işletilmesine izin veren hükümetlerdir .</sentence>
+<sentence num="4">Özel sektördeki madenleri denetlemeyen ,kendi yönetiminde olan madenleri ise satmaya çalışan hükümet yetkililerini derhal göreve çağırıyoruz .''</sentence>
+<sentence num="5">Açıklamada ayrıca ,''DİSK olarak ,hayatını kaybeden emekçi kardeşlerimize tanrıdan rahmet ,ailelerine sabır diliyoruz ''denildi .</sentence>
+</doc>
+<doc>
+<id>67403</id>
+<sentence num="0">2005 04 23 13 :32 :00 .DİSK'ten hükümete 'Gediz 'suçlaması .</sentence>
+<sentence num="1">Patlamada 18 işçi hayatını kaybetmişti Kütahya'nın Gediz ilçesinde maden ocağında meydana gelen ve 18 işçinin ölümüyle sonuçlanan patlamayla ilgili olarak DİSK ,hükümeti suçladı .</sentence>
+<sentence num="2">DİSK'ten yapılan yazılı açıklamada ,maden ocağında meydana gelen grizu patlamasında 18 işçinin hayatını kaybettiği hatırlatılarak ''özelleştirme kapsamında bulunan maden ,Kömür İşletmeleri'ne ait .</sentence>
+<sentence num="3">Bu patlamanın tek sorumlusu ise madende gerekli yatırımları yapmayan ve işçi güvenliğini göz ardı ederek işletilmesine izin veren hükümetlerdir ifadeleri kullanıldı .'</sentence>
+<sentence num="4">Özel sektördeki madenleri denetlemeyen ,kendi yönetiminde olan madenleri ise satmaya çalışan hükümet yetkililerini derhal göreve çağırıyoruz ''denilen açıklamada hayatını kaybeden işçilerin ailelerine de başsağlığı dilendi .</sentence>
+<sentence num="5">ÖLEN İŞÇİLERİN İSİMLERİ Musa Kartal Türker Öztürk İbrahim Atmaca Lokman Özten Ahmet Ertürk Yüksel Dağcı İbrahim Kılıç Ethem Eroğlu Rüştü Söyler Mehmet Özdemir Fatih Gümüş Ahmet Asal Ramazan Atak Nazım Özdoğan Mustafa Akdemir İsmail Üner Kadir Erdoğan Mehmet ÇelenGediz'e 30 kilometre uzaklıktaki Gökler beldesi yakınlarındaki maden ocağında geçtiğimiz perşembe günü patlama meydana gelmişti .</sentence>
+<sentence num="6">Patlamanın ardından girişi kapanan ocakta 18 işçi mahsur kalmıştı .</sentence>
+<sentence num="7">İşçiler tüm müdahalelere rağmen kurtarılamamıştı .</sentence>
+<sentence num="8">Ocaktan çıkarılarak ambulanslarla Gediz ve 82'nci Yıl devlet hastaneleri morglarına taşınan işçilerin cenazeleri ise dün toprağa verildi .</sentence>
+<sentence num="9">Enerji ve Tabii Kaynaklar Bakanı Hilmi Güler ,kazaya ilişkin ,olayda ihmal olup olmadığı konusunda yaptığı dünkü açıklamasında ,ocakta bir mühendisin de yaşamını yitirmesi ,teknik olarak bir eksikliğin olmadığı kanaatini uyandırıyor demişti .</sentence>
+<sentence num="10">Bakan Güler ,ihmal olup olmadığı konusunun olayla ilgili hazırlanan raporun tamamlanmasından sonra tam olarak anlaşılacağını da vurgulamıştı .</sentence>
+</doc>
+<doc>
+<id>68212</id>
+<sentence num="0">2005 04 25 10 :26 :00 .Madende hayat devam edecek .</sentence>
+<sentence num="1">Kütahya'nın Gediz ilçesine bağlı Gökler beldesinde 21 Nisan'da 18 kişiye mezar olan maden ocağı ,çevredeki işsizlerin en büyük umudu .</sentence>
+<sentence num="2">110 kişinin çalıştığı maden ocağında işe girebilmek için yaklaşık 350 kişi sırada .</sentence>
+<sentence num="3">Bu kişilerden 18'i ölenlerin yerine işbaşı yapacak .'</sentence>
+<sentence num="4">En acı iş'in sahibi olacak bu kişiler de ,aylık 420 YTL'ye çalışacak .</sentence>
+<sentence num="5">Gökler ve çevresinde 4 büyük maden olacağı var .</sentence>
+<sentence num="6">Halk ,ölüme alışık .</sentence>
+<sentence num="7">Her yıl 1 2 kişi hayatını kaybediyor .</sentence>
+<sentence num="8">Buna rağmen Kömür İşletmeleri'nde çalışmak için dilekçe verenlerin sayısı 350'ye yakın .</sentence>
+<sentence num="9">Çalışanlar ise ,Korkuyoruz ama mecburuz diyor .'</sentence>
+<sentence num="10">Kız vermiyorlar 'Kömür ocağında iş bulanlar ise sıkıntılı .</sentence>
+<sentence num="11">Hasan Ali Kurt (18 )ortaokulu bitirdikten sonra babası ve ağabeyi gibi maden ocaklarında çalışmaya başlamış .</sentence>
+<sentence num="12">Hayati tehlikesi nedeniyle artık kimsenin madenciye kız vermek istemediğini söyleyen Kurt ,sevdiği kızın da işi bırakması için baskı yaptığını söylüyor .</sentence>
+<sentence num="13">lkokul 5 .sınıfta okulu bırakan abisi gibi madenci olan Murat Düzenli (19 )ise ,Başka çaremiz yok .</sentence>
+<sentence num="14">Her sabah ailemizle helalleşiyoruz .</sentence>
+<sentence num="15">Ölümleri kanıksadık .</sentence>
+<sentence num="16">Sendikamız da yok ,istemeye kalkışsak işten çıkartırlar diye konuşuyor .</sentence>
+<sentence num="17">Geçim sıkıntısı nedeniyle 1 yıl ilkokula giden Doğan Yiğit (18 )de ,Madencilik kaderimiz .</sentence>
+<sentence num="18">Daha çocukluğumda dedem elimden tutarak madene götürüp getiriyordu diyor .</sentence>
+<sentence num="19">Mustafa'nın dramı Son maden kazasında dayısı Musa Kartal'ı kaybeden Mustafa Yaman (20 ),madenciliğe 16 yaşında ,kaçak işçi olarak başlamış .</sentence>
+<sentence num="20">2003'te göçük altında kalınca da tekerlekli sandalyeye mahk m olmuş .</sentence>
+<sentence num="21">Yaman ,Sigortasız çalışırken kazadan sonra 1 günde işyeri sahibi sigortamı yaptı .</sentence>
+<sentence num="22">İşyerini dava ettim ,mahkeme devam ediyor diyor .(</sentence>
+<sentence num="23">Milliyet ).</sentence>
+</doc>
+<doc>
+<id>69918</id>
+<sentence num="0">2005 04 27 14 :30 :00 .Engelli oğlu ,grizu faciasından kurtardı .</sentence>
+<sentence num="1">Mehmet ALTINTAŞ GEDİZ (Kütahya ),(DHA )KÜTAHYA'nın Gediz İlçesi'nde ,grizu faciasının yaşandığı maden ocağında çalışan Hasan Batı'nın ,olaydan bir gün önce engelli oğlunun tedavisi için izin aldığı ,böylece ölümden döndüğü ortaya çıktı .</sentence>
+<sentence num="2">Gediz'in Gökler Beldesi'nde KİAŞ'a ait linyit işletmesindeki 7 numaralı maden ocağı ,21 Nisan Perşembe günü grizu patlaması sonucu 18 işçiye mezar olurken ,aynı vardiyada çalışan Hasan Batı ,oğlu sayesinde hayatta kaldı .</sentence>
+<sentence num="3">Evli ve iki çocuk babası 29 yaşındaki Batı ,patlamadan bir gün önce ,spastik engelli 4 yaşındaki oğlu Cemalettin'i Ankara'ya tedaviye götürmek üzere izin aldığını ,facia sırasında Ankara'da olduğunu belirtti .</sentence>
+<sentence num="4">Ölen işçilerden Mehmet Çelen ile komşu olduğunu anlatan Hasan Batı ,?</sentence>
+<sentence num="5">Komşu evindeki feryatları duydukça içim burkuluyor ,büyük acı çekiyorum .</sentence>
+<sentence num="6">İş arkadaşım ve komşum Çelen ve geride kalan ailesi için çok üzülüyorum .</sentence>
+<sentence num="7">Hayatta kaldığıma inanamıyorumö dedi .</sentence>
+<sentence num="8">Eşi Hatice ,çocukları Cemalettin ve Ayşenur'a sarılan Batı ,?</sentence>
+<sentence num="9">Eğer oğlumu tedavi ettirmek için izin almamış olsaydım ben de diğer arkadaşlarım gibi feci şekilde hayata veda edecektim .</sentence>
+<sentence num="10">Yavrularım da yetim kalacak ,eşim de şu an gözyaşı döküyor olacaktıö dedi .</sentence>
+<sentence num="11">Hasan Batı'nın babası Cemalettin ve annesi Ayşe Batı da ,?</sentence>
+<sentence num="12">Oğlumuz torunumuzun tedavisi için izin almıştı .</sentence>
+<sentence num="13">Şu anda bu sayede hayatta .</sentence>
+<sentence num="14">Buna çok seviniyoruz ama komşumuz Mehmet Çelen için ailece çok üzülüyoruzö diye konuştu .</sentence>
+</doc>
+<doc>
+<id>73089</id>
+<sentence num="0">2005 05 03 00 :55 :00 .Maden faciasında ağır ihmal .</sentence>
+<sentence num="1">18 kişinin hayatını kaybettiği patlamadan sonra olay yerine giderek rapor hazırlayan uzmanlar ,gerekli tedbirler alınmadan işçilerin madene sokulduğu görüşünde .</sentence>
+<sentence num="2">6 ay boyunca havalandırma bacası olmadan üretim yapılan madende grizu patlamasına sebep olmayan dinamit lokumları da kullanılmamış .</sentence>
+<sentence num="3">Her vardiya değişiminde metan gazını ölçmesi gereken eleman ise haftada bir defa madene girmiş .</sentence>
+<sentence num="4">Olayla ilgili hazırlanan iki raporda çarpıcı cümleler yer alıyor .</sentence>
+<sentence num="5">Altında Türkiye Taş Kömürü Kurumu (TTK )Kozlu Müessese Müdürlüğü İşgüvenliği Şubesi Başmühendisi Mustafa Keskinpala'nın imzasının bulunduğu raporda ;Ocağa ilk girdiğimizde 18 madencinin cesetleriyle karşılaştık .</sentence>
+<sentence num="6">Kollarındaki saatlere baktığımızda 11 .30'u göstermesi dikkatimizi çekti .</sentence>
+<sentence num="7">Demek ki olay 11 .30'da meydana gelmiş ve ani bir metan şoklamasıyla saatler bile durmuş .</sentence>
+<sentence num="8">Bizim girdiğimizde içeride 2000 ppm'nin üzerinde karbonmonoksit gazı vardı ki bu ,çok yoğun ve tehlikeli bir oran .</sentence>
+<sentence num="9">Normalde 600 ppm'nin üzeri insanı öldürür .</sentence>
+<sentence num="10">deniliyor .</sentence>
+<sentence num="11">Türkiye Mühendis ve Mimar Odaları Birliği (TMMOB )adına Jeoloji Yüksek Mühendisi Şevki Bayraktaroğlu'nun hazırladığı raporda ise şu tespitler ortaya konuluyor :Üretime hazırlanan bir ocakta yapılması gereken en önemli işlemlerden bir tanesi havalandırmanın sağlanması olur .</sentence>
+<sentence num="12">Bu ocakta havalandırma bacası yapılmadan üretim için hazırlıklar bitirilmiş ,kömür damarına girilerek üretime başlanmış ve her vardiyada en az 20 ton olmak üzere üretim yapılmıştır .</sentence>
+<sentence num="13">Bu durumun altı aydır devam ettiği ifade edilmiştir .</sentence>
+<sentence num="14">Biz olay yerine vardığımızda havalandırma bacasının olması gereken yerde h l sondaj çalışması devam etmekteydi .</sentence>
+<sentence num="15">Maden ocağında 18 mesai arkadaşını kaybeden Ahmet Aksu da yaşananları 'cinayet 'olarak yorumluyor :Üretim fazla yapılacak diye madene nefeslik delinmeden işçiyi soktular .</sentence>
+<sentence num="16">Sonunda da bu patlama oldu .</sentence>
+<sentence num="17">Bu resmen cinayettir .</sentence>
+<sentence num="18">Bunun hesabı sorulmalıdır .</sentence>
+<sentence num="19">Grizu patlamasının gerçekleştiği 21 Nisan'dan 4 gün önce vardiyasını değiştireren Ahmet Aksu ,grizu tehlikesi olan bu tür kömür madenlerinde ,grizu emniyetli dinamit lokumu ve kapsül kullanılması gerektiğini söylüyor .</sentence>
+<sentence num="20">Aksu'nun verdiği bilgilere göre ;Gediz'deki işletmede bu dinamitin kullanılmama sebebi daha fazla üretim yapmak .</sentence>
+<sentence num="21">Havalandırmanın iyi yapıldığı ve nefeslik diye tabir edilen bacanın bulunduğu madenlerde grizu emniyetli lokum ve kapsül kullanılmasına gerek kalmıyor .</sentence>
+<sentence num="22">18 kişiye mezar olan madende nefeslik bacasının delinmesine 9 metre kalmış ve vantüp diye adlandırılan havalandırma sistemi de asıl kömürün çıkarıldığı yere kadar uzanmıyor .</sentence>
+<sentence num="23">Uzmanların verdiği bilgiye göre patlamanın gerçekleştiği ocaktaki gibi yüksek kalitede kömür çıkarılan madenlerde metan gazı nedeniyle grizu oluşması kaçınılmaz .</sentence>
+<sentence num="24">Oksijenden daha hafif olan bu gaz belirli bir seviyeye ulaştığında en küçük bir kıvılcım bile patlamaya yol açabiliyor .</sentence>
+<sentence num="25">Maden işçisi Ahmet Aksu ,Ben yetkili kişinin içeriye ancak haftada bir defa girdiğini görüyordum .</sentence>
+<sentence num="26">Diğer günlerde hiç görmedim .</sentence>
+<sentence num="27">diyor .</sentence>
+<sentence num="28">Emniyetçi diye tabir edilen görevlinin içeride grizu ölçümü yapması ve tehlikeli bir durum tespit ettiğinde bunu rapor etmesi gerektiğine dikkat çeken Aksu ,gerekli malzemenin bulunduğunu ;ancak standartlara uygun kullanılmadığını ifade ediyor .</sentence>
+<sentence num="29">Türkiye Mühendis ve Mimar Odaları Birliği adına maden ocağında inceleme yaparak rapor hazırlayan Jeoloji Yüksek Mühendisi Şevki Bayraktaroğlu ,madenin yeterli güvenlik tedbiri alınmadan işletildiğini söylüyor .</sentence>
+<sentence num="30">Bayraktaroğlu şu bilgileri yer veriyor :Ocaktan çıkarılmış olan kömürler incelendiğinde ,kömürün nitelik itibari ile yüksek kalorili olduğu görülmekte .</sentence>
+<sentence num="31">Bu kalitedeki bir kömürde jeolojik olarak metan gazının bir sorun olabileceği bilimsel olarak kanıtlanmıştır .</sentence>
+<sentence num="32">Bu gibi ocaklarda metan gazının devamlı kontrol altında tutulması gerekir .</sentence>
+<sentence num="33">Üretime hazırlanan bir ocakta yapılması gereken en önemli işlemlerden birisi havalandırmanın sağlanmamış olmasıdır .</sentence>
+<sentence num="34">Bu ocakta havalandırma bacası yapılmadan üretime geçilmiş ve her vardiyada en az 20 ton olmak üzere üretim yapılmıştır .</sentence>
+<sentence num="35">Bu durumun altı aydır devam ettiği ifade edilmiştir .</sentence>
+<sentence num="36">Biz olay yerine vardığımızda havalandırma bacasının olması gereken yerde h l sondaj çalışması devam etmekteydi .(</sentence>
+<sentence num="37">Belediye başkanı ve ocakta çalışan işçilerin ifadelerine göre bu sondajın henüz kömür damarına girmediği belirtilmiştir .)</sentence>
+<sentence num="38">ZAMAN .</sentence>
+</doc>
+<doc>
+<id>87164</id>
+<sentence num="0">2005 05 26 16 :32 :00 .Grizunun ardından gelen dram .</sentence>
+<sentence num="1">Gökler Beldesi'ndeki evinde çok sayıda ilaç içerek intihar girişiminde bulunan M .K .(17 ),Gediz Devlet Hastanesi'nde yapılan ilk müdahalenin ardından Uşak Devlet Hastanesi'ne sevk edildi .</sentence>
+<sentence num="2">M .K'nın babası ve grizu patlamasında ölen işçilerden Kadir Erdoğan'ın kayınpederi Ali K ,AA muhabirine yaptığı açıklamada ,damadının ölümünden sonra oğlunun bunalıma girdiğini belirtti .</sentence>
+<sentence num="3">Ali K ,''Oğlum ,Kadir'in ölümüne çok üzülüyordu .</sentence>
+<sentence num="4">Ablası Sultan'a ve 5 yaşındaki torunum Feyza'ya baktıkça kahroluyordu ,bu yüzden intihara kalkıştı ''dedi .</sentence>
+<sentence num="5">Yetkililer ,M .K'nın sağlık durumunun iyi olduğunu ,olayla ilgili soruşturmanın sürdürüldüğünü bildirdiler .</sentence>
+</doc>

@@ -1,0 +1,346 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 01 01 14 :20 :00 .the guardian ,londra'da açılacak türk sergisine geniş yer verdi ..</sentence>
+<sentence num="1">ingiltere'de yayımlanan the guardian gazetesi ,22 ocak tarihinde londra'daki kraliyet sanat akademisi'nde açılacak ''türkler ;bin yıllık yolculuk (600 1600 )''adlı sergiye geniş yer verdi .</sentence>
+<sentence num="2">serginin son yılların en çarpıcı ve etkileyici islami sanat sergisi olacağını belirten guardian yazarı jonathan jones ,sergide el yazması eserlerden halılara dek uzanan geniş bir yelpazede ,birbirinden özel tarihi eserlerin sergileneceğini duyurdu .</sentence>
+<sentence num="3">guardian yazarı ,yeni yılın bu önemli sanat olayının istanbul'dan getirilen hazinelerle dolu olacağını ,bunlar arasında fatih sultan mehmet'in kaftanından ,mimar sinan tarafından ııı .murat'ın haremi için yapılan kapı gibi önemli eserlerin bulunduğunu bildirdi .</sentence>
+<sentence num="4">osmanlı tarihinden önemli ve çarpıcı olaylara da dikkati çeken guardian yazarı jones ,güçlü osmanlı imparatorluğu'nun coğrafyasının balkanlardan iran'a kadar uzandığına işaret etti .</sentence>
+<sentence num="5">türklerin anadolu'ya gelişini ve buraya yerleşmelerini de okurlarına özetleyen yazar ,osmanlı sanatının el yazması kitaplardan ,mimar sinan'ın birbirinden güzel camilerine ,istanbul'un kiliselerine kadar çeşitlilik gösterdiğini bildirdi .</sentence>
+<sentence num="6">kiliselerin varlığının osmanlı imparatorluğunun müthiş çoğulculuk anlayışını simgelediğine de dikkati çeken yazar ,''bununla avrupalılara (eğer buraya gelmek istiyorsanız ,istanbul size kucağını açmaya hazırdır )mesajı verilmiştir ''diye yazdı .</sentence>
+<sentence num="7">kraliyet sanat akademisinde açılan sergiyle böylesine büyük bir kültürü tanıma fırsatının ingiliz halkına sunulduğuna da dikkati çeken yazar ,''böylece dünyanın en çeşitlilik içeren yaratıcı kültürünü tanıma imkanı bulacaksınız ''diyerek okurlarını sergiyi görmeye çağırdı .</sentence>
+<sentence num="8">bilindiği gibi garanti bankası ve aygaz'ın sponsorluğunu yaptığı ''türkler ;bin yıllık yolculuk (600 1600 )''sergisi 18 ocakta yapılacak basın tanıtımının ardından 22 ocakta resmen açılacak .</sentence>
+<sentence num="9">sergi ,12 nisan tarihine kadar açık tutulacak .</sentence>
+</doc>
+<doc>
+<id>4639</id>
+<sentence num="0">2005 01 10 11 :18 :00 .Bin Yıllık Yolculuk Sergisi .</sentence>
+<sentence num="1">İngiltere'nin ünlü Kraliyet Sanat Akademisi'nde (Royal Academy of Arts )22 Ocak'ta açılacak Türkler :Bin Yıllık Yolculuk (600 1600 )adlı sergiyi 400 binden fazla kişinin ziyaret etmesinin beklendiği bildirildi .</sentence>
+<sentence num="2">Uygurlar ,Selçuklular ve Osmanlı dönemlerinden örneklerin sanatseverlere sunulacağı sergi ,12 Nisan'a kadar açık kalacak .</sentence>
+<sentence num="3">İngiltere'de bu kadar geniş bir dönemi kapsayacak şekilde Türk tarihi ve kültürüne ışık tutacak ilk sergi olma özelliğine sahip sergi ,İslam kültürü konusunda bilgi verecek ilk büyük organizasyon olma niteliğini de taşıyor .</sentence>
+<sentence num="4">Kraliyet Sanat Akademisi ,daha önce Afrika kültürü ve Azteklerle ilgili iki büyük sergi düzenlemiş ve sergiler büyük ilgi görmüştü .</sentence>
+<sentence num="5">Akademi ,Türklerle ilgili ilk kapsamlı sergisinde ,aralarında New York'taki Metropolitan Müzesi ,St .Petersburg'daki State Hermitage Müzesi ,Paris'teki Louvre Müzesi ve özel koleksiyoncuların bulunduğu 11 ayrı ülkeden 37 ayrı kişi ve kurumdaki eserleri sanatseverlerin beğenisine sunacak .</sentence>
+<sentence num="6">En önemli parçaların ,Topkapı Sarayı Müzesi ve Türkiye'deki diğer kurumlardan getirilmesi bekleniyor .</sentence>
+<sentence num="7">Uzmanlar ,Türkiye'den gelecek eserlerin büyük bölümünün ilk kez ülke sınırları dışında sergileneceğine işaret ediyor .</sentence>
+<sentence num="8">Bu eserler arasında ,1578 yılına tarihlenen ve Mimar Sinan tarafından III .Murat'ın harem kapısı olarak tasarlanmış ,2 .5 metre uzunluğundaki mozaikli ahşap kapı ;13 .yüzyıl Selçuklu döneminden kalma ve günümüze kadar çok iyi korunmuş 6 metrelik halı ;el yazması eserler ,Çin dışındaki en büyük Çin porseleni koleksiyonlarından birine sahip Topkapı Sarayı Müzesi'nden çok değerli porselenler ,kıymetli taşlarla süslü silahlar ,miğferler ,Fatih Sultan Mehmet'in günlük ü ,II .Selim'in kaftanı gibi birbirinden değerli parçalar bulunuyor .</sentence>
+<sentence num="9">Topkapı Sarayı Müzesi Müdürü Filiz Çağman ,Sakıp Sabancı Müzesi Müdürü Nazan Ölçer ,Harvard Üniversitesi İslam Sanatları Profesörü David Roxburgh gibi çok sayıda değerli bilim adamının ortak çalışması sonucu hazırlanan sergi ,gündüz ve gece düzenlenecek konferans ve toplantılarla da zenginleştirilecek .</sentence>
+<sentence num="10">Bu konferansların katılımcıları arasında ünlü Müzikolog Dr .Emre Aracı ,ünlü İngiliz gazeteci Hugh Pope ve bilim adamı Prof .Gülru Necipoğlu yer alıyor .</sentence>
+<sentence num="11">Sergi süresince düzenlenecek atölye çalışmaları sırasında da ilgililere çini boyama dersleri verilecek .</sentence>
+<sentence num="12">Türkiye'nin Londra Büyükelçisi Akın Alptuna da konuyla ilgili açıklamasında ,Royal Academy of Arts gibi saygın bir kuruluşta ilk kez Türklerle ilgili böylesine kapsamlı bir organizasyonun düzenlendiğine dikkat çekerek ,sergi organizasyonunda son derece önemli ve değerli bir bilim kadrosunun yer aldığını söyledi .</sentence>
+<sentence num="13">Böylesine yaygın ve büyük bir koleksiyonu bir araya getirmenin ancak Royal Academy of Arts gibi gerçekten iyi örgütlenmiş ve iyi çalışan bir kurum için mümkün olduğunu belirten Alptuna ,çok sayıda eseri ,halen bulundukları Metropolitan ,Louvre gibi müzelerden çıkartmanın bu kuruluşun başarısı olduğunu kaydetti .</sentence>
+<sentence num="14">Royal Academy of Arts'ın Meksika konulu sergisinin ardından ,bu ülkeyi ziyaret edenlerin sayısının bir anda katlanarak arttığını ifade eden Büyükelçi Alptuna ,Türkler konulu serginin ardından Türkiye'ye yönelik ilgide de büyük artış beklendiğini söyledi .</sentence>
+<sentence num="15">Alptuna ,sergi açılışına Türkiye'den Kültür ve Turizm Bakanı Erkan Mumcu'nun katılmasının kesin olduğunu ,Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül'ün de fırsat bulması halinde sergiye geleceğini belirtti .</sentence>
+<sentence num="16">Büyükelçi Alptuna ,İngiliz hükümetinin de sergi açılışında aynı seviyede temsil edilmesini beklediklerini bildirdi .</sentence>
+<sentence num="17">Öte yandan ,Sunday Times gazetesinde yayımlanan magazin ekinde Türk tarihi ve sergiyle ilgili ayrıntılı bir haber yer aldı .</sentence>
+</doc>
+<doc>
+<id>4811</id>
+<sentence num="0">2005 01 10 14 :47 :00 .'Bin Yıllık Yolculuk 'İngiltere'de .</sentence>
+<sentence num="1">Sergiye ,Türkiye'den birçok eser götürülecek İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin yıllık yolculuğa 'övgü ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk 'açıldı ?'</sentence>
+<sentence num="4">Bin Yıllık Yolculuk'un basın tanıtımı yapıldı İngiltere'deli Kraliyet Sanat Akademisi'nde açılacak 'Türkler :Bin Yıllık Yolculuk 600 1600 'adlı serginin yoğun ilgi görmesi bekleniyor .</sentence>
+<sentence num="5">İslam kültürü konusunda bilgi verecek ilk büyük organizasyon olma niteliğini taşıyan sergi ,22 ocakta açılacak .</sentence>
+<sentence num="6">Akademi ,Türklerle ilgili ilk kapsamlı sergisinde ,aralarında New York'taki Metropolitan Müzesi ,St .Petersburg'daki State Hermitage Müzesi ,Paris'teki Louvre Müzesi ve özel koleksiyoncuların bulunduğu 11 ayrı ülkeden 37 ayrı kişi ve kurumdaki eserleri sanatseverlerin beğenisine sunacak .</sentence>
+<sentence num="7">Sergilenecek en önemli parçaların ,Topkapı Sarayı Müzesi ve Türkiye'deki diğer kurumlardan getirilmesi bekleniyor .</sentence>
+<sentence num="8">Türkiye'den götürülecek eserler :Mimar Sinan tarafından III .Murat'ın harem kapısı olarak tasarlanmış ,2 .5 metre uzunluğundaki mozaikli ahşap kapı ,13'üncü yüzyıl Selçuklu döneminden kalma ve günümüze kadar korunmuş altı metrelik halı ,El yazması eserler ,Topkapı Sarayı Müzesi'nden çok değerli porselenler ,Kıymetli taşlarla süslü silahlar ,Miğferler ,Fatih Sultan Mehmet'in günlüğü ,II .Selim'in kaftanı .</sentence>
+<sentence num="9">Sergi ,Topkapı Sarayı Müzesi Müdürü Filiz Çağman ,Sakıp Sabancı Müzesi Müdürü Nazan Ölçer ,Harvard Üniversitesi İslam Sanatları Profesörü David Roxburgh gibi çok sayıda bilim adamının ortak çalışması sonucu hazırlandı .</sentence>
+<sentence num="10">Sergi ,12 nisana kadar görülebilecek Türkiye'nin Londra Büyükelçisi Akın Alptuna ,sergi açılışına Türkiye'den Kültür ve Turizm Bakanı Erkan Mumcu'nun katılacağını söyledi .</sentence>
+<sentence num="11">Uygurlar ,Selçuklular ve Osmanlı dönemlerinden örneklerin sunulacağı sergi ,12 nisana kadar görülebilecek .</sentence>
+<sentence num="12">Sergi süresince düzenlenecek atölye çalışmaları sırasında da ilgililere çini boyama dersleri verilecek .</sentence>
+<sentence num="13">Kraliyet Sanat Akademisi ,daha önce Afrika kültürü ve Azteklerle ilgili iki büyük sergi de düzenlemişti .</sentence>
+<sentence num="14">Kraliyet Sanat Akademisi'nin (Royal Academy of Arts )dergisi de ,kış sayısını sergi dolayısıyla Türk sanat ve kültürüne ayırmıştı .</sentence>
+<sentence num="15">www .turks .</sentence>
+<sentence num="16">org .uk .</sentence>
+</doc>
+<doc>
+<id>6009</id>
+<sentence num="0">2005 01 12 13 :05 :00 .'Türkler :Bin yıllık yolculuk 'sergisi The Times'da ...</sentence>
+<sentence num="1">İngiliz The Times gazetesi ,magazin ekinde ,22 Ocak'ta Londra'daki Royal Academy of Arts'da (Kraliyet Sanat Akademisi )açılacak ''Türkler :Bin Yıllık Yolculuk ,600 1600 yılları ''adlı sergiye geniş yer verdi .</sentence>
+<sentence num="2">Türklerin tarihi gelişimi hakkında bilgi verilen 2 sayfalık yazıda ,Osmanlı İmparatorluğu dönemine değinildi ve serginin ,Türk kültürüyle ilgili İngiltere'de bugüne dek yapılan en büyük kültürel etkinlik olacağı belirtildi .</sentence>
+<sentence num="3">Moğolistan'dan göçlerle başlayan ,Uygurlar ,Timurlar ,Selçukluların Anadolu'ya gelişleriyle süren bin yıllık yolculuğun izlerinin sergide görülebileceği ifade edilen yazıda ,İstanbul'un fatihi olarak tarihte özel bir yer edinen Fatih Sultan Mehmet'in dönemine ait pek çok önemli eserin de sergide yer alacağını kaydedildi .</sentence>
+</doc>
+<doc>
+<id>6148</id>
+<sentence num="0">2005 01 12 15 :48 :00 .'Bin Yıllık Yolculuk 'The Times'da .</sentence>
+<sentence num="1">Sergi ,22 ocakta açılacak İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin yıllık yolculuğa 'övgü ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk 'açıldı ?'</sentence>
+<sentence num="4">Bin Yıllık Yolculuk'un basın tanıtımı yapıldı İngiliz The Times gazetesi ,magazin ekinde ,22 ocakta Londra'daki Royal Academy of Arts'da açılacak 'Türkler :Bin Yıllık Yolculuk ,600 1600 'adlı sergiye geniş yer verdi .</sentence>
+<sentence num="5">Türklerin tarihi gelişimi hakkında bilgi verilen iki sayfalık yazıda ,Osmanlı İmparatorluğu dönemine değinilerek ,serginin ,Türk kültürüyle ilgili İngiltere'de bugüne dek yapılan en büyük kültürel etkinlik olacağı belirtildi .</sentence>
+<sentence num="6">Moğolistan'dan göçlerle başlayan ,Uygurlar ,Timurlar ,Selçukluların Anadolu'ya gelişleriyle süren bin yıllık yolculuğun izlerinin sergide görülebileceğine değinilen yazıda ,sergide ,Fatih Sultan Mehmet'in dönemine ait pek çok önemli eserin yer alacağı da vurgulandı .</sentence>
+<sentence num="7">Sergilenecek en önemli parçaların ,Topkapı Sarayı Müzesi ve Türkiye'deki diğer kurumlardan getirilmesi beklenen sergi ,12 nisana kadar görülebilecek .</sentence>
+<sentence num="8">www .turks .</sentence>
+<sentence num="9">org .uk .</sentence>
+</doc>
+<doc>
+<id>9525</id>
+<sentence num="0">2005 01 18 14 :10 :00 .'Bin Yıllık Yolculuk'un basın tanıtımı yapıldı .</sentence>
+<sentence num="1">Sergi ,370 eserden oluşuyor İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin yıllık yolculuğa 'övgü ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk 'açıldı İngiltere'deki Kraliyet Sanat Akademisi tarafından düzenlenen 'Türkler :Bin Yıllık Yolculuk ,600 1600 'adlı sergi basına tanıtıldı .</sentence>
+<sentence num="4">Fatih Sultan Mehmet'in günlüğü ,Mimar Sinan tarafından yapılan tahta oyma saray kapısı ,el yazmaları ,çiniler ve halılar gibi birbirinden değerli eserlerin bulunduğu galeriler sıkı biçimde korunurken ,bazı galerilerde fotoğraf çekilmesine izin verilmiyor .</sentence>
+<sentence num="5">Akademide bu akşam düzenlenecek resmi açılış törenine Kültür ve Turizm Bakanı Erkan Mumcu'nun da katılması bekleniyor .</sentence>
+<sentence num="6">Topkapı Sarayı Müzesi ve dünyadaki çeşitli müzeler ile özel koleksiyonlardan eserler getirilen sergi ,22 ocak cumartesi gününden itibaren de halka açılacak .</sentence>
+<sentence num="7">Ana sponsorlar :Aygaz ,Garanti Bankası ve Corus CT Ana sponsorluğunu Aygaz ,Garanti Bankası ve Corus CT'nin üstlendiği sergi ,LASSA ve Akkök Şirketler Grubu ,Access Industries (İngiltere ),Çolakoğlu Grubu ,Friends of the Royal Academy ile Royal Academy Trust bağışçılarının destekleriyle gerçekleştiriliyor .</sentence>
+<sentence num="8">Batıya göç sırasında Orta Asya'nın doğu sınırlarından başlayarak Doğu Avrupa'dan Balkanlar'a kadar ilerleyen Türk kültürlerinin gelişim sürecini konu alan sergi ,Topkapı Sarayı Müzesi Müdürü Filiz Çağman ,Sakıp Sabancı Müzesi Müdürü Nazan Ölçer ve Harvard Üniversitesi İslam Sanatları Profesörü David Roxburgh ile Kraliyet Sanat Akademisi'nden Sergi Sekreteri Norman Rosenthal ,sergi kreatörü Adrian Locke tarafından hazırlandı .</sentence>
+<sentence num="9">Sergi ,12 nisana kadar açık İstanbul Kültür ve Sanat Vakfı'nın lojistik planlama ve desteğiyle düzenlenen sergi ,12 nisan 2005 tarihine kadar açık kalacak .</sentence>
+<sentence num="10">Sergi çerçevesinde ,atölye çalışmaları ve galeri sohbetleri gibi birçok etkinlik de gerçekleştirilecek .</sentence>
+<sentence num="11">www .turks .</sentence>
+<sentence num="12">org .uk .</sentence>
+</doc>
+<doc>
+<id>9841</id>
+<sentence num="0">2005 01 19 00 :37 :00 .Türkler ;Bin Yılın Yolculuğu sergisi açıldı .</sentence>
+<sentence num="1">Türkler ;Bin Yılın Yolculuğu sergisi açıldı Topkapı Sarayı Müzesi ile İstanbul Türk İslam Eserleri Müzesi ve yurtdışındaki özel koleksiyonlardan seçilen eserlerin yer aldığı ''Türkler :Bin Yılın Yolculuğu 600 1600 ''sergisinin resmi açılışı ,İngiltere'nin en saygın kültür sanat kurumlarından biri olan Londra'daki Royal Academy of Arts'ta (Kraliyet Sanat Akademisi )gerçekleştirildi .</sentence>
+<sentence num="2">Açılışta konuşan Kültür ve Turizm Bakanı Erkan Mumcu ,serginin önemli bir tanıtım işlevini yerine getireceğini ve Türkiye'ye çok şey kazandıracağını vurguladı .</sentence>
+<sentence num="3">Binin üzerinde davetlinin katıldığı açılışa gelişi sırasında gazetecilere sergiyle ilgili ilk izlenimlerini anlatan Bakan Mumcu ,serginin Türklerin bin yılına bir bakış anlamı taşıdığına dikkat çekerken ,sergiyi çok başarılı bulduğunu ifade etti .</sentence>
+<sentence num="4">Önümüzdeki günlerde serginin yinelenmesi yolunda talepler alacaklarından emin olduklarını da belirten Bakan Mumcu ,''Sanıyorum diğer bazı Avrupa başkentlerinden de istekler gelecektir ''dedi .</sentence>
+<sentence num="5">Türkiye'nin dışında olan önemli eserlerin de sergi içeriğine katılmasıyla başarının daha da arttırılabileceğine dikkat çeken Bakan Mumcu ,''Bu serginin önümüzdeki günlerde ABD'de ,Avrupa'da ,Ortadoğu'da kısacası bütün dünyada önemli yankıları olacak .</sentence>
+<sentence num="6">Sergi Türkiye'ye çok şey kazandıracak ''diye konuştu .</sentence>
+<sentence num="7">Kültür ve Turizm Bakanı Mumcu ,Royal Academy of Arts'da gördüğü manzaranın ilginin ne kadar büyük olacağına işaret ettiğini de belirtirken ,Türkiye'nin önemli tarihi mirasını yansıtan bu tür organizasyonları sürdüreceklerini vurguladı .</sentence>
+<sentence num="8">Bakan Mumcu ,açılışta yaptığı konuşmada da ,serginin Türkiye'nin tarihteki coğrafi ,kültürel ve dini etki alanının ne kadar geniş olduğunu gösterdiğini bildirdi .</sentence>
+<sentence num="9">Serginin Türkiye için insanlarının ve kültürünün Avrupa'da çok tartışıldığı bir döneme denk gelmesi nedeniyle büyük önem taşıdığını ifade eden Bakan Mumcu ,bu büyük organizasyonun Türkiye'nin Avrupa ile bütünleşme isteğine büyük katkı sağlayacağına inandığını söyledi .</sentence>
+<sentence num="10">Sergilenen eserlerin daha önce Türkiye sınırları dışına hiç çıkmamış eserler olduklarına da işaret eden Bakan Mumcu ,serginin İngiliz kamuoyunda Türkiye hakkında daha çok şey öğrenme isteği yaratacağından emin olduğunu ifade etti .</sentence>
+<sentence num="11">Bakan Mumcu ,serginin açılışına emeği geçen bilim adamları ,sponsorlar ve gönüllülere de teşekkür etti .</sentence>
+<sentence num="12">Açılışa katılan İngiltere Kültür Bakanı Tessa Jowell da serginin Royal Academy'nin Aztekler sergisinin ardından gelen önemli bir kültür adımı olduğunu belirterek sözlerine başladı .</sentence>
+<sentence num="13">Serginin Türkiye'nin kültürel önem ve zenginliğini vurgulayan bir faaliyet olduğuna dikkati çeken Jowell ,''Bu sergi ,sergilenen eserlerin daha önce Türkiye sınırları dışına hiç çıkmamış olmasından dolayı da Türk tarihinin bilinmeyenlerini anlattığı için de çok önemli ''dedi .</sentence>
+<sentence num="14">Dünyada ulusların birbirlerinin tarihini çok daha iyi tanımasının ,birbirlerine kültürel olarak yakınlaşmaları açısından önemli olduğunu ifade eden Jowell ,her yıl İngiltere'den Türkiye'ye giden İngilizler başta olmak üzere ,İngiltere'de yaşayan Türkler ve diğer ulusların fertlerinin sergiye büyük ilgi göstereceklerinden emin olduğunu kaydetti .''</sentence>
+<sentence num="15">Türkler de burada kendilerine ait çok önemli bir şey bulacaklar ''diyen Jowell ,''Burada sergilenen eserler tarihe ait son derece değerli hazineler .</sentence>
+<sentence num="16">Bunların İngiltere'ye gelmesine katkıda bulunan Türk hükümeti başta olmak üzere herkese teşekkür borçluyuz ''dedi .</sentence>
+<sentence num="17">Sergide konuşan Royal Academy of Arts'ın Başkanı Sir Nicholas Grimshaw ,sponsor firmalardan Garanti Bankası'nın Genel Müdürü Ergun Özen ve Aygaz'ın Genel Müdürü Mehmet Ali Neyzi de ,serginin ,içerdiği önemli tarihi değerler ve kültürleri birbirine yaklaştırması açısından taşıdığı büyük öneme işaret ettiler .</sentence>
+<sentence num="18">Bini aşkın davetlinin gösterdiği büyük ilgi sonucu Akademi'nin bütün salonları dolarken ,konuklar arasında Güler Sabancı ,Ömer Koç ,Ömer Dinçkök ,Tezcan Yaramancı gibi önemli isimlerin de bulunduğu dikkat çekti .</sentence>
+<sentence num="19">Bu arada Türkiye'nin Londra Büyükelçisi Akın Alptuna ile İngiltere'nin Türkiye Büyükelçisi Peter Westmacott ise sergide ev sahipliği yaparak bütün konuklarla tek tek ilgilendi .</sentence>
+<sentence num="20">22 Ocak günü halka açılacak olan sergi ,12 Nisan tarihine kadar açık kalacak .</sentence>
+<sentence num="21">Sergide Uygur ,Selçuklu ve Osmanlı dönemine ait birbirinden değerli 370 eser bulunuyor .</sentence>
+</doc>
+<doc>
+<id>9923</id>
+<sentence num="0">2005 01 19 09 :22 :00 .'Bin Yıllık Yolculuk 'açıldı .</sentence>
+<sentence num="1">Sergi ,12 nisana kadar açık kalacak İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin yıllık yolculuğa 'övgü ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk'un basın tanıtımı yapıldı 'Türkler :Bin Yılın Yolculuğu ,600 1600 'adlı serginin resmi açılışı ,İngiltere'deki Kraliyet Sanat Akademisi'nde gerçekleştirildi .</sentence>
+<sentence num="4">Topkapı Sarayı Müzesi ile İstanbul Türk İslam Eserleri Müzesi ve yurtdışındaki özel koleksiyonlardan seçilen eserlerin yer aldığı serginin açılışına Kültür ve Turizm Bakanı Erkan Mumcu da katıldı .</sentence>
+<sentence num="5">Mumcu ,serginin önemli bir tanıtım işlevini yerine getireceğini ve Türkiye'ye çok şey kazandıracağını söyledi .</sentence>
+<sentence num="6">Binin üzerinde davetlinin katıldığı açılışla ilgili izlenimlerini anlatan Mumcu ,serginin Türklerin bin yılına bir bakış anlamı taşıdığını vurguladı .</sentence>
+<sentence num="7">Avrupa başkentlerinden de istekler gelecektir Sergiyi çok başarılı bulduğunu da söyleyen Mumcu ,sanıyorum diğer bazı Avrupa başkentlerinden de istekler gelecektir ''diye konuştu .</sentence>
+<sentence num="8">Türkiye'nin dışında olan önemli eserlerin de sergi içeriğine katılmasıyla başarının daha da arttırılabileceğini belirten Bakan Mumcu ,''bu serginin önümüzdeki günlerde ABD'de ,Avrupa'da ,Ortadoğu'da kısacası bütün dünyada önemli yankıları olacak .</sentence>
+<sentence num="9">Sergi ,Türkiye'ye çok şey kazandıracak ''dedi .</sentence>
+<sentence num="10">Sergilenen eserlerin daha önce Türkiye sınırları dışına hiç çıkmamış eserler olduğunu da söyleyen Mumcu ,serginin açılışına emeği geçen bilim adamları ,sponsorlar ve gönüllülere de teşekkür etti .</sentence>
+<sentence num="11">Açılışa katılan İngiltere Kültür Bakanı Tessa Jowell da ''bu sergi ,sergilenen eserlerin daha önce Türkiye sınırları dışına hiç çıkmamış olmasından dolayı da Türk tarihinin bilinmeyenlerini anlattığı için de çok önemli ''dedi .</sentence>
+<sentence num="12">Jowell :''Eserler tarihe ait son derece değerli hazineler Jowell ,''sergilenen eserler tarihe ait son derece değerli hazineler .</sentence>
+<sentence num="13">Bunların İngiltere'ye gelmesine katkıda bulunan Türk hükümeti başta olmak üzere herkese teşekkür borçluyuz ''dedi .</sentence>
+<sentence num="14">Kraliyet Sanat Akademisi'nin Başkanı Sir Nicholas Grimshaw ,sponsor firmalardan Garanti Bankası'nın Genel Müdürü Ergun Özen ve Aygaz'ın Genel Müdürü Mehmet Ali Neyzi de serginin ,önemli tarihi değerler ve kültürleri birbirine yaklaştırması açısından büyük önem taşıdığına değindiler .</sentence>
+<sentence num="15">Güler Sabancı ,Ömer Koç ,Ömer Dinçkök ,Tezcan Yaramancı'nın da katıldığı serginin açılışına ,Türkiye'nin Londra Büyükelçisi Akın Alptuna ile İngiltere'nin Türkiye Büyükelçisi Peter Westmacott ev sahipliği yaptı .</sentence>
+<sentence num="16">Sergi ,İngiliz gazetelerinde Sergi ,bu sabah İngiliz gazetelerinde de geniş yer buldu .</sentence>
+<sentence num="17">Sergi haberine sanat sayfasının tümünü ayırarak yer veren The Daily Telegraph gazetesi ,organizasyonu 'daha önce hiç anlatılmamış son derece heyecanlı bir öykü 'olarak niteledi .</sentence>
+<sentence num="18">Telegraph yazarı Richard Dorment ,sergide yer alan eserlerin dünyanın en güzel ve nadir bulunan hazineleri arasında bulunduğunu belirtti .</sentence>
+<sentence num="19">The Independent gazetesinde çıkan bir başka haberde ise sergi ,350 şaheserin bir araya getirildiği bir 'bomba 'olarak nitelendirildi .</sentence>
+<sentence num="20">Independent gazetesinin haberinde Türkleri biraraya getirenin konuşulan ortak dil olduğu belirtilirken ,Türk kültürünün değişik ırklar gibi değişik dinleri de kucakladığı vurgulandı .</sentence>
+<sentence num="21">Financial Times gazetesi de yönetim problemleri ve ekonomik güçlükler yaşayan Kraliyet Sanat Akademisi'nin 'Türkler 'sergisini kamuoyunun dikkatini çekebilmek için düzenlediği yorumunu içeren bir başlığa yer verdi .</sentence>
+<sentence num="22">Blair'in sözlerine de yer verildi Haberde ,İngiltere Başbakanı Tony Blair'in sergi kataloguna yazdığı ,''Türklerin uzun ve karmaşık yolculuğu anlamamız ve üzerinde yoğunlaşmamız gereken bir şey ''sözlere de yer verildi .</sentence>
+<sentence num="23">Sergi ,22 ocakta halka açılacak ve 12 nisana kadar açık kalacak .</sentence>
+<sentence num="24">Sergide Uygur ,Selçuklu ve Osmanlı dönemine ait 370 eser bulunuyor .</sentence>
+</doc>
+<doc>
+<id>10901</id>
+<sentence num="0">2005 01 21 12 :55 :00 .'Türkler 'sergisi yine İngiliz basınında :Bu bir Türk lokumu ziyafeti .</sentence>
+<sentence num="1">Dilek Kocabaş bildiriyor İngiltere'nin başkenti Londra'da Royal Academy of Arts tarafından düzenlenen ''Türkler ;Bin Yılın yolculuğu 600 1600 ''adlı serginin İngiliz basınındaki olumlu yankıları sürüyor .</sentence>
+<sentence num="2">The Times gazetesinin başyazıları arasına taşıdığı sergiyle ilgili bugünkü yorumunda başlık olarak ''Türk Hazineleri ''ibaresi kullanılırken ,serginin Türkiye'nin geçmişteki imparatorluklarının ihtişamını ortaya koyan bir organizasyon olduğu vurgulandı .</sentence>
+<sentence num="3">Tarihte Hıristiyanlar arasında bir korkutma cümlesi haline gelen ''Türkler geliyor ''cümlesinin gerçek olduğunu belirten başyazar ,''Türkler gerçekten de geldi .</sentence>
+<sentence num="4">Gümüş miğferleri ,el yazması Kuranıkerimleri ,değerli taşlarla süslenmiş kılıçları ,kristal kabzalı hançerleriyle Royal Academy'nin her yerini kuşattılar ''dedi .</sentence>
+<sentence num="5">Serginin Royal Academy'nin uzun yıllardır gerçekleştirdiği en büyük sergi olduğunu da vurgulayan başyazar ,sergilenen pek çok eserin daha önce hiç Topkapı Sarayı dışına çıkartılmadığına da dikkati çekti .</sentence>
+<sentence num="6">Organizasyonun önemli siyasi mesajlar da içerdiğini belirten yazar ,bunlardan ilkinin Türkiye'nin ,İngiltere'nin AB üyeliği yolunda verdiği büyük desteğe bu yolla büyük bir jest yaparak teşekkür etmesi olduğunu ifade etti .</sentence>
+<sentence num="7">İkincisinin ,Türkiye'nin de İngiltere gibi uzun yıllar süren bir imparatorluğun ardından ,ancak bugün gururla geçmişteki medeniyetine bakmaya fırsat bulması olduğunu belirten Times başyazarı ,üçüncü önemli siyasi mesajın da Türklerin asırlar boyunca yaşattıkları kültürel çeşitliliği kutlamaları olduğunu vurguladı .</sentence>
+<sentence num="8">Times'ın böylesine büyük bir sergiye ''medya desteği vererek ortak olmaktan ''gurur duyduğunu da vurgulayan başyazar ,serginin gezilmeyi fazlasıyla hak ettiğini ifade etti .''</sentence>
+<sentence num="9">TEK TEK İNCELEYİN ''Financial Times gazetesinin kültür sanat sayfasında yer alan yaklaşık yarım sayfalık değerlendirmede de sergiyle Türklerin tarih boyunca Batı'ya yaklaşan kültürlerinin bir hikayesini sundukları vurgulandı .</sentence>
+<sentence num="10">Sergiyi ''zengin ve sınırları geniş bir sanat olayı ''olarak niteleyen yazar ,sergide yer alan eserleri ,dönemlerini de dikkate alarak geniş bir analize tabi tuttu .</sentence>
+<sentence num="11">Londra'da hemen her metro yolcusunun okuduğu yüksek tirajlı ''Metro ''gazetesi ve ünlü akşam gazetesi Evening Standart da Türkler sergisiyle ilgili geniş değerlendirmelere yer verdi .</sentence>
+<sentence num="12">Evening Standart ,iki gün boyunca sergi hakkında olumlu izlenimler yazarken ;Metro gazetesi de ''Türk lokumu ziyafeti ''başlıklı yazısında ,sergiyi ''beş üzerinden dört yıldızlık bir kültür ve sanat olayı ''olarak niteledi .</sentence>
+<sentence num="13">Metro yazarı ,sergiyi gezme niyeti bulunanlara ,''Bu önemli sergide yer alan her bir eseri uzun ve dikkatli gözlerle inceleyin ''tavsiyesinde bulundu .?</sentence>
+<sentence num="14">Serginin sponsorlarından Garanti Bankası ,Avrupalı bankacıları ağırladı ...</sentence>
+</doc>
+<doc>
+<id>10910</id>
+<sentence num="0">2005 01 21 13 :06 :00 .'Bin yıllık yolculuğa 'övgü .</sentence>
+<sentence num="1">İngiliz basını 'Bin yıllık yolculuk'tan övgüyle bahsetti İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin Yıllık Yolculuk 'açıldı ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk'un basın tanıtımı yapıldı İngiltere'nin başkenti Londra'da Royal Academy of Arts tarafından düzenlenen 'Türkler :Bin Yılın Yolculuğu 600 1600 'adlı serginin İngiliz basınındaki olumlu yankıları sürüyor .</sentence>
+<sentence num="4">The Times gazetesinin başyazıları arasına taşıdığı sergiyle ilgili bugünkü yorumunda başlık olarak 'Türk Hazineleri 'ibaresi kullanılırken ,serginin Türkiye'nin geçmişteki imparatorluklarının ihtişamını ortaya koyan bir organizasyon olduğu vurgulandı .</sentence>
+<sentence num="5">Türkler gerçekten de geldi Tarihte Hristiyanlar arasında bir korkutma cümlesi haline gelen 'Türkler geliyor 'cümlesinin gerçek olduğunu belirten başyazar ,Türkler gerçekten de geldi .</sentence>
+<sentence num="6">Gümüş miğferleri ,el yazması Kuranıkerimleri ,değerli taşlarla süslenmiş kılıçları ,kristal kabzalıhançerleriyle Royal Academy'nin her yerini kuşattılar dedi .</sentence>
+<sentence num="7">Royal Academy'nin gerçekleştirdiği en büyük sergi Serginin Royal Academy'nin uzun yıllardır gerçekleştirdiği en büyük sergi olduğunu da vurgulayan başyazar ,sergilenen pek çok eserin daha önce hiç Topkapı Sarayı dışına çıkartılmadığına da dikkati çekti .</sentence>
+<sentence num="8">Organizasyonun önemli siyasi mesajlar da içerdiğini belirten yazar ,bunlardan ilkinin Türkiye'nin ,İngiltere'nin AB üyeliği yolunda verdiği büyük desteğe bu yolla büyük bir jest yaparak teşekkür etmesi olduğunu ifade etti .</sentence>
+<sentence num="9">İkincisinin ,Türkiye'nin de İngiltere gibi uzun yıllar süren bir imparatorluğun ardından ,ancak bugün gururla geçmişteki medeniyetine bakmaya fırsat bulması olduğunu belirten Times başyazarı ,üçüncü önemli siyasi mesajın da Türklerin asırlar boyunca yaşattıkları kültürel çeşitliliği kutlamaları olduğunu vurguladı .</sentence>
+<sentence num="10">Sergi ,gezilmeyi fazlasıyla hak ediyor Times'ın böylesine büyük bir sergiye medya desteği vererek ortak olmaktan gurur duyduğunu da vurgulayan başyazar ,serginin gezilmeyi fazlasıyla hak ettiğini ifade etti .</sentence>
+<sentence num="11">Financial Times gazetesinin kültür sanat sayfasında yer alan yaklaşık yarım sayfalık değerlendirmede de sergiyle Türklerin tarih boyunca Batı'ya yaklaşan kültürlerinin bir hikayesini sundukları vurgulandı .</sentence>
+<sentence num="12">Sergiyi 'zengin ve sınırları geniş bir sanat olayı 'olarak niteleyen yazar ,sergide yer alan eserleri ,dönemlerini de dikkate alarak geniş bir analize tabi tuttu .</sentence>
+<sentence num="13">Eserleri 'tek tek inceleyin 'önerisi Londra'da hemen her metro yolcusunun okuduğu yüksek tirajlı 'Metro 'gazetesi ve ünlü akşam gazetesi Evening Standart da Türkler sergisiyle ilgili geniş değerlendirmelere yer verdi .</sentence>
+<sentence num="14">Evening Standart ,iki gün boyunca sergi hakkında olumlu izlenimler yazarken ,Metro gazetesi de 'Türk lokumu ziyafeti 'başlıklı yazısında ,sergiyi beş üzerinden dört yıldızlık bir kültür ve sanat olayı olarak niteledi .</sentence>
+<sentence num="15">Metro yazarı ,sergiyi gezme niyeti bulunanlara ,'bu önemli sergide yer alan her bir eseri uzun ve dikkatli gözlerle inceleyin 'tavsiyesinde bulundu .</sentence>
+</doc>
+<doc>
+<id>10948</id>
+<sentence num="0">2005 01 21 14 :37 :00 .Londra'da Türkler Sergisine Övgü .</sentence>
+<sentence num="1">İngiltere'nin başkenti Londra'da Kraliyet Sanat Akademisi tarafından düzenlenen Türkler ;Bin Yılın yolculuğu 600 1600 adlı sergi ,İngiliz basınından övgü üzerine övgü alıyor .</sentence>
+<sentence num="2">The Times gazetesinin başyazıları arasına taşıdığı sergiyle ilgili bugünkü yorumunda başlık olarak Türk Hazineleri ibaresi kullanılırken ,serginin Türkiye'nin geçmişteki imparatorluklarının ihtişamını ortaya koyan bir organizasyon olduğu vurgulandı .</sentence>
+<sentence num="3">Tarihte Hıristiyanlar arasında bir korkutma cümlesi haline gelen Türkler geliyor sözüne de atıfta bulunan başyazar ,Türkler gerçekten de geldi .</sentence>
+<sentence num="4">Gümüş miğferleri ,el yazması Kur'anı kerimleri ,değerli taşlarla süslenmiş kılıçları ,kristal kabzalı hançerleriyle Royal Academy'nin her yerini kuşattılar dedi .</sentence>
+<sentence num="5">Organizasyonun önemli siyasi mesajlar da içerdiğini belirten yazar ,Türkiye'nin ,İngiltere'nin AB üyeliği yolunda verdiği büyük desteğe bu yolla büyük bir jest yaparak teşekkür ettiğini ifade etti .</sentence>
+<sentence num="6">Financial Times gazetesinin kültür sanat sayfasında yer alan yaklaşık yarım sayfalık değerlendirmede de sergiyle Türklerin tarih boyunca Batı'ya yaklaşan kültürlerinin bir hikayesini sundukları vurgulandı .</sentence>
+<sentence num="7">Londra'da hemen her metro yolcusunun okuduğu yüksek tirajlı Metro gazetesi ve ünlü akşam gazetesi Evening Standart da sergiyle ilgili geniş değerlendirmelere yer verdi .</sentence>
+</doc>
+<doc>
+<id>11222</id>
+<sentence num="0">2005 01 22 12 :25 :00 .'Türkler 'sergisi The Guardian'ın başyazısında ...</sentence>
+<sentence num="1">Dilek Kocabaş bildiriyor İngiltere'nin en ünlü ve saygın kültür sanat kurumlarından biri olan Royal Academy of Arts tarafından açılan ''Türkler ;Bin Yılın Yolculuğu 600 1600 ''sergisiyle ilgili bir başyazıya yer veren Guardian ,yazıda ''Türkçe Düşünmek ''başlığını kullandı .</sentence>
+<sentence num="2">Sergide yer alan en küçük bir objenin bile ,Türk tarihinin İpek Yolu boyunca Asya steplerinden ,Semerkant'tan uzanan ve İstanbul'da son bulan büyük yolculuğuna dikkat çektiğini belirten Guardian başyazarı ,sergide yer alan Muhammed Siyah Kalem'in eserleri gibi birçok eserin ,daha önce Topkapı Sarayı'nın dışına hiç çıkmamış olduğuna işaret etti .</sentence>
+<sentence num="3">Fransız ve İngiliz imparatorlukları gibi ,Türklerin tarihteki imparatorluklarının ,zenginliklerinin şimdi İran ,Çin ,Irak ,Özbekistan gibi pek çok ülkenin topraklarına uzandığını hatırlatan Guardian başyazarı ,sergide nadir eserlerden biri olarak yer alan bir haritaya dikkat çekti .</sentence>
+<sentence num="4">Bu haritanın Türkiye'den Avrupa'nın görünüşünü ciddi bariyerler ve hisarlarla çevrili gösterdiğine dikkat çeken başyazar ,Türkiye'nin AB üyeliği tartışmalarına nazire sayılabilecek bu görüntünün ,''Türkiye'nin geçmişinde ve bugününde Avrupa'ya sunabilecek ne zenginliklere sahip olduğunu gösterdiğini ''vurguladı .</sentence>
+<sentence num="5">The Independent gazetesinin bugünkü ''Traveller ''ekinin hemen hemen tamamı da Türkiye'ye ayrıldı .</sentence>
+<sentence num="6">Osmanlı İmparatorluğu'nun bütün ihtişamını yansıtan üç ünlü kent olan İstanbul ,Edirne ve Bursa'yı esas alan yazar ,''Üç kentin öyküsü ''başlıklı yazısında Osmanlı İmparatorluğu'nun bir dönemin baskın gücü olduğunu ,bugün Türkiye'de yaşayan Osmanlı eserlerinin de dönemin baş döndürücü sanat gücünü ortaya koyduğunu bildirdi .</sentence>
+</doc>
+<doc>
+<id>16287</id>
+<sentence num="0">2005 01 31 12 :00 :00 .Türk Eserleri Dünyayı Gezecek .</sentence>
+<sentence num="1">Londra'daki Royal Academy of Arts'ta düzenlenen Türkler :Bin Yıllık Yolculuk adlı serginin ardından yıl boyunca dünyanın pek çok ülkesinde Türk eserleri sergilenecek .</sentence>
+<sentence num="2">Kültür ve Turizm Bakanlığı'na bağlı Topkapı Müzesi başta olmak üzere birçok müze ve kütüphaneden gönderilen eserlerin ana parçalarını oluşturduğu ve 11 ayrı ülkeden 37 ayrı kişi ve kurumdaki eserlerin yer aldığı Türkler başlıklı sergiyi diğerleri izleyecek .</sentence>
+<sentence num="3">Topkapı Eserleri ABD Yolcusu Kültür ve Turizm Bakanlığı'nın Türkiye'nin zengin kültür mirası ve eski eserlerinin tanıtımı amacıyla düzenlediği etkinlikler çerçevesinde Mayıs 2005 Ocak 2006 tarihleri arasında ABD'deki Houston Museum of Natural Science ve Florida Laurderdale Museum of Art Türk eserlerine ev sahipliği yapacak .</sentence>
+<sentence num="4">Bu müzelerde düzenlenecek Troya Savaşı ve Bronz Çağı'nda Ege başlıklı sergide ,İstanbul Arkeoloji Müzesi ,Çanakkale Müzesi ve Bodrum Sualtı Arkeoloji Müzesi'nden seçilen takı ,balta ,kase ve amforalardan oluşan 28 eser teşhir edilecek .</sentence>
+<sentence num="5">ABD'de Smithsonian Institution Frer Gallery of Art ve Arthur M .Sackler Gallery'de Topkapı Sarayı'ndan 50'ye yakın tekstil malzemesi sergilenecek .</sentence>
+<sentence num="6">Hilal ve Gül :16 .ve 17 .Yüzyıl Osmanlı İmparatorluğu Dokümanları adlı serginin Ekim 2005 Ocak 2006 tarihleri arasında açık kalması planlanıyor .</sentence>
+<sentence num="7">Türk Giysileri Hollanda'ya Uğrayacak Hollanda'daki Het Loo Sarayı ise Kasım 2005 Ocak 2006 tarihleri arasında ilgi çekici bir sergiye evsahipliği yapacak .</sentence>
+<sentence num="8">Topkapı Sarayı Müzesi'ne ait kaftan ,entari ,cepken ,rahle ,beşik ,çocuk at takımı ve çocuk arabalarından oluşan 119 parça eser Çocuk Kaftanları adlı sergide izlenime sunulacak .</sentence>
+<sentence num="9">242 Parça Eser Almanya'ya Gidiyor Almanya'daki Bochum Alman Madencilik Müzesi'nde ise Tunç Çağı'nda Akdeniz Bölgesinde Hammadde Temini ve Ticareti isimli bir sergi açılacak .</sentence>
+<sentence num="10">2005 sonbaharında başlayacak ve yaklaşık 8 ay süreyle gösterimi düşünülen bu sergi için Bodrum Sualtı Arkeoloji Müzesi ,Çorum Müzesi ve Ankara Anadolu Medeniyetleri Müzesi'nden tablet ,ok ,mızrak uçları ,külçeler ,ağırlıklar ,testi ve kandillerden oluşan 242 parça eserin seçimi yapıldı .</sentence>
+<sentence num="11">Türkler e Davet Bu arada ,Londra'daki Royal Academy of Arts'ın evsahipliği yaptığı ve dış basında olumlu eleştiriler alan Türkler :Bin Yıllık Yolculuk başlıklı sergi övgüler almayı sürdürüyor .</sentence>
+<sentence num="12">Kültür ve Turizm Bakanlığı'nın gönderdiği ,aralarında Cizre Ulu Camii Kapısı ,3 .Murad'ın Has Oda Kapısı ,Uluğ Bey'in çekmecesi ,Kanuni Sultan Süleyman'ın tuğrası ,Fatih Sultan Mehmed'in kılıcı ve yurtdışında ilk kez sergilenen Mehmet Siyah Kalem eserlerinin de yer aldığı görkemli sergi ,başka ülkelerden de davetler aldı .</sentence>
+<sentence num="13">Sergide ,600 1600 yılları arasını içeren Uygurlar ,Selçuklular ve Osmanlı dönemlerinden örnekler sanatseverlere sunuluyor .</sentence>
+<sentence num="14">Sergi ,12 Nisan'a kadar açık kalacak .</sentence>
+</doc>
+<doc>
+<id>17295</id>
+<sentence num="0">2005 02 01 16 :45 :00 .New York Times :Türkiye ,bin yıllık kültürle AB'nin kapısını çalıyor .</sentence>
+<sentence num="1">Londra'daki Royal Academy of Arts'da düzenlenen ''Türklerin Bin Yıllık Yolculuğu ,600 1600 ''sergisine geniş yer ayıran ABD'nin saygın gazetelerinden New York Times ,''Türkiye bin yıllık kültürle Avrupa kapısını çalıyor ''başlığını kullandı .</sentence>
+<sentence num="2">Türklerin 1529 ve 1683 yıllarında iki kez Orta Avrupa'ya yürüdüğünü ,ancak Viyana kapılarında durdurulduğunu yazan gazete ,bugünse Türkiye'nin ,daha kibar bir şekilde ,diplomatik yollardan Avrupa Birliği'ne girmeye çalıştığını ,ancak yine direnişle karşılaştığı yorumunu yaptı .</sentence>
+<sentence num="3">Bu yüzden ,büyük bir Müslüman ülkenin de Avrupa'da bir yeri hak ettiğini göstermek için Türkiye'nin ''kültürünü seferber ettiğini ''kaydeden gazete ,bunun ilk adımının 12 Nisana kadar açık kalacak Londra'daki sergiyle atıldığını belirtti .</sentence>
+<sentence num="4">Üç büyük şirketin sponsorluğunda sergilenen 350 eserin çoğunun İstanbul'daki iki müzeden getirildiğini yazan New York Times ,Kültür ve Turizm Bakanı Erkan Mumcu'nun serginin Türkiye'nin Avrupa'nın bir parçası olması kampanyasına katkı sağlayacağına dair sözlerine yer verdi .</sentence>
+<sentence num="5">Bu tür sergilerin ,Avrupa'da hala ''savaşçılar ,haremler ve göçmenler ''gibi popüler klişelerle tanınan Türklerin üyeliği konusunda Avrupalılar referandum yapmadan önce işe yarayabileceğini kaydeden gazete ,Türklerin 600 yıllarında Moğolistan civarından yaşayan kabileleri bin yıl sonra Osmanlı İmparatorluğu haline getirecek uzun bir yolculuğun ürünü olduğunu ifade etti .</sentence>
+<sentence num="6">Sergilenen sanat eserlerinin İpek Yolu boyunca batıya doğru göç eden Türk halklarının üzerinden geçtikleri ,yerleştikleri ,fethettikleri ya da ticarette bulundukları topraklardaki kültürleri ve inançları içselleştirdiklerini gösterdiğine dikkati çeken New York Times ,böylece Türk sanatının Çin ve Venedik Rönesansı kadar Budizm ,Nasturi Hıristiyanlık ,Manizm ve İslam'a geçişin etkilerini taşır hale geldiğini kaydetti .</sentence>
+<sentence num="7">Bugünkü Türklerin 1923'te kurulan bir cumhuriyetin vatandaşları olmakla birlikte köklerinin Orta Asya'dan Balkanlara uzanan bölgede yüzlerce yıllık bir geçmişe dayandığını belirten New York Times ,serginin Çin'de yaşayan Uygurlardan başlayarak Türklerin hikayesinin dört önemli aşamasına odaklandığını ifade etti .</sentence>
+<sentence num="8">İkinci dönemi 11 .yüzyılda batıya doğru göç eden ve Bağdat ,Irak ve Suriye'nin büyük kısmıyla İran'ın bir kısmını ele geçiren Selçukluların oluşturduğunu yazan gazete ,bu döneme ait el yazması ,seramik ve heykel gibi eserlerde İran etkisinin göze çarptığına dikkati çekti .</sentence>
+<sentence num="9">Büyük Selçukluların Moğollar tarafından yıkılarak Bağdat'ın 1258 yılında tahrip edilmesinden sonra Rum Selçukluları adlı grubun Anadolu'ya gelerek yerleştiğini belirten gazete ,bu döneme ait eserlerin özelliklerini anlattı .</sentence>
+<sentence num="10">Bu devletin de yine Moğollar tarafından yıkıldığını belirten New York Times ,daha sonra kurulan Osmanlı İmparatorluğu'nun Kanuni Sultan Süleyman döneminde sınırlarının kuzeyde Balkanlardan Viyana'ya güneydeyse Ortadoğu ve Kuzey Afrika'ya kadar genişlediğini yazdı .</sentence>
+<sentence num="11">Askeri açıdan Avrupa'yı tehdit eden Osmanlıların gerçek birer sanat aşığı olduğunu belirten gazete ,sergideki en şaşırtıcı eserlerin 15 .yüzyıl sonrasına ait olduğunu kaydetti .</sentence>
+</doc>
+<doc>
+<id>20037</id>
+<sentence num="0">2005 02 06 11 :35 :00 .Londra'daki Türkler sergisini 12 günde 30 bin kişi gezdi .</sentence>
+<sentence num="1">Dilek Kocabaş bildiriyor Londra'da ,İngiltere'nin en saygın sanat ,kültür ve tarih kurumlarından biri olan Royal Academy of Arts tarafından açılan ''Türkler :Bin Yıllık Yolculuk 600 1600 ''sergisinin 12 günde 30 bini aşkın kişi tarafından ziyaret edildiği bildirildi .</sentence>
+<sentence num="2">Uygurlar ,Selçuklular ve Osmanlılara ait eserlerin yer aldığı ,kronolojik olarak sıralandığında Türklerin orta ve uzak doğudan başlayarak Anadolu'da son bulan yolculuğunu anlatan sergideki 370 eserin İngiliz halkı ve Londra'yı ziyaret eden turistlerin büyük ilgisini çektiğini belirten Academy yetkilileri ,ziyaretçi sayısının memnuniyet verici olduğunu ifade ettiler .</sentence>
+<sentence num="3">Yetkililer ,370 birbirinden değerli eserin yer aldığı serginin 12 Nisan'a kadar 400 bini aşkın ziyaretçi çekmesinin beklendiğini ,sergi girişinde satılan kitap ve anı eşyalarının satışının da son derece iyi gittiğini bildirdiler .</sentence>
+<sentence num="4">Dünyanın en önemli müzeleri ve özel koleksiyonlarından alınan parçaların yer aldığı sergi ,12 Nisan'a kadar açık kalacak .</sentence>
+</doc>
+<doc>
+<id>27908</id>
+<sentence num="0">2005 02 19 09 :45 :00 .Turks sergisini gezenlerin sayısı 81 bini geçti ...</sentence>
+<sentence num="1">İngiltere'nin en saygın sanat kurumlarından biri olan Royal Academy of Arts tarafından Londra'da açılan ve Türklerin (600 1600 )yılları arasındaki bin yıllık yolculuğunu anlatan ''Turks ''sergisi ,büyük ilgi görmeye devam ediyor .</sentence>
+<sentence num="2">Her gün ortalama 3 bini aşkın sanat severin ziyaret ettiği sergiyi gezenlerin sayısı 81 bini aştı .</sentence>
+<sentence num="3">Kültür ve Turizm Bakanlığı'ndan edinilen bilgiye göre ,İngiltere'de Türk rüzgarları esmeye devam ediyor .</sentence>
+<sentence num="4">Londra'da açılan ''Türkler :Bin Yıllık Yolculuk 600 1600 ''sergisi hem turistler hem de İngilizler tarafından büyük ilgi görüyor .</sentence>
+<sentence num="5">Sergiyi açıldığı 22 Ocak'tan bu yana 81 bin 400 kişi gezerken ,izleyenlerin ,yoğun ilgi nedeniyle sergiyi rahat gezememekten yakındığını övgülü sitemlerle anlattıkları bildirildi .</sentence>
+<sentence num="6">Uygurlar ,Selçuklular ve Osmanlılara ait eserlerin yer aldığı ,Türklerin orta ve uzak doğudan başlayarak Anadolu'da son bulan yolculuğunu anlatan serginin Londralıları büyülediğini kaydeden Kültür ve Turizm Bakanlığı yetkilileri ,serginin son günü olan 12 Nisan'a kadar 400 bini aşkın ziyaretçinin geleceği tahmininde bulundular .</sentence>
+<sentence num="7">TÜRKİYE'DEN ÖZEL ''TURKS ''TURU Sergi için Türkiye'den özel ''Turks ''turlarının düzenlendiğini belirten yetkililer ,Londra'ya ''Türkler ''sergisi için akın akın Türk ziyaretçi gittiğini de ifade ettiler .</sentence>
+<sentence num="8">Serginin Türklerin binlerce yıllık (600 1600 )tarihi yolculuğunu anlatırken Türk kültür ve sanatını görme ve anlama fırsatı yarattığını kaydeden yetkililer ,sergide Osmanlı İmparatorluğu'nun yanı sıra Uygurlar ve Selçuklular dönemi eserlerine de yer verildiğini belirttiler .</sentence>
+<sentence num="9">Sergi kapsamında ,Türk mimarisi ,karakalem ,yağlıboya çalışmalar ,metal takı ,kaftan ve halı örneklerine yer veriliyor .</sentence>
+</doc>
+<doc>
+<id>28003</id>
+<sentence num="0">2005 02 19 12 :08 :00 .'Bin yıllık yolculuk'a 81 bin ziyaretçi İngiltere'de Türk rüzgarları esmeye devam ediyor .</sentence>
+<sentence num="1">Sergiyi 12 nisana kadar 400 bin kişinin ziyaret etmesi bekleniyor İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin yıllık yolculuğa 'övgü ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk 'açıldı ?'</sentence>
+<sentence num="4">Bin Yıllık Yolculuk'un basın tanıtımı yapıldı İngiltere'nin en saygın sanat kurumlarından biri olan Royal Academy of Arts tarafından Londra'da açılan ve Türklerin (600 1600 )yılları arasındaki bin yıllık yolculuğunu anlatan ''Turks ''sergisi ,büyük ilgi görmeye devam ediyor .</sentence>
+<sentence num="5">Her gün ortalama 3 binden fazla sanatseverin ziyaret ettiği sergiyi gezenlerin sayısı 81 bini aştı .</sentence>
+<sentence num="6">Londra'da açılan 'Türkler :Bin Yıllık Yolculuk 600 1600 'sergisi hem turistler hem de İngilizler tarafından büyük ilgi görüyor .</sentence>
+<sentence num="7">Sergiyi açıldığı 22 ocaktan bu yana 81 bin 400 kişi gezerken ,izleyenlerin ,yoğun ilgi nedeniyle sergiyi rahat gezememekten yakındığını övgülü sitemlerle anlattıkları açıklandı .</sentence>
+<sentence num="8">12 nisana kadar 400 bin ziyaretçi bekleniyor Uygurlar ,Selçuklular ve Osmanlılara ait eserlerin yer aldığı ,Türklerin orta ve uzak doğudan başlayarak Anadolu'da son bulan yolculuğunu anlatan serginin Londralıları büyülediğini kaydeden Kültür ve Turizm Bakanlığı yetkilileri ,serginin son günü olan 12 nisana kadar 400 binden fazla ziyaretçinin geleceği tahmininde bulundular .</sentence>
+<sentence num="9">Türkiye'den özel 'Turks 'turları Sergi için Türkiye'den özel 'Turks 'turlarının düzenlendiğini belirten yetkililer ,sergi için akın akın Türk ziyaretçi gittiğini de söyledi .</sentence>
+<sentence num="10">Serginin Türklerin binlerce yıllık (600 1600 )tarihi yolculuğunu anlatırken Türk kültür ve sanatını görme ve anlama fırsatı yarattığını kaydeden yetkililer ,sergide Osmanlı İmparatorluğu'nun yanı sıra Uygurlar ve Selçuklular dönemi eserlerine de yer verildiğini açıkladı .</sentence>
+<sentence num="11">Sergi kapsamında ,Türk mimarisi ,karakalem ,yağlıboya çalışmalar ,metal takı ,kaftan ve halı örneklerine yer veriliyor .</sentence>
+<sentence num="12">Serginin sponsorları Ana sponsorluğunu Aygaz ,Garanti Bankası ve Corus CT'nin üstlendiği sergi ,LASSA ve Akkök Şirketler Grubu ,Access Industries (İngiltere ),Çolakoğlu Grubu ,Friends of the Royal Academy ile Royal Academy Trust bağışçılarının destekleriyle gerçekleştiriliyor .</sentence>
+<sentence num="13">Batıya göç sırasında Orta Asya'nın doğu sınırlarından başlayarak Doğu Avrupa'dan Balkanlar'a kadar ilerleyen Türk kültürlerinin gelişim sürecini konu alan sergi ,Topkapı Sarayı Müzesi Müdürü Filiz Çağman ,Sakıp Sabancı Müzesi Müdürü Nazan Ölçer ve Harvard Üniversitesi İslam Sanatları Profesörü David Roxburgh ile Kraliyet Sanat Akademisi'nden Sergi Sekreteri Norman Rosenthal ,sergi kreatörü Adrian Locke tarafından hazırlandı .</sentence>
+<sentence num="14">www .turks .</sentence>
+<sentence num="15">org .uk .</sentence>
+</doc>
+<doc>
+<id>28839</id>
+<sentence num="0">2005 02 21 10 :00 :00 .'Türkler :Bin Yılın Yolculuğu 'Los Angeles Times'ta ...</sentence>
+<sentence num="1">Amerikan Los Angeles Times gazetesi ,bugünkü sayısında Londra'da Royal Academy of Arts'da (Kraliyet Sanat Akademisi )düzenlenen ''Türkler :Bin Yılın Yolculuğu ,600 1600 ''sergisine geniş yer ayırdı .</sentence>
+<sentence num="2">Gazetede çıkan yazıda ,serginin ,İslam tarihi ve kültürünü anlamaya yönelik bir merakın başladığı dönemde düzenlenmesinin önemine dikkat çekildi .</sentence>
+<sentence num="3">Serginin ,1769'dan bu yana faaliyette olan Royal Academy'nin bugüne kadar düzenlediği en büyük sergilerden biri olduğuna işaret eden gazete ,''Türkler :Bin Yılın Yolculuğu ,600 1600 ''sergisinin aynı zamanda İslam sanatları alanında 1931'den bu yana düzenlenen en büyük sergi olma özelliğini taşıdığını yazdı .</sentence>
+<sentence num="4">Yazıda ,Topkapı Sarayı'ndan daha önce hiç çıkmamış eserlerin yer aldığı sergide ayrıca ,St .Petersburg'taki Hermitage ,New York'taki Metropolitan Sanat Müzesi ,Paris'teki Louvre müzesinin yanı sıra birçok müze ya da kuruluştan eserlerin meraklıları ile buluştuğu kaydedildi .</sentence>
+<sentence num="5">Orta Asya'dan ,Ortadoğu'ya ,Balkanlar'dan Afrika'ya kadar uzanan bir bölgede 11 ülkeden 370 eserin sunulduğu serginin ,Türk tarihinin renkliliğini yansıttığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>28851</id>
+<sentence num="0">2005 02 21 10 :10 :00 .'Bin Yıllık Yolculuk 'Los Angeles Times'ta .</sentence>
+<sentence num="1">Sergiye yoğun ilgi sürüyor İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin yıllık yolculuğa 'övgü ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk 'açıldı ?'</sentence>
+<sentence num="4">Bin Yıllık Yolculuk'un basın tanıtımı yapıldı ABD Los Angeles Times gazetesi ,bugünkü sayısında Londra'da Royal Academy of Arts'da düzenlenen 'Türkler :Bin Yılın Yolculuğu ,600 1600 'sergisine geniş yer ayırdı .</sentence>
+<sentence num="5">Gazete ,serginin ,İslam tarihi ve kültürünü anlamaya yönelik bir merakın başladığı dönemde düzenlenmesinin önemine dikkat çekti .</sentence>
+<sentence num="6">Serginin ,1769'dan bu yana faaliyette olan Royal Academy'nin bugüne kadar düzenlediği en büyük sergilerden biri olduğu da belirtildi .'</sentence>
+<sentence num="7">1931'den bu yana düzenlenen en büyük sergi 'Gazete ,sergisinin aynı zamanda İslam sanatları alanında 1931'den bu yana düzenlenen en büyük sergi olma özelliğini taşıdığını da yazdı .</sentence>
+<sentence num="8">Yazıda ,Topkapı Sarayı'ndan daha önce hiç çıkmamış eserlerin de yer aldığı sergide ,St .Petersburg'taki Hermitage ,New York'taki Metropolitan Sanat Müzesi ,Paris'teki Louvre Müzesi'nin yanı sıra birçok müze ya da kuruluştan eserlerin bulunduğu da belirtildi .</sentence>
+<sentence num="9">Orta Asya'dan ,Ortadoğu'ya ,Balkanlar'dan Afrika'ya kadar uzanan bölgede ,11 ülkeden 370 eserin sunulduğu serginin ,Türk tarihinin renkliliğini yansıttığı yorumu da yapıldı .</sentence>
+<sentence num="10">Hergün 3 binden fazla ziyaretçi Hergün ortalama 3 binden fazla sanatseverin ziyaret ettiği sergiyi gezenlerin sayısı 81 bini aştı .</sentence>
+<sentence num="11">Londra'da 22 ocakta açılan sergi ,14 nisana kadar görülebilir .</sentence>
+<sentence num="12">www .turks .</sentence>
+<sentence num="13">org .uk .</sentence>
+</doc>
+<doc>
+<id>28964</id>
+<sentence num="0">2005 02 21 12 :07 :00 .Türkler :1000 Yılın Yolculuğu .</sentence>
+<sentence num="1">Amerikan Los Angeles Times gazetesi ,Londra'da Royal Academy of Arts'da (Kraliyet Sanat Akademisi )düzenlenen Türkler :1000 Yılın Yolculuğu ,600 1600 sergisine geniş yer ayırdı .</sentence>
+<sentence num="2">Gazetede çıkan yazıda ,serginin ,İslam tarihi ve kültürünü anlamaya yönelik bir merakın başladığı dönemde düzenlenmesinin önemine dikkat çekildi .</sentence>
+<sentence num="3">Serginin ,1769'dan bu yana faaliyette olan Royal Academy'nin bugüne kadar düzenlediği en büyük sergilerden biri olduğuna işaret eden gazete ,Türkler :1000 Yılın Yolculuğu ,600 1600 sergisinin aynı zamanda İslam sanatları alanında 1931'den bu yana düzenlenen en büyük sergi olma özelliğini taşıdığını yazdı .</sentence>
+<sentence num="4">Yazıda ,Topkapı Sarayı'ndan daha önce hiç çıkmamış eserlerin yer aldığı sergide ayrıca ,St .Petersburg'taki Hermitage ,New York'taki Metropolitan Sanat Müzesi ,Paris'teki Louvre Müzesi'nin yanı sıra birçok müze ya da kuruluştan eserlerin meraklıları ile buluştuğu kaydedildi .</sentence>
+<sentence num="5">Orta Asya'dan ,Ortadoğu'ya ,Balkanlar'dan Afrika'ya kadar uzanan bir bölgede 11 ülkeden 370 eserin sunulduğu serginin ,Türk tarihinin renkliliğini yansıttığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>33560</id>
+<sentence num="0">2005 03 01 10 :14 :00 .Türkler sergisi Londra'da Osmanlı mimari mirası İngiliz sanatseverlerle buluştu .</sentence>
+<sentence num="1">Sergide ,yayınevinin değerli kitapları da yer aldı 'Türkler :Bir İmparatorluğun Mimarları ve Mimar Sinan'ın Dehası 'adlı fotoğraf sergisi İngiltere'nin başkenti Londra'da açıldı .</sentence>
+<sentence num="2">Shapero Galerisi'nde açılan sergide Mimar Sinan'ın eserleri ,mimar fotoğraf sanatçısı Ahmet Ertuğ'un 35 fotoğrafıyla sanatseverlerin ilgisine sunuldu .</sentence>
+<sentence num="3">Türkiye'nin kültürel zenginliklerini kitaplar ve sergilerle 20 yıldan bu yana dünyaya tanıtmaya çalışan Ertuğ &Kocabıyık Yayınları ,bu kez de Osmanlı mimari mirasını İngiliz sanatseverlerle buluşturdu .</sentence>
+<sentence num="4">Sergide fotoğrafların yanı sıra yayınevinin değerli kitapları da yer aldı .</sentence>
+<sentence num="5">İznik çinilerinin detay fotoğrafları Mimar Sinan'ın eserlerine ağırlıklı olarak yer verilen sergide ,16'ıncı yüzyıl İznik çinilerinin detay fotoğrafları da bulunuyor .</sentence>
+<sentence num="6">Galeride koleksiyondaki Osmanlı dönemine ait antika kitap ve 1790 tarihli 10 adet suluboya resim de sergileniyor .</sentence>
+<sentence num="7">Yüksek Mimar Ahmet Ertuğ ,yayımladıkları 16 sanat kitabı ile Kariye Müzesi'nden Ayasofya'ya ,Kapadokya'dan İstanbul Arkeoloji Müzesi'ne kadar Türkiye'nin tarihi mirasını ,sahip olduğu zenginlikleri dünyaya tanıttığını söyledi .</sentence>
+<sentence num="8">Osmanlı ,Bizans ,Roma ve Helenistik sanatı Yüksek Mimar Ahmet Ertuğ ve Borusan Holding Yönetim Kurulu Başkanı Ahmet Kocabıyık'ın işbirliğiyle kurulan Ertuğ &Kocabıyık Yayınları ,Osmanlı ,Bizans ,Roma ve Helenistik sanatını tanıtan kitaplar yayımlıyor .</sentence>
+<sentence num="9">Yayınevi ,kitapların fotoğraflarından metinlerine ,kağıtlarından ,baskılarına ve renk ayrımlarına kadar dünya çapında ünlü uzmanlardan yardım alıyor .</sentence>
+<sentence num="10">İsviçre ve İtalya'da basılan kitaplar ,ABD ,İngiltere ,Almanya ve Fransa'daki ünlü müze ,kültür merkezi ve kitapevlerinde satışa sunuluyor .</sentence>
+</doc>
+<doc>
+<id>60903</id>
+<sentence num="0">2005 04 13 13 :40 :00 .'Türkler ,Bin Yılın Yolculuğu'nu 250 bin kişi gezdi ...</sentence>
+<sentence num="1">İngiltere'nin en saygın sanat ve tarih kurumlarından biri olan Kraliyet Sanat Akademisi'nde 22 Ocak 12 Nisan arasında düzenlenen ''Türkler ;Bin Yılın Yolculuğu 600 1600 ''sergisini 250 bini aşkın kişi gezdi .</sentence>
+<sentence num="2">Akademi tarafından yapılan açıklamada ,serginin sağladığı başarı övülürken ,açılış ve tanıtım konusunda emeği geçen Türk makamları ve sponsor firmalara teşekkür edildi .</sentence>
+<sentence num="3">Yaklaşık 2 ,5 aylık sürede 250 bini aşkın kişinin gezdiği serginin ,daha önce düzenlenen ve 4 ayda 400 bin kişi tarafından gezilen Aztekler sergisinin başarısını yakaladığı ,Kraliyet Sanat Akademisi tarihinin en başarılı sergilerinden biri olduğu belirtildi .</sentence>
+</doc>
+<doc>
+<id>61126</id>
+<sentence num="0">2005 04 13 17 :21 :00 .'Bin Yıllık Yolculuk'a ziyaretçi akını .</sentence>
+<sentence num="1">Sergide ,el yazması eserler de yer aldı İLGİLİ HABERLER ?'</sentence>
+<sentence num="2">Bin yıllık yolculuğa 'övgü ?'</sentence>
+<sentence num="3">Bin Yıllık Yolculuk 'açıldı ?'</sentence>
+<sentence num="4">Bin Yıllık Yolculuk'un basın tanıtımı yapıldı İngiltere'nin başkenti Londra'da düzenlenen 'Türkler :Bin Yılın Yolculuğu 600 1600 'adlı sergiyi 250 bini aşkın kişi gezdi .</sentence>
+<sentence num="5">Sergi ,İngiltere'deki Kraliyet Sanat Akademisi'nde 22 ocak 12 nisan tarihleri arasında yapıldı .</sentence>
+<sentence num="6">Kraliyet Sanat Akademisi'nin yaptığı açıklamada ,serginin sağladığı başarı övülerek Türk makamları ve sponsor firmalara teşekkür edildi .</sentence>
+<sentence num="7">Serginin ,daha önce düzenlenen ve dört ayda 400 bin kişi tarafından gezilen Aztekler sergisinin başarısını yakaladığı da vurgulandı .</sentence>
+<sentence num="8">Bu serginin ,Kraliyet Sanat Akademisi tarihinin en başarılı sergilerinden biri olduğu da belirtildi .</sentence>
+<sentence num="9">Ana sponsorluğunu Aygaz ,Garanti Bankası ve Corus CT'nin üstlendiği sergi ,LASSA ve Akkök Şirketler Grubu ,Access Industries (İngiltere ),Çolakoğlu Grubu ,Friends of the Royal Academy ile Royal Academy Trust bağışçılarının destekleriyle gerçekleşti .</sentence>
+<sentence num="10">Türkiye'den götürülen eserler :Mimar Sinan tarafından Üçüncü Murat'ın harem kapısı olarak tasarlanmış ,iki buçuk metre uzunluğundaki mozaikli ahşap kapı ,13'üncü yüzyıl Selçuklu döneminden kalma ve günümüze kadar korunmuş altı metrelik halı ,El yazması eserler ,Topkapı Sarayı Müzesi'nden çok değerli porselenler ,Kıymetli taşlarla süslü silahlar ,Miğferler ,Fatih Sultan Mehmet'in günlüğü ,İkinci Selim'in kaftanı .</sentence>
+<sentence num="11">Sergi ,Topkapı Sarayı Müzesi Müdürü Filiz Çağman ,Sakıp Sabancı Müzesi Müdürü Nazan Ölçer ,Harvard Üniversitesi İslam Sanatları Profesörü David Roxburgh gibi çok sayıda bilim adamının ortak çalışması sonucu hazırlandı .</sentence>
+<sentence num="12">İstanbul Kültür ve Sanat Vakfı'nın lojistik planlama ve desteğiyle 22 ocak 12 nisan tarihleri arasında Kraliyet Sanat Akademisinde düzenlenen sergi ,dün sona erdi .</sentence>
+</doc>

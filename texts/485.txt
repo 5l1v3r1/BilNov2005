@@ -1,0 +1,1149 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 11 22 12 :57 :00 .15 il yeni üniversiteye kavuşuyor ..</sentence>
+<sentence num="1">15 ilde yeni üniversite açılıyor .</sentence>
+<sentence num="2">konuyla ilgili tasarı meclis başkanlığı'na sunuldu .</sentence>
+<sentence num="3">yeni üniversite kurulacak iller şunlar :kırşehir ,kastamonu ,düzce ,burdur ,uşak ,rize ,tekirdağ ,erzincan ,aksaray ,giresun ,çorum ,yozgat ,adıyaman ,ordu ,amasya .</sentence>
+<sentence num="4">yeni üniversitelere 2 bin yeni kadro da veriliyor .</sentence>
+</doc>
+<doc>
+<id>186901</id>
+<sentence num="0">2005 11 22 15 :56 :00 .15 yeni üniversite kurulmasını öngören tasarı TBMM'de .</sentence>
+<sentence num="1">15 yeni üniversite kurulmasını öngören tasarı TBMM'de 15 yeni üniversite kurulmasına ilişkin yasa tasarısı ,TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="2">Tasarı ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulmasını öngörüyor .</sentence>
+<sentence num="3">KIRŞEHİR ÜNİVERSİTESİ :Fen Edebiyat ,Ziraat ,Eğitim ,İktisadi ve İdari Bilimler fakülteleri ;Sağlık ,Beden Eğitimi ve Spor ,Fizik Tedavi ve Rehabilitasyon yüksekokulları ,3 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri Enstitüleri .</sentence>
+<sentence num="4">KASTAMONU ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,Orman ve İnebolu Su Ürünleri fakülteleri ;Sağlık ,Beden Eğitimi ve Spor ,Sivil Havacılık yüksekokulları ,Meslek Yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="5">DÜZCE ÜNİVERSİTESİ :Fen Edebiyat ,Orman Fakültesi ,Teknik Eğitim fakülteleri ve Tıp Fakültesi ;Sağlık Yüksekokulu ile 2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri ,Sağlık Bilimleri Enstitüsü .</sentence>
+<sentence num="6">BURDUR ÜNİVERSİTESİ :Fen Edebiyat ,Veteriner ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,5 meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="7">UŞAK ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,Mühendislik ile İktisadi ve İdari Bilimler fakülteleri ,Sağlık Yüksekokulu ,6 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="8">RİZE ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,İlahiyat ve Su Ürünleri fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="9">TEKİRDAĞ ÜNİVERSİTESİ :Fen Edebiyat ,Tıp ,Ziraat ,Mühendislik fakülteleri ;9 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri ,Sağlık Bilimleri enstitüleri .</sentence>
+<sentence num="10">ERZİNCAN ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ve Hukuk fakülteleri ,Sağlık Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="11">AKSARAY ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik ve Eğitim fakülteleri ;Sağlık Yüksekokulu ile Beden Eğitimi ve Spor Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="12">GİRESUN ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Eğitim fakülteleri ;Sağlık Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="13">ÇORUM ÜNİVERSİTESİ :Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Mühendislik ,Veteriner ve İlahiyat fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="14">YOZGAT ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik Mimarlık ve Ziraat fakülteleri ,Sağlık Yüksekokulu ,Meslek Yüksekokulu ,Sosyal Bilimler Enstitüsü ile Fen Bilimleri Enstitüsü .</sentence>
+<sentence num="15">ADIYAMAN ÜNİVERSİTESİ :Mesleki ve Teknik Eğitim ,Eğitim ,Fen Edebiyat fakülteleri ;Sağlık Yüksekokulu ,6 meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="16">ORDU ÜNİVERSİTESİ :Ziraat ,Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Deniz Bilimleri Fakülteleri ,Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="17">AMASYA ÜNİVERSİTESİ :Mesleki ve Teknik Eğitim ,Mimarlık ,Fen Edebiyat ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+</doc>
+<doc>
+<id>186903</id>
+<sentence num="0">2005 11 22 16 :01 :00 .15 üniversite tasarısı Meclis'te .</sentence>
+<sentence num="1">15 yeni üniversite kurulmasına ilişkin yasa tasarısı ,TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="2">Tasarı ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulmasını öngörüyor .</sentence>
+</doc>
+<doc>
+<id>186910</id>
+<sentence num="0">2005 11 22 16 :10 :00 .15 yeni üniversite kuruluyor ...</sentence>
+<sentence num="1">Erken seçim olacak mı olmayacak mı tartışmaları yaşanırken ,hükümet Adıyaman ,Aksaray ,Amasya ,Burdur ,Çorum ,Düzce ,Erzincan ,Giresun ,Kastamonu ,Kırşehir ,Ordu ,Rize ,Tekirdağ ,Uşak ,Yozgat'ta bu illerin adlarını taşıyan 15 yeni üniversite kurulmasını öngören yasa tasarısını TBMM'ye sundu .</sentence>
+<sentence num="2">Tasarı bu haliyle yasalaşırsa devlet üniversitesi sayısı 68'e ,toplam üniversite sayısı ise 92'ye yükselecek .</sentence>
+<sentence num="3">Yükseköğretim Kurumları Teşkilatı Yasası ile 78 ve 190 sayılı KHK'de Değişiklik Yapılması Hakkında Yasa Tasarısı toplam 7 maddeden oluşuyor .</sentence>
+<sentence num="4">YURTDIŞINDAKİ ÖĞRENCİ SAYISI ANCAK TAHMİN EDİLEBİLİYOR Tasarının gerekçesinde ,son yıllarda ortaöğretimdeki okullaşma oranının yükselmesinin yüksek öğrenime olan talebi de sürekli artırdığı ,yeni üniversiteler kurulmadığı takdirde üniversite kapısındaki yığılmanın büyüyererk devam etmesinin kaçınılmaz olacağı belirtildi .</sentence>
+<sentence num="5">Açık öğretim ya da ikinci öğretim uygulamasının da çözüm olmadığı anlatılan tasarıda ,memurların derece kademe ilerlemesi yaptıkları başvurunun azalmasıyla birlikte açık öğretimin de gözden düştüğü ifade edildi .</sentence>
+<sentence num="6">Türkiye'de üniversiteye giremediği için yurt dışına yönelen öğrenci sayısının 70 bin civarında olduğunun tahmin edildiği kaydedilen tasarıda ,yeni fakülte kurulmadığına işaret edildi .</sentence>
+<sentence num="7">Tasarıya göre halen taşrada varolan kimi fakülte ve yüksekokullar ,yeni kurulacak rektörlüklere bağlanacak .</sentence>
+<sentence num="8">İLLER OBJEKTİF KRİTERLERLE BELİRLENDİ Üniversitelerin kurulması öngörülen illerin objektif kriterlere göre belirlendiği savunulan tasarıda ,bir ilde bulunan yükseköğrenim kurumu ,buralarda çalışan öğretim elemanları ve öğrenci sayıları ,fiziki altyapı ,yurt kapasitesi ve illerin sosyo ekonomik gelişmişlik düzeylerinin kriter olarak değerlendirildiği bildirildi .</sentence>
+<sentence num="9">Adıyaman ,Aksaray ,Amasya ,Burdur ,Çorum ,Düzce ,Erzincan ,Giresun ,Kastamonu ,Kırşehir ,Ordu ,Rize ,Tekirdağ ,Uşak ,Yozgat'ta kurulacak üniversiteler için yeni fakülte ,yüksekokul ya da meslek yüksekokulu kurulmayacak .</sentence>
+<sentence num="10">Yeni kurulacak üniversitelerin tamamında ise sosyal bilimler ve fen bilimleri enstitüleri oluşturulacak .</sentence>
+<sentence num="11">ÖĞRENCİLER İSTERSE ESKİ ÜNİVERSİTESİNDEN DİPLOMA ALABİLECEK Yeni kurulacak ve bağlantısı değiştirilecek yüksek öğretuim kurumlarında uygulamayla ilgiliolarak ortaya çıkabilecek sorunların YÖK kararıyla çözümlenmesi öngörülen tasarıyla ,düzenlemenin yasalaştığı tarihte mevcut üniversitelerde kayıtlı olan öğrencilere verilecek mezuniyet belgeleri ile diplomalarda ise ,öğrencilerin istekleri halinde ,okullarının bağlandığı yeni üniversiteler yerine eski üniversitesinin adına düzenlenecek .</sentence>
+<sentence num="12">REKTÖR ATAMASINDA YÖK DEVRE DIŞI Halen kurulu bulunan üniversitelerde üniversitelerde yapılan seçimlerde belirlenen liste YÖK'E gönderilmekte ve YÖK'ün seçtiği üç isim Cumhurbaşkanlığına gönderilerek rektör ataması yapılmakta .</sentence>
+<sentence num="13">Ancak tasarıda Kurucu Rektörler için farklı bir prosedür öneriliyor .</sentence>
+<sentence num="14">Buna göre Bu yasayla kurulacak üniversitelerin kurucu rektörleri iki yıl için ,Milli Eğitim Bakanı ve Başbakan'ın önereceği üç isim arasından Cumhurbaşkanı'nca atanacak .</sentence>
+<sentence num="15">İKİ BEN YENİ MEMUR Tasarıyla bu yeni kurulacak üniversiteler için Genel İdari Hizmetler sınıfından ,9'ncu dereceden iki bin memur kadrosu da ihdas ediliyor .</sentence>
+<sentence num="16">Buna göre ,söz konusu iki bin memur iki yıl içerisinde Maliye Bakanlığı ve Devlet Personel Başkanlığı'nın görüşleri üzerine Bakanlar Kurulu kararıyla gerektiğinde sınıf ,unvan ve derece değişikliği yapılmak suretiyle yeni kurulan üniversitelerin ihtiyaçlarını karşılamak üzere tahsis edilebilecek .</sentence>
+<sentence num="17">Bu şekilde tahsis edilecek kadroların kullanımında uyulacak usul ve esaslar Bakanlar Kurulu kararıyla saptanacak .</sentence>
+<sentence num="18">İki yıl içerisinde tahsis edilmeyen kadrolar başka bir işleme gerek kalmaksızın iptal edilmiş sayılacak .</sentence>
+</doc>
+<doc>
+<id>186935</id>
+<sentence num="0">2005 11 22 16 :36 :00 .15 yeni üniversite geliyor .</sentence>
+<sentence num="1">Teziç üniversite kurulması yetkisinin YÖK'te olduğunu belirtiyor 15 yeni üniversite kurulmasına ilişkin yasa tasarısı ,TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="2">Tasarı ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulmasını öngörüyor .</sentence>
+<sentence num="3">Tasarıya göre ,kurulması öngörülen üniversitelerin bünyelerinde şu fakülte ve yüksekokullar bulunacak :Kırşehir :Fen Edebiyat ,Ziraat ,Eğitim ,İktisadi ve İdari Bilimler fakülteleri ,Sağlık ,Beden Eğitimi ve Spor ,Fizik Tedavi ve Rehabilitasyon yüksekokulları ,3 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri Enstitüleri .</sentence>
+<sentence num="4">Kastamonu :Fen Edebiyat ,Eğitim ,Orman ve İnebolu Su Ürünleri fakülteleri ,Sağlık ,Beden Eğitimi ve Spor ,Sivil Havacılık yüksekokulları ,Meslek Yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="5">Düzce :Fen Edebiyat ,Orman Fakültesi ,Teknik Eğitim fakülteleri ve Tıp Fakültesi ,Sağlık Yüksekokulu ile iki meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri Enstitüleri ,Sağlık Bilimleri Enstitüsü .</sentence>
+<sentence num="6">Burdur :Fen Edebiyat ,Veteriner ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,beş meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="7">Uşak :Fen Edebiyat ,Eğitim ,Mühendislik ile İktisadi ve İdari Bilimler fakülteleri ,Sağlık Yüksekokulu ,altı meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="8">Rize :Fen Edebiyat ,Eğitim ,İlahiyat ve Su Ürünleri fakülteleri ;Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="9">Tekirdağ :Fen Edebiyat ,Tıp ,Ziraat ,Mühendislik fakülteleri ,dokuz meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri ,Sağlık Bilimleri enstitüleri .</sentence>
+<sentence num="10">Erzincan :Fen Edebiyat ,Eğitim ve Hukuk fakülteleri ,Sağlık Yüksekokulu ,dört meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="11">Aksaray :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik ve Eğitim fakülteleri ,Sağlık Yüksekokulu ile Beden Eğitimi ve Spor Yüksekokulu ,dört meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="12">Giresun :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Eğitim fakülteleri ,Sağlık Yüksekokulu ,dört meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="13">Çorum :Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Mühendislik ,Veteriner ve İlahiyat fakülteleri ;Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="14">Yozgat :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik Mimarlık ve Ziraat fakülteleri ,Sağlık Yüksekokulu ,Meslek Yüksekokulu ,Sosyal Bilimler Enstitüsü ile Fen Bilimleri Enstitüsü .</sentence>
+<sentence num="15">Adıyaman :Mesleki ve Teknik Eğitim ,Eğitim ,Fen Edebiyat fakülteleri ;Sağlık üksekokulu ,altı meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="16">Ordu :Ziraat ,Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Deniz Bilimleri Fkülteleri ,Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="17">Amasya :Mesleki ve Teknik Eğitim ,Mimarlık ,Fen Edebiyat ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="18">Başbakan Recep Tayyip Erdoğan bu yıl başında ,Milli Eğitim Bakanlığı'nın 15 yeni üniversite kurulması için altyapı çalışmalarını sürdürdüğünü açıklamıştı .</sentence>
+<sentence num="19">YÖK Başkanı Erdoğan Teziç ise ,hükümetin yeni üniversiteler açılması çalışmalarına tepki göstererek ''hükümetin gündeminde yeni üniversiteler açılması var .</sentence>
+<sentence num="20">Ancak yeni üniversitelerin açılması bizim görüşümüz üzerine gerçekleşecek ''demişti .</sentence>
+<sentence num="21">MEB'in üniversite taslağı Milli Eğitim Bakanlığı'nın hazırladığı kanun taslağına göre ,kurulacak üniversitelerin bünyesinde Fen Edebiyat Fakültesi bulundurulması zorunluluğu kaldırıldı .</sentence>
+<sentence num="22">Milli Eğitim Bakanlığı ,2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanunu'nda değişiklik yapılmasına ilişkin kanun taslağı hazırlamıştı .</sentence>
+<sentence num="23">Taslakta öngörülen düzenlemeyle ,kanunun yükseköğretim kurumlarının kuruluş esaslarına ilişkin üçüncü maddesinde yer alan 'bir üniversitede Fen Fakültesi ,Edebiyat Fakültesi veya ikisini birden teşkil eden Fen Edebiyat Fakültesi ile diğer fakülteler arasından ihtiyaca göre belirlenecek iki veya daha fazla fakülte bulunması 'koşulu kaldırılacak .</sentence>
+<sentence num="24">Üniversiteler en az üç fakülteden oluşacak Bunun yerine 'yeni üniversite veya yüksek teknoloji enstitüsü kurulurken bünyesinde en az üç fakülte kurulması 'şartı getirilecek .</sentence>
+<sentence num="25">Taslakta ,kanunda sıralanan mühendislik ,mimarlık ,iktisadi idari bilimler gibi fakülte isimlerine de yer verilmedi .</sentence>
+<sentence num="26">Bu şekilde ,mevcut listedekinden farklı isimlerde fakülte kurulmasının yolu açılacak .</sentence>
+<sentence num="27">Taslağa göre ,kurulacak fakülte ,enstitü ve yüksekokulların isimleri Yükseköğretim Kurulu'nca (YÖK )belirlenecek .</sentence>
+<sentence num="28">Aynı şehirde olmak üzere bir üniversite bünyesinde benzer nitelikte birden fazla fakülte kurulamayacak .</sentence>
+<sentence num="29">Bölüm ,anabilim dalı ,ana sanat dalı ve diğer ünitelerin kurulması ,birleştirilmesi ,kaldırılması ve işleyişi ,YÖK tarafından düzenlenecek .</sentence>
+</doc>
+<doc>
+<id>186976</id>
+<sentence num="0">2005 11 22 17 :25 :00 .15 yeni üniversite geliyor TURKIYE haber detay .</sentence>
+<sentence num="1">asp ?</sentence>
+<sentence num="2">PID 318 &haberID 140902 .</sentence>
+</doc>
+<doc>
+<id>187155</id>
+<sentence num="0">2005 11 23 08 :30 :00 .15 yeni üniversite geliyor .</sentence>
+<sentence num="1">Teziç üniversite kurulması yetkisinin YÖK'te olduğunu belirtiyor 15 yeni üniversite kurulmasına ilişkin yasa tasarısı ,TBMM Başkanlığı'na sunuldu .</sentence>
+<sentence num="2">Tasarı ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulmasını öngörüyor .</sentence>
+<sentence num="3">Tasarıya göre ,kurulması öngörülen üniversitelerin bünyelerinde şu fakülte ve yüksekokullar bulunacak :Kırşehir :Fen Edebiyat ,Ziraat ,Eğitim ,İktisadi ve İdari Bilimler fakülteleri ,Sağlık ,Beden Eğitimi ve Spor ,Fizik Tedavi ve Rehabilitasyon yüksekokulları ,3 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri Enstitüleri .</sentence>
+<sentence num="4">Kastamonu :Fen Edebiyat ,Eğitim ,Orman ve İnebolu Su Ürünleri fakülteleri ,Sağlık ,Beden Eğitimi ve Spor ,Sivil Havacılık yüksekokulları ,Meslek Yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="5">Düzce :Fen Edebiyat ,Orman Fakültesi ,Teknik Eğitim fakülteleri ve Tıp Fakültesi ,Sağlık Yüksekokulu ile iki meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri Enstitüleri ,Sağlık Bilimleri Enstitüsü .</sentence>
+<sentence num="6">Burdur :Fen Edebiyat ,Veteriner ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,beş meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="7">Uşak :Fen Edebiyat ,Eğitim ,Mühendislik ile İktisadi ve İdari Bilimler fakülteleri ,Sağlık Yüksekokulu ,altı meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="8">Rize :Fen Edebiyat ,Eğitim ,İlahiyat ve Su Ürünleri fakülteleri ;Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="9">Tekirdağ :Fen Edebiyat ,Tıp ,Ziraat ,Mühendislik fakülteleri ,dokuz meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri ,Sağlık Bilimleri enstitüleri .</sentence>
+<sentence num="10">Erzincan :Fen Edebiyat ,Eğitim ve Hukuk fakülteleri ,Sağlık Yüksekokulu ,dört meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="11">Aksaray :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik ve Eğitim fakülteleri ,Sağlık Yüksekokulu ile Beden Eğitimi ve Spor Yüksekokulu ,dört meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="12">Giresun :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Eğitim fakülteleri ,Sağlık Yüksekokulu ,dört meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="13">Çorum :Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Mühendislik ,Veteriner ve İlahiyat fakülteleri ;Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="14">Yozgat :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik Mimarlık ve Ziraat fakülteleri ,Sağlık Yüksekokulu ,Meslek Yüksekokulu ,Sosyal Bilimler Enstitüsü ile Fen Bilimleri Enstitüsü .</sentence>
+<sentence num="15">Adıyaman :Mesleki ve Teknik Eğitim ,Eğitim ,Fen Edebiyat fakülteleri ;Sağlık üksekokulu ,altı meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="16">Ordu :Ziraat ,Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Deniz Bilimleri Fkülteleri ,Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="17">Amasya :Mesleki ve Teknik Eğitim ,Mimarlık ,Fen Edebiyat ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,iki meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="18">Başbakan Recep Tayyip Erdoğan bu yıl başında ,Milli Eğitim Bakanlığı'nın 15 yeni üniversite kurulması için altyapı çalışmalarını sürdürdüğünü açıklamıştı .</sentence>
+<sentence num="19">YÖK Başkanı Erdoğan Teziç ise ,hükümetin yeni üniversiteler açılması çalışmalarına tepki göstererek ''hükümetin gündeminde yeni üniversiteler açılması var .</sentence>
+<sentence num="20">Ancak yeni üniversitelerin açılması bizim görüşümüz üzerine gerçekleşecek ''demişti .</sentence>
+<sentence num="21">MEB'in üniversite taslağı Milli Eğitim Bakanlığı'nın hazırladığı kanun taslağına göre ,kurulacak üniversitelerin bünyesinde Fen Edebiyat Fakültesi bulundurulması zorunluluğu kaldırıldı .</sentence>
+<sentence num="22">Milli Eğitim Bakanlığı ,2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanunu'nda değişiklik yapılmasına ilişkin kanun taslağı hazırlamıştı .</sentence>
+<sentence num="23">Taslakta öngörülen düzenlemeyle ,kanunun yükseköğretim kurumlarının kuruluş esaslarına ilişkin üçüncü maddesinde yer alan ?</sentence>
+<sentence num="24">bir üniversitede Fen Fakültesi ,Edebiyat Fakültesi veya ikisini birden teşkil eden Fen Edebiyat Fakültesi ile diğer fakülteler arasından ihtiyaca göre belirlenecek iki veya daha fazla fakülte bulunması 'koşulu kaldırılacak .</sentence>
+<sentence num="25">Üniversiteler en az üç fakülteden oluşacak Bunun yerine ?</sentence>
+<sentence num="26">yeni üniversite veya yüksek teknoloji enstitüsü kurulurken bünyesinde en az üç fakülte kurulması 'şartı getirilecek .</sentence>
+<sentence num="27">Taslakta ,kanunda sıralanan mühendislik ,mimarlık ,iktisadi idari bilimler gibi fakülte isimlerine de yer verilmedi .</sentence>
+<sentence num="28">Bu şekilde ,mevcut listedekinden farklı isimlerde fakülte kurulmasının yolu açılacak .</sentence>
+<sentence num="29">Taslağa göre ,kurulacak fakülte ,enstitü ve yüksekokulların isimleri Yükseköğretim Kurulu'nca (YÖK )belirlenecek .</sentence>
+<sentence num="30">Aynı şehirde olmak üzere bir üniversite bünyesinde benzer nitelikte birden fazla fakülte kurulamayacak .</sentence>
+<sentence num="31">Bölüm ,anabilim dalı ,ana sanat dalı ve diğer ünitelerin kurulması ,birleştirilmesi ,kaldırılması ve işleyişi ,YÖK tarafından düzenlenecek .</sentence>
+</doc>
+<doc>
+<id>187188</id>
+<sentence num="0">2005 11 23 09 :30 :00 .15 üniversiteye 2 bin memur .</sentence>
+<sentence num="1">AK Parti hükümeti ,uzun süreden beri milletvekillerinden gelen ,seçim çevrelerine üniversite yolundaki baskılar karşısında 15 yeni üniversite kurmaya karar verdi .</sentence>
+<sentence num="2">TBMM Başkanlığı'na sunulan tasarıyla ,Başbakan Tayyip Erdoğan en çok hemşerilerini sevindirecek .</sentence>
+<sentence num="3">Çünkü üniversiteleri bulunan Trabzon ve Samsun'a ek olarak Rize ,Ordu ve Giresun ve Kastamonu da üniversiteli olacak .</sentence>
+<sentence num="4">Üniversite kurulacak diğer iller şunlar :Kırşehir ,Düzce ,Burdur ,Uşak ,Tekirdağ ,Erzincan ,Aksaray ,Çorum ,Yozgat ,Adıyaman ve Amasya'da toplam 15 yeni üniversite kurulması öngörüldü .</sentence>
+<sentence num="5">Milletvekillerinin ,kendi seçim çevrelerinde yeni üniversiteler kurulmasına ilişkin verdiği ve halen TBMM Milli Eğitim Komisyonu'nda bekleyen 66 yasa teklifi bulunuyor .</sentence>
+<sentence num="6">Tasarı bunlardan 15'indeki talebi karşılıyor .</sentence>
+<sentence num="7">2 bin memur kadrosu açılacak Tasarıya göre ,üniversitelerin kurulduğu illerdeki ,farklı üniversitelere bağlı olarak halen faaliyette bulunan fakülteler yeni üniversitelere bağlanacak .</sentence>
+<sentence num="8">Yeni üniversitelerin kurucu rektörleri 2 yıl için ,milli eğitim bakanı ve başbakanın belirleyeceği üç isim arasından cumhurbaşkanı tarafından belirlenecek .</sentence>
+<sentence num="9">Üniversiteler için 2 bin memur kadrosu açılacak .</sentence>
+<sentence num="10">Halen 53'ü devlet ,24'ü vakıf olmak üzere toplam 77 üniversite bulunan Türkiye'de ,artan talebe rağmen 1994'ten bu yana yeni devlet üniversitesi kurulmamıştı .(</sentence>
+<sentence num="11">Milliyet ).</sentence>
+</doc>
+<doc>
+<id>189932</id>
+<sentence num="0">2005 11 28 12 :15 :00 .15 ilde üniversite kurulmasını öngören tasarı 1 Aralık'ta görüşülecek .</sentence>
+<sentence num="1">15 ilde üniversite kurulmasını öngören tasarı 1 Aralık'ta görüşülecek TBMM Milli Eğitim Komisyonu ,15 ilde üniversite kurulmasını öngören kanun tasarısını ,1 Aralık Perşembe günü görüşecek .</sentence>
+<sentence num="2">Yükseköğretim Kurumları Teşkilatı Kanunu ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkındaki Kanun Tasarısı'nda ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulması öngörülüyor .</sentence>
+<sentence num="3">Tasarının ,Perşembe günü toplanacak Milli Eğitim Komisyonu'nda ele alınacağı bildirildi .</sentence>
+<sentence num="4">Tasarıya göre ,kurulması öngörülen üniversitelerin bünyelerinde şu fakülte ve yüksekokullar bulunacak :KIRŞEHİR ÜNİVERSİTESİ :Fen Edebiyat ,Ziraat ,Eğitim ,İktisadi ve İdari Bilimler fakülteleri ;Sağlık ,Beden Eğitimi ve Spor ,Fizik Tedavi ve Rehabilitasyon yüksekokulları ,3 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri Enstitüleri .</sentence>
+<sentence num="5">KASTAMONU ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,Orman ve İnebolu Su Ürünleri fakülteleri ;Sağlık ,Beden Eğitimi ve Spor ,Sivil Havacılık yüksekokulları ,Meslek Yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="6">DÜZCE ÜNİVERSİTESİ :Fen Edebiyat ,Orman Fakültesi ,Teknik Eğitim fakülteleri ve Tıp Fakültesi ;Sağlık Yüksekokulu ile 2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri ,Sağlık Bilimleri Enstitüsü .</sentence>
+<sentence num="7">BURDUR ÜNİVERSİTESİ :Fen Edebiyat ,Veteriner ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,5 meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="8">UŞAK ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,Mühendislik ile İktisadi ve İdari Bilimler fakülteleri ,Sağlık Yüksekokulu ,6 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="9">RİZE ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,İlahiyat ve Su Ürünleri fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="10">TEKİRDAĞ ÜNİVERSİTESİ :Fen Edebiyat ,Tıp ,Ziraat ,Mühendislik fakülteleri ;9 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri ,Sağlık Bilimleri enstitüleri .</sentence>
+<sentence num="11">ERZİNCAN ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ve Hukuk fakülteleri ,Sağlık Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="12">AKSARAY ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik ve Eğitim fakülteleri ;Sağlık Yüksekokulu ile Beden Eğitimi ve Spor Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="13">GİRESUN ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Eğitim fakülteleri ;Sağlık Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="14">ÇORUM ÜNİVERSİTESİ :Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Mühendislik ,Veteriner ve İlahiyat fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="15">YOZGAT ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik Mimarlık ve Ziraat fakülteleri ,Sağlık Yüksekokulu ,Meslek Yüksekokulu ,Sosyal Bilimler Enstitüsü ile Fen Bilimleri Enstitüsü .</sentence>
+<sentence num="16">ADIYAMAN ÜNİVERSİTESİ :Mesleki ve Teknik Eğitim ,Eğitim ,Fen Edebiyat fakülteleri ;Sağlık Yüksekokulu ,6 meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="17">ORDU ÜNİVERSİTESİ :Ziraat ,Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Deniz Bilimleri Fakülteleri ,Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="18">AMASYA ÜNİVERSİTESİ :Mesleki ve Teknik Eğitim ,Mimarlık ,Fen Edebiyat ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+</doc>
+<doc>
+<id>189945</id>
+<sentence num="0">2005 11 28 12 :30 :00 .15 yeni üniversite tasarısı 1 Aralık'ta görüşülecek .</sentence>
+<sentence num="1">TBMM Milli Eğitim Komisyonu ,15 ilde üniversite kurulmasını öngören kanun tasarısını ,1 Aralık Perşembe günü görüşecek .</sentence>
+<sentence num="2">Yükseköğretim Kurumları Teşkilatı Kanunu ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkındaki Kanun Tasarısı'nda ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulması öngörülüyor .</sentence>
+<sentence num="3">Tasarının ,Perşembe günü toplanacak Milli Eğitim Komisyonu'nda ele alınacağı bildirildi .</sentence>
+<sentence num="4">Tasarıya göre ,kurulması öngörülen üniversitelerin bünyelerinde şu fakülte ve yüksekokullar bulunacak :KIRŞEHİR ÜNİVERSİTESİ :Fen Edebiyat ,Ziraat ,Eğitim ,İktisadi ve İdari Bilimler fakülteleri ;Sağlık ,Beden Eğitimi ve Spor ,Fizik Tedavi ve Rehabilitasyon yüksekokulları ,3 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri Enstitüleri .</sentence>
+<sentence num="5">KASTAMONU ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,Orman ve İnebolu Su Ürünleri fakülteleri ;Sağlık ,Beden Eğitimi ve Spor ,Sivil Havacılık yüksekokulları ,Meslek Yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="6">DÜZCE ÜNİVERSİTESİ :Fen Edebiyat ,Orman Fakültesi ,Teknik Eğitim fakülteleri ve Tıp Fakültesi ;Sağlık Yüksekokulu ile 2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri ,Sağlık Bilimleri Enstitüsü .</sentence>
+<sentence num="7">BURDUR ÜNİVERSİTESİ :Fen Edebiyat ,Veteriner ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,5 meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="8">UŞAK ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,Mühendislik ile İktisadi ve İdari Bilimler fakülteleri ,Sağlık Yüksekokulu ,6 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="9">RİZE ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ,İlahiyat ve Su Ürünleri fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="10">TEKİRDAĞ ÜNİVERSİTESİ :Fen Edebiyat ,Tıp ,Ziraat ,Mühendislik fakülteleri ;9 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri ,Sağlık Bilimleri enstitüleri .</sentence>
+<sentence num="11">ERZİNCAN ÜNİVERSİTESİ :Fen Edebiyat ,Eğitim ve Hukuk fakülteleri ,Sağlık Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="12">AKSARAY ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik ve Eğitim fakülteleri ;Sağlık Yüksekokulu ile Beden Eğitimi ve Spor Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="13">GİRESUN ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Eğitim fakülteleri ;Sağlık Yüksekokulu ,4 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="14">ÇORUM ÜNİVERSİTESİ :Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Mühendislik ,Veteriner ve İlahiyat fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="15">YOZGAT ÜNİVERSİTESİ :Fen Edebiyat ,İktisadi ve İdari Bilimler ,Mühendislik Mimarlık ve Ziraat fakülteleri ,Sağlık Yüksekokulu ,Meslek Yüksekokulu ,Sosyal Bilimler Enstitüsü ile Fen Bilimleri Enstitüsü .</sentence>
+<sentence num="16">ADIYAMAN ÜNİVERSİTESİ :Mesleki ve Teknik Eğitim ,Eğitim ,Fen Edebiyat fakülteleri ;Sağlık Yüksekokulu ,6 meslek yüksekokulu ,Sosyal Bilimler ile Fen Bilimleri enstitüleri .</sentence>
+<sentence num="17">ORDU ÜNİVERSİTESİ :Ziraat ,Fen Edebiyat Fakültesi ,İktisadi ve İdari Bilimler ,Deniz Bilimleri Fakülteleri ,Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="18">AMASYA ÜNİVERSİTESİ :Mesleki ve Teknik Eğitim ,Mimarlık ,Fen Edebiyat ve Eğitim fakülteleri ;Sağlık Yüksekokulu ,2 meslek yüksekokulu ,Sosyal Bilimler ve Fen Bilimleri enstitüleri .</sentence>
+<sentence num="19">REKTÖRLERİ BAKAN VE BAŞBAKAN ÖNERECEK Tasarıda ,yeni üniversitelere 2 bin yeni kadro verilmesi de öngörülüyor .</sentence>
+<sentence num="20">Tasarıya göre ,daha önce başka üniversiteler bünyesinde eğitim veren fakülte ve yüksekokulların bütçe ,teşkilat ,kadro ,demirbaş ve her türlü mallarının yeni kurulan üniversitelere devredilecek .</sentence>
+<sentence num="21">Kurulan üniversitelerin kurucu rektörleri de 2 yıl için Milli Eğitim Bakanı ve Başbakan'ın önereceği 3 isim arasından Cumhurbaşkanınca atanacak .</sentence>
+</doc>
+<doc>
+<id>190137</id>
+<sentence num="0">2005 11 28 15 :53 :00 .Üniversite Atağına Devam .</sentence>
+<sentence num="1">15 ilde yeni üniversite kurulmasını öngören tasarı Meclis gündemindeyken ,10 ilde daha üniversite kurulması için YÖK'ten görüş istendi .</sentence>
+<sentence num="2">AK Parti Grup Başkanvekili Salih Kapusuz Karaman ,Karabük ,Çankırı ,Nevşehir ,Kilis ,Siirt ,Ağrı ,Bilecik ,Artvin ve Sinop'ta üniversite kurulması için YÖK'ten görüş istediklerini söyledi .</sentence>
+<sentence num="3">Kapusuz Meclis Başkanlığı'na sunulan ve kamuoyunda Mortgage olarak bilinen uzun dönemli konut edindirme tasarısı ile kredi kartlarıyla ilgili tasarının da bir an önce yasalaşması için çalışacaklarını kaydetti .</sentence>
+</doc>
+<doc>
+<id>190201</id>
+<sentence num="0">2005 11 28 17 :05 :00 .AKP ,10 yeni üniversite daha istiyor .</sentence>
+<sentence num="1">Kapusuz ,10 ile daha üniversite kurulması için çalışma başlattıklarını söyledi Hükümet 10 ile daha üniversite kurulması için YÖK'ten altyapı araştırması yapmasını istedi .</sentence>
+<sentence num="2">AKP Grup Başkanvekili Salih Kapusuz ,15 yeni üniversitenin ardından hükümetin 10 ile daha üniversite kurulması için düğmeye bastığını söyledi .</sentence>
+<sentence num="3">Hükümet ,Karaman ,Karabük ,Çankırı ,Nevşehir ,Kilis ,Siirt ,Ağrı ,Bilecik ,Artvin ve Sinop illerine üniversite kurulabilmesi için YÖK'ten koşulların araştırılması talebinde bulundu .</sentence>
+<sentence num="4">Kapusuz ,10 yeni üniversite kurulması çalışmasının hala Meclis'te bulunan 15 yeni üniversite kurulmasına yönelik tasarıyı etkilemeyeceğini söyledi .</sentence>
+<sentence num="5">AKP Grup Başkanvekili ,altyapı araştırması yapılacak 10 yeni üniversitenin kuruluşuna ilişkin tasarının daha sonra Meclis'e sevkedilmesinin beklendiğini belirtti .</sentence>
+<sentence num="6">15 yeni üniversitenin kurulmasına ilişkin yasa tasarısı 22 kasımda TBMM Başkanlığı'na sunulmuştu .</sentence>
+<sentence num="7">Tasarı ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulmasını öngörüyor .</sentence>
+</doc>
+<doc>
+<id>190631</id>
+<sentence num="0">2005 11 29 13 :26 :00 .Üniversite sayısı 25'e çıkarılıyor .</sentence>
+<sentence num="1">TBMM Milli Eğitim Komisyonu ,15 ilde üniversite kurulmasını öngören kanun tasarısını perşembe günü görüşecek .</sentence>
+<sentence num="2">Kendi illeri tasarı dışında kalan milletvekilleri ,sayıyı artırmak için kulis başlattı .</sentence>
+<sentence num="3">Ancak hükümet ,vekillerden önce davrandı ve buna ilave olarak ,10 yeni üniversite için YÖK'e yazı yazdı .</sentence>
+<sentence num="4">Bu düzenleme yapılırsa ,Karaman ,Karabük ,Çankırı ,Nevşehir ,Kilis ,Siirt ,Ağrı ,Bilecik ,Artvin ve Sinop'da da üniversite kurulacak .</sentence>
+<sentence num="5">Mevcut tasarı ise Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulmasını hedefliyor .</sentence>
+</doc>
+<doc>
+<id>191346</id>
+<sentence num="0">2005 11 30 14 :49 :00 .YÖK ,15 üniversiteden 4'ünü onayladı .</sentence>
+<sentence num="1">YÖK ,15 üniversiteden 4'ünü onayladı YÖK ,üniversite kurulması öngörülen 15 ilden ,kurulca belirlenen kriterlerden biri olan asgari 7 kadrolu profesörü bulundurma şartını sağlayan sadece Tekirdağ ,Düzce ,Uşak ve Ordu'da üniversite kurulabileceğini bildirdi .</sentence>
+<sentence num="2">YÖK Basın ve Halkla İlişkiler Müşavirliği'nden yapılan yazılı açıklamada ,şunlar kaydedildi :''Milli Eğitim Bakanlığı tarafından YÖK'e gönderilen 15 ilde yeni üniversite kurulması hakkındaki teklif ,kurulumuz başkanlığınca incelenerek 16 Eylül 2005 tarihli genel kurul toplantısında karara bağlanmıştır .</sentence>
+<sentence num="3">Bu çerçevede ,üniversite kurulması öngörülen illerden ,kurulumuzca belirlenen kriterlerden biri olan asgari 7 kadrolu profesörü bulundurma şartını sağlayan sadece dört ilde (Tekirdağ ,Düzce ,Uşak ve Ordu )üniversite kurulabileceğine karar verilmiştir .</sentence>
+<sentence num="4">Her ne kadar ,1992 yılında kurulan 22 yeni üniversite rektörünün geçici madde ile istisnai bir yol izlenerek ,Milli Eğitim Bakanı ve Başbakan'ın önerdiği üç isim arasından Cumhurbaşkanınca atanması öngörülmüşse de kurulacak üniversitelerde rektör seçimleri ve atamalarının bu kez mevcut mevzuata uygun yapılması ,geçmişte yaşanan ve bunların yol açtığı siyasi endişelerden uzak kalabilmenin gelecekteki teminatı olacaktır .''</sentence>
+<sentence num="5">TBMM Milli Eğitim Komisyonu ,15 ilde üniversite kurulmasını öngören kanun tasarısını ,1 Aralık Perşembe günü görüşecek .</sentence>
+<sentence num="6">Yükseköğretim Kurumları Teşkilatı Kanunu ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkındaki Kanun Tasarısı'nda ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulması öngörülüyor .</sentence>
+</doc>
+<doc>
+<id>191353</id>
+<sentence num="0">2005 11 30 14 :55 :00 .YÖK ,üniversite kurulması öngörülen 15 ilden 4'üne vize verdi .</sentence>
+<sentence num="1">YÖK ,üniversite kurulması öngörülen 15 ilden ,kurulca belirlenen kriterlerden biri olan asgari 7 kadrolu profesörü bulundurma şartını sağlayan sadece Tekirdağ ,Düzce ,Uşak ve Ordu'da üniversite kurulabileceğini bildirdi .</sentence>
+<sentence num="2">YÖK Basın ve Halkla İlişkiler Müşavirliği'nden yapılan yazılı açıklamada ,şunlar kaydedildi :Milli Eğitim Bakanlığı tarafından YÖK'e gönderilen 15 ilde yeni üniversite kurulması hakkındaki teklif ,kurulumuz başkanlığınca incelenerek 16 Eylül 2005 tarihli genel kurul toplantısında karara bağlanmıştır .</sentence>
+<sentence num="3">Bu çerçevede ,üniversite kurulması öngörülen illerden ,kurulumuzca belirlenen kriterlerden biri olan asgari 7 kadrolu profesörü bulundurma şartını sağlayan sadece dört ilde (Tekirdağ ,Düzce ,Uşak ve Ordu )üniversite kurulabileceğine karar verilmiştir .</sentence>
+<sentence num="4">Her ne kadar ,1992 yılında kurulan 22 yeni üniversite rektörünün geçici madde ile istisnai bir yol izlenerek ,Milli Eğitim Bakanı ve Başbakan'ın önerdiği üç isim arasından Cumhurbaşkanınca atanması öngörülmüşse de kurulacak üniversitelerde rektör seçimleri ve atamalarının bu kez mevcut mevzuata uygun yapılması ,geçmişte yaşanan ve bunların yol açtığı siyasi endişelerden uzak kalabilmenin gelecekteki teminatı olacaktır .</sentence>
+<sentence num="5">TBMM Milli Eğitim Komisyonu ,15 ilde üniversite kurulmasını öngören kanun tasarısını ,1 Aralık Perşembe günü görüşecek .</sentence>
+<sentence num="6">Yükseköğretim Kurumları Teşkilatı Kanunu ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkındaki Kanun Tasarısı'nda ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulması öngörülüyor .</sentence>
+</doc>
+<doc>
+<id>191361</id>
+<sentence num="0">2005 11 30 15 :06 :00 .Dört ile üniversite kurulmasına onay .</sentence>
+<sentence num="1">YÖK Başkanı Erdoğan Teziç başkanlığındaki kurul dört ile üniversite onayı verdi YÖK ,üniversite kurulması öngörülen 15 ilden ,sadece Tekirdağ ,Düzce ,Uşak ve Ordu'da üniversite kurulabileceğine onay verdi .</sentence>
+<sentence num="2">YÖK ,kurulca belirlenen kriterlerden biri olan asgari yedi kadrolu profesörü bulundurma şartını sağladığı için söz konusu dört ile üniversite kurulabileceğini onayladı .</sentence>
+<sentence num="3">YÖK Basın ve Halkla İlişkiler Müşavirliği'nden yapılan yazılı açıklamada ,her ne kadar ,1992 yılında kurulan 22 yeni üniversite rektörünün geçici madde ile istisnai bir yol izlenerek ,Milli Eğitim Bakanı ve Başbakan'ın önerdiği üç isim arasından Cumhurbaşkanınca atanması öngörülmüşse de kurulacak üniversitelerde rektör seçimleri ve atamalarının bu kez mevcut mevzuata uygun yapılması ,geçmişte yaşanan ve bunların yol açtığı siyasi endişelerden uzak kalabilmenin gelecekteki teminatı olacaktır ''ifadeleri kullanıldı .</sentence>
+<sentence num="4">TBMM Milli Eğitim Komisyonu ,15 ilde üniversite kurulmasını öngören kanun tasarısını ,1 aralık perşembe günü görüşecek .</sentence>
+<sentence num="5">Yükseköğretim Kurumları Teşkilatı Kanunu ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkındaki Kanun Tasarısı'nda ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulması öngörülüyor .</sentence>
+<sentence num="6">Ordu :Biz yıllardan beri çalışıyorduk Ordu Valisi Kemal Yazıcıoğlu ,kararın memnuniyet verici olduğunu belirterek ,'biz zaten yıllardan bu yana kriterlerin oluşması için çalışıyorduk ''dedi .</sentence>
+<sentence num="7">Yazıcıoğlu ,Ordulular olarak yıllardır hakkımızı istemiştik .</sentence>
+<sentence num="8">Bu hakkımızı teslim eden başta hükümetimiz olmak üzere emeği geçen herkese teşekkür ediyoruz ''ifadelerini kullandı .</sentence>
+<sentence num="9">Ordu Belediye Başkanı Seyit Torun da bu aşamadan sonra Ordu Üniversitesi'nin şeklinin belirlenmesi gerektiğini belirterek ,hükümete teşekkür ediyoruz .</sentence>
+<sentence num="10">Biz bundan sonra çok daha fazla çalışarak gerekenleri yerine getirmeye gayret göstereceğiz ''dedi .</sentence>
+<sentence num="11">Uşak :YÖK'ün kararı mutluluk verici Uşak Valisi Kayhan Kavas da ''YÖK'ün aldığı bu karar ,Uşak adına mutluluk vericidir .</sentence>
+<sentence num="12">Uşak Üniversitesi kurulması konusunda büyük bir yolun aşıldığına inanıyorum ''dedi .</sentence>
+<sentence num="13">Uşak Belediye Başkanı Mesut Apaydın da ,YÖK'ün ,üniversite kurulması kriterlerine hangi ilin uyduğunu bu kararla ortaya koyduğunu söyledi .</sentence>
+<sentence num="14">AKP 10 ile daha üniversite istiyor Bu arada hükümet 10 ile daha üniversite için harekete geçti .</sentence>
+<sentence num="15">AKP Grup Başkanvekili Salih Kapusuz ,28 kasımda yaptığı açıklamada 15 yeni üniversitenin ardından hükümetin 10 ile daha üniversite kurulması için düğmeye bastığını söyledi .</sentence>
+<sentence num="16">Hükümet ,Karaman ,Karabük ,Çankırı ,Nevşehir ,Kilis ,Siirt ,Ağrı ,Bilecik ,Artvin ve Sinop illerine üniversite kurulabilmesi için YÖK'ten koşulların araştırılması talebinde bulundu .</sentence>
+<sentence num="17">Kapusuz ,10 yeni üniversite kurulması çalışmasının hala Meclis'te bulunan 15 yeni üniversite kurulmasına yönelik tasarıyı etkilemeyeceğini söyledi .</sentence>
+<sentence num="18">15 yeni üniversitenin kurulmasına ilişkin yasa tasarısı 22 kasımda TBMM Başkanlığı'na sunulmuştu .</sentence>
+</doc>
+<doc>
+<id>191505</id>
+<sentence num="0">2005 11 30 17 :46 :00 .Ordu'da üniversite sevinci .</sentence>
+<sentence num="1">Yazıcıoğlu ,yaptığı değerlendirmede ,YÖK'ün kararının memnuniyet verici olduğunu söyledi .</sentence>
+<sentence num="2">Bu sonucun alınmasında başta parlamenterler olmak üzere emeği geçenlere teşekkür eden Yazıcıoğlu ,şunları kaydetti :''Biz zaten yıllardan bu yana bu kriterlerin oluşması için çalışıyorduk .</sentence>
+<sentence num="3">Ordulular olarak yıllardır hakkımızı istemiştik .</sentence>
+<sentence num="4">Bu hakkımızı teslim eden başta hükümetimiz olmak üzere emeği geçen herkese teşekkür ediyoruz .''</sentence>
+<sentence num="5">Ordu Belediye Başkanı Seyit Torun da bu aşamadan sonra Ordu Üniversitesi'nin şeklinin belirlenmesi gerektiğini belirterek ,'Hükümete teşekkür ediyoruz .</sentence>
+<sentence num="6">Biz bundan sonra çok daha fazla çalışarak gerekenleri yerine getirmeye gayret göstereceğiz ''dedi .</sentence>
+<sentence num="7">YÖK Basın ve Halkla İlişkiler Müşavirliği'nden yapılan açıklamada ,üniversite kurulması öngörülen 15 ilden ,kurulca belirlenen kriterlerden biri olan asgari 7 kadrolu profesörü bulundurma şartını sağlayan Tekirdağ ,Düzce ,Uşak ve Ordu'da üniversite kurulabileceğine karar verildiği bildirilmişti .</sentence>
+</doc>
+<doc>
+<id>191524</id>
+<sentence num="0">2005 11 30 18 :10 :00 .Çelik :YÖK'ün açıklaması yeni değil .</sentence>
+<sentence num="1">Çelik ,yaptığı açıklamada ,15 ilde yeni üniversite kurulmasına ilişkin tasarıyı YÖK'e göndererek görüş istediklerini ,YÖK'ün de ''4 ilde üniversite kurulabilir ,8 ilde şu kadar profesör olması lazım ,3 ilde de şunlar olması lazım ''şeklinde görüş bildirdiklerini söyledi .</sentence>
+<sentence num="2">YÖK'ün görüşünün kendilerine yeni gelmediğini belirten Çelik ,''Bugün YÖK tarafından yapılan açıklama ,yeni değil ,daha önce bildirilmişti .</sentence>
+<sentence num="3">15 üniversiteyle ilgili görüşünü bize yeni bildirmedi ''dedi .</sentence>
+<sentence num="4">Yasaya göre YÖK'ün görüşü veya teklifinin alınması gerektiğini kaydeden Çelik ,''YÖK'ün görüşü 'illa olumlu olur 'şeklinde yasada bir hüküm yok ,böyle bir anlam çıkmaz .</sentence>
+<sentence num="5">Kaldı ki YÖK'ün belirttiği öğretim üyesi meselesini de biz bu üniversiteleri kurarken kadrolarıyla birlikte kuruyoruz .</sentence>
+<sentence num="6">Sonuçta o kadroyu vereceğiz ''diye konuştu .</sentence>
+<sentence num="7">Yurtdışına gönderilecek bin öğrencinin ağırlıklı olarak yeni açılacak üniversiteler için olduğunu ifade eden Çelik ,şöyle devam etti :''Zaten bu yeni kuracağımız üniversitelerin şu anda öğretim üyesi ,öğrencisi ,kampusu var .</sentence>
+<sentence num="8">Oralarda ,eğitim ve öğretime devam ediliyor .</sentence>
+<sentence num="9">Çorum'da ,Kırşehir'de ,Uşak'ta ...</sentence>
+<sentence num="10">Zaten buralarda üniversite kursanız da kurmazsanız da oradaki fakülteler ,eğitim öğretim yapıyorlar ,mezun veriyorlar ,diploma veriyorlar .</sentence>
+<sentence num="11">Her biri birer üniversiteye bağlı olarak eğitim veriyorlar .</sentence>
+<sentence num="12">Üniversite kurmamız halinde ,oralardaki fakülteler ,yüksekokullar ,meslek yüksekokullarını kurumsal bir çatı altında toplayacağız .</sentence>
+<sentence num="13">Ekstra kadro vereceğiz ,gelişimlerini buna göre sürdürecekler .''</sentence>
+<sentence num="14">ALTIKULAÇ'IN SÖZLERİ TBMM Milli Eğitim ,Kültür ,Gençlik ve Spor Komisyonu Başkanı Tayyar Altıkulaç da AA muhabirine ,15 ilde üniversite kurulmasını öngören tasarının yarın komisyonda ele alınacağını ,görüşmelere YÖK'ün temsilcisinin gelmesi halinde tasarıyla ilgili görüşlerini alabileceklerini ifade etti .</sentence>
+</doc>
+<doc>
+<id>191549</id>
+<sentence num="0">2005 11 30 19 :01 :00 .YÖK'ten rektör atanma şekline itiraz .</sentence>
+<sentence num="1">Çelik ,YÖK'ün itirazının yeni olmadığını söyledi 15 yeni üniversite kurulmasına kısmen onay veren YÖK ,şimdi bu üniversitelerin rektörlerinin atanması ile ilgili çekincesini dile getirdi .</sentence>
+<sentence num="2">YÖK'ten yapılan yazılı açıklamada ,rektörlerin Milli Eğitim Bakanı ve Başbakan'ın önereceği isimler arasından değil ,üniversitelerde yapılacak seçim sonrası YÖK'ün Çankaya Köşü'ne göndereceği isimler arasından belirlenmesi istendi .</sentence>
+<sentence num="3">15 yeni üniversitenin kurulması ile ilgili hükümete bildirdiği görüşte ,'önce bazı kriterler karşılanmalı ilk aşamada sadece dört ilde üniversite kurulabilir 'diyen YÖK şimdi yeni kurulacak üniversitelere atanacak rektörler konusunda izlenecek yola da itiraz etti .</sentence>
+<sentence num="4">YÖK'ün ilk aşamada dört ilde üniversite kurulabilir görüşüne rağmen hükümetin Meclis'e gönderdiği tasarıda 15 ilde üniversite açılması ,rektörlerin de Milli Eğitim Bakanı ve Başbakan'ın önereceği üç isim arasından Cumhurbaşkanı tarafından atanması öngörülüyor .</sentence>
+<sentence num="5">Tasarı henüz Meclis'te ele alınmamasına rağmen ,YÖK yazılı açıklama yaparak yeni üniversitelere yapılacak rektör atamalarının mevzuata uygun olmasını istedi .</sentence>
+<sentence num="6">YÖK'ün açıklamasında ,'her ne kadar 1922 yılında kurulan 22 üniversite rektörünün geçici madde ile istisnai yol izlenerek Milli Eğitim Bakanı ve Başbakan'ın önerdiği üç isim arasından Cumhurbaşkanı'nca atanması öngörülmüşse de bu kez mevzuata uygun yapılması geçmişte yaşanan ve bunların yol açtığı siyasi endişelerden uzak kalabilmenin teminatı olacaktır denildi .'</sentence>
+<sentence num="7">Siyasi endişelere neden olur 'diyen YÖK ,aslında Rektörler Komitesi ve Üniversitelerarası Kurul'da hükümetin ağırlıklı konuma geçmesinden endişe ediyor .</sentence>
+<sentence num="8">YÖK mevzuata uyulmasını isterken de ,yeni kurulacak üniversitelerde rektörün öğretim üyelerince seçilecek ve YÖK'ün Köşk'e ileteceği isimler arasından atanması kastediliyor .</sentence>
+<sentence num="9">Çünkü YÖK'e göre bazı fakültelerin birleştirilmesi ile kurulacak yeni üniversitelerde seçime gidecek öğretim üyesi de var .</sentence>
+<sentence num="10">Ama yasa üniversitenin yeni kurulacağını gözönünde bulundurarak ,seçim yapılacak bir kurumun da yeni oluşturulacağını düşünerek atamayı hükümetin önerisi Cmhurbaşkanı'nın onayı ile yapmayı uygun görüyor .</sentence>
+<sentence num="11">Hükümet de yasaya uymayı planlıyor .</sentence>
+<sentence num="12">Çelik :YÖK'ün bu görüşü yeni değil Milli Eğitim Bakanı Hüseyin Çelik de ,15 ile yeni üniversite kurulmasına ilişkin olarak ,''biz bu üniversiteleri kurarken ,kadrolarıyla birlikte kuruyoruz ''dedi .</sentence>
+<sentence num="13">Çelik ,15 ilde yeni üniversite kurulmasına ilişkin tasarıyı YÖK'e göndererek görüş istediklerini ,YÖK'ün de '4 ilde üniversite kurulabilir ,8 ilde şu kadar profesör olması lazım ,3 ilde de şunlar olması lazım 'şeklinde görüş bildirdiğini söyledi .</sentence>
+<sentence num="14">YÖK'ün görüşünün kendilerine yeni gelmediğini belirten Çelik ,''bugün YÖK tarafından yapılan açıklama ,yeni değil ,daha önce bildirilmişti .</sentence>
+<sentence num="15">15 üniversiteyle ilgili görüşünü bize yeni bildirmedi ''dedi .</sentence>
+<sentence num="16">TBMM Milli Eğitim ,Kültür ,Gençlik ve Spor Komisyonu Başkanı Tayyar Altıkulaç da ,15 ilde üniversite kurulmasını öngören tasarının yarın komisyonda ele alınacağını ,görüşmelere YÖK'ün temsilcisinin gelmesi halinde tasarıyla ilgili görüşlerini alabileceklerini ifade etti .</sentence>
+</doc>
+<doc>
+<id>191854</id>
+<sentence num="0">2005 12 01 11 :44 :00 .15 yeni üniversite kurulmasına ilişkin tasarı görüşülüyor .</sentence>
+<sentence num="1">15 yeni üniversite kurulmasına ilişkin tasarı görüşülüyor Milli Eğitim Bakanı Hüseyin Çelik ,tabela üniversitesi kurmanın Türkiye'ye bir faydası olmayacağının bilincinde olduklarını belirterek ,''Üniversite kurulacak 15 ili ,tamamen objektif kriterlere göre belirledik ''dedi .</sentence>
+<sentence num="2">TBMM Milli Eğitim ,Kültür ,Gençlik ve Spor Komisyonu'nda ,15 ilde yeni üniversite kurulmasına ilişkin kanun tasarısının görüşmeleri başladı .</sentence>
+<sentence num="3">Milli Eğitim Bakanı Çelik ,tasarıyı sunarken ,Cumhuriyet kurulduğunda sadece bir üniversite bulunduğunu hatırlatarak ,''Bugün 76 üniversite var .</sentence>
+<sentence num="4">Bu da Cumhuriyetimizin başarısıdır ''diye konuştu .</sentence>
+<sentence num="5">TBMM'den ,1992 yılında da 22 üniversite kurulmasına ilişkin yasa çıktığını hatırlatan Çelik ,yaklaşık 10 yıldır Türkiye'de üniversite kurulmadığını söyledi .</sentence>
+<sentence num="6">Mevcut üniversitelerin sayısının ve kontenjanlarının yetersiz kaldığını ifade eden Çelik ,her yıl 1 .5 2 milyon lise mezunu gencin ,üniversite için başvurduğunu anlattı .</sentence>
+<sentence num="7">Türkiye'de 24 vakıf üniversitesi bulunduğunu kaydeden Çelik ,bu üniversitelerin sayılarının fazla gibi gözükmesine rağmen üniversite öğrencilerinin sadece yüzde 4 .5'ini barındırdığını ifade etti .</sentence>
+<sentence num="8">Çelik ,her yıl Türkiye'den binlerce öğrencinin yükseköğrenim için yurtdışına gittiğini bildirerek ,yurtdışında yaklaşık 70 bin Türk öğrenci bulunduğunu ,bunlardan 20 bininin KKTC ,15 binin ise ABD'de öğrenim gördüğünü söyledi .</sentence>
+<sentence num="9">Sekizinci 5 Yıllık Kalkınma Planı'nda ,yükseköğretimde okullaşma oranının yüzde 37 .3 olarak hedeflendiğini hatırlatan Çelik ,bu hedefe ulaşılamadığını ,yükseköğretimde okullaşma oranının yüzde 20'de kaldığını ifade etti .</sentence>
+</doc>
+<doc>
+<id>191862</id>
+<sentence num="0">2005 12 01 11 :50 :00 .Çelik :41 il üniversite istiyor ,biz 15'ine kuruyoruz .</sentence>
+<sentence num="1">Milli Eğitim Bakanı Hüseyin Çelik ,tabela üniversitesi kurmanın Türkiye'ye bir faydası olmayacağının bilincinde olduklarını belirterek ,Üniversite kurulacak 15 ili ,tamamen objektif kriterlere göre belirledik dedi .</sentence>
+<sentence num="2">TBMM Milli Eğitim ,Kültür ,Gençlik ve Spor Komisyonu'nda ,15 ilde yeni üniversite kurulmasına ilişkin kanun tasarısının görüşmeleri başladı .</sentence>
+<sentence num="3">Milli Eğitim Bakanı Çelik ,tasarıyı sunarken ,Cumhuriyet kurulduğunda sadece bir üniversite bulunduğunu hatırlatarak ,Bugün 76 üniversite var .</sentence>
+<sentence num="4">Bu da Cumhuriyetimizin başarısıdır diye konuştu .</sentence>
+<sentence num="5">TBMM'den ,1992 yılında da 22 üniversite kurulmasına ilişkin yasa çıktığını hatırlatan Çelik ,yaklaşık 10 yıldır Türkiye'de üniversite kurulmadığını söyledi .</sentence>
+<sentence num="6">Mevcut üniversitelerin sayısının ve kontenjanlarının yetersiz kaldığını ifade eden Çelik ,her yıl 1 .5 2 milyon lise mezunu gencin ,üniversite için başvurduğunu anlattı .</sentence>
+<sentence num="7">Türkiye'de 24 vakıf üniversitesi bulunduğunu kaydeden Çelik ,bu üniversitelerin sayılarının fazla gibi gözükmesine rağmen üniversite öğrencilerinin sadece yüzde 4 .5'ini barındırdığını ifade etti .</sentence>
+<sentence num="8">Çelik ,her yıl Türkiye'den binlerce öğrencinin yükseköğrenim için yurtdışına gittiğini bildirerek ,yurtdışında yaklaşık 70 bin Türk öğrenci bulunduğunu ,bunlardan 20 bininin KKTC ,15 binin ise ABD'de öğrenim gördüğünü söyledi .</sentence>
+<sentence num="9">Sekizinci 5 Yıllık Kalkınma Planı'nda ,yükseköğretimde okullaşma oranının yüzde 37 .3 olarak hedeflendiğini hatırlatan Çelik ,bu hedefe ulaşılamadığını ,yükseköğretimde okullaşma oranının yüzde 20'de kaldığını ifade etti .</sentence>
+<sentence num="10">OBJEKTİF KRİTERLER Bakan Çelik ,tasarı hazırlanırken ,üniversite kurulacak illerin objektif kriterlere göre belirlendiğini söyledi .</sentence>
+<sentence num="11">Çelik ,illerin bazı kriterlere göre puanlandığını anlatarak ,(İlde kaç fakülte veya yüksekokul var ?</sentence>
+<sentence num="12">Yurt kapasitesi kaç kişilik ?</sentence>
+<sentence num="13">Öğretim elemanı sayısı nedir ?</sentence>
+<sentence num="14">Bunlardan kaçı öğretim üyesi ?</sentence>
+<sentence num="15">Öğrenci potansiyeli nedir ?)</sentence>
+<sentence num="16">Gibi kriterleri uyguladık dedi .</sentence>
+<sentence num="17">TABELA ÜNİVERSİTESİ Bakan Çelik ,yeni kurulacak üniversitelere kadro tahsisi yapıldığını da hatırlatarak ,bu üniversitelerin zaman içinde kendilerini geliştireceklerini söyledi .</sentence>
+<sentence num="18">Çelik ,Tabela üniversitelerinin Türkiye'ye bir faydası olmaz .</sentence>
+<sentence num="19">Bunun bilincindeyiz .</sentence>
+<sentence num="20">Bu illere üniversite kursak da kurmasak da oralardaki fakültelerde eğitim devam ediyor diye konuştu .</sentence>
+<sentence num="21">NİTELİKLİ İŞGÜCÜ Üniversite mezunları zaten iş bulamıyor .</sentence>
+<sentence num="22">İşsiz sayısı artacak şeklinde eleştiriler bulunduğunu hatırlatan Çelik ,küreselleşen dünyada üniversite mezunlarının her yerde iş bulabileceğini söyledi .</sentence>
+<sentence num="23">Çelik ,AB ülkelerinin de nitelikli iş gücüne kapılarını açtığını hatırlatarak ,Genç nüfusumuz ,en değerli hazinemizdir dedi .</sentence>
+<sentence num="24">Çelik ,dünyanın hiçbir yerinde üniversite mezunlarının tamamının kamuda istihdam edildiği bir model bulunmadığını belirterek ,Türkiye'de öğretim üyesi sayısının da rasyonel dağılmadığını kaydetti .</sentence>
+<sentence num="25">ÖĞRETİM ÜYELERİ Türkiye'de 16 bin 445 öğretim üyesi (profesör ve doçent )bulunduğunu bildiren Çelik ,bunlardan 10 bin 95'inin İstanbul ,Ankara ve İzmir'de görev yaptığını söyledi .</sentence>
+<sentence num="26">Çelik ŞUNLARI SÖYLEDİ :Üniversitelerimizde 1 milyon 941 bin öğrenci var .</sentence>
+<sentence num="27">Bu üç büyük ildeki öğrenci sayısı ise 428 bin .</sentence>
+<sentence num="28">428 bin öğrenciye 10 bin 95 öğretim üyesi düşerken ,geri kalan 1 .5 milyon öğrenci 6 bin 340 öğretim üyesinden ders alıyor .</sentence>
+<sentence num="29">İktidarıyla muhalefetiyle bu yaraya neşter vurmalıyız .</sentence>
+<sentence num="30">Çelik ,büyük şehirlerdeki bazı üniversitelerde öğretim üyelerinin hiç ders vermediğini de iddia etti .</sentence>
+<sentence num="31">YURTDIŞINA 1000 ÖĞRENCİ Bakan Çelik ,Türkiye'nin en başarısız olduğu konulardan birinin de öğretim üyesi yetiştirilmesi olduğunu ifade ederek ,yurtdışına lisansüstü eğitim için 1000 öğrenci gönderme kararı aldıklarını açıkladı .</sentence>
+<sentence num="32">Çelik ,bu öğrencilerin yurda dönüşlerinde ,yeni kurulacak üniversitelerde görev alacağını söyledi .</sentence>
+<sentence num="33">Üniversite kurmanın ,iktidar için de muhalefet için de zor olduğunu anlatan Çelik ,41 il üniversite istiyor ,biz 15'inde kuruyoruz .</sentence>
+<sentence num="34">Zor olacak ama bir seçim yaparken duygusal değil ,objektif kriterleri esas aldık diye konuştu .</sentence>
+</doc>
+<doc>
+<id>191883</id>
+<sentence num="0">2005 12 01 12 :06 :00 .'Yeni Üniversite meclisi ilgilendirir '.</sentence>
+<sentence num="1">Başbakan Tayyip Erdoğan ,yeni üniversite açılması konusunda Yükseköğretim Kurulu (YÖK )'nun iznine gerek olmadığını söyledi Hükümetin kurulmasını kararlaştırdığı 15 üniversiteden sadece 4 tanesine onay verdiği hatırlatması üzerine Başbakan Erdoğan ,YÖK'ün izin verme yetkisi yok .</sentence>
+<sentence num="2">Meclis'le alakalı bir olay .</sentence>
+<sentence num="3">dedi .</sentence>
+<sentence num="4">Başbakan Erdoğan ,dün Düzce'de doğalgaz verilmesi ve Toplu Konut İdaresi (TOKİ )tarafından yaptırılan 558 konutun anahtar teslimi için düzenlenen ortak törene katıldı .</sentence>
+<sentence num="5">Konuşmasında ekonomideki gelişmeleri anlatan Erdoğan ,enflasyondaki düşüşü ekmek hesabıyla anlattı .</sentence>
+<sentence num="6">Yüzde 34'teki enflasyonu yüzde 8'lere çektiklerini belirten Erdoğan ,kadınlara seslendi :3 sene önce aynı parayla kaç ekmek alıyordun ,şimdi kaç ekmek alıyorsun ?</sentence>
+<sentence num="7">Az alıyorsan ,bana bedduanı yap ,çok alıyorsan duanı yap .''</sentence>
+<sentence num="8">Sağlıkla ilgili çalışmalara da değinen Başbakan Erdoğan ,Sağlıkta Dönüşüm programıyla 'aile hekimliği sistemi'ni getirdiklerini hatırlattı .</sentence>
+<sentence num="9">20 yıldır hep vaatlerde kalan bu uygulamaya ilk olarak Düzce'de başlandığını kaydeden Erdoğan ,şöyle devam etti :Sizin sağlığınızdan sorumlu bir doktorunuz var .</sentence>
+<sentence num="10">Doktorunuzu arayın ,bulun ,ona ulaşın .</sentence>
+<sentence num="11">Diyoruz ki ,doktorum ,hemşirem ;vatandaşımın sağlığı sana emanet .</sentence>
+<sentence num="12">Onun tedavisinden ,korunmasından sen sorumlusun .</sentence>
+<sentence num="13">Vatandaşımıza da diyoruz ki ,hastalandığın zaman git ,senin sağlığından birinci dereceden sorumlu doktoru bul ,beklemeden tedavini yaptır .</sentence>
+<sentence num="14">Gidin ,doktorunuzla ,hemşirenizle tanışın .</sentence>
+<sentence num="15">Ülkemizde ilk olarak Düzceliye sağladığımız bu hizmetten faydalanın ..</sentence>
+</doc>
+<doc>
+<id>191895</id>
+<sentence num="0">2005 12 01 12 :17 :00 .15 yeni üniversite tasarısı Meclis'te .</sentence>
+<sentence num="1">Çelik tabela üniversitelerin hiçbir faydasının olmadığını söyledi TBMM Milli Eğitim Komisyonu'nda 15 ilde yeni üniversite kurulmasına ilişkin kanun tasarısının görüşmeleri başladı .</sentence>
+<sentence num="2">Milli Eğitim Bakanı Hüseyin Çelik ,tabela üniversitesi kurmanın Türkiye'ye bir faydası olmayacağının bilincinde olduklarını belirterek ,''üniversite kurulacak 15 ili ,tamamen objektif kriterlere göre belirledik ''dedi .</sentence>
+<sentence num="3">Çelik tasarıyı sunarken ,Cumhuriyet kurulduğunda sadece bir üniversite bulunduğunu hatırlatarak ,''bugün 76 üniversite var .</sentence>
+<sentence num="4">Bu da Cumhuriyetimizin başarısıdır ''diye konuştu .</sentence>
+<sentence num="5">Mevcut üniversitelerin sayısının ve kontenjanlarının yetersiz kaldığını ,TBMM'den 1992 yılında da 22 üniversite kurulmasına ilişkin yasa çıktığını kaydeden Çelik ,yaklaşık 10 yıldır Türkiye'de üniversite kurulmadığını söyledi .</sentence>
+<sentence num="6">Türkiye'de 24 vakıf üniversitesi bulunduğunu kaydeden Çelik ,bu üniversitelerin sayılarının fazla gibi gözükmesine rağmen üniversite öğrencilerinin sadece yüzde 4 .5'ini barındırdığını ifade etti .</sentence>
+<sentence num="7">Çelik ,her yıl Türkiye'den binlerce öğrencinin yükseköğrenim için yurtdışına gittiğini belirterek ,yurtdışında yaklaşık 70 bin Türk öğrenci bulunduğunu ,bunlardan 20 bininin KKTC ,15 binin ise ABD'de öğrenim gördüğünü söyledi .</sentence>
+<sentence num="8">Sekizinci Beş Yıllık Kalkınma Planı'nda ,yükseköğretimde okullaşma oranının yüzde 37 .3 olarak hedeflendiğini hatırlatan Çelik ,yükseköğretimde okullaşma oranının yüzde 20'de kaldığını ifade etti .</sentence>
+<sentence num="9">Bakan Çelik tasarı hazırlanırken dikkate aldıkları kriterlerden bazılarını da şöyle sıraladı :İlde kaç fakülte veya yüksekokul var ?</sentence>
+<sentence num="10">Yurt kapasitesi kaç kişilik ?</sentence>
+<sentence num="11">Öğretim elemanı sayısı nedir ?</sentence>
+<sentence num="12">Bunlardan kaçı öğretim üyesi ?</sentence>
+<sentence num="13">Öğrenci potansiyeli nedir ?</sentence>
+<sentence num="14">Tabela üniversitelerinin faydası yok Bakan Çelik ,yeni kurulacak üniversitelere kadro tahsisi yapıldığını da hatırlatarak ,bu üniversitelerin zaman içinde kendilerini geliştireceklerini söyledi .</sentence>
+<sentence num="15">Çelik ,''tabela üniversitelerinin Türkiye'ye bir faydası olmaz .</sentence>
+<sentence num="16">Bunun bilincindeyiz .</sentence>
+<sentence num="17">Bu illere üniversite kursak da kurmasak da oralardaki fakültelerde eğitim devam ediyor ''diye konuştu .</sentence>
+<sentence num="18">Çelik ,dünyanın hiçbir yerinde üniversite mezunlarının tamamının kamuda istihdam edildiği bir model bulunmadığını belirterek ,Türkiye'de öğretim üyesi sayısının da rasyonel dağılmadığını kaydetti .</sentence>
+<sentence num="19">Türkiye'de 16 bin 445 öğretim üyesi (profesör ve doçent )bulunduğunu ifade eden Çelik ,bunlardan 10 bin 95'inin İstanbul ,Ankara ve İzmir'de görev yaptığını söyledi .</sentence>
+<sentence num="20">Çelik'in bu konuda dikkat çektiği diğer noktalar şöyle :Üniversitelerde 1 milyon 941 bin öğrenci var Üç büyük ildeki öğrenci sayısı 428 bin Üç büyük ildeki 428 bin öğrenciye 10 bin 95 öğretim üyesi düşüyor Diğer illerdeki 1 .5 milyon öğrenci 6 bin 340 öğretim üyesinden ders alıyor Çelik ,büyük şehirlerdeki bazı üniversitelerde öğretim üyelerinin hiç ders vermediğini de iddia etti .</sentence>
+<sentence num="21">Yurtdışına bin öğrenci gönderilecek Bakan Çelik ,Türkiye'nin en başarısız olduğu konulardan birinin de öğretim üyesi yetiştirilmesi olduğunu ifade ederek ,yurtdışına lisansüstü eğitim için bin öğrenci gönderme kararı aldıklarını açıkladı .</sentence>
+<sentence num="22">Çelik ,bu öğrencilerin Türkiye'ye dönüşlerinde yeni kurulacak üniversitelerde görev alacağını söyledi .</sentence>
+</doc>
+<doc>
+<id>191989</id>
+<sentence num="0">2005 12 01 14 :16 :00 .Çelik :Tabela üniversitesi olmayacak .</sentence>
+<sentence num="1">TBMM Milli Eğitim ,Kültür ,Gençlik ve Spor Komisyonu'nda ,15 ilde yeni üniversite kurulmasına ilişkin kanun tasarısının görüşmeleri başladı .</sentence>
+<sentence num="2">Milli Eğitim Bakanı Çelik ,tasarıyı sunarken ,Cumhuriyet kurulduğunda sadece bir üniversite bulunduğunu hatırlatarak ,Bugün 76 üniversite var .</sentence>
+<sentence num="3">Bu da Cumhuriyetimizin başarısıdır diye konuştu .</sentence>
+<sentence num="4">TBMM'den ,1992 yılında da 22 üniversite kurulmasına ilişkin yasa çıktığını hatırlatan Çelik ,yaklaşık 10 yıldır Türkiye'de üniversite kurulmadığını söyledi .</sentence>
+<sentence num="5">Mevcut üniversitelerin sayısının ve kontenjanlarının yetersiz kaldığını ifade eden Çelik ,her yıl 1 .5 2 milyon lise mezunu gencin ,üniversite için başvurduğunu anlattı .</sentence>
+<sentence num="6">Türkiye'de 24 vakıf üniversitesi bulunduğunu kaydeden Çelik ,bu üniversitelerin sayılarının fazla gibi gözükmesine rağmen üniversite öğrencilerinin sadece yüzde 4 .5'ini barındırdığını ifade etti .</sentence>
+<sentence num="7">Çelik ,her yıl Türkiye'den binlerce öğrencinin yükseköğrenim için yurtdışına gittiğini bildirerek ,yurtdışında yaklaşık 70 bin Türk öğrenci bulunduğunu ,bunlardan 20 bininin KKTC ,15 binin ise ABD'de öğrenim gördüğünü söyledi .</sentence>
+<sentence num="8">Sekizinci 5 Yıllık Kalkınma Planı'nda ,yükseköğretimde okullaşma oranının yüzde 37 .3 olarak hedeflendiğini hatırlatan Çelik ,bu hedefe ulaşılamadığını ,yükseköğretimde okullaşma oranının yüzde 20'de kaldığını ifade etti .</sentence>
+<sentence num="9">OBJEKTİF KRİTERLER Bakan Çelik ,tasarı hazırlanırken ,üniversite kurulacak illerin objektif kriterlere göre belirlendiğini söyledi .</sentence>
+<sentence num="10">Çelik ,illerin bazı kriterlere göre puanlandığını anlatarak ,(İlde kaç fakülte veya yüksekokul var ?</sentence>
+<sentence num="11">Yurt kapasitesi kaç kişilik ?</sentence>
+<sentence num="12">Öğretim elemanı sayısı nedir ?</sentence>
+<sentence num="13">Bunlardan kaçı öğretim üyesi ?</sentence>
+<sentence num="14">Öğrenci potansiyeli nedir ?)</sentence>
+<sentence num="15">Gibi kriterleri uyguladık dedi .</sentence>
+<sentence num="16">TABELA ÜNİVERSİTESİ Bakan Çelik ,yeni kurulacak üniversitelere kadro tahsisi yapıldığını da hatırlatarak ,bu üniversitelerin zaman içinde kendilerini geliştireceklerini söyledi .</sentence>
+<sentence num="17">Çelik ,Tabela üniversitelerinin Türkiye'ye bir faydası olmaz .</sentence>
+<sentence num="18">Bunun bilincindeyiz .</sentence>
+<sentence num="19">Bu illere üniversite kursak da kurmasak da oralardaki fakültelerde eğitim devam ediyor diye konuştu .</sentence>
+<sentence num="20">NİTELİKLİ İŞGÜCÜ Üniversite mezunları zaten iş bulamıyor .</sentence>
+<sentence num="21">İşsiz sayısı artacak şeklinde eleştiriler bulunduğunu hatırlatan Çelik ,küreselleşen dünyada üniversite mezunlarının her yerde iş bulabileceğini söyledi .</sentence>
+<sentence num="22">Çelik ,AB ülkelerinin de nitelikli iş gücüne kapılarını açtığını hatırlatarak ,Genç nüfusumuz ,en değerli hazinemizdir dedi .</sentence>
+<sentence num="23">Çelik ,dünyanın hiçbir yerinde üniversite mezunlarının tamamının kamuda istihdam edildiği bir model bulunmadığını belirterek ,Türkiye'de öğretim üyesi sayısının da rasyonel dağılmadığını kaydetti .</sentence>
+<sentence num="24">ÖĞRETİM ÜYELERİ Türkiye'de 16 bin 445 öğretim üyesi (profesör ve doçent )bulunduğunu bildiren Çelik ,bunlardan 10 bin 95'inin İstanbul ,Ankara ve İzmir'de görev yaptığını söyledi .</sentence>
+<sentence num="25">Çelik ŞUNLARI SÖYLEDİ :Üniversitelerimizde 1 milyon 941 bin öğrenci var .</sentence>
+<sentence num="26">Bu üç büyük ildeki öğrenci sayısı ise 428 bin .</sentence>
+<sentence num="27">428 bin öğrenciye 10 bin 95 öğretim üyesi düşerken ,geri kalan 1 .5 milyon öğrenci 6 bin 340 öğretim üyesinden ders alıyor .</sentence>
+<sentence num="28">İktidarıyla muhalefetiyle bu yaraya neşter vurmalıyız .</sentence>
+<sentence num="29">Çelik ,büyük şehirlerdeki bazı üniversitelerde öğretim üyelerinin hiç ders vermediğini de iddia etti .</sentence>
+<sentence num="30">YURTDIŞINA 1000 ÖĞRENCİ Bakan Çelik ,Türkiye'nin en başarısız olduğu konulardan birinin de öğretim üyesi yetiştirilmesi olduğunu ifade ederek ,yurtdışına lisansüstü eğitim için 1000 öğrenci gönderme kararı aldıklarını açıkladı .</sentence>
+<sentence num="31">Çelik ,bu öğrencilerin yurda dönüşlerinde ,yeni kurulacak üniversitelerde görev alacağını söyledi .</sentence>
+<sentence num="32">Üniversite kurmanın ,iktidar için de muhalefet için de zor olduğunu anlatan Çelik ,41 il üniversite istiyor ,biz 15'inde kuruyoruz .</sentence>
+<sentence num="33">Zor olacak ama bir seçim yaparken duygusal değil ,objektif kriterleri esas aldık diye konuştu .</sentence>
+</doc>
+<doc>
+<id>192109</id>
+<sentence num="0">2005 12 01 16 :15 :00 .15 ilde üniversite kurulmasına ilişkin tasarı kabul edildi .</sentence>
+<sentence num="1">15 ilde üniversite kurulmasına ilişkin tasarı kabul edildi TBMM Milli Eğitim ,Kültür ,Gençlik ve Spor Komisyonu ,bazı illere 15 yeni üniversite kurulmasına ilişkin kanun tasarısını kabul etti .</sentence>
+<sentence num="2">Tasarı üzerinde verilen önergelerle bazı üniversitelerin adı değiştirilerek kabul edildi .</sentence>
+<sentence num="3">Komisyonun benimsediği tasarı ile kurulması öngörülen yeni üniversiteler şunlar :Kırşehir Ahi Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Bozok Üniversitesi (Yozgat ),Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="4">Yeni kurulan üniversitelere ,önergelerle yeni fakülteler ve meslek yüksekokulları eklenirken ,vakıf üniversitelerinin ita amirinin mütevelli heyeti başkanı olmasını öngören değişiklik önergesi de kabul edildi .</sentence>
+</doc>
+<doc>
+<id>192113</id>
+<sentence num="0">2005 12 01 16 :20 :00 .15 ilde üniversite kurulması tasarısı Komisyon'da kabul edildi .</sentence>
+<sentence num="1">TBMM Milli Eğitim ,Kültür ,Gençlik ve Spor Komisyonu ,bazı illere 15 yeni üniversite kurulmasına ilişkin kanun tasarısını kabul etti .</sentence>
+<sentence num="2">Tasarı üzerinde verilen önergelerle bazı üniversitelerin adı değiştirilerek kabul edildi .</sentence>
+<sentence num="3">Komisyonun benimsediği tasarı ile kurulması öngörülen yeni üniversiteler şunlar :Kırşehir Ahi Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Bozok Üniversitesi (Yozgat ),Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="4">Yeni kurulan üniversitelere ,önergelerle yeni fakülteler ve meslek yüksekokulları eklenirken ,vakıf üniversitelerinin ita amirinin mütevelli heyeti başkanı olmasını öngören değişiklik önergesi de kabul edildi .</sentence>
+<sentence num="5">ÖĞRETMENLER TOPLU HALDE DÖVÜLDÜ Tasarı üzerinde konuşan CHP Kırşehir Milletvekili Hüseyin Bayındır ,24 Kasım Öğretmenler Günü'nde öğretmenlerin toplu halde dövüldüğünü öne sürerek ,bu günün adının değiştirilmesini istedi .</sentence>
+<sentence num="6">AK Parti Konya Milletvekili Sami Güçlü de üniversitelerin yeniden yapılandırılması gerektiğini belirterek ,üniversitelerimiz ,toplumun sorunlarına çözüm getirmek yerine başka kuruluşlar için hazırladıkları raporlarla gündeme geldi dedi .</sentence>
+<sentence num="7">CUMHURİYETİ DEVLET ,HÜKÜMET ,MECLİS KORUR AK Parti Manisa Milletvekili Osman Çerçi ,YÖK'ü eleştirerek ,YÖK'ün görevi Cumhuriyet'i korumak değil ,Cumhuriyet'i devlet ,hükümet ,Meclis korur dedi .</sentence>
+<sentence num="8">Çerçi ,YÖK Başkanı'nın ,Başbakan'ın her sözüne siyasi parti lideri gibi laf yetiştirdiğini ileri sürerek ,YÖK Başkanı Prof .Dr .Erdoğan Teziç'in Meclis'e gelmemesini de eleştirdi .</sentence>
+<sentence num="9">AK Parti'li Çerçi ,eşinin başörtülü olduğu ve inançları yüzünden üniversiteden atıldığını da iddia ederek ,YÖK'ün yeniden yapılandırılmasını istedi .</sentence>
+<sentence num="10">Milli Eğitim Bakanı Hüseyin Çelik de milletvekillerinin eleştirilerini yanıtlarken ,meslek yüksekokullarının ıslah edilmesi gerektiğini söyledi .</sentence>
+<sentence num="11">İktidarları döneminde öğrenci başına düşen harcama miktarını artırdıklarını kaydeden Çelik ,CHP milletvekillerinin itiraz etmeleri üzerine ,arkadaşlar ,bu araştırmayı kabzımallar yapmıyor ki ...</sentence>
+<sentence num="12">Öğretim üyeleri yapıyor diye konuştu .</sentence>
+<sentence num="13">ÜNİVERSİTELERDE İSİM DEĞİŞİKLİĞİ Burdur Üniversitesi'nin adının Burdur Mehmet Akif Ersoy Üniversitesi olarak değiştirilmesine itiraz eden CHP Denizli Milletvekili Mustafa Gazalcı da İllerin adı değiştirilmemeli .</sentence>
+<sentence num="14">Fakir Baykurt da Burdurlu .</sentence>
+<sentence num="15">Onu nereye koyacağız ?</sentence>
+<sentence num="16">dedi .</sentence>
+<sentence num="17">CHP Yalova Milletvekili Muharrem İnce ise Rize Üniversitesi'nin adını Recep Tayyip Erdoğan ,Van Yüzüncü Yıl Üniversitesi'ni de Hüseyin Çelik olarak değiştirelim dedi .</sentence>
+<sentence num="18">ANAVATAN Afyonkarahisar milletvekili Reyhan Balandı'nın Yozgat Üniversitesi'nin adının Yozgat Bozok Erdoğan Akdağ Üniversitesi olarak değiştirilmesi yolundaki önergesi ise reddedildi .</sentence>
+<sentence num="19">İTA AMİRİ MÜTEVELLİ HEYETİ BAŞKANI OLACAK Daha sonra ,vakıf üniversitelerinde ita amirinin mütevelli heyeti başkanı olmasını öngören önerge kabul edildi .</sentence>
+<sentence num="20">YÖK Başkanvekili Prof .Dr .Aybar Ertepınar ise buna itiraz ederek ,bu durumda rektörler için üniversiteyi yönetmek zorlaşır dedi .</sentence>
+<sentence num="21">Milli Eğitim Bakanı Çelik de vakıf üniversitelerinin rektörlerinden bu yönde bir talep geldiğini bildirerek ,Sabancı Üniversitesi'nin mütevelli heyeti başkanı Sayın Güler Sabancı .</sentence>
+<sentence num="22">Mali konularda imza yetkisinin onda olmasından daha tabii ne olabilir ?</sentence>
+<sentence num="23">diye konuştu .</sentence>
+<sentence num="24">CHP VE YÖK'TEN İTİRAZ Bu arada yeni üniversitelerin kurucu rektörlerinin 2 yıl için Milli Eğitim Bakanı ve Başbakan'ın önereceği üç aday arasından Cumhurbaşkanı tarafından seçilmesini öngören maddeye CHP milletvekilleri ile YÖK Başkanvekili Pof .Dr .Ertepınar karşı çıktı .</sentence>
+<sentence num="25">Öte yandan ANAVATAN'lı Balandı ,önerecek kurumlar arasına YÖK'ün de eklenmesini öngören bir önerge verdi .</sentence>
+<sentence num="26">Önergenin reddedilmesi üzerine Balandı ,Bakan ve YÖK sürekli itişip kakışıyor .</sentence>
+<sentence num="27">Bari rektör atamasında bir araya gelsinler dedi .</sentence>
+<sentence num="28">Balandı'nın bu sözlerine tepki gösteren Milli Eğitim Bakanı Çelik ,Sayın Balandı ,YÖK temsilcisi yanımda oturuyor .</sentence>
+<sentence num="29">Hiç itişip kakışmıyoruz .</sentence>
+<sentence num="30">İtişip kakışma sözünü bir hanımefendiye yakıştıramadım dedi .</sentence>
+</doc>
+<doc>
+<id>192174</id>
+<sentence num="0">2005 12 01 17 :21 :00 .15 ile yeni üniversite kuruluyor .</sentence>
+<sentence num="1">Tasarı üzerinde verilen önergelerle bazı üniversitelerin adı değiştirilerek kabul edildi .</sentence>
+<sentence num="2">Komisyonun benimsediği tasarı ile kurulması öngörülen yeni üniversiteler şunlar :Kırşehir Ahi Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Bozok Üniversitesi (Yozgat ),Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="3">Yeni kurulan üniversitelere ,önergelerle yeni fakülteler ve meslek yüksekokulları eklenirken ,vakıf üniversitelerinin ita amirinin mütevelli heyeti başkanı olmasını öngören değişiklik önergesi de kabul edildi .</sentence>
+<sentence num="4">ÖĞRETMENLER TOPLU HALDE DÖVÜLDÜ Tasarı üzerinde konuşan CHP Kırşehir Milletvekili Hüseyin Bayındır ,24 Kasım Öğretmenler Günü'nde öğretmenlerin toplu halde dövüldüğünü öne sürerek ,bu günün adının değiştirilmesini istedi .</sentence>
+<sentence num="5">AK Parti Konya Milletvekili Sami Güçlü de üniversitelerin yeniden yapılandırılması gerektiğini belirterek ,üniversitelerimiz ,toplumun sorunlarına çözüm getirmek yerine başka kuruluşlar için hazırladıkları raporlarla gündeme geldi dedi .</sentence>
+<sentence num="6">CUMHURİYETİ DEVLET ,HÜKÜMET ,MECLİS KORUR AK Parti Manisa Milletvekili Osman Çerçi ,YÖK'ü eleştirerek ,YÖK'ün görevi Cumhuriyet'i korumak değil ,Cumhuriyet'i devlet ,hükümet ,Meclis korur dedi .</sentence>
+<sentence num="7">Çerçi ,YÖK Başkanı'nın ,Başbakan'ın her sözüne siyasi parti lideri gibi laf yetiştirdiğini ileri sürerek ,YÖK Başkanı Prof .Dr .Erdoğan Teziç'in Meclis'e gelmemesini de eleştirdi .</sentence>
+<sentence num="8">AK Parti'li Çerçi ,eşinin başörtülü olduğu ve inançları yüzünden üniversiteden atıldığını da iddia ederek ,YÖK'ün yeniden yapılandırılmasını istedi .</sentence>
+<sentence num="9">Milli Eğitim Bakanı Hüseyin Çelik de milletvekillerinin eleştirilerini yanıtlarken ,meslek yüksekokullarının ıslah edilmesi gerektiğini söyledi .</sentence>
+<sentence num="10">İktidarları döneminde öğrenci başına düşen harcama miktarını artırdıklarını kaydeden Çelik ,CHP milletvekillerinin itiraz etmeleri üzerine ,arkadaşlar ,bu araştırmayı kabzımallar yapmıyor ki ...</sentence>
+<sentence num="11">Öğretim üyeleri yapıyor diye konuştu .</sentence>
+<sentence num="12">ÜNİVERSİTELERDE İSİM DEĞİŞİKLİĞİ Burdur Üniversitesi'nin adının Burdur Mehmet Akif Ersoy Üniversitesi olarak değiştirilmesine itiraz eden CHP Denizli Milletvekili Mustafa Gazalcı da İllerin adı değiştirilmemeli .</sentence>
+<sentence num="13">Fakir Baykurt da Burdurlu .</sentence>
+<sentence num="14">Onu nereye koyacağız ?</sentence>
+<sentence num="15">dedi .</sentence>
+<sentence num="16">CHP Yalova Milletvekili Muharrem İnce ise Rize Üniversitesi'nin adını Recep Tayyip Erdoğan ,Van Yüzüncü Yıl Üniversitesi'ni de Hüseyin Çelik olarak değiştirelim dedi .</sentence>
+<sentence num="17">ANAVATAN Afyonkarahisar milletvekili Reyhan Balandı'nın Yozgat Üniversitesi'nin adının Yozgat Bozok Erdoğan Akdağ Üniversitesi olarak değiştirilmesi yolundaki önergesi ise reddedildi .</sentence>
+<sentence num="18">İTA AMİRİ MÜTEVELLİ HEYETİ BAŞKANI OLACAK Daha sonra ,vakıf üniversitelerinde ita amirinin mütevelli heyeti başkanı olmasını öngören önerge kabul edildi .</sentence>
+<sentence num="19">YÖK Başkanvekili Prof .Dr .Aybar Ertepınar ise buna itiraz ederek ,bu durumda rektörler için üniversiteyi yönetmek zorlaşır dedi .</sentence>
+<sentence num="20">Milli Eğitim Bakanı Çelik de vakıf üniversitelerinin rektörlerinden bu yönde bir talep geldiğini bildirerek ,Sabancı Üniversitesi'nin mütevelli heyeti başkanı Sayın Güler Sabancı .</sentence>
+<sentence num="21">Mali konularda imza yetkisinin onda olmasından daha tabii ne olabilir ?</sentence>
+<sentence num="22">diye konuştu .</sentence>
+<sentence num="23">CHP VE YÖK'TEN İTİRAZ Bu arada yeni üniversitelerin kurucu rektörlerinin 2 yıl için Milli Eğitim Bakanı ve Başbakan'ın önereceği üç aday arasından Cumhurbaşkanı tarafından seçilmesini öngören maddeye CHP milletvekilleri ile YÖK Başkanvekili Pof .Dr .Ertepınar karşı çıktı .</sentence>
+<sentence num="24">Öte yandan ANAVATAN'lı Balandı ,önerecek kurumlar arasına YÖK'ün de eklenmesini öngören bir önerge verdi .</sentence>
+<sentence num="25">Önergenin reddedilmesi üzerine Balandı ,Bakan ve YÖK sürekli itişip kakışıyor .</sentence>
+<sentence num="26">Bari rektör atamasında bir araya gelsinler dedi .</sentence>
+<sentence num="27">Balandı'nın bu sözlerine tepki gösteren Milli Eğitim Bakanı Çelik ,Sayın Balandı ,YÖK temsilcisi yanımda oturuyor .</sentence>
+<sentence num="28">Hiç itişip kakışmıyoruz .</sentence>
+<sentence num="29">İtişip kakışma sözünü bir hanımefendiye yakıştıramadım dedi .</sentence>
+</doc>
+<doc>
+<id>194248</id>
+<sentence num="0">2005 12 05 16 :45 :00 .15 yeni üniversite bütçeden önce .</sentence>
+<sentence num="1">AK Parti Grup Başkanvekili Eyüp Fatsa ,Başbakan Recep Tayyip Erdoğan'ın 11 günlük Yeni Zelanda ve Avustralya gezisiyle ilgili olarak ,''Bu gezilerin Türkiye'ye kazandırdığı artıları hep beraber görüyoruz .</sentence>
+<sentence num="2">Dış ülkelere gidiş gelişler neticesinde ,bu gibi ülkelerle olan ticari ilişkilerimiz artmıştır ''dedi .</sentence>
+<sentence num="3">Fatsa ,TBMM'de gazetecilerle düzenlediği sohbet toplantısında ,Meclis Başkanı Bülent Arınç'ın başkanlığında toplanan Danışma Kurulu'nda ;2006 yılı bütçesinin ,14 Aralık 26 Aralık arasında Genel Kurul'da ele alınmasının benimsendiğini anımsattı .</sentence>
+<sentence num="4">Genel Kurul'un ,yarın ve 7 Aralık Çarşamba günü 15 .00 20 .00 saatleri arasında çalışacağını ve 2 gün boyunca kamu kurum ve kuruluşlarına bağlı okulların Milli Eğitim Bakanlığı'na devredilmesini öngören yasa tasarısını görüşmeye devam edeceğini kaydeden Fatsa ,8 Aralık Perşembe günü yine 15 .00 20 .00 saatleri arasında ,4 maddelik Maden Kanunu'nda Değişiklik Yapılmasına Dair Kanun Tasarısı'nın ele alınacağını belirtti .</sentence>
+<sentence num="5">GRUP TOPLANTISINDA ŞENER KONUŞACAK Fatsa ,partisinin yarınki grup toplantısında Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener'in ,bütçenin geneliyle ilgili konuşma yapacağını ,basına kapalı bölümde de Maliye Bakanı Kemal Unakıtan'ın bütçe hakkında bilgi vereceğini bildirdi .</sentence>
+<sentence num="6">TBMM Plan ve Bütçe Komisyonu'nda ,7 Aralık Çarşamba günü ,15 yeni üniversite kurulmasına ilişkin tasarının ele alınacağını belirten Fatsa ,tasarıyı bütçeden önce çıkartmayı düşündüklerini ,ancak bu yönde bir ısrarlarının da olmadığını kaydetti .</sentence>
+<sentence num="7">Kredi kartlarıyla ilgili yasa tasarısı konusundaki bir soru üzerine Fatsa ,''Bu konuda ciddi bir sıkıntı ve büyük bir beklenti var .</sentence>
+<sentence num="8">Konunun önceliği de var .</sentence>
+<sentence num="9">Yılbaşından önce çıkartmayı planlıyoruz ''dedi .</sentence>
+<sentence num="10">Fatsa ,Şemdinli olaylarıyla ilgili araştırma komisyonunun başkanının kim olacağını henüz belirlemediklerini ,konunun muhtemelen bu akşamki MYK toplantısında ele alınabileceğini söyledi .</sentence>
+<sentence num="11">RAHMİ KOÇ'A YANIT ''Başta İşadamı Rahmi Koç olmak üzere bir çok insan ve kesimden ,Başbakan Recep Tayyip Erdoğan'ın 11 günlük Yeni Zelanda ve Avustralya gezisiyle eleştiriler olduğu ''anımsatılarak ,bu konudaki görüşünün sorulması üzerine Eyüp Fatsa ,Başbakan Erdoğan'ın bütün gezileriyle ilgili eleştiriler yapıldığını kaydetti .</sentence>
+<sentence num="12">Erdoğan'ın da bu eleştirilere ,''Biz Ankara'da oturup ,işleri Ankara'dan takip etmeyeceğiz ''dediğini anlatan Fatsa ,şunları kaydetti :''Bu gezilerin Türkiye'ye kazandırdığı artıları da hep beraber görüyoruz .</sentence>
+<sentence num="13">Dış ülkelere gidiş gelişler neticesinde ,bu gibi ülkelerle olan ticari ilişkilerimiz artmıştır ve birçok uluslararası meselelerde de bu ülkelerle sıcak diyaloglar kurulmuş ve Türkiye bu ülkelerden destek görmüştür .</sentence>
+<sentence num="14">Sayın Rahmi Koç'un değerlendirmesine saygı duyarım .</sentence>
+<sentence num="15">Ama Koç ,oraları kendi yatıyla dolaşıyor .</sentence>
+<sentence num="16">Onun belki turistik gezi yapmak için imkanı ve zamanı vardır ama Türkiye Cumhuriyeti'nin ,turistik gezilere ayıracak zamanı yoktur .''''</sentence>
+<sentence num="17">BİZ DE BOĞAZ'I GEZDİRİYORUZ ''Fatsa ,Yeni Zelanda gezisinde basına yansıyan ilk fotoğrafın ,yatta çekilen fotoğraflar olduğunun hatırlatılması üzerine ise ''Biz de birçok devlet ve hükümet başkanına Boğaz'ı gezdiriyoruz .</sentence>
+<sentence num="18">Bunda yadırganacak bir şey yok .</sentence>
+<sentence num="19">Başbakan o yatta sadece çay ,kahve de içmemiştir .</sentence>
+<sentence num="20">İki ülke meseleleriyle ilgili görüş alışverişi yapılmıştır ''dedi .</sentence>
+<sentence num="21">Eyüp Fatsa ,Parlamento'da 3 grup olması nedeniyle ,2006 bütçesininGenel Kurul'da ele alınma süresi için uzun zaman ayırdıklarını söyledi .</sentence>
+<sentence num="22">Fatsa ,Maliye Bakanı Kemal Unakıtan'ın ,kurumlar vergisi ve gelir vergisi hakkında yarınki grup toplantısında milletvekillerini bilgilendireceğini söyledi .</sentence>
+</doc>
+<doc>
+<id>195505</id>
+<sentence num="0">2005 12 07 16 :15 :00 .YÖK Başkanı :Biz üniversitenin açılmasına akademik gözle bakarız .</sentence>
+<sentence num="1">Yüksek Öğretim Kurulu (YÖK )Başkanı Prof .Dr .Erdoğan Teziç ,Biz üniversitenin açılmasına akademik gözle bakarız dedi .</sentence>
+<sentence num="2">Prof .Dr .Teziç ,Afyon Kocatepe Üniversitesi'nde (AKÜ )temel atma ve açılış törenlerine katıldı .</sentence>
+<sentence num="3">Gazetecilerin sorularını yanıtlayan Teziç ,hükümetin 15 ilde yeni üniversite kurulması kararı aldığını hatırlatarak ,şöyle konuştu :Öğretim üyesi sayısına ,yörenin özelliklerine göre ,4 üniversitenin kurulmasını önerdik .</sentence>
+<sentence num="4">Buralarda bir üniversite olabilmesi için daha baştan o üniversitenin kimliğini hemen bulmasında yarar olduğunu düşünerek ,hiç olmazsa zaman içerisinde kadro olanaklarına göre ,15 rakamını bulur diye düşündük .</sentence>
+<sentence num="5">Hükümetin bizden aldığı bir görüştür .</sentence>
+<sentence num="6">Kendi tercihini kullanma serbestliği vardır .</sentence>
+<sentence num="7">Teziç ,4 üniversite kurulması için karar alırken rektörlerin belirlenmesinde yürürlükteki usule istisna oluşturabilecek bir uygulama olmaması için çalıştıklarını söyledi .</sentence>
+<sentence num="8">Her üniversite ,üniversite olarak 7 profesöre sahip olsun ,6 rektör adayını 3'e indirerek Cumhurbaşkanlığına sunalım istedik diyen Teziç ,sözlerini şöyle sürdürdü :Böyle olduğu zaman rektör seçiminde tartışma olmaz .</sentence>
+<sentence num="9">Siyasi etkilemeler var mı ,yok mu ?</sentence>
+<sentence num="10">Tartışmalardan da uzak kalınmış olurdu .</sentence>
+<sentence num="11">Ama gördüğümüz kadarıyla hükümet başka bir yol izlemek istiyor ,o zaman da şöyle bir soru akla geliyor :Eğer bu kadar kadrolar var idiyse ,bu kadar parasal imkanlar var idiyse ,bence çok geç kalınmış bir üniversite açma sürecine girdik .</sentence>
+<sentence num="12">Daha evvel bunların yapılması lazımdı .</sentence>
+<sentence num="13">Bir üniversitede ,öğrencinin bütün olanaklara sahip olması durumunda eğitimin sorunsuz başlayacağını anlatan ,Prof .Dr .Teziç ,Eğer gerçekten yeterli kadrolar varsa ,altyapı müsaitse bu konuda gecikmeyelim ,30 40 üniversite de kuralım diye konuştu .</sentence>
+<sentence num="14">Üniversite kurulmasının ,birçok unsurun bir araya gelmesiyle mümkün olabileceğini belirten Teziç ,sözlerini şöyle sürdürdü :Biz bütün ölçüler biliyoruz ,biz üniversitenin açılmasına akademik gözle bakarız .</sentence>
+<sentence num="15">Hükümetin bakış açısının neye dayandığını şu aşamada pek bilemiyorum .</sentence>
+<sentence num="16">Bizim koyduğumuz ölçütler ,herhangi bir söylentiye yol açılmadan sağlıklı bir üniversite yapısı oluşturulmasını sağlıyordu .</sentence>
+<sentence num="17">Şimdi bu ölçütler yerine gelecek mi bilemiyorum .</sentence>
+<sentence num="18">Ödenekler ne merkezdedir ,kadrolar nasıl verilecek ,bu kadroların verilmesinde eksiklikler de varsa biz bunları dengeli bir dağıtımını yapıyoruz .</sentence>
+<sentence num="19">Eğer bu kadroları siyasi kanaldan dağıtırsanız üniversite daha doğuştan yara almaya başlar .</sentence>
+<sentence num="20">Bunları istemiyoruz .</sentence>
+<sentence num="21">O üniversiteye gelecek öğrenciler de aileleri de bunu istemez .</sentence>
+<sentence num="22">YARGIYA MÜDAHALE ETMEDİK ,ETMEYE DE NİYETİMİZ YOK Teziç ,Yüzüncü Yıl Üniversitesi (YYÜ )Rektörü Prof .Dr .Yücel Aşkın'ın tedavi gördüğü hastane odasına demir parmaklık takılmasıyla ilgili bir soru üzerine de şunları kaydetti :Hastanenin bir tutukevi manzarası içinde olması psikolojik açıdan nasıl bir yansıma yapar ,bir tehlike anında o demir parmaklıkların nasıl bir sakınca yaratacağı ,bütün bunlar da düşünüldü mü acaba ?</sentence>
+<sentence num="23">Bütün bunlara özenle bakmak lazım .</sentence>
+<sentence num="24">Bizim isteğimiz bir an önce yargılama sürecinin başlamasıdır .</sentence>
+<sentence num="25">Yargıya müdahale etmedik ,etmeye de niyetimiz yok .</sentence>
+<sentence num="26">Tutukluluk halinin devam etmesini gerektirecek bir unsur var mı yok mu bunun açıklanmasını bekliyoruz .</sentence>
+<sentence num="27">Teziç ,Prof .Dr .Aşkın'ın kaçma ve delilleri karartma ihtimali olmadığını belirterek ,kendilerini tedirgin eden şeyin ,tutukluluk halini gerektirecek nedenlerin açıklanmaması olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>195527</id>
+<sentence num="0">2005 12 07 16 :40 :00 .Teziç üstü kapalı eleştirdi .</sentence>
+<sentence num="1">Yüksek Öğretim Kurulu (YÖK )Başkanı Prof .Dr .Erdoğan Teziç ,Afyon Kocatepe Üniversitesi'nde (AKÜ )temel atma ve açılış törenlerine katıldı .</sentence>
+<sentence num="2">Gazetecilerin sorularını yanıtlayan Teziç ,hükümetin 15 ilde yeni üniversite kurulması kararı aldığını hatırlatarak ,şöyle konuştu :Öğretim üyesi sayısına ,yörenin özelliklerine göre ,4 üniversitenin kurulmasını önerdik .</sentence>
+<sentence num="3">Buralarda bir üniversite olabilmesi için daha baştan o üniversitenin kimliğini hemen bulmasında yarar olduğunu düşünerek ,hiç olmazsa zaman içerisinde kadro olanaklarına göre ,15 rakamını bulur diye düşündük .</sentence>
+<sentence num="4">Hükümetin bizden aldığı bir görüştür .</sentence>
+<sentence num="5">Kendi tercihini kullanma serbestliği vardır .</sentence>
+<sentence num="6">Teziç ,4 üniversite kurulması için karar alırken rektörlerin belirlenmesinde yürürlükteki usule istisna oluşturabilecek bir uygulama olmaması için çalıştıklarını söyledi .</sentence>
+<sentence num="7">Her üniversite ,üniversite olarak 7 profesöre sahip olsun ,6 rektör adayını 3'e indirerek Cumhurbaşkanlığına sunalım istedik diyen Teziç ,sözlerini şöyle sürdürdü :Böyle olduğu zaman rektör seçiminde tartışma olmaz .</sentence>
+<sentence num="8">Siyasi etkilemeler var mı ,yok mu ?</sentence>
+<sentence num="9">Tartışmalardan da uzak kalınmış olurdu .</sentence>
+<sentence num="10">Ama gördüğümüz kadarıyla hükümet başka bir yol izlemek istiyor ,o zaman da şöyle bir soru akla geliyor :Eğer bu kadar kadrolar var idiyse ,bu kadar parasal imkanlar var idiyse ,bence çok geç kalınmış bir üniversite açma sürecine girdik .</sentence>
+<sentence num="11">Daha evvel bunların yapılması lazımdı .</sentence>
+<sentence num="12">Bir üniversitede ,öğrencinin bütün olanaklara sahip olması durumunda eğitimin sorunsuz başlayacağını anlatan ,Prof .Dr .Teziç ,Eğer gerçekten yeterli kadrolar varsa ,altyapı müsaitse bu konuda gecikmeyelim ,30 40 üniversite de kuralım diye konuştu .</sentence>
+<sentence num="13">Üniversite kurulmasının ,birçok unsurun bir araya gelmesiyle mümkün olabileceğini belirten Teziç ,sözlerini şöyle sürdürdü :Biz bütün ölçüler biliyoruz ,biz üniversitenin açılmasına akademik gözle bakarız .</sentence>
+<sentence num="14">Hükümetin bakış açısının neye dayandığını şu aşamada pek bilemiyorum .</sentence>
+<sentence num="15">Bizim koyduğumuz ölçütler ,herhangi bir söylentiye yol açılmadan sağlıklı bir üniversite yapısı oluşturulmasını sağlıyordu .</sentence>
+<sentence num="16">Şimdi bu ölçütler yerine gelecek mi bilemiyorum .</sentence>
+<sentence num="17">Ödenekler ne merkezdedir ,kadrolar nasıl verilecek ,bu kadroların verilmesinde eksiklikler de varsa biz bunları dengeli bir dağıtımını yapıyoruz .</sentence>
+<sentence num="18">Eğer bu kadroları siyasi kanaldan dağıtırsanız üniversite daha doğuştan yara almaya başlar .</sentence>
+<sentence num="19">Bunları istemiyoruz .</sentence>
+<sentence num="20">O üniversiteye gelecek öğrenciler de aileleri de bunu istemez .</sentence>
+<sentence num="21">YARGIYA MÜDAHALE ETMEDİK ,ETMEYE DE NİYETİMİZ YOK Teziç ,Yüzüncü Yıl Üniversitesi (YYÜ )Rektörü Prof .Dr .Yücel Aşkın'ın tedavi gördüğü hastane odasına demir parmaklık takılmasıyla ilgili bir soru üzerine de şunları kaydetti :Hastanenin bir tutukevi manzarası içinde olması psikolojik açıdan nasıl bir yansıma yapar ,bir tehlike anında o demir parmaklıkların nasıl bir sakınca yaratacağı ,bütün bunlar da düşünüldü mü acaba ?</sentence>
+<sentence num="22">Bütün bunlara özenle bakmak lazım .</sentence>
+<sentence num="23">Bizim isteğimiz bir an önce yargılama sürecinin başlamasıdır .</sentence>
+<sentence num="24">Yargıya müdahale etmedik ,etmeye de niyetimiz yok .</sentence>
+<sentence num="25">Tutukluluk halinin devam etmesini gerektirecek bir unsur var mı yok mu bunun açıklanmasını bekliyoruz .</sentence>
+<sentence num="26">Teziç ,Prof .Dr .Aşkın'ın kaçma ve delilleri karartma ihtimali olmadığını belirterek ,kendilerini tedirgin eden şeyin ,tutukluluk halini gerektirecek nedenlerin açıklanmaması olduğunu söyledi .</sentence>
+</doc>
+<doc>
+<id>195554</id>
+<sentence num="0">2005 12 07 17 :20 :00 .Çelik :Daha çok ilde üniversite olması rasyonel bir durumdur .</sentence>
+<sentence num="1">Milli Eğitim Bakanı Hüseyin Çelik ,daha çok ilde üniversite bulunması ,Türkiye şartlarının gereği ,rasyonel bir durumdur dedi .</sentence>
+<sentence num="2">YÖK Başkan Vekili Prof .Dr .İsa Eşme de 15 yeni üniversite kurulmasına ilişkin tasarıda ,vakıf üniversitelerinde ,ita amirinin ,mütevelli heyeti başkanı olmasının öngörüldüğünü bildirerek ,rektörlerin öneminin öne çıkarılması gerektiğini ,bir ara çözüm olarak da yönetmelik hazırladıklarını söyledi .</sentence>
+<sentence num="3">TBMM Plan ve Bütçe Komisyonu'nda ,15 yeni üniversite kurulmasına ilişkin tasarı ve komisyon gündeminde yer alan üniversite kurulmasına ilişkin 27 kanun teklifi ,birleştirilerek görüşülmeye başlandı .</sentence>
+<sentence num="4">Milli Eğitim Bakanı Hüseyin Çelik ,tasarıyla ilgili bilgi verirken ,Türkiye'de 1994 yılından bu yana devlet üniversitesi kurulmadığına işaret etti .</sentence>
+<sentence num="5">Çelik ,vakıf üniversitelerindeki öğrencilerin ,bütün üniversitelerdeki öğrencilerin yüzde 4 .2'sini oluşturduğunu belirtti .</sentence>
+<sentence num="6">Bütün liselerde ,hangi tür eğitim verilirse verilsin ancak her 10 kişiden 1'inin 4 yıllık bir lisans programına girebildiğini kaydeden Çelik ,daha çok ilde üniversite bulunmasının ,Türkiye şartlarının bir gereği ve rasyonel bir durum olduğunu söyledi .</sentence>
+<sentence num="7">Çelik ,üniversite kurulacak 15 ilin objektif kriterler esas alınarak belirlendiğini dile getirerek ,siyasi mülahazalara göre de bunun yapılabileceğini ancak hükümetin böyle bir yolu tercih etmediğini belirtti .</sentence>
+<sentence num="8">Hüseyin Çelik ,üniversite olmayan 41 ille ilgili sıralama yaptıklarını ,bunu YÖK'e gönderdiklerini ,bu konuda bir sorun bulunmadığını anlattı .</sentence>
+<sentence num="9">Öğretim üyesi yetiştirmenin Türkiye'nin sorunlarından biri olduğunu vurgulayan Çelik ,bunun için yurt dışına 2006 ,2007 ve 2008'de biner öğrenci gönderme kararı aldıklarını bildirdi .</sentence>
+<sentence num="10">TÜM İLLERDE BU KRİTERLER SAĞLANSA ...</sentence>
+<sentence num="11">YÖK Başkan Vekili Prof .Dr .İsa Eşme de üniversiteler açılırken ,tabela değil ,gerçek üniversiteler olmasını istediklerini vurguladı .</sentence>
+<sentence num="12">Eşme ,Hükümete ,YÖK'ün 4 ilde üniversite kurulabilmesinin daha uygun olacağına dair görüş bildirdiğini ancak bunun ,YÖK diğer illerde üniversite açılmasını istemiyor şeklinde yansıdığını kaydetti .</sentence>
+<sentence num="13">Üniversite açılabilmesi için 7 profesör bulunması koşulunun ,rektörün belirlenmesinde önemli bir kriter olduğunu dile getiren Eşme ,1992'de ,acı bir tecrübe yaşadıklarını belirtti .</sentence>
+<sentence num="14">Eşme ,yasaya eklenen bir maddeyle rektörlerin ,siyasi iradeyle belirlendiğini ifade ederek ,7 profesörün bulunması halinde mevcut mevzuata göre seçim olacağını vurguladı .</sentence>
+<sentence num="15">Eşme ,üniversitelerin açılmasını sevinçle karşıladıklarını dile getirerek ,Tüm illerde bu kriterler sağlansa ,bütün illerde açılabilse ...</sentence>
+<sentence num="16">dedi .</sentence>
+<sentence num="17">Vakıf üniversitelerinde ita amirinin ,mütevelli heyeti başkanı olmasını düzenleyen bir önerge verildiğini anımsatan Eşme ,KKTC'deki üniversitelerde yaptığı incelemelerinden örnek vererek ,rektörün ,üniversitede hiçbir şeye karışmadığını ,birçok şeyi vakıf yönetim kurullarının belirlediğini ,rektörlerin otoritesinin zayıf olduğunu anlattı .</sentence>
+<sentence num="18">Eşme ,rektörün öneminin öne çıkarılması gerektiğini vurgulayarak ,bu konuda bir yönetmelik hazırladıklarını bildirdi .</sentence>
+<sentence num="19">Eşme ,bu düzenlemeye göre ,rektörün ,mütevelli heyetinin kabul ettiği bütçe sınırları içinde harcama yetkilisi olduğunu ,rektörlerin ,ita amirliği yetkisini ,mütevelli heyetinin uygun göreceği ölçüde ,dekan ,enstitü müdürü ve yüksek okul müdürlerine devredileceğini vurgulayarak ,bu ara çözümün yararlı olacağını kaydetti .</sentence>
+<sentence num="20">Konuşmaların ardından ,tasarının geneli üzerinde görüşmelere geçildi .</sentence>
+</doc>
+<doc>
+<id>195577</id>
+<sentence num="0">2005 12 07 17 :47 :00 .Yeni Üniversite Tartışmaları .</sentence>
+<sentence num="1">Yüksek Öğretim Kurulu Başkanı Erdoğan Teziç ,açılacak yeni üniversitelerin gerekli olduğunu belirterek ,bu konudaki itirazlarının altyapı ve kadro ile ilgili olduğunu bildirdi .</sentence>
+<sentence num="2">Erdoğan Teziç ,yeni ünversite açmanın kadro ve para gerektirdiğini ifade ederek ,itirazlarının bu noktada yoğunlaştığını belirtti .</sentence>
+<sentence num="3">Erdoğan Teziç ,Van Yüzüncü Yıl Üniversitesi Rektörü Yücel Aşkın ile ilgili hukiki sürecin devam ettiğini hatırlatarak ,bir an önce yargılamanın başlamasını istediklerini ifade etti .</sentence>
+</doc>
+<doc>
+<id>195578</id>
+<sentence num="0">2005 12 07 17 :48 :00 .'Çok ile üniversite rasyonel bir durum '.</sentence>
+<sentence num="1">Milli Eğitim Bakanı Hüseyin Çelik ,daha çok ilde üniversite bulunması ,Türkiye şartlarının gereği ,rasyonel bir durumdur dedi .</sentence>
+<sentence num="2">YÖK Başkan Vekili Prof .Dr .İsa Eşme de 15 yeni üniversite kurulmasına ilişkin tasarıda ,vakıf üniversitelerinde ,ita amirinin ,mütevelli heyeti başkanı olmasının öngörüldüğünü bildirerek ,rektörlerin öneminin öne çıkarılması gerektiğini ,bir ara çözüm olarak da yönetmelik hazırladıklarını söyledi .</sentence>
+<sentence num="3">TBMM Plan ve Bütçe Komisyonu'nda ,15 yeni üniversite kurulmasına ilişkin tasarı ve komisyon gündeminde yer alan üniversite kurulmasına ilişkin 27 kanun teklifi ,birleştirilerek görüşülmeye başlandı .</sentence>
+<sentence num="4">Milli Eğitim Bakanı Hüseyin Çelik ,tasarıyla ilgili bilgi verirken ,Türkiye'de 1994 yılından bu yana devlet üniversitesi kurulmadığına işaret etti .</sentence>
+<sentence num="5">Çelik ,vakıf üniversitelerindeki öğrencilerin ,bütün üniversitelerdeki öğrencilerin yüzde 4 .2'sini oluşturduğunu belirtti .</sentence>
+<sentence num="6">Bütün liselerde ,hangi tür eğitim verilirse verilsin ancak her 10 kişiden 1'inin 4 yıllık bir lisans programına girebildiğini kaydeden Çelik ,daha çok ilde üniversite bulunmasının ,Türkiye şartlarının bir gereği ve rasyonel bir durum olduğunu söyledi .</sentence>
+<sentence num="7">Çelik ,üniversite kurulacak 15 ilin objektif kriterler esas alınarak belirlendiğini dile getirerek ,siyasi mülahazalara göre de bunun yapılabileceğini ancak hükümetin böyle bir yolu tercih etmediğini belirtti .</sentence>
+<sentence num="8">Hüseyin Çelik ,üniversite olmayan 41 ille ilgili sıralama yaptıklarını ,bunu YÖK'e gönderdiklerini ,bu konuda bir sorun bulunmadığını anlattı .</sentence>
+<sentence num="9">Öğretim üyesi yetiştirmenin Türkiye'nin sorunlarından biri olduğunu vurgulayan Çelik ,bunun için yurt dışına 2006 ,2007 ve 2008'de biner öğrenci gönderme kararı aldıklarını bildirdi .</sentence>
+<sentence num="10">TÜM İLLERDE BU KRİTERLER SAĞLANSA ...</sentence>
+<sentence num="11">YÖK Başkan Vekili Prof .Dr .İsa Eşme de üniversiteler açılırken ,tabela değil ,gerçek üniversiteler olmasını istediklerini vurguladı .</sentence>
+<sentence num="12">Eşme ,Hükümete ,YÖK'ün 4 ilde üniversite kurulabilmesinin daha uygun olacağına dair görüş bildirdiğini ancak bunun ,YÖK diğer illerde üniversite açılmasını istemiyor şeklinde yansıdığını kaydetti .</sentence>
+<sentence num="13">Üniversite açılabilmesi için 7 profesör bulunması koşulunun ,rektörün belirlenmesinde önemli bir kriter olduğunu dile getiren Eşme ,1992'de ,acı bir tecrübe yaşadıklarını belirtti .</sentence>
+<sentence num="14">Eşme ,yasaya eklenen bir maddeyle rektörlerin ,siyasi iradeyle belirlendiğini ifade ederek ,7 profesörün bulunması halinde mevcut mevzuata göre seçim olacağını vurguladı .</sentence>
+<sentence num="15">Eşme ,üniversitelerin açılmasını sevinçle karşıladıklarını dile getirerek ,Tüm illerde bu kriterler sağlansa ,bütün illerde açılabilse ...</sentence>
+<sentence num="16">dedi .</sentence>
+<sentence num="17">Vakıf üniversitelerinde ita amirinin ,mütevelli heyeti başkanı olmasını düzenleyen bir önerge verildiğini anımsatan Eşme ,KKTC'deki üniversitelerde yaptığı incelemelerinden örnek vererek ,rektörün ,üniversitede hiçbir şeye karışmadığını ,birçok şeyi vakıf yönetim kurullarının belirlediğini ,rektörlerin otoritesinin zayıf olduğunu anlattı .</sentence>
+<sentence num="18">Eşme ,rektörün öneminin öne çıkarılması gerektiğini vurgulayarak ,bu konuda bir yönetmelik hazırladıklarını bildirdi .</sentence>
+<sentence num="19">Eşme ,bu düzenlemeye göre ,rektörün ,mütevelli heyetinin kabul ettiği bütçe sınırları içinde harcama yetkilisi olduğunu ,rektörlerin ,ita amirliği yetkisini ,mütevelli heyetinin uygun göreceği ölçüde ,dekan ,enstitü müdürü ve yüksek okul müdürlerine devredileceğini vurgulayarak ,bu ara çözümün yararlı olacağını kaydetti .</sentence>
+<sentence num="20">Konuşmaların ardından ,tasarının geneli üzerinde görüşmelere geçildi .</sentence>
+</doc>
+<doc>
+<id>195719</id>
+<sentence num="0">2005 12 08 00 :34 :00 .15 Yeni Üniversite Komisyonda Geçti .</sentence>
+<sentence num="1">15 ilde yeni üniversite kuruluyor .</sentence>
+<sentence num="2">Konuya ilişkin tasarı ,Meclis Plan ve Bütçe Komisyonu'nda kabul edildi .</sentence>
+<sentence num="3">Tasarıyla yeni üniversitelerin kurulduğu iller ve isimleri şöyle :Kırşehir'de Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur'da Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum'da Hitit Üniversitesi ,Yozgat'ta Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="4">Yeni üniversitelere ihtiyaçlarında kullanılmak üzere yaklaşık 2 bin yeni kadro da veriliyor .</sentence>
+<sentence num="5">Tasarıya ayrıca vakıf üniversitelerinde 'ita amiri'nin mütevelli heyeti başkanı olacağına ilişkin hüküm de eklendi .</sentence>
+</doc>
+<doc>
+<id>195720</id>
+<sentence num="0">2005 12 08 00 :38 :00 .15 yeni üniversitesi kurulmasına ilişkin tasarı kabul edildi .</sentence>
+<sentence num="1">15 yeni üniversitesi kurulmasına ilişkin tasarı kabul edildi TBMM Plan ve Bütçe Komisyonu ,bazı illerde 15 yeni üniversite kurulmasına ilişkin tasarıyı kabul etti .</sentence>
+<sentence num="2">Tasarı üzerindeki görüşmeler sırasında verilen önergelerle bazı üniversitelerin adı değiştirildi .</sentence>
+<sentence num="3">Buna göre ,kurulması öngörülen yeni üniversiteler şunlar :Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+</doc>
+<doc>
+<id>195724</id>
+<sentence num="0">2005 12 08 01 :12 :00 .Aksaray'a üniversite komisyondan geçti .</sentence>
+<sentence num="1">Milletvekili Alaboyun ,1 Aralık'ta Milli Eğitim Komisyonu'nda kabul edilen Aksaray'a üniversite kurulması kararının bugün Plan Bütçe Komisyonu'nda görüşüldüğünü belirterek ,Aksaray Üniversitesi Milli Eğitim Komisyonu'ndan sonra Plan Bütçe Komisyonu'nda da kabul edildi .</sentence>
+<sentence num="2">En kısa zamanda Aksaray Üniversitesi Türkiye Büyük Millet Meclisi'ne (TBMM )gelerek burada görüşülecek .</sentence>
+<sentence num="3">Aksaray ile birlikte 15 ile üniversite kurulması kararının TBMM'de kabul edileceğini umuyorum .</sentence>
+<sentence num="4">Üniversite tüm Aksaraylılara hayırlı uğurlu olsun .</sentence>
+<sentence num="5">diye konuştu .</sentence>
+<sentence num="6">CİHAN .</sentence>
+</doc>
+<doc>
+<id>195729</id>
+<sentence num="0">2005 12 08 03 :10 :00 .15 yeni üniversite kuruluyor ...</sentence>
+<sentence num="1">TBMM Plan ve Bütçe Komisyonu ,bazı illerde 15 yeni üniversite kurulmasına ilişkin tasarıyı kabul etti .</sentence>
+<sentence num="2">Tasarı üzerindeki görüşmeler sırasında verilen önergelerle bazı üniversitelerin adı değiştirildi .</sentence>
+<sentence num="3">Buna göre ,kurulması öngörülen yeni üniversiteler şunlar :Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="4">Tasarı ,kurulacak olan yeni üniversiteler için toplam 2 bin kadro ihdas edilmesini de öngörüyor .</sentence>
+<sentence num="5">CHP Trabzon Milletvekili Akif Hamzaçebi'nin önerisi üzerinde ,üniversite adlarında ,ya şehir ya da özel ad bulunacak .</sentence>
+<sentence num="6">Buna ilişkin ,Komisyon Başkanvekili Altan Karapaşaoğlu ,redaksiyon yetkisi aldı .</sentence>
+<sentence num="7">Komisyonda ,Nevşehir'de Damat İbrahim Paşa ve Karaman'da Karamanoğlu Mehmet Bey üniversiteleri kurulmasına ilişkin önergeler ise reddedildi .</sentence>
+<sentence num="8">Komisyon üyesi olmayan çok sayıda milletvekili tasarı görüşmelerinde söz alarak ,seçim bölgelerinde üniversite kurulmasını ya da kurulan üniversitelere yeni fakülte veya meslek yüksek okulu eklenmesini istediler .</sentence>
+<sentence num="9">Bazı milletvekilleri de ,yeni kurulacak üniversiteler için teşekkür ettiler .''</sentence>
+<sentence num="10">BÜTÇE ÜZERİNDE YÜK YARATIR ''Milli Eğitim Bakanı Hüseyin Çelik ,tasarı üzerindeki eleştirilere verdiği yanıtta ,milletvekillerinin ,illerinde üniversite açılması taleplerini ,''saygıdeğer ''bulduğunu söyledi .</sentence>
+<sentence num="11">Hiçbir altyapı hazırlığı olmadan da üniversite kurulabileceğini kaydeden Çelik ,Van Yüzüncü Yıl Üniversitesi'ni örnek gösterdi .</sentence>
+<sentence num="12">Bakan Çelik ,YÖK'ün üniversite kurulması için aradığı 7 profesör bulunması kriterinin ,''göreceli olduğunu ,kaynağını Anayasa ve yasalardan almadığını ''belirterek ,bu sayının rektör seçiminde önem kazandığını belirtti .</sentence>
+<sentence num="13">Milli Eğitim Bakanı Çelik ,10 ilde daha üniversite kurulmasına ilişkin altyapı çalışmalarının hızlandığını ifade etti .</sentence>
+<sentence num="14">Tıp fakültelerinin pahalı yatırımlar olduğunu dikkati çeken Çelik ,25 üniversite birden kurulmasının ,bütçe üzerinde yük yaratacağını ,kurulacak üniversitelere ilişkin hesaplamaların ise yapıldığını vurguladı .''</sentence>
+<sentence num="15">YÖK ,HASIM KURULUŞ OLARAK GÖRÜLMEMELİ ''Yüksek Öğretim Kurulu (YÖK )Başkanvekili Prof .Dr .İsa Eşme de ''Kendi çocuklarımızı ,torunlarımızı da okutmaya razı olacağımız illere 'evet 'demeliyiz ''dedi .</sentence>
+<sentence num="16">YÖK'ün ''hasım kuruluş ''olarak görülmemesini isteyen Eşme ,''Burada bulunan kişiler de sizin gibi ülkeye sevdalı kişiler ''diye konuştu .</sentence>
+<sentence num="17">Eşme ,4 yıllık lisans programları yerine ,meslek yüksek okullarına odaklanılması gerektiğini kaydederek ,komisyona ,tartışmaya ,kavga etmeye değil ,bilgilendirmeye geldiğini ifade etti .</sentence>
+<sentence num="18">Plan ve Bütçe Komisyonu Başkanvekili Karapaşaoğlu ise tasarıyı delecek önergeler bulunduğunu ifade ederek ,''kendi bütçemizi delmemiz mümkün değil ''diyerek ,komisyon üyelerinden tavır almalarını istedi .</sentence>
+<sentence num="19">Rize ,Çorum ,Ordu ve Balıkesir üniversitelerinde tıp fakülteleri kurulması dolayısıyla ,verilen önergelerle ,bu üniversitelerin kadro tahsisinde yeniden düzenleme yapıldı .</sentence>
+<sentence num="20">Kabul edilen tasarıyla ,vakıf üniversiteleri ita amirlerinin ,mütevelli heyeti başkanı olması da benimsendi .</sentence>
+</doc>
+<doc>
+<id>195811</id>
+<sentence num="0">2005 12 08 09 :15 :00 .15 yeni üniversite için son aşama .</sentence>
+<sentence num="1">Tasarı üzerindeki görüşmeler sırasında verilen önergelerle bazı üniversitelerin adı değiştirildi .</sentence>
+<sentence num="2">Buna göre ,kurulması öngörülen yeni üniversiteler şunlar :Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="3">Tasarı ,kurulacak olan yeni üniversiteler için toplam 2 bin kadro ihdas edilmesini de öngörüyor .</sentence>
+<sentence num="4">CHP Trabzon Milletvekili Akif Hamzaçebi'nin önerisi üzerinde ,üniversite adlarında ,ya şehir ya da özel ad bulunacak .</sentence>
+<sentence num="5">Buna ilişkin ,Komisyon Başkanvekili Altan Karapaşaoğlu ,redaksiyon yetkisi aldı .</sentence>
+<sentence num="6">Komisyonda ,Nevşehir'de Damat İbrahim Paşa ve Karaman'da Karamanoğlu Mehmet Bey üniversiteleri kurulmasına ilişkin önergeler ise reddedildi .</sentence>
+<sentence num="7">Komisyon üyesi olmayan çok sayıda milletvekili tasarı görüşmelerinde söz alarak ,seçim bölgelerinde üniversite kurulmasını ya da kurulan üniversitelere yeni fakülte veya meslek yüksek okulu eklenmesini istediler .</sentence>
+<sentence num="8">Bazı milletvekilleri de ,yeni kurulacak üniversiteler için teşekkür ettiler .''</sentence>
+<sentence num="9">BÜTÇE ÜZERİNDE YÜK YARATIR ''Milli Eğitim Bakanı Hüseyin Çelik ,tasarı üzerindeki eleştirilere verdiği yanıtta ,milletvekillerinin ,illerinde üniversite açılması taleplerini ,''saygıdeğer ''bulduğunu söyledi .</sentence>
+<sentence num="10">Hiçbir altyapı hazırlığı olmadan da üniversite kurulabileceğini kaydeden Çelik ,Van Yüzüncü Yıl Üniversitesi'ni örnek gösterdi .</sentence>
+<sentence num="11">Bakan Çelik ,YÖK'ün üniversite kurulması için aradığı 7 profesör bulunması kriterinin ,''göreceli olduğunu ,kaynağını Anayasa ve yasalardan almadığını ''belirterek ,bu sayının rektör seçiminde önem kazandığını belirtti .</sentence>
+<sentence num="12">Milli Eğitim Bakanı Çelik ,10 ilde daha üniversite kurulmasına ilişkin altyapı çalışmalarının hızlandığını ifade etti .</sentence>
+<sentence num="13">Tıp fakültelerinin pahalı yatırımlar olduğunu dikkati çeken Çelik ,25 üniversite birden kurulmasının ,bütçe üzerinde yük yaratacağını ,kurulacak üniversitelere ilişkin hesaplamaların ise yapıldığını vurguladı .''</sentence>
+<sentence num="14">YÖK ,HASIM KURULUŞ OLARAK GÖRÜLMEMELİ ''Yüksek Öğretim Kurulu (YÖK )Başkanvekili Prof .Dr .İsa Eşme de ''Kendi çocuklarımızı ,torunlarımızı da okutmaya razı olacağımız illere 'evet 'demeliyiz ''dedi .</sentence>
+<sentence num="15">YÖK'ün ''hasım kuruluş ''olarak görülmemesini isteyen Eşme ,''Burada bulunan kişiler de sizin gibi ülkeye sevdalı kişiler ''diye konuştu .</sentence>
+<sentence num="16">Eşme ,4 yıllık lisans programları yerine ,meslek yüksek okullarına odaklanılması gerektiğini kaydederek ,komisyona ,tartışmaya ,kavga etmeye değil ,bilgilendirmeye geldiğini ifade etti .</sentence>
+<sentence num="17">Plan ve Bütçe Komisyonu Başkanvekili Karapaşaoğlu ise tasarıyı delecek önergeler bulunduğunu ifade ederek ,''kendi bütçemizi delmemiz mümkün değil ''diyerek ,komisyon üyelerinden tavır almalarını istedi .</sentence>
+<sentence num="18">Rize ,Çorum ,Ordu ve Balıkesir üniversitelerinde tıp fakülteleri kurulması dolayısıyla ,verilen önergelerle ,bu üniversitelerin kadro tahsisinde yeniden düzenleme yapıldı .</sentence>
+<sentence num="19">Kabul edilen tasarıyla ,vakıf üniversiteleri ita amirlerinin ,mütevelli heyeti başkanı olması da benimsendi .</sentence>
+</doc>
+<doc>
+<id>196488</id>
+<sentence num="0">2005 12 09 08 :35 :00 .Hükümet kesenin ağzını açtı ,yeni üniversitelere 23 bin kadro .</sentence>
+<sentence num="1">SALİHA ÇOLAK Ankara Hükümet ,YÖK'ün itirazına rağmen 15 ilde yeni üniversite kurulmasına ilişkin tasarıyı TBMM Plan ve Bütçe Komisyonu'ndan geçirirken ,kadro artırımını da ihmal etmedi .</sentence>
+<sentence num="2">Böylece yeni üniversitelere halen varolan 2300 kadro ile birlikte toplam 23 bin kadro tahsis edildi .</sentence>
+<sentence num="3">CHP Trabzon Milletvekili Akif Hamzaçebi ,hükümetin seçim sinyalleri vermeye başladığına dikkati çekti .</sentence>
+<sentence num="4">CHP ,AKP milletvekilleri gibi seçim çevrelerini memnun edecek tasarıyı desteklerken ,komisyonda sadece CHP İstanbul Milletvekili Birgen Keleş ,ilçe kurulması gibi üniversite kurulurken iktidar ve muhalefetin yanyana geldiğini ,imkanlar dikkate alınmadan kurulan bu tür yapıların olumlu sonuç vermeyeceğini dile getirdi .</sentence>
+<sentence num="5">Keleş ,Milli Eğitim Bakanı Hüseyin Çelik'e de YÖK'ün yetkilerni gaspediyorsunuz dedi .</sentence>
+<sentence num="6">YÖK Başkanvekili Prof .Dr .İsa Eşme de Üniversite için bina yetmez .</sentence>
+<sentence num="7">Çocuklarınızın okumasına gönlünüzün razı olduğu koşullarda üniversite açmak gerekir .</sentence>
+<sentence num="8">YÖK hasım değil ,vatana sevdalı insanlar .</sentence>
+<sentence num="9">Üniversitelerin gelişmesini istiyor ama bize kaynak lazım diye konuştu .</sentence>
+<sentence num="10">Komisyonda kabul edilen tasarı Genel Kurul'da da delinmeden geçerse ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da yeni üniversiteler kurulacak .</sentence>
+<sentence num="11">Böylece Karadenizli başbakan döneminde Karadeniz sahilinde Samsun'dan Rize'ye kadar sahil boyunca 5 ilin de üniversitesi olacak .</sentence>
+</doc>
+<doc>
+<id>196558</id>
+<sentence num="0">2005 12 09 09 :55 :00 .Yeni üniversitelere 23 bin kadro .</sentence>
+<sentence num="1">Böylece yeni üniversitelere halen varolan 2300 kadro ile birlikte toplam 23 bin kadro tahsis edildi .</sentence>
+<sentence num="2">CHP Trabzon Milletvekili Akif Hamzaçebi ,hükümetin seçim sinyalleri vermeye başladığına dikkati çekti .</sentence>
+<sentence num="3">CHP ,AKP milletvekilleri gibi seçim çevrelerini memnun edecek tasarıyı desteklerken ,komisyonda sadece CHP İstanbul Milletvekili Birgen Keleş ,ilçe kurulması gibi üniversite kurulurken iktidar ve muhalefetin yanyana geldiğini ,imkanlar dikkate alınmadan kurulan bu tür yapıların olumlu sonuç vermeyeceğini dile getirdi .</sentence>
+<sentence num="4">Keleş ,Milli Eğitim Bakanı Hüseyin Çelik'e de YÖK'ün yetkilerni gaspediyorsunuz dedi .</sentence>
+<sentence num="5">YÖK Başkanvekili Prof .Dr .İsa Eşme de Üniversite için bina yetmez .</sentence>
+<sentence num="6">Çocuklarınızın okumasına gönlünüzün razı olduğu koşullarda üniversite açmak gerekir .</sentence>
+<sentence num="7">YÖK hasım değil ,vatana sevdalı insanlar .</sentence>
+<sentence num="8">Üniversitelerin gelişmesini istiyor ama bize kaynak lazım diye konuştu .</sentence>
+<sentence num="9">Komisyonda kabul edilen tasarı Genel Kurul'da da delinmeden geçerse ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da yeni üniversiteler kurulacak .</sentence>
+<sentence num="10">Böylece Karadenizli başbakan döneminde Karadeniz sahilinde Samsun'dan Rize'ye kadar sahil boyunca 5 ilin de üniversitesi olacak .</sentence>
+<sentence num="11">Milliyet .</sentence>
+</doc>
+<doc>
+<id>205716</id>
+<sentence num="0">2005 12 25 10 :27 :00 .TBMM'de bu hafta bütçe görüşmeleri bitiyor .</sentence>
+<sentence num="1">TBMM'de bu hafta bütçe görüşmeleri bitiyor TBMM ,2005 yılını yoğun bir haftayla geride bırakacak .</sentence>
+<sentence num="2">Meclis'in bütçe maratonu bitiyor .</sentence>
+<sentence num="3">Önce Plan ve Bütçe Komisyonu'nda ,ardından da Genel Kurul'da süren 2006 yılı bütçe görüşmeleri ,yarın yapılacak son konuşmalarla sona erecek .</sentence>
+<sentence num="4">Bütçenin tümü üzerinde yapılacak görüşmelerde ,AK Parti ,ANAVATAN ve CHP grupları görüşlerini dile getirecek .</sentence>
+<sentence num="5">Konuşmaların ardından 2006 yılı Merkezi Yönetim Bütçe Kanunu Tasarısı ile 2004 Mali Yılı Kesin Hesap Kanunu tasarıları oylanacak .</sentence>
+<sentence num="6">Başbakan Recep Tayyip Erdoğan'ın ,bütçe üzerindeki eleştirilere yanıt vermesi bekleniyor .</sentence>
+<sentence num="7">Meclis Başkanı Bülent Arınç başkanlığında saat 11 .00'de toplanacak olan Genel Kurul ,çalışmalarını bütçe kabul edilinceye kadar sürdürecek .</sentence>
+<sentence num="8">YILBAŞINA KADAR GÜNDEM YOĞUN Bütçenin ardından Genel Kurul ,yılbaşına kadar yoğun bir gündemle çalışacak .</sentence>
+<sentence num="9">Genel Kurul ,15 yeni üniversite kurulmasını içeren yasa tasarısını bu hafta görüşecek .</sentence>
+<sentence num="10">Buna göre ,Kırşehir'de Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur'da Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Yozgat'ta Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi kurulacak .</sentence>
+<sentence num="11">Tasarı ,kurulacak yeni üniversiteler için toplam 2 bin kadro ihdas edilmesini de öngörüyor .</sentence>
+<sentence num="12">Anayasa Mahkemesi'nin kararının ardından doğan boşluğu giderecek olan yabancılara mülk satışını yeniden düzenleyen tasarı da bu hafta Genel Kurul'da ele alınacak .</sentence>
+<sentence num="13">ŞEMDİNLİ KOMİSYONU TBMM AB Uyum Komisyonu ,29 Aralık Perşembe günü ,Mali Suçları Araştırma Kurumu Teşkilat ve Görevleri ile Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun Tasarısı'nı görüşecek .</sentence>
+<sentence num="14">Hakkari Merkez ,Yüksekova ve Şemdinli ilçelerinde meydana gelen olayların araştırılması amacıyla kurulan Meclis Araştırma Komisyonu da bu hafta ,eski Hakkari Valisi ,eski Şemdinli Kaymakamı ile olaylar sırasında bölgede bulunan terörle mücadele daire başkanını dinleyecek .</sentence>
+</doc>
+<doc>
+<id>205752</id>
+<sentence num="0">2005 12 25 11 :19 :00 .Bütçe maratonu sona eriyor .</sentence>
+<sentence num="1">Bütçenin tümü üzerinde yapılacak görüşmelerde ,AK Parti ,ANAVATAN ve CHP grupları görüşlerini dile getirecek .</sentence>
+<sentence num="2">Konuşmaların ardından 2006 yılı Merkezi Yönetim Bütçe Kanunu Tasarısı ile 2004 Mali Yılı Kesin Hesap Kanunu tasarıları oylanacak .</sentence>
+<sentence num="3">Başbakan Recep Tayyip Erdoğan'ın ,bütçe üzerindeki eleştirilere yanıt vermesi bekleniyor .</sentence>
+<sentence num="4">Meclis Başkanı Bülent Arınç başkanlığında saat 11 .00'de toplanacak olan Genel Kurul ,çalışmalarını bütçe kabul edilinceye kadar sürdürecek .</sentence>
+<sentence num="5">YILBAŞINA KADAR GÜNDEM YOĞUN Bütçenin ardından Genel Kurul ,yılbaşına kadar yoğun bir gündemle çalışacak .</sentence>
+<sentence num="6">Genel Kurul ,15 yeni üniversite kurulmasını içeren yasa tasarısını bu hafta görüşecek .</sentence>
+<sentence num="7">Buna göre ,Kırşehir'de Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur'da Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum Hitit Üniversitesi ,Yozgat'ta Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi kurulacak .</sentence>
+<sentence num="8">Tasarı ,kurulacak yeni üniversiteler için toplam 2 bin kadro ihdas edilmesini de öngörüyor .</sentence>
+<sentence num="9">Anayasa Mahkemesi'nin kararının ardından doğan boşluğu giderecek olan yabancılara mülk satışını yeniden düzenleyen tasarı da bu hafta Genel Kurul'da ele alınacak .</sentence>
+<sentence num="10">ŞEMDİNLİ KOMİSYONU TBMM AB Uyum Komisyonu ,29 Aralık Perşembe günü ,Mali Suçları Araştırma Kurumu Teşkilat ve Görevleri ile Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun Tasarısı'nı görüşecek .</sentence>
+<sentence num="11">Hakkari Merkez ,Yüksekova ve Şemdinli ilçelerinde meydana gelen olayların araştırılması amacıyla kurulan Meclis Araştırma Komisyonu da bu hafta ,eski Hakkari Valisi ,eski Şemdinli Kaymakamı ile olaylar sırasında bölgede bulunan terörle mücadele daire başkanını dinleyecek .</sentence>
+<sentence num="12">aa .</sentence>
+</doc>
+<doc>
+<id>205790</id>
+<sentence num="0">2005 12 25 12 :28 :00 .Bütçe maratonu sona eriyor .</sentence>
+<sentence num="1">Meclis'te bu hafta bütçe görüşmeleri sona erecek TBMM'de bu hafta 2006 bütçesine yönelik görüşmeler ,yapılacak konuşmalarla sona erecek ve bütçe oylanacak .</sentence>
+<sentence num="2">Genel Kurul'da ayrıca 15 yeni üniversite kurulmasına ilişkin tasarı da bu hafta içinde görüşülecek .</sentence>
+<sentence num="3">Şemdinli Araştırma Komisyonu da Hakkari eski Valisi ile Terörle Mücadele Daire Başkanı'nı dinleyecek .</sentence>
+<sentence num="4">2005'in son haftasında milletvekillerini yine yoğun bir mesai bekliyor .</sentence>
+<sentence num="5">Meclis 2006 bütçesine yönelik görüşmeleri 2006'ya bir hafta kala tamamlıyor .</sentence>
+<sentence num="6">Pazartesi günü bütçenin tümü üzerinde yapılacak görüşmelerde AKP ,CHP ve Anavatan grupları görüşlerini dile getirecek .</sentence>
+<sentence num="7">Konuşmaların ardından milletvekilleri 2006 bütçesini oylayacak .</sentence>
+<sentence num="8">Başbakan Recep Tayyip Erdoğan'ın da bütçe üzerindeki eleştirilere Meclis kürsüsünden yanıt vermesi bekleniyor .</sentence>
+<sentence num="9">15 yeni üniversite görüşülecek Meclis Genel Kurulu'nda sadece bütçe de yok .</sentence>
+<sentence num="10">15 yeni üniversitenin kurulmasını öngören yasa tasarısı Meclis Genel Kurulu'nda tartışılacak .</sentence>
+<sentence num="11">YÖK yaptığı incelemede sadece dört yeni üniversite kurulabileceğini ,kurulması düşünülen diğer 11 üniversitenin aranan kriterleri yerine getiremediğini belirtmişti .</sentence>
+<sentence num="12">Tasarı yasalaşırsa ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ,Amasya da üniversiteye kavuşacak .</sentence>
+<sentence num="13">Tasarı kurulacak yeni üniversiteler için 2 bin kadro açılmasını da öngörüyor .</sentence>
+<sentence num="14">Meclis'in önemli konukları da var bu hafta .</sentence>
+<sentence num="15">Şemdinli'deki olayların ardından kurulan araştırma komisyonu Hakkari eski Valisi Erdoğan Gürbüz'ü dinleyecek .</sentence>
+<sentence num="16">Milletvekillerinin dinleyeceği bir başka isim de olaylar sırasında bölgede bulunan Emniyet Genel Müdürlüğü Terörle Mücadele Daire Başkanı .</sentence>
+</doc>
+<doc>
+<id>205926</id>
+<sentence num="0">2005 12 25 17 :46 :00 .Burdur'a Mehmet Akif Üniversitesi .</sentence>
+<sentence num="1">Bakan Çelik ,AK Parti Genel Gençlik Kolları tarafından Milli Eğitim Bakanlığı Şura Salonu'nda düzenlenen ''Mehmet Akif Ersoy'u Anma Toplantısı ''nda bir konuşma yaptı .</sentence>
+<sentence num="2">Mehmet Akif Ersoy'un ,mütevazı bir yaşam sürdüğünü belirten Çelik ,şunları kaydetti :''Milli mücadeleden sonra Ulu Önder Mustafa Kemal Atatürk'ün etrafına toplanan bazı insanlar ,milli mücadelenin gerçek kahramanlarını bertaraf ederek ,kendilerine yer edinmeye çalışmışlardır .</sentence>
+<sentence num="3">Mehmet Akif ,bu bağlamda uzaklaştırılmış insanlardan birisi olmuştur .</sentence>
+<sentence num="4">Mehmet Akif ,bir ayrılıkçı ,bir hizip tarafı olmamak için çok sevdiği memleketinden ayrılmak zorunda kalmıştır .</sentence>
+<sentence num="5">Gurbeti tercih etmiştir .''</sentence>
+<sentence num="6">Hüseyin Çelik ,Mehmet Akif'in mütareke ve İstiklal Savaşı dönemlerinde ,bir yazar ,şair ,aynı zamanda bir aksiyon adamı olduğunu hatırlatarak ,Mehmet Akif'in ,İstiklal Savaşı ve cumhuriyetin kuruluşundan sonra ''paye almak için kapıları zorlayan ,mevki makam elde etmek için eşik aşındıran insanlardan olmadığını ''söyledi .</sentence>
+<sentence num="7">Mehmet Akif Ersoy'un ,Birinci Meclis döneminde Burdur Milletvekili olduğunu anımsatan Çelik ,''15 üniversite kuruyoruz ,Tasarı yakın zamanda ümit ediyorum ki ,Çarşamba günü TBMM Genel Kurulu'na gelecek .</sentence>
+<sentence num="8">Bu 15 üniversiteden biri Burdur'da kurulacak ,buraya kurulacak üniversitenin adı Mehmet Akif Ersoy Üniversitesi olacak ''diye konuştu .''</sentence>
+<sentence num="9">AKİF'E KARŞI VEFASIZ DAVRANDIK ''Çelik ,Mehmet Akif Ersoy'un adının ,Kahire Üniversitesi'ndeki en büyük amfilerden birine verildiğini anlattı .</sentence>
+<sentence num="10">Ersoy'un vefatında devlet töreni yapılmadığını belirten Çelik ,''Biz maalesef ,Akif'e karşı vefasız davrandık .</sentence>
+<sentence num="11">Rahmetli Turgut Özal'ı rahmetle anıyorum .</sentence>
+<sentence num="12">Mehmet Akif'in kızına ,torununa sahip çıktı .</sentence>
+<sentence num="13">Biz büyük bir millet olmamıza rağmen gariplikleri olan bir milletiz ,biz önce Başbakanımızı ,Dışişleri bakanımızı ,Maliye bakanımızı idam ederiz .</sentence>
+<sentence num="14">Sonra da devlet töreniyle anıt mezara gömeriz ''dedi .</sentence>
+<sentence num="15">Hüseyin Çelik ,Mehmet Akif'in ,''şarap ve sevgi ''ikilemi üzerine oturmuş olan bir edebiyattan hoşlanmadığını ve buna karşı bir duruş sergilediğini söyledi .''</sentence>
+<sentence num="16">ŞEYTANIN GÖREVİ ŞEYTANLIĞINI YAPMAKTIR ''Mehmet Akif'in öz eleştirinin üstadı olduğuna dikkati çeken Bakan Çelik ,şunları söyledi :''Toplum olarak ,genellikle başımıza gelen tüm felaketleri ,olumsuzlukları kendi dışımızdaki unsurlara havale ederek kendimizi sorumluluktan kurtarmak gibi bir ucuzculuğa kaçıyoruz .</sentence>
+<sentence num="17">Siz dini bütün Müslümanlarsınız ,yarın Allah'ın huzuruna gittiğiniz zaman Allah dese ki ,'şu günahı niye işledin '...'</sentence>
+<sentence num="18">ne yapayım ya rabbim ,şeytanı yarattın başımıza musallat ettin ,o dürttü ben de günah işledim .'</sentence>
+<sentence num="19">Bu kurtarmaz ,şeytanın görevi şeytanlığını yapmaktır .</sentence>
+<sentence num="20">Sizin göreviniz ,ona karşı direnç mekanizmaları oluşturmaktır .''</sentence>
+<sentence num="21">Mehmet Akif'in ,din adı altında öğretilen ,hurafelerin bir numaralı düşmanı olduğuna dikkati çeken Hüseyin Çelik ,şu görüşlere yer verdi :''Hikmet sahibi olacaksınız ,gayret ve çalışma içinde olacaksınız ve Allah'a dayanacaksınız .</sentence>
+<sentence num="22">Ha ,ben Allah'a dayandım ,bir şey yapmıyorum .</sentence>
+<sentence num="23">Böyle olmaz ,bakıyorsunuz benim vatandaşım yazıyor arabasının üstüne ,'Allah'ın dediği olur ''...</sentence>
+<sentence num="24">Ondan sonra 3 5 şişe bira çekerek direksiyonun başına çıkıyor .</sentence>
+<sentence num="25">Bir bakıyorsunuz uçurumun altına .</sentence>
+<sentence num="26">Allah'ın dediği olur ,belanı bulursun .</sentence>
+<sentence num="27">Sonuç itibariyle biz Allah'ı istediğimiz biçimde yorumlama gibi bir hakka sahip değiliz .</sentence>
+<sentence num="28">Mehmet Akif bunları eleştiren bir insandır .''</sentence>
+<sentence num="29">Çelik ,Mehmet Akif Ersoy'un ,Birinci Dünya Savaşı esnasında bugünkü Milli İstihbarat Teşkilatı'nın bir benzeri olan Teşkilatı Mahsusa'nın çok faal bir elemanı olduğunu söyledi .</sentence>
+<sentence num="30">Çelik ,Mehmet Akif'in ''Ben parayla şiir yazacak adam değilim ''dediğini anımsattı .</sentence>
+<sentence num="31">Mehmet Akif Ersoy'un ''Allah bu millete bir daha İstiklal Marşı yazdırmasın ''dediğini hatırlatan Çelik ,''Ben de buna katılıyorum .</sentence>
+<sentence num="32">Allah bir daha bu millete İstiklal Marşı yazdırmasın ''diye konuştu .</sentence>
+<sentence num="33">AK Parti Genel Başkan Yardımcısı Akif Gülle de yaptığı konuşmada ,Mehmet Akif Ersoy'un büyük bir şair ve dava adamı olduğunu kaydetti .</sentence>
+<sentence num="34">Toplantıya ,Türkiye Büyük Millet Meclisi Başkanvekili Nevzat Pakdil ile bazı milletvekilleri ve belediye başkanları da katıldı .</sentence>
+<sentence num="35">aa .</sentence>
+</doc>
+<doc>
+<id>207595</id>
+<sentence num="0">2005 12 28 14 :36 :00 .TBMM ,15 yeni üniversite kurulmasına ilişkin tasarıyı yarın ele alacak .</sentence>
+<sentence num="1">TBMM ,15 yeni üniversite kurulmasına ilişkin tasarıyı yarın ele alacak TBMM Genel Kurulu ,15 yeni üniversite kurulmasına ilişkin kanun tasarısını yarın görüşecek .</sentence>
+<sentence num="2">Genel Kurul'da kabul edilen Danışma Kurulu önerisine göre ,bugün sırasıyla Gümrük Müsteşarlığı'nın Teşkilat ve Görevleri Hakkında KHK'ye geçici madde eklenmesine ilişkin kanun teklifi ,Tarım ve Köyişleri Bakanlığı'na bağlı döner sermaye işletmelerinin tek kanunla birleştirilmesini öngören kanun teklifi ,terör ve terörle mücadeleden doğan zararların karşılanmasına ilişkin kanun tasarısı ,Tapu Kanunu'nda değişiklik yapılmasına ilişkin kanun tasarısı ile Mahalli İdare Birlikleri Kanunu'nda değişiklik yapılmasını öngören kanun teklifi ele alınacak .</sentence>
+<sentence num="3">Genel Kurul ,yarın saat 13 .00'de toplanarak ,15 yeni üniversite kurulmasına ilişkin kanun tasarısını görüşecek .</sentence>
+</doc>
+<doc>
+<id>208282</id>
+<sentence num="0">2005 12 29 15 :24 :00 .15 Yeni Üniversite Tasarısı .</sentence>
+<sentence num="1">15 yeni üniversite kurulması için hazırlanan kanun tasarısının Meclis Genel Kurulu'nda görüşülmesine başlandı .</sentence>
+<sentence num="2">Tasarı yasalaşırsa ,Kırşehir ,Kastamonu ,Düzce ,Burdur ,Uşak ,Rize ,Tekirdağ ,Erzincan ,Aksaray ,Giresun ,Çorum ,Yozgat ,Adıyaman ,Ordu ve Amasya'da üniversite kurulacak .</sentence>
+<sentence num="3">Tasarıyla ,yeni üniversiteler için 2 bin kadro ihdas ediliyor .</sentence>
+<sentence num="4">Yeni üniversitelerin Kurucu Rektörleri 2 yıl için Milli Eğitim Bakanı ve Başbakan tarafından seçilecek 3 isim arasından Cumhurbaşkanı'nca atanacak .</sentence>
+</doc>
+<doc>
+<id>208361</id>
+<sentence num="0">2005 12 29 16 :57 :00 .15 yeni üniversite kurulmasına ilişkin tasarı görüşülüyor .</sentence>
+<sentence num="1">15 yeni üniversite kurulmasına ilişkin tasarı görüşülüyor CHP Kırşehir Milletvekili Hüseyin Bayındır ,''Oğlumun yaşam mücadelesi nedeniyle 10 aydır bulamadığım huzuru ,Kırşehir'e üniversite kurulmasıyla bir nebze buldum ''dedi .</sentence>
+<sentence num="2">TBMM Genel Kurulu'nda ,15 yeni üniversite kurulmasına ilişkin kanun tasarısının birinci maddesi üzerine söz alan Bayındır ,sözlerine ,yakalandığı kanser hastalığı nedeniyle bir süre önce yaşamını yitiren oğlu Deniz için kendisini arayanlara teşekkür ederek başladı .</sentence>
+<sentence num="3">Bayındır ,konuşmasının ardından tüm milletvekilleri tarafından alkışlanırken ,bazı milletvekillerinin gözleri doldu .</sentence>
+<sentence num="4">Üniversite kurulacak illerin milletvekilleri ,Genel Kurul'da söz alarak ,üniversite kurulmasına katkıda bulunanlara teşekkürlerini ,kısa konuşmalar yaparak iletiyor .</sentence>
+<sentence num="5">Tasarının görüşmelerine ,birinci madde ve ekleri üzerindeki görüşmelerle devam ediliyor .</sentence>
+</doc>
+<doc>
+<id>208414</id>
+<sentence num="0">2005 12 29 17 :50 :00 .TBMM kürsüsünde duygulu anlar .</sentence>
+<sentence num="1">CHP Kırşehir Milletvekili Hüseyin Bayındır ,Oğlumun yaşam mücadelesi nedeniyle 10 aydır bulamadığım huzuru ,Kırşehir'e üniversite kurulmasıyla bir nebze buldum dedi .</sentence>
+<sentence num="2">TBMM Genel Kurulu'nda ,15 yeni üniversite kurulmasına ilişkin kanun tasarısının birinci maddesi üzerine söz alan Bayındır ,sözlerine ,yakalandığı kanser hastalığı nedeniyle bir süre önce yaşamını yitiren oğlu Deniz için kendisini arayanlara teşekkür ederek başladı .</sentence>
+<sentence num="3">TBMM Başkanı Bülent Arınç ve CHP Genel Başkanı Deniz Baykal ile oğlunun 10 aydır sürdürdüğü yaşam mücadelesinde kendisine destek verenlere minnet duygularını ifade eden Bayındır ,sözlerini şöyle tamamladı :Oğluma ,önce kendim Allah'tan rahmet diliyorum .</sentence>
+<sentence num="4">Bu dileği benimle paylaşanlara teşekkür ediyorum .</sentence>
+<sentence num="5">Allah ,bu acıyı kimseye yaşatmasın .</sentence>
+<sentence num="6">10 aydır bulamadığım huzuru ,Kırşehir'e kurulacak Ahi Evran Üniversitesi ile bir nebze bulacağımı düşünüyorum .</sentence>
+<sentence num="7">Oğlum Deniz okuyamayacak ama orada okuyacak çocukların hepsinin oğlum olduğunu ,Deniz olduğunu düşünerek ;buna katkı sağlayan herkese teşekkür ediyorum .</sentence>
+<sentence num="8">Bayındır ,konuşmasının ardından tüm milletvekilleri tarafından alkışlanırken ,bazı milletvekillerinin gözleri doldu .</sentence>
+<sentence num="9">Üniversite kurulacak illerin milletvekilleri ,Genel Kurul'da söz alarak ,üniversite kurulmasına katkıda bulunanlara teşekkürlerini ,kısa konuşmalar yaparak iletiyor .</sentence>
+<sentence num="10">Tasarının görüşmelerine ,birinci madde ve ekleri üzerindeki görüşmelerle devam ediliyor .</sentence>
+</doc>
+<doc>
+<id>208431</id>
+<sentence num="0">2005 12 29 18 :09 :00 .TBMM kürsüsünde duygulu anlar .</sentence>
+<sentence num="1">TBMM Genel Kurulu'nda ,15 yeni üniversite kurulmasına ilişkin kanun tasarısının birinci maddesi üzerine söz alan Bayındır ,sözlerine ,yakalandığı kanser hastalığı nedeniyle bir süre önce yaşamını yitiren oğlu Deniz için kendisini arayanlara teşekkür ederek başladı .</sentence>
+<sentence num="2">TBMM Başkanı Bülent Arınç ve CHP Genel Başkanı Deniz Baykal ile oğlunun 10 aydır sürdürdüğü yaşam mücadelesinde kendisine destek verenlere minnet duygularını ifade eden Bayındır ,sözlerini şöyle tamamladı :Oğluma ,önce kendim Allah'tan rahmet diliyorum .</sentence>
+<sentence num="3">Bu dileği benimle paylaşanlara teşekkür ediyorum .</sentence>
+<sentence num="4">Allah ,bu acıyı kimseye yaşatmasın .</sentence>
+<sentence num="5">10 aydır bulamadığım huzuru ,Kırşehir'e kurulacak Ahi Evran Üniversitesi ile bir nebze bulacağımı düşünüyorum .</sentence>
+<sentence num="6">Oğlum Deniz okuyamayacak ama orada okuyacak çocukların hepsinin oğlum olduğunu ,Deniz olduğunu düşünerek ;buna katkı sağlayan herkese teşekkür ediyorum .</sentence>
+<sentence num="7">Bayındır ,konuşmasının ardından tüm milletvekilleri tarafından alkışlanırken ,bazı milletvekillerinin gözleri doldu .</sentence>
+<sentence num="8">Üniversite kurulacak illerin milletvekilleri ,Genel Kurul'da söz alarak ,üniversite kurulmasına katkıda bulunanlara teşekkürlerini ,kısa konuşmalar yaparak iletiyor .</sentence>
+<sentence num="9">Tasarının görüşmelerine ,birinci madde ve ekleri üzerindeki görüşmelerle devam ediliyor .</sentence>
+</doc>
+<doc>
+<id>208467</id>
+<sentence num="0">2005 12 29 19 :12 :00 .15 yeni üniversite kurulmasına dair tasarının görüşülmesine devam ediliyor .</sentence>
+<sentence num="1">15 yeni üniversite kurulmasına dair tasarının görüşülmesine devam ediliyor TBMM Genel Kurulu'nda ,Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ile Mehmet Akif Ersoy Üniversitesi'nin kurulmasını öngören ek maddeler kabul edildi .</sentence>
+<sentence num="2">Bazı illere 15 yeni üniversite kurulmasına ilişkin tasarının maddelerinin görüşülmesi sırasında söz alan CHP Bilecik Milletvekili Yaşar Tüzün ,Bilecik'e de üniversite kurulması gerektiğini söyledi .</sentence>
+<sentence num="3">Bilecik'te 7 yüksekokul ,151 öğretim görevlisi ,5 bin öğrenci ve 1500 öğrenci kapasiteli yurt bulunduğunu belirten Tüzün ,yeni üniversite kurulması için gerekli kriterleri taşıyan 15 il arasında Bilecik'in ilk 7'nci sırada yer aldığını ;buna rağmen üniversite kurulmadığını ifade etti .</sentence>
+<sentence num="4">Milletvekillerinden destek isteyen Tüzün ,''Üniversite kurulması için tüm kriterleri taşıyan ilimize haksızlık yapılmamasını talep ediyoruz .</sentence>
+<sentence num="5">Bilecik'e üniversite kurulmayacaksa adaletiniz ve kalkınmanız buysa hepinize yazıklar olsun ''dedi .</sentence>
+<sentence num="6">Anavatan Partisi grubu adına söz alan Hatay Milletvekili Züheyir Amber ise NATO üyesi ülkelerin üniversiteleri arasında işbirliği projeleri geliştirildiğini ,Türkiye'deki üniversitelerde ise NATO bünyesinde kabul edilen bir çalışma yapılmadığını söyledi .</sentence>
+<sentence num="7">NATO üyesi ülkelerin ,denizlerdeki atıkların temizlenmesi ,çatışmalardaki silahlardan dolayı çocukların zarar görmesinin önüne geçilmesi ;çevresel zararların bertaraf edilmesi ;depremlerin önceden tespit edilmesi konularına ilişkin çalışmalarında ,Türk üniversitelerinin yer almadığını ifade eden Amber ,üniversitelerin araştırma ve geliştirme çalışmalarının desteklenmesini istedi .</sentence>
+<sentence num="8">Amber ,YÖK Yasası'nın çağdaş normlara çıkarılması ,üniversitelerin araştırma ve geliştirme çalışmalarına kaynak aktarılması ,bilimsel araştırmaların desteklenmesi için imkanların seferber edilmesi gerektiğini ifade etti .</sentence>
+<sentence num="9">Amber ,üniversiteye giriş sınavlarında açıkta kalan öğrenciler için kapasite artırımına gidilmesini istedi .</sentence>
+<sentence num="10">Tasarının görüşmelerine ,birinci madde ve ekleri üzerindeki görüşmelerle devam ediliyor .</sentence>
+</doc>
+<doc>
+<id>208481</id>
+<sentence num="0">2005 12 29 20 :00 :00 .10 il üniversite için YÖK'ü bekliyor .</sentence>
+<sentence num="1">Milli Eğitim Bakanı Hüseyin Çelik ,Çankırı ,Nevşehir ,Kilis ,Siirt ,Ağrı ,Bilecik ,Artvin ,Sinop ,Karaman ve Karabük'te üniversite kurulması için YÖK'e başvurduklarını ;2006 yılı içinde bu üniversitelerin de TBMM Genel Kurulu'nda ele alınacağını söyledi .</sentence>
+<sentence num="2">Bakan Çelik ,TBMM Genel Kurulu'nda ,15 ile yeni üniversite kurulmasına ilişkin tasarının görüşmeleri sırasında yaptığı konuşmada ,Türkiye'de halen 40 ilde 77 üniversite bulunduğunu ;bugün görüşülen tasarının yasalaşması ile Türkiye'de üniversitesi olmayan 26 il kalacağını belirtti .</sentence>
+<sentence num="3">Bu 26 ilde üniversite kurulması için altyapı çalışmalarının hızla sürdürüldüğünü ve çalışmaları tamamlanan 10 ilde üniversite kurulması için YÖK'e yazı yazıldığını ifade eden Bakan Çelik ,''Sanırım YÖK'ten gelecek yazının ardından bu illerde üniversite kurulması için hazırlanacak tasarı ,2006 yılında Meclis'e gelecektir ''dedi .</sentence>
+<sentence num="4">Çelik ,hükümet olarak amaçlarının 81 ilde üniversite kurmak olduğunu belirterek ,bunun için belirledikleri kriterlere uyan her ilde yeni üniversite açabileceklerini ifade etti .</sentence>
+<sentence num="5">Hüseyin Çelik ,hükümetin üniversitelere soğuk baktığı ,gerekli desteği vermeyerek kavga ettiği yolundaki eleştirilerin doğru olmadığını belirterek ,üniversitelere yapılan yardımın ,iktidarları döneminde ikiye katlandığını söyledi .</sentence>
+<sentence num="6">Çelik ,üniversitelere 14 bin 800 kadro verildiğini ,bunların içinde öğretim üyesi kadrosunun bulunmadığını sözlerine ekledi .</sentence>
+<sentence num="7">Tasarının ek 60 .maddesinin kabul edilmesinin ardından ,Genel Kurul çalışmalarına saat 20 .00'ye kadar ara verildi .</sentence>
+<sentence num="8">AA .</sentence>
+</doc>
+<doc>
+<id>208534</id>
+<sentence num="0">2005 12 30 00 :06 :00 .Meclis'ten 4 üniversiteye onay çıktı .</sentence>
+<sentence num="1">TBMM Genel Kurulu'nda ,Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ile Mehmet Akif Ersoy Üniversitesi'nin kurulmasını öngören ek maddeler kabul edildi .</sentence>
+<sentence num="2">Bazı illere 15 yeni üniversite kurulmasına ilişkin tasarının maddelerinin görüşülmesi sırasında söz alan CHP Bilecik Milletvekili Yaşar Tüzün ,Bilecik'e de üniversite kurulması gerektiğini söyledi .</sentence>
+<sentence num="3">Bilecik'te 7 yüksekokul ,151 öğretim görevlisi ,5 bin öğrenci ve 1500 öğrenci kapasiteli yurt bulunduğunu belirten Tüzün ,yeni üniversite kurulması için gerekli kriterleri taşıyan 15 il arasında Bilecik'in ilk 7'nci sırada yer aldığını ;buna rağmen üniversite kurulmadığını ifade etti .</sentence>
+<sentence num="4">Milletvekillerinden destek isteyen Tüzün ,''Üniversite kurulması için tüm kriterleri taşıyan ilimize haksızlık yapılmamasını talep ediyoruz .</sentence>
+<sentence num="5">Bilecik'e üniversite kurulmayacaksa adaletiniz ve kalkınmanız buysa hepinize yazıklar olsun ''dedi .</sentence>
+<sentence num="6">Anavatan Partisi grubu adına söz alan Hatay Milletvekili Züheyir Amber ise NATO üyesi ülkelerin üniversiteleri arasında işbirliği projeleri geliştirildiğini ,Türkiye'deki üniversitelerde ise NATO bünyesinde kabul edilen bir çalışma yapılmadığını söyledi .</sentence>
+<sentence num="7">NATO üyesi ülkelerin ,denizlerdeki atıkların temizlenmesi ,çatışmalardaki silahlardan dolayı çocukların zarar görmesinin önüne geçilmesi ;çevresel zararların bertaraf edilmesi ;depremlerin önceden tespit edilmesi konularına ilişkin çalışmalarında ,Türk üniversitelerinin yer almadığını ifade eden Amber ,üniversitelerin araştırma ve geliştirme çalışmalarının desteklenmesini istedi .</sentence>
+<sentence num="8">Amber ,YÖK Yasası'nın çağdaş normlara çıkarılması ,üniversitelerin araştırma ve geliştirme çalışmalarına kaynak aktarılması ,bilimsel araştırmaların desteklenmesi için imkanların seferber edilmesi gerektiğini ifade etti .</sentence>
+<sentence num="9">Amber ,üniversiteye giriş sınavlarında açıkta kalan öğrenciler için kapasite artırımına gidilmesini istedi .</sentence>
+<sentence num="10">Tasarının görüşmelerine ,birinci madde ve ekleri üzerindeki görüşmelerle devam ediliyor .</sentence>
+<sentence num="11">AA .</sentence>
+</doc>
+<doc>
+<id>208540</id>
+<sentence num="0">2005 12 30 00 :22 :00 .Meclis yeni üniversitelere kilitlendi .</sentence>
+<sentence num="1">TBMM Genel Kurulu'nda ,15 yeni üniversite kurulmasına ilişkin tasarının ,Uşak Üniversitesi ,Rize Üniversitesi ,Namık Kemal Üniversitesi ,Erzincan Üniversitesi ile Aksaray Üniversitesi kurulmasını öngören ek maddeleri kabul edildi .</sentence>
+<sentence num="2">Genel Kurul'da ,bazı illere 15 yeni üniversite kurulmasına ilişkin tasarı görüşülüyor .</sentence>
+<sentence num="3">Tasarının 1 .maddesinin ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ile Aksaray Üniversitesi kurulmasını öngören ek maddeleri kabul edildi .</sentence>
+<sentence num="4">Tasarı üzerinde görüşmelere devam ediliyor .</sentence>
+<sentence num="5">AA .</sentence>
+</doc>
+<doc>
+<id>208553</id>
+<sentence num="0">2005 12 30 04 :40 :00 .15 yeni üniversite kuruluyor ...</sentence>
+<sentence num="1">TBMM Genel Kurulu'nda ,15 yeni üniversite kurulmasına ilişkin tasarı kabul edildi .</sentence>
+<sentence num="2">Genel Kurul'da ,tasarı üzerindeki görüşmeler yaklaşık 15 saat sürerken ,milletvekillerinin üniversitelerin isimlerinin değiştirilmesi ya da illerine yeni üniversite kurulması için verdiği önergeler ,hükümet ve komisyonun karşı çıkması nedeniyle kabul edilmedi .</sentence>
+<sentence num="3">Yasayla kurulması öngörülen yeni üniversiteler şunlar :Kırşehir'de Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur'da Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum'da Hitit Üniversitesi ,Yozgat'ta Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="4">Kurulacak üniversiteler için toplam 2 bin kadro ihdas edilmesi de öngörülüyor .</sentence>
+<sentence num="5">Genel Kurul'daki görüşmeler sırasında ,çok sayıda milletvekili söz alarak ,seçim bölgelerinde üniversite kurulmasını veya kurulan üniversitelere yeni fakülte ya da meslek yüksek okulu eklenmesini isterken ,illerinde yeni üniversite kurulacak milletvekilleri ise katkıda bulunanlara teşekkür etti .</sentence>
+<sentence num="6">Milli Eğitim Bakanı Hüseyin Çelik de bir teşekkür konuşması yaptı .</sentence>
+<sentence num="7">TBMM Başkanvekili Nevzat Pakdil ,3 Ocak 2006 Salı günü saat 15 .00'te toplanmak üzere Genel Kurul'u kapattı .</sentence>
+</doc>
+<doc>
+<id>208554</id>
+<sentence num="0">2005 12 30 04 :44 :00 .15 yeni üniversite kurulmasına yönelik tasarı kabul edildi .</sentence>
+<sentence num="1">15 yeni üniversite kurulmasına yönelik tasarı kabul edildi TBMM Genel Kurulu'nda ,15 yeni üniversite kurulmasına ilişkin tasarı kabul edildi .</sentence>
+<sentence num="2">Genel Kurul'da ,tasarı üzerindeki görüşmeler yaklaşık 15 saat sürerken ,milletvekillerinin üniversitelerin isimlerinin değiştirilmesi ya da illerine yeni üniversite kurulması için verdiği önergeler ,hükümet ve komisyonun karşı çıkması nedeniyle kabul edilmedi .</sentence>
+<sentence num="3">Yasayla kurulması öngörülen yeni üniversiteler şunlar :''Kırşehir'de Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur'da Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum'da Hitit Üniversitesi ,Yozgat'ta Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .''</sentence>
+<sentence num="4">Kurulacak üniversiteler için toplam 2 bin kadro ihdas edilmesi de öngörülüyor .</sentence>
+<sentence num="5">Genel Kurul'daki görüşmeler sırasında ,çok sayıda milletvekili söz alarak ,seçim bölgelerinde üniversite kurulmasını veya kurulan üniversitelere yeni fakülte ya da meslek yüksek okulu eklenmesini isterken ,illerinde yeni üniversite kurulacak milletvekilleri ise katkıda bulunanlara teşekkür etti .</sentence>
+<sentence num="6">Milli Eğitim Bakanı Hüseyin Çelik de bir teşekkür konuşması yaptı .</sentence>
+<sentence num="7">TBMM Başkanvekili Nevzat Pakdil ,3 Ocak 2006 Salı günü saat 15 .00'te toplanmak üzere Genel Kurul'u kapattı .</sentence>
+</doc>
+<doc>
+<id>208584</id>
+<sentence num="0">2005 12 30 08 :09 :00 .15 yeni üniversite kuruluyor .</sentence>
+<sentence num="1">15 yeni üniversite kurulmasını öngören yasa tasarısı TBMM'de kabul edildi İLGİLİ HABERLER ?</sentence>
+<sentence num="2">Ek yerleştirme için başvurular başlıyor TBMM Genel Kurulu'nda ,15 yeni üniversite kurulmasına ilişkin tasarı kabul edildi .</sentence>
+<sentence num="3">Genel Kurul'da ,tasarı üzerindeki görüşmeler yaklaşık 15 saat sürerken ,milletvekillerinin üniversitelerin isimlerinin değiştirilmesi ya da illerine yeni üniversite kurulması için verdiği önergeler ,hükümet ve komisyonun karşı çıkması nedeniyle kabul edilmedi .</sentence>
+<sentence num="4">Kurulacak üniversiteler için toplam 2 bin kişilik kadro oluşturulması öngörülüyor .</sentence>
+<sentence num="5">Yeni üniversiteler Yasayla kurulması öngörülen yeni üniversiteler şunlar :Kırşehir'de Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur'da Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum'da Hitit Üniversitesi ,Yozgat'ta Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi Amasya Üniversitesi .</sentence>
+<sentence num="6">Genel Kurul'daki görüşmeler sırasında ,çok sayıda milletvekili söz alarak ,seçim bölgelerinde üniversite kurulmasını veya kurulan üniversitelere yeni fakülte ya da meslek yüksek okulu eklenmesini isterken ,illerinde yeni üniversite kurulacak milletvekilleri ise katkıda bulunanlara teşekkür etti .</sentence>
+<sentence num="7">Milli Eğitim Bakanı Hüseyin Çelik de bir teşekkür konuşması yaptı .</sentence>
+<sentence num="8">Tabela üniversitelerinin faydası yok Bakan Çelik ,1 aralıkta yaptığı açıklamada yeni kurulacak üniversitelere kadro tahsisi yapıldığını da hatırlatarak ,bu üniversitelerin zaman içinde kendilerini geliştireceklerini söylemişti .</sentence>
+<sentence num="9">Çelik ,''tabela üniversitelerinin Türkiye'ye bir faydası olmaz .</sentence>
+<sentence num="10">Bunun bilincindeyiz .</sentence>
+<sentence num="11">Bu illere üniversite kursak da kurmasak da oralardaki fakültelerde eğitim devam ediyor ''diye konuşmuştu .</sentence>
+<sentence num="12">Çelik ,dünyanın hiçbir yerinde üniversite mezunlarının tamamının kamuda istihdam edildiği bir model bulunmadığını belirterek ,Türkiye'de öğretim üyesi sayısının da rasyonel dağılmadığını kaydetmişti .</sentence>
+<sentence num="13">Türkiye'de 16 bin 445 öğretim üyesi (profesör ve doçent )bulunduğunu ifade eden Çelik ,bunlardan 10 bin 95'inin İstanbul ,Ankara ve İzmir'de görev yaptığını söylemişti .</sentence>
+<sentence num="14">Çelik'in bu konuda dikkat çektiği diğer noktalar şöyle :Üniversitelerde 1 milyon 941 bin öğrenci var Üç büyük ildeki öğrenci sayısı 428 bin Üç büyük ildeki 428 bin öğrenciye 10 bin 95 öğretim üyesi düşüyor Diğer illerdeki 1 .5 milyon öğrenci 6 bin 340 öğretim üyesinden ders alıyor .</sentence>
+</doc>
+<doc>
+<id>208595</id>
+<sentence num="0">2005 12 30 09 :00 :00 .15 yeni Üniversite Meclisten geçti .</sentence>
+<sentence num="1">Genel Kurul'da ,tasarı üzerindeki görüşmeler yaklaşık 15 saat sürerken ,milletvekillerinin üniversitelerin isimlerinin değiştirilmesi ya da illerine yeni üniversite kurulması için verdiği önergeler ,hükümet ve komisyonun karşı çıkması nedeniyle kabul edilmedi .</sentence>
+<sentence num="2">Yasayla kurulması öngörülen yeni üniversiteler şunlar :Kırşehir'de Ahi Evran Üniversitesi ,Kastamonu Üniversitesi ,Düzce Üniversitesi ,Burdur'da Mehmet Akif Ersoy Üniversitesi ,Uşak Üniversitesi ,Rize Üniversitesi ,Tekirdağ'da Namık Kemal Üniversitesi ,Erzincan Üniversitesi ,Aksaray Üniversitesi ,Giresun Üniversitesi ,Çorum'da Hitit Üniversitesi ,Yozgat'ta Bozok Üniversitesi ,Adıyaman Üniversitesi ,Ordu Üniversitesi ve Amasya Üniversitesi .</sentence>
+<sentence num="3">Kurulacak üniversiteler için toplam 2 bin kadro ihdas edilmesi de öngörülüyor .</sentence>
+<sentence num="4">Genel Kurul'daki görüşmeler sırasında ,çok sayıda milletvekili söz alarak ,seçim bölgelerinde üniversite kurulmasını veya kurulan üniversitelere yeni fakülte ya da meslek yüksek okulu eklenmesini isterken ,illerinde yeni üniversite kurulacak milletvekilleri ise katkıda bulunanlara teşekkür etti .</sentence>
+<sentence num="5">Milli Eğitim Bakanı Hüseyin Çelik de bir teşekkür konuşması yaptı .</sentence>
+<sentence num="6">TBMM Başkanvekili Nevzat Pakdil ,3 Ocak 2006 Salı günü saat 15 .00'te toplanmak üzere Genel Kurul'u kapattı .</sentence>
+</doc>
+<doc>
+<id>209125</id>
+<sentence num="0">2005 12 30 21 :20 :00 .Üniversite kurulacak şehirlerde büyük sevinç ...</sentence>
+<sentence num="1">Adıyaman Belediyesi ,TBMM Genel Kurulu'nda ,kente yeni üniversite kurulmasına ilişkin tasarının kabul edilmesini ,tarihi Adıyaman Kalesi'nden top atışı yaptırarak kutladı .</sentence>
+<sentence num="2">AA muhabirinin aldığı bilgiye göre ,aralarında Adıyaman'ın da bulunduğu 15 ile yeni üniversite kurulmasına ilişkin tasarının dün kabul edilmesi ,Adıyaman'da sevinçle karşılandı .</sentence>
+<sentence num="3">Adıyaman Belediyesi ,üniversite kurulacak olmasını ,ramazan ayında iftar saatinde kullanılan tarihi Adıyaman Kalesi'ndeki topu ateşleyerek kutladı .</sentence>
+<sentence num="4">Kutlamalar çerçevesinde ,ayrıca cadde ve sokaklar bayraklarla süslendi ,davul zurna eşliğinde vatandaşlar halay çekti .</sentence>
+<sentence num="5">Ayrıca ,belediye hoparlöründen ,Adıyaman'da üniversite kurulması konusunda destek veren Başbakan Recep Tayip Erdoğan ,Milli Eğitim Bakanı Hüseyin Çelik ve milletvekillerine teşekkür edildi .</sentence>
+<sentence num="6">Adıyaman Belediye Başkanı Necip Büyükaslan ,AK Parti İl Başkanı Ahmet Aydın ve belediye meclis üyeleriyle birlikte düzenlediği basın toplantısında ,uzun yıllardır Adıyaman'da üniversite kurulması için girişimlerde bulunduklarını ve sonuca ulaşmayı başardıkları için mutlu olduklarını söyledi .</sentence>
+<sentence num="7">UŞAK'TA BELEDİYE ŞÖLEN DÜZENLEDİ Uşak'ın ,15 yeni üniversite kurulacak yerler arasında bulunması ,kentte sevinçle karşılandı .</sentence>
+<sentence num="8">15 yeni üniversite kurulmasına ilişkin tasarının TBMM Genel Kurulu'nda kabul edilmesi üzerine Uşak Belediyesi tarafından şölen düzenlendi .</sentence>
+<sentence num="9">Uşak Belediyesi önündeki şölene Uşak Valisi Kayhan Kavas ,AKP Uşak milletvekilleri Alim Tunç ve Ahmet Çağlayan ,Belediye Başkanı Mesut Apaydın ,Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı İsmail Karaman ,il protokolü ve vatandaşlar katıldı .</sentence>
+<sentence num="10">Milletvekilleri Çağlayan ve Tunç ,Uşak milletvekillerinin üniversite için 2002 yılında TBMM'ye başvurduklarını anımsattı .</sentence>
+<sentence num="11">Sivil toplum örgütleri ,yerel basın ve tüm Uşak halkına verdikleri destek için teşekkür eden Çağlayan ve Tunç ,üniversitenin bir kentin bacasız fabrikası olduğunu ,Uşak Üniversitesi'nin kentin önünü açacağını dile getirdi .</sentence>
+<sentence num="12">Belediye Başkanı Mesut Apaydın da konuşmasında ,kente üniversite kurulması kararının tüm Uşaklılar'ın başarısı olduğunu belirterek ,Yılbaşı ,Kurban bayramı ve üniversiteyi bir arada kutluyoruz .</sentence>
+<sentence num="13">Kültürlü bir şehir olacağız .</sentence>
+<sentence num="14">30 bin üniversiteli kentimize gelecek .</sentence>
+<sentence num="15">Yılda 30 milyon dolar girdi sağlanacak .</sentence>
+<sentence num="16">Doğalgaz geldi ,üniversite kuruluyor ,havaalanımız da açılıyor .</sentence>
+<sentence num="17">Hepimize hayırlı olsun diye konuştu .</sentence>
+<sentence num="18">Konuşmaların ardından müzik eşliğinde havai fişek gösteri yapıldı .</sentence>
+<sentence num="19">Milletvekili Alim Tunç ve Belediye Başkanı Mesut Apaydın halay çekti .</sentence>
+</doc>
+<doc>
+<id>209143</id>
+<sentence num="0">2005 12 30 22 :28 :00 .U ?</sentence>
+<sentence num="1">ak'ta üniversite sevinci .</sentence>
+<sentence num="2">U ?</sentence>
+<sentence num="3">ak'ta üniversite sevinci U ?</sentence>
+<sentence num="4">ak '?</sentence>
+<sentence num="5">n ,15 yeni üniversite kurulacak yerler aras ?</sentence>
+<sentence num="6">nda bulunmas ?,</sentence>
+<sentence num="7">kentte sevinçle kar ??</sentence>
+<sentence num="8">land ?.</sentence>
+<sentence num="9">15 yeni üniversite kurulmas ?</sentence>
+<sentence num="10">na ili ?</sentence>
+<sentence num="11">kin tasar ?</sentence>
+<sentence num="12">n ?</sentence>
+<sentence num="13">n TBMM Genel Kurulu'nda kabul edilmesi üzerine U ?</sentence>
+<sentence num="14">ak Belediyesi taraf ?</sentence>
+<sentence num="15">ndan ?</sentence>
+<sentence num="16">ölen düzenlendi .</sentence>
+<sentence num="17">U ?</sentence>
+<sentence num="18">ak Belediyesi önündeki ?</sentence>
+<sentence num="19">ölene U ?</sentence>
+<sentence num="20">ak Valisi Kayhan Kavas ,AKP U ?</sentence>
+<sentence num="21">ak milletvekilleri Alim Tunç ve Ahmet Ça ?</sentence>
+<sentence num="22">layan ,Belediye Ba ?</sentence>
+<sentence num="23">kan ?</sentence>
+<sentence num="24">Mesut Apayd ?</sentence>
+<sentence num="25">n ,Ticaret ve Sanayi Odas ?</sentence>
+<sentence num="26">Yönetim Kurulu Ba ?</sentence>
+<sentence num="27">kan ??</sentence>
+<sentence num="28">smail Karaman ,il protokolü ve vatanda ?</sentence>
+<sentence num="29">lar kat ?</sentence>
+<sentence num="30">ld ?.</sentence>
+<sentence num="31">Milletvekilleri Ça ?</sentence>
+<sentence num="32">layan ve Tunç ,U ?</sentence>
+<sentence num="33">ak milletvekillerinin üniversite için 2002 y ?</sentence>
+<sentence num="34">l ?</sentence>
+<sentence num="35">nda TBMM'ye ba ?</sentence>
+<sentence num="36">vurduklar ?</sentence>
+<sentence num="37">n ?</sentence>
+<sentence num="38">an ?</sentence>
+<sentence num="39">msatt ?.</sentence>
+<sentence num="40">Sivil toplum örgütleri ,yerel bas ?</sentence>
+<sentence num="41">n ve tüm U ?</sentence>
+<sentence num="42">ak halk ?</sentence>
+<sentence num="43">na verdikleri destek için te ?</sentence>
+<sentence num="44">ekkür eden Ça ?</sentence>
+<sentence num="45">layan ve Tunç ,üniversitenin bir kentin bacas ?</sentence>
+<sentence num="46">z fabrikas ?</sentence>
+<sentence num="47">oldu ?</sentence>
+<sentence num="48">unu ,U ?</sentence>
+<sentence num="49">ak Üniversitesi'nin kentin önünü açaca ??</sentence>
+<sentence num="50">n ?</sentence>
+<sentence num="51">dile getirdi .</sentence>
+<sentence num="52">Belediye Ba ?</sentence>
+<sentence num="53">kan ?</sentence>
+<sentence num="54">Mesut Apayd ?</sentence>
+<sentence num="55">n da konu ?</sentence>
+<sentence num="56">mas ?</sentence>
+<sentence num="57">nda ,kente üniversite kurulmas ?</sentence>
+<sentence num="58">karar ?</sentence>
+<sentence num="59">n ?</sentence>
+<sentence num="60">n tüm U ?</sentence>
+<sentence num="61">akl ?</sentence>
+<sentence num="62">lar '?</sentence>
+<sentence num="63">n ba ?</sentence>
+<sentence num="64">ar ?</sentence>
+<sentence num="65">s ?</sentence>
+<sentence num="66">oldu ?</sentence>
+<sentence num="67">unu belirterek ,''Y ?</sentence>
+<sentence num="68">lba ??,</sentence>
+<sentence num="69">Kurban bayram ?</sentence>
+<sentence num="70">ve üniversiteyi bir arada kutluyoruz .</sentence>
+<sentence num="71">Kültürlü bir ?</sentence>
+<sentence num="72">ehir olaca ??</sentence>
+<sentence num="73">z .</sentence>
+<sentence num="74">30 bin üniversiteli kentimize gelecek .</sentence>
+<sentence num="75">Y ?</sentence>
+<sentence num="76">lda 30 milyon dolar girdi sa ?</sentence>
+<sentence num="77">lanacak .</sentence>
+<sentence num="78">Do ?</sentence>
+<sentence num="79">algaz geldi ,üniversite kuruluyor ,havaalan ?</sentence>
+<sentence num="80">m ?</sentence>
+<sentence num="81">z da aç ?</sentence>
+<sentence num="82">l ?</sentence>
+<sentence num="83">yor .Hepimize hay ?</sentence>
+<sentence num="84">rl ?</sentence>
+<sentence num="85">olsun ''diye konu ?</sentence>
+<sentence num="86">tu .</sentence>
+<sentence num="87">Konu ?</sentence>
+<sentence num="88">malar ?</sentence>
+<sentence num="89">n ard ?</sentence>
+<sentence num="90">ndan müzik e ?</sentence>
+<sentence num="91">li ?</sentence>
+<sentence num="92">inde havai fi ?</sentence>
+<sentence num="93">ek gösteri yap ?</sentence>
+<sentence num="94">ld ?.Milletvekili Alim Tunç ve Belediye Ba ?</sentence>
+<sentence num="95">kan ?</sentence>
+<sentence num="96">Mesut Apayd ?</sentence>
+<sentence num="97">n halay çekti .</sentence>
+</doc>
+<doc>
+<id>209160</id>
+<sentence num="0">2005 12 31 00 :03 :00 .Uşak'ta üniversite sevinci .</sentence>
+<sentence num="1">Uşak'ın ,15 yeni üniversite kurulacak yerler arasında bulunması ,kentte sevinçle karşılandı .</sentence>
+<sentence num="2">15 yeni üniversite kurulmasına ilişkin tasarının TBMM Genel Kurulu'nda kabul edilmesi üzerine Uşak Belediyesi tarafından şölen düzenlendi .</sentence>
+<sentence num="3">Uşak Belediyesi önündeki şölene Uşak Valisi Kayhan Kavas ,AKP Uşak milletvekilleri Alim Tunç ve Ahmet Çağlayan ,Belediye Başkanı Mesut Apaydın ,Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı İsmail Karaman ,il protokolü ve vatandaşlar katıldı .</sentence>
+<sentence num="4">Milletvekilleri Çağlayan ve Tunç ,Uşak milletvekillerinin üniversite için 2002 yılında TBMM'ye başvurduklarını anımsattı .</sentence>
+<sentence num="5">Sivil toplum örgütleri ,yerel basın ve tüm Uşak halkına verdikleri destek için teşekkür eden Çağlayan ve Tunç ,üniversitenin bir kentin bacasız fabrikası olduğunu ,Uşak Üniversitesi'nin kentin önünü açacağını dile getirdi .</sentence>
+<sentence num="6">Belediye Başkanı Mesut Apaydın da konuşmasında ,kente üniversite kurulması kararının tüm Uşaklılar'ın başarısı olduğunu belirterek ,''Yılbaşı ,Kurban bayramı ve üniversiteyi bir arada kutluyoruz .</sentence>
+<sentence num="7">Kültürlü bir şehir olacağız .</sentence>
+<sentence num="8">30 bin üniversiteli kentimize gelecek .</sentence>
+<sentence num="9">Yılda 30 milyon dolar girdi sağlanacak .</sentence>
+<sentence num="10">Doğalgaz geldi ,üniversite kuruluyor ,havaalanımız da açılıyor .</sentence>
+<sentence num="11">Hepimize hayırlı olsun ''diye konuştu .</sentence>
+<sentence num="12">Konuşmaların ardından müzik eşliğinde havai fişek gösteri yapıldı .</sentence>
+<sentence num="13">Milletvekili Alim Tunç ve Belediye Başkanı Mesut Apaydın halay çekti .</sentence>
+</doc>

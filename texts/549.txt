@@ -1,0 +1,1289 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 08 14 12 :24 :00 .atina'da rum yolcu uçağı düştü uçakta bulunan 121 kişinin tamamının öldüğü tahmin ediliyor ..</sentence>
+<sentence num="1">atina'da rum yolcu uçağı düştü yunanistan'ın başkenti atina'da kıbrıs rum kesimi helios havayollarına ait ,larnaka atina prag seferi yapmakta olan 737 boing tipi uçak ,121 yolcusu ile ülkenin 100 kilometre kuzeydoğusunda düştü .</sentence>
+<sentence num="2">rum kesiminde larnaka'dan yunanistan'ın başkenti atina üzerinden çek cumhuriyeti'nin başkenti prag'a giden yolcu uçağı atina'nın kuzeyindeki gramatikos dağlık bölgesinde düştü .</sentence>
+<sentence num="3">uçakta kaç kişi olduğu henüz kesin olarak bilinmiyor .</sentence>
+<sentence num="4">yunan devlet televizyonu uçakta 110 kişi olduğunu belirtirken ,atina havaalanı kontrol kulesinden bir yetkili ise ,larnaka'dan kalkan uçakta 115'i yolcu 6'sı mürettebat 121 kişinin bulunduğunu söyledi .</sentence>
+<sentence num="5">yunan polisi ,kazadan kurtulan olmadığı ihtimalinin yüksek olduğunu belirtti .</sentence>
+<sentence num="6">uçağın radardan kaybolması üzerine yunanistan ,iki f 16'yı uçağı bulmak üzere görevlendirdi .</sentence>
+<sentence num="7">f 16 pilotları uçağı bulduklarında ,pilotlardan birinin baygın halde koltuğa yığılmış olduğunu ,diğer pilotla el kol işaretleriyle anlaşmaya çalışırken de uçağın aniden irtifa kaybedip düşmeye başladığını anlattı .</sentence>
+<sentence num="8">uçağa eşlik eden yunan jet pilotları ,pilot kabininde gördüklerinin normal olmadığını belirterek ,yolcu uçağının pilotlarını hareketsiz ve iki büklüm gördüklerini rapor etti .</sentence>
+<sentence num="9">uçağın enkazına ulaşıldı yunan medyası ,düşen rum uçağının enkazına ulaşıldığını ,ancak herhangi bir yaşam belirtisine henüz rastlanmadığını duyurdu .</sentence>
+<sentence num="10">gelen haberlerde ,uçağın kuyruk kısmının haricinde ,tüm gövdenin parçalara ayrıldığını ,daha önce söndürülen yangının tekrar alevlendiği ve kontrol altına alınmaya çalışıldığı belirtiliyor .</sentence>
+<sentence num="11">uçakta bulunan 6 kişilik mürettebat ile 115 yolcunun tümünün ilk belirlemelere göre kıbrıslı rumlar olduklarını açıklayan televizyonlar ,söz konusu uçağın geçmişte teknik arızalar verdiğini ,uçağın daha önce seferden alıkonulması gerektiğini belirttiler .</sentence>
+<sentence num="12">korsan ihtimali araştırılıyor yunan genelkurmay başkanlığı sözcüsü ,kıbrıs rum havayolları ilios'a ait yolcu uçağının atina'nın kuzeydoğusuna düşmesine hava korsanlığı eyleminin yol açmış olabileceği ihtimalini değerlendirdiklerini açıkladı .</sentence>
+<sentence num="13">sözcü ,''hava korsanlarının eylemi söz konusu olabilir .</sentence>
+<sentence num="14">bu ,ihtimal dışı değil ''dedi .</sentence>
+<sentence num="15">yunan alfa radyosu da ,korsan ihtimalinden söz etti .</sentence>
+<sentence num="16">kurtarma ekipleri uçağın düştüğü bölgeye hareket ederken ,tatildeki yunan politikacıların da atina'ya dönmek üzere oldukları belirtildi .</sentence>
+<sentence num="17">yunanistan başbakanı kostas karamanlis ise ,atina'ya döner dönmez acil durum toplantısı yaptı .'</sentence>
+<sentence num="18">klimadan zehirli gaz sızıntısı 'ihtimali yunan medyasınaz göre ,larnaka'daki havaalanı yetkilileri ,kalkışından hemen sonra uçağın fazla ısındığına dair bilgi aldıklarını ,klima sisteminde arıza nedeniyle zehirli gaz sızıntısının yolcu ve görevlileri bayıltmış olabileceğini söylediler .</sentence>
+<sentence num="19">grammatikos yakınlarındaki yerleşim alanında bulunan insanların uçağın düşmesiyle birlikte çıkan ufak çaplı yangını kontrol altına aldıkları ve kurtarma çalışmalarını başlattıkları belirtildi .</sentence>
+</doc>
+<doc>
+<id>132653</id>
+<sentence num="0">2005 08 14 12 :25 :00 .Kıbrıs Rum Kesimine ait yolcu uçağı düştü ...</sentence>
+<sentence num="1">Kıbrıs Rum Kesimi Helios Havayollarına ait bir yolcu uçağı ,saat 12 :20 sıralarında Atina'nın 30 kilometre kuzeyinde düştü .</sentence>
+<sentence num="2">Uçaktaki 121 kişiden kurtulan olmadı .</sentence>
+<sentence num="3">Uçağın düşüş nedeninin teknik bir aksaklıktan kaynaklanması ihtimalleri giderek güç kazanıyor .</sentence>
+<sentence num="4">Uçağın ,radardan kaybolduğu sırada kendisine iki Yunan F 16 jetinin yaklaştığı ,jet pilotlarının yolcu uçağının ikinci pilotunu hastalanarak aniden yere düşerken gördükleri belirtiliyor .</sentence>
+<sentence num="5">Yolcu uçağına eşlik eden F 16 pilotlarından biri ,Savunma Bakanlığı'na ,yolcu uçağınının kaptan pilotunu kokpitte görmediğini ,ikinci pilotunun ise kazadan hemen önce koltuğundan aniden yere düştüğünü gördüğünü söyledi .</sentence>
+<sentence num="6">Atina havaalanı kontrol kulesinden bir yetkili ise AFP'ye yaptığı açıklamada ,Larnaka'dan kalkan 115 yolcu ve 6 kişilik mürettebatı bulunan uçağın Atina'nın kuzeydoğusunda bir dağa çarptığını söyledi .</sentence>
+<sentence num="7">Yetkili ,kurtulan olup olmadığının bilinmediğini ifade etti .</sentence>
+<sentence num="8">Yunanistan Başbakanı Costas Karamanlis ,tatilini yarıda keserek Atina'ya döndü .</sentence>
+<sentence num="9">Atina'da konuyla ilgili acil bir toplantı yapıldığı öğrenildi .</sentence>
+<sentence num="10">YOLCUNUN SON MESAJI Uçağın düşmesinden önce bir yolcunun kuzenine gönderdiği bir cep telefonu mesajında ,donduklarını yazdığı bildirildi .</sentence>
+<sentence num="11">Yunan televizyonlarının haberine göre ,söz konusu yolcu ,mesajında ,Pilot mosmor oldu .</sentence>
+<sentence num="12">Elveda kuzen ,donuyoruz diye yazdı .</sentence>
+<sentence num="13">YAŞAM BELİRTİSİ YOK Atina'nın kuzeyindeki Grammatikos bölgesinde düşen Rum uçağının enkazına ulaşıldığı ,ancak herhangi bir yaşam belirtisine henüz rastlanmadığı bildirildi .</sentence>
+<sentence num="14">Yunan televizyonları ,uçağın kuyruk kısmının haricinde ,tüm gövdenin parçalara ayrıldığını ,daha önce söndürülen yangının tekrar alevlendiğini ve kontrol altına alınmaya çalışıldığını duyurdular .</sentence>
+<sentence num="15">Uçakta bulunan 6 kişilik mürettebat ile 115 yolcunun tümünün ilk belirlemelere göre Kıbrıslı Rumlar olduklarını kaydeden televizyonlar ,söz konusu uçağın geçmişte teknik arızalar verdiğini ,seferden alıkonulması gerekirken bunun yapılmadığını belirttiler .</sentence>
+<sentence num="16">BÜYÜK BİR FACİADAN DÖNÜLDÜ Bu arada ,Yunan televizyonları ,basınç kaybı yaşadığı sanılan uçaktaki 121 kişinin havadayken ölmüş olabileceklerini kaydettikleri haber bültenlerinde ,uçağın düştüğü alanın yerleşim birimlerinden sadece 2 kilometre uzakta olduğunu ,bunun ise daha büyük bir faciadan kılpayı kurtulunduğu anlamına geldiğini belirttiler .</sentence>
+<sentence num="17">Televizyonlar ,söz konusu uçağın geçen yıl Varşova Larnaka seferi yaptığı sırada basınç kaybı sorunuyla karşı karşıya kaldığının belirlendiğini ,Larnaka'ya inişten sonra çok sayıda yolcunun solunum sorunları nedeniyle hastaneye kaldırıldığını duyurdular .</sentence>
+<sentence num="18">YOLCULARIN ÇOĞUNLUĞU ÇOCUK OLABİLİR Yunan televizyonları ,uçakta 80 kadar çocuğun bulunduğu tahminlerine de yer verdiler .</sentence>
+<sentence num="19">Uçağın düştüğü alanda çıkan 4 ayrı yangının kontrol altına alınmaya çalışıldığını bildiren televizyonlar ,bu yangınların olası bulguları yok etmesinin yanı sıra arama kurtarma çalışmalarını da güçleştirdiğini kaydettiler .</sentence>
+<sentence num="20">UÇAK NEDEN DÜŞTÜ ?</sentence>
+<sentence num="21">Düşen uçağın klima sisteminde arıza olduğu sanılıyor .</sentence>
+<sentence num="22">Yunan medyasının verdiği bilgiye göre ,Larnaka'daki havaalanı yetkilileri ,kalkışından hemen sonra uçağın fazla ısındığına dair bilgi aldıklarını ,klima sisteminde arıza nedeniyle zehirli gaz sızıntısının yolcu ve görevlileri bayıltmış olabileceğini söylediler .</sentence>
+<sentence num="23">Bu arada ,uçağın termostadıyla ilgili arızalar yaşandığını ve son olarak iki ay önce aynı sorunla bakıma alındığını kaydeden televizyonlar ,Larnaka havaanından alınan ilk bilgilerin ,kokpitte basınç kaybı yaşandığı yönünde olduğunu belirttiler .</sentence>
+<sentence num="24">Televizyonlar ,Yunan hava sahasına girdikten sonra alışılmışın dışında seyreden uçakta basınç kaybı nedeniyle pilotların baygın halde olduklarının ,otomatik pilotaja bağlanan uçağın ise bir süre sonra yakıt yetersizliği nedeniyle düştüğünün sanıldığını bildirdiler .</sentence>
+<sentence num="25">Kıbrıs Rum kesiminin İlios havayollarına ait 737 Boing tipi uçak hakkında Atina havalanından bilgi alınamaması ,Yunan basınının sıkıntısı haline geldi .</sentence>
+<sentence num="26">Yunan televizyonları ,havaalanının basın bürosunun kapalı olduğunu ve yekililerin bilgi vermediğini bildirdiler .</sentence>
+<sentence num="27">UÇAK ,BİRKAÇ GÜN ÖNCE SEFERE BAŞLAMIŞ Rum radyosunun haberine göre ise ,kazanın ardından Larnaka Havaalanı'na giden Kıbrıs Rum yönetimi Ulaştırma Bakanı Haris Thrasu ,uçağın havalandırma sistemindeki arıza nedeniyle bakım gördüğünü ve seferlerine henüz birkaç gün önce yeniden başladığını söyledi .</sentence>
+<sentence num="28">Uçak pilotunun Yunan hava sahasına girmeden kısa süre önce Rum Hava Trafik Kontrol Merkezi ile temasa geçerek ,havalandırma sisteminde arıza olduğunu haber verdiği ve daha sonra uçakla bağlantının kesildiği belirtildi .</sentence>
+<sentence num="29">KORSAN SALDIRI İHTİMALİ Kıbrıs Rum havayolları uçağının Atina'nın kuzeydoğusuna düşmesine hava korsanlığı eyleminin yol açmış olabileceği bildirildi .</sentence>
+<sentence num="30">Yunan Genelkurmay Başkanlığı sözcüsü Gerasimos Kalpoyannakis ,AFP'ye yaptığı açıklamada ,Hava korsanlarının eylemi söz konusu olabilir .</sentence>
+<sentence num="31">Bu ,ihtimal dışı değil dedi .</sentence>
+<sentence num="32">Düşmeden önce uçağa eşlik eden Yunan jetlerinin pilotlarının ,pilot kabininde gördükleri durumun hiç de normal olmadığını söyledikleri belirtildi .</sentence>
+<sentence num="33">F 16 pilotlarının ,yolcu uçağının pilotlarını hareketsiz ve iki büklüm gördüklerini rapor ettikleri kaydedildi .</sentence>
+<sentence num="34">1999 yılında uçuşlara başlayan Helios Havayolları ,Dublin ,Sofya ,Varşova ,Prag ve Strazburg'a Boeing B737 tipi uçaklarla seferler düzenliyor .</sentence>
+<sentence num="35">Şirketin son dönemde İstanbul'a Atina üzerinden de seferler düzenlediği öğrenildi .</sentence>
+<sentence num="36">Yunanistan Kamu Düzeni Bakanlığı da Atina yakınlarında düşen Rum uçağının kaçırıldığına dair bir işarete sahip olmadığı bildirildi .</sentence>
+<sentence num="37">Yunan tevizyonları ,Bakanlık yetkililerinin ,uçakla kontrol kulesi arasındaki temas süresince uçağın kaçırıldığına dair yardım çağrısı alınmadığını belirttiklerini duyurdu .?</sentence>
+<sentence num="38">Talat ,Papadapulos'a başsağlığı diledi ?</sentence>
+<sentence num="39">Kıbrıs Rum yönetimi bakanlar kurulu ,bir dizi karar aldı ?</sentence>
+<sentence num="40">Rusopulos :''Kazanın terör eylemiyle bağlantısı yok ''?</sentence>
+<sentence num="41">İlios havayolları :''Uçak tam hizmet görür ve uçabilir nitelikteydi ''?</sentence>
+<sentence num="42">İlios havayolları :''Düşen uçakta 48 çocuk vardı ''?</sentence>
+<sentence num="43">Düşen Rum uçağında kimlik belirleme çalışmaları bugün tamamlanacak ?</sentence>
+<sentence num="44">Kıbrıs Rum yönetimi 3 günlük yas ilan etti ?</sentence>
+<sentence num="45">Atina Büyükelçiliği :Düşen uçakta Türk yolcu olup olmadığı araştırılıyor ?</sentence>
+<sentence num="46">Papadopulos :Kazadan derin üzüntü duyuyorum ?</sentence>
+<sentence num="47">Rum Kesimi :Talat ,tanınma istiyor ?</sentence>
+<sentence num="48">Rumlar ,Türk gazetesinin dağıtımını durdurdu ?</sentence>
+<sentence num="49">Yunan basını :Türkiye'ye tepki arttı ?</sentence>
+<sentence num="50">Kaçırılan uçağı vurma yetkisi !..?</sentence>
+<sentence num="51">Rum Basını :Londra ,AB üyelerine KKTC ile direkt teması tavsiye etti .</sentence>
+</doc>
+<doc>
+<id>132664</id>
+<sentence num="0">2005 08 14 12 :51 :00 .Rum Kesimi'ne ait uçak düştü .</sentence>
+<sentence num="1">Reuters ajansının Yunan devlet televizyonuna dayandırdığı haberde ,henüz doğrulanmamakla birlikte pilotlardan birinin kazadan hemen önce hastalanarak kendinden geçtiği duyuruldu .</sentence>
+<sentence num="2">Atina havaalanı kontrol kulesinden bir yetkili ise AFP'ye yaptığı açıklamada ,Larnaka'dan kalkan 115 yolcu ve 6 kişilik mürettebatı bulunan uçağın Atina'nın kuzeydoğusunda bir dağa çarptığını söyledi .</sentence>
+<sentence num="3">Yetkili ,kurtulan olup olmadığının bilinmediğini ifade etti .</sentence>
+<sentence num="4">Yunan Savunma Bakanlığı ,uçağın Atina'nın 30 kilometre kuzeyinde düştüğünü ,kurtarma ekiplerinin hemen olay yerine hareket ettiği açıklandı .</sentence>
+<sentence num="5">Uçağın ,kendisine eşlik eden iki Yunan F 16 jetinden ayrıldıktan hemen sonra kule tarafından kaybedildiği belirtiliyor .</sentence>
+<sentence num="6">Klima sisteminde arıza şüphesi Yunanistan'ın başkenti Atina'nın kuzeyindeki Grammatikos bölgesinde düşen ,Larnaka Atina Selanik seferiyapmakta olan uçağın klima sisteminde arıza olduğu sanılıyor .</sentence>
+<sentence num="7">Yunan medyasının verdiği bilgiye göre ,Larnaka'daki havaalanı yetkilileri ,kalkışından hemen sonra uçağın fazla ısındığına dair bilgi aldıklarını ,klima sisteminde arıza nedeniyle zehirli gaz sızıntısının yolcu ve görevlileri bayıltmış olabileceğini söylediler .</sentence>
+<sentence num="8">Kıbrıs Rum kesiminin İlios havayollarına ait 737 Boing tipi uçak hakkında Atina havalanından bilgi alınamaması ,Yunan basınının sıkıntısı haline geldi .</sentence>
+<sentence num="9">Yunan televizyonları ,havaalanının basın bürosunun kapalı olduğunu ve yekililerin bilgi vermediğini bildirdiler .</sentence>
+<sentence num="10">Bu arada ,Grammatikos yakınlarındaki yerleşim alanında bulunan insanların uçağın düşmesiyle birlikte çıkan ufak çaplı yangını kontrol altına aldıkları ve kurtarma çalışmalarını başlattıkları kaydedildi .</sentence>
+<sentence num="11">Öte yandan ,askeri yetkililer ve itfaiye ekiplerinin olay yerine ulaştıkları belirtildi .</sentence>
+<sentence num="12">Olay yerine henüz ulaşamayan televizyonlar ,yabancı ajanslara dayandırdıkları haberlerinde ,uçağın düşüşünden bir saat kadar önce kontrol kulesiyle irtibatının kesildiğini duyurdular .</sentence>
+<sentence num="13">aa .</sentence>
+</doc>
+<doc>
+<id>132670</id>
+<sentence num="0">2005 08 14 13 :22 :00 .Yunanistan'da düşen uçağın klima sisteminde arıza olduğu sanılıyor .</sentence>
+<sentence num="1">Yunanistan'da düşen uçağın klima sisteminde arıza olduğu sanılıyor Yunanistan'ın başkenti Atina'nın kuzeyindeki Grammatikos bölgesinde düşen ,Larnaka Atina Selanik seferi yapmakta olan uçağın klima sisteminde arıza olduğu sanılıyor .</sentence>
+<sentence num="2">Yunan medyasının verdiği bilgiye göre ,Larnaka'daki havaalanı yetkilileri ,kalkışından hemen sonra uçağın fazla ısındığına dair bilgi aldıklarını ,klima sisteminde arıza nedeniyle zehirli gaz sızıntısının yolcu ve görevlileri bayıltmış olabileceğini söylediler .</sentence>
+<sentence num="3">Kıbrıs Rum kesiminin İlios havayollarına ait 737 Boing tipi uçak hakkında Atina havalanından bilgi alınamaması ,Yunan basınının sıkıntısı haline geldi .</sentence>
+</doc>
+<doc>
+<id>132683</id>
+<sentence num="0">2005 08 14 13 :44 :00 .Uçağın enkazına ulaşıldı ,yaşam belirtisi yok .</sentence>
+<sentence num="1">Uçağın enkazına ulaşıldı ,yaşam belirtisi yok Yunanistan'ın başkenti Atina'nın kuzeyindeki Grammatikos bölgesinde düşen Rum uçağının enkazına ulaşıldığı ,ancak herhangi bir yaşam belirtisine henüz rastlanmadığı bildirildi .</sentence>
+<sentence num="2">Yunan televizyonları ,uçağın kuyruk kısmının haricinde ,tüm gövdenin parçalara ayrıldığını ,daha önce söndürülen yangının tekrar alevlendiğini ve kontrol altına alınmaya çalışıldığını duyurdular .</sentence>
+<sentence num="3">Uçakta bulunan 6 kişilik mürettebat ile 115 yolcunun tümünün ilk belirlemelere göre Kıbrıslı Rumlar olduklarını kaydeden televizyonlar ,söz konusu uçağın geçmişte teknik arızalar verdiğini ,seferden alıkonulması gerekirken bunun yapılmadığını belirttiler .</sentence>
+<sentence num="4">Kıbrıs Rum Kesimi İlios havayollarına ait ,Larnaka Atina Selanik seferi yapmakta olan 737 Boing tipi uçakta 6'sı mürettebat olmak üzere 121 kişi bulunuyordu .</sentence>
+</doc>
+<doc>
+<id>132695</id>
+<sentence num="0">2005 08 14 14 :19 :00 .Yunanistan Kamu Düzenliği Bakanı :Uçağın kaçırıldığına dair işaret yok .</sentence>
+<sentence num="1">Yunanistan Kamu Düzenliği Bakanı :Uçağın kaçırıldığına dair işaret yok Yunanistan Kamu Düzeni Bakanlığı'nın ,Atina yakınlarında düşen Rum uçağının kaçırıldığına dair bir işarete sahip olmadığı bildirildi .</sentence>
+<sentence num="2">Yunan tevizyonları ,Bakanlık yetkililerinin ,uçakla kontrol kulesi arasındaki temas süresince uçağın kaçırıldığına dair yardım çağrısı alınmadığını belirttiklerini duyurdu .</sentence>
+<sentence num="3">Bu arada ,uçağın termostadıyla ilgili arızalar yaşandığını ve son olarak iki ay önce aynı sorunla bakıma alındığını kaydeden televizyonlar ,Larnaka havaanından alınan ilk bilgilerin ,kokpitte basınç kaybı yaşandığı yönünde olduğunu belirttiler .</sentence>
+</doc>
+<doc>
+<id>132700</id>
+<sentence num="0">2005 08 14 14 :31 :00 .Rusopulos :Uçağın düşme nedenini henüz bilmiyoruz .</sentence>
+<sentence num="1">Rusopulos :Uçağın düşme nedenini henüz bilmiyoruz Yunanistan hükümet sözcüsü Teodoros Rusopulos ,Atina yakınlarında düşen Kıbrıs uçağının düşüş nedeninin henüz bilinmediğini söyledi .</sentence>
+<sentence num="2">Rusopulos ,yaptığı yazılı açıklamada ,Kıbrıs Rum kesiminin İlios havayollarına ait 737 Boeing tipi ,içinde 115 yolcu ve 6 kişilik mürettebat bulunan uçakla irtibatın kesildiği saat 11 .00 itibariyle Kamu Düzeni ,Savunma ,Deniz Ticaret ,Ulaştırma ,İçişleri ve Sağlık bakanlıklarının harekete geçtiğini belirtti .</sentence>
+</doc>
+<doc>
+<id>132703</id>
+<sentence num="0">2005 08 14 14 :36 :00 .Düşen Rum uçağı arıza nedeniyle bakım görüyordu .</sentence>
+<sentence num="1">Düşen Rum uçağı arıza nedeniyle bakım görüyordu Yunanistan'ın başkenti Atina'nın kuzeyindeki Grammatikos bölgesinde düşen Rum uçağının ,havalandırma sistemindeki arızadan dolayı bir süre önce bakıma alındığı bildirildi .</sentence>
+<sentence num="2">Rum radyosunun haberine göre ,kazanın ardından Larnaka Havaalanı'na giden Kıbrıs Rum yönetimi Ulaştırma Bakanı Haris Thrasu ,uçağın havalandırma sistemindeki arıza nedeniyle bakım gördüğünü ve seferlerine henüz birkaç gün önce yeniden başladığını söyledi .</sentence>
+<sentence num="3">Uçak pilotunun Yunan hava sahasına girmeden kısa süre önce Rum Hava Trafik Kontrol Merkezi ile temasa geçerek ,havalandırma sisteminde arıza olduğunu haber verdiği ve daha sonra uçakla bağlantının kesildiği belirtildi .</sentence>
+<sentence num="4">Bu arada ,Kıbrıs Rum yönetimi lideri Tasos Papadopulos'un ,kaza haberini aldıktan sonra tatilini yarıda keserek ,konuya ilişkin detaylı bilgi almak üzere Larnaka Havaalanı'na gittiği kaydedildi .</sentence>
+</doc>
+<doc>
+<id>132710</id>
+<sentence num="0">2005 08 14 14 :50 :00 .Rum yolcu uçağı düştü :121 ölü Yunan polisi ,kazadan kurtulanın olmadığını açıkladı .</sentence>
+<sentence num="1">Uçağın ,klimadaki sorun nedeniyle düştüğü belirtiliyor İlgili Galeri Foto Galeri için tıklayınız Yunanistan'ın başkenti Atina'nın 110 kilometre kuzeydoğusunda içinde 121 kişinin bulunduğu bir Rum yolcu uçağı düştü .</sentence>
+<sentence num="2">Uçakta bulunan 121 kişiden kurtulan olmadı .</sentence>
+<sentence num="3">Rum kesiminde Larnaka'dan Yunanistan'ın başkenti Atina üzerinden Çek Cumhuriyeti'nin başkenti Prag'a giden yolcu uçağı Atina'nın kuzeyindeki Gramatikos dağlık bölgesinde düştü .</sentence>
+<sentence num="4">Larnaka'dan kalkan Helios hava yollarına ait yolcu uçağında 6'sı mürettebat ,115'i yolcu toplam 121 kişi bulunuyordu .</sentence>
+<sentence num="5">Yunan polisi yaptığı açıklamada ,kazadan sağ kurtulanın olmadığını duyurdu .</sentence>
+<sentence num="6">Yunan televizyonlarının haberlerine göre yolcuların tamamı kıbrıslı Rumlardan oluşuyor .'</sentence>
+<sentence num="7">Kazanın nedeni klimadaki sorun 'Uçak ,saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="8">İki üç dakika sonra Atina havaalanı kontrol kulesi uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine pilotlarla temasa geçmeye çalıştı .</sentence>
+<sentence num="9">Ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="10">Atina ,bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="11">Buradaki görevliler Atina kontrol kulesi'ne ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="12">Klimadaki sorun yüzünden mürettebatın uçakta donarak ölmüş olabilecekleri belirtiliyor .</sentence>
+<sentence num="13">Yolculardan birinin de uçak düşmeden önce kuzenine gönderdiği telefon mesajında klima arızalı .</sentence>
+<sentence num="14">Pilotlardan biri mosmor kesildi ...</sentence>
+<sentence num="15">Donuyoruz diye yazdığı ortaya çıktı .</sentence>
+<sentence num="16">Pilotlardan biri baygın haldeydi Yunanistan'ın uçağın radardan kaybolması üzerine görevlendirdiği F 16 pilotları da uçağı bulduklarında ,pilotlardan birinin baygın halde koltuğa yığılmış olduğunu ,diğer pilotla el kol işaretleriyle anlaşmaya çalışırken de uçağın aniden irtifa kaybedip düşmeye başladığını anlattı .</sentence>
+<sentence num="17">Rum havacılık yetkilileri de Larnaka'dan saat 09 .00'da kalkan uçakla 10 .37'de itribatın kesildiğini ,pilotun büyük olasılıkla kabindeki basınç kaybı yüzünden bilincini yitirdiğini açıkladı .</sentence>
+<sentence num="18">Yunan televizyonları ,söz konusu uçağın geçmişte teknik arızalar verdiğini ,seferden alıkonulması gerekirken bunun yapılmadığını belirtti .</sentence>
+<sentence num="19">Korsanlık ihtimali de gündeme getirildi .</sentence>
+<sentence num="20">Ancak ,Yunan polisi ucağın kaçırıldığına ilişkin bir işaret bulunmadığını belirtti .</sentence>
+<sentence num="21">Rum ve Yunan basınına göre ,uçağın kara kutusunun nerede olduğu saptandı .</sentence>
+<sentence num="22">Enkaz yerinde uçağın gövdesi yüzlerce parçaya ayrılmış durumda .</sentence>
+<sentence num="23">Sadece kuyruk kısmının sağlam olduğu belirtiliyor .</sentence>
+<sentence num="24">Tatildeki Yunan politikacılar da Atina'ya dönüyor .</sentence>
+<sentence num="25">Yunanistan Başbakanı Kostas Karamanlis Atina'ya döner dönmez acil durum toplantısı yaptı .</sentence>
+<sentence num="26">Yunanistan'daki Türkiye Büyükelçiliği de ,uçakta Türk yolcunun olup olmadığını araştırıyor .</sentence>
+<sentence num="27">Papadopulos 'derin üzüntü 'duyuyor Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Atina yakınlarında meydana gelen uçak kazasında çok sayıda kişinin hayatını kaybetmesinden 'derin üzüntü 'duyduğunu açıkladı .</sentence>
+<sentence num="28">Papadopulos ,acil durum toplantısının ardından Larnaka havaalanında yardımcısı Kristodulos Paşardis tarafından okunan açıklamasında ,kurbanların ailelerine başsağlığı dileyerek ,''bu zor zamanda onları ,bizim tam dayanışmamızı görecekleri yönünde temin etmek isterim ''dedi .</sentence>
+<sentence num="29">Helios'un sözcüsü :Kaza nedeni araştırılıyor Rum Havayolu şirketi Helios'un sözcüsü ise ,kazanın nedenleri konusunda tüm seçeneklerin araştırıldığını söyledi .</sentence>
+<sentence num="30">Sözcü Nikos Anastasiades ,basına yaptığı açıklamada ,havayolu şirketinin ,115 yolcu ve 6 kişilik mürettebatın ailelerine yardım etmek için elinden geleni yaptığını ifade etti .</sentence>
+<sentence num="31">Kurtarma ekiplerinin bölgede çalışmalarda bulunduğunu ifade eden sözcü ,yolcu ve mürettebatın ailelerine yardım için Larnaka havaalanında kriz idare merkezi kurulduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>132752</id>
+<sentence num="0">2005 08 14 16 :42 :00 .Düşen Rum uçağında kurtulan olmadı .</sentence>
+<sentence num="1">Düşen Rum uçağında kurtulan olmadı Yunan polisi ,Atina yakınlarında düşen uçaktan kurtulan olmadığını açıkladı .?</sentence>
+<sentence num="2">Uçakta Türk yolcu olup olmadığı araştırılıyor ?</sentence>
+<sentence num="3">Ekipler cesetleri topluyor Bir polis sözcüsü ,''Tek bir yaşayan bile olduğuna dair bilgi yok ''dedi .</sentence>
+<sentence num="4">Sivil Koruma İdaresi Başkanı Panagiotis Fourlas da ,özel kurtarma ekiplerinin cesetleri toplamaya başladığını söyledi .</sentence>
+<sentence num="5">Rum havayolu şirketi İlios'a ait 115 yolcu ve 6 kişilik mürettebatı bulunan yolcu uçağı Atina'nın kuzeyindeki bir dağlık bölgeye düşmüştü .</sentence>
+</doc>
+<doc>
+<id>132757</id>
+<sentence num="0">2005 08 14 16 :50 :00 .Rum uçağındaki 121 kişi öldü .</sentence>
+<sentence num="1">Kıbrıs Rum Kesimi Helios Havayolları'na ait ,Larnaka Atina Selanik seferi yapmakta olan 737 Boing tipi uçak Yunanistan'ın başkenti Atina'nın kuzeyinde düştü .</sentence>
+<sentence num="2">Uçaktaki 121 kişiden kurtulan olmadı .</sentence>
+<sentence num="3">RUM UÇAĞINDA KURTULAN YOK Yunan polisi ,Atina yakınlarında düşen uçaktan kurtulan olmadığını açıkladı .</sentence>
+<sentence num="4">Bir polis sözcüsü ,''Tek bir yaşayan bile olduğuna dair bilgi yok ''dedi .</sentence>
+<sentence num="5">Sivil Koruma İdaresi Başkanı Panagiotis Fourlas da ,özel kurtarma ekiplerinin cesetleri toplamaya başladığını söyledi .</sentence>
+<sentence num="6">Yolcu uçağına eşlik eden F 16 pilotlarından biri ,Savunma Bakanlığı'na ,yolcu uçağınının kaptan pilotunu kokpitte görmediğini ,ikinci pilotunun ise kazadan hemen önce koltuğundan aniden yere düştüğünü gördüğünü söyledi .</sentence>
+<sentence num="7">Rum havayolu şirketi İlios'a ait 115 yolcu ve 6 kişilik mürettebatı bulunan yolcu uçağı Atina'nın kuzeyindeki bir dağlık bölgeye düşmüştü .</sentence>
+<sentence num="8">KOKPİTTE BASINÇ KAYBI Bu arada ,uçağın termostatıyla ilgili arızalar yaşandığını ve son olarak iki ay önce aynı sorunla bakıma alındığını kaydeden televizyonlar ,Larnaka havaanından alınan ilk bilgilerin ,kokpitte basınç kaybı yaşandığı yönünde olduğunu belirttiler .</sentence>
+<sentence num="9">Televizyonlar ,Yunan hava sahasına girdikten sonra alışılmışın dışında seyreden uçakta basınç kaybı nedeniyle pilotların baygın halde olduklarının ,otomatik pilotaja bağlanan uçağın ise bir süre sonra yakıt yetersizliği nedeniyle düştüğünün sanıldığını bildirdiler .</sentence>
+<sentence num="10">ZEHİRLİ GAZ SIZINTISI ŞÜPHESİ Yunan medyasının verdiği bilgiye göre ,Larnaka'daki havaalanı yetkilileri ,kalkışından hemen sonra uçağın fazla ısındığına dair bilgi aldıklarını ,klima sisteminde arıza nedeniyle zehirli gaz sızıntısının yolcu ve görevlileri bayıltmış olabileceğini söylediler .</sentence>
+<sentence num="11">YOLCUNUN MESAJI :ELVEDA KUZEN DONUYORUZ Öte yandan ,uçağın düşmesinden önce bir yolcunun kuzenine gönderdiği bir cep telefonu mesajında ,donduklarını yazdığı bildirildi .</sentence>
+<sentence num="12">Yunan televizyonlarının haberine göre ,söz konusu yolcu ,mesajında ,Pilot mosmor oldu .</sentence>
+<sentence num="13">Elveda kuzen ,donuyoruz diye yazdı .</sentence>
+<sentence num="14">KULE İLE İRTİBATI KESİLDİ Yunanistan'da ,Larnaka Atina seferi yaparken Atina yakınlarında düşen Kıbrıs Rum kesimi Helios Havayolları'na ait yolcu uçağının kontrol kulesiyle irtibatının ne zaman kesildiği araştırılıyor .</sentence>
+<sentence num="15">Atina Havaalanı Basın bürosu yetkilileri ,ZU 522 uçuş sayılı ,içinde 115 yolcu ile 6 kişilik mürettebat bulunan Boeing 737 tipi uçağın normal koşullar altında sabah saat 10 .45'te Atina'ya inmesinin beklendiğini ,ancak Yunanistan hava sahasına girdikten sonra kuleyle irtibatının kesildiğini kaydettiler .</sentence>
+<sentence num="16">Yetkililer ,uçak ile kule arasındaki diyaloğun ne zaman kesilmiş olduğuna dair araştırmanın sürdüğünü belirttiler .</sentence>
+<sentence num="17">Bu arada ,Yunan televizyonları ,basınç kaybı yaşadığı sanılan uçaktaki 121 kişinin havadayken ölmüş olabileceklerini kaydettikleri haber bültenlerinde ,uçağın düştüğü alanın yerleşim birimlerinden sadece 2 kilometre uzakta olduğunu ,bunun ise daha büyük bir faciadan kılpayı kurtulunduğu anlamına geldiğini belirttiler .</sentence>
+<sentence num="18">Televizyonlar ,söz konusu uçağın geçen yıl Varşova Larnaka seferi yaptığı sırada basınç kaybı sorunuyla karşı karşıya kaldığının belirlendiğini ,Larnaka'ya inişten sonra çok sayıda yolcunun solunum sorunları nedeniyle hastaneye kaldırıldığını duyurdular .</sentence>
+<sentence num="19">Yunan televizyonları ,uçakta 80 kadar çocuğun bulunduğu tahminlerine de yer verdiler .</sentence>
+<sentence num="20">Uçağın düştüğü alanda çıkan 4 ayrı yangının kontrol altına alınmaya çalışıldığını bildiren televizyonlar ,bu yangınların olası bulguları yok etmesinin yanı sıra arama kurtarma çalışmalarını da güçleştirdiğini kaydettiler .</sentence>
+<sentence num="21">Öte yandan ,uçağı düşen havayolu şirketi Helios ,gerek Atina ,gerekse Larnaka'daki basın büroları aracılığıyla henüz herhangi bir açıklamada bulunmadı .</sentence>
+<sentence num="22">İLİOS ŞİRKETİ SÖZCÜSÜ :TÜM SEÇENEKLER ARAŞTIRILIYOR Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Atina yakınlarında meydana gelen uçak kazasında çok sayıda kişinin hayatını kaybetmesinden ''derin üzüntü ''duyduğunu bildirdi .</sentence>
+<sentence num="23">Papadopulos ,acil durum toplantısının ardından Larnaka havaalanında yardımcısı Kristodulos Paşardis tarafından okunan açıklamasında ,kurbanların ailelerine başsağlığı dileyerek ,''Bu zor zamanda onları ,bizim tam dayanışmamızı görecekleri yönünde temin etmek isterim ''dedi .</sentence>
+<sentence num="24">Bu arada ,Rum Havayolu şirketi İlios'un sözcüsü ,kazanın nedenleri konusunda tüm seçeneklerin araştırıldığını söyledi .</sentence>
+<sentence num="25">Sözcü Nikos Anastasiades ,basına yaptığı açıklamada ,havayolu şirketinin ,115 yolcu ve 6 kişilik mürettebatın ailelerine yardım etmek için elinden geleni yaptığını söyledi .</sentence>
+<sentence num="26">Kurtarma ekiplerinin bölgede çalışmalarda bulunduğunu ifade eden sözcü ,yolcu ve mürettebatın ailelerine yardım için Larnaka havaalanında kriz idare merkezi kurulduğunu bildirdi .</sentence>
+<sentence num="27">Kıbrıs Rum yönetimi Dışişleri Bakanlığı ve polis merkezinde de kriz idare ekiplerinin çalışmalarda bulunduğu belirtildi .</sentence>
+<sentence num="28">Rum yönetiminden bir sözcü de ,uçağın düşüşüne bir terörist saldırının neden olduğuna gösteren herhangi bir işaret bulunmadığını söyledi .</sentence>
+<sentence num="29">Sözcü ,bununla birlikte tüm olası senaryolar üzerinde durulduğunu belirtti .'</sentence>
+<sentence num="30">EKİPLER BÖLGEYE DAĞILMIŞ VAZİYETTEKİ CESETLERİ TOPLAMAYA BAŞLADI 'Yunanistan'da düşen Rum yolcu uçağı için çalışma başlatan Atika bölgesinin itfaiye teşkilatı ,ekiplerin bölgeye dağılmış vaziyetteki cesetleri toplamaya başladıklarını bildirdi .</sentence>
+<sentence num="31">AA muhabirine açıklama yapan teşkilat yetkilileri ,kaza yerinde dört koldan çıkan yangının kontrol altına alınması çalışmalarının başarıyla sürdürüldüğünü söylediler .</sentence>
+<sentence num="32">Yetkililer ,ekiplerin bölgeye dağılmış vaziyetteki cesetleri toplamaya başladıklarını ,en ufak yaşam belirtisine rastlanmadığını belirttiler .</sentence>
+<sentence num="33">Uçak kazasında muhtemelen kurtulan olmadığını kaydeden yetkililer ,''yine de ümitlerini kaybetmediklerini ''söylediler .</sentence>
+<sentence num="34">Kıbrıs Rum kesimi İlios havayollarına ait ,içinde 121 kişinin bulunduğu Boing 737 tipi uçak ,sabah saatlerinde Atina'nın 30 kilometre kuzeyindeki Grammatikos dağlık alanına düşmüştü .(</sentence>
+<sentence num="35">Hürriyet ).</sentence>
+</doc>
+<doc>
+<id>132766</id>
+<sentence num="0">2005 08 14 17 :05 :00 .Atina Büyükelçiliği :Düşen uçakta Türk yolcu olup olmadığı araştırılıyor .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina'nın kuzeyinde bu sabah düşen ,Kıbrıs Rum kesimi İlios havayollarına ait uçakta Türk yolcu olup olmadığının araştırılmakta olduğu öğrenildi .</sentence>
+<sentence num="2">Türkiye'nin Atina Büyükelçiliği'nden edinilen bilgiye göre ,Büyükelçilik yetkililerinin Yunan makamları nezdinde bu yönde yaptıkları araştırmada henüz herhangi bir bilgiye ulaşılamadı .</sentence>
+<sentence num="3">Büyükelçiliğin ,yolcu listesinin öğrenilmesi için Yunan makamlarıyla sürekli irtibatta olduğu belirtildi .</sentence>
+<sentence num="4">Kıbrıs Rum yönetiminin Atina'daki büyükelçilik yetkilileri de ,yolcu listesinin henüz açıklık kazanmadığını ,bu koşullar altında uçakta Türk yolcu bulunup bulunmadığına dair bilgileri olmadığı kaydettiler .</sentence>
+<sentence num="5">Öte yandan ,düşen uçağın şirketi İlios'un yetkilileri ,basına yaptıkları açıklamada ,Larnaka'dan havalandığı saat olan 09 .45'den 20 dakika sonra kontrol kulesiyle irtibatı kesilen uçağın düşüş nedenini bilmediklerini söylediler .</sentence>
+<sentence num="6">Bu arada ,Yunan televizyonları ,uçağın kara kutularının yerinin saptandığını bildirdiler .</sentence>
+</doc>
+<doc>
+<id>132767</id>
+<sentence num="0">2005 08 14 17 :05 :00 .Türkiye'nin Atina Büyükelçiliği :Uçakta Türk yolcu olup olmadığı araştırılıyor .</sentence>
+<sentence num="1">Türkiye'nin Atina Büyükelçiliği :Uçakta Türk yolcu olup olmadığı araştırılıyor Yunanistan'ın başkenti Atina'nın kuzeyinde bu sabah düşen ,Kıbrıs Rum kesimi İlios havayollarına ait uçakta Türk yolcu olup olmadığının araştırılmakta olduğu öğrenildi .</sentence>
+<sentence num="2">Türkiye'nin Atina Büyükelçiliği'nden edinilen bilgiye göre ,Büyükelçilik yetkililerinin Yunan makamları nezdinde bu yönde yaptıkları araştırmada henüz herhangi bir bilgiye ulaşılamadı .</sentence>
+<sentence num="3">Büyükelçiliğin ,yolcu listesinin öğrenilmesi için Yunan makamlarıyla sürekli irtibatta olduğu belirtildi .</sentence>
+<sentence num="4">Kıbrıs Rum yönetiminin Atina'daki büyükelçilik yetkilileri de ,yolcu listesinin henüz açıklık kazanmadığını ,bu koşullar altında uçakta Türk yolcu bulunup bulunmadığına dair bilgileri olmadığı kaydettiler .</sentence>
+<sentence num="5">Öte yandan ,düşen uçağın şirketi İlios'un yetkilileri ,basına yaptıkları açıklamada ,Larnaka'dan havalandığı saat olan 09 .45'den 20 dakika sonra kontrol kulesiyle irtibatı kesilen uçağın düşüş nedenini bilmediklerini söylediler .</sentence>
+<sentence num="6">Bu arada ,Yunan televizyonları ,uçağın kara kutularının yerinin saptandığını bildirdiler .</sentence>
+</doc>
+<doc>
+<id>132778</id>
+<sentence num="0">2005 08 14 17 :33 :00 .Yunan itfaiyesi :Ekipler cesetleri toplamaya başladı .</sentence>
+<sentence num="1">Yunan itfaiyesi :Ekipler cesetleri toplamaya başladı Yunanistan'da düşen Rum yolcu uçağı için çalışma başlatan Atika bölgesinin itfaiye teşkilatı ,ekiplerin bölgeye dağılmış vaziyetteki cesetleri toplamaya başladıklarını bildirdi .</sentence>
+<sentence num="2">Teşkilat yetkilileri ,kaza yerinde dört koldan çıkan yangının kontrol altına alınması çalışmalarının başarıyla sürdürüldüğünü söylediler .</sentence>
+<sentence num="3">Yetkililer ,ekiplerin bölgeye dağılmış vaziyetteki cesetleri toplamaya başladıklarını ,en ufak yaşam belirtisine rastlanmadığını belirttiler .</sentence>
+<sentence num="4">Uçak kazasında muhtemelen kurtulan olmadığını kaydeden yetkililer ,''yine de ümitlerini kaybetmediklerini ''söylediler .</sentence>
+</doc>
+<doc>
+<id>132780</id>
+<sentence num="0">2005 08 14 17 :40 :00 .Papadopulos :Kazadan derin üzüntü duyuyorum .</sentence>
+<sentence num="1">Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Atina yakınlarında meydana gelen uçak kazasında çok sayıda kişinin hayatını kaybetmesinden ''derin üzüntü ''duyduğunu bildirdi .</sentence>
+<sentence num="2">Papadopulos ,acil durum toplantısının ardından Larnaka havaalanında yardımcısı Kristodulos Paşardis tarafından okunan açıklamasında ,kurbanların ailelerine başsağlığı dileyerek ,''Bu zor zamanda onları ,bizim tam dayanışmamızı görecekleri yönünde temin etmek isterim ''dedi .</sentence>
+<sentence num="3">Bu arada ,Rum Havayolu şirketi İlios'un sözcüsü ,kazanın nedenleri konusunda tüm seçeneklerin araştırıldığını söyledi .</sentence>
+<sentence num="4">Sözcü Nikos Anastasiades ,basına yaptığı açıklamada ,havayolu şirketinin ,115 yolcu ve 6 kişilik mürettebatın ailelerine yardım etmek için elinden geleni yaptığını söyledi .</sentence>
+<sentence num="5">Kurtarma ekiplerinin bölgede çalışmalarda bulunduğunu ifade eden sözcü ,yolcu ve mürettebatın ailelerine yardım için Larnaka havaalanında kriz idare merkezi kurulduğunu bildirdi .</sentence>
+<sentence num="6">Kıbrıs Rum yönetimi Dışişleri Bakanlığı ve polis merkezinde de kriz idare ekiplerinin çalışmalarda bulunduğu belirtildi .</sentence>
+<sentence num="7">Rum yönetiminden bir sözcü de ,uçağın düşüşüne bir terörist saldırının neden olduğuna gösteren herhangi bir işaret bulunmadığını söyledi .</sentence>
+<sentence num="8">Sözcü ,bununla birlikte tüm olası senaryolar üzerinde durulduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>132785</id>
+<sentence num="0">2005 08 14 17 :58 :00 .Yunan televizyonları :Yolcular arasında İngiliz ve Almanlar da var .</sentence>
+<sentence num="1">Yunan televizyonları :Yolcular arasında İngiliz ve Almanlar da var Yunan televizyonları ,Atina yakınlarında düşen Kıbrıs Rum yolcu uçağında İngiliz ve Alman turistlerin de bulunduğunu bildirdiler .</sentence>
+<sentence num="2">Yolcu listesinin henüz açıklık kazanmadığını kaydeden televizyonlar ,yolcuların büyük çoğunluğunun Kıbrıslı Rumlar olduğunu ,ancak İngiliz ve Alman turistlerin de uçakta bulunduğunu belirttiler .</sentence>
+</doc>
+<doc>
+<id>132788</id>
+<sentence num="0">2005 08 14 18 :06 :00 .Uçakta İngiliz ve Alman yolcu iddiası .</sentence>
+<sentence num="1">Yolcu listesinin henüz açıklık kazanmadığını kaydeden televizyonlar ,yolcuların büyük çoğunluğunun Kıbrıslı Rumlar olduğunu ,ancak İngiliz ve Alman turistlerin de uçakta bulunduğunu belirttiler .</sentence>
+<sentence num="2">Atina Haber Ajansı (ANA )da ,Kıbrıs Rum yönetimi sözcüsü Marios Karayan'ın bu sabah meydana gelen kazanın terör eylemiyle bağlantısının olmadığı yönündeki sözlerini aktardı .</sentence>
+<sentence num="3">Ajans ,Karayan'ın ,Atina'dan alınan bilgiler doğrultusunda ,uçak kazasının terör eylemiyle ilişiği bulunmadığını belirttiğini duyurdu .</sentence>
+<sentence num="4">Yunanistan hükümet sözcüsü Teodoros Rusopulos'un konuya ilişkin açıklamasına da yer veren ajans ,sözcünün ,kazanın büyük olasılıkla teknik bir arızadan kaynaklandığı ,ancak her türlü ihtimalin titizlikle incelendiği şeklindeki sözlerini aktardı .</sentence>
+<sentence num="5">Ajans ,Yunanistan Başbakanı Kostas Karamanlis'in Kıbrıs Rum yönetimi lideri Tasos Papadopulos'u arayarak başsağlığı dileklerini ilettiğini de bildirdi .</sentence>
+</doc>
+<doc>
+<id>132801</id>
+<sentence num="0">2005 08 14 18 :38 :00 .Rum Yolcu Uçağı Düştü .</sentence>
+<sentence num="1">Kıbrıs Rum kesimine ait bir yolcu uçağı Atina'nın kuzeyinde düştü .</sentence>
+<sentence num="2">Uçakta bulunan 121 kişiden kurtulan olmadı .</sentence>
+<sentence num="3">Yunanistan Savunma Bakanlığı ,Grammatikos yakınında düşen Helios Havayolları'na ait uçakta ,aralarında İngiliz ve Alman turistlerin de bulunduğu 115 yolcu ve 6 mürettebat olduğunu açıkladı .</sentence>
+<sentence num="4">Açıklamada ,Larnaka'dan Prag'a gitmekte olan uçağın Atina'daki kontrol kulesi ile bağlantısının kesilmesi ve bu durumun uzun süre devam etmesi üzerine 2 F 16 savaş uçağı tarafından izlenmeye başlandığı belirtildi .</sentence>
+<sentence num="5">F 16 pilotlarından birinin ,düşen uçağın kaptan pilotunu uçuş kabininde göremediği ,yardımcı pilotu ise koltuğuna yığılmış halde gördüğü kaydedildi .</sentence>
+<sentence num="6">Uçağın düşüş nedeni olarak oksijen yetersizliği ya da kabin basıncının azalması ihtimali üzerinde duruluyor .</sentence>
+<sentence num="7">Yolculardan birinin uçak düşmeden kısa bir süre önce kuzenine mesaj gönderdiği ve mesajda ,pilotların bayıldığını ve uçağın içinin çok soğuduğunu yazdığı belirtiliyor .</sentence>
+<sentence num="8">Uçağın havalandırma sistemindeki arızadan dolayı bir süre önce bakıma alındığı da gelen haberler arasında ....</sentence>
+<sentence num="9">Bu arada ,kara kutuların bulunduğu ve soruşturmanın sürdüğü bildirildi .</sentence>
+</doc>
+<doc>
+<id>132814</id>
+<sentence num="0">2005 08 14 19 :50 :00 .Düşen Rum uçağında kimlik belirleme çalışmaları bugün tamamlanacak .</sentence>
+<sentence num="1">Yunanistan'da Rum yolcu uçağının düşmesi sonucu hayatını kaybedenlerle ilgili kimlik belirleme çalışmalarının bugün tamamlanması bekleniyor .</sentence>
+<sentence num="2">Atina'nın 30 kilometre kuzeyindeki Grammatikos dağlık alanına ,bu sabah saatlerinde henüz belirlenemeyen bir nedenle düşen Kıbrıs Rum kesimi İlios Havayolları'na ait yolcu uçağının çevresinde çıkan yangının kontrol altına alındığı ve cesetlerin olay alanı yakınlarındaki özel bir bölgeye taşınmaya başlandığı bildirildi .</sentence>
+<sentence num="3">Larnaka'dan 09 .45'te hareket eden ,ancak kalkıştan 20 dakika sonra kuleyle irtibatı kesilen uçaktaki yolcuların büyük çoğunluğunun Kıbrıslı Rumlar olduğu ,ancak İngiliz ve Alman turistlerin de uçakta bulunduğu açıklandı .</sentence>
+<sentence num="4">Kaza bölgesinde çalışmalarını sürdüren Atika İtfaiyesi yetkilileri ,cesetlerin kimliklerinin belirlenmesi çalışmalarının ,akşam saatlerinde tamamlanmasının beklendiğini kaydettiler .</sentence>
+<sentence num="5">Bu arada ,düşen uçağın şirketi İlios ,yolcu listesi hakkında açıklama yapmadı .</sentence>
+<sentence num="6">Televizyonlar ,kazanın nedeni olarak uçakta basınç kaybı olasılığına da yer verdikleri bültenlerinde ,121 kişinin havadayken ölmüş olabileceğini ,uçağın düştüğü alanın yerleşim birimlerinden sadece 2 kilometre uzakta olması nedeniyle daha büyük bir faciadan kılpayı kurtulunduğunu belirttiler .</sentence>
+<sentence num="7">Televizyonlar ,en son çeşitli teknik arızalar nedeniyle bakımdan geçen bu uçağın geçen yıl Varşova Larnaka seferi yaptığı sırada basınç kaybı sorunu ile karşı karşıya kaldığının belirlendiğini ,Larnaka'ya iniş sonrasında çok sayıda yolcunun solunum sorunları nedeniyle hastaneye kaldırıldığını duyurmuşlardı .</sentence>
+</doc>
+<doc>
+<id>132817</id>
+<sentence num="0">2005 08 14 19 :58 :00 .İlios havayolları :Düşen uçakta 48 çocuk vardı .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina yakınlarında düşen ,6 kişilik mürettebatı ve 115 yolcusu bulunan Rum uçağının şirketi İlios ,uçakta 48 çocuk olduğunu açıkladı .</sentence>
+<sentence num="2">İlios yetkilileri ,basına yaptıkları açıklamada ,tümü Rum 48 çocuğun uçakta bulunduğunu ,uçaktaki diğer yolcuların kimlikleri ve milliyetleri hakkında ise bilgi verebilecek konumda olmadıklarını kaydettiler .</sentence>
+<sentence num="3">Bu arada ,İlios havayollarının uçaklarının önceki seferleri hakkında da çok sayıda şikayette bulunulduğunu kaydeden televizyonlar ,Yunanistan'ın Korfu (Kerkira )ve Kos (İstanköy )adalarından Kıbrıs'a gitmek üzere rezervasyon yaptıran müşterilerin büyük bölümünün rezervasyonlarını hızla iptal ettiklerini duyurdular .</sentence>
+</doc>
+<doc>
+<id>132821</id>
+<sentence num="0">2005 08 14 20 :12 :00 .Yunanistan'da uçak faciası :121 ölü Yunanistan Başbakanı Karamanlis ,tatilini yarıda kesti .</sentence>
+<sentence num="1">Kazada ,sadece uçağın kuyruk kısmı sağlam kaldı Yunanistan'ın başkenti Atina'nın 110 kilometre kuzey doğusunda düşen Rum yolcu uçağında bulunan 121 kişi hayatını kaybetti .</sentence>
+<sentence num="2">Ölenler arasında 48 çocuğun bulunduğu belirtiliyor .</sentence>
+<sentence num="3">Helios havayolu şirketine ait yolcu uçağındaki 121 kişiden kurtulan olmadı .</sentence>
+<sentence num="4">Şirket sözcüsü ,ölen yolculardan 48'inin çocuk olduğunu açıkladı .</sentence>
+<sentence num="5">Ancak ,resmi kaynaklar henüz 48 çocuğun ölümü ile ilgili bir doğrulamada bulunmadı .</sentence>
+<sentence num="6">Rum kesiminde Larnaka'dan Yunanistan'ın başkenti Atina üzerinden Çek Cumhuriyeti'nin başkenti Prag'a giden yolcu uçağı Atina'nın kuzeyindeki Gramatikos dağlık bölgesinde düştü .</sentence>
+<sentence num="7">Larnaka'dan kalkan Helios hava yollarına ait yolcu uçağında 6'sı mürettebat ,115'i yolcu toplam 121 kişi bulunuyordu .</sentence>
+<sentence num="8">Yunan polisi ,kazadan sağ kurtulanın olmadığını duyururken ,Yunan televizyonlarının haberlerine göre yolcuların tamamı Kıbrıslı Rumlardan oluşuyor .</sentence>
+<sentence num="9">Uçak neden düştü ?</sentence>
+<sentence num="10">Helios havayollarına ait uçak ,saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="11">Rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine ,Atina havaalanı kontrol kulesi pilotlarla temasa geçmeye çalıştı .</sentence>
+<sentence num="12">Ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="13">Atina ,bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="14">Buradaki görevliler Atina kontrol kulesi'ne ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="15">Klimadaki sorun yüzünden mürettebatın uçakta donarak ölmüş olabilecekleri belirtiliyor .</sentence>
+<sentence num="16">Yolculardan birinin de uçak düşmeden önce kuzenine gönderdiği telefon mesajında klima arızalı .</sentence>
+<sentence num="17">Pilotlardan biri mosmor kesildi ...</sentence>
+<sentence num="18">Donuyoruz diye yazdığı ortaya çıktı .</sentence>
+<sentence num="19">Uçakta yakınları kaybedenlerin Larnaka havaalanındaki gergin bekleyişi ise sürüyor .</sentence>
+<sentence num="20">Pilotlardan biri baygın haldeydi Yunanistan'ın uçağın radardan kaybolması üzerine görevlendirdiği F 16 pilotları da uçağı bulduklarında ,pilotlardan birinin baygın halde koltuğa yığılmış olduğunu ,diğer pilotla el kol işaretleriyle anlaşmaya çalışırken de uçağın aniden irtifa kaybedip düşmeye başladığını anlattı .</sentence>
+<sentence num="21">Rum havacılık yetkilileri de Larnaka'dan saat 09 .00'da kalkan uçakla 10 .37'de itribatın kesildiğini ,pilotun büyük olasılıkla kabindeki basınç kaybı yüzünden bilincini yitirdiğini açıkladı .</sentence>
+<sentence num="22">Yunan televizyonları ,söz konusu uçağın geçmişte teknik arızalar verdiğini ,seferden alıkonulması gerekirken bunun yapılmadığını belirtti .</sentence>
+<sentence num="23">Korsanlık ihtimali de gündeme geldi .</sentence>
+<sentence num="24">Ancak ,Yunan polisi uçağın kaçırılmadığını kesin bir dille ifade etti .</sentence>
+<sentence num="25">Kazadan kısa bir süre sonra uçağın kara kutusuna ulaşıldı .</sentence>
+<sentence num="26">Kara kutunun incelenmesinin bir kaç gün alacağı ifade ediliyor .</sentence>
+<sentence num="27">Düşen uçağın hemen hemen tamamı parçalandı .</sentence>
+<sentence num="28">Uçağın sadece kuyruk kısmı sağlam kaldı .</sentence>
+<sentence num="29">Kaza nedeni uçağın düştüğü bölgede çıkan yangın kısa sürede söndürüldü .</sentence>
+<sentence num="30">Karamanlis tatilini yarıda kesti Tatilde bulunan ,Yunanistan Başbakanı Kostas Karamanlis Atina'ya ,Rum yönetimi lideri Tasos Papadopulos da Larnaka'ya gitti .</sentence>
+<sentence num="31">Yunanistan Başbakanı Karamanlis Atina'ya döner dönmez acil durum toplantısı yaptı .</sentence>
+<sentence num="32">Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Atina yakınlarında meydana gelen uçak kazasında çok sayıda kişinin hayatını kaybetmesinden 'derin üzüntü 'duyduğunu açıkladı .</sentence>
+<sentence num="33">Papadopulos ,acil durum toplantısının ardından Larnaka havaalanında yardımcısı Kristodulos Paşardis tarafından okunan açıklamasında ,kurbanların ailelerine başsağlığı dileyerek ,''bu zor zamanda onları ,bizim tam dayanışmamızı görecekleri yönünde temin etmek isterim ''dedi .</sentence>
+<sentence num="34">Yunanistan'daki Türkiye Büyükelçiliği de ,uçakta Türk yolcunun olup olmadığını araştırıyor .</sentence>
+<sentence num="35">Helios'un sözcüsü :Kaza nedeni araştırılıyor Rum Havayolu şirketi Helios'un sözcüsü ise ,kazanın nedenleri konusunda tüm seçeneklerin araştırıldığını söyledi .</sentence>
+<sentence num="36">Sözcü Nikos Anastasiades ,havayolu şirketinin ,115 yolcu ve 6 kişilik mürettebatın ailelerine yardım etmek için elinden geleni yaptığını ifade etti .</sentence>
+<sentence num="37">Kurtarma ekiplerinin bölgede çalışmalarda bulunduğunu ifade eden sözcü ,yolcu ve mürettebatın ailelerine yardım için Larnaka havaalanında kriz idare merkezi kurulduğunu belirtti .</sentence>
+<sentence num="38">Rumlar üç günlük yas ilan etti Kıbrıs Rum yönetimi ,Atina yakınlarındaki uçak kazasının ardından üç günlük genel yas ilan etti .</sentence>
+<sentence num="39">Kazada hayatını kaybedenlerin anısına ilan edilen yas çerçevesinde ,hükümet binalarındaki bayraklar yarıya indirilecek .</sentence>
+<sentence num="40">Rum meclis başkanı Dimitris Hristofyas ,uçak kazasıyla ilgili olarak yayımladığı mesajda ,kazada hayatını kaybedenler için derin üzüntü ve tarif edilemez boyutta bir acı duyduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>132835</id>
+<sentence num="0">2005 08 14 21 :11 :00 .Yunanistan'da uçak faciası :121 ölü Uçağın klima sistemindeki bir arızadan dolayı düştüğü sanılıyor .</sentence>
+<sentence num="1">Kazada ,sadece uçağın kuyruk kısmı sağlam kaldı Yunanistan'ın başkenti Atina'nın 110 kilometre kuzey doğusunda düşen Rum yolcu uçağında bulunan 121 kişi hayatını kaybetti .</sentence>
+<sentence num="2">Ölenler arasında 48 çocuğun bulunduğu belirtiliyor .</sentence>
+<sentence num="3">Helios havayolu şirketine ait 737 Boing tipi yolcu uçağındaki 121 kişiden kurtulan olmadı .</sentence>
+<sentence num="4">Şirket sözcüsü ,ölen yolculardan 48'inin çocuk olduğunu açıkladı .</sentence>
+<sentence num="5">Ancak ,resmi kaynaklar henüz 48 çocuğun ölümü ile ilgili bir doğrulamada bulunmadı .</sentence>
+<sentence num="6">Rum kesiminde Larnaka'dan Yunanistan'ın başkenti Atina üzerinden Çek Cumhuriyeti'nin başkenti Prag'a giden yolcu uçağı Atina'nın kuzeyindeki Gramatikos dağlık bölgesinde düştü .</sentence>
+<sentence num="7">Larnaka'dan kalkan Helios hava yollarına ait yolcu uçağında 6'sı mürettebat ,115'i yolcu toplam 121 kişi bulunuyordu .</sentence>
+<sentence num="8">Yunan polisi ,kazadan sağ kurtulanın olmadığını duyururken ,Yunan televizyonlarının haberlerine göre yolcuların tamamı Kıbrıslı Rumlardan oluşuyor .</sentence>
+<sentence num="9">Uçak neden düştü ?</sentence>
+<sentence num="10">Helios havayollarına ait uçak ,saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="11">Yunanistan hava sahasına girdikten sonra ,uçakla irtibat koptuğu için iki F 16 savaş uçağı ,Airbus'u takibe aldı .</sentence>
+<sentence num="12">Rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine ,Atina havaalanı kontrol kulesi pilotlarla temasa geçmeye çalıştı .</sentence>
+<sentence num="13">Ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="14">Atina ,bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="15">Buradaki görevliler Atina kontrol kulesine ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="16">Klimadaki sorun yüzünden mürettebatın uçakta donarak ölmüş olabilecekleri belirtiliyor .</sentence>
+<sentence num="17">Yolculardan birinin de uçak düşmeden önce kuzenine gönderdiği telefon mesajında klima arızalı .</sentence>
+<sentence num="18">Pilotlardan biri mosmor kesildi ...</sentence>
+<sentence num="19">Donuyoruz diye yazdığı ortaya çıktı .</sentence>
+<sentence num="20">Uçakta yakınları kaybedenlerin Larnaka havaalanındaki gergin bekleyişi ise sürüyor .</sentence>
+<sentence num="21">Pilotlardan biri baygın haldeydi Yunanistan'ın uçağın radardan kaybolması üzerine görevlendirdiği F 16 pilotları da uçağı bulduklarında ,pilotlardan birinin baygın halde koltuğa yığılmış olduğunu ,diğer pilotla el kol işaretleriyle anlaşmaya çalışırken de uçağın aniden irtifa kaybedip düşmeye başladığını anlattı .</sentence>
+<sentence num="22">Rum havacılık yetkilileri de Larnaka'dan saat 09 .00'da kalkan uçakla 10 .37'de irtibatın kesildiğini ,pilotun büyük olasılıkla kabindeki basınç kaybı yüzünden bilincini yitirdiğini açıkladı .</sentence>
+<sentence num="23">Yunan televizyonları ,söz konusu uçağın geçmişte teknik arızalar verdiğini ,seferden alıkonulması gerekirken bunun yapılmadığını belirtti .</sentence>
+<sentence num="24">Bu arada uçaktaki gaz maskelerinin de açılmış olduğu belirtildi .</sentence>
+<sentence num="25">Korsanlık ihtimali de gündeme geldi .</sentence>
+<sentence num="26">Ancak ,Yunan polisi uçağın kaçırılmadığını kesin bir dille ifade etti .</sentence>
+<sentence num="27">Kazadan kısa bir süre sonra uçağın kara kutusuna ulaşıldı .</sentence>
+<sentence num="28">Kara kutunun incelenmesinin bir kaç gün alacağı ifade ediliyor .</sentence>
+<sentence num="29">Düşen uçağın hemen hemen tamamı parçalandı .</sentence>
+<sentence num="30">Uçağın sadece kuyruk kısmı sağlam kaldı .</sentence>
+<sentence num="31">Kaza nedeni uçağın düştüğü bölgede çıkan yangın kısa sürede söndürüldü .</sentence>
+<sentence num="32">Karamanlis tatilini yarıda kesti Tatilde bulunan ,Yunanistan Başbakanı Kostas Karamanlis Atina'ya ,Rum yönetimi lideri Tasos Papadopulos da Larnaka'ya gitti .</sentence>
+<sentence num="33">Yunanistan Başbakanı Karamanlis Atina'ya döner dönmez acil durum toplantısı yaptı .</sentence>
+<sentence num="34">Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Atina yakınlarında meydana gelen uçak kazasında çok sayıda kişinin hayatını kaybetmesinden 'derin üzüntü 'duyduğunu açıkladı .</sentence>
+<sentence num="35">Papadopulos ,acil durum toplantısının ardından Larnaka havaalanında yardımcısı Kristodulos Paşardis tarafından okunan açıklamasında ,kurbanların ailelerine başsağlığı dileyerek ,''bu zor zamanda onları ,bizim tam dayanışmamızı görecekleri yönünde temin etmek isterim ''dedi .</sentence>
+<sentence num="36">Yunanistan'daki Türkiye Büyükelçiliği de ,uçakta Türk yolcunun olup olmadığını araştırıyor .</sentence>
+<sentence num="37">Helios'un sözcüsü :Kaza nedeni araştırılıyor Rum Havayolu şirketi Helios'un sözcüsü ise ,kazanın nedenleri konusunda tüm seçeneklerin araştırıldığını söyledi .</sentence>
+<sentence num="38">Sözcü Nikos Anastasiades ,havayolu şirketinin ,115 yolcu ve 6 kişilik mürettebatın ailelerine yardım etmek için elinden geleni yaptığını ifade etti .</sentence>
+<sentence num="39">Kurtarma ekiplerinin bölgede çalışmalarda bulunduğunu ifade eden sözcü ,yolcu ve mürettebatın ailelerine yardım için Larnaka havaalanında kriz idare merkezi kurulduğunu belirtti .</sentence>
+<sentence num="40">Rumlar üç günlük yas ilan etti Kıbrıs Rum yönetimi ,Atina yakınlarındaki uçak kazasının ardından üç günlük genel yas ilan etti .</sentence>
+<sentence num="41">Kazada hayatını kaybedenlerin anısına ilan edilen yas çerçevesinde ,hükümet binalarındaki bayraklar yarıya indirilecek .</sentence>
+<sentence num="42">Rum meclis başkanı Dimitris Hristofyas ,uçak kazasıyla ilgili olarak yayımladığı mesajda ,kazada hayatını kaybedenler için derin üzüntü ve tarif edilemez boyutta bir acı duyduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>132837</id>
+<sentence num="0">2005 08 14 21 :17 :00 .Kıbrıs Rum yönetimi ,uçak kazasının ardından bir dizi karar aldı .</sentence>
+<sentence num="1">Kıbrıs Rum yönetimi ,uçak kazasının ardından bir dizi karar aldı Kıbrıs Rum yönetimi bakanlar kurulu ,Atina yakınlarında meydana gelen uçak kazasının ardından ,acil durumla mücadele amacıyla bir dizi karar aldı .</sentence>
+<sentence num="2">Kıbrıs Rum yönetimi lideri Tasos Papadopulos başkanlığında toplanan bakanlar kurulu ,kazada hayatını kaybedenlerin ailelerini Atina'ya götürmek üzere uçak kiralamaya karar verdi .</sentence>
+<sentence num="3">Uçuşun yarın sabah yapılacağı belirtildi .</sentence>
+<sentence num="4">Bakanlar kurulu ayrıca ,kazadan etkilenen ailelere destek ve ihtiyacı olanlara yardımda bulunmak için sosyal yardım hizmetlerini harekete geçirme kararı aldı .</sentence>
+<sentence num="5">Kazadan ötürü 3 günlük resmi yas ilan edilirken ,bakanlar ve hükümet yetkililerinin bu 3 gün boyunca hiçbir kutlamaya katılmayacağı kaydedildi .</sentence>
+<sentence num="6">Ayrıca Kıbrıs Rum kesimi içinde ve dışındaki tüm resmi binalarda da Rum bayrağı yarıya indirilecek .</sentence>
+</doc>
+<doc>
+<id>132852</id>
+<sentence num="0">2005 08 14 22 :05 :00 .Rusopulos :Kazanın terör eylemiyle bağlantısı yok .</sentence>
+<sentence num="1">Yunanistan hükümet sözcüsü Theodoros Rusopulos ,121 kişinin öldüğü uçak kazasının terör eylemiyle bağlantısı olduğuna dair en ufak bir göstergenin bulunmadığını söyledi .</sentence>
+<sentence num="2">Rusopulos ,Sağlık ,Deniz ,İçişleri ,Kamu Düzeni ve Savunma bakanlarının ,Başbakan Kostas Karamanlis ile kazaya ilişkin olarak yaptıkları 3 saati aşan toplantı sonrasında gazetecilere ,uçağın düşürülmüş olabileceğini yönündeki söylentileri yalanladı .</sentence>
+<sentence num="3">Uçağın kuleyle irtibatının kesilmesinin ardından F 16 tipi 2 Yunan savaş uçağının yakın uçuşa geçerek ,kokpitle bağlantı kurmaya çalıştıklarını kaydeden Rusopulos ,F 16 pilotlarının hiçbir şekilde uçakla temasa geçemediklerini belirtti .</sentence>
+<sentence num="4">Savaş uçaklarının pilotlarının ,yolcu uçağının bir pilotunun muhtemelen baygın halde olduğunu gözlemlediklerini ,kabinde ise oksijen maskelerinin asılı halde bulunduğunun belirlendiğini kaydeden Rusopulos ,F 16 pilotlarının ,yolcu uçağının pilotlarının yerine geçmeye çalışan 2 kişi gördüklerini ,ancak bu şahısların mürettebat veya yolcu olup olmadıklarının belirlenemediğini sözlerine ekledi .</sentence>
+<sentence num="5">Rusopulos ,yolcu listesinin ise henüz açıklanmadığını kaydetti .</sentence>
+<sentence num="6">ATİNA YASTA Yunanistan İçişleri Bakanı Prokopis Pavlopulos ,kazada yaşamını yitirenlerin anısına ülkede genel yas ilan etti .</sentence>
+<sentence num="7">Bakanlık kararı çerçevesinde ,16 Ağustos'ta hükümet binalarındaki bayrakların yarıya indirileceği ,saat 12 .00'de 3 dakikalık saygı duruşunda bulunulacağı belirtildi .</sentence>
+</doc>
+<doc>
+<id>132859</id>
+<sentence num="0">2005 08 14 22 :26 :00 .Uçak kazası terör eylemi değil .</sentence>
+<sentence num="1">Rusopulos ,Sağlık ,Deniz ,İçişleri ,Kamu Düzeni ve Savunma bakanlarının ,Başbakan Kostas Karamanlis ile kazaya ilişkin olarak yaptıkları 3 saati aşan toplantı sonrasında gazetecilere ,uçağın düşürülmüş olabileceğini yönündeki söylentileri yalanladı .</sentence>
+<sentence num="2">Uçağın kuleyle irtibatının kesilmesinin ardından F 16 tipi 2 Yunan savaş uçağının yakın uçuşa geçerek ,kokpitle bağlantı kurmaya çalıştıklarını kaydeden Rusopulos ,F 16 pilotlarının hiçbir şekilde uçakla temasa geçemediklerini belirtti .</sentence>
+<sentence num="3">Savaş uçaklarının pilotlarının ,yolcu uçağının bir pilotunun muhtemelen baygın halde olduğunu gözlemlediklerini ,kabinde ise oksijen maskelerinin asılı halde bulunduğunun belirlendiğini kaydeden Rusopulos ,F 16 pilotlarının ,yolcu uçağının pilotlarının yerine geçmeye çalışan 2 kişi gördüklerini ,ancak bu şahısların mürettebat veya yolcu olup olmadıklarının belirlenemediğini sözlerine ekledi .</sentence>
+<sentence num="4">Rusopulos ,yolcu listesinin ise henüz açıklanmadığını kaydetti .</sentence>
+<sentence num="5">ATİNA YASTA Yunanistan İçişleri Bakanı Prokopis Pavlopulos ,kazada yaşamını yitirenlerin anısına ülkede genel yas ilan etti .</sentence>
+<sentence num="6">Bakanlık kararı çerçevesinde ,16 Ağustos'ta hükümet binalarındaki bayrakların yarıya indirileceği ,saat 12 .00'de 3 dakikalık saygı duruşunda bulunulacağı belirtildi .</sentence>
+</doc>
+<doc>
+<id>132863</id>
+<sentence num="0">2005 08 14 22 :35 :00 .Yolcular kazadan önce ölmüş .</sentence>
+<sentence num="1">İlios'tan yapılan açıklamada ,uçaktaki 115 yolcunun çoğunun yetişkin olduğu belirtildi .</sentence>
+<sentence num="2">Uçağın ,havalandırma sistemindeki bir arıza nedeniyle bir süre önce bakıma alındığı ve seferlerinin birkaç gün önce yeniden başlatıldığı bildirilmişti .</sentence>
+<sentence num="3">Bu arada Kıbrıs Rum yönetimi Ulaştırma Bakanı Haris Thrasu ,Larnaka Havaalanı'nda düzenlediği basın toplantısında ,''kazanın terörist bir saldırı yüzünden meydana geldiği yönünde bir kanıta sahip olmadıklarını ''belirtti .</sentence>
+<sentence num="4">Kurtulan olduğuna dair de ellerinde bilgi olmadığını ifade eden Thrasu ,115 yolcudan 67'sinin Atina'da inmesinin ,kalanların Prag'a devam etmesinin öngörüldüğünü açıkladı .</sentence>
+<sentence num="5">Yolcuların çoğunun Kıbrıslı Rum olduğunu ifade eden Thrasu ,Sivil Havacılık idaresinin ,durumla mücadele için tüm birimlerini seferber ettiğini ,Sağlık ,Çalışma ve Kamu Düzeni bakanlıklarının çabalara katkıda bulunduğunu kaydetti .</sentence>
+<sentence num="6">Rum Sağlık Bakanlığı ,kazada hayatını kaybedenlerin ailelerine yardım için tıbbi ekip sağlarken ,Çalışma ve Sosyal Güvenlik Bakanlığı'nın ,ihtiyacı olanlar için sosyal yardım birimlerinden uzmanlar tedarik ettiği ,Adalet ve Kamu Düzeni Bakanlığı'nın da Yunan yetkililerle koordinasyon kurmak üzere kaza bölgesine 10 kişilik ekip gönderdiği bildiriliyor .''</sentence>
+<sentence num="7">İLİOS'TAN GELEN LİSTE EKSİK ''Rum Ulaştırma Bakanı Thrasu ,düşen uçaktaki kişilerin listesini veremeyeceğini ,Rum yönetiminin İlios havayolu şirketinden aldığı listenin eksik olduğunu söyledi .</sentence>
+<sentence num="8">Thrasu ,bir soru üzerine ,İlios şirketinin polis ve hükümete uçaktakilerin düzgün bir listesini neden veremediğine ilişkin bir araştırmanın yapılacağını söyledi .</sentence>
+<sentence num="9">Bakan Thrasu ,kazadan önce ,uçağın yetkililer tarafından sağlam olduğunun tespit edildiğini ,bu konuda daha fazla bilgiye ilerki sürelerde ulaşılabileceğini kaydetti .</sentence>
+<sentence num="10">İlios'un uçuşlarının durdurulup durdurulmayacağına ilişkin bir soru üzerine Thrasu ,bu tür vakalarda böyle bir uygulamanın adetten olmadığını ,tüm uluslararası düzenlemelerin takip edileceğini belirtti .</sentence>
+<sentence num="11">UÇAKTAKİ YOLCULARIN KAZADAN ÖNCE ÖLDÜĞÜ SANILIYOR Uçaktaki yolcuların ,düşüşten önce zaten ölmüş olduklarının sanıldığını ifade eden Thrasu ,uçakta 48 çocuğun bulunduğu yönündeki haberleri ise doğrulamadı .</sentence>
+<sentence num="12">Thrasu ,uçağın Kıbrıs Rum kesimi dışındaki bir şirket tarafından teknik kontrollerden geçirildiğini ve uçmaya elverişli olduğuna dair gerekli tüm belgelerin verildiğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>132864</id>
+<sentence num="0">2005 08 14 22 :36 :00 .Düşen uçak 'tam hizmet görür ve uçabilir 'nitelikteydi .</sentence>
+<sentence num="1">Düşen uçak 'tam hizmet görür ve uçabilir 'nitelikteydi Yunanistan'ın başkenti Atina yakınlarında düşen uçağın şirketi İlios ,uçağın ,kaza yaptığı seferden önce ,''tam hizmet görür ve uçabilir ''nitelikte olduğunu açıkladı .</sentence>
+<sentence num="2">İlios'tan yapılan açıklamada ,uçaktaki 115 yolcunun çoğunun yetişkin olduğu belirtildi .</sentence>
+<sentence num="3">Uçağın ,havalandırma sistemindeki bir arıza nedeniyle bir süre önce bakıma alındığı ve seferlerinin birkaç gün önce yeniden başlatıldığı bildirilmişti .</sentence>
+<sentence num="4">Bu arada Kıbrıs Rum yönetimi Ulaştırma Bakanı Haris Thrasu ,Larnaka Havaalanı'nda düzenlediği basın toplantısında ,''kazanın terörist bir saldırı yüzünden meydana geldiği yönünde bir kanıta sahip olmadıklarını ''belirtti .</sentence>
+<sentence num="5">Kurtulan olduğuna dair de ellerinde bilgi olmadığını ifade eden Thrasu ,115 yolcudan 67'sinin Atina'da inmesinin ,kalanların Prag'a devam etmesinin öngörüldüğünü açıkladı .</sentence>
+<sentence num="6">Yolcuların çoğunun Kıbrıslı Rum olduğunu ifade eden Thrasu ,Sivil Havacılık idaresinin ,durumla mücadele için tüm birimlerini seferber ettiğini ,Sağlık ,Çalışma ve Kamu Düzeni bakanlıklarının çabalara katkıda bulunduğunu kaydetti .</sentence>
+<sentence num="7">Rum Sağlık Bakanlığı ,kazada hayatını kaybedenlerin ailelerine yardım için tıbbi ekip sağlarken ,Çalışma ve Sosyal Güvenlik Bakanlığı'nın ,ihtiyacı olanlar için sosyal yardım birimlerinden uzmanlar tedarik ettiği ,Adalet ve Kamu Düzeni Bakanlığı'nın da Yunan yetkililerle koordinasyon kurmak üzere kaza bölgesine 10 kişilik ekip gönderdiği bildiriliyor .''</sentence>
+<sentence num="8">İLİOS'TAN GELEN LİSTE EKSİK ''Rum Ulaştırma Bakanı Thrasu ,düşen uçaktaki kişilerin listesini veremeyeceğini ,Rum yönetiminin İlios havayolu şirketinden aldığı listenin eksik olduğunu söyledi .</sentence>
+<sentence num="9">Thrasu ,bir soru üzerine ,İlios şirketinin polis ve hükümete uçaktakilerin düzgün bir listesini neden veremediğine ilişkin bir araştırmanın yapılacağını söyledi .</sentence>
+<sentence num="10">Bakan Thrasu ,kazadan önce ,uçağın yetkililer tarafından sağlam olduğunun tespit edildiğini ,bu konuda daha fazla bilgiye ilerci sürelerde ulaşılabileceğini kaydetti .</sentence>
+<sentence num="11">İlios'un uçuşlarının durdurulup durdurulmayacağına ilişkin bir soru üzerine Thrasu ,bu tür vakalarda böyle bir uygulamanın adetten olmadığını ,tüm uluslararası düzenlemelerin takip edileceğini belirtti .</sentence>
+<sentence num="12">UÇAKTAKİ YOLCULARIN KAZADAN ÖNCE ÖLDÜĞÜ SANILIYOR Uçaktaki yolcuların ,düşüşten önce zaten ölmüş olduklarının sanıldığını ifade eden Thrasu ,uçakta 48 çocuğun bulunduğu yönündeki haberleri ise doğrulamadı .</sentence>
+<sentence num="13">Thrasu ,uçağın Kıbrıs Rum kesimi dışındaki bir şirket tarafından teknik kontrollerden geçirildiğini ve uçmaya elverişli olduğuna dair gerekli tüm belgelerin verildiğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>132866</id>
+<sentence num="0">2005 08 14 22 :40 :00 .İlios havayolları :Uçak tam hizmet görür ve uçabilir nitelikteydi .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina yakınlarında düşen uçağın şirketi İlios ,uçağın ,kaza yaptığı seferden önce ,''tam hizmet görür ve uçabilir ''nitelikte olduğunu açıkladı .</sentence>
+<sentence num="2">İlios'tan yapılan açıklamada ,uçaktaki 115 yolcunun çoğunun yetişkin olduğu belirtildi .</sentence>
+<sentence num="3">Uçağın ,havalandırma sistemindeki bir arıza nedeniyle bir süre önce bakıma alındığı ve seferlerinin birkaç gün önce yeniden başlatıldığı bildirilmişti .</sentence>
+<sentence num="4">Bu arada Kıbrıs Rum yönetimi Ulaştırma Bakanı Haris Thrasu ,Larnaka Havaalanı'nda düzenlediği basın toplantısında ,''kazanın terörist bir saldırı yüzünden meydana geldiği yönünde bir kanıta sahip olmadıklarını ''belirtti .</sentence>
+<sentence num="5">Kurtulan olduğuna dair de ellerinde bilgi olmadığını ifade eden Thrasu ,115 yolcudan 67'sinin Atina'da inmesinin ,kalanların Prag'a devam etmesinin öngörüldüğünü açıkladı .</sentence>
+<sentence num="6">Yolcuların çoğunun Kıbrıslı Rum olduğunu ifade eden Thrasu ,Sivil Havacılık idaresinin ,durumla mücadele için tüm birimlerini seferber ettiğini ,Sağlık ,Çalışma ve Kamu Düzeni bakanlıklarının çabalara katkıda bulunduğunu kaydetti .</sentence>
+<sentence num="7">Rum Sağlık Bakanlığı ,kazada hayatını kaybedenlerin ailelerine yardım için tıbbi ekip sağlarken ,Çalışma ve Sosyal Güvenlik Bakanlığı'nın ,ihtiyacı olanlar için sosyal yardım birimlerinden uzmanlar tedarik ettiği ,Adalet ve Kamu Düzeni Bakanlığı'nın da Yunan yetkililerle koordinasyon kurmak üzere kaza bölgesine 10 kişilik ekip gönderdiği bildiriliyor .''</sentence>
+<sentence num="8">İLİOS'TAN GELEN LİSTE EKSİK ''Rum Ulaştırma Bakanı Thrasu ,düşen uçaktaki kişilerin listesini veremeyeceğini ,Rum yönetiminin İlios havayolu şirketinden aldığı listenin eksik olduğunu söyledi .</sentence>
+<sentence num="9">Thrasu ,bir soru üzerine ,İlios şirketinin polis ve hükümete uçaktakilerin düzgün bir listesini neden veremediğine ilişkin bir araştırmanın yapılacağını söyledi .</sentence>
+<sentence num="10">Bakan Thrasu ,kazadan önce ,uçağın yetkililer tarafından sağlam olduğunun tespit edildiğini ,bu konuda daha fazla bilgiye ilerci sürelerde ulaşılabileceğini kaydetti .</sentence>
+<sentence num="11">İlios'un uçuşlarının durdurulup durdurulmayacağına ilişkin bir soru üzerine Thrasu ,bu tür vakalarda böyle bir uygulamanın adetten olmadığını ,tüm uluslararası düzenlemelerin takip edileceğini belirtti .</sentence>
+<sentence num="12">UÇAKTAKİ YOLCULARIN KAZADAN ÖNCE ÖLDÜĞÜ SANILIYOR Uçaktaki yolcuların ,düşüşten önce zaten ölmüş olduklarının sanıldığını ifade eden Thrasu ,uçakta 48 çocuğun bulunduğu yönündeki haberleri ise doğrulamadı .</sentence>
+<sentence num="13">Thrasu ,uçağın Kıbrıs Rum kesimi dışındaki bir şirket tarafından teknik kontrollerden geçirildiğini ve uçmaya elverişli olduğuna dair gerekli tüm belgelerin verildiğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>132869</id>
+<sentence num="0">2005 08 14 23 :05 :00 .Talat'tan Papadopulos'a taziye .</sentence>
+<sentence num="1">Uçaktaki yakınını kaybeden bir anne Larnaka havaalanında fenalaştı Oshan Sabırlı DHA Lefkoşa KKTC Cumhurbaşkanı Mehmet Ali Talat ,121 Rum yolcunun düşen Boeing 737 tipi uçakta yaşamını yitirmesi nedeniyle Rum Yönetimi Lideri Papadopoulos'a taziye dileklerini telefonla iletti .</sentence>
+<sentence num="2">Rum yönetimi yaptığı açıklamada KKTC Cumhurbaşkanı Mehmet Ali Talat'ın Rum Yönetimi Lideri Tassos Papadopulos'u aradığı ve yapılan telefon görüşmesinde ,Talat'ın üzüntüsünü dile getirdiği belirtildi .</sentence>
+<sentence num="3">Talat yapılan görüşmede uçak kazasının derin üzüntüyle karşılandığını ve bu kadar çok insanın yaşamını kaybetmesi'nin kendisinde de şok etkisi yaptığını belirtti .</sentence>
+<sentence num="4">Papadopulos ise Talat'ın bu kişisel ilgisinin takdire değer oluğunu vurguladı .</sentence>
+<sentence num="5">KKTC Başbakan Yardımcısı ve Dış İşleri Bakanı Serdar Denktaş da Papadopoulos'a kazayla ilgili üzüntüsünü telefonla dile getirdi .</sentence>
+<sentence num="6">Yunanistan'ın başkenti Atina yakınlarında düşen uçağın şirketi İlios ,uçağın ,kaza yaptığı seferden önce ,''tam hizmet görür ve uçabilir ''nitelikte olduğunu açıkladı .</sentence>
+<sentence num="7">İlios'tan yapılan açıklamada ,uçaktaki 115 yolcunun çoğunun yetişkin olduğu belirtildi .</sentence>
+<sentence num="8">Uçağın ,havalandırma sistemindeki bir arıza nedeniyle bir süre önce bakıma alındığı ve seferlerinin birkaç gün önce yeniden başlatıldığı bildirilmişti .</sentence>
+<sentence num="9">UÇAK NASIL DÜŞTÜ ?</sentence>
+<sentence num="10">Rum kesiminde Larnaka'dan Yunanistan'ın başkenti Atina üzerinden Çek Cumhuriyeti'nin başkenti Prag'a giden yolcu uçağı Atina'nın kuzeyindeki Gramatikos dağlık bölgesinde düştü .</sentence>
+<sentence num="11">Helios havayollarına ait uçak ,saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="12">Rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine ,Atina havaalanı kontrol kulesi pilotlarla temasa geçmeye çalıştı .</sentence>
+<sentence num="13">Ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="14">Atina ,bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="15">Buradaki görevliler Atina kontrol kulesi'ne ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="16">Yolculardan birinin de uçak düşmeden önce kuzenine gönderdiği telefon mesajında klima arızalı .</sentence>
+<sentence num="17">Pilotlardan biri mosmor kesildi ...</sentence>
+<sentence num="18">Donuyoruz diye yazdığı ortaya çıktı .</sentence>
+<sentence num="19">Terörle bağlantısı yok Uçaktaki 121 cesetten 112'sine ulaşıldığı bildirildi .</sentence>
+<sentence num="20">Kıbrıs Rum yönetimi Ulaştırma Bakanı Haris Thrasu ,Larnaka Havaalanı'nda düzenlediği basın toplantısında ,''kazanın terörist bir saldırı yüzünden meydana geldiği yönünde bir kanıta sahip olmadıklarını ''belirtti .</sentence>
+<sentence num="21">Uçaktaki yolcuların ,düşüşten önce zaten ölmüş olduklarının sanıldığını ifade eden Thrasu ,uçakta 48 çocuğun bulunduğu yönündeki haberleri ise doğrulamadı .</sentence>
+<sentence num="22">Thrasu ,uçağın Kıbrıs Rum kesimi dışındaki bir şirket tarafından teknik kontrollerden geçirildiğini ve uçmaya elverişli olduğuna dair gerekli tüm belgelerin verildiğini kaydetti .</sentence>
+<sentence num="23">Pilot muhtemelen baygındı Yunanistan hükümet sözcüsü Theodoros Rusopulos da ,121 kişinin öldüğü uçak kazasının terör eylemiyle bağlantısı olduğuna dair en ufak bir göstergenin bulunmadığını söyledi .</sentence>
+<sentence num="24">Uçağın kuleyle irtibatının kesilmesinin ardından F 16 tipi 2 Yunan savaş uçağının yakın uçuşa geçerek ,kokpitle bağlantı kurmaya çalıştıklarını kaydeden Rusopulos ,F 16 pilotlarının hiçbir şekilde uçakla temasa geçemediklerini belirtti .</sentence>
+<sentence num="25">Savaş uçaklarının pilotlarının ,yolcu uçağının bir pilotunun muhtemelen baygın halde olduğunu gözlemlediklerini ,kabinde ise oksijen maskelerinin asılı halde bulunduğunun belirlendiğini kaydeden Rusopulos ,F 16 pilotlarının ,yolcu uçağının pilotlarının yerine geçmeye çalışan iki kişi gördüklerini ,ancak bu şahısların mürettebat veya yolcu olup olmadıklarının belirlenemediğini sözlerine ekledi .</sentence>
+<sentence num="26">Rusopulos ,yolcu listesinin ise henüz açıklanmadığını kaydetti .</sentence>
+<sentence num="27">Yolcu listesi neden açıklanmıyor ?</sentence>
+<sentence num="28">Rum Ulaştırma Bakanı Thrasu ,düşen uçaktaki kişilerin listesini veremeyeceğini ,Rum yönetiminin İlios havayolu şirketinden aldığı listenin eksik olduğunu söyledi .</sentence>
+<sentence num="29">Thrasu ,bir soru üzerine ,İlios şirketinin polis ve hükümete uçaktakilerin düzgün bir listesini neden veremediğine ilişkin bir araştırmanın yapılacağını söyledi .</sentence>
+<sentence num="30">Kurtulan olduğuna dair de ellerinde bilgi olmadığını ifade eden Thrasu ,115 yolcudan 67'sinin Atina'da inmesinin ,kalanların Prag'a devam etmesinin öngörüldüğünü açıkladı .</sentence>
+<sentence num="31">Kıbrıs Rum yönetimi ve Yunanistan yasta Kıbrıs Rum yönetimi ,uçak kazasının ardından üç günlük genel yas ilan etti .</sentence>
+<sentence num="32">Kazada hayatını kaybedenlerin anısına ilan edilen yas çerçevesinde hükümet binalarındaki bayraklar yarıya indirilecek .</sentence>
+<sentence num="33">Yunanistan İçişleri Bakanı Prokopis Pavlopulos da ,kazada yaşamını yitirenlerin anısına ülkede genel yas ilan etti .</sentence>
+<sentence num="34">Bakanlık kararı çerçevesinde ,16 ağustosta hükümet binalarındaki bayrakların yarıya indirileceği ,saat 12 .00'de üç dakikalık saygı duruşunda bulunulacağı belirtildi .</sentence>
+</doc>
+<doc>
+<id>132907</id>
+<sentence num="0">2005 08 15 01 :55 :00 .Düşen Kıbrıs Rum uçağındaki 121 cesetten 112'sine ulaşıldı .</sentence>
+<sentence num="1">Düşen Kıbrıs Rum uçağındaki 121 cesetten 112'sine ulaşıldı Yunanistan'ın başkenti Atina yakınlarında dün sabah saatlerinde düşen Kıbrıs Rum kesimi İlios havayollarına ait Boeing 737 tipi uçaktaki 121 cesetten 112'sine ulaşıldığı bildirildi .</sentence>
+<sentence num="2">Yunanistan İçişleri Bakanı Prokopis Pavlopulos konuya ilişkin yaptığı açıklamada ,şu ana kadar 112 cesedin uçak enkazından çıkarıldığını belirtti .</sentence>
+<sentence num="3">Henüz ulaşılamayan 9 cesedin ise uçağın gövde bölümünün altında bulunduğunun sanıldığını kaydeden Pavlopulos ,arama çalışmalarının yarın sabah saatlerinden itibaren sürdürüleceğini söyledi .</sentence>
+<sentence num="4">Bu arada ,Yunan televizyonları ,cesetlerin kimliklerinin belirlenmesine ilişkin çalışmalara yarın başlanacağını kaydettiler .</sentence>
+</doc>
+<doc>
+<id>132908</id>
+<sentence num="0">2005 08 15 01 :55 :00 .Yunanistan İçişleri Bakanı :121 cesetten 112'sine ulaşıldı .</sentence>
+<sentence num="1">Yunanistan İçişleri Bakanı :121 cesetten 112'sine ulaşıldı Yunanistan'ın başkenti Atina yakınlarında dün sabah saatlerinde düşen Kıbrıs Rum kesimi İlios havayollarına ait Boeing 737 tipi uçaktaki 121 cesetten 112'sine ulaşıldığı bildirildi .</sentence>
+<sentence num="2">Yunanistan İçişleri Bakanı Prokopis Pavlopulos konuya ilişkin yaptığı açıklamada ,şu ana kadar 112 cesedin uçak enkazından çıkarıldığını belirtti .</sentence>
+<sentence num="3">Henüz ulaşılamayan 9 cesedin ise uçağın gövde bölümünün altında bulunduğunun sanıldığını kaydeden Pavlopulos ,arama çalışmalarının yarın sabah saatlerinden itibaren sürdürüleceğini söyledi .</sentence>
+<sentence num="4">Bu arada ,Yunan televizyonları ,cesetlerin kimliklerinin belirlenmesine ilişkin çalışmalara yarın başlanacağını kaydettiler .</sentence>
+</doc>
+<doc>
+<id>133036</id>
+<sentence num="0">2005 08 15 10 :59 :00 .Yolcular donarak ve yanarak öldü Rum uçağının kara kutuları bu sabah bulundu .</sentence>
+<sentence num="1">Rum uçağının kara kutuları bulundu Yunanistan'ın başkenti Atina yakınlarında dün düşen ve 121 kişinin öldüğü uçağın yolcularından çoğunun donmuş ,bazılarının ise yanmış olduğu açıklandı .</sentence>
+<sentence num="2">Kazaya ,kabin basıncındaki ani düşüş nedeniyle pilotların bilincini kaybetmesi ve ardından ölmesi sonucu uçağın kontrolünün kaybedilmesinin yolaçtığı sanılıyor .</sentence>
+<sentence num="3">Kazanın kesin nedeni ise bu sabah bulunan kara kutularda yapılacak inceleme sonucu belli olacak .</sentence>
+<sentence num="4">Güney Kıbrıs hükümeti de bir açıklama yaparak ,6 kişilik mürettebat ile 115 yolcu taşıyan uçağın kaptan pilotunun Alman olduğunu ,bunun dışında uçakta 4 kişiden oluşan bir Ermeni ailenin bulunduğunu belirtti .</sentence>
+<sentence num="5">Açıklamada ayrıca ,yolculardan 12'sinin Yunan olduğu ,kalan 104 kişinin Kıbrıslı olduğunu kaydedildi .</sentence>
+<sentence num="6">Rum Politis gazetesi uçakta ölenler arasında Kıbrıslı bir Türkün de bulunduğunu yazmıştı .</sentence>
+<sentence num="7">Ancak resmi açıklamada Kıbrıslı Türkten söz edilmedi .</sentence>
+<sentence num="8">Yunan televizyonları cesetlerin büyük bölümünün tanınabilir durumda olduğunu ,ancak çok sayıda parçalanmış ve tamamen yanmış cesedin bulunduğunu duyurdu .</sentence>
+<sentence num="9">Daha önce de arıza yapmış Televizyonlar ayrıca düşen uçağın 2003'ten itibaren geçirdiği teknik sorunlara da dikkat çekti .</sentence>
+<sentence num="10">Buna göre :2003 Londra Larnaka seferini yaparken arızalandı ve Yunanistan'ın Rodos adasına zorunlu iniş yaptı .</sentence>
+<sentence num="11">2004 Varşova Larnaka seferi sırasında ani basınç kaybı yaşadı ,Larnaka'ya varışı sonrasında yolculardan bazıları solunum sorunları nedeniyle hastaneye kaldırıldı .</sentence>
+<sentence num="12">2005 Klimasında arıza meydana geldi .</sentence>
+<sentence num="13">Pilotlar işbaşı yapmadı Bu arada Rum uçağının ait olduğu Helios şirketinde çalışan diğer pilotlar ,bugün Larnaka'dan yapılacak seferler için uçaklara binmeyi reddetti .</sentence>
+<sentence num="14">Pilotların güvenlik kaygısıyla mı ,yoksa maneviyatları bozulduğu için mi işbaşı yapmadıkları bilinmiyor .</sentence>
+<sentence num="15">Kıbrıs Rum kesimindeki Larnaka'dan 14 ağustosta saat 09 .00'da kalkan ve Yunanistan üzerinden Çek Cumhuriyeti'ndeki Prag'a giden ve saat 12 .05'te düştüğü belirlenen Rum yolcu uçağının enkazı ,aynı gün Atina'nın kuzeyindeki Gramatikos dağlık bölgesinde bulundu .</sentence>
+<sentence num="16">Helios havayollarına ait uçakta hayatını kaybedenlerden 48'i çocuk 112'sinin cesetlerine de ulaşıldı .'</sentence>
+<sentence num="17">Pilotlar mosmor 'mesajı Yetkililere göre ,Boeing 737 tipi uçaktaki basınç düşüşü çok ani oldu .</sentence>
+<sentence num="18">Pilotlar ,oksijen maskelerini takamadan ve uçağı daha güvenli bir irtifaya indiremeden kendilerinden geçti ,ardından da öldü .</sentence>
+<sentence num="19">Yolculardan birinin geçtiği cep telefonu mesajı da ,bu ihtimali güçlendiriyor .</sentence>
+<sentence num="20">Mesajda ,pilotlar mosmor ,donuyoruz .</sentence>
+<sentence num="21">Elveda ifadesi yer aldı .</sentence>
+<sentence num="22">Yolcuların da aynı sonu paylaştığı sanılıyor .</sentence>
+<sentence num="23">Pilot ,yerle son temasında klimayla ilgili bir sorun olduğunu ifade etmişti .</sentence>
+<sentence num="24">Uçağın ,daha önce de benzer havalandırma sorunlarıyla karşılaştığı belirtildi .</sentence>
+<sentence num="25">Uçak nasıl düştü ?</sentence>
+<sentence num="26">Helios havayollarına ait uçak saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="27">Rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine Atina havaalanı kontrol kulesi pilotlarla temasa geçmeye çalıştı ,ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="28">Atina bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="29">Buradaki görevliler Atina kontrol kulesine ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="30">Uçak düşmeden önce iki Yunan F 16 uçağının takibindeydi .</sentence>
+<sentence num="31">Askeri pilotlar ,yolcu uçağına yaklaştıklarında kaptanın yerinde olmadığını ,yardımcısının da baygın olduğunu gördüklerini söyledi .</sentence>
+<sentence num="32">Yaklaşık iki saat sonra Yunan televizyonu söz konusu uçağın düştüğünü duyurdu .</sentence>
+<sentence num="33">Üç günlük yas Kaza nedeniyle Kıbrıs Rum kesiminde üç günlük yas ilan edildi .</sentence>
+<sentence num="34">Kazada hayatını kaybedenlerin anısına ilan edilen yas çerçevesinde hükümet binalarındaki bayraklar yarıya indirilecek .</sentence>
+<sentence num="35">Yunanistan İçişleri Bakanı Prokopis Pavlopulos da ,kazada yaşamını yitirenlerin anısına ülkede genel yas ilan etti .</sentence>
+<sentence num="36">Bakanlık kararı çerçevesinde ,yarın hükümet binalarındaki bayrakların yarıya indirileceği ,saat 12 .00'de üç dakikalık saygı duruşunda bulunulacağı belirtildi .</sentence>
+<sentence num="37">Rum uçağının düşmesi sonucu hayatını kaybedenler anısına yarın KKTC'de de bayraklar yarıya indirilecek .</sentence>
+<sentence num="38">KKTC Başbakanlığı ,yarın mesai saatleri içinde bayrakların yarıya indirilmesini tüm resmi daire ,kurum ve kuruluşlara duyurdu .</sentence>
+<sentence num="39">Buna göre ,yarın saat 07 .30'dan 14 .00'e kadar ,KKTC'deki tüm resmi daire ,kurum ve kuruluşlarda bayraklar yarıya indirilecek .</sentence>
+</doc>
+<doc>
+<id>133043</id>
+<sentence num="0">2005 08 15 11 :10 :00 .Düşen Rum uçağının kara kutuları bulundu .</sentence>
+<sentence num="1">CNNTÜRK Yunanistan'ın başkenti Atina yakınlarında düşen ve 121 kişinin öldüğü uçağın kara kutuları bulundu .</sentence>
+<sentence num="2">Kazaya ,kabin basıncındaki ani düşüş nedeniyle pilotların bayılması ve ardından ölmesi sonucu uçağın kontrolünün kaybedilmesinin yolaçtığı sanılıyor .</sentence>
+<sentence num="3">Kıbrıs Rum kesimindeki Larnaka'dan çıkan ve Yunanistan üzerinden Çek Cumhuriyeti'ndeki Prag'a giden Rum yolcu uçağının enkazı ,dün Atina yakınlarında bulundu .</sentence>
+<sentence num="4">Helios havayollarına ait uçakta hayatını kaybedenlerden 48'i çocuk 112'sinin cesetlerine de ulaşıldı .</sentence>
+<sentence num="5">Yetkililere göre ,Boeing 737 tipi uçaktaki basınç düşüşü ,çok ani oldu .</sentence>
+<sentence num="6">Pilotlar ,oksijen maskelerini takamadan ve uçağı daha güvenli bir irtifaya indiremeden kendilerinden geçti ,ardından da öldü .</sentence>
+<sentence num="7">Yunanistan'ın başkenti Atina yakınlarında dün düşen ve 121 kişinin öldüğü uçağın yolcularından çoğunun donmuş ,bazılarının ise yanmış olduğu açıklandı .</sentence>
+<sentence num="8">Kazanın kesin nedeni ise bu sabah bulunan kara kutularda yapılacak inceleme sonucu belli olacak .'</sentence>
+<sentence num="9">Pilotlar mosmor 'mesajı Yolculardan birinin geçtiği cep telefonu mesajı da ,bu ihtimali güçlendiriyor .</sentence>
+<sentence num="10">Mesajda ,pilotlar mosmor ,donuyoruz .</sentence>
+<sentence num="11">Elveda ifadesi yer aldı .</sentence>
+<sentence num="12">Yolcuların da aynı sonu paylaştığı sanılıyor .</sentence>
+<sentence num="13">Pilot ,yerle son temasında ,klimayla ilgili bir sorun olduğunu ifade etmişti .</sentence>
+<sentence num="14">Uçağın ,daha önce de benzer havalandırma sorunlarıyla karşılaştığı belirtildi .</sentence>
+<sentence num="15">Uçak düşmeden önce ,iki Yunan F 16 uçağının takibindeydi .</sentence>
+<sentence num="16">Askeri pilotlar ,yolcu uçağına yaklaştıklarında ,kaptanın yerinde olmadığını ,yardımcısının da baygın olduğunu gördüklerini söyledi .</sentence>
+<sentence num="17">Kaza nedeniyle Kıbrıs Rum kesiminde üç günlük yas ilan edildi .</sentence>
+<sentence num="18">Kazada hayatını kaybedenlerin anısına ilan edilen yas çerçevesinde hükümet binalarındaki bayraklar yarıya indirilecek .</sentence>
+<sentence num="19">Yunanistan İçişleri Bakanı Prokopis Pavlopulos da ,kazada yaşamını yitirenlerin anısına ülkede genel yas ilan etti .</sentence>
+<sentence num="20">Bakanlık kararı çerçevesinde ,yarın hükümet binalarındaki bayrakların yarıya indirileceği ,saat 12 .00'de üç dakikalık saygı duruşunda bulunulacağı belirtildi .</sentence>
+<sentence num="21">DAKİKA DAKİKA DÜŞÜŞ ANI Rum gazeteleri ,uçağın Larnaka'dan Atina'ya gitmek üzere saat 09 :07'de küçük bir gecikmeyle havalandığını ,uçağın 09 :17'de Lefkoşa Kontrol Merkezi ile temasa geçerek iyi yolculuklar dilekleri arasında 34 bin feet e yükselme emri aldığını ,ancak 09 :37'de Lefkoşa Kontrol Merkezi'nin uçakla tekrar temasa geçme girişiminin ardından uçaktan yanıt alınamadığını belirtti .</sentence>
+<sentence num="22">Habere göre ,09 :40'ta Yunan hava sahasına giren uçakla telsiz temasının kurulamaması üzerine ,Yunan hava kontrol merkezi haberdar edildi ve Yunan kontrol merkezinin çabalarının da sonuçsuz kalmasından ötürü acil durum ilan edilerek ,Yunanlı üst düzey yetkililere bilgi verildi .</sentence>
+<sentence num="23">Uçakla temasın kurulamaması sonucunda saat 11 :00'de iki adet Yunan F 16 uçağı ,yolcu uçağını aramak üzere havalandı ve 11 :30'da uçağın yeri tespit edildi .</sentence>
+<sentence num="24">F 16 savaş uçaklarının pilotları 11 :35'te yolcu uçağının pilot kabininde pilotun bulunmadığını ,yardımcı pilotun ise uçak dümeninin üzerine yatmış vaziyette görüldüğünü bildirdiler .</sentence>
+<sentence num="25">F 16'lar eşliğinde yönünde devam eden yolcu uçağı saat 12 :03'te Atina Eleftheros Venizelos Havaalanı'nın 5 mil kuzeybatısındaki ,yerleşimin olmadığı bir bölgeye düştü .</sentence>
+<sentence num="26">Gazete ,yolcu uçağının uçmakta olduğu 38 bin feet yükseklikten kontrolsüz olarak yere çakıldığını ve bunun sonucunda uçağın paramparça olarak büyük bir yangının meydana geldiğini belirtti .</sentence>
+<sentence num="27">Gazete ,F 16 pilotlarının yolcu uçağına yaklaşmış oldukları sırada yolcuların oksijen maskelerinin açılmış olduğunu gördüklerini belirtirken ,bazı yolcuların uçak düşmeden önce yakınlarına cep telefonlarıyla uçağın çok soğuk olduğu ve pilotun ölmüş olduğu şeklinde SMS mesajları gönderdiklerini belirtti .</sentence>
+<sentence num="28">Politis ,KKTC Cumhurbaşkanı Mehmet Ali Talat'ın Rum yönetimi lideri Tasos Papadopulos'u telefonla arayarak başsağlığı dilemesine de haberlerinde yer verdi .</sentence>
+<sentence num="29">RUM BASINI :TANRIM ,NE TRAJEDİ !</sentence>
+<sentence num="30">Rum basını ,dün Atina yakınlarında düşen Rum İlios havayollarına ait uçakla ilgili haberlere sayfalarında çok geniş şekilde yer verdiler .</sentence>
+<sentence num="31">Politis gazetesi ,Tanrım !</sentence>
+<sentence num="32">İlios'ta 121 Ölü Ve Ağır Sorumluluklar Boeing'in Geçmişi Karanlık Tanrım ,Ne Trajedi başlıkları ile manşetten ve iç sayfalarından verdiği haberlerde ,uçağın düşüş sebebi hakkında bazı senaryolar bulunduğunu ,en güçlü senaryonun uçağın havalandırma sisteminde meydana gelen arıza nedeniyle bu trajedinin yaşandığı şeklinde olduğunu belirtti .</sentence>
+<sentence num="33">Birçok uzman pilot ve teknisyenin ,yavaş basınç artışının bu tür bir kazanın tek sebebi olamayacağı ,muhtemelen klima sisteminde de arızanın olduğu görüşünü savunduklarını yazan gazete ,Boeing 737 300 gibi diğer modern uçaklarda basınçta değişiklik olması durumunda pilotları uyaracak sistemin bulunduğunu ,kafalardaki en önemli sorunun pilotların tepki verememe ve duruma müdahale edememe nedeni olduğunu kaydetti .</sentence>
+<sentence num="34">Gazete ,uçak kazasını haber almalarının ardından gerek Larnaka Havaalanı'na ,gerekse İlios şirketinin bürolarına başvuran kazazede yakınlarına 5 saat sonra kesin bilgi verilebildiğini ,bu durumun kazazede yakınlarının büyük tepkisine yol açtığını yazdı .</sentence>
+<sentence num="35">Fileleftheros gazetesi ,kazayla ilgili haberlerine ,Ölüme Doğru Uçuş 48'i Çocuk 121 Ölü Yolcu Listesine Dair Korku Filmi 60 Derecede Ve Oksijensiz başlıklarını kullanırken ,Simerini gazetesinin başlıkları da Aileler Yok Oldu Kıbrıs Yasta şeklinde oldu .</sentence>
+<sentence num="36">Haravgi ,Kıbrıs Yas Tutuyor Kara 15 Ağustos ,Alithia ,Neden Tanrım Ölümle Kucak Kucağa ,Tharros da ,Kara İlios (Güneş )Kıbrıs'ı Kapsadı 121 Ölü Neden ?</sentence>
+<sentence num="37">Uçak Sorunluydu başlıklarına yer verdiler .</sentence>
+<sentence num="38">PİLOTLAR BUGÜN UÇAKLARA BİNMEDİ Öte yandan ,düşen Rum uçağının ait olduğu İlios şirketinde çalışan diğer pilotların ,bugün Larnaka'dan yapılacak seferler için uçaklara binmeyi reddettikleri bildirildi .</sentence>
+<sentence num="39">Çeşitli kaynaklardan gelen haberlere göre ,pilotlar ve mürettebat işbaşı yapmaya yanaşmadı .</sentence>
+<sentence num="40">Bu yüzden bu sabah en az iki sefer iptal edildi .</sentence>
+<sentence num="41">Yerel bir TV kanalı ,bunu ''minik isyan ''olarak nitelendirdi ,ancak pilotların gerçekten güvenlik kaygısıyla mı ,yoksa maneviyatları bozulduğu için mi işbaşı yapmadıklarına açıklık getirmedi .?</sentence>
+<sentence num="42">Talat'tan Papadopoulos'a başsağlığı ...?</sentence>
+<sentence num="43">Düşen uçakta 121 cesetten 112'sine ulaşıldı ?</sentence>
+<sentence num="44">Hollanda'da iki tren raydan çıktı .</sentence>
+</doc>
+<doc>
+<id>133121</id>
+<sentence num="0">2005 08 15 12 :39 :00 .Erdoğan ve Gül'den ,Karamanlis ve Molivyatis'e başsağlığı mesajı .</sentence>
+<sentence num="1">Erdoğan ve Gül'den ,Karamanlis ve Molivyatis'e başsağlığı mesajı Başbakan Recep Tayyip Erdoğan ile Dışişleri Bakanı ve Başbakan Yardımcısı Abdullah Gül ,Yunanistan Başbakanı Kostas Kramanlis ve Dışişleri Bakanı Petros Molivyatis'e başsağlığı mesajı gönderdi .</sentence>
+<sentence num="2">Dışişleri Bakanlığı Sözcüsü Namık Tan ,Atina yakınlarına düşen Kıbrıs Rum kesimi İlios havayollarına ait Boeing 737 tipi uçakla ilgili soruya verdiği yanıtta ,şunları kaydetti :''Atina'nın kuzeyinde meydana gelen elim uçak kazasında çok sayıda Güney Kıbrıslı ve Yunanlının hayatını kaybetmiş olmasından derin üzüntü duyulmaktadır .</sentence>
+<sentence num="3">Başbakanımız ve bakanımızın ,söz konusu uçak kazasından duydukları teessür ve başsağlığı dilekleri ,Yunanistan Başbakanı Kostas Karamanlis ve Dışişleri Bakanı Petros Molivyatis'e dün yazılı olarak iletilmiştir .''.</sentence>
+</doc>
+<doc>
+<id>133126</id>
+<sentence num="0">2005 08 15 12 :40 :00 .Rum basını düşen uçakla ilgili haberlere geniş yer ayırdı .</sentence>
+<sentence num="1">Rum basını düşen uçakla ilgili haberlere geniş yer ayırdı Rum basını ,dün Atina yakınlarında düşen Rum İlios havayollarına ait uçakla ilgili haberlere sayfalarında çok geniş şekilde yer verdiler .</sentence>
+</doc>
+<doc>
+<id>133127</id>
+<sentence num="0">2005 08 15 12 :45 :00 .Düşen uçakta ölenlerin uyrukları belli oldu .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina'nın 30 kilometre kuzeyinde düşen Rum uçağında bulunan 6 kişilik mürettebat ile 115 yolcudan ,ilk belirlemelere göre ,108'inin Rum ,12'sinin Yunanlı ,kaptan pilotun ise Alman olduğu açıklandı .</sentence>
+<sentence num="2">Yunan televizyonları ,Grammatikos dağlık alanına dün saat 12 .05'te düşen Kıbrıs Rum kesimi İlios havayollarına ait uçakta bulunan yolculardan 20'sinin çocuk olduğunu belirterek ,cesetlerin büyük bölümünün tanınabilir durumda olduğunu ,ancak çok sayıda parçalanmış ve tamamen yanmış cesedin bulunduğunu duyurdular .</sentence>
+<sentence num="3">Televizyonlar ,Yunanistan'da bulunan ve İlios havayollarıyla yolculuk yapması beklenen turistlerin büyük bölümünün ,rezervasyonlarını iptal ettiklerini ,Kıbrıs ile Yunan Olympic havayollarına başvurarak bulundukları bölgeye sefer koyulmasını talep ettiklerini kaydettiler .</sentence>
+<sentence num="4">Düşen uçağın tarihçesine de değinen televizyonlar ,uçağın 2003'te Londra Larnaka seferi yaptığı sırada arızalanarak Yunanistan'ın Rodos adasına zorunlu iniş yapmak durumunda kaldığını ,2004'te Varşova Larnaka seferi sırasında ani basınç kaybı yaşadığını ,Larnaka'ya varışı sonrasında yolculardan bazılarının solunum sorunları nedeniyle hastaneye kaldırıldıklarını ,2005'de ise klimasında arıza meydana geldiğini belirttiler .</sentence>
+<sentence num="5">ÖLENLER ARASINDA KIBRISLI TÜRK BULUNDUĞU ŞÜPHESİ Bugün Rum gazeteleri ,kendilerine gelen bazı bilgilere göre uçakta bir de Kıbrıslı Türk'ün bulunma ihtimalinin olduğunu yazdı .</sentence>
+<sentence num="6">Haberde ,dün gece geç saatlere kadar gazeteye ,kazada ölenlerin kimlikleri hakkında çeşitli bilgiler ulaştığı ,ancak resmi olarak yolcu listesinin henüz açıklanamamasından ötürü ölen kişilerin isimlerini yayınlamadıkları belirtilirken ,bazı bilgilerin uçakta bir de Kıbrıslı Türk'ün bulunduğuna işaret ettiği kaydedildi .</sentence>
+</doc>
+<doc>
+<id>133132</id>
+<sentence num="0">2005 08 15 12 :55 :00 .Düşen uçakta bir Türk de var !</sentence>
+<sentence num="1">Rum basını ,dün Atina yakınlarında düşen Rum İlios havayollarına ait uçakla ilgili haberlere sayfalarında çok geniş şekilde yer verdiler .</sentence>
+<sentence num="2">Politis gazetesi ,''Tanrım !</sentence>
+<sentence num="3">İlios'ta 121 Ölü Ve Ağır Sorumluluklar Boeing'in Geçmişi Karanlık Tanrım ,Ne Trajedi ''başlıkları ile manşetten ve iç sayfalarından verdiği haberlerde ,uçağın düşüş sebebi hakkında bazı senaryolar bulunduğunu ,en güçlü senaryonun uçağın havalandırma sisteminde meydana gelen arıza nedeniyle bu trajedinin yaşandığı şeklinde olduğunu belirtti .</sentence>
+<sentence num="4">Birçok uzman pilot ve teknisyenin ,yavaş basınç artışının bu tür bir kazanın tek sebebi olamayacağı ,muhtemelen ''klima ''sisteminde de arızanın olduğu görüşünü savunduklarını yazan gazete ,Boeing 737 300 gibi diğer modern uçaklarda basınçta değişiklik olması durumunda pilotları uyaracak sistemin bulunduğunu ,kafalardaki en önemli sorunun pilotların tepki verememe ve duruma müdahale edememe nedeni olduğunu kaydetti .</sentence>
+<sentence num="5">Gazete ,uçak kazasını haber almalarının ardından gerek Larnaka Havaalanı'na ,gerekse İlios şirketinin bürolarına başvuran kazazede yakınlarına 5 saat sonra kesin bilgi verilebildiğini ,bu durumun kazazede yakınlarının büyük tepkisine yol açtığını yazdı .</sentence>
+<sentence num="6">DAKİKA DAKİKA DÜŞÜŞ ANI Gazete ,uçağın Larnaka'dan Atina'ya gitmek üzere saat 09 :07'de küçük bir gecikmeyle havalandığını ,uçağın 09 :17'de ''Lefkoşa Kontrol Merkezi ''ile temasa geçerek ''iyi yolculuklar ''dilekleri arasında 34 bin ''feet ''e yükselme emri aldığını ,ancak 09 :37'de ''Lefkoşa Kontrol Merkezi'nin ''uçakla tekrar temasa geçme girişiminin ardından uçaktan yanıt alınamadığını belirtti .</sentence>
+<sentence num="7">Habere göre ,09 :40'ta Yunan hava sahasına giren uçakla telsiz temasının kurulamaması üzerine ,Yunan hava kontrol merkezi haberdar edildi ve Yunan kontrol merkezinin çabalarının da sonuçsuz kalmasından ötürü acil durum ilan edilerek ,Yunanlı üst düzey yetkililere bilgi verildi .</sentence>
+<sentence num="8">Uçakla temasın kurulamaması sonucunda saat 11 :00'de iki adet Yunan F 16 uçağı ,yolcu uçağını aramak üzere havalandı ve 11 :30'da uçağın yeri tespit edildi .</sentence>
+<sentence num="9">F 16 savaş uçaklarının pilotları 11 :35'te yolcu uçağının pilot kabininde pilotun bulunmadığını ,yardımcı pilotun ise uçak dümeninin üzerine yatmış vaziyette görüldüğünü bildirdiler .</sentence>
+<sentence num="10">F 16'lar eşliğinde yönünde devam eden yolcu uçağı saat 12 :03'te Atina Eleftheros Venizelos Havaalanı'nın 5 mil kuzeybatısındaki ,yerleşimin olmadığı bir bölgeye düştü .</sentence>
+<sentence num="11">Gazete ,yolcu uçağının uçmakta olduğu 38 bin feet yükseklikten kontrolsüz olarak yere çakıldığını ve bunun sonucunda uçağın paramparça olarak büyük bir yangının meydana geldiğini belirtti .</sentence>
+<sentence num="12">Gazete ,F 16 pilotlarının yolcu uçağına yaklaşmış oldukları sırada yolcuların oksijen maskelerinin açılmış olduğunu gördüklerini belirtirken ,bazı yolcuların uçak düşmeden önce yakınlarına cep telefonlarıyla uçağın çok soğuk olduğu ve pilotun ölmüş olduğu şeklinde SMS mesajları gönderdiklerini belirtti .</sentence>
+<sentence num="13">Politis ,KKTC Cumhurbaşkanı Mehmet Ali Talat'ın Rum yönetimi lideri Tasos Papadopulos'u telefonla arayarak başsağlığı dilemesine de haberlerinde yer verdi .</sentence>
+<sentence num="14">ÖLENLER ARASINDA KIBRISLI TÜRK BULUNDUĞU ŞÜPHESİ Gazete ayrıca ,kendilerine gelen bazı bilgilere göre uçakta bir de Kıbrıslı Türk'ün bulunma ihtimalinin olduğunu yazdı .</sentence>
+<sentence num="15">Haberde ,dün gece geç saatlere kadar gazeteye ,kazada ölenlerin kimlikleri hakkında çeşitli bilgiler ulaştığı ,ancak resmi olarak yolcu listesinin henüz açıklanamamasından ötürü ölen kişilerin isimlerini yayınlamadıkları belirtilirken ,bazı bilgilerin uçakta bir de Kıbrıslı Türk'ün bulunduğuna işaret ettiği kaydedildi .</sentence>
+<sentence num="16">Gazete ,uçakta ayrıca 4 kişilik Ermeni kökenli ''Kıbrıs vatandaşı ''bir ailenin yer aldığının bildirildiğini belirtti .</sentence>
+<sentence num="17">Fileleftheros gazetesi ,kazayla ilgili haberlerine ,''Ölüme Doğru Uçuş 48'i Çocuk 121 Ölü Yolcu Listesine Dair Korku Filmi 60 Derecede Ve Oksijensiz ''başlıklarını kullanırken ,Simerini gazetesinin başlıkları da ''Aileler Yok Oldu Kıbrıs Yasta ''şeklinde oldu .</sentence>
+<sentence num="18">Haravgi ,''Kıbrıs Yas Tutuyor Kara 15 Ağustos '',Alithia ,''Neden Tanrım Ölümle Kucak Kucağa '',Tharros da ,''Kara İlios (Güneş )Kıbrıs'ı Kapsadı 121 Ölü Neden ?</sentence>
+<sentence num="19">Uçak Sorunluydu ''başlıklarına yer verdiler .</sentence>
+<sentence num="20">İLİOS PİLOTLARI ,BUGÜN UÇAKLARA BİNMEDİ Yunanistan'da dün düşen Rum uçağının ait olduğu İlios şirketinde çalışan diğer pilotların ,bugün Larnaka'dan yapılacak seferler için uçaklara binmeyi reddettikleri bildirildi .</sentence>
+<sentence num="21">Çeşitli kaynaklardan gelen haberlere göre ,pilotlar ve mürettebat işbaşı yapmaya yanaşmadı .</sentence>
+<sentence num="22">Bu yüzden bu sabah en az iki sefer iptal edildi .</sentence>
+<sentence num="23">Yerel bir TV kanalı ,bunu ''minik isyan ''olarak nitelendirdi ,ancak pilotların gerçekten güvenlik kaygısıyla mı ,yoksa maneviyatları bozulduğu için mi işbaşı yapmadıklarına açıklık getirmedi .</sentence>
+<sentence num="24">Şirkete ait uçak ,dün Atina yakınlarında yere çakılmış ,kazada 121 kişi ölmüştü .</sentence>
+<sentence num="25">aa .</sentence>
+</doc>
+<doc>
+<id>133172</id>
+<sentence num="0">2005 08 15 13 :46 :00 .Düşen Rum uçağındakilerin 108'i Rum ,12'si Yunanlı ,biri Alman .</sentence>
+<sentence num="1">Düşen Rum uçağındakilerin 108'i Rum ,12'si Yunanlı ,biri Alman Yunanistan'ın başkenti Atina'nın 30 kilometre kuzeyinde düşen Rum uçağında bulunan 6 kişilik mürettebat ile 115 yolcudan ,ilk belirlemelere göre ,108'inin Rum ,12'sinin Yunanlı ,kaptan pilotun ise Alman olduğu açıklandı .</sentence>
+<sentence num="2">Yunan televizyonları ,Grammatikos dağlık alanına dün saat 12 .05'te düşen Kıbrıs Rum kesimi İlios havayollarına ait uçakta bulunan yolculardan 20'sinin çocuk olduğunu belirterek ,cesetlerin büyük bölümünün tanınabilir durumda olduğunu ,ancak çok sayıda parçalanmış ve tamamen yanmış cesedin bulunduğunu duyurdular .</sentence>
+</doc>
+<doc>
+<id>133199</id>
+<sentence num="0">2005 08 15 14 :12 :00 .Düşen uçaktakilerin kimlik bilgileri .</sentence>
+<sentence num="1">Yunan televizyonları ,Grammatikos dağlık alanına dün saat 12 .05'te düşen Kıbrıs Rum kesimi İlios havayollarına ait uçakta bulunan yolculardan 20'sinin çocuk olduğunu belirterek ,cesetlerin büyük bölümünün tanınabilir durumda olduğunu ,ancak çok sayıda parçalanmış ve tamamen yanmış cesedin bulunduğunu duyurdular .</sentence>
+<sentence num="2">Televizyonlar ,Yunanistan'da bulunan ve İlios havayollarıyla yolculuk yapması beklenen turistlerin büyük bölümünün ,rezervasyonlarını iptal ettiklerini ,Kıbrıs ile Yunan Olympic havayollarına başvurarak bulundukları bölgeye sefer koyulmasını talep ettiklerini kaydettiler .</sentence>
+<sentence num="3">Düşen uçağın tarihçesine de değinen televizyonlar ,uçağın 2003'te Londra Larnaka seferi yaptığı sırada arızalanarak Yunanistan'ın Rodos adasına zorunlu iniş yapmak durumunda kaldığını ,2004'te Varşova Larnaka seferi sırasında ani basınç kaybı yaşadığını ,Larnaka'ya varışı sonrasında yolculardan bazılarının solunum sorunları nedeniyle hastaneye kaldırıldıklarını ,2005'de ise klimasında arıza meydana geldiğini belirttiler .</sentence>
+</doc>
+<doc>
+<id>133301</id>
+<sentence num="0">2005 08 15 16 :21 :00 .Uçaktakiler Donarak Öldü .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina yakınında düşen Kıbrıs Rum Kesimi'ne ait yolcu uçağındaki cesetlere ulaşıldı .</sentence>
+<sentence num="2">Uçaktakilerin donarak ve yanarak öldüğü bildiriliyor .</sentence>
+<sentence num="3">İlk bilgilere göre ,121 kişinin öldüğü uçağın düşüş nedeni ,klima arızası ve kabin basıncındaki ani düşüş .</sentence>
+<sentence num="4">Kaza ile ilgili araştırma ve soruşturma sürerken ,uçağın karakutuları bulundu .</sentence>
+<sentence num="5">İlk ulaşılan bilgilere göre ,uçağın düşme nedeni klima sistemindeki arızaya bağlı olarak kabin basıncındaki ani düşüş .</sentence>
+<sentence num="6">Yetkililere göre ,iki hafta önce de aynı arızadan bakıma alınan Boeing 737 tipi uçaktaki basınç düşüşü ,çok ani oldu .</sentence>
+<sentence num="7">Pilotlar ,oksijen maskelerini takamadan kendilerinden geçti ,ardından öldü .</sentence>
+<sentence num="8">Yolculardan birinin geçtiği cep telefonu mesajı ,pilotun havalandıktan sonra klimada arıza var uyarısı ve düşmeden önce uçağa havadan eşlik eden Yunan F 16 pilotlarının ifadeleri de ,bu ihtimali güçlendiriyor .</sentence>
+<sentence num="9">Bir yolcu ,cep telefonu mesajında ,pilotlar mosmor ,donuyoruz .</sentence>
+<sentence num="10">Elveda ifadelerini kullanırken ,F 16 pilotları da ,kaptan yerinde yoktu ,ikinci pilot iki büklümdü ,maskeler de çıkmıştı açıklamasında bulunuyor .</sentence>
+<sentence num="11">Yolculardan ikisinin ,pilotların öldüklerinin anlaşılmasından sonra kontrolü sağlama umuduyla pilot kabinine girdikleri de Yunan savaş pilotlarının ifadelerindeki ilginç noktalardan biri .</sentence>
+<sentence num="12">Ancak uçaktaki ani basınç kaybı nedeniyle yolcuların tamamının pilotlar gibi uçak düşmeden önce öldüğü sanılıyor .</sentence>
+<sentence num="13">Uçağa düşmeden önce eşlik eden F 16 pilotlarının kaydettiği 44 dakikalık görüntüler tüm bu ihtimalleri doğrular nitelikte .</sentence>
+<sentence num="14">Kazanın kesin nedeni ise kara kutularda yapılacak inceleme sonucu belli olacak .</sentence>
+<sentence num="15">Resmi açıklamalara göre ,uçak ,Atina'nın 30 kilometre kuzeyindeki ormanlık alana düşüyor .</sentence>
+<sentence num="16">Havacılık uzmanları ise farklı bir olasılığa daha dikkat çekiyor .</sentence>
+<sentence num="17">Uçağın ,pilotların ölmüş olması nedeniyle kalabalık bir yerleşim birimine düşmesinin engellenmesi için Yunan savaş uçaklarınca ormanlık alan yakınlarında düşürülmüş olması ihtimali .</sentence>
+<sentence num="18">Hayatını kaybedenlerden 48'i çocuk 112'sinin cesetlerine de ulaşıldı .</sentence>
+<sentence num="19">Cesetlerin büyük bölümünün tanınabilir durumda olduğunu ,çoğunun yanmış ve donmuş olduğu bildiriliyor .</sentence>
+<sentence num="20">İlios havayollarıyla yolculuk edecek çok sayıda kişinin ise ,Kıbrıs ile Yunan Olympic havayollarına başvurarak bulundukları bölgeye sefer istedikleri kaydediliyor .</sentence>
+<sentence num="21">İlios şirketinde çalışan pilotlar da ,Larnaka'dan yapılacak seferler için uçaklara binmeyi reddetti .</sentence>
+<sentence num="22">Öte yandan düşen uçağın daha önce de bir çok kez arızalandığı tespit edildi .</sentence>
+<sentence num="23">Uçak 2003'te Londra Larnaka seferi yaptığı sırada arızalanarak Yunanistan'ın Rodos adasına zorunlu iniş yaptı .</sentence>
+<sentence num="24">2004'te ise Varşova Larnaka seferi sırasında ani basınç kaybı yaşandı .</sentence>
+<sentence num="25">2005'de de klimasında arıza meydana geldi .</sentence>
+</doc>
+<doc>
+<id>133359</id>
+<sentence num="0">2005 08 15 17 :37 :00 .Düşen Rum uçağında ölenler anısına KKTC'de bayraklar yarıya indirilecek .</sentence>
+<sentence num="1">Düşen Rum uçağında ölenler anısına KKTC'de bayraklar yarıya indirilecek Yunanistan'ın başkenti Atina yakınlarında dün Rum uçağının düşmesi sonucu hayatını kaybedenler anısına yarın KKTC'de bayraklar yarıya indirilecek .</sentence>
+<sentence num="2">KKTC Başbakanlığı ,bugün yayımladığı genelgeyle yarın mesai saatleri içinde bayrakların yarıya indirilmesini tüm resmi daire ,kurum ve kuruluşlara duyurdu .</sentence>
+</doc>
+<doc>
+<id>133373</id>
+<sentence num="0">2005 08 15 17 :50 :00 .Düşen Rum uçağı için KKTC'de bayraklar yarıya indirilecek .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina yakınlarında dün Rum uçağının düşmesi sonucu hayatını kaybedenler anısına yarın KKTC'de bayraklar yarıya indirilecek .</sentence>
+<sentence num="2">KKTC Başbakanlığı ,bugün yayımladığı genelgeyle yarın mesai saatleri içinde bayrakların yarıya indirilmesini tüm resmi daire ,kurum ve kuruluşlara duyurdu .</sentence>
+<sentence num="3">Buna göre ,yarın saat 07 .30'dan 14 .00'e kadar ,KKTC'deki tüm resmi daire ,kurum ve kuruluşlarda bayraklar yarıya indirilecek .</sentence>
+</doc>
+<doc>
+<id>133395</id>
+<sentence num="0">2005 08 15 18 :59 :00 .KKTC'den Rumlara başsağlığı .</sentence>
+<sentence num="1">KKTC Cumhurbaşkanı Mehmet Ali Talat ,Rum İlios havayollarına ait yolcu uçağının Atina yakınlarında düşmesi sonucu hayatını kaybedenlerin aileleri ve yakınlarına başsağlığı diledi .</sentence>
+<sentence num="2">KKTC Cumhurbaşkanlığı'ndan yapılan açıklamaya göre ,Talat ,şunları belirtti :''İlios Havayollarına ait uçakta bulunan 115 yolcu ve 6 kişilik mürettebatın hayatını kaybettiği uçak kazasını ,derin bir üzüntüyle öğrenmiş bulunuyorum .</sentence>
+<sentence num="3">Bu trajik kazaya kurban giden Kıbrıslı Rum yolcuların yakınları ve ailelerinin acısını yürekten paylaşıyorum .</sentence>
+<sentence num="4">Kıbrıs Türk halkının ,Kıbrıs Rum halkının bu zor gününde yanında olduğunu vurgulamak isterim .</sentence>
+<sentence num="5">Böylesine vahim bir kazada hayatını kaybedenlere Tanrı'dan rahmet ,yaslı ailelerine ve yakınlarına başsağlığı dilerim .</sentence>
+<sentence num="6">BAŞBAKAN SOYER Başbakan ferdi Sabit Soyer de ,yayımladığı başsağlığı mesajında ,kazanın Rumları üzdüğü kadar ,Kıbrıs Türk halkını da son derece üzdüğünü belirtti .</sentence>
+<sentence num="7">Soyer ,şunları kaydetti :''Yaşanan üzücü uçak kazası nedeniyle Cumhurbaşkanımız Sayın Mehmet Ali Talat ile Başbakan Yardımcısı ve Dışişleri Bakanımız Sayın Serdar Denktaş ,aynı gün ,Kıbrıs Türk halkı adına üzüntülerinin Güney Kıbrıs yöneticilerine iletirken ;hükümet olarak bizler de ülkemizde yaşanan üzüntünün ifadesi olarak 16 Ağustos 2005 Salı günü tüm ülkede bayrakların yarıya indirilmesi kararını almış bulunmaktayız .</sentence>
+<sentence num="8">Kardeşliğe ve barışa hem KKTC'de ,hem Kıbrıs'ın bütününde ,hem de dünyada ulaşma mücadelesini sürdüren Kıbrıs Türk halkı adına ,başta kaza nedeniyle yaşamını yitiren kazazedelerin aileleri olmak üzere tüm Rum halkına başsağlığı dilerim .''</sentence>
+<sentence num="9">DİĞER MESAJLAR Kaza nedeniyle bir mesaj yayımlayan Yeni Kıbrıs Partisi de ,duyduğu üzüntüyü ifade ederken ,CTP Gençlik Örgütü'nün açıklamasındaysa ''Yaşanan uçak kazası nedeniyle büyük bir kısmı çocuk ,121 kişinin hayatını kaybetmesinin acısını Kıbrıs Rum halkıyla birlikte biz de yürekten yaşıyoruz ''denildi .</sentence>
+<sentence num="10">CTP BG Genel Sekreteri Ömer Kalyoncu da mesajında ,kazanın Kıbrıs Türk halkı arasında büyük üzüntüye yol açtığını kaydederek ,Kıbrıslı Rumların acısını yürekten paylaştıklarını belirtti .</sentence>
+<sentence num="11">Birleşik Kıbrıs Partisi (BKP )Merkez Yürütme Kurulu da ,kazada 121 kişinin yaşamını yitirmesinden duyduğu üzüntüyü ifade etti .</sentence>
+<sentence num="12">ABD BÜYÜKELÇİLİĞİNİN MESAJI Bu arada ABD'nin Rum büyükelçiliği de ,bir mesaj yayımlayarak ,kazada hayatını kaybedenler için duyduğu üzüntüyü bildirdi .</sentence>
+<sentence num="13">Amerikan büyükelçiliğinin açıklamasında ,''ABD halkı adına Amerikan büyükelçiliği dün yaşanan trajedi nedeniyle en içten ve en derin taziyelerini sunmaktadır .</sentence>
+<sentence num="14">Yitirilen hayatların acısını paylaşır ve kurbanları saygıyla anarız .</sentence>
+<sentence num="15">Kalplerimiz ,tüm Kıbrıs halkıyla özellikle de sevdiklerini yitirenlerin aileleri ve dostlarıyla birliktedir .</sentence>
+<sentence num="16">Düşünce ve dualarımız sizinledir .''.</sentence>
+</doc>
+<doc>
+<id>133446</id>
+<sentence num="0">2005 08 15 21 :45 :00 .Rum Polisi ,İlios hava yolu şirketninin Lefkoşa bürolarında arama yaptı .</sentence>
+<sentence num="1">Kıbrıs Rum kesiminde polis ,dün Atina yakınlarında düşen uçağın bağlı olduğu İlios havayolu şirketinin Lefkoşa'daki bürolarında arama yaptı .</sentence>
+<sentence num="2">Hükümet sözcülerinden Marios Karoyan ,Reuters'a açıklamasında ,İletişim ve Çalışma Bakanı ile emniyet müdürünün suçlamaları üzerine ,başsavcının ,muhtemel bir soruşturmada işe yarayabilecek belgeleri ve delilleri toplamak için İlios'un bürolarının aranması talimatı verdiğini söyledi .</sentence>
+<sentence num="3">Başsavcı Petros Klerides de ,arama talimatının verildiğini doğrulayarak ,aramaların devam ettiğini söyledi .</sentence>
+<sentence num="4">Düşen uçağın 2003'te Londra Larnaka seferi yaptığı sırada arızalanarak Yunanistan'ın Rodos adasına zorunlu iniş yaptığı ;2004'te Varşova Larnaka seferi sırasında uçakta ani basınç kaybı olduğu ve Larnaka'ya varışı sonrasında yolculardan bazılarının solunum sorunları nedeniyle hastaneye kaldırıldığı ;2005'de ise uçağın klimasında arıza meydana geldiği belirtilmişti .</sentence>
+</doc>
+<doc>
+<id>133455</id>
+<sentence num="0">2005 08 15 22 :03 :00 .'Pilotlar mosmor 'mesajı yalanlandı Düşen Rum uçağı daha önce üç kez teknik arıza yapmış .</sentence>
+<sentence num="1">Polis ,Helios'un Lefkoşa'daki bürolarında arama yaptı Yunanistan'ın başkenti Atina'nın kuzeyinde düşen Rum uçağında bulunan yolculardan birinin ,düşüşten kısa süre önce kuzenine cep telefonuyla mesaj gönderdiği yalanlandı .</sentence>
+<sentence num="2">Yunan ANT1 televizyonu ,kuzeninden 'Pilot mosmor oldu .</sentence>
+<sentence num="3">Donuyoruz .</sentence>
+<sentence num="4">Elveda kuzen 'şeklinde bir mesaj aldığını iddia eden Sotiris Vutas adlı Yunan vatandaşının ,polis tarafından gözaltına alındığını ve yarın Atina Savcılığı'na sevk edileceğini duyurdu .</sentence>
+<sentence num="5">ANT1 ,Vutas'ın polise verdiği ifadede ,dikkat çekmek ve adını duyurmak istediğini ,bu nedenle söz konusu hikayeyi uydurduğunu söylediğini belirtti .</sentence>
+<sentence num="6">Kuzenin adının 'Petridis 'olduğu ,ancak yolcu listesinde bu isimde birisinin bulunmaması üzerine yetkililerin mesajdan şüpheye düştükleri belirtildi .</sentence>
+<sentence num="7">Polis Helios'un bürosunda arama yaptı Kıbrıs Rum kesiminde ise polis ,Helios havayolu şirketinin Lefkoşa'daki bürolarında arama yaptı .</sentence>
+<sentence num="8">Hükümet sözcülerinden Marios Karoyan ,Reuters'a açıklamasında ,İletişim ve Çalışma Bakanı ile emniyet müdürünün suçlamaları üzerine ,başsavcının ,soruşturmada işe yarayabilecek belgeleri ve delilleri toplamak için İlios'un bürolarının aranması talimatı verdiğini söyledi .</sentence>
+<sentence num="9">Başsavcı Petros Klerides de ,arama talimatının verildiğini doğrulayarak ,aramaların devam ettiğini söyledi .</sentence>
+<sentence num="10">Dün ,Yunanistan'ın başkenti Atina'nın 110 kilometre kuzey doğusunda düşen Rum yolcu uçağında bulunan 121 kişi hayatını kaybetmişti .</sentence>
+<sentence num="11">Daha önce de arıza yapmış Dün düşen uçak ,2003'ten bu yana üç kez teknik sorunlar yaşamış .</sentence>
+<sentence num="12">Buna göe :2003 Londra Larnaka seferini yaparken arızalandı ve Yunanistan'ın Rodos adasına zorunlu iniş yaptı .</sentence>
+<sentence num="13">2004 Varşova Larnaka seferi sırasında ani basınç kaybı yaşadı ,Larnaka'ya varışı sonrasında yolculardan bazıları solunum sorunları nedeniyle hastaneye kaldırıldı .</sentence>
+<sentence num="14">2005 Klimasında arıza meydana geldi .</sentence>
+</doc>
+<doc>
+<id>133462</id>
+<sentence num="0">2005 08 15 22 :30 :00 .Yolculardan birinin kuzenine mesaj gönderdiği yalanlandı ...</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina'nın kuzeyinde düşen Rum uçağında bulunan yolculardan birinin ,düşüşten kısa süre önce kuzenine cep telefonuyla mesaj gönderdiği yalanlandı .</sentence>
+<sentence num="2">Yunan ANT1 televizyonu ,kuzeninden Pilot mosmor oldu .</sentence>
+<sentence num="3">Donuyoruz .</sentence>
+<sentence num="4">Elveda kuzen şeklinde bir mesaj aldığını iddia eden Sotiris Vutas adlı Yunan vatandaşının ,polis tarafından gözaltına alındığını ve yarın Atina Savcılığı'na sevk edileceğini duyurdu .</sentence>
+<sentence num="5">ANT1 ,Vutas'ın polise verdiği ifadede ,dikkat çekmek ve adını duyurmak istediğini ,bu nedenle söz konusu hikayeyi uydurduğunu söylediğini belirtti .</sentence>
+<sentence num="6">Kuzenin adının Petridis olduğu ,ancak yolcu listesinde bu isimde birisinin bulunmaması üzerine yetkililerin mesajdan şüpheye düştükleri belirtildi .</sentence>
+</doc>
+<doc>
+<id>133467</id>
+<sentence num="0">2005 08 15 22 :48 :00 .Yunanistan :Yolcuların havada öldüklerine dair bir bulgu yok .</sentence>
+<sentence num="1">Yunanistan :Yolcuların havada öldüklerine dair bir bulgu yok Yunan adli tıp uzmanı Filipos Kuçaftis ,Atina'nın kuzeyinde dün düşen Rum uçağında bulunan 6'sı mürettebat 121 kişinin ,uçak havadayken öldüklerine dair şu ana kadar bir bulguya rastlanmadığını açıkladı .</sentence>
+<sentence num="2">Kuçaftis ,incelemeler çerçevesinde şu ana kadar 6 cesedin otopsisinin yapıldığını ,elde edilen verilerin ,bu kişilerin uçak düşene kadar canlı oldukları ,kalp atışları ve kan dolaşımlarındaysa bir anormallik saptanmadığı yönünde olduğunu açıkladı .</sentence>
+</doc>
+<doc>
+<id>133486</id>
+<sentence num="0">2005 08 16 00 :10 :00 .Rum uçağı işi muammaya döndü .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina'nın kuzeyinde düşen Rum uçağında bulunan yolculardan birinin ,düşüşten kısa süre önce kuzenine cep telefonuyla mesaj gönderdiği yalanlandı .</sentence>
+<sentence num="2">Yunan ANT1 televizyonu ,kuzeninden Pilot mosmor oldu .</sentence>
+<sentence num="3">Donuyoruz .</sentence>
+<sentence num="4">Elveda kuzen şeklinde bir mesaj aldığını iddia eden Sotiris Vutas adlı Yunan vatandaşının ,polis tarafından gözaltına alındığını ve yarın Atina Savcılığı'na sevk edileceğini duyurdu .</sentence>
+<sentence num="5">ANT1 ,Vutas'ın polise verdiği ifadede ,dikkat çekmek ve adını duyurmak istediğini ,bu nedenle söz konusu hikayeyi uydurduğunu söylediğini belirtti .</sentence>
+<sentence num="6">Öte yandan Yunan adli tıp uzmanı Filipos Kuçaftis ,uçakta bulunan 6'sı mürettebat 121 kişinin ,uçak havadayken öldüklerine dair şu ana kadar bir bulguya rastlanmadığını açıkladı .''</sentence>
+<sentence num="7">YOLCULARIN HAVADA ÖLDÜKLERİNE DAİR BİR BULGU YOK ''Yunan adli tıp uzmanı Filipos Kuçaftis ,Atina'nın kuzeyinde dün düşen Rum uçağında bulunan 6'sı mürettebat 121 kişinin ,uçak havadayken öldüklerine dair şu ana kadar bir bulguya rastlanmadığını açıkladı .</sentence>
+<sentence num="8">Kuçaftis ,incelemeler çerçevesinde şu ana kadar 6 cesedin otopsisinin yapıldığını ,elde edilen verilerin ,bu kişilerin uçak düşene kadar canlı oldukları ,kalp atışları ve kan dolaşımlarındaysa bir anormallik saptanmadığı yönünde olduğunu açıkladı .</sentence>
+<sentence num="9">Adli tıp uzmanı Kuçaftis'in açıklamasından önce ,uçakta ani basınç düşmesi yüzünden yolcuların havadayken ölmüş olabilecekleri olasılığı üzerinde duruluyordu .</sentence>
+</doc>
+<doc>
+<id>133509</id>
+<sentence num="0">2005 08 16 03 :48 :00 .Yolcuların havada öldüğü kesin değil .</sentence>
+<sentence num="1">Kazada ölenler anısına Kıbrıs Rum kesiminde üç ,KKTC'de de bir günlük yas ilan edildi Yunanistan'da 121 kişinin öldüğü uçak kazasıyla ilgili soruşturma sürüyor .</sentence>
+<sentence num="2">Ölen 20 yolcuya yapılan otopsiler ,yolcuların kaza anında hayatta olduğunu gösterdi .</sentence>
+<sentence num="3">Yapılan otopsilerde yardımcı pilotun da uçak düşmeden önce hayatta olduğu anlaşıldı .</sentence>
+<sentence num="4">Yunan adli tıp uzmanı ,uçaktakilerin havadayken öldüklerine dair bir bulguya rastlanmadığını daha önce açıklamıştı .</sentence>
+<sentence num="5">Yunan uzman ,henüz altı ceset üstünde inceleme yaptığını ve bu kişilerin uçak düşene kadar canlı olduklarını ,kalp atışlarında bir anormallik olmadığını açıkladı .</sentence>
+<sentence num="6">Adli tıp uzmanı ,yolcuların kaza sırasında baygın olabileceğini de belirtti .</sentence>
+<sentence num="7">Daha önce ,uçaktaki yolcuların havada donarak öldüğü ihtimali üstünde duruluyordu .</sentence>
+<sentence num="8">Helios'a baskın Kıbrıs Rum polisi de kazayla ilgili olarak Helios Havayolları'nın Lefkoşa'daki merkez bürosuna baskın düzenledi .</sentence>
+<sentence num="9">Bürodaki bazı belgelere el konuldu .</sentence>
+<sentence num="10">Şirket yetkilileri ise baskın düzenlemediğini ,prosedür gereği bazı belgelerin kopyalarının polise verildiğini açıkladı .</sentence>
+<sentence num="11">Üç günlük yas Kaza nedeniyle Kıbrıs Rum kesiminde üç günlük yas ilan edildi .</sentence>
+<sentence num="12">Kazada hayatını kaybedenlerin anısına ilan edilen yas çerçevesinde hükümet binalarındaki bayraklar yarıya indirildi .</sentence>
+<sentence num="13">Yunanistan İçişleri Bakanı Pavlopulos da hayatını kaybedenlerin anısına ülkede genel yas ilan etti .</sentence>
+<sentence num="14">Bugün hükümet binalarındaki bayraklar yarıya indirilecek ,saat 12 .00'de üç dakikalık saygı duruşunda bulunulacak .</sentence>
+<sentence num="15">KKTC'de de yas Rum uçağının düşmesi sonucu hayatını kaybedenler anısına bugün KKTC'de de bayraklar yarıya indirilecek .</sentence>
+<sentence num="16">KKTC Başbakanlığı ,bugün mesai saatleri içinde bayrakların yarıya indirilmesini tüm resmi daire ,kurum ve kuruluşlara duyurdu .</sentence>
+<sentence num="17">Buna göre ,bugün saat 07 .30'dan 14 .00'e kadar ,Kuzey Kıbrıs Türk Cumhuriyeti'ndeki tüm resmi daire ,kurum ve kuruluşlarda bayraklar yarıya indirilecek .</sentence>
+<sentence num="18">Daha önce de arıza yapmış Televizyonlar ayrıca düşen uçağın 2003'ten itibaren geçirdiği teknik sorunlara da dikkat çekti .</sentence>
+<sentence num="19">Buna göre :2003 :Londra Larnaka seferini yaparken arızalandı ve Yunanistan'ın Rodos adasına zorunlu iniş yaptı .</sentence>
+<sentence num="20">2004 :Varşova Larnaka seferi sırasında ani basınç kaybı yaşadı ,Larnaka'ya varışı sonrasında yolculardan bazıları solunum sorunları nedeniyle hastaneye kaldırıldı .</sentence>
+<sentence num="21">2005 :Klimasında arıza meydana geldi .</sentence>
+<sentence num="22">Uçak nasıl düştü ?</sentence>
+<sentence num="23">Helios Havayolları'na ait uçak saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="24">Rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine Atina kontrol kulesi pilotlarla temasa geçmeye çalıştı ,ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="25">Atina bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="26">Buradaki görevliler Atina kontrol kulesine ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="27">Uçak düşmeden önce iki Yunan F 16 uçağının takibindeydi .</sentence>
+<sentence num="28">Askeri pilotlar ,yolcu uçağına yaklaştıklarında kaptanın yerinde olmadığını ,yardımcısının da baygın olduğunu gördüklerini söyledi .</sentence>
+<sentence num="29">İki saat sonra uçağın düştüğü duyuruldu .</sentence>
+</doc>
+<doc>
+<id>133589</id>
+<sentence num="0">2005 08 16 09 :45 :00 .Düşen uçakta yolcular nasıl öldü ?</sentence>
+<sentence num="1">Yunan adli tıp uzmanı Filipos Kuçaftis ,Atina'nın kuzeyinde dün düşen Rum uçağında bulunan 6'sı mürettebat 121 kişinin ,uçak havadayken öldüklerine dair şu ana kadar bir bulguya rastlanmadığını açıkladı .</sentence>
+<sentence num="2">Kuçaftis ,incelemeler çerçevesinde şu ana kadar 6 cesedin otopsisinin yapıldığını ,elde edilen verilerin ,bu kişilerin uçak düşene kadar canlı oldukları ,kalp atışları ve kan dolaşımlarındaysa bir anormallik saptanmadığı yönünde olduğunu açıkladı .</sentence>
+<sentence num="3">İLK OTOPSİLER ...</sentence>
+<sentence num="4">Uçakta ölenlere yapılan ilk otopsilerin ,uçağın havada kontrolden çıktığında pilotlar dahil olmak üzere tüm kurbanların hayatta olduğunu gösterdiği bildirildi .</sentence>
+<sentence num="5">Yunan baş sorgu yargıcı Filippos Kutsaftis ,Atina'da gazetecilere yaptığı açıklamada ,6 kurbana yaptığı otopsilerin ,bu kişilerin uçak düştüğünde hayatta olduklarını gösterdiğini belirtirken ,kurbanların bu esnada bilinçlerini yitirmiş olabileceklerini de kaydetti .</sentence>
+<sentence num="6">Koutsaftis ,konuyla ilgili nihai kararın ,daha çok kurbanın incelenmesinden sonra alınacağını da sözlerine ekledi .</sentence>
+<sentence num="7">Bu arada Avustralya hükümeti ,Rum İlios havayollarına ait uçakta ölenler arasında ,Kıbrıs Rum kesimi asıllı Avustralya vatandaşı 39 yaşındaki bir babayla 9 ve 10 yaşlarındaki kızlarının bulunduğunu açıkladı .</sentence>
+<sentence num="8">3 AVUSTRALYALI YOLCU VAR Hükümet ,kurbanların kimliklerine ilişkin bilgi vermezken ,Avustralya basını ölen Avustralya vatandaşı babanın adının Demos Siuruppa ,kızlarının da Sophia ve Uanna olduğunu yazdı .</sentence>
+<sentence num="9">Yunanistan'ın başkenti Atina'nın 30 kilometre kuzeyinde düşen Rum uçağında bulunan 6 kişilik mürettebat ile 115 yolcudan ,ilk belirlemelere göre ,108'inin Rum ,12'sinin Yunanlı ,kaptan pilotun ise Alman olduğu açıklanmıştı .</sentence>
+</doc>
+<doc>
+<id>133701</id>
+<sentence num="0">2005 08 16 12 :20 :00 .Faciayla ilgili cevap bekleyen 5 soru .</sentence>
+<sentence num="1">Havalandırma sistemindeki arıza sonucu Atina yakınlarında düşen Rum Helios Havayolları'na ait Boeing 737 tipi uçakta arızanın bilindiği ve bu nedenle uçmayı reddeden pilotun yerine ,yedek Alman pilotun çağrıldığı ortaya çıktı .</sentence>
+<sentence num="2">Larnaka Atina seferini yapan uçakla geçen hafta uçması gereken pilot ve kabin ekibinin ,Klimaları tamir edin ,öyle uçalım dedikleri şirket yöneticilerinden ,Siz uçun ,10 bin feet'e geldiğinizde klima çalışmazsa geri dönersiniz ,çalışırsa da 30 bin feet'e çıkarsınız yanıtını aldıkları bildirildi .</sentence>
+<sentence num="3">Uçak Stina'ya düşer korkusuyla 2 Yunan F 16 pilotu elleri tetikte bekledi .</sentence>
+<sentence num="4">Kazayla ilgili cevap bekleyen sorular ise şunlar :Pilot niye yerinde değil ?</sentence>
+<sentence num="5">Uçak tehlike sinyali verdi mi ,verdiyse neden açıklanmadı ?</sentence>
+<sentence num="6">Ani basınç kaybına karşı özel eğitim görmüş pilotlar neden hemen uçağı 34 bin feet'ten 14 bin feet'in altına indirmedi ?</sentence>
+<sentence num="7">Kaptan pilot niçin yerinde değildi ?</sentence>
+<sentence num="8">Yunan pilot ve kaza araştırma uzmanı Pandelis Frangulis ,Kaptan pilot hiçbir zaman yerini terk etmez ,bu durumu izah etmek mümkün değil dedi .</sentence>
+<sentence num="9">Yedek güvenlik ,oksijen gibi sistemler neden devreye girmedi ?</sentence>
+<sentence num="10">Maskelerden oksijen geldi mi ?</sentence>
+<sentence num="11">Acaba içine zehirli gaz mı karışmıştı ?</sentence>
+<sentence num="12">YUNAN BASINININ CEVAP ARADIĞI SORULAR Yunan basını ,önceki gün Atina'nın kuzeyinde Rum yolcu uçağının düşmesiyle ilgili olarak ,''yanıtlanması gereken önemli sorular bulunduğunu ''belirtti .</sentence>
+<sentence num="13">Elefterotipia gazetesi ,bugünkü sayısında birinci sayfadan verdiği ''Kaybolan 121 can ,felaket güneşine (Helios )soruyor :Neden ?''</sentence>
+<sentence num="14">başlıklı haberinde ,Rum uçağındaki yolcuların ''havasızlık ''ve ''esrar ''içinde kaybolduğunu yazdı .</sentence>
+<sentence num="15">Gazete ,''Uçak mı ,uçan tabut mu ?''</sentence>
+<sentence num="16">başlıklı bir başka haberinde ,Rum uçağının ''ağır (sorunlu )bir geçmişi ve temiz kağıtları bulunduğunu ''belirtirken ,kontrol kuleleriyle irtibatının kesilmesinin ardından Atina semalarında kontrolsüz kalan Rum uçağının ,''şans eseri ''Attiki bölgesindeki kalabalık yerleşim birimlerine düşmediğini kaydetti .</sentence>
+<sentence num="17">Ta Nea gazetesi ,''Öfke ve soru işaretleri ''ve ''Uçan tabuta öfke ''başlıklı haberlerinde ,adli tıp raporlarında yolcuların son ana kadar hayatta olduğunun belirlenmesinin ,kazayla ilgili tüm senaryoları altüst ettiğini yazdı .</sentence>
+<sentence num="18">Kazanın meydana geliş nedenlerinin hala muamma olduğunu belirten gazete ,''yolcu uçağının pilotlarının neden tepki göstermediğinin ,kazadan önce Rum uçağına eşlik eden Yunan jetlerinin pilotlarının uçağın kokpitinde gördüklerini belirttikleri kişilerin kimler olduğunun ''ve ''Atina havaalanına yaklaşmakta olan uçağın son anda nasıl rota değiştirdiğinin ''yanıtlanması gereken sorular olduğunu kaydetti .</sentence>
+<sentence num="19">Ta Nea gazetesi ,kazayla ilgili bir yorumunda da ''hava taşımacılığının serbest bırakılmasının ardından küçük sermayeli yüzlerce uçak şirketi kurulmasıyla ,uçuş güvenliği konusunda büyük soru işaretleri oluştuğunu ''belirtti .</sentence>
+<sentence num="20">Tipos gazetesi ,''Sorunlu Boeing 737 ,Yunanistan'ı ve Kıbrıs'ı yasa boğdu ''başlıklı haberinde ,''Yunanistan ile Kıbrıs'ın Meryem Ana bayramının arifesinde tarihlerinin en büyük uçak trajedisiyle sarsıldığını ''yazdı .</sentence>
+<sentence num="21">Kazada 121 kişinin yaşamını yitirmesinde ''8 niçin ''bulunduğu belirtilen haberde ,kazayla ilgili araştırmalar ilerledikçe olayın açıklığa kavuştuğu ,ancak halen yanıtlanması gereken birçok soru olduğu kaydedildi .</sentence>
+<sentence num="22">Etnos gazetesi de ''121 ölülü trajedi ''başlıklı haberinde ,Atina yakınlarında düşen Rum uçağının düşmeden önce kokpitte bulunan bir hostes ve bazı yolcular tarafından kurtarılmaya çalışıldığını öne sürdü .</sentence>
+<sentence num="23">Gazete ,Rum uçağına refakat eden Yunan jet pilotlarının ifadelerine dayanarak verdiği haberde ,düşmeden önce son anda kontrolü ele almaya çalışan hostesin uçuş bilgisinin ,süratle alçalan uçağı yeniden yükseltmek için yeterli olmadığını yazdı .(</sentence>
+<sentence num="24">Milliyet ).</sentence>
+</doc>
+<doc>
+<id>133702</id>
+<sentence num="0">2005 08 16 12 :21 :00 .Atina'daki uçak kazası Yunan basınında .</sentence>
+<sentence num="1">Atina'daki uçak kazası Yunan basınında Yunan basını ,önceki gün Atina'nın kuzeyinde Rum yolcu uçağının düşmesiyle ilgili olarak ,''yanıtlanması gereken önemli sorular bulunduğunu ''belirtti .</sentence>
+<sentence num="2">Elefterotipia gazetesi ,bugünkü sayısında birinci sayfadan verdiği ''Kaybolan 121 can ,felaket güneşine (Helios )soruyor :Neden ?''</sentence>
+<sentence num="3">başlıklı haberinde ,Rum uçağındaki yolcuların ''havasızlık ''ve ''esrar ''içinde kaybolduğunu yazdı .</sentence>
+</doc>
+<doc>
+<id>133707</id>
+<sentence num="0">2005 08 16 12 :25 :00 .Yunan basını :Uçan tabuta öfke ,cevaplanacak önemli sorular var .</sentence>
+<sentence num="1">Yunan basını ,önceki gün Atina'nın kuzeyinde Rum yolcu uçağının düşmesiyle ilgili olarak ,''yanıtlanması gereken önemli sorular bulunduğunu ''belirtti .</sentence>
+<sentence num="2">Elefterotipia gazetesi ,bugünkü sayısında birinci sayfadan verdiği ''Kaybolan 121 can ,felaket güneşine (Helios )soruyor :Neden ?''</sentence>
+<sentence num="3">başlıklı haberinde ,Rum uçağındaki yolcuların ''havasızlık ''ve ''esrar ''içinde kaybolduğunu yazdı .</sentence>
+<sentence num="4">Gazete ,''Uçak mı ,uçan tabut mu ?''</sentence>
+<sentence num="5">başlıklı bir başka haberinde ,Rum uçağının ''ağır (sorunlu )bir geçmişi ve temiz kağıtları bulunduğunu ''belirtirken ,kontrol kuleleriyle irtibatının kesilmesinin ardından Atina semalarında kontrolsüz kalan Rum uçağının ,''şans eseri ''Attiki bölgesindeki kalabalık yerleşim birimlerine düşmediğini kaydetti .</sentence>
+<sentence num="6">Ta Nea gazetesi ,''Öfke ve soru işaretleri ''ve ''Uçan tabuta öfke ''başlıklı haberlerinde ,adli tıp raporlarında yolcuların son ana kadar hayatta olduğunun belirlenmesinin ,kazayla ilgili tüm senaryoları altüst ettiğini yazdı .</sentence>
+<sentence num="7">Kazanın meydana geliş nedenlerinin hala muamma olduğunu belirten gazete ,''yolcu uçağının pilotlarının neden tepki göstermediğinin ,kazadan önce Rum uçağına eşlik eden Yunan jetlerinin pilotlarının uçağın kokpitinde gördüklerini belirttikleri kişilerin kimler olduğunun ''ve ''Atina havaalanına yaklaşmakta olan uçağın son anda nasıl rota değiştirdiğinin ''yanıtlanması gereken sorular olduğunu kaydetti .</sentence>
+<sentence num="8">Ta Nea gazetesi ,kazayla ilgili bir yorumunda da ''hava taşımacılığının serbest bırakılmasının ardından küçük sermayeli yüzlerce uçak şirketi kurulmasıyla ,uçuş güvenliği konusunda büyük soru işaretleri oluştuğunu ''belirtti .</sentence>
+<sentence num="9">Tipos gazetesi ,''Sorunlu Boeing 737 ,Yunanistan'ı ve Kıbrıs'ı yasa boğdu ''başlıklı haberinde ,''Yunanistan ile Kıbrıs'ın Meryem Ana bayramının arifesinde tarihlerinin en büyük uçak trajedisiyle sarsıldığını ''yazdı .</sentence>
+<sentence num="10">Kazada 121 kişinin yaşamını yitirmesinde ''8 niçin ''bulunduğu belirtilen haberde ,kazayla ilgili araştırmalar ilerledikçe olayın açıklığa kavuştuğu ,ancak halen yanıtlanması gereken birçok soru olduğu kaydedildi .</sentence>
+<sentence num="11">Etnos gazetesi de ''121 ölülü trajedi ''başlıklı haberinde ,Atina yakınlarında düşen Rum uçağının düşmeden önce kokpitte bulunan bir hostes ve bazı yolcular tarafından kurtarılmaya çalışıldığını öne sürdü .</sentence>
+<sentence num="12">Gazete ,Rum uçağına refakat eden Yunan jet pilotlarının ifadelerine dayanarak verdiği haberde ,düşmeden önce son anda kontrolü ele almaya çalışan hostesin uçuş bilgisinin ,süratle alçalan uçağı yeniden yükseltmek için yeterli olmadığını yazdı .</sentence>
+</doc>
+<doc>
+<id>133715</id>
+<sentence num="0">2005 08 16 12 :33 :00 .Düşen Rum uçağının pilotunun Almanya'da uçuş izni kaldırılmış .</sentence>
+<sentence num="1">Düşen Rum uçağının pilotunun Almanya'da uçuş izni kaldırılmış Yunanistan'ın başkenti Atina'nın yakınlarında önceki gün düşen Rum uçağının Alman pilotunun ,görevini hatalı yaptığı için Almanya'da uçuş izninin kaldırıldığı bildirildi .</sentence>
+<sentence num="2">Rum Mahi gazetesi ,kaza yapan uçağın 50 yaşındaki Alman pilotu Marten Hans Jurgen'in pilot olma özelliklerini taşımadığını yazdı .</sentence>
+<sentence num="3">Gazete ,Alman pilotun ,görevini hatalı yapmaktan ötürü Almanya içerisinde uçuş izninin kaldırıldığı ve pilotun en sonunda İlios şirketinde işe başladığına dair bilgi edindiğini belirtti .</sentence>
+<sentence num="4">Haravgi gazetesi de ,uçakla temasın kopmasının ardından uçağın yerini tespit etmek için havalanan iki adet F 16 Yunan savaş uçağının ,pilot kabininde bir kişiyi ,uçağın kontrolünü ele almaya çabalarken gözlemlediğini ve bu kişinin uçağın kamarotu Andreas Prodromu olduğuna inanıldığını yazdı .</sentence>
+<sentence num="5">Uçağa yanaşan ve görüntü kaydı yapan F 16 uçaklarının ,yolcuların baygın ya da ölü olduklarını ,oksijen maskelerinin açık olduğunu ,pilotun kokpitte bulunmadığını ve yardımcı pilotun ise uçak dümeni üzerine ''düşmüş ''vaziyette bulunduğunu tespit ettiklerini kaydeden gazete ,bu sırada koridorda bir hareketin gözlemlendiğini belirtti .</sentence>
+<sentence num="6">Gazete ,uçağın düşmesinden önce ,uçakta bulunan bir kişinin ,''uçakta donmakta oldukları ve pilotun baygın olduğu ''şeklinde bir cep telefonu mesajı çektiği yönündeki haberlerin doğru olmadığını ,Yunan televizyonlarına çıkarak akrabası olan yolcudan bu yönde mesaj aldığını öne süren kişinin Yunanistan'da tutuklandığını yazdı .</sentence>
+<sentence num="7">Politis gazetesi ,Sotiris Vutas adlı kişinin sırf televizyonlarda görünmek için böyle bir şeyi uydurduğunu itiraf ettiğini bildirdi .</sentence>
+<sentence num="8">Haravgi gazetesi ,kazada ölenlerin yakınlarının Atina'da dün kazazedeleri teşhis etme çalışmalarına katıldıklarını ,ilk cesetlere yapılan otopside kurbanların uçağın düştüğü sırada canlı olduklarının tespit edildiğini yazdı .</sentence>
+</doc>
+<doc>
+<id>133718</id>
+<sentence num="0">2005 08 16 12 :35 :00 .Düşen uçakta müthiş şüphe !..</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina'nın yakınlarında önceki gün düşen Rum uçağının Alman pilotunun ,görevini hatalı yaptığı için Almanya'da uçuş izninin kaldırıldığı bildirildi .</sentence>
+<sentence num="2">Rum Mahi gazetesi ,kaza yapan uçağın 50 yaşındaki Alman pilotu Marten Hans Jurgen'in pilot olma özelliklerini taşımadığını yazdı .</sentence>
+<sentence num="3">Gazete ,Alman pilotun ,görevini hatalı yapmaktan ötürü Almanya içerisinde uçuş izninin kaldırıldığı ve pilotun en sonunda İlios şirketinde işe başladığına dair bilgi edindiğini belirtti .</sentence>
+<sentence num="4">Haravgi gazetesi de ,uçakla temasın kopmasının ardından uçağın yerini tespit etmek için havalanan iki adet F 16 Yunan savaş uçağının ,pilot kabininde bir kişiyi ,uçağın kontrolünü ele almaya çabalarken gözlemlediğini ve bu kişinin uçağın kamarotu Andreas Prodromu olduğuna inanıldığını yazdı .</sentence>
+<sentence num="5">Uçağa yanaşan ve görüntü kaydı yapan F 16 uçaklarının ,yolcuların baygın ya da ölü olduklarını ,oksijen maskelerinin açık olduğunu ,pilotun kokpitte bulunmadığını ve yardımcı pilotun ise uçak dümeni üzerine ''düşmüş ''vaziyette bulunduğunu tespit ettiklerini kaydeden gazete ,bu sırada koridorda bir hareketin gözlemlendiğini belirtti .</sentence>
+<sentence num="6">Haberde ,F 16 pilotunun ,uçağın kokpitine birinin yöneldiğini ve pilotun yerine oturarak uçağın kontrolünü almaya çalıştığını tespit ederken ,pilotun yerine oturan şahısla temasla geçilmeye çalışılmasının da sonuçsuz kaldığını ve birkaç dakika sonra uçağın otomatik pilotta sürekli sağa dönüş hareketinden vazgeçerek sola yöneldiğini belirtti .</sentence>
+<sentence num="7">Gazete ,bu noktadan sonra uçağın otomatik pilottan çıktığını ,ilk önce hafif bir yükseliş göstererek daha sonra ''normal ''denebilecek bir şekilde alçalmaya başladığını yazdı .</sentence>
+<sentence num="8">Politis gazetesi de ,Boeing uçağının düşme nedenlerine ilişkin görüşlere ve İlios şirketi çalışanlarının şikayetlerine yer verdi .</sentence>
+<sentence num="9">Gazete ,uçağın birçok arızasının olduğu ,ani hava sıcaklığı artış ve düşüşlerinin yaşandığı ,kapısında buzlanma meydana geldiği ve pilot kabininde yanık kokusunun duyulduğu ,bunların şirket tarafından ciddiye alınmadığı yönünde iki hostesin yakınmalarına yer verdi .</sentence>
+<sentence num="10">25 KİŞİ KAZADAN ÖNCE CANLIYDI Bu arada ,bir Rum soruşturma görevlisi ,kazada ölenler arasından 25 kişi üzerinde yapılan otopsinin ,bu kişilerin ,belki bilinçleri yerinde olmasa da ,kaza anında canlı olduklarını gösterdiğini söyledi .</sentence>
+<sentence num="11">Kazayla ilgili soruşturmayı yapan yetkililerden Nikos Karakukis ,gazetecilere yaptığı açıklamada ,söz konusu 25 kişinin ,cesetleri teşhis edilebilen 45 kişi arasında olduğunu kaydetti .</sentence>
+<sentence num="12">Karakukis ,yapılacak testlerle ,bu kişilerin zehirli duman soluyup solumadıklarının ortaya çıkacağını belirtti .</sentence>
+<sentence num="13">Söz konusu 25 kişi çarpma anında canlıydı diyen Karakukis ,bir insanın oksijensiz sadece 3 dakika dayanabileceğini anlattı .?</sentence>
+<sentence num="14">Yunan basını :Uçan tabuta öfke ,cevaplanacak önemli sorular var CEP TELEFONUNDAN MESAJ SAHTE ÇIKTI Gazete ,uçağın düşmesinden önce ,uçakta bulunan bir kişinin ,''uçakta donmakta oldukları ve pilotun baygın olduğu ''şeklinde bir cep telefonu mesajı çektiği yönündeki haberlerin doğru olmadığını ,Yunan televizyonlarına çıkarak akrabası olan yolcudan bu yönde mesaj aldığını öne süren kişinin Yunanistan'da tutuklandığını yazdı .</sentence>
+<sentence num="15">Politis gazetesi ,Sotiris Vutas adlı kişinin sırf televizyonlarda görünmek için böyle bir şeyi uydurduğunu itiraf ettiğini bildirdi .</sentence>
+<sentence num="16">İLK OTOPSİ Haravgi gazetesi ,kazada ölenlerin yakınlarının Atina'da dün kazazedeleri teşhis etme çalışmalarına katıldıklarını ,ilk cesetlere yapılan otopside kurbanların uçağın düştüğü sırada canlı olduklarının tespit edildiğini yazdı .</sentence>
+<sentence num="17">Gazete ,Güney Kıbrıs'ta Rum polisinin ,Rum hükümeti ve başsavcısının da onayıyla ,İlios şirketinin bürolarında kazayı aydınlatabilecek belgelerin bulunması amacıyla inceleme başlattığını da bildirdi .</sentence>
+<sentence num="18">Ölen 121 kişiden 45 kişinin cesedinin uzmanlar tarafından ''teşhis edilebilir ''olarak değerlendirilmesinin ardından ,bu 45 cesetten 25'inin kimliklerinin yakınları tarafından teşhis edildiğini kaydeden gazete ,diğer cesetlerin kimliklerinin tespiti için DNA testlerinin yapılacağını belirtti .</sentence>
+<sentence num="19">Gazete ,kimlikleri belirlenen cesetlerin Cuma günü Yunan Hava Kuvvetleri'ne ait C130 tipi bir uçakla Güney Kıbrıs'a getirileceğini bildirdi .</sentence>
+<sentence num="20">Tüm yolcuların boğularak öldükleri şeklindeki teorinin ise dün akşam 6 ceset üzerinde yapılan otopsiyle çürütüldüğünü yazan gazeteye göre ,adli tıp uzmanı Fillipos Kutsafits ,dün akşam açıkladığı otopsi raporunda ,elde edilen ilk bulguların ,kaza sırasında kurbanların kan dolaşımının mevcut olduğu ,yani kalp ve damarlarının çalışmakta olduğunun belirlendiğini yazdı .</sentence>
+<sentence num="21">Rum gazeteleri ,uçağın verilerinin kayıtlı olduğu ilk kara kutunun ardından dün sabah pilotları konuşmalarının kayıtlarını içeren ikinci kara kutunun bulunduğunu ,ancak kara kutunun durumunun ''çok kötü ''olduğu yolunda bilgi alındığını da bildirdiler .</sentence>
+<sentence num="22">Haravgi ,her iki kara kutunun da incelenmek üzere Paris'e gönderildiğini ,sonuçların en az 10 güne kadar belli olacağını yazdı .</sentence>
+<sentence num="23">Gazeteler ,yolcu listesini de yayınladılar .</sentence>
+<sentence num="24">Bu arada ,Politis gazetesi ,KKTC basınında kaza haberinin dün nasıl yer aldığına değinirken ,KKTC Cumhurbaşkanı Mehmet Ali Talat'ın gerek Rum yönetimi lideri Tasos Papadopulos ,gerekse Rum Meclisi Başkanı ve AKEL Genel Sekreteri Dimitris Hristofyas'ı telefonla arayarak başsağlığı dileklerini ilettiğini yazdı .</sentence>
+<sentence num="25">Gazete ,Başbakanı Recep Tayyip Erdoğan'ın ise başsağlığı dilemek için Yunanistan Başbakanı Kostas Karamanlis'i aramayı ''tercih ettiğini ''kaydetti .</sentence>
+<sentence num="26">PAPADOPULOS'TAN 'EKSİKSİZ ARAŞTIRILACAK 'SÖZÜ Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Atina yakınlarında önceki günkü uçak kazasının nedenleriyle ilgili olarak tam bir incelemenin yapılacağı sözünü verdi .</sentence>
+<sentence num="27">Papadopulos ,kazanın kurbanlarını anma töreninden sonra ,hükümetin ,başsağlığı dilemenin ötesine geçerek ,hayatını kaybedenlerin yakınlarının yanında yer alacağını ve ihtiyaç duyabilecekleri her türlü yardımı yapacağını söyledi .</sentence>
+<sentence num="28">Kazada ölenler için duyduğu üzüntüyü ifade eden Papadopulos ,hükümetin ,kazanın nedenlerini ortaya çıkarmak ve bu trajedinin sorumlularını bulmak amacıyla tam bir inceleme yolunda ciddi çaba göstereceğine dair halka garanti verdi .</sentence>
+<sentence num="29">Papadopulos ,hükümetin AB ile temas halinde olduğunu ve olay ,tarafsız biçimde tam olarak araştırılana ve sorumlular belli olana kadar bağımsız ve tarafsız uzmanları çağırmaya tereddüt etmeyeceğini de sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>133737</id>
+<sentence num="0">2005 08 16 13 :00 :00 .Düşen Rum uçağı için KKTC'de bayraklar yarıya indirildi .</sentence>
+<sentence num="1">OSHAN SABIRLI Lefkoşa DHA GÜNEY Kıbrıs'taki Helios Havayolları'na ait yolcu uçağının geçen pazar günü Yunanistan'ın başkenti Atina yakınlarında düşmesi sonucu hayatını kaybeden 121 kişi anısına bugün KKTC'deki bayraklar da yarıya indirildi .</sentence>
+<sentence num="2">KKTC Başbakanlığı ,dün yayınladığı genelge ile bugün mesai saatleri içinde bayrakların yarıya indirilmesini tüm resmi daire ,kurum ve kuruluşlara duyurdu .</sentence>
+<sentence num="3">KKTC'deki 15 1984 sayılı Bayrak Yasası'nın 6'ncı maddesinin verdiği yetkiye atfen ve Dışişleri Bakanlığı'nın önerisine istinaden ,bugün sabah saat 07 .30'dan ,öğleden sonra saat 14 .00'e kadar KKTC'deki tüm resmi daire ,kurum ve kuruluşlarda bayraklar yarıya indirildi .</sentence>
+<sentence num="4">Bu arada eski KKTC Cumhurbaşkanı Rauf Denktaş'ın ,bu kapsama girmeyen çalışma ofisindeki bayrakların yarıya inmediği gözlendi .</sentence>
+</doc>
+<doc>
+<id>133746</id>
+<sentence num="0">2005 08 16 13 :10 :00 .KKTC'de Rumlar için bir günlük yas KKTC ,uçakta ölen 121 kişi için Rum tarafının acısını paylaşıyor .</sentence>
+<sentence num="1">KKTC'de resmi yas nedeniyle ,resmi ve özel kurumlarda bayraklar yarıya indirildi KKTC ,Atina yakınlarında düşen ve 121 kişinin hayatını kaybettiği Rum uçağı sebebiyle bir günlük yas ilan etti ,tüm kamu kuruluşlarında KKTC ve Türkiye bayrakları yarıya indirildi .</sentence>
+<sentence num="2">Resmi yas ,Lefke'nin 41'inci kurtuluş yıldönümüne denk geldi .</sentence>
+<sentence num="3">Kutlama etkinlikleri iptal edilmedi .</sentence>
+<sentence num="4">Yani KKTC hem yas hem de bayramı bir arada yaşıyor .</sentence>
+<sentence num="5">Barış ve Demokrasi Hareketi lideri Mustafa Akıncı ,kutlamaların komşuda yas varken ,bayram yapamayız gerekçesiyle iptal edilmesini istedi .</sentence>
+<sentence num="6">Ancak kutlamalar iptal edilmedi .</sentence>
+<sentence num="7">Yas ise ,aslında sadece kamu kuruluşları için geçerliydi .</sentence>
+<sentence num="8">Ancak bazı özel kuruluşlar da bayrakları yarıya indirmişti .</sentence>
+<sentence num="9">Gözler eski Cumhurbaşkanı Rauf Denktaş'ın özel konutundaydı .</sentence>
+<sentence num="10">Ancak konut önündeki bayraklar yarıya indirilmemişti .</sentence>
+<sentence num="11">Başbakanlık ,Bayındırlık ve İskan Bakanlığı ,Sayıştay binası ,Gençlik ve Spor Bakanlığı'nın yanısıra Kıbrıs Türk Havayolları binası ve KKTC Elektrik Kurumu da KKTC ve Türkiye bayraklarını yarıya indirdi .</sentence>
+<sentence num="12">Rum tarafında üç günlük yas Kaza nedeniyle Kıbrıs Rum kesiminde üç günlük yas ilan edildi .</sentence>
+<sentence num="13">Kazada hayatını kaybedenlerin anısına ilan edilen yas çerçevesinde hükümet binalarındaki bayraklar yarıya indirildi .</sentence>
+<sentence num="14">Yunanistan İçişleri Bakanı Pavlopulos da hayatını kaybedenlerin anısına ülkede genel yas ilan etti .</sentence>
+<sentence num="15">Bugün hükümet binalarındaki bayraklar yarıya indirildi .</sentence>
+<sentence num="16">Uçak nasıl düştü ?</sentence>
+<sentence num="17">Kıbrıs Rum kesimindeki Larnaka'dan 14 ağustosta saat 09 .00'da kalkan ve Yunanistan üzerinden Çek Cumhuriyeti'ndeki Prag'a giden ve saat 12 .05'te düştüğü belirlenen Rum yolcu uçağının enkazı ,aynı gün Atina'nın kuzeyindeki Gramatikos dağlık bölgesinde bulundu .</sentence>
+<sentence num="18">Helios Havayolları'na ait uçak geçtiğimiz pazar günü saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="19">Rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine Atina kontrol kulesi pilotlarla temasa geçmeye çalıştı ,ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="20">Atina bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="21">Buradaki görevliler Atina kontrol kulesine ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="22">Uçak düşmeden önce iki Yunan F 16 uçağının takibindeydi .</sentence>
+<sentence num="23">Askeri pilotlar ,yolcu uçağına yaklaştıklarında kaptanın yerinde olmadığını ,yardımcısının da baygın olduğunu gördüklerini söyledi .</sentence>
+<sentence num="24">İki saat sonra uçağın düştüğü duyuruldu .</sentence>
+</doc>
+<doc>
+<id>133759</id>
+<sentence num="0">2005 08 16 13 :28 :00 .Uçağın pilotunun uçuş izni kaldırılmış .</sentence>
+<sentence num="1">Rum Mahi gazetesi ,kaza yapan uçağın 50 yaşındaki Alman pilotu Marten Hans Jurgen'in pilot olma özelliklerini taşımadığını yazdı .</sentence>
+<sentence num="2">Gazete ,Alman pilotun ,görevini hatalı yapmaktan ötürü Almanya içerisinde uçuş izninin kaldırıldığı ve pilotun en sonunda İlios şirketinde işe başladığına dair bilgi edindiğini belirtti .</sentence>
+<sentence num="3">Haravgi gazetesi de ,uçakla temasın kopmasının ardından uçağın yerini tespit etmek için havalanan iki adet F 16 Yunan savaş uçağının ,pilot kabininde bir kişiyi ,uçağın kontrolünü ele almaya çabalarken gözlemlediğini ve bu kişinin uçağın kamarotu Andreas Prodromu olduğuna inanıldığını yazdı .</sentence>
+<sentence num="4">Uçağa yanaşan ve görüntü kaydı yapan F 16 uçaklarının ,yolcuların baygın ya da ölü olduklarını ,oksijen maskelerinin açık olduğunu ,pilotun kokpitte bulunmadığını ve yardımcı pilotun ise uçak dümeni üzerine ''düşmüş ''vaziyette bulunduğunu tespit ettiklerini kaydeden gazete ,bu sırada koridorda bir hareketin gözlemlendiğini belirtti .</sentence>
+<sentence num="5">Haberde ,F 16 pilotunun ,uçağın kokpitine birinin yöneldiğini ve pilotun yerine oturarak uçağın kontrolünü almaya çalıştığını tespit ederken ,pilotun yerine oturan şahısla temasla geçilmeye çalışılmasının da sonuçsuz kaldığını ve birkaç dakika sonra uçağın otomatik pilotta sürekli sağa dönüş hareketinden vazgeçerek sola yöneldiğini belirtti .</sentence>
+<sentence num="6">Gazete ,bu noktadan sonra uçağın otomatik pilottan çıktığını ,ilk önce hafif bir yükseliş göstererek daha sonra ''normal ''denebilecek bir şekilde alçalmaya başladığını yazdı .</sentence>
+<sentence num="7">Politis gazetesi de ,Boeing uçağının düşme nedenlerine ilişkin görüşlere ve İlios şirketi çalışanlarının şikayetlerine yer verdi .</sentence>
+<sentence num="8">Gazete ,uçağın birçok arızasının olduğu ,ani hava sıcaklığı artış ve düşüşlerinin yaşandığı ,kapısında buzlanma meydana geldiği ve pilot kabininde yanık kokusunun duyulduğu ,bunların şirket tarafından ciddiye alınmadığı yönünde iki hostesin yakınmalarına yer verdi .</sentence>
+</doc>
+<doc>
+<id>133914</id>
+<sentence num="0">2005 08 16 16 :50 :00 .Uzmanlar şaşkın :Klima arızasından uçak düşmez .</sentence>
+<sentence num="1">Türkiye Havayolu Pilotları Derneği (TALPA )Başkanı Kaptan Pilot Tuna Gürel ,Rum yolcu uçağının Yunanistan'ın başkenti Atina yakınlarında düşmesi olayında birçok belirsizlik bulunduğunu belirterek ,Böyle bir kazanın havacılık tarihinde bir örneği yok dedi .</sentence>
+<sentence num="2">Gürel ,A .</sentence>
+<sentence num="3">A muhabirine yaptığı açıklamada ,düşen Rum uçağının irtifası ve rotası ile ilgili gerekli bilgilere ulaşamadıklarını kaydederek ,kazada bilinmeyen birçok nokta olması nedeniyle herhangi bir yorumda bulunmanın zor olduğunu söyledi .</sentence>
+<sentence num="4">Uçağın kabin basıncında bir azalma meydana gelmesi durumunda devreye girmesi gereken birçok sistem bulunduğunu ve pilotların bunu hissetmemelerinin mümkün olmadığını vurgulayan Gürel ,sözlerini şöyle sürdürdü :Böyle bir durumda pilotlar alçalarak oksijen maskelerinin açılmasını sağlar .</sentence>
+<sentence num="5">Bu olay 14 bin feette gerçekleşir .</sentence>
+<sentence num="6">Oksijen maskeleri açılmazsa kan yeterli oksijen alamaz ve beyin beslenemez .</sentence>
+<sentence num="7">Şuur kaybı meydana gelir .</sentence>
+<sentence num="8">Ama bildiğimiz kadarıyla oksijen maskeleri açılmış .</sentence>
+<sentence num="9">Bu durumda da oksijen maskelerinin beslendiği tankın boş olup olmadığı sorusu akla geliyor .</sentence>
+<sentence num="10">Uçakta bulunanlar oksijen maskesini taktıklarında oksijen aldıklarını zannederek bu durumu fark edememiş olabilirler .</sentence>
+<sentence num="11">Ancak şunu rahatlıkla söyleyebiliriz ,klima arızasından dolayı uçak düşmez .</sentence>
+<sentence num="12">Kaptan Pilot Tuna Gürel ,Rum uçağının saat 10 .45'te Atina ile temas kuramaması üzerine F 16 uçaklarının 11 .30'da uçağa ulaştıklarını ve kokpitte kaptanın bulunmadığını bildirdiklerini kaydederek ,bu durumun da şaşırtıcı olduğunu belirtti .</sentence>
+<sentence num="13">Böyle bir kazanın havacılık tarihinde örneği yok diyen TALPA Başkanı Gürel ,uçağın kara kutularının çözümlenmesinden sonra kazanın aydınlanacağını sözlerine ekledi .</sentence>
+</doc>
+<doc>
+<id>133975</id>
+<sentence num="0">2005 08 16 18 :54 :00 .Düşen Rum uçağının ikinci kara kutusu parçalanmış olarak bulundu .</sentence>
+<sentence num="1">Düşen Rum uçağının ikinci kara kutusu parçalanmış olarak bulundu Yunanistan'da ,6 mürettebat ve 115 yolcusuyla pazar günü düşen Rum uçağının kara kutularından ikincisinin de bulunduğu ,ancak parçalanmış halde olduğu bildirildi .</sentence>
+<sentence num="2">Yunan devlet televizyonu NET ,uçağın ,tüm teknik ayrıntıların olduğu kara kutusunun sağlam halde bulunmasına rağmen ,kaptan pilotla ikinci pilot arasındaki diyalogun yer aldığı ikinci kara kutunun sadece dış haznesinin bulunduğunu ,kayıtların olduğu iç kısmının aranması çalışmalarınınsa sürdüğünü duyurdu .</sentence>
+</doc>
+<doc>
+<id>133978</id>
+<sentence num="0">2005 08 16 19 :00 :00 .Yunanistan'da düşen Rum uçağının kara kutularından ikincisi bulundu ...</sentence>
+<sentence num="1">Yunanistan'da ,6 mürettebat ve 115 yolcusuyla pazar günü düşen Rum uçağının kara kutularından ikincisinin de bulunduğu ,ancak parçalanmış halde olduğu bildirildi .</sentence>
+<sentence num="2">Yunan devlet televizyonu NET ,uçağın ,tüm teknik ayrıntıların olduğu kara kutusunun sağlam halde bulunmasına rağmen ,kaptan pilotla ikinci pilot arasındaki diyalogun yer aldığı ikinci kara kutunun sadece dış haznesinin bulunduğunu ,kayıtların olduğu iç kısmının aranması çalışmalarınınsa sürdüğünü duyurdu .</sentence>
+<sentence num="3">NET ,ikinci kara kutunun kayıtların olduğu bölümünün bulunsa bile parçalanmış halde olması olasılığının bulunduğunu ,bunun da kazanın nedenlerine ışık tutulması çalışmalarını olumsuz etkileyebileceğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>133987</id>
+<sentence num="0">2005 08 16 19 :29 :00 .Rum Uçağının Düşüş Nedeni Belirsiz .</sentence>
+<sentence num="1">Atina yakınında düşen Kıbrıs Rum Kesimine ait yolcu uçağına ilişkin sır perdesi henüz aralanmadı .</sentence>
+<sentence num="2">Uçak kontrolden çıktığında ,pilotlar dahil tüm yolcuların hayatta olduğu anlaşıldı .</sentence>
+<sentence num="3">Pilotun ceseti ise hala bulunamadı .</sentence>
+<sentence num="4">Atina'daki adli tıp yetkilileri ,26 kurban üzerindeki otopsilerin ,bu kişilerin uçak düşerken hayatta olduklarını gösterdiğini ,ancak bu sırada bilinçlerini yitirmiş olabileceklerini açıkladı .</sentence>
+<sentence num="5">Daha önce ani basınç düşmesi yüzünden yolcuların havadayken ölmüş olabilecekleri söylenmişti .</sentence>
+<sentence num="6">Uçağın kara kutularından birinin sadece dış kısmının bulunduğu ve diğeri ile birlikte incelenmek üzere Fransa'ya gönderileceği de öğrenildi .</sentence>
+<sentence num="7">Telefon Mesajı Asılsız Çıktı Bu arada uçaktan cep telefonu ile Donuyoruz .</sentence>
+<sentence num="8">Pilot mosmor oldu .</sentence>
+<sentence num="9">Elvada kuzenim şeklinde mesaj gönderildiği yolundaki haber asılsız çıktı .</sentence>
+<sentence num="10">Yunan polisi ,mesajı aldığını söyleyen kişiyi ,yanlış bilgi vermekle suçlayarak gözaltına alırken ,Rum polisi de bir ipucu bulma umuduyla İlios havayolunun ofislerine baskın yaptı .</sentence>
+<sentence num="11">Baskın sırasında bazı belgelere el kondu .</sentence>
+<sentence num="12">Yunan makamları ,olayda kaçırma ya da terörizm ihtimali olmadığında ısrarlı ...</sentence>
+<sentence num="13">Yunan medyasındaki bazı haberlere göre ise uçak ,yakıtı bittiği için düştü .</sentence>
+<sentence num="14">Uçağın yaklaşık 3 saat boyunca otomatik pilotta uçmasının yakıtı tüketmiş olabileceği belirtiliyor .</sentence>
+<sentence num="15">Pilotun Uçuş İzni Kaldırılmış Bir diğer bilgi ise Rum uçağının Alman pilotunun ,görev hataları yüzünden Almanya'da uçuş iznininin kaldırılmış olması .</sentence>
+<sentence num="16">Rum Mahi gazetesi ,ülkesinde işsiz kalan 50 yaşındaki pilotun gerekli özellikleri taşımadığını ,buna rağmen İlios şirketinde işe başladığını yazdı .</sentence>
+<sentence num="17">Alman pilotun ceseti hala bulunamadı .</sentence>
+<sentence num="18">Haravgi gazetesi de ,düşen uçağı bir süre izleyen iki F 16 pilotunun ,pilot kabininde bir kişiyi ,uçağın kontrolünü ele almaya çalışırken gördüklerini haber verdi .</sentence>
+</doc>
+<doc>
+<id>134006</id>
+<sentence num="0">2005 08 16 20 :43 :00 .Rum uçağının ikinci kara kutusu hasarlı Rum polisi soruşturmayı sonuna kadar sürdürmekte ısrarlı .</sentence>
+<sentence num="1">Kaptan pilotla ikinci pilot arasındaki diyalogun yer aldığı ikinci kara kutu parçalanmış Yunanistan'da ,altı mürettebat ve 115 yolcusuyla geçtiğimiz pazar günü düşen Rum uçağının kara kutularından ikincisinin de bulunduğu ,ancak parçalanmış olduğu açıklandı .</sentence>
+<sentence num="2">Yunan devlet televizyonu NET ,uçağın ,tüm teknik ayrıntıların olduğu kara kutusunun sağlam halde bulunmasına rağmen ,kaptan pilotla ikinci pilot arasındaki diyalogun yer aldığı ikinci kara kutunun sadece dış haznesinin bulunduğunu ,kayıtların olduğu iç kısmının aranması çalışmalarınınsa sürdüğünü duyurdu .</sentence>
+<sentence num="3">NET ,ikinci kara kutunun kayıtların olduğu bölümünün bulunsa bile parçalanmış halde olması olasılığının bulunduğunu ,bunun da kazanın nedenlerine ışık tutulması çalışmalarını olumsuz etkileyebileceğini belirtti .</sentence>
+<sentence num="4">Rum polisi soruşturmayı sürdürüyor Kıbrıs Rum kesimi polisi ise ,uçak kazasıyla ilgili incelemeyi sonuna kadar sürdürmekte ısrarlı olduğunu açıkladı .</sentence>
+<sentence num="5">Kıbrıs Rum kesimi polis şefi Tasos Panayiotu ,kazanın kurbanlarını anma töreninin ardından yaptığı açıklamada ,polis yetkililerinin kazayla ilgili tüm verileri toplama ve değerlendirme çalışmalarını sürdürdüğünü belirtti .</sentence>
+<sentence num="6">Basında yer alan iddialarla ilgili yorum yapmaktan kaçınan Panayiotu ,halka ,olayla ilgili herhangi bir bilgisi olanlar varsa ,bunu kendileriyle paylaşmaları çağrısında bulundu .</sentence>
+<sentence num="7">Panayiotu ,dün Helios şirketinin bürolarında arama yapan polis yetkililerinin ,ele geçirilen belgeleri incelemekte olduğunu sözlerine ekledi .'</sentence>
+<sentence num="8">25 kişi kaza anında hayattaydı 'Bir Rum soruşturma görevlisi ,kazada ölenler arasından 25 kişi üzerinde yapılan otopsinin ,bu kişilerin ,belki bilinçleri yerinde olmasa da ,kaza anında canlı olduklarını gösterdiğini söyledi .</sentence>
+<sentence num="9">Kazayla ilgili soruşturmayı yapan yetkililerden Nikos Karakukis ,gazetecilere yaptığı açıklamada ,söz konusu 25 kişinin ,cesetleri teşhis edilebilen 45 kişi arasında olduğunu kaydetti .</sentence>
+<sentence num="10">Karakukis ,yapılacak testlerle ,bu kişilerin zehirli duman soluyup solumadıklarının ortaya çıkacağını belirtti .''</sentence>
+<sentence num="11">Söz konusu 25 kişi çarpma anında canlıydı ''diyen Karakukis ,birinsanın oksijensiz sadece üç dakika dayanabileceğini anlattı .</sentence>
+<sentence num="12">Uçak nasıl düştü ?</sentence>
+<sentence num="13">Kıbrıs Rum kesimindeki Larnaka'dan 14 ağustosta saat 09 .00'da kalkan ve Yunanistan üzerinden Çek Cumhuriyeti'nin başkenti Prag'a giden Helios havayollarına ait 737 boing tipi Rum uçağı Atina'nın kuzeyindeki Gramatikos dağlık bölgesinde düştü .</sentence>
+<sentence num="14">6'sı mürettebat 115'i yolcu toplam 121 kişiyi taşıyan ve rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine Atina kontrol kulesi pilotlarla temasa geçmeye çalıştı .</sentence>
+<sentence num="15">Ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="16">Atina bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="17">Buradaki görevliler Atina kontrol kulesine ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="18">Uçakla bağlantının kopması üzerine terör saldırısından şüphelenen Yunanistan ,uçağı bulmak için iki F 16 savaş uçağını havalandırdı .</sentence>
+<sentence num="19">Askeri pilotlar ,yolcu uçağına yaklaştıklarında kaptanın yerinde olmadığını ,yardımcısının da baygın olduğunu gördüklerini söyledi .</sentence>
+<sentence num="20">İki saat sonra ise uçağın düştüğü resmen açıklandı .</sentence>
+</doc>
+<doc>
+<id>134239</id>
+<sentence num="0">2005 08 17 11 :07 :00 .Kıbrıs Rum Kesimi lideri Papadopulos Atina'ya gidecek .</sentence>
+<sentence num="1">Kıbrıs Rum Kesimi lideri Papadopulos Atina'ya gidecek Rum kesimi lideri Tasos Papadopulos'un bugün Atina'ya gitmesinin beklendiği bildirildi .</sentence>
+<sentence num="2">Yunan basın yayın organları ,Papadopulos'un ,cumartesi günü Atina'nın kuzeyinde düşen Rum uçağı hakkında bilgi alışverişinde bulunmak üzere ,Yunanistan İçişleri Bakanı Prokopis Pavlopulos ve Ulaştırma Bakanı Mihalis Liapis ile görüşeceğini duyurdular .</sentence>
+</doc>
+<doc>
+<id>134289</id>
+<sentence num="0">2005 08 17 12 :05 :00 .Karamanlis uçağı düşürme emrini vermeye hazırlanmış .</sentence>
+<sentence num="1">Karamanlis uçağı düşürme emrini vermeye hazırlanmış Yunanistan Başbakanı Kostas Karamanlis'in ,3 gün önce Atina yakınlarında düşen Rum uçağının ,kendiliğinden düşmemesi halinde ,düşürülmesi yönünde emir vermeye hazırlandığı öne sürüldü .</sentence>
+<sentence num="2">Kıbrıs Rum kesiminde yayımlanan Haravgi gazetesi ,''5 Dakika Daha ve Düşüreceğiz ''başlığıyla verdiği haberde ,Karamanlis'in ,İlios şirketine ait uçağın kontrolsüz uçtuğunu öğrenmesinden sonra ,''hayatının en zor anlarını yaşadığını ''yazdı .</sentence>
+<sentence num="3">Politis gazetesi de ,Rum polisinin İlios havayollarının bürolarında başlattığı araştırmanın dün sabah erken saatlerde tamamlandığını ,kaza geçiren uçak hakkında ,mürettebatın şirkete birçok kez yazılı şikayette bulunduğunun belirlendiğini bildirdi .</sentence>
+<sentence num="4">Rum gazeteleri ,uçakla telsiz temasının kaybolmasının ardından havalanan iki Yunan F 16 uçağı pilotlarının ,uçağın içerisinde neler gördüklerine dair çeşitli haberlere de yer verdiler .</sentence>
+<sentence num="5">Fileleftheros ,F 16 pilotlarının pilot kabininde pilot yardımcısının dışında 3'ncü ya da 4'ncü bir kişi gördüklerine ilişkin ''gizemin ''devam etmekte olduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>134292</id>
+<sentence num="0">2005 08 17 12 :10 :00 .Karamanlis'in en zor anları :5 dakika daha ve düşüreceğiz !..</sentence>
+<sentence num="1">Yunanistan Başbakanı Kostas Karamanlis'in ,3 gün önce Atina yakınlarında düşen Rum uçağının ,kendiliğinden düşmemesi halinde ,düşürülmesi yönünde emir vermeye hazırlandığı öne sürüldü .</sentence>
+<sentence num="2">Kıbrıs Rum kesiminde yayımlanan Haravgi gazetesi ,''5 Dakika Daha ve Düşüreceğiz ''başlığıyla verdiği haberde ,Karamanlis'in ,İlios şirketine ait uçağın kontrolsüz uçtuğunu öğrenmesinden sonra ,''hayatının en zor anlarını yaşadığını ''yazdı .</sentence>
+<sentence num="3">Gazete ,Yunan hükümetinin ,yolcu uçağının F 16 savaş uçakları tarafından düşürüldüğüne yönelik her türlü iddiayı kesin bir dille yalanladığını belirtirken ,Yunan hükümet kaynaklarının ,Karamanlis'in ''5 dakikaya kadar uçağı düşürme emri vermeye hazırlandığını ,ancak uçağın kendiliğinden düştüğünü ''ifade ettiklerini yazdı .?</sentence>
+<sentence num="4">Papadopulos da düşen uçakla seyahat etmiş MÜRETTEBAT BİRÇOK KEZ ŞİKAYETTE BULUNMUŞ Politis gazetesi de ,Rum polisinin İlios havayollarının bürolarında başlattığı araştırmanın dün sabah erken saatlerde tamamlandığını ,kaza geçiren uçak hakkında ,mürettebatın şirkete birçok kez yazılı şikayette bulunduğunun belirlendiğini bildirdi .</sentence>
+<sentence num="5">Söz konusu şirketin bürosunda çok sayıda belge bulunduğunu ve bunların incelenmelerinin de zaman alacağını belirten gazete ,henüz kimsenin tutuklanması için yeterli kanıtın bulunmadığını kaydetti .</sentence>
+<sentence num="6">F 16 PİLOTLARI NE GÖRDÜ ?</sentence>
+<sentence num="7">Rum gazeteleri ,uçakla telsiz temasının kaybolmasının ardından havalanan iki Yunan F 16 uçağı pilotlarının ,uçağın içerisinde neler gördüklerine dair çeşitli haberlere de yer verdiler .</sentence>
+<sentence num="8">Fileleftheros ,F 16 pilotlarının pilot kabininde pilot yardımcısının dışında 3'ncü ya da 4'ncü bir kişi gördüklerine ilişkin ''gizemin ''devam etmekte olduğunu belirtti Gazete ,Yunan ''Ethnos ''gazetesine dayanarak ,uçağı bir hostesin kontrol etmeye çalıştığını ve bu hostesin cesedinin de kokpitte bulunduğunu ,diğer bazı bilgilere göre ise F 16 pilotlarının pilot kabininde uçağı kullanmaya çalışan bir kişinin yanı sıra bu kişinin beraberinde 1 2 kişinin daha bulunduğunu gördüklerini kaydetti .</sentence>
+<sentence num="9">İLK CESETLER GETİRİLDİ Gazeteler ,kazazedelerden yakınları tarafından teşhis edilebilen 23 kişinin cesedinin dün akşam Yunan Hava Kuvvetleri'ne ait C 130 tipi uçakla Güney Kıbrıs'a getirildiklerini belirttiler .</sentence>
+<sentence num="10">Rum gazeteleri ,cesetlerin ,''Lefkoşa Hastanesi ''yakınlarındaki özel bir yere konduklarını ve yakınlarını gömmek isteyen kişilere bu sabahtan itibaren cesetlerin teslim edileceğini aktardılar .</sentence>
+<sentence num="11">Kazada hayatını kaybeden 121 yolcu ve mürettebat üyesinden toplam 26 kişinin cesetlerinin yakınları tarafından teşhis edildiklerini ,bunlardan 23'ünün Rum ,2'sinin Yunanlı ve uçakta hostes olan bir kişinin de Rum ve Amerikan çift vatandaşı olduklarını belirten gazeteler ,bu cesetler üzerinde otopsi yapıldığını ve cesetler arasında yolcu uçağının Rum yardımcı pilotu ve bir hostesin cesedinin de bulunduğunu yazdı .</sentence>
+<sentence num="12">Gazeteler ,hosteslerden birinin cesedinin pilot kabininde yardımcı pilotun çok yakınında bulunduğunu ,diğer hostesin cesedinin ise yeterince uzak bir mesafede tespit edildiğini kaydettiler .</sentence>
+<sentence num="13">Rum gazeteleri ,6 adli tıp uzmanının yaptıkları otopsiler sonucunda ,pilot yardımcısı ve hosteslerin de aralarında bulunduğu tüm kurbanların kaza sırasında hayatta oldukları sonucuna vardıklarını kaydetti .</sentence>
+<sentence num="14">Fileleftheros ,kazada ölenlerin ilk cenazelerinin bugün kaldırılmaya başlanacağını yazdı .?</sentence>
+<sentence num="15">Kuşların çarptığı uçak arızalandı ve geri döndü !..?</sentence>
+<sentence num="16">Eş zamanlı 100 bombalı saldırı !..</sentence>
+</doc>
+<doc>
+<id>134335</id>
+<sentence num="0">2005 08 17 13 :05 :00 .Karamanlis'in en zor kararı .</sentence>
+<sentence num="1">Kıbrıs Rum kesiminde yayımlanan Haravgi gazetesi ,''5 Dakika Daha ve Düşüreceğiz ''başlığıyla verdiği haberde ,Karamanlis'in ,İlios şirketine ait uçağın kontrolsüz uçtuğunu öğrenmesinden sonra ,''hayatının en zor anlarını yaşadığını ''yazdı .</sentence>
+<sentence num="2">Gazete ,Yunan hükümetinin ,yolcu uçağının F 16 savaş uçakları tarafından düşürüldüğüne yönelik her türlü iddiayı kesin bir dille yalanladığını belirtirken ,Yunan hükümet kaynaklarının ,Karamanlis'in ''5 dakikaya kadar uçağı düşürme emri vermeye hazırlandığını ,ancak uçağın kendiliğinden düştüğünü ''ifade ettiklerini yazdı .</sentence>
+<sentence num="3">MÜRETTEBAT BİRÇOK KEZ ŞİKAYETTE BULUNMUŞ Politis gazetesi de ,Rum polisinin İlios havayollarının bürolarında başlattığı araştırmanın dün sabah erken saatlerde tamamlandığını ,kaza geçiren uçak hakkında ,mürettebatın şirkete birçok kez yazılı şikayette bulunduğunun belirlendiğini bildirdi .</sentence>
+<sentence num="4">Söz konusu şirketin bürosunda çok sayıda belge bulunduğunu ve bunların incelenmelerinin de zaman alacağını belirten gazete ,henüz kimsenin tutuklanması için yeterli kanıtın bulunmadığını kaydetti .</sentence>
+<sentence num="5">F 16 PİLOTLARI NE GÖRDÜ ?</sentence>
+<sentence num="6">Rum gazeteleri ,uçakla telsiz temasının kaybolmasının ardından havalanan iki Yunan F 16 uçağı pilotlarının ,uçağın içerisinde neler gördüklerine dair çeşitli haberlere de yer verdiler .</sentence>
+<sentence num="7">Fileleftheros ,F 16 pilotlarının pilot kabininde pilot yardımcısının dışında 3'ncü ya da 4'ncü bir kişi gördüklerine ilişkin ''gizemin ''devam etmekte olduğunu belirtti Gazete ,Yunan ''Ethnos ''gazetesine dayanarak ,uçağı bir hostesin kontrol etmeye çalıştığını ve bu hostesin cesedinin de kokpitte bulunduğunu ,diğer bazı bilgilere göre ise F 16 pilotlarının pilot kabininde uçağı kullanmaya çalışan bir kişinin yanı sıra bu kişinin beraberinde 1 2 kişinin daha bulunduğunu gördüklerini kaydetti .</sentence>
+<sentence num="8">İLK CESETLER GETİRİLDİ Gazeteler ,kazazedelerden yakınları tarafından teşhis edilebilen 23 kişinin cesedinin dün akşam Yunan Hava Kuvvetleri'ne ait C 130 tipi uçakla Güney Kıbrıs'a getirildiklerini belirttiler .</sentence>
+<sentence num="9">Rum gazeteleri ,cesetlerin ,''Lefkoşa Hastanesi ''yakınlarındaki özel bir yere konduklarını ve yakınlarını gömmek isteyen kişilere bu sabahtan itibaren cesetlerin teslim edileceğini aktardılar .</sentence>
+<sentence num="10">Kazada hayatını kaybeden 121 yolcu ve mürettebat üyesinden toplam 26 kişinin cesetlerinin yakınları tarafından teşhis edildiklerini ,bunlardan 23'ünün Rum ,2'sinin Yunanlı ve uçakta hostes olan bir kişinin de Rum ve Amerikan çift vatandaşı olduklarını belirten gazeteler ,bu cesetler üzerinde otopsi yapıldığını ve cesetler arasında yolcu uçağının Rum yardımcı pilotu ve bir hostesin cesedinin de bulunduğunu yazdı .</sentence>
+<sentence num="11">Gazeteler ,hosteslerden birinin cesedinin pilot kabininde yardımcı pilotun çok yakınında bulunduğunu ,diğer hostesin cesedinin ise yeterince uzak bir mesafede tespit edildiğini kaydettiler .</sentence>
+<sentence num="12">Rum gazeteleri ,6 adli tıp uzmanının yaptıkları otopsiler sonucunda ,pilot yardımcısı ve hosteslerin de aralarında bulunduğu tüm kurbanların kaza sırasında hayatta oldukları sonucuna vardıklarını kaydetti .</sentence>
+<sentence num="13">Fileleftheros ,kazada ölenlerin ilk cenazelerinin bugün kaldırılmaya başlanacağını yazdı .</sentence>
+</doc>
+<doc>
+<id>134341</id>
+<sentence num="0">2005 08 17 13 :06 :00 .AB Komisyonu ,Yunanistan'daki uçak kazasını mercek altına aldı .</sentence>
+<sentence num="1">AB Komisyonu ,Yunanistan'daki uçak kazasını mercek altına aldı AB Komisyonu'nun ,hafta sonunda Atina yakınlarında meydana gelen uçak kazasını tüm yönleriyle incelemeye aldığı bildirildi .</sentence>
+<sentence num="2">Kıbrıs Rum kesiminde yayımlanan Politis gazetesi ,konuyla ilgili haberinde ,AB'nin ,İlios'a ait uçağın bakımına ilişkin bütün detayları ''didik didik ''incelemekte olduğunu ,AB yetkililerinin Rum Ulaştırma Bakanlığı ve Sivil Havacılık Dairesi ile temasa geçtiklerini bildirdi .</sentence>
+</doc>
+<doc>
+<id>134343</id>
+<sentence num="0">2005 08 17 13 :09 :00 .Sır Kazada Sorular Yanıtsız .</sentence>
+<sentence num="1">Atina yakınlarında Rum İlios Havayolları'na ait yolcu uçağının neden düştüğü sorusu yanıt bulamıyor .</sentence>
+<sentence num="2">Uçak kontrolden çıktığında ,pilotlar dahil tüm kurbanların hayatta olduğunun anlaşılmasının ardından ,5 6 yaşlarında bir çocuğun uçak düştükten bir süre sonra hayatını kaybettiği bildirildi .</sentence>
+<sentence num="3">Atina'daki adli tıp yetkilileri ,yardımcı pilot dahil olmak üzere 26 kurban üzerinde otopsi yaptı .</sentence>
+<sentence num="4">Otopsiler sonucu ,bu kişilerin uçak düşerken hayatta oldukları ortaya çıktı .</sentence>
+<sentence num="5">Hatta Yunan televizyon kanallarının haberine göre ,otopsi yapılanlar arasında bulunan 5 6 yaşlarında bir çocuk uçak düştükten sonra da hayattaydı .</sentence>
+<sentence num="6">Ancak başından ağır yaralanan çocuk ,uçağın düşmesi sonucu çıkan yangında duman zehirlenmesinden öldü .</sentence>
+<sentence num="7">Otopsileri tamamlanan ve kimlikleri tespit edilen cesetler ailelerine teslim edildi .</sentence>
+<sentence num="8">92 kişinin ise ,kimlik tespit çalışmaları sürüyor .</sentence>
+<sentence num="9">Uçağın neden düştüğü konusundaki araştırma da devam ediyor .</sentence>
+<sentence num="10">Yunan makamları ,kaçırma ya da terörizm ihtimali olmadığında ısrarlı ..</sentence>
+<sentence num="11">Yunan medyasındaki bazı haberlere göre ise uçak ,yakıtı bittiği için düştü .</sentence>
+</doc>
+<doc>
+<id>134379</id>
+<sentence num="0">2005 08 17 13 :52 :00 .'Bir çocuk yaşıyordu '.</sentence>
+<sentence num="1">Uçağın ikinci kara kutusunun parçalandığı ortaya çıktı Yunanistan'ın başkenti Atina yakınlarında geçtiğimiz pazar günü düşen Rum uçağı yolcularından bir çocuğun uçak düştükten sonra bile hayatta olduğu ortaya çıktı .</sentence>
+<sentence num="2">Adli tıp uzmanları ,5 6 yaşlarındaki çocuğun kazada ağır yaralandığını ve çıkan yangında öldüğünü açıkladı .</sentence>
+<sentence num="3">Atina yakınlarında 20'si çocuk 121 kişinin öldüğü uçak kazasıyla ilgili soruşturma devam ediyor .</sentence>
+<sentence num="4">İlk tahminler ,tüm yolcuların kabin basıncının düşmesi ya da oksijen yetersizliği sebebiyle havada donarak öldüğü yönündeydi .</sentence>
+<sentence num="5">Ancak 26 cesede yapılan otopsiler ,bu kişilerin uçak düşene kadar hayatta olduklarını gösterdi .</sentence>
+<sentence num="6">Kazada ölenlerin bilinçlerinin yerinde olup olmadığı belirlenemedi .</sentence>
+<sentence num="7">Bölgede yapılan incelemeler sonucu bulunan en önemli ipuçlarından pilot ve yardımcısının konuşmalarının yeraldığı kara kutunun ise parçalandığı ortaya çıktı .'</sentence>
+<sentence num="8">Uçaktaki sorunu yetkililer reddetti 'Kazaya ilişkin esrar sürüyor .</sentence>
+<sentence num="9">Helios havayollarının eski teknik müdürlerinden Kyriakos Pilavakis'in ,düşen uçakla ilgili anlattıkları ise gözleri havayolları şirketine çevirdi .</sentence>
+<sentence num="10">Yunan televizyonuna konuşan Piliavakis ,Rum uçağının geçtiğimiz yıl yapılan bir uçuş sırasında da ani basınç kaybı yaşandığını söyledi .</sentence>
+<sentence num="11">Pilavakis ,geçtiğimiz yılın aralık ayında Polonya'nın başkenti Varşova'dan Larnaka'ya gitmek üzere yola çıkan uçağın ,havadayken arka sağ kapısının birden açıldığı ve uçağın içine hava dolduğunu söyledi .</sentence>
+<sentence num="12">Teknik müdür Pilavakis ,uçağın kapısı tam olarak kapanmadığı için aniden açılmış olduğunu kaydetti .</sentence>
+<sentence num="13">Pilavakis ,durumu bildirdiği halde yetkililerin düşen Rum uçağının uçmaya elverişli olduğu konusunda ısrar ettiklerini de vurguladı .'</sentence>
+<sentence num="14">Karamanlis uçağı düşürecekti 'Kıbrıs Rum kesiminde yayımlanan Haravgi gazetesi ise bugünkü sayısında Yunanistan Başbakanı Kostas Karamanlis'in ,Rum uçağının kendiliğinden düşmemesi halinde ,'düşürülmesi yönünde emir vermeye hazırlandığı'nı öne sürdü .</sentence>
+<sentence num="15">Haravgi gazetesinde ''beş dakika daha ve düşüreceğiz ''başlığıyla çıkan haberde ,Karamanlis'in Helios şirketine ait uçağın kontrolsüz uçtuğunu öğrenmesinden sonra ,'hayatının en zor anlarını yaşadığı 'belirtildi .</sentence>
+<sentence num="16">Haberde Yunan hükümetinin ,'yolcu uçağını F 16 savaş uçakları düşürdü 'yönündeki iddiaları ise kesin bir dille yalanladığı vurgulandı .'</sentence>
+<sentence num="17">Şirkete yönelik yeterli kanıt yok 'Politis gazetesi de ,kaza geçiren uçak hakkında mürettebatın Helios şirketine birçok kez yazılı şikayette bulunduğunun belirlendiğini duyurdu .</sentence>
+<sentence num="18">Söz konusu şirketin bürosunda bulunan çok sayıda belgenin incelenmesinin zaman alacağını belirten gazete ,henüz kimsenin tutuklanması için yeterli kanıtın bulunmadığını kaydetti .</sentence>
+<sentence num="19">Rum gazeteleri ,uçakla telsiz temasının kaybolmasının ardından havalanan iki Yunan F 16 uçağı pilotlarının ,uçağın içinde neler gördüklerine dair haberlere de yer verdi .</sentence>
+<sentence num="20">Haberler ise şöyle :F 16 pilotları ,Rum uçağının pilot kabininde pilot yardımcısının dışında üçüncü ya da dördüncü bir kişi gördüklerini söylüyor F 16 pilotları uçağı bir hostesin kontrol etmeye çalıştığını ve bu hostesin cesedinin de kokpitte bulunduğunu ifade ediyor F 16 pilotları ,pilot kabininde uçağı kullanmaya çalışan bir kişinin yanı sıra bu kişinin beraberinde 1 2 kişinin daha bulunduğunu belirtiyor İlk cesetler Güney Kıbrıs'a götürüldü Gazeteler ,kazazedelerden yakınları tarafından teşhis edilebilen 23 kişinin cesedinin dün akşam Yunan Hava Kuvvetleri'ne ait C 130 tipi uçakla Güney Kıbrıs'a getirildiğini belirtti .</sentence>
+<sentence num="21">Rum gazeteleri ,cesetlerin ,'Lefkoşa Hastanesi 'yakınlarındaki özel bir yere konduğunu ve yakınlarını gömmek isteyen kişilere bugünden itibaren cesetlerin teslim edileceğini yazdı .</sentence>
+<sentence num="22">Haberlere göre yakınları tarafından teşhis edilen cesetlerden 23'ü Rum ,2'si Yunanlı ve uçakta hostes olan bir kişi de Rum ve ABD çift vatandaşı .</sentence>
+<sentence num="23">Rum gazeteleri ,altı adli tıp uzmanının yaptıkları otopsiler sonucunda ,pilot yardımcısı ve hosteslerin de aralarında bulunduğu tüm kurbanların kaza sırasında hayatta oldukları sonucuna vardıklarını kaydetti .</sentence>
+<sentence num="24">Uçak nasıl düştü ?</sentence>
+<sentence num="25">Helios havayollarına ait uçak saat 10 .37'de Yunan hava sahasına girdi .</sentence>
+<sentence num="26">Rotası Prag olan uçağın Rodos civarında iniş hazırlıklarına geçmesi üzerine Atina havaalanı kontrol kulesi pilotlarla temasa geçmeye çalıştı ,ancak pilotlarla temas sağlanamadı .</sentence>
+<sentence num="27">Atina bunun üzerine Larnaka hava kulesiyle temas kurdu .</sentence>
+<sentence num="28">Buradaki görevliler Atina kontrol kulesine ,pilotların Rum hava sahasından çıkmadan önce klimada sorun olduğunu bildirdiklerini anlattı .</sentence>
+<sentence num="29">Uçak düşmeden önce iki Yunan F 16 uçağının takibindeydi .</sentence>
+<sentence num="30">Askeri pilotlar ,yolcu uçağına yaklaştıklarında kaptanın yerinde olmadığını ,yardımcısının da baygın olduğunu gördüklerini söyledi .</sentence>
+<sentence num="31">İki saat sonra uçağın düştüğü duyuruldu .</sentence>
+</doc>
+<doc>
+<id>134402</id>
+<sentence num="0">2005 08 17 14 :23 :00 .Kazadan bir çocuk canlı kurtulmuş .</sentence>
+<sentence num="1">Adli tıp uzmanları ,5 6 yaşlarındaki çocuğun kazada ağır yaralandığını ve çıkan yangında öldüğünü açıkladı .</sentence>
+<sentence num="2">Atina yakınlarında 20'si çocuk 121 kişinin öldüğü uçak kazasıyla ilgili soruşturma devam ediyor .</sentence>
+<sentence num="3">İlk tahminler ,tüm yolcuların kabin basıncının düşmesi ya da oksijen yetersizliği sebebiyle havada donarak öldüğü yönündeydi .</sentence>
+<sentence num="4">Ancak 26 cesede yapılan otopsiler ,bu kişilerin uçak düşene kadar hayatta olduklarını gösterdi .</sentence>
+<sentence num="5">Kazada ölenlerin bilinçlerinin yerinde olup olmadığı belirlenemedi .</sentence>
+<sentence num="6">Bölgede yapılan incelemeler sonucu bulunan en önemli ipuçlarından pilot ve yardımcısının konuşmalarının yeraldığı kara kutunun ise parçalandığı ortaya çıktı .'</sentence>
+<sentence num="7">Uçaktaki sorunu yetkililer reddetti 'Kazaya ilişkin esrar sürüyor .</sentence>
+<sentence num="8">Helios havayollarının eski teknik müdürlerinden Kyriakos Pilavakis'in ,düşen uçakla ilgili anlattıkları ise gözleri havayolları şirketine çevirdi .</sentence>
+<sentence num="9">Yunan televizyonuna konuşan Piliavakis ,Rum uçağının geçtiğimiz yıl yapılan bir uçuş sırasında da ani basınç kaybı yaşandığını söyledi .</sentence>
+<sentence num="10">Pilavakis ,geçtiğimiz yılın aralık ayında Polonya'nın başkenti Varşova'dan Larnaka'ya gitmek üzere yola çıkan uçağın ,havadayken arka sağ kapısının birden açıldığı ve uçağın içine hava dolduğunu söyledi .</sentence>
+<sentence num="11">Teknik müdür Pilavakis ,uçağın kapısı tam olarak kapanmadığı için aniden açılmış olduğunu kaydetti .</sentence>
+<sentence num="12">Pilavakis ,durumu bildirdiği halde yetkililerin düşen Rum uçağının uçmaya elverişli olduğu konusunda ısrar ettiklerini de vurguladı .</sentence>
+</doc>
+<doc>
+<id>134619</id>
+<sentence num="0">2005 08 17 19 :36 :00 .Papadopulos Atina'da .</sentence>
+<sentence num="1">Papadopulos Atina'da Kıbrıs Rum Yönetimi lideri Tasos Papadopulos ,çalışma ziyareti amacıyla Atina'ya geldi .</sentence>
+<sentence num="2">Yunan basın yayın organları ,Papadopulos'un ,Atina'nın kuzeyinde geçen hafta sonu düşen Rum uçağı konusunda bilgi almak üzere ,Yunanistan İçişleri Bakanı Prokopis Pavlopulos ve Ulaştırma Bakanı Mihalis Liapis ile görüşeceğini duyurdu .</sentence>
+<sentence num="3">Papadopulos ,çalışma ziyareti çerçevesinde yarın Yunanistan Başbakanı Kostas Karamanlis ile bir araya gelecek .</sentence>
+</doc>
+<doc>
+<id>134668</id>
+<sentence num="0">2005 08 17 21 :46 :00 .Papadopulos veto kartını hatırlattı .</sentence>
+<sentence num="1">Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,''Ankara'nın 'Kıbrıs Cumhuriyeti'ni tanımaması halinde ,Türkiye ile AB arasında üyelik müzakerelerinin başlamasını veto etme seçeneğini dışlamadıklarını ''söyledi .</sentence>
+<sentence num="2">Atina'ya hareketinden önce gazetecilerin sorularını yanıtlayan Papadopulos ,veto kullanma ihtimaline ilişkin düşüncesinin sorulması üzerine ,''Benden konuyu ne şekilde ele alacağımızı ya da kararlarımızı önceden açıklamamı beklemeyin ''dedi .</sentence>
+<sentence num="3">Papadopulos ,Yunanistan Başbakanı Kostas Karamanlis ile görüş alışverişinde bulunacaklarını ve AB daimi temsilcilerinin 25 Ağustos ,dışişleri bakanlarının da 1 Eylül'deki toplantılarında ortak tutum geliştirme üzerine odaklanacaklarını belirtti .</sentence>
+<sentence num="4">Rum lideri ,konuyla ilgili tüm olasılıkların inceleneceğini sözlerine ekledi .</sentence>
+<sentence num="5">DÜŞEN RUM UÇAĞI Papadopulos ,Atina yakınlarında düşen Rum uçağıyla ilgili olarak da ,soruşturmanın tamamen şeffaf olacağını ve tarafsız biçimde ,hiçbir ayrım yapılmadan yürütüleceğini kaydetti .</sentence>
+<sentence num="6">Ziyareti sırasında Yunan hükümetinin kazayla ilgili incelemeleri hakkında da bilgi sahibi olacağını belirten Papadopulos ,programının yoğunluğu nedeniyle kaza bölgesini ziyaret edemeyeceğini söyledi .</sentence>
+<sentence num="7">AA .</sentence>
+</doc>
+<doc>
+<id>134673</id>
+<sentence num="0">2005 08 17 22 :00 :00 .Papadopulos :Veto seçeneğini dışlamıyoruz .</sentence>
+<sentence num="1">Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Ankara'nın 'Kıbrıs Cumhuriyeti'ni tanımaması halinde ,Türkiye ile AB arasında üyelik müzakerelerinin başlamasını veto etme seçeneğini dışlamadıklarını söyledi .</sentence>
+<sentence num="2">Atina'ya hareketinden önce gazetecilerin sorularını yanıtlayan Papadopulos ,veto kullanma ihtimaline ilişkin düşüncesinin sorulması üzerine ,Benden konuyu ne şekilde ele alacağımızı ya da kararlarımızı önceden açıklamamı beklemeyin dedi .</sentence>
+<sentence num="3">Papadopulos ,Yunanistan Başbakanı Kostas Karamanlis ile görüş alışverişinde bulunacaklarını ve AB daimi temsilcilerinin 25 Ağustos ,dışişleri bakanlarının da 1 Eylül'deki toplantılarında ortak tutum geliştirme üzerine odaklanacaklarını belirtti .</sentence>
+<sentence num="4">Rum lideri ,konuyla ilgili tüm olasılıkların inceleneceğini sözlerine ekledi .</sentence>
+<sentence num="5">DÜŞEN RUM UÇAĞI Papadopulos ,Atina yakınlarında düşen Rum uçağıyla ilgili olarak da ,soruşturmanın tamamen şeffaf olacağını ve tarafsız biçimde ,hiçbir ayrım yapılmadan yürütüleceğini kaydetti .</sentence>
+<sentence num="6">Ziyareti sırasında Yunan hükümetinin kazayla ilgili incelemeleri hakkında da bilgi sahibi olacağını belirten Papadopulos ,programının yoğunluğu nedeniyle kaza bölgesini ziyaret edemeyeceğini söyledi .</sentence>
+</doc>
+<doc>
+<id>134812</id>
+<sentence num="0">2005 08 18 09 :50 :00 .Papadopulos ,veto kartını gösterdi ...</sentence>
+<sentence num="1">Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Ankara'nın 'Kıbrıs Cumhuriyeti'ni tanımaması halinde ,Türkiye ile AB arasında üyelik müzakerelerinin başlamasını veto etme seçeneğini dışlamadıklarını söyledi .</sentence>
+<sentence num="2">Atina'ya hareketinden önce gazetecilerin sorularını yanıtlayan Papadopulos ,veto kullanma ihtimaline ilişkin düşüncesinin sorulması üzerine ,Benden konuyu ne şekilde ele alacağımızı ya da kararlarımızı önceden açıklamamı beklemeyin dedi .</sentence>
+<sentence num="3">Papadopulos ,Yunanistan Başbakanı Kostas Karamanlis ile görüş alışverişinde bulunacaklarını ve AB daimi temsilcilerinin 25 Ağustos ,dışişleri bakanlarının da 1 Eylül'deki toplantılarında ortak tutum geliştirme üzerine odaklanacaklarını belirtti .</sentence>
+<sentence num="4">Rum lideri ,konuyla ilgili tüm olasılıkların inceleneceğini sözlerine ekledi .</sentence>
+<sentence num="5">DÜŞEN RUM UÇAĞI Papadopulos ,Atina yakınlarında düşen Rum uçağıyla ilgili olarak da ,soruşturmanın tamamen şeffaf olacağını ve tarafsız biçimde ,hiçbir ayrım yapılmadan yürütüleceğini kaydetti .</sentence>
+<sentence num="6">Ziyareti sırasında Yunan hükümetinin kazayla ilgili incelemeleri hakkında da bilgi sahibi olacağını belirten Papadopulos ,programının yoğunluğu nedeniyle kaza bölgesini ziyaret edemeyeceğini söyledi .</sentence>
+</doc>
+<doc>
+<id>134822</id>
+<sentence num="0">2005 08 18 10 :03 :00 .Papadopulos :Yunanistan'daki uçak kazası olağandışı .</sentence>
+<sentence num="1">Papadopulos :Yunanistan'daki uçak kazası olağandışı Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Yunanistan'daki uçak kazasının ''olağandışı ''olduğunu söyledi .</sentence>
+<sentence num="2">Atina'da temaslarda bulunan Papadopulos ,Yunanistan İçişleri Bakanı Prokopis Pavlopulos ve Ulaştırma Bakanı Mihalis Liapis ile görüştükten sonra yaptığı açıklamada ,kazanın benzerine tarihte bir kere rastlandığını belirtti .</sentence>
+</doc>
+<doc>
+<id>134824</id>
+<sentence num="0">2005 08 18 10 :05 :00 .Papadopulos :Olağandışı ,tarihte bir kez rastlanan kaza ...</sentence>
+<sentence num="1">Kıbrıs Rum yönetimi lideri Tasos Papadopulos ,Yunanistan'daki uçak kazasının ''olağandışı ''olduğunu söyledi .</sentence>
+<sentence num="2">Atina'da temaslarda bulunan Papadopulos ,Yunanistan İçişleri Bakanı Prokopis Pavlopulos ve Ulaştırma Bakanı Mihalis Liapis ile görüştükten sonra yaptığı açıklamada ,kazanın benzerine tarihte bir kere rastlandığını belirtti .</sentence>
+<sentence num="3">Papadopulos ,6 kişilik mürettebat ile 115 yolcu taşıyan Rum uçağının düşme sebebinin ortaya çıkarılması için uluslararası soruşturma açılmasından kaçınmayacağını kaydetti .</sentence>
+<sentence num="4">Rum lider ,''Olağandışı bir kaza .</sentence>
+<sentence num="5">Bilgi kaynaklarıma göre bu tür bir kaza sadece bir kere oldu ''dedi .</sentence>
+<sentence num="6">Tüm yolcu ve mürettebatın öldüğü uçak kazası ,Amerikalı golfçü Payne Stewarts ile 5 kişinin ölümüne sebep olan 6 yıl önceki uçak kazasına benzetiliyor .</sentence>
+<sentence num="7">İlios havayollarına ait Boeing 737 tipi yolcu uçağı pazar günü ,kabin basıncının düşmesi veya oksijenin azalması sonucu Atina yakınlarında çakılmış ve içindeki 121 kişi ölmüştü .</sentence>
+</doc>
+<doc>
+<id>134825</id>
+<sentence num="0">2005 08 18 10 :07 :00 .Papadopulos :Olağandışı kaza .</sentence>
+<sentence num="1">Atina'da temaslarda bulunan Papadopulos ,Yunanistan İçişleri Bakanı Prokopis Pavlopulos ve Ulaştırma Bakanı Mihalis Liapis ile görüştükten sonra yaptığı açıklamada ,kazanın benzerine tarihte bir kere rastlandığını belirtti .</sentence>
+<sentence num="2">Papadopulos ,6 kişilik mürettebat ile 115 yolcu taşıyan Rum uçağının düşme sebebinin ortaya çıkarılması için uluslararası soruşturma açılmasından kaçınmayacağını kaydetti .</sentence>
+<sentence num="3">Rum lider ,''Olağandışı bir kaza .</sentence>
+<sentence num="4">Bilgi kaynaklarıma göre bu tür bir kaza sadece bir kere oldu ''dedi .</sentence>
+<sentence num="5">Tüm yolcu ve mürettebatın öldüğü uçak kazası ,Amerikalı golfçü Payne Stewarts ile 5 kişinin ölümüne sebep olan 6 yıl önceki uçak kazasına benzetiliyor .</sentence>
+<sentence num="6">İlios havayollarına ait Boeing 737 tipi yolcu uçağı pazar günü ,kabin basıncının düşmesi veya oksijenin azalması sonucu Atina yakınlarında çakılmış ve içindeki 121 kişi ölmüştü .</sentence>
+</doc>
+<doc>
+<id>134953</id>
+<sentence num="0">2005 08 18 12 :45 :00 .Papadopulos ,Rum basınını azarladı .</sentence>
+<sentence num="1">Rum pilotların ,Larnaka Havaalanı'ndaki kontrol kulesinde yanaşma radarı bulunmadığını belirterek ,Rum yönetimi ,Rum Ulaştırma Bakanlığı ve Rum Sivil Havacılık Dairesi'nin bu konuda aylardır sürdürdüğü ''vurdumduymazlığı ''suç olarak niteledikleri bildirildi .</sentence>
+<sentence num="2">Alithia gazetesinin haberine göre ,Rum pilotlar ,bir uçağın Larnaka Havaalanı'na yaklaşması sırasında Rum hava trafik kontrol memurlarının işlerinin çok zor ve tehlikeli olduğunu ,kontrol kulesindeki mevcut sistemlerin gerektiği gibi çalışmadığını ve pek çok insanın hayatını her gün tehlikeye soktuğunu düşünüyorlar .</sentence>
+<sentence num="3">Habere göre ,pilotlar ,geçen yıl iki uçağın ,Hava Trafik Kontrol Kulesi ile aralarındaki iletişimin iyi olmaması nedeniyle yüz yüze çarpışma tehlikesi geçirmesi olayını örnek göstererek ,başka hava trajedileri yaşanmamasının mucize olduğunu belirtiyorlar .</sentence>
+<sentence num="4">PAPADOPULOS RUM BASININI AZARLADI Öte yandan ,Politis gazetesi ,Rum yönetimi lideri Tasos Papadopulos'un ,121 kişinin hayatını kaybettiği uçak kazasının ardından ,''insanların acısını istismar etmesi ve bazılarının da kendisini uzman göstermeye çalışması ''nedeniyle Rum medyasına tepki gösterdiği bildirildi .</sentence>
+<sentence num="5">Habere göre ,Papadopulos ,''Trajediden sonra bu kadar çok kişinin uzman görünüp ,yılların deneyimini taşıyan uzmanlar bile henüz kaza sebebini açıklayacak durumda değilken ,görüş belirtmeleri ,bazı sonuçlara varmaları şaşırtıcıdır .</sentence>
+<sentence num="6">Gazeteciler ve diğerlerinin otomatikman ,bir gecede nasıl uzman olabildiklerinin değerlendirmesini size bırakıyorum ''dedi .</sentence>
+<sentence num="7">Rum Gazeteciler Birliği'nin de ,bildiri yayımlayarak ,bütün basın yayın kurumlarına ,çeşitli TV röportajları ,programlar ve gazetelerde yer alan bazı fotoğraflarla kazada ölenlerin ailelerinin bu en acı zamanlarında saygısızlık edilmesini kabul edilemez diye niteleyerek bazı tavsiyelerde bulunduğu belirtildi .</sentence>
+</doc>
+<doc>
+<id>135232</id>
+<sentence num="0">2005 08 18 21 :14 :00 .'Yolcular uçak düştüğünde sağdı '.</sentence>
+<sentence num="1">Adli tıp uzmanları ,uçağın şu ana kadar cesedi bulunan 118 yolcusundan 65'inin otopsisinden elde edilen verilerin ,yolcuların tümünün uçak düştüğü sırada hayatta olduğunu gösterdiğini kaydetti .</sentence>
+<sentence num="2">Atina Haber Ajansı da (ANA ),yolcuların baygın durumda olup olmadığının henüz bilinmediğini ,kabinde zehirli gaz solunup solunmadığının yapılacak araştırmalardan sonra ortaya çıkarılacağını belirtti .</sentence>
+<sentence num="3">ANA ,uçağın Alman kaptan pilotunun da bulunduğu ,henüz bulunamayan 3 kişinin cesedinin aranmasına ise devam edildiğini kaydetti .</sentence>
+<sentence num="4">Öte yandan ALPHA radyosu ,incelenmek üzere Fransa'ya gönderilen ilk karakutudan alınan bilgilerin uçağın ilk olarak sol ,daha sonra ise sağ motorunun durduğu yönünde olduğunu duyurdu .</sentence>
+<sentence num="5">ALPHA ,yeni bilgiler doğrultusunda uçağın yakıtının bitmiş olması olasılığının gündeme geldiğini de belirtti .</sentence>
+<sentence num="6">Yakıtı bitmesi ve irtifa kaybetmesine rağmen uçağın burun kısmıyla değil ,gövdesiyle yere çarptığına dikkati çeken radyo ,bu çerçevede uçağın kontrolünün son ana kadar sağlanmaya çalışıldığı ihtimalinin ağırlık kazandığını da kaydetti .</sentence>
+<sentence num="7">Uçağın düşüş nedenleri arasında kabinde ani basınç kaybı ihtimali göz önünde bulunduruluyor .</sentence>
+<sentence num="8">Yolcuların uçak havadayken donmuş olabileceği olasılığı üzerinde de duruluyor .</sentence>
+<sentence num="9">AA .</sentence>
+</doc>
+<doc>
+<id>135237</id>
+<sentence num="0">2005 08 18 21 :30 :00 .Adli tıp uzmanları :Yolcular uçak düştüğünde hayattaydı .</sentence>
+<sentence num="1">Yunanistan'ın başkenti Atina yakınlarında düşen Rum uçağında bulunan yolcuların büyük bölümünün uçak düştüğü sırada hayatta olduğu belirlendi .</sentence>
+<sentence num="2">Adli tıp uzmanları ,uçağın şu ana kadar cesedi bulunan 118 yolcusundan 65'inin otopsisinden elde edilen verilerin ,yolcuların tümünün uçak düştüğü sırada hayatta olduğunu gösterdiğini kaydetti .</sentence>
+<sentence num="3">Atina Haber Ajansı da (ANA ),yolcuların baygın durumda olup olmadığının henüz bilinmediğini ,kabinde zehirli gaz solunup solunmadığının yapılacak araştırmalardan sonra ortaya çıkarılacağını belirtti .</sentence>
+<sentence num="4">ANA ,uçağın Alman kaptan pilotunun da bulunduğu ,henüz bulunamayan 3 kişinin cesedinin aranmasına ise devam edildiğini kaydetti .</sentence>
+<sentence num="5">Öte yandan ALPHA radyosu ,incelenmek üzere Fransa'ya gönderilen ilk karakutudan alınan bilgilerin uçağın ilk olarak sol ,daha sonra ise sağ motorunun durduğu yönünde olduğunu duyurdu .</sentence>
+<sentence num="6">ALPHA ,yeni bilgiler doğrultusunda uçağın yakıtının bitmiş olması olasılığının gündeme geldiğini de belirtti .</sentence>
+<sentence num="7">Yakıtı bitmesi ve irtifa kaybetmesine rağmen uçağın burun kısmıyla değil ,gövdesiyle yere çarptığına dikkati çeken radyo ,bu çerçevede uçağın kontrolünün son ana kadar sağlanmaya çalışıldığı ihtimalinin ağırlık kazandığını da kaydetti .</sentence>
+<sentence num="8">Uçağın düşüş nedenleri arasında kabinde ani basınç kaybı ihtimali göz önünde bulunduruluyor .</sentence>
+<sentence num="9">Yolcuların uçak havadayken donmuş olabileceği olasılığı üzerinde de duruluyor .</sentence>
+</doc>

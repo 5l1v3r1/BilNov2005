@@ -1,0 +1,207 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 03 16 20 :25 :00 .angola'da esrarengiz hastalık ..</sentence>
+<sentence num="1">afrika'nın batısındaki angola'da bilinmeyen bir hastalık sonucu 3 kişi öldü .</sentence>
+<sentence num="2">ülkenin kuzeydoğusundaki bir hastanede ölen 3 kişiyle birlikte bu esrarengiz hastalıktan ölenlerin sayısı son 3 ayda 64'e yükseldi .</sentence>
+<sentence num="3">ölümler ,başkent luanda'nın 300 kilometre kuzeydoğusundaki uige kenti merkez hastanesinde meydana geldi .</sentence>
+<sentence num="4">doktorlar hastalığın yüksek ateşle başgösterdiğini ,ancak ebola virüsündeki belirtileri taşımadığını belirtiyor .</sentence>
+<sentence num="5">birleşmiş milletler dünya sağlık örgütü de bölgeye araştırmalar için bir sağlık ekibi gönderdi .</sentence>
+<sentence num="6">uige hastanesinin pek çok gerekli tıbbi imkandan mahrum olduğunu tesbit eden ekip ,çeşitli örnekler almasına rağmen hastalığı henüz teşhis edemedi .</sentence>
+</doc>
+<doc>
+<id>44607</id>
+<sentence num="0">2005 03 18 13 :08 :00 .Angola'da ateşli hummadan 76 kişi öldü .</sentence>
+<sentence num="1">Angola'da ateşli hummadan 76 kişi öldü Angola'da ateşli humma olduğu sanılan bir salgından 76 kişi öldü .</sentence>
+<sentence num="2">Sağlık Bakanlığı Sözcüsü Carlos Alberto ,sağlık yetkililerinin salgının Ebola olduğu iddialarını reddettiğini belirtti .</sentence>
+</doc>
+<doc>
+<id>44995</id>
+<sentence num="0">2005 03 19 00 :58 :00 .Angola'da hummadan 76 kişi öldü .</sentence>
+<sentence num="1">Sağlık Bakanlığı Sözcüsü Carlos Alberto ,sağlık yetkililerinin salgının Ebola olduğu iddialarını reddettiğini belirtti .</sentence>
+<sentence num="2">Ancak Alberto halkın başkent Luanda'nın 225 km kuzeyindeki Uige bölgesine seyahat etmemesini istedi .</sentence>
+<sentence num="3">Diplomatik kaynaklarsa Uige havaalanının kapatıldığını bildirdi .</sentence>
+</doc>
+<doc>
+<id>49354</id>
+<sentence num="0">2005 03 25 22 :59 :00 .Marbur virüsünden ölenlerin sayısı 115'e yükseldi .</sentence>
+<sentence num="1">Marbur virüsünden ölenlerin sayısı 115'e yükseldi Angola'nın kuzeyinde görülen Marburg virüsünden ölenlerin sayısının 115'e yükseldiği bildirildi .</sentence>
+<sentence num="2">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsünden ölenlerin sayısı önceki gün 95 olarak verilmişti .</sentence>
+<sentence num="3">Marburg virüsü ,ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>49355</id>
+<sentence num="0">2005 03 25 23 :00 :00 .Marburg virisü yüzünden 115 kişi öldü .</sentence>
+<sentence num="1">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsünden ölenlerin sayısı önceki gün 95 olarak verilmişti .</sentence>
+<sentence num="2">Marburg virüsü ,ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+<sentence num="3">AA .</sentence>
+</doc>
+<doc>
+<id>49356</id>
+<sentence num="0">2005 03 25 23 :00 :00 .Marburg virüsünden ölenlerin sayısı 115'e yükseldi .</sentence>
+<sentence num="1">Angola'nın kuzeyinde görülen Marburg virüsünden ölenlerin sayısının 115'e yükseldiği bildirildi .</sentence>
+<sentence num="2">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsünden ölenlerin sayısı önceki gün 95 olarak verilmişti .</sentence>
+<sentence num="3">Marburg virüsü ,ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>50106</id>
+<sentence num="0">2005 03 27 20 :28 :00 .Marburg virüsünden ölenlerin sayısı 121'e yükseldi .</sentence>
+<sentence num="1">Angola'nın kuzeyinde ,Marburg virüsünden ölenlerin sayısının 121'e yükseldiği bildirildi .</sentence>
+<sentence num="2">Resmi kaynaklar ,Luanda'nın kuzeyindeki Uige Hastanesi'ne dün getirilen 19 yaşındaki bir kadının öldüğünü belirttiler .</sentence>
+<sentence num="3">Sağlık Bakanlığı Sözcüsü Carlos Alberto ,''Bugün hastaneye biri çocuk 3 hastanın daha getirildiğini ''söyledi .</sentence>
+<sentence num="4">Bölge Sağlık Müdürü Vita Mvemba de Uige'de yaşayan bir Portekizlinin bugün askeri hastaneye getirildiğini ,Cacuaco mahallesindeki sağlık merkezine yüksek ateş sebebiyle 2 gün önce getirilen ancak bugün kan kaybetmeye başlayan 12 yaşındaki bir çocuğun da Americo Boa Vida Hastanesi'ne nakledildiğini belirtti .</sentence>
+<sentence num="5">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsü ,ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>54567</id>
+<sentence num="0">2005 04 03 13 :38 :00 .Angola'da Marburg virüsünden ölenlerin sayısı 146'ya yükseldi .</sentence>
+<sentence num="1">Angola'da Marburg virüsünden ölenlerin sayısı 146'ya yükseldi Angola Sağlık Bakanlığı ,Marburg virüsünden ölenlerin sayısının 146'ya yükseldiğini bildirdi .</sentence>
+<sentence num="2">Dünya Sağlık Örgütü ,hastalıkla mücadele için bölgeye 20 uzman gönderirken ,yalnızca kuzeydeki Uige bölgesini etkisi altına alan öldürücü virüsün başkent Luanda'da yaşayanları da paniğe sevk ettiği ifade edildi .</sentence>
+</doc>
+<doc>
+<id>54569</id>
+<sentence num="0">2005 04 03 13 :40 :00 .Marburg virüsü 146 can aldı .</sentence>
+<sentence num="1">Angola Sağlık Bakanlığı ,Marburg virüsünden ölenlerin sayısının 146'ya yükseldiğini bildirdi .</sentence>
+<sentence num="2">Dünya Sağlık Örgütü ,hastalıkla mücadele için bölgeye 20 uzman gönderirken ,yalnızca kuzeydeki Uige bölgesini etkisi altına alan öldürücü virüsün başkent Luanda'da yaşayanları da paniğe sevk ettiği ifade edildi .</sentence>
+<sentence num="3">Ebola'ya benzer bir virüs olan Marburg ,insandan insana yakın temas sonucu ,salya ve ter gibi vücut sıvıları yoluyla bulaşıyor .</sentence>
+<sentence num="4">Hastalığın belirtilerinin ise başağrısı ,mide bulantısı ,kusma ve kanlı ishal olduğu belirtiliyor .</sentence>
+<sentence num="5">Angola'da Marburg virüsü yüzünden ölenlerin sayısı bir hafta kadar önce 121 olarak açıklanmıştı .</sentence>
+</doc>
+<doc>
+<id>55208</id>
+<sentence num="0">2005 04 04 17 :26 :00 .Angola'da Marburg Virüsü Öldürüyor .</sentence>
+<sentence num="1">Angola'da Ebola benzeri Marburg virüsünden ölenlerin sayısı 146'ya yükseldi .</sentence>
+<sentence num="2">Dünya Sağlık Örgütü ,Angola'nın kuzey eyaletlerinden Uige'de başgösteren Marburg salgını için bölgeye 20 sağlık uzmanı gönderdi .</sentence>
+<sentence num="3">Yetkililer ,virüsten ölenlerin yüzde 75'inin 5 yaşın altındaki çocuklardan oluştuğunu belirttiler .</sentence>
+<sentence num="4">Yüksek bir ölüm oranına sahip olan Marburg virüsü için bilinen bir tedavi yöntemi henüz bilinmiyor .</sentence>
+</doc>
+<doc>
+<id>57383</id>
+<sentence num="0">2005 04 07 23 :17 :00 .Angola'daki Marburg salgını ...</sentence>
+<sentence num="1">DSÖ ,komşu ülkeleri uyardı .</sentence>
+<sentence num="2">Angola'da Marburg virüsü yüzünden ölenlerin sayısının 3 haftada 2 kat artması nedeniyle Dünya Sağlık Örgütü (DSÖ ),ülkeye sınırı olan ülkeleri uyardı .</sentence>
+<sentence num="3">Başkent Luanda'da bulunan DSÖ'nün üst düzey bir yetkilisi ,herkesin dikkatli olması gerektiğini belirterek ,sadece Angola'nın değil Namibiya ,Kongo ,Demokratik Kongo Cumhuriyeti ve Zambiya gibi ,bu ülkeye sınırı olan tüm ülkelerin de dikkatli olması gerektiğini söyledi .</sentence>
+<sentence num="4">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsünden Angola'da 174 kişi hayatını kaybetti .</sentence>
+<sentence num="5">Virüs ,ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>57385</id>
+<sentence num="0">2005 04 07 23 :25 :00 .Angola'daki Marburg alarmı .</sentence>
+<sentence num="1">Başkent Luanda'da bulunan DSÖ'nün üst düzey bir yetkilisi ,herkesin dikkatli olması gerektiğini belirterek ,sadece Angola'nın değil Namibiya ,Kongo ,Demokratik Kongo Cumhuriyeti ve Zambiya gibi ,bu ülkeye sınırı olan tüm ülkelerin de dikkatli olması gerektiğini söyledi .</sentence>
+<sentence num="2">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsünden Angola'da 174 kişi hayatını kaybetti .</sentence>
+<sentence num="3">Virüs ,ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>59594</id>
+<sentence num="0">2005 04 11 23 :09 :00 .Angola'daki salgında ölü sayısı 203'e yükseldi .</sentence>
+<sentence num="1">Angola'daki salgında ölü sayısı 203'e yükseldi Angola'da Marburg virüsü yüzünden ölenlerin sayısının 203'e yükseldiği bildirildi .</sentence>
+<sentence num="2">Angola Sağlık Bakanlığı yetkilileri ile Dünya Sağlık Örgütü (DSÖ ),en çok ölünün ülkenin kuzeyindeki Uige'de kaydedildiği ,bu bölgede toplam 184 kişinin hayatını kaybettiğini açıkladı .</sentence>
+<sentence num="3">DSÖ ,Angola'da Marburg virüsü yüzünden ölenlerin son haftalarda hızla artması üzerine ülkeye sınırı olan ülkeleri uyarmış ,DSÖ yetkilileri ,herkesin dikkatli olması gerektiğini belirterek ,sadece Angola'nın değil Namibiya ,Kongo ,Demokratik Kongo Cumhuriyeti ve Zambiya gibi ,bu ülkeye sınırı olan tüm ülkelerin de dikkatli olması gerektiğini söylemişti .</sentence>
+<sentence num="4">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsü ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>59595</id>
+<sentence num="0">2005 04 11 23 :10 :00 .Angola'daki Marburg salgınında ölü sayısı 203'e yükseldi .</sentence>
+<sentence num="1">Angola'da Marburg virüsü yüzünden ölenlerin sayısının 203'e yükseldiği bildirildi .</sentence>
+<sentence num="2">Angola Sağlık Bakanlığı yetkilileri ile Dünya Sağlık Örgütü (DSÖ ),en çok ölünün ülkenin kuzeyindeki Uige'de kaydedildiği ,bu bölgede toplam 184 kişinin hayatını kaybettiğini açıkladı .</sentence>
+<sentence num="3">DSÖ ,Angola'da Marburg virüsü yüzünden ölenlerin son haftalarda hızla artması üzerine ülkeye sınırı olan ülkeleri uyarmış ,DSÖ yetkilileri ,herkesin dikkatli olması gerektiğini belirterek ,sadece Angola'nın değil Namibiya ,Kongo ,Demokratik Kongo Cumhuriyeti ve Zambiya gibi ,bu ülkeye sınırı olan tüm ülkelerin de dikkatli olması gerektiğini söylemişti .</sentence>
+<sentence num="4">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsü ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>62546</id>
+<sentence num="0">2005 04 15 16 :01 :00 .Angola'daki marburg salgınında ölenlerin sayısı 215'e yükseldi .</sentence>
+<sentence num="1">Angola'daki marburg salgınında ölenlerin sayısı 215'e yükseldi Dünya Sağlık Örgütü (DSÖ ),Angola'da Marburg virüsünden ölenlerin sayısının 215'e yükseldiğini bildirdi .</sentence>
+<sentence num="2">DSÖ sözcüsü Fadela Chaib ,ülkede virüsü alan kişilerin sayısının da 235'e çıktığını belirterek ,bunlardan 208'inin kuzeydeki Uige bölgesinde yaşadığını söyledi .</sentence>
+</doc>
+<doc>
+<id>62548</id>
+<sentence num="0">2005 04 15 16 :05 :00 .Angola'daki Marburg salgınında ölü sayısı 215'e yükseldi .</sentence>
+<sentence num="1">Dünya Sağlık Örgütü (DSÖ ),Angola'da Marburg virüsünden ölenlerin sayısının 215'e yükseldiğini bildirdi .</sentence>
+<sentence num="2">DSÖ sözcüsü Fadela Chaib ,ülkede virüsü alan kişilerin sayısının da 235'e çıktığını belirterek ,bunlardan 208'inin kuzeydeki Uige bölgesinde yaşadığını söyledi .</sentence>
+<sentence num="3">Ebola'ya benzer bir virüs olan öldürücü Marburg virüsü ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı .</sentence>
+<sentence num="4">Hastalığın belirtilerinin başağrısı ,mide bulantısı ,kusma ve kanlı ishal olduğu ifade ediliyor .</sentence>
+</doc>
+<doc>
+<id>62732</id>
+<sentence num="0">2005 04 15 22 :39 :00 .Angola'daki Marburg salgınında ölü sayısı 230'a yükseldi .</sentence>
+<sentence num="1">Dünya Sağlık Örgütü (DSÖ )ve Angola Sağlık Bakanlığı ,Angola'da Marburg virüsünden ölenlerin sayısının 230'a yükseldiğini bildirdi .</sentence>
+<sentence num="2">DSÖ ve Angola Sağlık Bakanlığı tarafından yayımlanan ortak bildiride ,şu ana kadar 250 vakanın kaydedildiği ülkede hastalığa en çok kuzey kesimlerde rastlandığına dikkat çekildi .</sentence>
+<sentence num="3">Daha önceki bilanço 235 vaka ve 215 ölüydü .</sentence>
+<sentence num="4">Ebola'ya benzeyen bir tür virüs olan Marburg ,ilk kez 1967 yılında ortaya çıkmıştı .</sentence>
+</doc>
+<doc>
+<id>64611</id>
+<sentence num="0">2005 04 19 13 :10 :00 .Marburg salgını yüzünden halk artık el sıkışmıyor .</sentence>
+<sentence num="1">Angola'da ,Marburg virüsünden ölenlerin sayısı giderek artarken ,halkın artık el sıkışmak yerine birbirine başıyla selam vermeye başladığı bildirildi .</sentence>
+<sentence num="2">Hükümet yetkilileri ,sokaklarda magafonlarla ''Uige'de Marburg hastalığı yayılmaktadır .</sentence>
+<sentence num="3">Bu hastalık son derece bulaşıcıdır ve çok kısa bir sürede öldürmektedir .</sentence>
+<sentence num="4">Tek çözüm yolu korunmaktır ''diye halkı bilgilendiriyor .</sentence>
+<sentence num="5">Yardım görevlileri ,halkın artık birbiriyle temastan korktuğu için ,el sıkışmak ,kucaklaşmak ve öpüşmek yerine sadece başlarıyla uzaktan selamlaşmayı tercih ettiğini söylediler .</sentence>
+<sentence num="6">Sağlık Bakanlığı ,tükürük ,salya ve ter gibi vücut sıvıları ve kan yoluyla geçen hastalığa yakalananlardan yüzde 90'ının öldüğünü duyurdu .</sentence>
+<sentence num="7">Şimdiye kadar 237 kişinin öldüğü salgının merkezi Uige'de ,koruyucu giysiler içindeki askerler ,kurbanların evlerini mikroplardan arındırmaya çalışıyor .</sentence>
+<sentence num="8">Yardım kuruluşları ise hastaların ,evlerindeki diğer aile bireylerine de mikrop bulaştırmış olmalarından endişe ediyor .</sentence>
+<sentence num="9">Başlangıçta hastalığı kapan çocuklar ölürken ,şimdi ölenlerin çoğunlukla anneler olduğuna dikkat çekiliyor .</sentence>
+<sentence num="10">Hükümet salgının kontrol altında olduğunu söylese de ,Dünya Sağlık Örgütü Uige'de hastalığın henüz önlenemediğini bildirdi .</sentence>
+<sentence num="11">Bu arada ,hastalık korkusuyla bölgeye ticaretten kaçınıldığı için benzin ve diğer temel maddelerin fiyatlarının arttığı haber verildi .</sentence>
+</doc>
+<doc>
+<id>67028</id>
+<sentence num="0">2005 04 22 17 :00 :00 .Marburg salgını 244 can aldı .</sentence>
+<sentence num="1">Angola'da Marburg virüsünden ölenlerin sayısının 244'e yükseldiği bildirildi .</sentence>
+<sentence num="2">Angola Sağlık Bakanlığı ve Dünya Sağlık Örgütü ,virüsün son 24 saatte 5 kişinin daha ölümüne yol açtığı ,ülkede virüsten ölenlerin sayısının 244'e çıktığını açıkladı .</sentence>
+<sentence num="3">Virüsten ölenlerin neredeyse tamamının ,Uige bölgesinde yaşadığı belirtildi .</sentence>
+<sentence num="4">Marburg virüsü ,tükürük ,salya ve ter gibi vücut sıvıları ve kan yoluyla bulaşıyor .</sentence>
+<sentence num="5">Hastalığın belirtilerinin baş ağrısı ,mide bulantısı ,kusma ve kanlı ishal olduğu ifade ediliyor .</sentence>
+</doc>
+<doc>
+<id>71784</id>
+<sentence num="0">2005 04 30 10 :54 :00 .Angola'daki Marburg salgınında ölü sayısı 257'ye yükseldi .</sentence>
+<sentence num="1">Angola'daki Marburg salgınında ölü sayısı 257'ye yükseldi Angola'daki Marburg salgınında ölenlerin sayısının 257'ye yükseldiği bildirildi .</sentence>
+<sentence num="2">Angola Sağlık Bakanlığı ve Dünya Sağlık Örgütü (DSÖ )tarafından ortak yayımlanan bildiride ,bugüne kadar 277 vakanın bildirildiği ,526 kişinin ise müşahede altına alındığı ifade edildi .</sentence>
+<sentence num="3">Marburg virüsünün tedavisi bulunmuyor .</sentence>
+</doc>
+<doc>
+<id>71785</id>
+<sentence num="0">2005 04 30 10 :55 :00 .Angola'daki Marburg salgını :Ölü sayısı 257'ye yükseldi ...</sentence>
+<sentence num="1">Angola'daki Marburg salgınında ölenlerin sayısının 257'ye yükseldiği bildirildi .</sentence>
+<sentence num="2">Angola Sağlık Bakanlığı ve Dünya Sağlık Örgütü (DSÖ )tarafından ortak yayımlanan bildiride ,bugüne kadar 277 vakanın bildirildiği ,526 kişinin ise müşahede altına alındığı ifade edildi .</sentence>
+<sentence num="3">Marburg virüsünün tedavisi bulunmuyor .</sentence>
+</doc>
+<doc>
+<id>71791</id>
+<sentence num="0">2005 04 30 11 :11 :00 .Angola'da Marburg salgını :257 ölü .</sentence>
+<sentence num="1">Angola Sağlık Bakanlığı ve Dünya Sağlık Örgütü (DSÖ )tarafından ortak yayımlanan bildiride ,bugüne kadar 277 vakanın bildirildiği ,526 kişinin ise müşahede altına alındığı ifade edildi .</sentence>
+<sentence num="2">Marburg virüsünün tedavisi bulunmuyor .</sentence>
+</doc>
+<doc>
+<id>73261</id>
+<sentence num="0">2005 05 03 10 :55 :00 .Angola'daki Marburg salgınında ölenlerin sayısı 280'e yükseldi .</sentence>
+<sentence num="1">Angola'daki Marburg salgınında ölenlerin sayısı 280'e yükseldi Angola'daki Marburg salgınında ölenlerin sayısının 280'e yükseldiği bildirildi .</sentence>
+<sentence num="2">Angola Sağlık Bakanlığı ve Dünya Sağlık Örgütü (DSÖ )tarafından ortak yayımlanan bildiride ,bugüne kadar 313 vakanın bildirildiği ifade edildi .</sentence>
+</doc>
+<doc>
+<id>79253</id>
+<sentence num="0">2005 05 13 10 :25 :00 .Dünya Kupası elemeleri ...</sentence>
+<sentence num="1">Angola Cezayir maçı ertelendi ...</sentence>
+<sentence num="2">Dünya Kupası Afrika Elemeleri'nde yapılacak Angola Cezayir maçı Angola'da ortaya çıkan Marburg virüsü nedeniyle ertelendi .</sentence>
+<sentence num="3">Uluslararası Futbol Federasyonları Birliği'nden (FIFA )Angola Futbol Federasyonu'na gönderilen mektupta ,Dünya Kupası Afrika Elemeleri 4 .Grup'ta yeralan Angola ve Cezayir'in Angola'nın başkenti Luanda'da 5 Haziran tarihinde yapacakları maçın ölümcül Marburg virüsü nedeniyle ileri bir tarihe ertelendiği bildirildi .</sentence>
+<sentence num="4">Angola'nın kuzeyinde yüzlerce kişinin ölümüne neden olan salgının ,maçın yapılacak olduğu tarihte de ortaya çıkmasından korkulması nedeniyle 2 ülke arasında yapılacak karşılaşmanın 17 Ağustos tarihine alınmasına karar verildiği kaydedildi .</sentence>
+<sentence num="5">FIFA mektubunda ,salgının kontrol altına alınmaması durumunda maçın tarafsız bir sahaya alınabileceğine de değinildi .</sentence>
+<sentence num="6">Öte yandan Angola Futbol Federasyonu konuyla ilgili olarak FİFA'yı eleştirirken ,salgının ortaya çıktığı yerin merkezinin maçın oynanacağı stada çok uzak olduğunu ,dolayısıyla maçta kimsenin virüsten etkilenmesinin söz konusu olmadığını bildirdi .</sentence>
+<sentence num="7">Angola ,eleme grubunda lider Nijerya'nın 2 puan gerisinde 2 .sırada yer alırken ,son 6 maçını kaybeden Cezayir grup sonuncusu durumunda bulunuyor .</sentence>
+</doc>
+<doc>
+<id>82806</id>
+<sentence num="0">2005 05 19 11 :45 :00 .DSÖ :Angola'daki Marburg salgınında ölenlerin sayısı 300'ü geçti .</sentence>
+<sentence num="1">DSÖ :Angola'daki Marburg salgınında ölenlerin sayısı 300'ü geçti Angola'daki Marburg salgınında ölenlerin sayısının 300'ü geçtiği bildirildi .</sentence>
+<sentence num="2">Dünya Sağlık Örgütü (DSÖ ),ülkede geçen yıldan bu yana 337 kişinin bu hastalığa yakalandığını ,salgının en çok kuzeydeki Uige bölgesini etkilediğini açıkladı .</sentence>
+<sentence num="3">DSÖ ,hastalığın en fazla evlerde ve cenaze törenlerinde bulaştığına da dikkati çekti .</sentence>
+</doc>
+<doc>
+<id>82810</id>
+<sentence num="0">2005 05 19 11 :50 :00 .Marburg salgınının bilançosu 300 ölü .</sentence>
+<sentence num="1">Angola'daki Marburg salgınında ölenlerin sayısının 300'ü geçtiği bildirildi .</sentence>
+<sentence num="2">Dünya Sağlık Örgütü (DSÖ ),ülkede geçen yıldan bu yana 337 kişinin bu hastalığa yakalandığını ,salgının en çok kuzeydeki Uige bölgesini etkilediğini açıkladı .</sentence>
+<sentence num="3">DSÖ ,hastalığın en fazla evlerde ve cenaze törenlerinde bulaştığına da dikkati çekti .</sentence>
+<sentence num="4">Tedavisi bulunmayan Marburg virüsü ishal ve kusmaya neden olarak ,sağlıklı bir kişinin bir hafta içinde ölümüne yol açabiliyor .</sentence>
+<sentence num="5">Virüs ,vücut sıvıları ve ıslak giysilerden bulaşıyor .</sentence>
+</doc>

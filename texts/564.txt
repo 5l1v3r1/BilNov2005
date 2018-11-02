@@ -1,0 +1,628 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 03 13 00 :03 :00 .zeytinburnu açıklarında lpg tankeri taşıyan ro ro gemisi battı ..</sentence>
+<sentence num="1">zeytinburnu açıklarında lpg tankeri taşıyan ro ro gemisi battı zeytinburnu açıklarında lpg tankeri taşıyan bir roro gemisi battı .</sentence>
+<sentence num="2">geminin taşıdığı tankerlerin deniz üzerinde sürüklendiği bildirildi .</sentence>
+<sentence num="3">edinilen bilgiye göre ,saat 22 :30 sıralarında 7 adet lpg tankeri taşıyan dd1 adlı bir roro gemisi ,henüz belirlenemeyen bir nedenle battı .</sentence>
+<sentence num="4">geminin sulara gömülmesinin ardından ,gemideki tankerler denizin üzerinde kalarak sürüklenmeye başladı .</sentence>
+<sentence num="5">gemi ve tanker personeli ,kıyı emniyeti ve gemi kurtarma işletmeleri genel müdürlüğü ekipleri tarafından kurtarılarak harem'deki tahlisiye 6 kurtarma istasyonu'na getilirildi .</sentence>
+<sentence num="6">olaydan sonra kıyı emniyeti ve gemi kurtarma işletmeleri genel müdürlüğü ekipleri ve türk boğazları gemi trafik sistemi (vts )de ,alarma geçirildi .</sentence>
+<sentence num="7">kurulan koordinasyon merkezi ile bölgede hızlı bir operasyon yürütüldüğü kaydedilirken ,dezinde sürüklenen tankerlerin büyük tehlike oluşturduğu ,kurtarma ekiplerinin deniz sahasını boşaltmak için yoğun çaba harcadığı açıklandı .</sentence>
+<sentence num="8">öte yandan ,başka bir gemi de aynı bölgede mendireğinden karaya oturdu .</sentence>
+<sentence num="9">batan geminin ,karaya oturan gemi ile çapışmış olabileceği ihtimali üzerinde durulduğu öğrenildi .</sentence>
+<sentence num="10">olayda ölen ya da yaralanan olup olmadığı araştırılıyor .</sentence>
+</doc>
+<doc>
+<id>40988</id>
+<sentence num="0">2005 03 13 00 :23 :00 .Zeytinburnu açıklarında bir gemi battı .</sentence>
+<sentence num="1">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü'nden alınan bilgiye göre ,Zeytinburnu'nun 1 mil açıklarında arızalanan bir gemi saat 22 .05 sıralarında battı .</sentence>
+</doc>
+<doc>
+<id>40993</id>
+<sentence num="0">2005 03 13 00 :50 :00 .Gemi battı LPG tankları su yüzünde .</sentence>
+<sentence num="1">Başbakanlık Denizcilik Müsteşarlığı Deniz Ulaştırması Genel Müdürlüğü Ana Arama Kurtarma Koordinasyon Merkezi'nden yapılan yazılı açıklamada ,Zeytinburnu'nun 2 mil açığında ,Kartal Zeytinburnu seferini yapmakta olan 335 grostonluk DD 1 adlı ro ro gemisinin kapaklarından su alması sonucunda saat 22 .05'te batmaya başladığı belirtildi .</sentence>
+<sentence num="2">Açıklamada ,olay yerine giden Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'ne ait 6 no'lu bot tarafından 8 kazazedenin kurtarılarak ,Harem Deniz Polisi'ne teslim edildiği kaydedildi .</sentence>
+<sentence num="3">Geminin su almaya devam ederek ,Zeytinburnu'nun 2 mil açığında battığı ,gemide bulunan 7 adet dolu LPG kamyonunun ise su üzerinde sürüklendiği ve tehlike arz ettiği bildirilen açıklamada ,KEGKİ Genel Müdürlüğü ,İstanbul Bölge Müdürlüğü ve İstanbul Liman Başkanlığı'nın olaya müdahil olduğu belirtildi .</sentence>
+<sentence num="4">Açıklamada ,söz konusu LPG kamyonları için Kıyı Emniyeti'ne ait 6 ,8 ve 10 no'lu botlar ile Söndüren 5 römorkörünün olay yerinde hazır bulunduğu kaydedildi .(</sentence>
+<sentence num="5">A .</sentence>
+<sentence num="6">A .).</sentence>
+</doc>
+<doc>
+<id>40996</id>
+<sentence num="0">2005 03 13 01 :21 :00 .Batan gemideki 4'ü dolu 7 LPG tankeri denizde sürükleniyor ,sahil yolu kapatıldı .</sentence>
+<sentence num="1">Batan gemideki 4'ü dolu 7 LPG tankeri denizde sürükleniyor ,sahil yolu kapatıldı Zeytinburnu açıklarında batan DD1 adlı ro ro gemisinin Zeytinburnu Kartal arasında araç taşıyan bir gemi olduğu bildirildi .</sentence>
+<sentence num="2">Geminin batması ile gemide bulunan 7 LPG tankerinin denizde sürüklendiği ve bu tankerlerden 4'ünün dolu olduğu kaydedilirken ,tankerlerin kıyıya doğru sürüklendiği ihbarı üzerine Sahil Yolu trafiğe kapatıldı .</sentence>
+<sentence num="3">Başbakanlık Denizcilik Müsteşarlığı Deniz Ulaştırması Genel Müdürlüğü Ana Arama Kurtarma Koordinasyon Merkezi'nden yapılan yazılı açıklamaya göre ,Zeytinburnu'nun 2 mil açığında ,Kartal Zeytinburnu seferini yapmakta olan 335 grostonluk DD 1 adlı ro ro gemisi ,kapaklarından su alması sonucu saat 22 :05'te batmaya başladı .</sentence>
+<sentence num="4">Bunun üzerine olay yerine giden Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'ne ait 6 No'lu bot tarafından gemideki 8 kazazede kurtarılarak ,Harem Deniz Polisi'ne teslim edildi .</sentence>
+<sentence num="5">Açıklamada ,geminin daha sonra su almaya devam ederek Zeytinburnu'nun 2 mil açığında battığı ,gemide bulunan 7 adet dolu LPG kamyonunun su üzerinde sürüklendiği ve tehlike arz ettiği bildirildi .</sentence>
+<sentence num="6">KEGKİ Genel Müdürlüğü ,İstanbul Bölge Müdürlüğü ve İstanbul Liman Başkanlığı'nın olaya müdahil olduğu kaydedilen açıklamada ,söz konusu LPG kamyonları için Kıyı Emniyeti'ne ait 6 ,8 ve 10 no'lu botlar ile Söndüren 5 römorkörünün olay yerinde hazır bulunduğu kaydedildi .</sentence>
+<sentence num="7">Geminin batması nedeniyle bölgede oluşabilecek tehlikeli durumlara karşın çok sayıda itfaiye ekibi Sahil Yolu'nda hazır bekletiliyor .</sentence>
+<sentence num="8">Bölgedeki belediyelere ait itfaiye araçları da kilit noktalarda konuşlandırıldı .</sentence>
+<sentence num="9">Öte yandan ,kurtarma ekipleri de denizdeki çalışmalarını sürdürüyor .</sentence>
+</doc>
+<doc>
+<id>41002</id>
+<sentence num="0">2005 03 13 01 :45 :00 .LPG tankerleri Kumkapı balıkçı barınağına doğru sürükleniyor .</sentence>
+<sentence num="1">LPG tankerleri Kumkapı balıkçı barınağına doğru sürükleniyor Zeytinburnu açıklarında batan ro ro gemisindeki 7 adet dolu LPG kamyonunun ,2 grup halinde Kumkapı balıkçı barınağına doğru sürüklendikleri bildirildi .</sentence>
+<sentence num="2">Başbakanlık Denizcilik Müsteşarlığı Deniz Ulaştırması Genel Müdürlüğü Ana Arama Kurtarma Koordinasyon Merkezi'nden yapılan yazılı açıklamada ,kazanın ardından Kıyı Emniyeti ve Gemi Kurtarma İşletme Genel Müdürlüğü'nde ,İstanbul Bölge Müdürlüğü ve İstanbul Liman Başkanlığı'nın iştirakiyle kriz merkezi oluşturulduğu belirtildi .</sentence>
+<sentence num="3">Olaya yeterince römorkör ve deniz vasıtasıyla müdahale etmek üzere tedbirlerin alındığı kaydedildi .</sentence>
+<sentence num="4">Açıklamada ,batan gemideki tankerlerin 3'lü ve 4'lü iki grup halinde ,kıyıya yaklaşık 700 metre mesafede ,Kumkapı balıkçı barınağına doğru sürüklenmeye devam ettikleri bildirildi .</sentence>
+<sentence num="5">Öte yandan ,kazanın ardından kurtarılarak Harem tahlisiye istasyonuna götürülen kazazedelerin isimleri şöyle :Kaptan Mehmet Telli ,mürettebat Abdurrahman Dalkılıç ,Serhat Balcı ,Muharrem Kılıç ve Şükrü Yavuz ,şoförler Kadir Akbaş ,Adem Kartalmış ve soyadı belirlenemeyen Mehmet adlı kişi .</sentence>
+</doc>
+<doc>
+<id>41004</id>
+<sentence num="0">2005 03 13 02 :03 :00 .Su üzerindeki LPG tankerleri halatlarla bağlandı .</sentence>
+<sentence num="1">Su üzerindeki LPG tankerleri halatlarla bağlandı Zeytinburnu açıklarında batan ro ro gemisindeki LPG kamyonları ,halatlar ve ağlarla bağlanarak kıyıya vurmaları önlenmeye çalışılıyor .</sentence>
+<sentence num="2">Büyükşehir Belediyesi Afet Koordinasyon Merkezi'nden (AKOM )yapılan yazılı açıklamada ,kazanın ardından İstanbul Valiliği ,Büyükşehir Belediyesi ve AKOM'un alarma geçerek önleyici tedbirler aldığı belirtildi .</sentence>
+<sentence num="3">Batan gemide bulunan ve su üzerinde sürüklenen her biri 22 tonluk 7 adet LPG kamyonunun ,halatlar ve ağlarla bağlanarak ,kıyıya vurmalarının önlenmesine çalışıldığı kaydedildi .</sentence>
+<sentence num="4">Açıklamada ,İstanbul Valisi Muammer Güler ile Büyükşehir Belediye Başkanı Kadir Topbaş'ın bölgeye giderek çalışmaları yürüttüğü bildirildi .</sentence>
+</doc>
+<doc>
+<id>41006</id>
+<sentence num="0">2005 03 13 03 :08 :00 .Sürüklenen 4 tanker kıyıya ulaştı .</sentence>
+<sentence num="1">Sürüklenen 4 tanker kıyıya ulaştı Zeytinburnu açıklarında batan ro ro gemisinde bulunan ve denizde sürüklenen 7 tankerden 4'ünün kıyıya ulaştığı öğrenildi .</sentence>
+<sentence num="2">Cankurtaran Sahili'ne ulaşan LPG dolu tankerlerin ,dalgaların etkisiyle kıyıya çarptığı belirtildi .</sentence>
+<sentence num="3">Bu bölgeye ,İGDAŞ ve itfaiye ekipleri sevk edilirken ,herhangi bir patlama ihtimaline karşı basın mensupları olay yerine yaklaştırılmıyor .</sentence>
+</doc>
+<doc>
+<id>41008</id>
+<sentence num="0">2005 03 13 03 :41 :00 .Yıldırım botla gittiği kaza bölgesinde incelemelerde bulundu .</sentence>
+<sentence num="1">Yıldırım botla gittiği kaza bölgesinde incelemelerde bulundu Ulaştırma Bakanı Binali Yıldırım ,Harem Tahlisiye İstasyonu'ndan botla gittiği kaza bölgesinde incelemelerde bulundu .</sentence>
+<sentence num="2">Harem Tahlisiye İstasyonu'nda yetkililerden kaza hakkında bilgi alan Bakan Yıldırım ,daha sonra Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'ne ait ''Kıyı Emniyeti 5 ''adlı botla ,ro ro gemisinin battığı bölgeye gitti .</sentence>
+<sentence num="3">Buradaki incelemenin ardından Karaköy'deki KEGKİ Genel Müdürlüğü'ne geçen Bakan Yıldırım ,oluşturulan kriz masasında ,KEGKİ Gemi Kurtarma Daire Başkanı Ali Narcı ,KEGKİ Genel Müdürü Habib Soluk ,Genel Müdür Yardımcısı Salih Orakçı ,İstanbul Valisi Muammer Güler ,İstanbul Büyükşehir Belediye Başkanı Kadir Topbaş ve Emniyet Müdürü Celalettin Cerrah ile bir araya geldi .</sentence>
+</doc>
+<doc>
+<id>41009</id>
+<sentence num="0">2005 03 13 04 :35 :00 .Yıldırım :3 tanker karaya oturmuş durumda .</sentence>
+<sentence num="1">Yıldırım :3 tanker karaya oturmuş durumda Ulaştırma Bakanı Binali Yıldırım ,Zeytinburnu açıklarında batan gemiden denize düşen tankerlerden 3'ünün karaya oturmuş durumda ,2'sinin ise açıkta kontrol altında olduğunu bildirdi .</sentence>
+<sentence num="2">Yıldırım ,Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nde ,gazetecilere yaptığı açıklamada ,şu anda ekiplerin denizde tüm imkanlarını kullanarak ,tankerlerden kaynaklanan herhangi bir tehlike olmaması için durumu kontrol altında tutmaya çalıştıklarını söyledi .</sentence>
+</doc>
+<doc>
+<id>41011</id>
+<sentence num="0">2005 03 13 05 :12 :00 .Batan gemiden düşen tankerlerin 5'i kontrol altına alındı .</sentence>
+<sentence num="1">Batan gemiden düşen tankerlerin 5'i kontrol altına alındı Zeytinburnu açıklarında batan gemiden denize düşerek sürüklenen 7 tankerden 5'i kontrol altına alındı ,2 tankerle ilgili çalışmalar ise sürüyor .</sentence>
+<sentence num="2">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden alınan bilgiye göre ,batan ro ro gemisinden denize düşen ve sürüklenen LPG tankerlerinden 4'ü kıyıya vurduğu Ahırkapı'da kontrol altına alındı .</sentence>
+<sentence num="3">Tankerlerden biri de Haydarpaşa rıhtımında kontrol altında tutuluyor .</sentence>
+<sentence num="4">Boğazda sürüklenmeye devam eden 2 tanker ise KEGKİ'ye bağlı botlar tarafından kontrol altına alınmaya çalışılıyor .</sentence>
+<sentence num="5">Bu arada ,Ahırkapı'daki tankerler için olay yerine vinç istendiği öğrenildi .</sentence>
+</doc>
+<doc>
+<id>41015</id>
+<sentence num="0">2005 03 13 06 :31 :00 .İstanbul'da LPG Yüklü Gemi Battı .</sentence>
+<sentence num="1">İstanbul Zeytinburnu açıklarında 22'şer tonluk 7 adet LPG tankeri yüklü Ro Ro gemisi battı .</sentence>
+<sentence num="2">Denizde sürüklenen tankerlerden 4'ü Haydarpaşa'ya çekilirken ,3'ünün alınması için operasyon yapılıyor .</sentence>
+<sentence num="3">Kaza nedeniyle İstanbul Boğazı transit gemi geçişlerine kapatıldı .</sentence>
+<sentence num="4">Sahil yolu da araç trafiğine kapalı tutuluyor .</sentence>
+<sentence num="5">İptal edilen şehir hatları vapur seferleri Kadıköy ve Haydarpaşa bağlantılı olanlar dışında yeniden başlandı .</sentence>
+<sentence num="6">Kartal'dan Zeytinburnu Limanı'na giden 335 grostonluk DD 1 adlı Ro Ro gemisi kapaklarından su alması sonucu saat 22 sıralarında batmaya başladı .</sentence>
+<sentence num="7">Geminin 8 personeli Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü ekiplerince kurtarıldı .</sentence>
+<sentence num="8">Su almaya devam eden gemi ,Yenikapı'nın 2 mil açığında battı .</sentence>
+<sentence num="9">Gemide bulunan LPG dolu 7 tanker denizde sürüklenmeye başladı .</sentence>
+<sentence num="10">Halatlar ve ağlarla bağlanarak ,kıyıya vurmaları önlenmeye çalışılan tankerlerden 4'ü Haydarpaşaya çekildi .</sentence>
+<sentence num="11">Tankerlerden üçü ise Ahırkapı kıyılarına vurdu ..</sentence>
+<sentence num="12">Bunların birisinden gaz sızıntısı olduğu belirtildi .</sentence>
+<sentence num="13">İstanbul Boğazı ,kazanın ardından transit gemi geçişlerine kapatıldı .</sentence>
+<sentence num="14">Sahil Yolu'nun Sirkeci'den Yeşilköy Kavşağı'na kadar olan kısmı çift yönlü olarak araç trafiğine kapalı tutuluyor .</sentence>
+<sentence num="15">Sahil bölgesinde aydınlatma da kesildi .</sentence>
+<sentence num="16">Eskihisar Topçular araba vapuru seferleri dışındaki bütün şehir hatları vapur seferleri de bir süre iptal edildi .</sentence>
+<sentence num="17">Ulaştırma Bakanı Binali Yıldırım ,Harem Tahlisiye İstasyonu'ndan botla gittiği kaza bölgesinde incelemelerde bulundu .</sentence>
+<sentence num="18">Daha sonra Karaköy'deki Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü'ne geçen Bakan Yıldırım ,oluşturulan kriz masasında ,Vali Muammer Güler ,Büyükşehir Belediye Başkanı Kadir Topbaş ,Emniyet Müdürü Celalettin Cerrah ve diğer yetkililerle biraraya geldi .</sentence>
+<sentence num="19">Bakan Yıldırım ,karadan ve denizden her türlü tedbirin alındığını bildirdi .</sentence>
+</doc>
+<doc>
+<id>41034</id>
+<sentence num="0">2005 03 13 09 :30 :00 .İstanbul facianın eşiğinden döndü ...</sentence>
+<sentence num="1">Zeytinburnu açıklarında Kartal Zeytinburnu seferini yapan ro ro gemisi dün gece kapaklarından su alarak battı .</sentence>
+<sentence num="2">Gemide bulunan 8 kişi kurtarılırken ,7 adet dolu LPG tankeri su üzerinde sürüklenerek büyük tehlike yarattı .</sentence>
+<sentence num="3">Ekiplerin gece boyunca devam eden yoğun çalışmaları sonucu tankerler kontrol altına alındı .</sentence>
+<sentence num="4">Boğaz transit gemi geçişlerine kapatıldı .</sentence>
+<sentence num="5">Sahil Yolu'nun Sirkeci'den Yeşilköy Kavşağı'na kadar olan kısmı da sahile vuran tanklar nedeniyle çift yönlü olarak araç trafiğine kapatıldı .</sentence>
+<sentence num="6">Yetkililer ,tankların her birinde 22 ton LPG bulunduğunu hatırlatarak ,olası bir patlama durumunda yaklaşık 3 kilometrekarelik bir alanın etkileneceğine dikkat çektiler .?</sentence>
+<sentence num="7">Ulaştırma Bakanlığı :Gemi izin saatleri dışında hareket etmiş ?</sentence>
+<sentence num="8">Gemi kazası ...</sentence>
+<sentence num="9">Tankerlerden birinde sızıntı başladı .?</sentence>
+<sentence num="10">Gemi Kazası ...</sentence>
+<sentence num="11">Tankerler Haydarpaşa'ya çekilecek Başbakanlık Denizcilik Müsteşarlığı Deniz Ulaştırması Genel Müdürlüğü Ana Arama Kurtarma Koordinasyon Merkezi'nden yapılan yazılı açıklamada ,Zeytinburnu'nun 2 mil açığında ,Kartal Zeytinburnu seferini yapmakta olan 335 grostonluk DD 1 adlı ro ro gemisinin kapaklarından su alması sonucu saat 22 .05'te batmaya başladığı belirtildi .</sentence>
+<sentence num="12">Olay yerine giden Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'ne ait 6 no'lu bot tarafından 8 kazazedenin kurtarılarak ,Harem Deniz Polisi'ne teslim edildiği kaydedildi .</sentence>
+<sentence num="13">Geminin su almaya devam ederek ,Zeytinburnu'nun 2 mil açığında battığı ,gemide bulunan 7 adet dolu LPG kamyonunun su üzerinde sürüklendiği ve tehlike arz ettiği bildirilen açıklamada ,KEGKİ Genel Müdürlüğü ,İstanbul Bölge Müdürlüğü ve İstanbul Liman Başkanlığı'nın olaya müdahil olduğu belirtildi .</sentence>
+<sentence num="14">BAKAN :İŞLETMECİLİK HATASI Ulaştırma Bakanı Binali Yıldırım ,Harem Tahlisiye İstasyonu'ndan botla gittiği kaza bölgesinde incelemelerde bulundu .</sentence>
+<sentence num="15">Bakan Yıldırım ,kazanın oluşumunu şöyle anlattı :''Gemi ,Zeytinburnu Zeyport iskelesine yakın bir mesafede ,A 4 demirleme sahası içerisinde yük kayması sonucu ,yani aşırı rüzgardan dolayı kamyon kayınca kapıya vuruyor .</sentence>
+<sentence num="16">Kapağın zincirini koparınca kapak düşüyor ve geminin üzerindeki tanker kayıp denize yuvarlanıyor .</sentence>
+<sentence num="17">Güverteye su doluyor ve araçların hepsi kayıp dökülüyor .</sentence>
+<sentence num="18">Gemi de batıyor .''</sentence>
+<sentence num="19">Kazanın işletmecilik hatasından kaynaklandığını dile getiren Yıldırım ,''Doğru tedbir alınması ,bu havalarda bu tip küçük gemilerde kamyonların bağlanması veya denize çıkmamak lazım ''dedi .</sentence>
+<sentence num="20">Olaya ilişkin basın mensuplarına açıklama yapan İstanbul Valisi Muammer Güler ise ,kendi ağırlığı 18 ton olan tankerlerin her birinde 22 ton LPG bulunduğunu belirterek ,tehlikenin boyutu hakkında fikir verdi .</sentence>
+<sentence num="21">TANKERLER KONTROL ALTINA ALINDI Sabaha kadar süren çalışmalar sonucu gemiden dağılan tankerlerin hepsi kontrol altına alındı .</sentence>
+<sentence num="22">Kayalıklara vuran tankerlernden birinin delindiği öğrenildi .</sentence>
+<sentence num="23">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden alınan bilgiye göre ,batan gemiden denize düşen 7 LPG tankından 1'inin ilk aşamada Haydarpaşa İskelesi'ne çekilmesinden sonra denizde bulunan diğer tankların da kontrol altına alınması için çalışmalar başlatıldı .</sentence>
+<sentence num="24">Çalışmalar sonucu ,denizde sürüklenen 2 tank da kontrol altına alınarak ,aynı yere götürüldü .</sentence>
+<sentence num="25">Denizde kalan son tankın da kontrol altına alındığı ve Haydarpaşa Limanı'na doğru çekildiği belirtildi .</sentence>
+<sentence num="26">Bu arada ,denize düştükten sonra Ahırkapı açıklarında kıyıya vuran diğer 3 tanktan 1'inin kayalıklara çarparak delindiği ve içindeki LPG'nin boşaldığı öğrenildi .</sentence>
+<sentence num="27">Aynı yerde dolu halde olan ve her birinde 22 ton LPG bulunduğu belirtilen 2 tank ise herhangi bir patlama ya da yangın çıkma ihtimaline karşın olay yerine gelen itfaiye ekiplerince kontrol altında tutuluyor .?</sentence>
+<sentence num="28">Şehir hatları vapur seferleri normale döndü ...?</sentence>
+<sentence num="29">Başkan Topbaş :Tankerler kotrol altında ,şu an problem kalmadı SERSERİ TANKERLER İÇİN KIYIDA ÖNLEM ALINDI ,SAHİL YOLU TRAFİĞE KAPATILDI Denizde sürüklenerek büyük tehlike yaratan LPG tankerleri ,halatlar ve ağlarla bağlanarak kıyıya vurmaları önlenmeye çalışıldı .</sentence>
+<sentence num="30">Tankerlerin kıyıya yaklaşmaması için de tampon maddeler yerleştirildi .</sentence>
+<sentence num="31">Geminin taşıdığı 7 adet dolu LPG kamyonunun su üzerinde sürüklenerek tehlike arz etmesi üzerine ,İstanbul Boğazı'nın transit gemi geçişlerine kapatılması kararlaştırıldı .</sentence>
+<sentence num="32">Batan gemiden denize düşen bazı LPG tanklarının Ahırkapı açıklarında kıyıya vurması ve olası bir patlama ya da yangın ihtimaline karşın Yenikapı ile Sirkeci arasındaki sahil yolu araç trafiğine kapalı bulunuyor .</sentence>
+<sentence num="33">Ambulanslar ile itfaiye ekipleri ,Sahil Yolu'na çıkan kavşaklarda önlem olarak bekletildi .</sentence>
+<sentence num="34">Zeytinburnu'nun sahil kesiminde bulunan deniz araçları ile demir mevkiinde olan gemiler de herhangi bir tehlikeye karşı kaldırıldı .</sentence>
+<sentence num="35">VAPUR VE DENİZ OTOBÜSÜ SEFERLERİ YAPILAMADI İstanbul Boğazı ,kazanın ardından transit gemi geçişlerine çift yönlü olarak kapatıldı .</sentence>
+<sentence num="36">Şehir Hatları İşletmesi ve İDO da seferleri de tehlike geçene kadar durdurdu .</sentence>
+<sentence num="37">Geminin taşıdığı 7 adet dolu LPG kamyonunun su üzerinde sürüklenerek tehlike arz etmesi üzerine ,İstanbul Boğazı'nın transit gemi geçişlerine kapatılması kararlaştırıldı .</sentence>
+<sentence num="38">Şehir Hatları İşletmesi'ne bağlı vapurlarla ,deniz otobüsleri emniyetli geçiş sağlanana kadar yapılamadı .?</sentence>
+<sentence num="39">Boğaz'da bir başka gemi kazası ...</sentence>
+<sentence num="40">Karaya oturan gemi ,kurtuldu ?</sentence>
+<sentence num="41">Bakandan acı itiraf :Ulla gemisinin verdiği zararı saptayamayız .</sentence>
+</doc>
+<doc>
+<id>41035</id>
+<sentence num="0">2005 03 13 09 :33 :00 .Denizde sürüklenen 2 LPG tankı daha kontrol altına alındı .</sentence>
+<sentence num="1">Denizde sürüklenen 2 LPG tankı daha kontrol altına alındı Zeytinburnu açıklarında batan gemiden denize düşerek sürüklenen 7 LPG tankından 2'si daha kontrol altına alınarak Haydarpaşa Limanı'na çekildi .</sentence>
+<sentence num="2">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden alınan bilgiye göre ,batan gemiden denize düşen 7 LPG tankından 1'inin ilk aşamada Haydarpaşa İskelesi'ne çekilmesinden sonra denizde bulunan diğer tankların da kontrol altına alınması için çalışmalar başlatıldı .</sentence>
+<sentence num="3">Çalışmalar sonucu ,denizde sürüklenen 2 tank da kontrol altına alınarak ,aynı yere götürüldü .</sentence>
+<sentence num="4">Denizde kalan son tankın da kontrol altına alındığı ve Haydarpaşa Limanı'na doğru çekildiği belirtildi .</sentence>
+<sentence num="5">Bu arada ,denize düştükten sonra Ahırkapı açıklarında kıyıya vuran diğer 3 tanktan 1'inin kayalıklara çarparak delindiği ve içindeki LPG'nin boşaldığı öğrenildi .</sentence>
+</doc>
+<doc>
+<id>41098</id>
+<sentence num="0">2005 03 13 11 :15 :00 .Şehir hatları vapur seferleri normale döndü ...</sentence>
+<sentence num="1">Zeytinburnu açıklarında batan gemideki LPG tanklarının denizde sürüklenmesi nedeniyle iptal edilen Şehir Hatları Vapur seferleri ,Kadıköy ve Haydarpaşa bağlantılı olanların dışında yeniden başladı .</sentence>
+<sentence num="2">Şehir Hatları İşletmesi'nden alınan bilgiye göre ,LPG tanklarının kontrol altına alınması üzerine Üsküdar Beşiktaş ,Eminönü Üsküdar ve boğaz hattı vapur seferleri normale döndü .</sentence>
+<sentence num="3">Ancak Kadıköy ,Haydarpaşa ve mendireği içinin deniz ulaşımına kapalı tutulmasından dolayı burayla bağlantılı seferler henüz yapılamıyor .</sentence>
+<sentence num="4">Bu arada ,Zeytinburnu açıklarında batan ''DD 1 ''adlı geminin yaklaşık 60 metre derinlikte olduğu ve diğer gemileri tehlikeye düşürmeyeceği belirtildi .</sentence>
+</doc>
+<doc>
+<id>41099</id>
+<sentence num="0">2005 03 13 11 :15 :00 .Kadıköy ve Haydarpaşa dışındaki şehir hatları normale döndü .</sentence>
+<sentence num="1">Kadıköy ve Haydarpaşa dışındaki şehir hatları normale döndü Zeytinburnu açıklarında batan gemideki LPG tanklarının denizde sürüklenmesi nedeniyle iptal edilen Şehir Hatları Vapur seferleri ,Kadıköy ve Haydarpaşa bağlantılı olanların dışında yeniden başladı .</sentence>
+<sentence num="2">Şehir Hatları İşletmesi'nden alınan bilgiye göre ,LPG tanklarının kontrol altına alınması üzerine Üsküdar Beşiktaş ,Eminönü Üsküdar ve boğaz hattı vapur seferleri normale döndü .</sentence>
+<sentence num="3">Ancak Kadıköy ,Haydarpaşa ve mendireği içinin deniz ulaşımına kapalı tutulmasından dolayı burayla bağlantılı seferler henüz yapılamıyor .</sentence>
+<sentence num="4">Bu arada ,Zeytinburnu açıklarında batan ''DD 1 ''adlı geminin yaklaşık 60 metre derinlikte olduğu ve diğer gemileri tehlikeye düşürmeyeceği belirtildi .</sentence>
+</doc>
+<doc>
+<id>41130</id>
+<sentence num="0">2005 03 13 12 :15 :00 .Yine facianın eşiğinden döndük !</sentence>
+<sentence num="1">Gemide bulunan 8 kişi erken müdahale sonucu kurtarıldı .</sentence>
+<sentence num="2">Ekiplerin gece boyunca devam eden yoğun çalışmaları sonucu tankerler kontrol altına alındı .</sentence>
+<sentence num="3">Boğaz transit gemi geçişlerine kapatıldı .</sentence>
+<sentence num="4">Sahil Yolu'nun Sirkeci'den Yeşilköy Kavşağı'na kadar olan kısmı da sahile vuran tanklar nedeniyle çift yönlü olarak araç trafiğine kapatıldı .</sentence>
+<sentence num="5">Yetkililer ,tankların her birinde 22 ton LPG bulunduğunu hatırlatarak ,olası bir patlama durumunda yaklaşık 3 kilometrekarelik bir alanın etkileneceğine dikkat çektiler .</sentence>
+<sentence num="6">Başbakanlık Denizcilik Müsteşarlığı Deniz Ulaştırması Genel Müdürlüğü Ana Arama Kurtarma Koordinasyon Merkezi'nden yapılan yazılı açıklamada ,Zeytinburnu'nun 2 mil açığında ,Kartal Zeytinburnu seferini yapmakta olan 335 grostonluk DD 1 adlı ro ro gemisinin kapaklarından su alması sonucu saat 22 .05'te batmaya başladığı belirtildi .</sentence>
+<sentence num="7">Olay yerine giden Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'ne ait 6 no'lu bot tarafından 8 kazazedenin kurtarılarak ,Harem Deniz Polisi'ne teslim edildiği kaydedildi .</sentence>
+<sentence num="8">Geminin su almaya devam ederek ,Zeytinburnu'nun 2 mil açığında battığı ,gemide bulunan 7 adet dolu LPG kamyonunun su üzerinde sürüklendiği ve tehlike arz ettiği bildirilen açıklamada ,KEGKİ Genel Müdürlüğü ,İstanbul Bölge Müdürlüğü ve İstanbul Liman Başkanlığı'nın olaya müdahil olduğu belirtildi .</sentence>
+<sentence num="9">BAKAN :İŞLETMECİLİK HATASI Ulaştırma Bakanı Binali Yıldırım ,Harem Tahlisiye İstasyonu'ndan botla gittiği kaza bölgesinde incelemelerde bulundu .</sentence>
+<sentence num="10">Bakan Yıldırım ,kazanın oluşumunu şöyle anlattı :''Gemi ,Zeytinburnu Zeyport iskelesine yakın bir mesafede ,A 4 demirleme sahası içerisinde yük kayması sonucu ,yani aşırı rüzgardan dolayı kamyon kayınca kapıya vuruyor .</sentence>
+<sentence num="11">Kapağın zincirini koparınca kapak düşüyor ve geminin üzerindeki tanker kayıp denize yuvarlanıyor .</sentence>
+<sentence num="12">Güverteye su doluyor ve araçların hepsi kayıp dökülüyor .</sentence>
+<sentence num="13">Gemi de batıyor .''</sentence>
+<sentence num="14">Kazanın işletmecilik hatasından kaynaklandığını dile getiren Yıldırım ,''Doğru tedbir alınması ,bu havalarda bu tip küçük gemilerde kamyonların bağlanması veya denize çıkmamak lazım ''dedi .</sentence>
+<sentence num="15">Olaya ilişkin basın mensuplarına açıklama yapan İstanbul Valisi Muammer Güler ise ,kendi ağırlığı 18 ton olan tankerlerin her birinde 22 ton LPG bulunduğunu belirterek ,tehlikenin boyutu hakkında fikir verdi .</sentence>
+<sentence num="16">TANKERLER KONTROL ALTINA ALINDI Sabaha kadar süren çalışmalar sonucu gemiden dağılan tankerlerin hepsi kontrol altına alındı .</sentence>
+<sentence num="17">Kayalıklara vuran tankerlernden birinin delindiği öğrenildi .</sentence>
+<sentence num="18">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden alınan bilgiye göre ,batan gemiden denize düşen 7 LPG tankından 1'inin ilk aşamada Haydarpaşa İskelesi'ne çekilmesinden sonra denizde bulunan diğer tankların da kontrol altına alınması için çalışmalar başlatıldı .</sentence>
+<sentence num="19">Çalışmalar sonucu ,denizde sürüklenen 2 tank da kontrol altına alınarak ,aynı yere götürüldü .</sentence>
+<sentence num="20">Denizde kalan son tankın da kontrol altına alındığı ve Haydarpaşa Limanı'na doğru çekildiği belirtildi .</sentence>
+<sentence num="21">Bu arada ,denize düştükten sonra Ahırkapı açıklarında kıyıya vuran diğer 3 tanktan 1'inin kayalıklara çarparak delindiği ve içindeki LPG'nin boşaldığı öğrenildi .</sentence>
+<sentence num="22">Aynı yerde dolu halde olan ve her birinde 22 ton LPG bulunduğu belirtilen 2 tank ise herhangi bir patlama ya da yangın çıkma ihtimaline karşın olay yerine gelen itfaiye ekiplerince kontrol altında tutuluyor .</sentence>
+<sentence num="23">SERSERİ TANKERLER İÇİN KIYIDA ÖNLEM ALINDI ,SAHİL YOLU TRAFİĞE KAPATILDI Denizde sürüklenerek büyük tehlike yaratan LPG tankerleri ,halatlar ve ağlarla bağlanarak kıyıya vurmaları önlenmeye çalışıldı .</sentence>
+<sentence num="24">Tankerlerin kıyıya yaklaşmaması için de tampon maddeler yerleştirildi .</sentence>
+<sentence num="25">Geminin taşıdığı 7 adet dolu LPG kamyonunun su üzerinde sürüklenerek tehlike arz etmesi üzerine ,İstanbul Boğazı'nın transit gemi geçişlerine kapatılması kararlaştırıldı .</sentence>
+<sentence num="26">Batan gemiden denize düşen bazı LPG tanklarının Ahırkapı açıklarında kıyıya vurması ve olası bir patlama ya da yangın ihtimaline karşın Yenikapı ile Sirkeci arasındaki sahil yolu araç trafiğine kapalı bulunuyor .</sentence>
+<sentence num="27">Ambulanslar ile itfaiye ekipleri ,Sahil Yolu'na çıkan kavşaklarda önlem olarak bekletildi .</sentence>
+<sentence num="28">Zeytinburnu'nun sahil kesiminde bulunan deniz araçları ile demir mevkiinde olan gemiler de herhangi bir tehlikeye karşı kaldırıldı .</sentence>
+<sentence num="29">VAPUR VE DENİZ OTOBÜSÜ SEFERLERİ YAPILAMADI İstanbul Boğazı ,kazanın ardından transit gemi geçişlerine çift yönlü olarak kapatıldı .</sentence>
+<sentence num="30">Şehir Hatları İşletmesi ve İDO da seferleri de tehlike geçene kadar durdurdu .</sentence>
+<sentence num="31">Geminin taşıdığı 7 adet dolu LPG kamyonunun su üzerinde sürüklenerek tehlike arz etmesi üzerine ,İstanbul Boğazı'nın transit gemi geçişlerine kapatılması kararlaştırıldı .</sentence>
+<sentence num="32">Şehir Hatları İşletmesi'ne bağlı vapurlarla ,deniz otobüsleri emniyetli geçiş sağlanana kadar yapılamadı .</sentence>
+<sentence num="33">VAPUR SEFERLERİ NORMALE DÖNDÜ Zeytinburnu açıklarında batan gemideki LPG tanklarının denizde sürüklenmesi nedeniyle iptal edilen Şehir Hatları Vapur seferleri ,Kadıköy ve Haydarpaşa bağlantılı olanların dışında yeniden başladı .</sentence>
+<sentence num="34">Şehir Hatları İşletmesi'nden alınan bilgiye göre ,LPG tanklarının kontrol altına alınması üzerine Üsküdar Beşiktaş ,Eminönü Üsküdar ve boğaz hattı vapur seferleri normale döndü .</sentence>
+<sentence num="35">Ancak Kadıköy ,Haydarpaşa ve mendireği içinin deniz ulaşımına kapalı tutulmasından dolayı burayla bağlantılı seferler henüz yapılamıyor .</sentence>
+<sentence num="36">Bu arada ,Zeytinburnu açıklarında batan ''DD 1 ''adlı geminin yaklaşık 60 metre derinlikte olduğu ve diğer gemileri tehlikeye düşürmeyeceği belirtildi .</sentence>
+<sentence num="37">ULAŞTIRMA BAKANLIĞI :GEMİ İZİN SAATLERİNİN DIŞINDA HAREKET ETMİŞ Ulaştırma Bakanlığı Müsteşar Vekili Barış Tozer ,İstanbul Boğazı Zeytinburnu açıklarında yaşanan gemi kazasının ardından LPG yüklü tankların kontrol altına alındığını bildirerek ,Tehlike atlatıldı dedi .</sentence>
+<sentence num="38">Tozer ,konuyla ilgili son durum hakkında yaptığı basın toplantısında ,batan gemiden denize düşen 7 LPG tankından 5'inin minimum risk alanı olan Haydarpaşa Limanı'na çekildiğini söyledi .</sentence>
+<sentence num="39">Diğer 2 tankın ise Ahırkapı'da kıyıda tutulduğunu bildiren Tozer ,Hava ve deniz şartları nedeniyle tanklar denizden çekilemiyor ,ancak aralıklarla deniyoruz dedi .</sentence>
+<sentence num="40">Tozer ,tankların çok güvenli olduğuna dikkat çekerek ,olası bir patlama ihtimaline karşın bölgenin karadan 300 metrekarelik alanının boşaltıldığını ifade etti .</sentence>
+<sentence num="41">Geminin yasal belgelerinin şu an için uygun olarak göründüğünü belirten Tozer ,izin saatleri dışında yapılan nakil için ,İstanbul Liman Başkanlığı'nın gerekli soruşturmayı başlattığını belirtti .</sentence>
+<sentence num="42">Tedbirlerin yanı sıra ,şansta etkili oldu diye konuşan Tozer ,tankların patlama ihtimalinin çok düşük olduğunu ama her türlü önlemin alındığını vurguladı .</sentence>
+<sentence num="43">BOĞAZDA 90 GEMİ BİRİKTİ Bakırköy Sahil Yolu ve İstanbul Boğazı'nın tankların tamamı denizden çıkarılıncaya kadar tedbir amaçlı olarak trafiğe kapalı tutulduğunu hatırlatan Tozer ,boğazın her iki yakasında 90 geminin biriktiğini bildirdi .</sentence>
+<sentence num="44">Söz konusu gemiler arasında dolu tankerler de olduğuna dikkat çeken Tozer ,Boğazın güvenliği açısından ulaşımın bir an önce normale döndürülmesine çalıştıklarını kaydetti .</sentence>
+<sentence num="45">Tozer toplam 138 ton LPG yüklü tankların ,birlikte patlaması küçük bir ihtimal bile olsa ,İstanbul'un büyük bir tehlike atlattığına dikkat çekti .</sentence>
+<sentence num="46">Tozer ,çalışmaların devam ettiğini bildirirken Hayatını tehlikeye atarak çalışan personele teşekkür ediyorum dedi .</sentence>
+</doc>
+<doc>
+<id>41133</id>
+<sentence num="0">2005 03 13 12 :16 :00 .Boğaz'da faciadan dönüldü .</sentence>
+<sentence num="1">Saat :11 .50 Zeytinburnu açıklarında bir gemi battı haberi geldi .</sentence>
+<sentence num="2">Saat :00 .15 Zeytinburnu'nun yaklaşık 2 mil açığında batan DD 1 adlı ro ro gemisinin taşıdığı 7 adet dolu LPG kamyonu ,su üzerinde sürüklenerek tehlike arz etmeye başladı .</sentence>
+<sentence num="3">İstanbul Boğazı'nın transit gemi geçişlerine kapatılması kararlaştırıldı .</sentence>
+<sentence num="4">Saat :01 .</sentence>
+<sentence num="5">30 Zeytinburnu açıklarında batan ro ro gemisindeki 7 adet dolu LPG kamyonunun ,2 grup halinde Kumkapı balıkçı barınağına doğru sürüklendikleri bildirildi .</sentence>
+<sentence num="6">Saat :02 :00 Zeytinburnu açıklarında batan ro ro gemisindeki LPG kamyonları ,halatlar ve ağlarla bağlanarak kıyıya vurmaları önlenmeye çalışılıyor .</sentence>
+<sentence num="7">Saat :03 :04 İstanbul Valisi Muammer Güler ,Zeytinburnu açıklarında batan ro ro gemisinden sürüklenen 7 adet LPG tankeriyle ilgili olarak ,''İnşallah bir çarpma olmadan ,tankerlerin hepsini bir araya getirerek ,bağlayarak herhangi bir kazaya mahal vermemeye çalışıyoruz ''dedi .</sentence>
+<sentence num="8">Saat :03 :09 Zeytinburnu açıklarında batan ro ro gemisinde bulunan ve denizde sürüklenen 7 tankerden 4'ünün kıyıya ulaştığı öğrenildi .</sentence>
+<sentence num="9">Cankurtaran Sahili'ne ulaşan LPG dolu tankerlerin ,dalgaların etkisiyle kıyıya çarptığı belirtildi .</sentence>
+<sentence num="10">Saat :03 :43 Ulaştırma Bakanı Binali Yıldırım ,Harem Tahlisiye İstasyonu'ndan botla gittiği kaza bölgesinde incelemelerde bulundu .</sentence>
+<sentence num="11">Harem Tahlisiye İstasyonu'nda yetkililerden kaza hakkında bilgi alan Bakan Yıldırım ,daha sonra Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'ne ait ''Kıyı Emniyeti 5 ''adlı botla ,ro ro gemisinin battığı bölgeye gitti .</sentence>
+<sentence num="12">Saat :04 :35 Ulaştırma Bakanı Binali Yıldırım ,Zeytinburnu açıklarında batan gemiden denize düşen tankerlerden 3'ünün karaya oturmuş durumda ,2'sinin ise açıkta kontrol altında olduğunu bildirdi .</sentence>
+<sentence num="13">Yıldırım ,Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nde ,gazetecilere yaptığı açıklamada ,şu anda ekiplerin denizde tüm imkanlarını kullanarak ,tankerlerden kaynaklanan herhangi bir tehlike olmaması için durumu kontrol altında tutmaya çalıştıklarını söyledi .</sentence>
+<sentence num="14">Bakan Yıldırım ,şöyle devam etti :''Şu anda 3 adet tanker karaya oturmuş ,sahile dorselerinden yaslanmış durumda .</sentence>
+<sentence num="15">2'si Ahırkapı civarında ,2'si boğaz ağzında denizde yüzüyor .</sentence>
+<sentence num="16">Bunlardan 2'si yine açıkta kontrol altında .</sentence>
+<sentence num="17">Çalışmalar devam ediyor .</sentence>
+<sentence num="18">Ancak kötü hava koşulları da artarak devam ediyor .</sentence>
+<sentence num="19">Bu da arkadaşların çalışma şartlarını zorlaştırıyor .</sentence>
+<sentence num="20">Valilik ve büyükşehir belediyemiz kara tarafında gerekli tedbirleri aldı .</sentence>
+<sentence num="21">Kara trafiği kesildi .</sentence>
+<sentence num="22">Ayrıca ,herhangi bir patlama ve yangın ihtimaline karşı da karadan gerekli tedbirler alındı .''</sentence>
+<sentence num="23">Saat :05 :12 Zeytinburnu açıklarında batan gemiden denize düşerek sürüklenen 7 tankerden 5'i kontrol altına alındı ,2 tankerle ilgili çalışmalar ise sürüyor .</sentence>
+<sentence num="24">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden alınan bilgiye göre ,batan ro ro gemisinden denize düşen ve sürüklenen LPG tankerlerinden 4'ü kıyıya vurduğu Ahırkapı'da kontrol altına alındı .</sentence>
+<sentence num="25">Tankerlerden biri de Haydarpaşa rıhtımında kontrol altında tutuluyor .</sentence>
+<sentence num="26">Boğazda sürüklenmeye devam eden 2 tanker ise KEGKİ'ye bağlı botlar tarafından kontrol altına alınmaya çalışılıyor .</sentence>
+<sentence num="27">Bu arada ,Ahırkapı'daki tankerler için olay yerine vinç istendiği öğrenildi .</sentence>
+<sentence num="28">Saat :09 .33 Zeytinburnu açıklarında batan gemiden denize düşerek sürüklenen 7 LPG tankından 2'si daha kontrol altına alınarak Haydarpaşa Limanı'na çekildi .</sentence>
+<sentence num="29">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden aldığı bilgiye göre ,batan gemiden denize düşen 7 LPG tankından 1'inin ilk aşamada Haydarpaşa İskelesi'ne çekilmesinden sonra denizde bulunan diğer tankların da kontrol altına alınması için çalışmalar başlatıldı .</sentence>
+<sentence num="30">Çalışmalar sonucu ,denizde sürüklenen 2 tank da kontrol altına alınarak ,aynı yere götürüldü .</sentence>
+<sentence num="31">Denizde kalan son tankın da kontrol altına alındığı ve Haydarpaşa Limanı'na doğru çekildiği belirtildi .</sentence>
+<sentence num="32">Bu arada ,denize düştükten sonra Ahırkapı açıklarında kıyıya vuran diğer 3 tanktan 1'inin kayalıklara çarparak delindiği ve içindeki LPG'nin boşaldığı öğrenildi .</sentence>
+<sentence num="33">Aynı yerde dolu halde olan ve her birinde 22 ton LPG bulunduğu belirtilen 2 tank ise herhangi bir patlama ya da yangın çıkma ihtimaline karşın olay yerine gelen itfaiye ekiplerince kontrol altında tutuluyor .</sentence>
+<sentence num="34">Haber7 .</sentence>
+</doc>
+<doc>
+<id>41154</id>
+<sentence num="0">2005 03 13 12 :53 :00 .Batan gemiden denize düşen 7 tanker kontrol altına alındı .</sentence>
+<sentence num="1">Batan gemiden denize düşen 7 tanker kontrol altına alındı İstanbul Büyükşehir Belediye Başkanı Kadir Topbaş ,Zeytinburnu açıklarında batan gemiden denize düşen 7 tankerin kontrol altına alındığını ve şu an bir problem kalmadığını söyledi .</sentence>
+<sentence num="2">Topbaş ,dün akşam Zeytinburnu'nun bir mil açıklarında ro ro tarzında bir geminin battığını ve gemide bulunan 4'ü büyük 7 likit gaz yüklü tankerin de denize düştüğünü hatırlattı .</sentence>
+<sentence num="3">Ekiplerin ,Sahil Güvenlik'le birlikte olay bölgesinde güvenlik önlemi aldığını kaydeden Topbaş ,4 tankerin lodosun tesiriyle Ahırkapı önlerinde karaya ulaştığını ,3 tanesinin de boğaz girişinde römorkörler tarafından yedeğe alınarak ,Haydarpaşa Mendireği'nin içine çekildiğini anlattı .</sentence>
+</doc>
+<doc>
+<id>41155</id>
+<sentence num="0">2005 03 13 12 :55 :00 .Başkan Topbaş :Tankerler kotrol altında ,şu an problem kalmadı .</sentence>
+<sentence num="1">İstanbul Büyükşehir Belediye Başkanı Kadir Topbaş ,Zeytinburnu açıklarında batan gemiden denize düşen 7 tankerin kontrol altına alındığını ve şu an bir problem kalmadığını söyledi .</sentence>
+<sentence num="2">Topbaş ,dün akşam Zeytinburnu'nun bir mil açıklarında ro ro tarzında bir geminin battığını ve gemide bulunan 4'ü büyük 7 likit gaz yüklü tankerin de denize düştüğünü hatırlattı .</sentence>
+<sentence num="3">Ekiplerin ,Sahil Güvenlik'le birlikte olay bölgesinde güvenlik önlemi aldığını kaydeden Topbaş ,4 tankerin lodosun tesiriyle Ahırkapı önlerinde karaya ulaştığını ,3 tanesinin de boğaz girişinde römorkörler tarafından yedeğe alınarak ,Haydarpaşa Mendireği'nin içine çekildiğini anlattı .</sentence>
+<sentence num="4">Topbaş ,şu an sadece Ahırkapı'daki 4 tankerden birisini kontrol altına alma çalışmalarının devam ettiğini belirterek ,''Batan gemiden denize düşen 7 tanker kontrol altına alındı .</sentence>
+<sentence num="5">Şu an problem kalmadı .</sentence>
+<sentence num="6">Şehir hatları trafiğe açık ''dedi .</sentence>
+<sentence num="7">Likit gaz yüklü bu tankerlerin lodosla birlikte karada patlamalara sebebiyet vermesinden endişelendiklerini dile getiren Topbaş ,şunları kaydetti :''Sızıntıya karşı tedbir olarak itfaiye konuşlandı .</sentence>
+<sentence num="8">Ayrıca sahil boyunca olası enerji akımının likit gazla buluşmasını önlemek için aydınlatmayı kapattık .</sentence>
+<sentence num="9">Denize batan gemiye ait 8 mürettebat da kurtarıldı .</sentence>
+<sentence num="10">Hiçbir sağlık problemi yok .</sentence>
+<sentence num="11">Mendirek içine alınan 3 tanker de akşam üzeri lodosun etkisini kaybetmesiyle birlikte Sahil Güvenlik ekipleri tarafından kaldırılarak başka bir noktaya götürülecek .''.</sentence>
+</doc>
+<doc>
+<id>41179</id>
+<sentence num="0">2005 03 13 14 :00 :00 .Ulaştırma Bakanlığı :Gemi izin saatleri dışında hareket etmiş .</sentence>
+<sentence num="1">Ulaştırma Bakanlığı Müsteşar Yardımcısı Barış Tozar ,Zeytinburnu açıklarında batan gemiden denize düşen LPG tankerleriyle ilgili bütün tedbirlerin alındığını belirterek ,''Çok şükür ki şu an itibariyle tehlike atlatılmıştır ''dedi .</sentence>
+<sentence num="2">Geminin yasal belgelerinin şu an için uygun olarak göründüğünü belirten Tozer ,izin saatleri dışında yapılan nakil için ,İstanbul Liman Başkanlığı'nın gerekli soruşturmayı başlattığını belirtti .</sentence>
+<sentence num="3">Tozar ,Acil Kriz Merkezi'nin kurulduğu Fındıklı'daki Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nde düzenlediği basın toplantısında ,dün akşam saat 22 .00 sularında ''DD1 ''isimli LPG yüklü TIR ve kamyon taşıyan geminin ,su aldığını ve batmakta olduğunu ihbar ettiğini söyledi .</sentence>
+<sentence num="4">İhbarı alan KEGKİ acil müdahale botlarının hızla hareket ettiğini ,çok zor hava koşulları altında burnu kanamadan son anda 8 gemiciyi ve denizciyi kurtardığını belirten Tozar ,''Bu en büyük sevincimiz olmuştur o an için ''dedi .</sentence>
+<sentence num="5">Gemi su alıp battıktan sonra 22 ton civarında LPG yüklü 5 TIR ile 14 ton civarında LPG yüklü 2 kamyondaki tankerlerin dolu şekilde Zeytinburnu'nun 1 1 .5 mil açığında Marmara Denizi'nde yüzmeye başladıklarını anlatan Tozar ,bütün botlar ve römorkörlerle harekete geçildiğini ,KEGKİ Genel Müdürlüğü binasında Acil Kriz Merkezi kurulduğunu söyledi .</sentence>
+<sentence num="6">Kriz merkezinin önce 4'lü ve 3'lü şekilde hareket eden kara tankerlerini izlemeye başladığını ,teker teker akıntıyla ilerledikleri noktaları hesapladıklarını ,bunların herhangi bir zarar oluşturmaması için bütün tedbirlerin alındığını kaydeden Barış Tozar ,gemiden denize düşen kamyon ve TIR'ların LPG yüklü olması ,akıntı ve rüzgarın Ahırkapı Yenikapı bölgesine doğru sürüklemesi nedeniyle öncelikle İstanbul Valiliği'nin bilgilendirildiğini ve emniyetle birlikte tüm sahil yolunun trafiğe kapatıldığını ,yerleşim ve eğlence noktalarının da boşaltıldığını bildirdi .</sentence>
+<sentence num="7">Barış Tozar ,çok zor hava şartları altında arkadaşlarının hiç uyumadan ,kendi hayatlarını tehlikeye atarak KEGKİ ve bizzat filodaki diğer gemi ve römorkörlerle birlikte öncelikle 3 tane tankerin Ahırkapı bölgesinde kontrollü bir şekilde karaya oturtulduğunu ve bunların kontrol altına alındığını söyledi .</sentence>
+<sentence num="8">4 TANKER HAYDARPAŞA LİMANI'NDA Daha sonra boğaz akıntısı ile ilerleyen 4 ayrı tankerin birlikte kontrol altında eskortlandığını ve bunların teker teker halatlarla önce birbirinden ayrılıp sonra yakalanıp bağlanarak Haydarpaşa Limanı'na çekildiğini belirten Barış Tozar ,şöyle devam etti :''Sabah 09 .00 itibariyle en son tanker bağlanmış ,zor hava şartlarında çekilerek Haydarpaşa Limanı 13 No'lu iskeleye bağlanmış ,kontrol altına alınmıştır .</sentence>
+<sentence num="9">Çok sevindirici bir olaydır .</sentence>
+<sentence num="10">3 tane tanker Ahırkapı'da kontrollü şekilde oturtulmuş ,3 tankerden bir tanesi sert hava şartları ve dalgalar nedeniyle kayalara çarparak delinmiş ,öncelikle bir gaz sızıntısı oluşmuştur .</sentence>
+<sentence num="11">Bunun için bütün itfaiye ekiplerimiz ,oradaki bütün sivil savunma ekiplerimiz harekete geçmiş ,ama çok şükür ki hiçbir sıkıntı olmadan gaz boşalması bitmiştir .</sentence>
+<sentence num="12">2 dolu bir boş tanker Ahırkapı açıklarındadır .</sentence>
+<sentence num="13">Kontrolümüz altındadır .</sentence>
+<sentence num="14">Şu anda hava şartları nedeniyle ,yaklaşık 2 3 metreye varan dalgalar nedeniyle bunlara denizden şu an için ulaşamıyoruz ,ama kontrol altındadır .</sentence>
+<sentence num="15">Karadan da ulaşılamıyor .</sentence>
+<sentence num="16">Fakat sevk ettiğimiz römorkörlerimiz ve botlarımızla en son roketlerle halat göndererek bu tankerleri bağlayıp tekrar denize çekip Haydarpaşa'ya birer birer kontrollü bir şekilde götürmeyi planlamaktayız .''</sentence>
+<sentence num="17">İstanbul Boğazı'nın tedbir amacıyla uğraksız geçişlere dün akşam saat 22 .45 itibariyle kapatıldığını ,bütün şehir hatları ve diğer yolcu motorlarına da sabah 10 .00'a kadar kapatıldığını ,daha sonra kontrollü olarak açıldığını belirten Barış Tozar ,şu anda Haydarpaşa mendireği içi kapalı tutulmak kaydıyla deniz trafiğinin uğraksız deniz geçişleri hariç açıldığını bildirdi .</sentence>
+<sentence num="18">Tozar ,kayaların üzerine oturtulan dolu tankerler nedeniyle sahil yolunun da hala kapalı durumda olduğunu söyledi .</sentence>
+<sentence num="19">90 GEMİ BİRİKTİ Ulaştırma Bakanlığı Müsteşar Yardımcısı Barış Tozar ,İstanbul Boğazı'nın transit geçişlere ne zaman açılacağına ilişkin bir soruyu da şöyle yanıtladı :''Benim bildiğim kuzeyde 50 ,güneyde 40 gemi birikmiş durumda .</sentence>
+<sentence num="20">Ahırkapı'da dolu 2 tanker var .</sentence>
+<sentence num="21">Bu tankerler tabii ki şu an için çok büyük bir tehdit olmasa da sonuçta bir tehdit ,dolu şekildeler .</sentence>
+<sentence num="22">Bunları en kısa sürede oradan alıp Haydarpaşa'ya geçirmemiz gerekiyor .</sentence>
+<sentence num="23">Bunu değerlendiriyoruz .</sentence>
+<sentence num="24">Şimdi gemilerimizi gönderip denemelerimizi yaptıktan sonra eğer şu andaki hava şartları içinde başarılı olamazsak ,bunları kontrol altında tutup trafiğe açmayı düşünüyoruz .</sentence>
+<sentence num="25">Eğer başarabilirsek çok kısa bir süre sonra yine trafiğe açacağız .''</sentence>
+<sentence num="26">Tozar ,LPG tankerlerinin patlamasının yol açabileceği zararlara ilişkin bir soru üzerine de ,''Herhangi bir tehlike olmaması için her türlü tedbiri almıştık .</sentence>
+<sentence num="27">Onun için ben biraz facia davetçiliği yapmak istemiyorum .</sentence>
+<sentence num="28">Ama çok şükür ki ,şu an itibariyle tehlike atlatılmıştır ''dedi .</sentence>
+<sentence num="29">HAVA DURUMU DA BİZDEN YANAYDI LPG'lerin ARGAZ firmasına ait olduğunu belirten Tozar ,Ahırkapı açıklarındaki tankerlerin patlama ihtimali olup olmadığının sorulması üzerine ,söz konusu tankerlerin sahipleri ile görüşüldüğünü ,tankerlerin delinmesi ve patlamasının milyonda bir ihtimal olduğunun söylendiğini ,ancak yine bütün alanı boşaltıp ,gerekli tedbirlerin alındığını bildirdi .</sentence>
+<sentence num="30">Tankerlerden birinin dün akşam delindiğini ,gazın atmosfere karıştığını belirten Tozar ,benzer durumda da aynı şeyin yaşanacağını tahmin ederek çalıştıklarını ,ancak bir şanslarının da havanın durumu olduğunu söyledi .</sentence>
+<sentence num="31">30 35 kilometre hızla esen rüzgarın 15 18 kilometreye düştüğünü ifade eden Tozar ,''Dalgalar akşam üzeri daha da düşecek .</sentence>
+<sentence num="32">Bu büyük bir şans diyelim ''dedi .</sentence>
+<sentence num="33">Tozar ,tehlikeli yüklerin gece 00 .</sentence>
+<sentence num="34">30 ile 06 .00 saatleri arası taşınması gerekirken kazanın söz konusu saatler dışında gerçekleştiğine dikkat çekilmesi üzerine ,yapılan düzenlemenin şehiriçinde tehlikeli yük taşıyan araçların İstanbul trafiğine girmemesiyle alakalı olduğunu ,gemi trafiğinin buna göre ayarlandığını belirtti .</sentence>
+<sentence num="35">ZAMAN TALİMATINA UYULMADI Liman başkanlıklarının bu konuda işletici firmaları ve işletme liman müdürlüklerini her türlü tedbiri almaları ve bu konuda uyum sağlamaları için 2 kez yazılı olarak uyardıklarını bildiklerini ifade eden Barış Tozar ,şöyle devam etti :''Bu olay 22 .00'de değil ,1'de 2'de de olabilirdi ,hava şartları kötüydü .</sentence>
+<sentence num="36">Bu gemi belki de bu hava şartında keşke hiç çıkmasaydı .</sentence>
+<sentence num="37">Saati şu açıdan önemliydi .</sentence>
+<sentence num="38">Liman Başkanlığımız ilgili şirketleri ve liman müdürlüklerini bu saatler arasında çalışmaları için talimatlandırmalarına rağmen ne yazık ki bu hadisenin 22 .00 civarında olması bu talimata uyulmadığını gösteriyor .</sentence>
+<sentence num="39">Bunun için de İstanbul Liman Başkanlığı gerekli tahkikat ve soruşturmayı başlatmıştır .''</sentence>
+<sentence num="40">Tozar ,gemi kaptanının gözaltında olup olmadığına ilişkin soru üzerine ,bir gözaltı olmadığını ,Liman Başkanlığı'nın gerekli soruşturmayı yürüttüğünü bildirdi .</sentence>
+<sentence num="41">Barış Tozar ,kazada batan geminin yasal çalışan bir gemi olup olmadığına ilişkin soru üzerine de ,bunun tespitinin Liman Başkanlığı'nca yapıldığını ,kendilerine gelen bilgiye göre yasal açıdan sorunu olmadığını belirtti .</sentence>
+<sentence num="42">Tozar ,''Şu anda tartışılan ,izin verilmiş saatler içinde seyre çıkmamış olması .</sentence>
+<sentence num="43">Gemiyle ilgili herhangi bir sıkıntı var mıydı yok muydu ,alması gereken tedbirleri almışlar mıydı almamışlar mıydı tabii ki bunlar tahkikat sonucu çıkacak ''dedi .</sentence>
+<sentence num="44">Tankerlerin riski düşük olması nedeniyle Haydarpaşa Limanı'na çekildiğini belirten Tozar ,mendireğin içini dalgalar ve rüzgarların minimum etkilediğini ,çevrenin kontrol altına alınıp boşaltımın yapılabileceğini söyleyerek ,burada ,kara itfaiyesi ve vinçlerin bulunduğunu ,alanın bariyerlerle çevrildiğini ,kimsenin içeri sokulmadığını ,sigara içmenin ,her türlü ateş ve çakmağın yasaklandığını anlattı .''</sentence>
+<sentence num="45">UCUZ ATLATTIK ''Barış Tozar'a ,LPG yüklü tankerlerin patlaması halinde yaşanabilecek tehlikenin boyutu da soruldu .</sentence>
+<sentence num="46">Bilirkişi olarak bir şey söylemesinin doğru olmayacağını ,patlamanın etkisinin karada ve denizde farklı olabileceğini belirten Tozar ,karada olması halinde 100 200 metrelik bir çevrede etkisi olabileceğini ,bunu düşünerek 300 metre kadar alanı boşalttıklarını söyledi .</sentence>
+<sentence num="47">20 25 kilogramlık bir tüpgaz tüpünün patlamasının yol açabildiği zarara işaret eden Tozar ,''Tabii ki güzel şeyler olmayacaktı .</sentence>
+<sentence num="48">Ama ucuz atlattık ,iyi atlattık .</sentence>
+<sentence num="49">Hayatlarını tehlikeye atan bütün denizci dostlarıma teşekkür ediyorum ''dedi .</sentence>
+<sentence num="50">Tozar ,büyük LPG patlamalarında kilometrelerce büyüklükte bir alanın etkilenebildiği ,denizde tsunami etkisi bile görülebildiğine ilişkin bir soru üzerine de ,bu olayda 7 tankerde toplam 138 tonluk LPG'nin söz konusu olduğunu vurguladı .</sentence>
+<sentence num="51">Bunların birbirinden ayrı olduğuna dikkat çeken Tozar ,5 bin tonluk LPG'nin patlaması halinde oluşabilecek bir senaryoda ,''bölgenin 3 bin kilometrelik alanı içerisinde oksijen absorpsiyonu olabileceği ,burada canlı kalmayabileceği ,7 8 şiddetinde deprem şiddetine neden olabileceği ''gibi senaryolar bulunduğunu ,ancak bunların ne kadar gerçek olduğunun bilinmediğini belirtti .</sentence>
+<sentence num="52">Barış Tozar ,''138 ton LPG'den bahsediyoruz ve ayrılmış ,patlaması da gerçekten çok da kolay olmayan şartlardan bahsediyoruz .</sentence>
+<sentence num="53">Onun için senaryo çizmem çok da doğru olmaz ''dedi .</sentence>
+<sentence num="54">138 ton LPG'nin patlamasının nelere yol açabileceği konusunda bir soru üzerine de Tozar ,''Bildiğiniz gibi LPG havadan ağır ve basınç altında sıvılaştırılmış şekilde bu tankerlerle taşınıyor .</sentence>
+<sentence num="55">Tankerler çok güvenli aslında ,sac kalınlıkları çok yüksek .</sentence>
+<sentence num="56">Delinmeleri ,bu şekilde patlamaları o kadar kolay değil .</sentence>
+<sentence num="57">Bu bizim büyük şansımızdı ''dedi .</sentence>
+<sentence num="58">Toplantının sonunda ,çalışmalar sırasında KEGKİ ekiplerinin çektiği görüntüler ,basın mensuplarına dağıtıldı .</sentence>
+</doc>
+<doc>
+<id>41200</id>
+<sentence num="0">2005 03 13 15 :02 :00 .Tozar :Şu an itibariyle tehlike atlatıldı .</sentence>
+<sentence num="1">Tozar :Şu an itibariyle tehlike atlatıldı Ulaştırma Bakanlığı Müsteşar Yardımcısı Barış Tozar ,Zeytinburnu açıklarında batan gemiden denize düşen LPG tankerleriyle ilgili bütün tedbirlerin alındığını belirterek ,''Çok şükür ki şu an itibariyle tehlike atlatılmıştır ''dedi .</sentence>
+<sentence num="2">Tozar ,Acil Kriz Merkezi'nin kurulduğu Fındıklı'daki Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nde düzenlediği basın toplantısında ,dün akşam saat 22 .00 sularında ''DD1 ''isimli LPG yüklü TIR ve kamyon taşıyan geminin ,su aldığını ve batmakta olduğunu ihbar ettiğini söyledi .</sentence>
+<sentence num="3">İhbarı alan KEGKİ acil müdahale botlarının hızla hareket ettiğini ,çok zor hava koşulları altında burnu kanamadan son anda 8 gemiciyi ve denizciyi kurtardığını belirten Tozar ,''Bu en büyük sevincimiz olmuştur o an için ''dedi .</sentence>
+<sentence num="4">Ulaştırma Bakanlığı Müsteşar Yardımcısı Barış Tozar ,İstanbul Boğazı'nın transit geçişlere ne zaman açılacağına ilişkin bir soruyu da şöyle yanıtladı :''Benim bildiğim kuzeyde 50 ,güneyde 40 gemi birikmiş durumda .</sentence>
+<sentence num="5">Ahırkapı'da dolu 2 tanker var .</sentence>
+<sentence num="6">Bu tankerler tabii ki şu an için çok büyük bir tehdit olmasa da sonuçta bir tehdit ,dolu şekildeler .</sentence>
+<sentence num="7">Bunları en kısa sürede oradan alıp Haydarpaşa'ya geçirmemiz gerekiyor .</sentence>
+<sentence num="8">Bunu değerlendiriyoruz .</sentence>
+<sentence num="9">Şimdi gemilerimizi gönderip denemelerimizi yaptıktan sonra eğer şu andaki hava şartları içinde başarılı olamazsak ,bunları kontrol altında tutup trafiğe açmayı düşünüyoruz .</sentence>
+<sentence num="10">Eğer başarabilirsek çok kısa bir süre sonra yine trafiğe açacağız .''.</sentence>
+</doc>
+<doc>
+<id>41233</id>
+<sentence num="0">2005 03 13 16 :19 :00 .Tozar :Zaman talimatına uyulmadı .</sentence>
+<sentence num="1">Tozar :Zaman talimatına uyulmadı Ulaştırma Bakanlığı Müsteşar Yardımcısı Barış Tozar ,LPG yüklü araçları taşıyan geminin yasal açıdan sorunu bulunmadığını söyledi .</sentence>
+<sentence num="2">Tozar ,kazanın saatinin ,bu geminin çalışması için öngörülen zamana uyulmadığını gösterdiğini belirterek ,bu konuda İstanbul Liman Başkanlığı'nın gerekli soruşturmayı başlattığını bildirdi .</sentence>
+<sentence num="3">Tozar ,Fındıklı'daki Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nde düzenlediği basın toplantısında ,soruları da yanıtladı .</sentence>
+<sentence num="4">LPG'lerin ARGAZ firmasına ait olduğunu belirten Tozar ,Ahırkapı açıklarındaki tankerlerin patlama ihtimali olup olmadığının sorulması üzerine ,söz konusu tankerlerin sahipleri ile görüşüldüğünü ,tankerlerin delinmesi ve patlamasının milyonda bir ihtimal olduğunun söylendiğini ,ancak yine bütün alanı boşaltıp ,gerekli tedbirlerin alındığını bildirdi .</sentence>
+<sentence num="5">Tozar ,Fındıklı'daki Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nde düzenlediği basın toplantısında ,soruları da yanıtladı .</sentence>
+<sentence num="6">LPG'lerin ARGAZ firmasına ait olduğunu belirten Tozar ,Ahırkapı açıklarındaki tankerlerin patlama ihtimali olup olmadığının sorulması üzerine ,söz konusu tankerlerin sahipleri ile görüşüldüğünü ,tankerlerin delinmesi ve patlamasının milyonda bir ihtimal olduğunun söylendiğini ,ancak yine bütün alanı boşaltıp ,gerekli tedbirlerin alındığını bildirdi .</sentence>
+</doc>
+<doc>
+<id>41285</id>
+<sentence num="0">2005 03 13 18 :10 :00 .Ahırkapı kıyısındaki bir LPG tankerinde sızıntı başladı .</sentence>
+<sentence num="1">Ahırkapı kıyısındaki bir LPG tankerinde sızıntı başladı Zeytinburnu açıklarındaki gemi kazası sırasında denize düşen LPG tankerlerinden birinde delinme sonucu sızıntı başladı .</sentence>
+<sentence num="2">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden alınan bilgiye göre ,Zeytinburnu açıklarında batan gemiden denize düşen LPG tankerlerinden Haydarpaşa kıyısına çekilen 5'i ,kıyıya alındı .</sentence>
+<sentence num="3">Ahırkapı kıyısında kontrol altında tutulan ve dolu olan bir tankerin gövdesinin delinmesi sonucu tankerde gaz sızıntısı meydana geldiği öğrenildi .</sentence>
+<sentence num="4">Yetkililer ,bu tankerin de halat ile bağlanarak Haydarpaşa kıyısına ulaştırılması çalışmalarının devam ettiğini kaydettiler .</sentence>
+<sentence num="5">7'nci tanker ise daha önce delinmiş ve içerisindeki gaz boşalmıştı .</sentence>
+</doc>
+<doc>
+<id>41286</id>
+<sentence num="0">2005 03 13 18 :11 :00 .Gemi kazası ...</sentence>
+<sentence num="1">Tankerlerden birinde sızıntı başladı .</sentence>
+<sentence num="2">Zeytinburnu açıklarındaki gemi kazası sırasında denize düşen LPG tankerlerinden birinde delinme sonucu sızıntı başladı .</sentence>
+<sentence num="3">Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri (KEGKİ )Genel Müdürlüğü'nden alınan bilgiye göre ,Zeytinburnu açıklarında batan gemiden denize düşen LPG tankerlerinden Haydarpaşa kıyısına çekilen 5'i ,kıyıya alındı .</sentence>
+<sentence num="4">Ahırkapı kıyısında kontrol altında tutulan ve dolu olan bir tankerin gövdesinin delinmesi sonucu tankerde gaz sızıntısı meydana geldiği öğrenildi .</sentence>
+<sentence num="5">Yetkililer ,bu tankerin de halat ile bağlanarak Haydarpaşa kıyısına ulaştırılması çalışmalarının devam ettiğini kaydettiler .</sentence>
+<sentence num="6">7'nci tanker ise daha önce delinmiş ve içerisindeki gaz boşalmıştı .</sentence>
+</doc>
+<doc>
+<id>41337</id>
+<sentence num="0">2005 03 13 21 :30 :00 .LPG tankeri yüklü gemi battı Beş tanker kontrol altında ,ancak biri sızıntı yapıyor .</sentence>
+<sentence num="1">Yedi adet LPG tankeri yüklü gemi Zeytinburnu'nda battı İlgili Galeri Foto Galeri için tıklayınız İstanbul Zeytinburnu açıklarında LPG yüklü tanker taşıyan bir RO RO gemisi battı .</sentence>
+<sentence num="2">Gemide bulunan 22'şer tonluk yedi tankerden beşi tamamen kontrol altına alınırken ,biri boş iki tankerden birinde sızıntı olması korku yaratıyor .</sentence>
+<sentence num="3">Zeytinburnu'nda batan gemiden geriye kalan biri boş ,iki tanker güvenli bölgeye çekilmiş durumda .</sentence>
+<sentence num="4">Ancak tankerlerden birinin ,sürüklendiği Ahırkapı kıyısında kayalıklara çarpması sonucu vana kısmında başlayan gaz sızıntısı ,devam ediyor .</sentence>
+<sentence num="5">İGDAŞ ekipleri tarafından yapılan ölçümler sonucu ,akşam saatlerinde Haydarpaşa'ya çekilmesi düşünülen tankerdeki sızıntının yüksek boyutta olduğu belirlendi .</sentence>
+<sentence num="6">Yetkililer ,herhangi bir tehlike oluşmaması için beklenmesine karar verildiğini ve gazın boşalmasının ardından tankerin sabaha karşı Haydarpaşa'ya çekilmesinin planlandığını belirttiler .</sentence>
+<sentence num="7">Yine aynı bölgede daha önce kayalıklara çarpması sonucu gövdesi yırtılarak gazı boşaldığı belirtilen tankerin çevresinde de hala gaz bulunduğu öğrenildi .</sentence>
+<sentence num="8">Bu tankerin de yine sabaha karşı çekilerek Haydarpaşa kıyısına götürüleceği kaydedildi .</sentence>
+<sentence num="9">Yetkililer ,sabaha karşı bu işlemlerin tamamlanmasının ardından ,Sirkeci Yeşilköy arasındaki Sahil Yolu'nun trafiğe açılabileceğini belirttiler .</sentence>
+<sentence num="10">Olayın ardından Eminönü Kadıköy vapur seferleri iptal edildi .</sentence>
+<sentence num="11">Boğaz trafiği de gemi geçişlerine kapatıldı .</sentence>
+<sentence num="12">Zeytinburnu sahilinde bulunan balıkçı barınaklarıda tedbir olarak boşaltıldı .</sentence>
+<sentence num="13">Gemi seyir saatlerine uymadı Ulaştırma Bakanlığı Müsteşar Yardımcısı Barış Tozar ,geminin seyre çıkması gereken saatte çıkmadığı ve talimatlara uymadığının anlaşıldığını açıkladı .</sentence>
+<sentence num="14">Tozar liman başkanlığının olayla ilgili tahkikat başlattığını söyledi .</sentence>
+<sentence num="15">Uzun uğraşların ardından römorkorlarla çekilen tankerler Haydarpaşa limanına götürüldü .</sentence>
+<sentence num="16">Batan geminin seyir için izin verilen saatlere uymadığı ortaya çıktı .</sentence>
+<sentence num="17">İstanbul Liman Başkanlığı konuyla ilgili soruşturma başlattı .</sentence>
+<sentence num="18">Gemi dün gece 22 .05'te battı İstanbul Zeytinburnu açıklarında LPG yüklü yedi adet tanker taşıyan küçük bir RO RO gemisi saat 22 .00 sıralarında kapaklarında meydana gelen bir arıza nedeniyle battı .</sentence>
+<sentence num="19">Gemi hızla sulara gömülürken üzerindeki LPG dolu tankerler denizde sürüklenmeye başladı .</sentence>
+<sentence num="20">Kıyı kurtarma ekipleri batan RO RO gemisindeki 7 LPG tankerinden beşini uzun süreli bir çalışma sonunda halat ve ağlarla bağlayarak kontrol altına aldı .</sentence>
+<sentence num="21">Denizde sürüklenen iki tanker ise sabah saat 07 .00 sıralarında kontrol altına alınarak ağlarla güvenli bölgeye çekildi .</sentence>
+<sentence num="22">Yıldırım da kurtarma çalışmalarını takip etti Olaya ilişkin çalışmaları İstanbul'da izleyen Ulaştırma Bakanı Binali Yıldırım ,kazada can kaybı yaşanmadığını belirtti .</sentence>
+<sentence num="23">Denizde şiddetli rüzgar nedeniyle kurtarma çalışmalarında zorluk yaşandığını açıklayan Bakan Yıldırım ,tankerin tehlike oluşturmaması için sahil yolunu kapattıklarını söyledi .</sentence>
+<sentence num="24">İstanbul Valisi Muammer Güler ,Emniyet Müdürü Celalettin Cerrah ve İstanbul Büyükşehir Belediye Başkanı Kadir Topbaş'ta batan gemiye ilişkin çalışmaları bir süre yerinde izledi .</sentence>
+<sentence num="25">Zeytinburnu açıklarında batan geminin ,Kartal Zeytinburnu seferini yapan 335 grostonluk RO RO gemisi olduğu belirtildi .</sentence>
+<sentence num="26">Başbakanlık Denizcilik Müsteşarlığı Deniz Ulaştırması Genel Müdürlüğü Ana Arama Kurtarma Koordinasyon Merkezi'nden yapılan yazılı açıklamada da ,Zeytinburnu'nun iki mil açığında ,Kartal Zeytinburnu seferini yapmakta olan 335 grostonluk DD 1 adlı RO RO gemisinin kapaklarından su alması sonucu saat 22 .05'te battığı belirtildi .</sentence>
+<sentence num="27">Sekiz kazazede kurtarıldı Açıklamada ,olay yerine giden Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü'ne ait 6 no'lu bot tarafından sekiz kazazede kurtarılarak ,Harem Deniz Polisi'ne götürüldü .</sentence>
+<sentence num="28">Açıklamada ,söz konusu LPG kamyonları için Kıyı Emniyeti'ne ait 6 ,8 ve 10 no'lu botlar ile Söndüren 5 römorkörünün olay yerinde hazır bulunduğu kaydedildi .</sentence>
+<sentence num="29">Harem tahlisiye istasyonuna götürülen kazazedelerin isimleri şöyle :Kaptan Mehmet Telli ,mürettebat Abdurrahman Dalkılıç ,Serhat Balcı ,Muharrem Kılıç ve Şükrü Yavuz ,şoförler Kadir Akbaş ,Adem Kartalmış ve soyadı belirlenemeyen Mehmet adlı kişi .</sentence>
+<sentence num="30">Bir RO RO da Bandırma'da battı Balıkesir'in Bandırma ilçesinde şiddetli lodos yüzünden sürüklenen RO RO gemisi mendireğe çarptıktan sonra karaya oturdu .</sentence>
+<sentence num="31">Bandırma'dan yolcu ve araç almak için Tekirdağ limanından demiralan 'Aslıhan bir 'adlı RO RO gemisi ,lodos yüzünden bandırma iskelesine yanaşamadı .</sentence>
+<sentence num="32">Hızını alamayan gemi daha sonra karaya oturdu .</sentence>
+<sentence num="33">Kazada can kaybı olmazken ,ön tarafından hasar gören RO RO gemisi ,Bandırma limanına ait romorkörla kurtarıldı .</sentence>
+</doc>
+<doc>
+<id>41340</id>
+<sentence num="0">2005 03 13 21 :36 :00 .Denizdeki tankerlerin sabaha karşı Haydarpaşa'ya çekilmesi planlanıyor .</sentence>
+<sentence num="1">Denizdeki tankerlerin sabaha karşı Haydarpaşa'ya çekilmesi planlanıyor Zeytinburnu açıklarındaki gemi kazasının ardından denize düşen ve sürüklendiği Ahırkapı kıyısında gaz sızıntısı başlayan tanker ile daha önce aynı bölgede gazının boşaldığı belirtilen tankerin ,sabaha karşı Haydarpaşa'ya çekilmesinin planlandığı öğrenildi .</sentence>
+<sentence num="2">Sürüklendiği Ahırkapı kıyısında kayalıklara çarpan tankerin vana kısmında başlayan gaz sızıntısı ,devam ediyor .</sentence>
+<sentence num="3">İGDAŞ ekiplerince yapılan ölçümler sonucu ,akşam saatlerinde Haydarpaşa'ya çekilmesi düşünülen tankerdeki sızıntının yüksek boyutta olduğu belirlendi .</sentence>
+<sentence num="4">Yetkililer ,herhangi bir tehlike oluşmaması için beklenmesine karar verildiğini ve gazın boşalmasının ardından tankerin sabaha karşı Haydarpaşa'ya çekilmesinin planlandığını belirttiler .</sentence>
+<sentence num="5">Bu arada ,yine aynı bölgede daha önce kayalıklara çarpması sonucu gövdesi yırtılarak gazı boşaldığı belirtilen tankerin çevresinde de hala gaz bulunduğu öğrenildi .</sentence>
+<sentence num="6">Bu tankerin de yine sabaha karşı çekilerek Haydarpaşa kıyısına götürüleceği kaydedildi .</sentence>
+<sentence num="7">Yetkililer ,sabaha karşı bu işlemlerin tamamlanmasının ardından ,Sirkeci Yeşilköy arasındaki Sahil Yolu'nun trafiğe açılabileceğini belirttiler .</sentence>
+<sentence num="8">HAYDARPAŞA'DAKİ TANKERLER Öte yandan ,daha önce Haydarpaşa kıyısına çekilen 5 tankerin karaya çıkartıldığı ve etraflarında bariyer oluşturularak kontrol altında tutuldukları öğrenildi .</sentence>
+<sentence num="9">İGDAŞ ekiplerince zaman zaman gaz ölçümü yapılan tankerlerden herhangi bir sızıntı olmadığı belirtildi .</sentence>
+<sentence num="10">İtfaiye ekiplerinin tedbir amacıyla bölgede bekletildiğini ifade eden yetkililer ,yarın sabah saatlerinden itibaren bu tankerlerin kaldırılmasıyla ilgili çalışma başlatılacağını kaydettiler .</sentence>
+</doc>
+<doc>
+<id>41341</id>
+<sentence num="0">2005 03 13 21 :37 :00 .Gemi Kazası ...</sentence>
+<sentence num="1">Tankerler Haydarpaşa'ya çekilecek .</sentence>
+<sentence num="2">Zeytinburnu açıklarındaki gemi kazasının ardından denize düşen ve sürüklendiği Ahırkapı kıyısında gaz sızıntısı başlayan tanker ile daha önce aynı bölgede gazının boşaldığı belirtilen tankerin ,sabaha karşı Haydarpaşa'ya çekilmesinin planlandığı öğrenildi .</sentence>
+<sentence num="3">A .</sentence>
+<sentence num="4">A muhabirinin aldığı bilgiye göre ,sürüklendiği Ahırkapı kıyısında kayalıklara çarpan tankerin vana kısmında başlayan gaz sızıntısı ,devam ediyor .</sentence>
+<sentence num="5">İGDAŞ ekiplerince yapılan ölçümler sonucu ,akşam saatlerinde Haydarpaşa'ya çekilmesi düşünülen tankerdeki sızıntının yüksek boyutta olduğu belirlendi .</sentence>
+<sentence num="6">Yetkililer ,herhangi bir tehlike oluşmaması için beklenmesine karar verildiğini ve gazın boşalmasının ardından tankerin sabaha karşı Haydarpaşa'ya çekilmesinin planlandığını belirttiler .</sentence>
+<sentence num="7">Bu arada ,yine aynı bölgede daha önce kayalıklara çarpması sonucu gövdesi yırtılarak gazı boşaldığı belirtilen tankerin çevresinde de hala gaz bulunduğu öğrenildi .</sentence>
+<sentence num="8">Bu tankerin de yine sabaha karşı çekilerek Haydarpaşa kıyısına götürüleceği kaydedildi .</sentence>
+<sentence num="9">Yetkililer ,sabaha karşı bu işlemlerin tamamlanmasının ardından ,Sirkeci Yeşilköy arasındaki Sahil Yolu'nun trafiğe açılabileceğini belirttiler .</sentence>
+<sentence num="10">HAYDARPAŞA'DAKİ TANKERLER Öte yandan ,daha önce Haydarpaşa kıyısına çekilen 5 tankerin karaya çıkartıldığı ve etraflarında bariyer oluşturularak kontrol altında tutuldukları öğrenildi .</sentence>
+<sentence num="11">İGDAŞ ekiplerince zaman zaman gaz ölçümü yapılan tankerlerden herhangi bir sızıntı olmadığı belirtildi .</sentence>
+<sentence num="12">İtfaiye ekiplerinin tedbir amacıyla bölgede bekletildiğini ifade eden yetkililer ,yarın sabah saatlerinden itibaren bu tankerlerin kaldırılmasıyla ilgili çalışma başlatılacağını kaydettiler .</sentence>
+</doc>
+<doc>
+<id>41376</id>
+<sentence num="0">2005 03 13 23 :51 :00 .İstanbul Boğazı kontrollü olarak gemi trafiğine açıldı .</sentence>
+<sentence num="1">İstanbul Boğazı kontrollü olarak gemi trafiğine açıldı İstanbul Boğazı ,kontrollü olarak transit gemi trafiğine açıldı .</sentence>
+<sentence num="2">İstanbul Liman Başkanlığı yetkilileri ,İstanbul Boğazı'nda ,dün gece Zeytinburnu açıklarında meydana gelen gemi kazası nedeniyle durdurulan transit gemi geçişlerinin ,saat 22 .00'den itibaren kontrollü olarak yapılmaya başladığını bildirdiler .</sentence>
+</doc>
+<doc>
+<id>41377</id>
+<sentence num="0">2005 03 13 23 :52 :00 .İstanbul Boğazı kontrollü olarak gemi trafiğine açıldı .</sentence>
+<sentence num="1">İstanbul Boğazı ,kontrollü olarak transit gemi trafiğine açıldı .</sentence>
+<sentence num="2">İstanbul Liman Başkanlığı yetkilileri ,İstanbul Boğazı'nda ,dün gece Zeytinburnu açıklarında meydana gelen gemi kazası nedeniyle durdurulan transit gemi geçişlerinin ,saat 22 .00'den itibaren kontrollü olarak yapılmaya başladığını bildirdiler .</sentence>
+</doc>
+<doc>
+<id>41441</id>
+<sentence num="0">2005 03 14 06 :24 :00 .İstanbul Boğazı'nda Gemi Kazası .</sentence>
+<sentence num="1">İstanbul Boğazı'nda yaşanan gemi kazasının ardından yaklaşık 24 saat sonra ;saat 21 .00 sıralarında transit geçişler yeniden başladı .</sentence>
+<sentence num="2">Boğazın iki girişinde bekletilen yaklaşık 120 geminin geçişine de kontrollü olarak izin verildi .</sentence>
+<sentence num="3">Şehir Hatları vapur seferleri ise Haydarpaşa bağlantılı seferler dışında gün boyu yapılamadı .</sentence>
+<sentence num="4">Ahırkapı Kıyısına Vuran Tankerde Sızıntı ...</sentence>
+<sentence num="5">Cumartesi günü meydana gelen kazanın ardından Ahırkapı kıyısına vuran LPG dolu tankerde gaz sızıntısı devam ediyor .</sentence>
+<sentence num="6">Gaz sızıntısının bitmesinden sonra tankerin Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü'ne bağlı ekiplerce Haydarpaşa Limanı'na çekilmesi bekleniyor .</sentence>
+<sentence num="7">Sirkeci Yenikapı Sahil Yolu Ulaşıma Kapalı Tankerin bulunduğu bölgede olası bir durumda müdahale etmek üzere denizde tam donanımlı bir kurtarma römorkörü ,karada ise itfaiye ekipleri bekletiliyor .</sentence>
+<sentence num="8">Sirkeci Yenikapı arasındaki sahil yolu da kazadan bu yana ulaşıma kapalı tutuluyor .</sentence>
+<sentence num="9">İstanbul Zeytinburnu açıklarında cumartesi günü (12 .03 .2005 )saat 22 .00 sıralarında 7 adet LPG tankeri taşıyan Ro Ro gemisi batmıştı .</sentence>
+<sentence num="10">Geminin 8 personeli Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü ekiplerince kurtarılırken ,gemide bulunan LPG dolu 7 tanker ,denizde bir süre sürüklenmişti .</sentence>
+<sentence num="11">Tankerlerden 5'i ,Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü ekiplerince halat ve ağlarla bağlanarak Haydarpaşa'ya çekilirken ,halen 2 tanker Ahırkapı kıyısında bulunuyor .</sentence>
+<sentence num="12">Bu arada ,elverişsiz hava koşulları nedeniyle Adalar Sirkeci ;Adalar Bostancı seferleri de akşam saatlerinden itibaren yapılamıyor .</sentence>
+</doc>
+<doc>
+<id>41475</id>
+<sentence num="0">2005 03 14 09 :00 :00 .İstanbul Boğazı ve Sirkeci Yenikapı sahil yolu ulaşıma açıldı ...</sentence>
+<sentence num="1">İstanbul Boğazı ,kontrollü olarak transit gemi trafiğine açıldı .</sentence>
+<sentence num="2">İstanbul Liman Başkanlığı yetkilileri ,İstanbul Boğazı'nda ,dün gece Zeytinburnu açıklarında meydana gelen gemi kazası nedeniyle durdurulan transit gemi geçişlerinin ,saat 22 .00'den itibaren kontrollü olarak yapılmaya başladığını bildirdiler .</sentence>
+<sentence num="3">Trafiğe kapatılan Sirkeci Yenikapı arasındaki sahil yolu ,son 2 tankerin de Haydarpaşa'ya çekilmesiyle yeniden ulaşıma açıldı .</sentence>
+<sentence num="4">Sürüklendikleri Ahırkapı kıyısında kontrol altında tutulan ve biri tamamen boşalmış ,diğeri de gaz kaçıran 2 tanker ,Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü ,itfaiye ile İGDAŞ ekiplerinin yürüttükleri 2 saatlik çalışma sonucu Haydarpaşa'ya çekildi .</sentence>
+<sentence num="5">Bu çalışmaların tamamlanması üzerine olayın hemen ardından tedbir amacıyla kapatılan Sirkeci Yenikapı arasındaki sahil yolu ,yeniden trafiğe açıldı .</sentence>
+</doc>
+<doc>
+<id>41487</id>
+<sentence num="0">2005 03 14 09 :16 :00 .Sirkeci Yenikapı sahil yolu trafiğe açıldı .</sentence>
+<sentence num="1">Sirkeci Yenikapı sahil yolu trafiğe açıldı Zeytinburnu açıklarında batan gemiden denize düşen LPG tankerlerinin yarattığı tehlike nedeniyle trafiğe kapatılan Sirkeci Yenikapı arasındaki sahil yolu ,son 2 tankerin de Haydarpaşa'ya çekilmesiyle yeniden ulaşıma açıldı .</sentence>
+<sentence num="2">Sürüklendikleri Ahırkapı kıyısında kontrol altında tutulan ve biri tamamen boşalmış ,diğeri de gaz kaçıran 2 tanker ,Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü ,itfaiye ile İGDAŞ ekiplerinin yürüttükleri 2 saatlik çalışma sonucu Haydarpaşa'ya çekildi .</sentence>
+<sentence num="3">Bu çalışmaların tamamlanması üzerine olayın hemen ardından tedbir amacıyla kapatılan Sirkeci Yenikapı arasındaki sahil yolu ,yeniden trafiğe açıldı .</sentence>
+</doc>
+<doc>
+<id>41495</id>
+<sentence num="0">2005 03 14 09 :27 :00 .Sirkeci Yenikapı sahil yolu trafiğe açıldı .</sentence>
+<sentence num="1">Ahırkapı kıyısında kontrol altında tutulan ve biri tamamen boşalmış ,diğeri de gaz kaçıran 2 tanker ,Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü ,itfaiye ile İGDAŞ ekiplerinin yürüttükleri 2 saatlik çalışma sonucu Haydarpaşa'ya çekildi .</sentence>
+<sentence num="2">Bu çalışmaların tamamlanması üzerine olayın hemen ardından tedbir amacıyla kapatılan Sirkeci Yenikapı arasındaki sahil yolu ,yeniden trafiğe açıldı .</sentence>
+</doc>
+<doc>
+<id>41568</id>
+<sentence num="0">2005 03 14 11 :00 :00 .LPG tankerleri kontrol altında İstanbul Boğazı transit gemi geçişine açıldı .</sentence>
+<sentence num="1">Tankların beşi Haydarpaşa Limanı'na götürüldü İstanbul Zeytinburnu açıklarında geçtiğimiz cumartesi gecesi batan Ro Ro gemisinden denize dökülen LPG yüklü yedi tanker kontrol altına alındı .</sentence>
+<sentence num="2">Dün beş tankeri Haydarpaşa limanına çekerek kontrol altına alan kurtarma ekipleri ,diğer iki tankerde meydana gelebilecek sızıntı ihtimaline karşı önlem aldı .</sentence>
+<sentence num="3">Çalışmalarını gece boyunca sürdüren ekipler sabaha kadar Ahırkapı sahilinde tankerlerdeki gaz miktarını ölçtü .</sentence>
+<sentence num="4">Tankerler sabahın erken saatlerinde romörkörler eşliğinde Haydarpaşa limanına çekildi .</sentence>
+<sentence num="5">Tankerler çekildikten sonra Sirkeci Havalimanı arasındaki sahil yolu trafiğe açıldı ..</sentence>
+<sentence num="6">Boğaz transit geçişlere açıldı İptal edilen vapur seferleri ile boğazdan transit gemi geçişleri ise yeniden başladı .</sentence>
+<sentence num="7">İstanbul Liman Başkanlığı yetkilileri ,İstanbul Boğazı'nda ,Zeytinburnu açıklarında meydana gelen gemi kazası nedeniyle durdurulan transit gemi geçişlerinin ,dün gece saat 22 .00'den itibaren kontrollü olarak yapılmaya başladığını belirtti .</sentence>
+<sentence num="8">İLGİLİ YORUM İstanbul Çevre Konseyi Genel Sekreteri Türksen Başer Kafaoğlu :Türk boğazları ve demirleme bölgelerindeki kazaları önlemede UTS sisteminin de yeterli değil .</sentence>
+<sentence num="9">Geçtiğimiz günlerde Zeytinburnu önlerinde 300 metrelik bir tanker karaya oturdu ve sorunsuz kurtuldu .</sentence>
+<sentence num="10">Aradan birkaç gün geçmeden aynı bölgede LPG tankları yüklü başka bir geminin batmış olmasının yaklaşmakta olan büyük tehlikeleri işaret ediyor .</sentence>
+<sentence num="11">Türk boğazları ve demirleme bölgelerindeki önlemlerin halen yetersiz olduğu açıkça görülüyor .</sentence>
+<sentence num="12">Büyük paralar harcanarak inşa edilen UTS sisteminin de yeterli olmadığı görülüyor .''</sentence>
+<sentence num="13">Gemi dün gece 22 .05'te battı İstanbul Zeytinburnu açıklarında LPG yüklü yedi adet tanker taşıyan küçük bir RO RO gemisi saat 22 .00 sıralarında kapaklarında meydana gelen bir arıza nedeniyle battı .</sentence>
+<sentence num="14">Gemi hızla sulara gömülürken üzerindeki LPG dolu tankerler denizde sürüklenmeye başladı .</sentence>
+<sentence num="15">Kıyı kurtarma ekipleri batan RO RO gemisindeki 7 LPG tankerinden beşini uzun süreli bir çalışma sonunda halat ve ağlarla bağlayarak kontrol altına aldı .</sentence>
+<sentence num="16">Denizde sürüklenen iki tanker ise sabah saat 07 .00 sıralarında kontrol altına alınarak ağlarla güvenli bölgeye çekildi .</sentence>
+<sentence num="17">Gemi seyir saatlerine uymadı Ulaştırma Bakanlığı Müsteşar Yardımcısı Barış Tozar ,geminin seyre çıkması gereken saatte çıkmadığı ve talimatlara uymadığının anlaşıldığını açıkladı .</sentence>
+<sentence num="18">Tozar liman başkanlığının olayla ilgili tahkikat başlattığını söyledi .</sentence>
+<sentence num="19">Uzun uğraşların ardından römorkorlarla çekilen tankerler Haydarpaşa limanına götürüldü .</sentence>
+<sentence num="20">Batan geminin seyir için izin verilen saatlere uymadığı ortaya çıktı .</sentence>
+<sentence num="21">İstanbul Liman Başkanlığı konuyla ilgili soruşturma başlattı .</sentence>
+</doc>
+<doc>
+<id>41871</id>
+<sentence num="0">2005 03 14 17 :20 :00 .'Liman Başkanlığı'na soruşturma açılmalı 'Liman Başkanlığı tarafından batan gemiye 7 bin YTL ceza kesildi .</sentence>
+<sentence num="1">Zeytinburnu açıklarında batan gemiden denize düşen yedi tankerden son ikisi de kontrol altına alındı İstanbul'da Zeytinburnu açıklarında batan gemi ile ilgili ,deniz hukukçusu Hücum Tulgar ,beş yıl önce hurdaya ayrılan ve tehlikeli madde taşıma izni veren çıkartma gemisine ,Liman Başkanlığı'nın faciaya davet çıkardığını öne sürdü .</sentence>
+<sentence num="2">Zeytinburnu açıklarında batan gemiden denize düşen yedi tankerden son ikisi de kontrol altına alındı .</sentence>
+<sentence num="3">Biri tamamen boşalmış ,diğeri sızıntı yapan tankerler Haydarpaşa'ya çekildi .</sentence>
+<sentence num="4">İki gündür kapalı olan sahil yolu da trafiğe açıldı .</sentence>
+<sentence num="5">Olayla ilgili soruşturma ise sürüyor .</sentence>
+<sentence num="6">Liman Başkanlığı ,belirtilenden üç saat önce denize açılan gemiye ilk etapta kurallara uymadığı gerekçesiyle 7 bin YTL ceza kesildi .</sentence>
+<sentence num="7">Liman Başkanlığı'na da soruşturma açılmalı Deniz hukukçusu Hücum Tulgar'a göre bir soruşturma da denetleme görevini iyi yapmayan Liman Başkanlığı'na açılmalı .</sentence>
+<sentence num="8">Tulgar ,dünyanın hiç bir yerinde bu tip gemilere izin verilmeyeceğini belirterek ,izin veren deniz otoritesi de soruşturulmalı .</sentence>
+<sentence num="9">Bu ne bir okyanus ,ne de Karadeniz .</sentence>
+<sentence num="10">İç denizde batıyorsa ,hesabı sorulmalı diyor .</sentence>
+<sentence num="11">Aslında sorun Türk denizcilik sektörünün tamamını ilgilendiriyor .</sentence>
+<sentence num="12">Çünkü ,yeterli denetimden geçmeyen Türk gemileri ,eksikleri yüzünden dünya limanlarında her defasında alıkonuluyor .</sentence>
+<sentence num="13">Kara listede hep ön sıralarda yer alıyor .</sentence>
+<sentence num="14">Ve Port State Control olarak bilenen devlet kontrolü ,limanlarda tam anlamıyla yapılmadığı sürece ,haftasonu yaşananlar denizcileri hiç şaşırtmayacak .</sentence>
+<sentence num="15">Tankerlerin tamamı kontrol altında Zeytinburnu açıklarında batan Ro Ro gemisinden denize dökülen LPG yüklü tankerler ,çekildikleri Haydarpaşa Limanı'nda karaya çıkarılarak emniyet önlemleri altında limandan nakledildi .</sentence>
+<sentence num="16">Denize dökülen ve Haydarpaşa Limanı'na çekilen yedi tanker ,konteyner vinçleriyle karaya çıkarıldı .</sentence>
+<sentence num="17">Geniş güvenlik önlemlerinin alındığı liman sahasında dolu olan beş tankerden ikisindeki LPG başka tankerlere aktarıldı .</sentence>
+<sentence num="18">Artık idari tahkikat aşamasına geçildiğini ,işletmecinin savunmasına göre olayın Cumhuriyet Savcılığı'na intikal ettirileceğini anlatan İstanbul Liman Başkanı Ender Kurt ,idari soruşturma sonucunda da işletmeciye 175 YTL'den 7 bin 290 YTL'ye kadar para cezası uygulanabileceğini bildirdi .</sentence>
+<sentence num="19">Gemi ,izin verilen süreden erken yola çıkmış Geminin hatalı yüklendiği yönündeki iddialara da değinen Kurt ,DD 1'in askeriyeden hurdaya ayrılan bir çıkarma gemisi olduğunu ifade etti .</sentence>
+<sentence num="20">Kurt ,''bu gemiler çok daha ağır yükleri taşıyabilir .</sentence>
+<sentence num="21">Ancak yüklemede yükün bağlanmaması gibi ihmaller olabilir ''diye konuştu .</sentence>
+<sentence num="22">Feribotun liman içi taşımacılık standardına uygun olduğunu da belirten Ender Kurt ,''ancak kendilerine 00 .</sentence>
+<sentence num="23">30 06 .00 saatleri arasında taşıma izni veriliyor .</sentence>
+<sentence num="24">Olay gecesi bu süreden daha erken sefere çıkılmış .</sentence>
+<sentence num="25">Ayrıca 7şiddetinde lodos var .</sentence>
+<sentence num="26">Gemi kaptanının bunları değerlendirmesi gerekirdi ''dedi .</sentence>
+</doc>
+<doc>
+<id>41887</id>
+<sentence num="0">2005 03 14 17 :35 :00 .İstanbul'u korkutan tankerler limandan çıkarıldı .</sentence>
+<sentence num="1">Zeytinburnu açıklarında batan ro ro gemisinden denize dökülen LPG yüklü tankerler ,çekildikleri Haydarpaşa Limanı'nda karaya çıkarılarak emniyet önlemleri altında limandan nakledildi .</sentence>
+<sentence num="2">Denize dökülen ve Haydarpaşa Limanı'na çekilen 7 tanker ,konteyner vinçleriyle karaya çıkarıldı .</sentence>
+<sentence num="3">Geniş güvenlik önlemlerinin alındığı liman sahasında dolu olan 5 tankerden 2'sindeki LPG başka tankerlere aktarıldı .</sentence>
+<sentence num="4">Daha sonra boş olan 2 tanker ile dolu tankerler treylerler ile itfaiye araçlarının eskortluğunda limandan çıkarılarak dolum tesislerine gönderildi .</sentence>
+<sentence num="5">LPG tankerlerinin tahliyesi nedeniyle Haydarpaşa Gümrüğü'ndeki işlemler yapılmazken ,gümrük sahasındaki 4 Eylül Motorlu Taşıyıcılar Kooperatifi'nde MHP tarafından yapılacak basın açıklaması da iptal edildi .</sentence>
+<sentence num="6">İstanbul Liman Başkanı Ender Kurt ,A .</sentence>
+<sentence num="7">A muhabirine yaptığı açıklamada ,tankerlerin tehlike yaratmadan tahliyesinin gerçekleştirildiğini belirterek ,''Denizden çıkarılan tankerler emniyetli şekilde limandan nakledildi ''dedi .</sentence>
+<sentence num="8">Artık idari tahkikat aşamasına geçildiğini ,işletmecinin savunmasına göre olayın Cumhuriyet Savcılığı'na intikal ettirileceğini anlatan Kurt ,idari soruşturma sonucunda da işletmeciye 175 YTL'den 7 bin 290 YTL'ye kadar para cezası uygulanabileceğini bildirdi .</sentence>
+<sentence num="9">DD 1 adlı ro ro gemisinin batmasıyla ilgili şu ana kadar çevre kirliliği ihbarı gelmediğini belirten Kurt ,geminin Zeytinburnu'nun 1 ,5 mil açığında 60 metre derinlikte bulunduğunu söyledi .</sentence>
+<sentence num="10">Ender Kurt ,''Ama feribottaki motorin ve makine yağları ya kirlilik yaratmıştır ya da yaratacaktır ''dedi .</sentence>
+<sentence num="11">Geminin hatalı yüklendiği yönündeki iddialara da değinen Kurt ,DD 1'in askeriyeden hurdaya ayrılan bir çıkarma gemisi olduğunu ifade etti .</sentence>
+<sentence num="12">Kurt ,''Bu gemiler çok daha ağır yükleri taşıyabilir .</sentence>
+<sentence num="13">Ancak yüklemede yükün bağlanmaması gibi ihmaller olabilir ''diye konuştu .</sentence>
+<sentence num="14">Kurt ,Denizciler Dayanışma Derneği'ne ait olan DD 1'in dernek tarafından işletmeciye verilen bir gemi olduğunu ,savunma için 24 saat içinde kendilerine başvurması gereken işletmeciye gerekli tebligatların yapıldığını bildirdi .</sentence>
+<sentence num="15">Feribotun liman içi taşımacılık standardına uygun olduğunu da belirten Ender Kurt ,şunları kaydetti :''Ancak kendilerine 00 .</sentence>
+<sentence num="16">30 06 .00 saatleri arasında taşıma izni veriliyor .</sentence>
+<sentence num="17">Olay gecesi bu süreden daha erken sefere çıkılmış .</sentence>
+<sentence num="18">Ayrıca 7 şiddetinde lodos var .</sentence>
+<sentence num="19">Gemi kaptanının bunları değerlendirmesi gerekirdi .''.</sentence>
+</doc>
+<doc>
+<id>41888</id>
+<sentence num="0">2005 03 14 17 :35 :00 .Haydarpaşa Limanı'ndaki tankerler limandan çıkarıldı .</sentence>
+<sentence num="1">Haydarpaşa Limanı'ndaki tankerler limandan çıkarıldı Zeytinburnu açıklarında batan ro ro gemisinden denize dökülen LPG yüklü tankerler ,çekildikleri Haydarpaşa Limanı'nda karaya çıkarılarak emniyet önlemleri altında limandan nakledildi .</sentence>
+<sentence num="2">Denize dökülen ve Haydarpaşa Limanı'na çekilen 7 tanker ,konteyner vinçleriyle karaya çıkarıldı .</sentence>
+<sentence num="3">Geniş güvenlik önlemlerinin alındığı liman sahasında dolu olan 5 tankerden 2'sindeki LPG başka tankerlere aktarıldı .</sentence>
+<sentence num="4">Daha sonra boş olan 2 tanker ile dolu tankerler treylerler ile itfaiye araçlarının eskortluğunda limandan çıkarılarak dolum tesislerine gönderildi .</sentence>
+</doc>
+<doc>
+<id>42466</id>
+<sentence num="0">2005 03 15 14 :26 :00 .Montrö anlaşması gözden geçirilmeli .</sentence>
+<sentence num="1">Zeytinburnu açıklarında LPG yüklü kara tankeri taşıyan geminin batmasıyla ilgili Gemi Mühendisleri Odası ,Gemi Makineleri İşletme Mühendisleri Odası ,Çevre Mühendisleri Odası İstanbul Şubesi ,Kimya Mühendisleri Odası İstanbul Şubesi ve Makine Mühendisleri Odası İstanbul Şubesi ortak basın toplantısı düzenledi .</sentence>
+<sentence num="2">Basın toplantısında konuşan Tevfik Peker ,Türkiye'nin 1936 ylılında imzaladığı Montrö Boğazlar Sözleşmesi gereği boğazlardan ticari amaçlı her türlü geminin geçebildiğini dile getirdi .</sentence>
+<sentence num="3">Bu gemilerin içinde tehlikeli yük taşıyanların da olduğuna dikkat çeken Peker ,Dünyanın en eski kentlerinden biri olan İstanbul'a ve kent halkına zarar verebileceği gözönünde tutularak söz konusu anlaşma gözden geçirilmelidir .</sentence>
+<sentence num="4">dedi .</sentence>
+<sentence num="5">Peker ,dünyada LPG taşımacılığının Uluslararası Denizcilik Örgütü nün belirlediği standartlara göre yapıldığını ifade etti .</sentence>
+<sentence num="6">Bu kurallara uymayan LPG taşımacılığının yurt dışında kesinlikle yapılamadığını anlatan Peker ,Türkiye'de bu kuralların uygulanmadığını vurguladı .</sentence>
+<sentence num="7">Peker ayrıca kazayı yapan geminin LPG tankeri taşımaya elverişli olmadığını ,dolayısıyla geminin almış olduğu elverişlilik belgesinin ve bu belgeyi veren kurumların sorgulanması gerektiğini belirtti .</sentence>
+<sentence num="8">TMMOB Gemi Mühendisleri Odası Müdürü Kadir Satoğlu ise ,LPG taşımacılığına uygun gemilerin yapılması gerektiğini dile getirdi .</sentence>
+<sentence num="9">Basın açıklamasında şu görüşlere yer verildi ;Kaza sırasında denize saçılan yükün kontrol altına alındığı doğru değildir .</sentence>
+<sentence num="10">Gemi kurtarma araçlarında gemideki bir cismi kontrol altına alacak araçların olmadığı görülmüştür .</sentence>
+<sentence num="11">Türk Boğazları sadece 'Taşıma Koridoru 'olarak değerdlendirilmemeli ,aksine deniz canlılarının göç etmelerini sağlayan çok hassas bir 'Biyolojik Koridor 'şeklinde ele alınmalıdır .</sentence>
+<sentence num="12">Boğazlarda meydana gelebilecek ve ucuz atlatılamayacak bir tanker ya da tehlikeli yük taşıyan gemi kazasında binlerce insanın ölebileceği ,onarılması olanaksız boyutlarda deniz ve kıyı kirliliği ortaya çıkabileceği ,değer biçilemez kültürel mirasın da zarar göreceği unutulmamalıdır ..</sentence>
+</doc>
+<doc>
+<id>42471</id>
+<sentence num="0">2005 03 15 14 :35 :00 .Batan Gemiyle İlgili İddia .</sentence>
+<sentence num="1">İstanbul Boğazı'nda batan ro ro gemisinin LPG tankı taşımaya elverişli olmadığı iddia edildi .</sentence>
+<sentence num="2">Türk Makine Mühendisleri Odası ,LPG tankı taşıma belgesi veren kurumların Ulaştırma Bakanlığı'nca denetlenmesini istedi .</sentence>
+<sentence num="3">LPG tankı taşıyan ro ro gemisi İstanbul Boğazı'nı adeta bir mayın tarlasına dönüştürmüştü .</sentence>
+<sentence num="4">Geminin talimatlara aykırı bir saatte denize açıldığı yönündeki bilgiler araştırılırken ,yeni bir iddia daha ortaya atıldı .</sentence>
+<sentence num="5">Türk Makine Mühendisleri Odası İstanbul Şube Başkanı Tevfik Peker Kazayı yapan gemi LPG tankeri taşımaya elverişli değildir .</sentence>
+<sentence num="6">Bu konuda geminin almış olması muhmetel elverişlilik belgesi sorgulanmalıdır .</sentence>
+<sentence num="7">Bu belgeyi veren kurumlar Ulaştırma Bakanlığı tarafından denetlenmelidir .</sentence>
+<sentence num="8">Deniz trafiğinin lodos nedeniyle durduğu bir anda kazaya neden olan ve özel sefer düzenleyen bu geminin izin verilmeyen saatte boğazdan geçişi VTS tarafından kesinlikle engellenebilirdi .</sentence>
+<sentence num="9">dedi .</sentence>
+</doc>

@@ -1,0 +1,887 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 09 18 18 :47 :00 .kaynana semra nın oğlu ata otel odasında ölü bulundu ..</sentence>
+<sentence num="1">kaynana semra nın oğlu ata otel odasında ölü bulundu televizyonda yayınlanan ''gelinim olur musun ?''</sentence>
+<sentence num="2">programıyla tanınan ata türk (24 ),adana'da bir otel odasında ölü bulundu .</sentence>
+<sentence num="3">emniyet müdürlüğü yetkililerinden edinilen bilgiye göre ,bir barda program yapmaya hazırlanan can sever ile 2 gün önce adana'ya gelen ata türk ,kaldığı ipek palas oteli'ndeki odasında ölü bulundu .</sentence>
+<sentence num="4">yetkililer ,ata türk'ün alkol komasına girdiği için ölmüş olabileceğini ,ancak kesin ölüm nedeninin otopsi sonrasında belirleneceğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>151650</id>
+<sentence num="0">2005 09 18 19 :00 :00 .'Gelinim Olurmusun 'programıyla tanınan Ata Türk otelde ölü bulundu .</sentence>
+<sentence num="1">Televizyonda yayınlanan Gelinim Olur musun ?</sentence>
+<sentence num="2">programıyla tanınan Ata Türk (24 ),Adana'da bir otel odasında ölü bulundu .</sentence>
+<sentence num="3">Bir barda program yapmaya hazırlanan Cansever ile 2 gün önce Adana'ya gelen Ata Türk ,kaldığı İpek Palas Oteli'ndeki odasında ölü bulundu .</sentence>
+<sentence num="4">Yetkililer ,Ata Türk'ün alkol komasına girdiği için ölmüş olabileceğini ,ancak kesin ölüm nedeninin otopsi sonrasında belirleneceğini kaydetti .</sentence>
+<sentence num="5">HASTANEYE ,CANSEVER'İN MENAJERİ GETİRDİ Otel odasında ölü olarak bulunan Ata Türk'ün (24 ),hastaneye sanatçı Cansever'in menajeri tarafından getirildiği bildirildi .</sentence>
+<sentence num="6">Üniversal Hastanesi Acil Servis Nöbetçi Doktoru Erdinç Kurtoğlu ,gazetecilere yaptığı açıklamada ,Ata Türk'ün ,acil servise saat 17 .</sentence>
+<sentence num="7">30 sıralarında getirildiğini ve ilk muayenede eks halinde olduğunu belirlediklerini söyledi .</sentence>
+<sentence num="8">Dr .Kurtoğlu ,hastaneye sanatçı Cansever'in menajeri Hüseyin Karlı tarafından getirilen Ata Türk'ün ,vücudunda herhangi bir darp izine rastlamadıklarını belirterek ,Bu nedenle ölümü şüpheli bularak Cumhuriyet Savcılığı'na bildirdik dedi .</sentence>
+<sentence num="9">Bu arada ,Kaynana Semra olarak bilinen annesi Semra Yücel ile katıldığı televizyon programıyla tanınan Ata Türk'ün cenazesinin ,hastanedeki işlemlerinin tamamlanmasının ardından Adli Tıp Kurumu'na götürüleceği bildirildi .</sentence>
+</doc>
+<doc>
+<id>151771</id>
+<sentence num="0">2005 09 19 02 :00 :00 .Dün akşam otelde ölü bulunan Ata'nın ,baba ve ablası Adana'ya gitti ...</sentence>
+<sentence num="1">Kaldığı otel odasında ölü bulunan Ata Türk'ün babası Hamit ,ablası Sinem Türk ile yarışma programına Ata ile birlikte katılan Ahmet ,cenazeyi teslim almak için THY'nin saat 22 .45 İstanbul uçağı ile Adana'ya geldi .</sentence>
+<sentence num="2">Üzgün oldukları gözlenen baba kız havalimanı önünde bekleyen gazetecilere açıklama yapmadı .</sentence>
+<sentence num="3">Soru soran gazetecilere de tepki gösteren Hamit Türk daha sonra kızıyla birlikte kalacakları HiltonSA Oteli'ne gitti .</sentence>
+<sentence num="4">Yoğun gazeteci ilgisinden rahatsız olan baba Türk ,lobiye giren gazetecilerin dışarı çıkarılması için güvenlik görevlilerinden yardım istedi .</sentence>
+<sentence num="5">Anne Semra'nın ise oğlunun ölüm haberini alınca fenalaştığı için gelemediği öğrenildi .</sentence>
+<sentence num="6">GARSON :İKİ BİRA İÇTİ Cansever'in program yaptığı Adres Bar'da çalışan garson Murat Örnek ,Ata Türk'ün 2 bira içip bardan ayrıldığını belirtti .</sentence>
+<sentence num="7">Cansever ve Ata'nın barda 25 dakika kaldığını öne süren Örnek ,?</sentence>
+<sentence num="8">Ata ,sadece iki bira içti .</sentence>
+<sentence num="9">Buradan giderlerken sarhoş değildi .</sentence>
+<sentence num="10">Gayet sakin bir şekilde ayrıldılar .</sentence>
+<sentence num="11">Zaten 25 dakika oturdular .</sentence>
+<sentence num="12">Keşke gitmeyip otursalardı .</sentence>
+<sentence num="13">Ata şimdi yaşıyor olurdu ''dedi .</sentence>
+<sentence num="14">Adres Bar ile 5 günlük antlaşma yapan Cansever ise programını iptal ederek sahneye çıkmadı .</sentence>
+<sentence num="15">BABASI VE ABLASI HASTANEYE KALDIRILDI Kaldığı otel odasında ölü bulunan Ata Türk'ün Adana'ya gelen babası Hamit ve ablası Seçil Türk kaldıkları otelde fenalaşınca hastaneye kaldırıldı .</sentence>
+<sentence num="16">Ata ile birlikte yarışma programına katılan Ahmet ve akrabaları tarafından Universale Hastanesi'ne götürülen baba ve kızına sakinleştirici iğne yapıldı .</sentence>
+<sentence num="17">Bir süre hastanede gözlem altında tutulan Hamit Türk ve kızı daha sonra kaldıkları otele gitti .</sentence>
+<sentence num="18">Baba ve kızı hastane çıkışında soruları yine cevapsız bıraktı .</sentence>
+</doc>
+<doc>
+<id>151920</id>
+<sentence num="0">2005 09 19 11 :10 :00 .Ata'yı sevenler Semra Hanım'ı eleştiriyor ...</sentence>
+<sentence num="1">Annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="2">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün (24 )yeni bir sevgilisi olduğu ancak ,onunla evlenmesine annesinin izin vermediği öne sürüldü .</sentence>
+<sentence num="3">Televizyondaki programla tanınan ve kamuoyunda Kaynana Semra olarak bilinen Semra Yücel'in boşandığı eşi Hamit Türk ve kızı Seçil Türk ,cenazeyi almak için Adana Adli Tıp Kurumu'na geldi .</sentence>
+<sentence num="4">Adli Tıp Kurumu'nda kesin ölüm nedeninin tespiti için cesette otopsinin yapılmasını bekleyen baba ile kızının ,oldukça bitkin oldukları gözlendi .?</sentence>
+<sentence num="5">Psikiyatr görüşü :Ata'da psikolojik sorunların olması bekleniyordu YARIŞMA PSİKOLOJİYİ ETKİLİYOR Ölüm haberi üzerine cenazeyi almak için İstanbul'dan gelen ve Ata Türk ile aynı televizyon programına katılan Ahmet Akman ,Adli Tıp Kurumu önünde gazetecilere yaptığı açıklamada ,Ata ,alkolik değildi .</sentence>
+<sentence num="6">Onunla yarışma boyunca aynı evde kaldık .</sentence>
+<sentence num="7">Yarışma insanın psikolojisini değiştiriyor .</sentence>
+<sentence num="8">Herhalde daha sonradan alkol almaya başladı dedi .</sentence>
+<sentence num="9">Ahmet Akman ,Ata'nın hayat dolu ,neşeli bir insan olduğunu ,son günlerde üzgün ve mutsuz göründüğünü belirterek ,Ata'nın ölümü ,bizde şok etkisi yarattı .</sentence>
+<sentence num="10">Onun öldüğüne halen inanamıyorum .</sentence>
+<sentence num="11">Cenazeyi İstanbul'a götürüp orada toprağa vereceğiz dedi .</sentence>
+<sentence num="12">ATA'YI SEVENLER ANNEYİ SUÇLUYOR Bu arada ,televizyonda yayınlanan yarışma programı Gelinim Olur musun ?</sentence>
+<sentence num="13">u yakından izleyenler de Adli Tıp Kurumu'na gelerek ,gelişmeleri izlediler .</sentence>
+<sentence num="14">Alkol komasına girerek öldüğü sanılan ,ancak kesin ölüm nedeni henüz belli olmayan Ata'yı çok sevdiklerini ,sanki ailelerinin bir parçası haline geldiğini belirten vatandaşlar ,oğlunu çok baskı altında tuttuğunu savunarak ,annesi Semra Yücel'i suçladılar .</sentence>
+<sentence num="15">Vatandaşlar arasında bulunan ve yarışmanın tek bir bölümünü bile kaçırmadan izlediğini söyleyen Hayat Şenlitürk (63 )ise Semra Yücel'in iki seveni birbirinden ayırdığını ileri sürerek ,şunları söyledi :Semra hanım ,oğlunun yarışmanın birincisi Sinem ile evlenmesine izin vermedi .</sentence>
+<sentence num="16">Aslında bizim izlediğimiz kadarıyla Ata ,Sinem'i çok seviyordu ,ancak annesine söz geçiremedi .</sentence>
+<sentence num="17">Bir annenin ,yetişkin bir çocuğunu bu kadar baskı altında tutmasını doğru bulmadık .</sentence>
+<sentence num="18">Gençlerin evlenmelerine izin verseydi ,belki bunlar yaşanmazdı .</sentence>
+<sentence num="19">Ata ,Sinem'e olan sevgisi nedeniyle alkolde teselli aramış olabilir .</sentence>
+<sentence num="20">ANNESİ YENİ AŞKINI DA KABUL ETMEDİ Organizatör Hüseyin Karlı ,Ata Türk'ün cesedine otopsi yapıldığı Adana Adli Tıp Kurumu önünde gazetecilerin sorusu üzerine yaptığı açıklamada ,Ata Türk'ün ,İstanbul'dan Adana'ya türkücü Cansever ,menajer Erhan Arı ve kendisiyle birlikte geldiğini söyledi .</sentence>
+<sentence num="21">Ata'yı üzgün gördüğü ,daha sonra onun yeni bir aşkı olduğunu ancak ,annesinin bu kızı da kabullenmediğini öğrendiğini anlatan organizatör Hüseyin Karlı ,şunları kaydetti :Ata ,annesiyle tartışınca İstanbul'dan uzaklaşmak istedi .</sentence>
+<sentence num="22">Bizim de Adana'da 5 günlük turnemiz olduğunu öğrenince gelmek istedi ,biz de (olur )dedik .</sentence>
+<sentence num="23">Çok üzgündü ,onun için üzülüyorduk .</sentence>
+<sentence num="24">Otelde menajer Erhan Arı ile aynı odada kalıyordu .</sentence>
+<sentence num="25">Onun televizyon programında tanıyıp aşık olduğu ancak ,evlenemediği Sinem'den sonra bir başkasına aşık olduğunu öğrendik .</sentence>
+<sentence num="26">Ata'nın yeni bir aşkı vardı ve onu çok sevdiği her halinden belliydi ancak ,annesi onu da kabul etmemiş .</sentence>
+<sentence num="27">İstanbul'dan uzaklaşmak istemesinin nedeninin bu olduğunu anladık .</sentence>
+<sentence num="28">OLAY GECESİ Hüseyin Karlı ,olay gecesini anlatırken de ,Ata'nın o gece mutsuz ve bunalımda olduğunu gözlemlediğini belirterek ,konuşmasını şöyle sürdürdü :O gece geç saatlere kadar Adres Bar'da içmiş .</sentence>
+<sentence num="29">Daha sonra aralarında bir genç kızın da bulunduğu arkadaşlarıyla başka bir bara gitmiş .</sentence>
+<sentence num="30">Sabaha karşı saat 04 .00'de otele gelmiş .</sentence>
+<sentence num="31">Aynı odayı paylaştığı menajer Erhan Arı da otelde değilmiş .</sentence>
+<sentence num="32">Ata'nın ,ertesi gün odasından hiç çıkmadığını görünce odasının kapısına gidip defalarca çalmama rağmen açmadı .</sentence>
+<sentence num="33">Bunun üzerine şüphelenip ,otel görevlilerine kapıyı açtırdım .</sentence>
+<sentence num="34">İçeri girdiğimde Ata'nın önce aldığı alkolün etkisiyle baygın olduğunu düşündüm .</sentence>
+<sentence num="35">Kolonya döktüm ,uyandırmaya çalıştım ,kalp mesajı yaptım .</sentence>
+<sentence num="36">Hiçbir yaşam belirtisinin olmadığını anlayınca ,ambulans çağırdık .</sentence>
+<sentence num="37">Hastaneye götürdüğümüzde ,doktorlar ,Ata'nın çoktan öldüğünü söylediler .</sentence>
+<sentence num="38">Bu arada ,Ata Türk'ün kesin ölüm nedeninin tespiti için Adli Tıp Kurumu'nda yapılan otopsinin sonuçlarının bugün saat 17 .00 civarında alınabileceği ,cenazenin ise 19 .00'da uçakla İstanbul'a götürüleceği öğrenildi .</sentence>
+</doc>
+<doc>
+<id>151980</id>
+<sentence num="0">2005 09 19 12 :20 :00 .Ata'nın ölüm nedeni ne ?</sentence>
+<sentence num="1">Televizyondaki programla tanınan ve kamuoyunda Kaynana Semra olarak bilinen Semra Yücel'in boşandığı eşi Hamit Türk ve kızı Seçil Türk ,cenazeyi almak için Adana Adli Tıp Kurumu'na geldi .</sentence>
+<sentence num="2">Adli Tıp Kurumu'nda kesin ölüm nedeninin tespiti için cesette otopsinin yapılmasını bekleyen baba ile kızının ,oldukça bitkin oldukları gözlendi .</sentence>
+<sentence num="3">Ölüm haberi üzerine cenazeyi almak için İstanbul'dan gelen ve Ata Türk ile aynı televizyon programına katılan Ahmet Akman ,Adli Tıp Kurumu önünde gazetecilere yaptığı açıklamada ,Ata ,alkolik değildi .</sentence>
+<sentence num="4">Onunla yarışma boyunca aynı evde kaldık .</sentence>
+<sentence num="5">Yarışma insanın psikolojisini değiştiriyor .</sentence>
+<sentence num="6">Herhalde daha sonradan alkol almaya başladı dedi .</sentence>
+<sentence num="7">Ahmet Akman ,Ata'nın hayat dolu ,neşeli bir insan olduğunu ,son günlerde üzgün ve mutsuz göründüğünü belirterek ,Ata'nın ölümü ,bizde şok etkisi yarattı .</sentence>
+<sentence num="8">Onun öldüğüne halen inanamıyorum .</sentence>
+<sentence num="9">Cenazeyi İstanbul'a götürüp orada toprağa vereceğiz dedi .</sentence>
+<sentence num="10">ATA'YI SEVENLER ANNEYİ SUÇLUYOR Bu arada ,televizyonda yayınlanan yarışma programı Gelinim Olur musun ?</sentence>
+<sentence num="11">u yakından izleyenler de Adli Tıp Kurumu'na gelerek ,gelişmeleri izlediler .</sentence>
+<sentence num="12">Alkol komasına girerek öldüğü sanılan ,ancak kesin ölüm nedeni henüz belli olmayan Ata'yı çok sevdiklerini ,sanki ailelerinin bir parçası haline geldiğini belirten vatandaşlar ,oğlunu çok baskı altında tuttuğunu savunarak ,annesi Semra Yücel'i suçladılar .</sentence>
+<sentence num="13">Vatandaşlar arasında bulunan ve yarışmanın tek bir bölümünü bile kaçırmadan izlediğini söyleyen Hayat Şenlitürk (63 )ise Semra Yücel'in iki seveni birbirinden ayırdığını ileri sürerek ,şunları söyledi :Semra hanım ,oğlunun yarışmanın birincisi Sinem ile evlenmesine izin vermedi .</sentence>
+<sentence num="14">Aslında bizim izlediğimiz kadarıyla Ata ,Sinem'i çok seviyordu ,ancak annesine söz geçiremedi .</sentence>
+<sentence num="15">Bir annenin ,yetişkin bir çocuğunu bu kadar baskı altında tutmasını doğru bulmadık .</sentence>
+<sentence num="16">Gençlerin evlenmelerine izin verseydi ,belki bunlar yaşanmazdı .</sentence>
+<sentence num="17">Ata ,Sinem'e olan sevgisi nedeniyle alkolde teselli aramış olabilir .</sentence>
+<sentence num="18">OLAY NASIL GERÇEKLEŞTİ ?</sentence>
+<sentence num="19">Ata Türk (24 ),arabesk sanatçısı Cansever'le birlikte geldiği Adana'da bir otel odasında ölü bulunmuştu .</sentence>
+<sentence num="20">Adana'da Adres Bar la anlaşan sanatçı Cansever ,önceki gün bu şehre gelirken ,yakın arkadaşı olan ve son dönemde menajer olmak için sanatçılarla görünen Ata Türk de ona eşlik etti .</sentence>
+<sentence num="21">Cansever önceki akşam programına başlarken ,iddiaya göre Ata da yeni tanıştığı arkadaşlarıyla alkol aldı .</sentence>
+<sentence num="22">Bardaki programın bitmesinin ardından Ata ile Cansever ,menajer Hüseyin Karlı ile birlikte gece geç saatlerde ,kaldıkları İnönü Caddesi'ndeki orta halli Doruk Otel'e döndü .</sentence>
+<sentence num="23">Dün öğleden sonra kendisinden haber alınamaması üzerine otele gelen polisler ,Ata Türk'ün iç çamaşırı ile yatağında cansız yattığını ve ağzından kan geldiğini saptadı .</sentence>
+<sentence num="24">Cansever ve Karlı ,hemen Ata'nın annesi Semra Yücel'i arayarak acı haberi verdi .</sentence>
+<sentence num="25">Polisler tarafından bilgisine başvurulan Cansever ,şu açıklamayı yaptı :Ata ,moral bulmak için benimle birlikte geldi .</sentence>
+<sentence num="26">Sahneye çıktığım barda içkiyi biraz fazla kaçırmış .</sentence>
+<sentence num="27">Başka bir şey almışsa bilmiyorum .</sentence>
+<sentence num="28">Birkaç bira içtiğini gördüm .</sentence>
+<sentence num="29">Geç saatte geldik .</sentence>
+<sentence num="30">Herkes odasına gitti .</sentence>
+<sentence num="31">Saat 15 .00 gibi odasına girdiğimizde ağzından kan gelmişti .</sentence>
+<sentence num="32">Ambulans çağırıp hastaneye gönderdik .</sentence>
+<sentence num="33">Sonuç çok üzücü .</sentence>
+<sentence num="34">ORGANİZATÖR KARLI :ANNESİNE KIRGIN VE ÜZGÜNDÜ Semra Yücel ile katıldığı ''Gelinim Olur musun ?''</sentence>
+<sentence num="35">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün (24 )yeni bir sevgilisi olduğu ancak ,onunla evlenmesine annesinin izin vermediği öne sürüldü .</sentence>
+<sentence num="36">Organizatör Hüseyin Karlı ,Ata Türk'ün cesedine otopsi yapıldığı Adana Adli Tıp Kurumu önünde gazetecilerin sorusu üzerine yaptığı açıklamada ,Ata Türk'ün ,İstanbul'dan Adana'ya türkücü Cansever ,menajer Erhan Arı ve kendisiyle birlikte geldiğini söyledi .</sentence>
+<sentence num="37">Ata'yı üzgün gördüğü ,daha sonra onun yeni bir aşkı olduğunu ancak ,annesinin bu kızı da kabullenmediğini öğrendiğini anlatan organizatör Hüseyin Karlı ,şunları kaydetti :''Ata ,annesiyle tartışınca İstanbul'dan uzaklaşmak istedi .</sentence>
+<sentence num="38">Bizim de Adana'da 5 günlük turnemiz olduğunu öğrenince gelmek istedi ,biz de (olur )dedik .</sentence>
+<sentence num="39">Çok üzgündü ,onun için üzülüyorduk .</sentence>
+<sentence num="40">Otelde menajer Erhan Arı ile aynı odada kalıyordu .</sentence>
+<sentence num="41">Onun televizyon programında tanıyıp aşık olduğu ancak ,evlenemediği Sinem'den sonra bir başkasına aşık olduğunu öğrendik .</sentence>
+<sentence num="42">Ata'nın yeni bir aşkı vardı ve onu çok sevdiği her halinden belliydi ancak ,annesi onu da kabul etmemiş .</sentence>
+<sentence num="43">İstanbul'dan uzaklaşmak istemesinin nedeninin bu olduğunu anladık .''</sentence>
+<sentence num="44">OLAY GECESİ Hüseyin Karlı ,olay gecesini anlatırken de ,Ata'nın o gece mutsuz ve bunalımda olduğunu gözlemlediğini belirterek ,konuşmasını şöyle sürdürdü :''O gece saat 13 .30'a kadar Adres Bar'da içmiş .</sentence>
+<sentence num="45">Daha sonra aralarında bir genç kızın da bulunduğu arkadaşlarıyla başka bir bara gitmiş .</sentence>
+<sentence num="46">Sabaha karşı saat 04 .00'de otele gelmiş .</sentence>
+<sentence num="47">Aynı odayı paylaştığı menajer Erhan Arı da otelde değilmiş .</sentence>
+<sentence num="48">Ata'nın ,ertesi gün odasından hiç çıkmadığını görünce odasının kapısına gidip defalarca çalmama rağmen açmadı .</sentence>
+<sentence num="49">Bunun üzerine şüphelenip ,otel görevlilerine kapıyı açtırdım .</sentence>
+<sentence num="50">İçeri girdiğimde Ata'nın önce aldığı alkolün etkisiyle baygın olduğunu düşündüm .</sentence>
+<sentence num="51">Kolonya döktüm ,uyandırmaya çalıştım ,kalp mesajı yaptım .</sentence>
+<sentence num="52">Hiçbir yaşam belirtisinin olmadığını anlayınca ,ambulans çağırdık .</sentence>
+<sentence num="53">Hastaneye götürdüğümüzde ,doktorlar ,Ata'nın çoktan öldüğünü söylediler .''</sentence>
+<sentence num="54">Bu arada ,Ata Türk'ün kesin ölüm nedeninin tespiti için Adli Tıp Kurumu'nda yapılan otopsinin sonuçlarının bugün saat 17 .00 civarında alınabileceği ,cenazenin ise 19 .00'da uçakla İstanbul'a götürüleceği öğrenildi .</sentence>
+</doc>
+<doc>
+<id>152071</id>
+<sentence num="0">2005 09 19 14 :01 :00 .Ata ,Adana'da ölü bulundu .</sentence>
+<sentence num="1">Ata'nın kesin ölüm nedenini otopsi belirleyecek Özel bir televizyon kanalında yayınlanan 'Gelinim Olur musun ?'</sentence>
+<sentence num="2">yarışması damat adaylarından Ata Türk ,Adana'da ölü bulundu .</sentence>
+<sentence num="3">Olayla ilgili inceleme sürüyor .</sentence>
+<sentence num="4">Adana'da dün arkadaşlarıyla birlikte alkol aldıktan sonra kaldığı otele dönen Ata ,şarkıcı Cansever ve görevliler tarafından otel odasında ölü bulundu .</sentence>
+<sentence num="5">Ata'nın alkol komasına girerek öldüğü iddia edilirken ,cesedi Adana Adli Tıp Kurumu'nda incelemeye alındı .</sentence>
+<sentence num="6">İnceleme sürürken ,Ata'nın ailesi de Adana'ya gitti .</sentence>
+<sentence num="7">Ata'yla aynı programa katılan Ahmet Akman ,''Ata ,alkolik değildi .</sentence>
+<sentence num="8">Yarışma insanın psikolojisini değiştiriyor .</sentence>
+<sentence num="9">Herhalde daha sonradan alkol almaya başladı ''dedi .</sentence>
+<sentence num="10">Ata'nın hayranları Adli Tıp'a akın ederken ,cenazenin İstanbul'da toprağa verileceği belirtildi .</sentence>
+<sentence num="11">Ata'yı sevenler anneyi suçluyor Bu arada ,yarışma programı 'Gelinim Olur musun ?'</sentence>
+<sentence num="12">u yakından izleyenler de Adli Tıp Kurumu'na gelerek ,gelişmeleri izlediler .</sentence>
+<sentence num="13">Alkol komasına girerek öldüğü sanılan ,ancak kesin ölüm nedeni henüz belli olmayan Ata'yı çok sevdiklerini ,sanki ailelerinin bir parçası haline geldiğini belirten vatandaşlar ,oğlunu çok baskı altında tuttuğunu savunarak ,annesi Semra Yücel'i suçladılar .</sentence>
+<sentence num="14">Yarışmanın tek bir bölümünü bile kaçırmadan izlediğini söyleyen Hayat Şenlitürk ise Semra Yücel'in iki seveni birbirinden ayırdığını ileri sürerek ,''bir annenin ,yetişkin bir çocuğunu bu kadar baskı altında tutmasını doğru bulmadık .</sentence>
+<sentence num="15">Gençlerin evlenmelerine izin verseydi ,belki bunlar yaşanmazdı .</sentence>
+<sentence num="16">Ata ,Sinem'e olan sevgisi nedeniyle alkolde teselli aramış olabilir ''dedi .</sentence>
+<sentence num="17">24 yaşındaki Ata Türk ,türkücü Cansever ,menajeri ve arkadaşlarıyla geldiği Adana'da ,dün kaldığı otelin odasında ölü bulunmuştu .</sentence>
+<sentence num="18">Ata ,annesine kırgındı iddiası Organizatör Hüseyin Karlı ,Ata Türk'ün yeni bir aşkı olduğunu ancak annesinin bu kızı da kabullenmediği için üzgün olduğunu ileri sürdü .</sentence>
+<sentence num="19">Karlı ,''Ata ,annesiyle tartışınca İstanbul'dan uzaklaşmak istedi .</sentence>
+<sentence num="20">Bizim de Adana'da beş günlük turnemiz olduğunu öğrenince gelmek istedi ,biz de 'olur 'dedik .</sentence>
+<sentence num="21">Çok üzgündü ,onun için üzülüyordu diye konuştu .</sentence>
+</doc>
+<doc>
+<id>152086</id>
+<sentence num="0">2005 09 19 14 :15 :00 .Uzman görüşü :Olay ,ailelerin kaş yapayım derken göz çıkardığı bir durum .</sentence>
+<sentence num="1">Annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="2">programıyla tanınan ve dün Adana'daki bir otel odasında ölü bulunan Ata Türk'ün kişilik problemleri yaşadığı öne sürüldü .</sentence>
+<sentence num="3">Adana Numune Hastanesi'nde görevli Ruh Sağlığı ve Hastalıkları Uzmanı Psikiyatr Dr .Sümer Öztanrıöver ,AA muhabirine yaptığı açıklamada ,bir süre önce katıldıkları programda anne oğlu arasında yaşanan ve herkesin medya aracılığıyla şahit olduğu ilişkinin ,Ata'nın gelişimine engel olacak boyutlarda olduğunu savundu .</sentence>
+<sentence num="4">Öztanrıöver ,yayınlanan programlardaki izlenime göre ,ortada baskıcı ve sürekli baskın konumda olan bir anne ile piyon olmaktan öteye gidemeyen bir çocuk profilinin olduğunu iddia etti .</sentence>
+<sentence num="5">Baskı sonucu bir bağımlılık sendromunun ortaya çıktığını öne süren Öztanrıöver ,sürekli ailesi tarafından baskı altında olan çocukların kendilerini kanıtlamaya çalıştığını ,Ata'da da bunun gözlemlendiğini söyledi .</sentence>
+<sentence num="6">Semra Yücel'in hep çocuğunu düşünen ve herşeyi onun için yapan bir anne görünümünde olduğunu ,ancak bazen bu davranışların ters etki yarattığını belirten Öztanrıöver ,şöyle konuştu :Semra Hanım belki de iyi niyetli olarak ,oğluna baskıcı bir anne modeli uyguluyordu .</sentence>
+<sentence num="7">Ancak bu ,Ata'nın gelişmesini engelleyen bir unsur .</sentence>
+<sentence num="8">Bu tip durumlarda çocuk ,sürekli aile etkisi altında kalır .</sentence>
+<sentence num="9">Ata'nın da böyle bir etki altında kaldığını söyleyebiliriz .</sentence>
+<sentence num="10">Ata'da görüldüğü gibi baskıcı aile ortamlarında gencin ,sürekli bir onay beklentisi var .</sentence>
+<sentence num="11">Ata ,60 yaşına dahi gelseydi sürekli annesinden onay beklentisinde olacaktı .</sentence>
+<sentence num="12">Halen anne babasının gözüne bakacaktı .</sentence>
+<sentence num="13">ATA'DA PSİKOLOJİK SORUNLARIN OLMASI BEKLENİYORDU Öztanrıöver ,ailenin beklentilerinin çocuğun isteğine ters düşebileceğini ,bu durumda asi davranışların gözlemlenebileceğini dile getirdi .</sentence>
+<sentence num="14">Ailesinden yapması ve yapmaması gerekenler konusunda sürekli emirler alan çocukların ,bir kaçış içinde olacağını ve bunun sonucunda gencin kendini bataklıkta bulabileceğini vurgulayan Öztanrıöver ,şunları kaydetti :Ata da anne baskısından kaçmaya çalışmış .</sentence>
+<sentence num="15">Ata'da bu tip sorunların olması beklenilen bir şeydi .</sentence>
+<sentence num="16">Aile baskısı altındaki çocuklar alkol ,madde kullanımı ve yanlış ilişkilerle çıkış yolu aramaya çalışır .</sentence>
+<sentence num="17">Ata ,yetişkin görünümlü bir çocuk durumunda .</sentence>
+<sentence num="18">Yaşanılan olay ,ailelerin kaş yapayım derken göz çıkardığı bir durum .</sentence>
+<sentence num="19">Çocuklarını ,güçsüz durumda bırakıyorlar .</sentence>
+<sentence num="20">Çocuklara hata yapma imkanı tanımak gerekir .</sentence>
+<sentence num="21">Hatalara karşı hoşgörülü davranmalı ve sorunu kendisinin çözmesini beklemeliyiz .</sentence>
+<sentence num="22">Onun adına sorunları çözmemeliyiz .</sentence>
+<sentence num="23">Annesi sevdiği kız üzerinde bu kadar baskıcı olmasaydı ,Ata yanlışları daha iyi görebilirdi .</sentence>
+<sentence num="24">Semra Hanım ,kesin yargılar yerine (Dene ,bak ,kendin gör ,nasıl bir kız olduğuna karar ver )tarzında yaklaşımlar sergileseydi ,zaten yanlış bir ilişki içindeyse bunu bir süre sonra anlayacaktı .</sentence>
+<sentence num="25">Öztanrıöver ,doğru yanlış tarzında kesin yargıların gençleri olgunlaştırmayacağını belirterek ,Ata'nın yaşaması halinde bile çok mutlu olmayacağını öne sürdü .</sentence>
+</doc>
+<doc>
+<id>152348</id>
+<sentence num="0">2005 09 19 23 :15 :00 .Ata Türk'ün cenazesi İstanbul'a getirildi ...</sentence>
+<sentence num="1">Adana'da kaldığı otel odasında ölü bulunan Gelinim Olur musun adlı televizyon programıyla tanınan Ata Türk'ün cenazesi Adana'dan İstanbul'a getirildi .</sentence>
+<sentence num="2">Türk Hava Yolları'nın (THY )tarifeli uçağıyla Atatürk Havalimanı'na getirilen Türk'ün cenazesi ,kargo terminalinde babası Hamit Türk ve yakınları tarafından teslim alındı .</sentence>
+<sentence num="3">Cenaze arabasına konularak götürülen Türk'ün cenazesinin yarın toprağa verileceği öğrenildi .</sentence>
+</doc>
+<doc>
+<id>152350</id>
+<sentence num="0">2005 09 19 23 :23 :00 .Ata'nın cenazesi İstanbul'a getirildi .</sentence>
+<sentence num="1">Türk Hava Yolları'nın uçağıyla Atatürk Havalimanı'na getirilen Türk'ün cenazesi ,kargo terminalinde babası Hamit Türk ve yakınları tarafından teslim alındı .</sentence>
+<sentence num="2">Türk'ün cenazesinin yarın toprağa verileceği öğrenildi .</sentence>
+<sentence num="3">AA .</sentence>
+</doc>
+<doc>
+<id>152353</id>
+<sentence num="0">2005 09 20 00 :00 :00 .Ata'nın cenazesi İstanbul'a getirildi .</sentence>
+<sentence num="1">Adana'da kaldığı otel odasında ölü bulunan Gelinim Olur musun adlı televizyon programıyla tanınan Ata Türk'ün cenazesi Adana'dan İstanbul'a getirildi .</sentence>
+<sentence num="2">Türk Hava Yolları'nın (THY )tarifeli uçağıyla Atatürk Havalimanı'na getirilen Türk'ün cenazesi ,kargo terminalinde babası Hamit Türk ve yakınları tarafından teslim alındı .</sentence>
+<sentence num="3">Cenaze arabasına konularak götürülen Türk'ün cenazesinin yarın toprağa verileceği öğrenildi .</sentence>
+</doc>
+<doc>
+<id>152361</id>
+<sentence num="0">2005 09 20 00 :15 :00 .Ata'nın cenazesi İstanbul'a getirildi .</sentence>
+<sentence num="1">Ata'nın cenazesi İstanbul'a getirildi Adana'da kaldığı otel odasında ölü bulunan ''Gelinim Olur musun ''adlı televizyon programıyla tanınan Ata Türk'ün cenazesi Adana'dan İstanbul'a getirildi .</sentence>
+<sentence num="2">Türk Hava Yolları'nın (THY )tarifeli uçağıyla Atatürk Havalimanı'na getirilen Türk'ün cenazesi ,kargo terminalinde babası Hamit Türk ve yakınları tarafından teslim alındı .</sentence>
+<sentence num="3">Cenaze arabasına konularak götürülen Türk'ün cenazesinin yarın toprağa verileceği öğrenildi .</sentence>
+</doc>
+<doc>
+<id>152414</id>
+<sentence num="0">2005 09 20 08 :32 :00 .Ata'nın kanında uyuşturucuya rastlandı .</sentence>
+<sentence num="1">Ata Türk'ün cenazesi ailesi ve yakınları tarafından İstanbul'a getirildi 'Gelinim olur musun ?'</sentence>
+<sentence num="2">adlı yarışma programında damat adayı olarak tanınan Ata Türk'ün ölümüyle ilgili soruşturmada ,Türk'ün kan örneğinde uyuşturucuya rastlandı .</sentence>
+<sentence num="3">Ata'nın alkol komasına girerek öldüğü iddia edilirken ,cesedi Adana Adli Tıp Kurumu'nda incelemeye alındı .</sentence>
+<sentence num="4">Türk'ün kanında aşırı miktarda 'Extacy 'adlı uyuşturucu ve uyarıcı nitelikli ilaç ,az miktarda da esrar maddesine rastlandı .</sentence>
+<sentence num="5">Alkol oranı ise yok denecek kadar az düzeyde bulundu .</sentence>
+<sentence num="6">Gencin kesin ölüm nedeni ise henüz açıklanmadı .</sentence>
+<sentence num="7">Polis ,şimdi Türk'ün ölmeden önce görüştüğü kişileri soruşturuyor .</sentence>
+<sentence num="8">Otopsinin tamamlanmasının ardından Türk'ün cenazesi ailesi tarafından alınarak ,İstanbul'a götürüldü .</sentence>
+<sentence num="9">Adana'da geçtiğimiz pazar günü arkadaşlarıyla birlikte alkol aldıktan sonra otele dönen Ata ,şarkıcı Cansever ve görevliler tarafından otel odasında ölü bulunmuştu .</sentence>
+</doc>
+<doc>
+<id>152429</id>
+<sentence num="0">2005 09 20 09 :02 :00 .Ata'nın ölümündeki sır çözüldü .</sentence>
+<sentence num="1">Otel odasında ölü bulunan Ata Türk'ün kan örneğinde yapılan incelemede 'aşırı miktarda Extacy adlı uyuşturucu ve uyarıcı nitelikli ilaç maddesine 'rastlandı .</sentence>
+<sentence num="2">Türkücü Cansever ,Adana'ya gelmeden önce Semra Hanım'ın oğlunu 'O pis şeylerden içme 'diye uyardığını söyledi .'</sentence>
+<sentence num="3">GELİNİM Olur musun ?'</sentence>
+<sentence num="4">adlı televizyon programında 'Kaynana Semra 'olarak ünlenen Semra Yücel'in ,oğlu 24 yaşındaki Ata Türk'ün uyuşturucudan öldüğü belirlendi .</sentence>
+<sentence num="5">Adana Adli Tıp Kurumu'nda Ata Türk'ün cesedinden alınan kan örneği ,kısa sürede incelendi .</sentence>
+<sentence num="6">Türk'ün ,aşırı miktarda Extacy adlı uyuşturucu ve uyarıcı nitelikli ilaç ve az miktarda da esrar maddesine rastlandı .</sentence>
+<sentence num="7">Alkol oranı ise yok denecek kadar az düzeyde bulundu .</sentence>
+<sentence num="8">Polis bu bulgular üzerine Ata Türk'ün ölmeden önceki geceyi birlikte geçirdiği kişileri mercek altına aldı .</sentence>
+<sentence num="9">Türk'ün intihar amaçlı bu ilaçları almış olabileceği ihtimali de araştırılıyor .</sentence>
+<sentence num="10">ANNE 'İÇME 'DEMİŞ Ata Türk'ün birlikte Adana'ya gittiği türkücü Cansever ,ilginç açıklamalarda bulundu .</sentence>
+<sentence num="11">Cansever Adana'ya gitmeden önce Semra Hanım'ın ,Ata'yı 'O pis şeylerden içme 'diye uyardığını söyledi .</sentence>
+<sentence num="12">Cansever şunları anlattı :'Ata ,Adana'ya program yapmaya gideceğimi duymuş .</sentence>
+<sentence num="13">Beni telefonla arayarak ,moralinin çok bozuk olduğunu ,morale ihtiyacı olduğunu söyleyip benimle gelmek istediğini belirtti .</sentence>
+<sentence num="14">Annesinden izin almam için beni evlerine davet etti .</sentence>
+<sentence num="15">Ben de Ata'yı kırmayıp evlerine gittim .</sentence>
+<sentence num="16">Semra Hanım'ı ilk kez orada görüp tanıştım .</sentence>
+<sentence num="17">Ata'nın da benimle gelmesi için izin istedim .</sentence>
+<sentence num="18">Semra Hanım izin verdi .</sentence>
+<sentence num="19">Ancak ,oğlu Ata'ya da ,'O pis şeylerden içme .</sentence>
+<sentence num="20">İçersen hakkımı sana helal etmem 'diyerek uyarıda bulundu .'</sentence>
+<sentence num="21">CENAZE BUGÜN Semra Yücel'in evinde dün mevlit okutuldu .</sentence>
+<sentence num="22">Sakinleştirici ilaçlarla ayakta durabilen ,hemşireler tarafından sürekli kontrol altında tutulan Semra Hanım'ın ,aile yakınları dahil kimseyi yanına almadığı öğrenildi .</sentence>
+<sentence num="23">Cenaze bugün Fatih Camii'nde kılınacak ikindi namazına müteakip Habibler Mezarlığı'nda toprağa verilecek .</sentence>
+<sentence num="24">Son görüntüleri KANAL D Haber ,Ata Türk'ün ölümüne saatler kala yapılan bir röportajı yayınladı .</sentence>
+<sentence num="25">Adana'ya birlikte geldiği Cansever'in sahneye çıktığı Adres Bar'da yapılan röportaj sırasında masasında bira şişeleri olduğu görülen Türk ,Adana'yı ve kebabı çok sevdiğini söylüyor .</sentence>
+<sentence num="26">17 Eylül gece yarısı yapılan röportajda ,Adana'yı henüz gezemediğini belirten Ata Türk ,röportajda Adana'yı 18 Eylül Pazar günü gezeceğini söylüyor .</sentence>
+<sentence num="27">Baba ile abla gözyaşı döktü Ata'nın ölüm haberinin ardından Adana'ya giden baba Hamit Türk ve ablası Seçil Türk cenazeyi gözyaşları arasında teslim aldı .</sentence>
+<sentence num="28">Oğlunun tabutuna sarılarak ağlayan babayı TV'deki programda yarışmacı olan Ahmet Akman teselli etmeye çalıştı .</sentence>
+<sentence num="29">Cenazenin teslimi sırasında sık sık fenalaşan Ata'nın ablası Seçil'i de yatıştırmak Akman'a düştü .</sentence>
+<sentence num="30">Acılı baba kız Ata'nın cenazesini alarak dün uçakla İstanbul'a döndü .</sentence>
+<sentence num="31">Son gecenin sırrı menajer Erhan'da ATA Türk'ün yarışmadaki rakibi ,yakın dostu olan Ahmet Akman ,Hürriyet'e konuştu .</sentence>
+<sentence num="32">Ata'nın ablası ve babası ile birlikte cenazeyi İstanbul'a getirmek için önceki akşam Adana'ya giden Ahmet Akman ,Ata'nın ölümüyle ilgili ilginç açıklamalarda bulundu .</sentence>
+<sentence num="33">Ahmet Akman ,'Bütün sır Cansever'in menajeri Erhan Arı'da saklı 'dedi .</sentence>
+<sentence num="34">İşte Akan'ın açıklamaları :01 .00 ile 04 .00 saatleriarasında neler oldu ?'</sentence>
+<sentence num="35">Cansever'in bardaki programı saat 23 .00 gibi bitmiş .</sentence>
+<sentence num="36">Yanlarında Erhan (Arı )diye bir şahıs daha var .</sentence>
+<sentence num="37">Üçü kaldıkları otele geliyorlar .</sentence>
+<sentence num="38">Erhan ile Ata'nın ,otelde aynı odada kaldıklarını öğrendim .</sentence>
+<sentence num="39">Gece yarısı 01 .00 gibi Ata ,Erhan'la birlikte otelden ayrılıyor .</sentence>
+<sentence num="40">Sabaha karşı 04 .00'te geri dönüyorlar .</sentence>
+<sentence num="41">Ata ayakta duracak durumda değilmiş .</sentence>
+<sentence num="42">Bunu da otel görevlileri söylüyor .</sentence>
+<sentence num="43">Erhan görevlilerle beraber ,Ata'yı odasına çıkartıyor .</sentence>
+<sentence num="44">Erhan Arı ,Ata'nın alkolü fazla kaçırdığını söylüyor .</sentence>
+<sentence num="45">Ayakkabılarını bile çıkartmadan yatağa yatırdığını söylediler .</sentence>
+<sentence num="46">Erhan 15 .00'te uyanmış ama Ata'yı uyandıramamış .</sentence>
+<sentence num="47">Cansever'e söylemiş .</sentence>
+<sentence num="48">Birlikte yukarı çıkmışlar .</sentence>
+<sentence num="49">Ata yan yatıyormuş ,çevirdikleri zaman ağzından kan geldiğini görmüşler .</sentence>
+<sentence num="50">112 Acil'i aramışlar .</sentence>
+<sentence num="51">Ambulans geldiğinde Ata hayata gözlerini yummuş .</sentence>
+<sentence num="52">Ben Erhan Bey'i gördüm .</sentence>
+<sentence num="53">Farklı cinsel tercihi olan biri olduğu doğrudur .</sentence>
+<sentence num="54">Ata'nın böyle bir eğilimi yoktu .</sentence>
+<sentence num="55">Ama yine de emin olamıyorum ,çünkü gece 01 .00 ile 04 .00 arasını onlar yaşadılar .</sentence>
+<sentence num="56">Ata bu saatten sonra konuşamaz .</sentence>
+<sentence num="57">Bütün sır Erhan'da saklı .</sentence>
+<sentence num="58">Doktorlara Ata'nın kıyafetlerini almak istediğimi söyledim ama Ata'nın hastaneye çıplak geldiğini söylediler .</sentence>
+<sentence num="59">Sadece üzerinde boxer'ı varmış .</sentence>
+<sentence num="60">Erhan Bey ise 'Yatarken ayakkabılarını bile çıkartmama izin vermedi 'dedi .</sentence>
+<sentence num="61">Burada bir çelişki var .'</sentence>
+<sentence num="62">Şehit verdim OĞLU Ata'nın ölümüyle zor günler geçiren Semra Yücel ,dün sabah küçük oğlu Anıl'ı aramak için Bayrampaşa'daki evinden dışarı çıktı .</sentence>
+<sentence num="63">Evladını kaybetmenin acısını yaşayan Semra Hanım'ın başsağlığı dileklerine ,'Dostlar sağolsun .</sentence>
+<sentence num="64">Ben hiç üzgün değilim .</sentence>
+<sentence num="65">Asker kızıyım ,güçlüyüm .</sentence>
+<sentence num="66">Bunca şehit varken benim de bir şehit vermem gerekiyordu 'şeklinde cevap vermesi ,dikkat çekti .</sentence>
+<sentence num="67">Semra Hanım yeni kız arkadaşı da beğenmemiş Otel odasında ölen oğlu 24 yaşındaki Ata Türk'ün yeni bir kız arkadaşı olduğu ortaya çıktı .</sentence>
+<sentence num="68">Ata Türk'ü Adana'da konuk edenlerden ,organizatör Hüseyin Karlı ,'Ata ,İlkay adında bir sanatçı ile birlikte olduğunu ,annesinin bu beraberliğe karşı çıktığını anlattı .'</sentence>
+<sentence num="69">İyi ki geldim 'diyordu .</sentence>
+<sentence num="70">Annesinin bu kızla olan birlikteliğini de istemediğini söylüyordu 'dedi .</sentence>
+<sentence num="71">Semra Hanım'ın kız kardeşi Süheyla Gürbüzer'in oğlu Nihat Gürbüzer de ,Ata Türk'ün bu ilişkisini bildiklerini belirterek ,şöyle konuştu :'Bu olay bizi çok sarstı .</sentence>
+<sentence num="72">Olayı duyar duymaz Antalya'dan teyzemin yanına geldik .</sentence>
+<sentence num="73">Ata'nın İlkay adında bir kız arkadaşı olduğunu biliyorum .</sentence>
+<sentence num="74">Onunla bu sektörde tanışmış .'</sentence>
+<sentence num="75">3 4 duble viski içti Ata Türk'ün en son görüştüğü kişilerden birisi de Adres Bar'ın sahibi Ramazan Gürer oldu .</sentence>
+<sentence num="76">Ata'nın ,barda çok az bira içtiğini ,meyve ve çerez dahi yemediğini söyleyen Gürer ,'Çok neşeliydi .</sentence>
+<sentence num="77">Sarhoş değildi .</sentence>
+<sentence num="78">Ne olduysa bizim bardan çıktıktan sonra olmuş 'dedi .</sentence>
+<sentence num="79">Gürer ,şöyle konuştu :'Bizim bardan çıktıktan sonra kötü bir mekana gitmişler .</sentence>
+<sentence num="80">Cansever'in basın danışmanı Erhan ile Ata'nın yanında Bülent diye birisi varmış .</sentence>
+<sentence num="81">Orada 3 4 duble viski içmişler .</sentence>
+<sentence num="82">Çorba içmeye gitmişler .</sentence>
+<sentence num="83">Sonra da otele geçmişler .'</sentence>
+<sentence num="84">Bana 'abla 'derdi ATA'nın sevgilisi olduğu iddia edilen İlkay Özen iddiaları reddetti .</sentence>
+<sentence num="85">Özen şöyle dedi :'Ata'nın kız arkadaşı değilim .</sentence>
+<sentence num="86">Sadece bir süre birlikte çalıştık .</sentence>
+<sentence num="87">Ailece görüşüyoruz .</sentence>
+<sentence num="88">Enez'deki Av ve Balık Festivali'nde festivalin sunuculuğunu yapmıştı .</sentence>
+<sentence num="89">Herşeyden önce Ata bana abla diye hitap ederdi .</sentence>
+<sentence num="90">Abla kardeş ,patron çalışan ilişkisi dışında aramızda hiçbir şey olmadı .</sentence>
+<sentence num="91">Cuma günü şehirdışından geliyordum .</sentence>
+<sentence num="92">Semra Teyze'ye gittik .</sentence>
+<sentence num="93">Ata gayet iyi görünüyordu .</sentence>
+<sentence num="94">Otururken Cansever ile menajer Erhan geldi .</sentence>
+<sentence num="95">Erhan'ı tanıyordum ,gay .Fakat Ata ,asla eşcinsel eğilimi olan bir çocuk değildi ...'</sentence>
+<sentence num="96">Olayda çok çelişkili ifadeler olduğunu söyleyen İlkay Özen ,'Enteresan şeyler dönüyor .</sentence>
+<sentence num="97">Ata ,alkol alan ,uyuşturucu kullanan biri değildi .</sentence>
+<sentence num="98">Tek kötü alışkanlığı sigaraydı .</sentence>
+<sentence num="99">Semra Hanım da ben de bırakması yönünde baskı yapıyorduk 'dedi .</sentence>
+<sentence num="100">Ata'nın öleceğini rüyamda gördüm 'GELİNİM Olur musun 'programında anne Semra Yücel'in engellemesiyle Ata Türk'le evliliği suya düşen Sinem Umaş ,'Ata'nın öleceğini iki ay önce rüyamda gördüm 'dedi .</sentence>
+<sentence num="101">Show TV ana haber bültenine katılan Sinem ,Ata'nın kendisini büyük bir aşkla sevdiğini söyledi .</sentence>
+<sentence num="102">Sinem gördüğü rüyayı şöyle anlattı :'2 ay önce Ata'nın öldüğünü rüyamda gördüm .</sentence>
+<sentence num="103">Bir yere çekime gidiyorduk .</sentence>
+<sentence num="104">Ata uçaktan düştü .</sentence>
+<sentence num="105">Çok karışık bir rüyaydı .</sentence>
+<sentence num="106">Daha sonra kendisini arayıp konuşmak istedim .</sentence>
+<sentence num="107">Ama telefon numarası olmadığı için konuşamadım .'</sentence>
+<sentence num="108">Sinem ,daha sonra program sırasında Ata ile evlenmelerini engelleyen Semra Yücel'in evine giderek başsağlığı diledi .</sentence>
+<sentence num="109">Ziyaret sırasında başörtüsü takan Sinem ,20 dakika sonra evden ayrıldı .(</sentence>
+<sentence num="110">Hürriyet ).</sentence>
+</doc>
+<doc>
+<id>152464</id>
+<sentence num="0">2005 09 20 09 :37 :00 .Semra Hanım :Ata'nın ölümüne üzülmüyorum .</sentence>
+<sentence num="1">Anne Semra Yücel ,Gelinim Olur musun ?</sentence>
+<sentence num="2">yarışmasında şık olduğun zaman ben sana söylerim dediği oğlu Ata'nın ölümünü soğukkanlılıkla karşıladı .</sentence>
+<sentence num="3">Semra Hanım ,Üzülmüyorum .</sentence>
+<sentence num="4">Çünkü ben asker kızıyım .</sentence>
+<sentence num="5">Bir şehit vermem gerekiyordu ,verdim .</sentence>
+<sentence num="6">Bunca şehit varken benim de vermem gerekiyordu .</sentence>
+<sentence num="7">Ben Allah'tan büyük değilim ,demek ki yanına alması gerekiyordu dedi .</sentence>
+<sentence num="8">Ani şöhret 'Ne oldum 'dedirtiyor !</sentence>
+<sentence num="9">Ata Türk'ün Adana'da bir otel odasında ölü bulunması ,bir programla şöhreti yakalayanların psikolojisini bir kez daha tartışılır hale getirdi .</sentence>
+<sentence num="10">Uzmanlar ,Ata gibi kişilerin 'normsuzluk psikolojisi'ne girdiğini savunuyor :Prof .Dr .Nilüfer Narlı (Sosyolog ):Ata dar gelirli bir aileden geliyordu .</sentence>
+<sentence num="11">Bu yarışma programıyla ismini duyurabildi ve bir anda üne kavuştu .</sentence>
+<sentence num="12">Daha iyi iş bulabilecek ,çok rahat para kazanabilecek sandı .</sentence>
+<sentence num="13">Ata da bu şekilde ünlenen ve tükenen bir insan oldu .</sentence>
+<sentence num="14">Türkiye'de h l çok sayıda insan ,fikirleri ya da olayları konuşmaktansa insanları konuşarak vaktini geçiriyor .</sentence>
+<sentence num="15">Bu da ,o konuşulan insanların bir anda ne oldum demesine neden oluyor .</sentence>
+<sentence num="16">Ancak yine de kişilerin kendi sorumluluğu var .</sentence>
+<sentence num="17">Ata tercihini yaptı .</sentence>
+<sentence num="18">Bu aşamada annesi ve toplum tarafından yönlendirildi .</sentence>
+<sentence num="19">Belki de kafası karıştı .</sentence>
+<sentence num="20">Bence bir normsuzluk psikolojisine girdi diyebiliriz .</sentence>
+<sentence num="21">Neyin doğru neyin yanlış olduğuna karar veremedi .</sentence>
+<sentence num="22">Prof .Dr .Kerem Doksat (Psikiyatrist ):Bir yandan televizyonda bütün Türkiye sizi takip ediyor ,bir yandan da şöhretle kendinize göre bir para kazanıyorsunuz .</sentence>
+<sentence num="23">İnsanlar ,daha önce hayal bile edemeyecekleri imk nlar görüyorlar .</sentence>
+<sentence num="24">İnsanlar hem cahil ,hem kimlik ve kendilik karmaşası yaşıyorlar .</sentence>
+<sentence num="25">Temeli bozuk olan bir yere gökdelen dikerseniz en ufak bir sarsıntıda yıkılır .</sentence>
+<sentence num="26">Bir nevi insan depremi bu .(</sentence>
+<sentence num="27">Milliyet ).</sentence>
+</doc>
+<doc>
+<id>152538</id>
+<sentence num="0">2005 09 20 10 :50 :00 .Semra Hanım :'Üzülmüyorum ,şehit verdim '.</sentence>
+<sentence num="1">MAGAZİN SERVİSİ Anne Semra Yücel ,Gelinim Olur musun ?</sentence>
+<sentence num="2">yarışmasında şık olduğun zaman ben sana söylerim dediği oğlu Ata'nın ölümünü soğukkanlılıkla karşıladı .</sentence>
+<sentence num="3">Semra Hanım ,Üzülmüyorum .</sentence>
+<sentence num="4">Çünkü ben asker kızıyım .</sentence>
+<sentence num="5">Bir şehit vermem gerekiyordu ,verdim .</sentence>
+<sentence num="6">Bunca şehit varken benim de vermem gerekiyordu .</sentence>
+<sentence num="7">Ben Allah'tan büyük değilim ,demek ki yanına alması gerekiyordu dedi .</sentence>
+<sentence num="8">ŞEHİT DERNEĞİNDEN TEPKİ İzmir Şehit Aileleri Derneği Başkanı Yavuz Alphan ,televizyonda yayınlanan Gelinim Olur musun ?</sentence>
+<sentence num="9">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün (24 )annesi Semra Yücel'in acısına saygı duyduklarını ,ancak Oğlum şehit oldu biçimindeki ifadesini doğru bulmadıklarını söyledi .</sentence>
+<sentence num="10">Alphan ,AA muhabirine yaptığı açıklamada ,şehitliğin yüce bir makam olduğunu ,şehit aileleri olarak ve bu sıfatın gelişigüzel kullanılmasını kabullenemediklerini söyledi .</sentence>
+<sentence num="11">Hayatını kaybeden Ata Türk için şehit denemeyeceğini vurgulayan Alphan ,şöyle konuştu :Annenin acısına saygı duyuyoruz .</sentence>
+<sentence num="12">Gencecik yavrusunu kaybetti ,Allah kendisine sabır versin .</sentence>
+<sentence num="13">Ancak gazetelerde (Benim babam subaydı ,oğlum da şehit oldu )dediğini okuduk .</sentence>
+<sentence num="14">Bunu gören dernek mensuplarımız duruma tepki gösteriyor .</sentence>
+<sentence num="15">Bu ifadeleri doğru bulmuyoruz .</sentence>
+<sentence num="16">Şehitlik yüce bir mertebedir .</sentence>
+<sentence num="17">Bu şekilde ölen birisine şehit denmeyeceğini herkes bilir ..</sentence>
+</doc>
+<doc>
+<id>152777</id>
+<sentence num="0">2005 09 20 15 :19 :00 .TV yarışmacısı Ata'nın cenazesi toprağa verildi .</sentence>
+<sentence num="1">TV yarışmacısı Ata'nın cenazesi toprağa verildi Annesi Semra Yücel ile katıldığı ''Gelinim Olur musun ?''</sentence>
+<sentence num="2">adlı TV programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün cenazesi ,İstanbul'da toprağa verildi .</sentence>
+<sentence num="3">Türk (24 )için Fatih Camii'nde düzenlenen törene ,babası Hamit Türk ve ablası Seçil ile arkadaşları ve çok sayıda vatandaş katıldı .</sentence>
+<sentence num="4">Anne Semra Yücel ise tansiyonu düştüğü için camiye geldiği araçtan çıkmadı .</sentence>
+</doc>
+<doc>
+<id>152797</id>
+<sentence num="0">2005 09 20 15 :45 :00 .Ata'nın cenezisin Türk bayrağına sardılar !</sentence>
+<sentence num="1">Annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="2">adlı TV programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün cenazesi ,İstanbul'da toprağa verildi .</sentence>
+<sentence num="3">Ünlü simaları görmek isteyen çok sayıda vatandaş törene katılınca ,cenaze miting alanına döndü .</sentence>
+<sentence num="4">Yapılan otopsi sonucu extacy kurbanı olduğu anlaşılan Ata'nın tabutunun şehit olmuş gibi Türk Bayrağı'na sarılması ise tartışmalara neden oldu .</sentence>
+<sentence num="5">Kimlerin tabutunun Türk bayrağına sarılacağı yasalarla belirlendiği halde ,Ata Türk'ün cenazesinin keyfi bir şekilde Türk bayrağına sarılması ve arkasında Gelinim Olur musun yarışmacılarının sıralanması tepki çekti .</sentence>
+<sentence num="6">Türk (24 )için Fatih Camii'nde düzenlenen törene ,babası Hamit Türk ve ablası Seçil ile arkadaşları katıldı .</sentence>
+<sentence num="7">Anne Semra Yücel ise tansiyonu düştüğü için camiye geldiği araçtan çıkmadı .</sentence>
+<sentence num="8">ARBEDE ÇIKTI Tören sırasında ,görüntü almaya çalışan basın mensupları ile koruma oldukları ifade edilen bazı kişiler arasında arbede çıktı .</sentence>
+<sentence num="9">Bu nedenle cami avlusunu dolduran kişiler arasında bulunan çocuklar ezilme tehlikesi geçirdi .</sentence>
+<sentence num="10">Bu sırada ,Ata'nın ablası Seçil de fenalık geçirdiği için yakınları tarafından avludan uzaklaştırıldı .</sentence>
+<sentence num="11">Ata'nın bir yarışmacı arkadaşının da katılımıyla büyüyen arbede ,araya giren Hamit Türk ve bazı vatandaşların müdahalesiyle yatıştırıldı .</sentence>
+<sentence num="12">Ata Türk'ün cenazesi ,öğle vakti kılınan namazın ardından götürüldüğü Cebeci Mezarlığı'nda toprağa verildi .</sentence>
+<sentence num="13">SEMRA HANIM NE DEMİŞTİ ?</sentence>
+<sentence num="14">Semra Yücel ,oğlu Ata'nın ölümünün ardından Üzülmüyorum .</sentence>
+<sentence num="15">Çünkü ben asker kızıyım .</sentence>
+<sentence num="16">Bir şehit vermem gerekiyordu ,verdim .</sentence>
+<sentence num="17">Bunca şehit varken benim de vermem gerekiyordu .</sentence>
+<sentence num="18">Ben Allah'tan büyük değilim ,demek ki yanına alması gerekiyordu demişti .</sentence>
+<sentence num="19">Bu sözlere şehit derneklerinden tepki gelmişti .</sentence>
+</doc>
+<doc>
+<id>152801</id>
+<sentence num="0">2005 09 20 15 :50 :00 .Ata Türk'ün cenazesinde olay .</sentence>
+<sentence num="1">Annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="2">adlı programla tanınan ve kaldığı otel odasında ölü bulunan Ata Türk'ün cenazesi ,İstanbul'da toprağa verildi ve cenazede olaylar çıktı .</sentence>
+<sentence num="3">Türk (24 )için Fatih Camii'nde düzenlenen törene ,babası Hamit Türk ve ablası Seçil ile arkadaşları ve çok sayıda vatandaş katıldı .</sentence>
+<sentence num="4">Anne Semra Yücel ise tansiyonu düştüğü için camiye geldiği araçtan çıkmadı .</sentence>
+<sentence num="5">Tören sırasında ,görüntü almaya çalışan basın mensupları ile koruma oldukları ifade edilen bazı kişiler arasında arbede çıktı .</sentence>
+<sentence num="6">Bu nedenle cami avlusunu dolduran kişiler arasında bulunan çocuklar ezilme tehlikesi geçirdi .</sentence>
+<sentence num="7">Bu sırada ,Ata'nın ablası Seçil de fenalık geçirdiği için yakınları tarafından avludan uzaklaştırıldı .</sentence>
+<sentence num="8">Ata'nın bir yarışmacı arkadaşının da katılımıyla büyüyen arbede ,araya giren Hamit Türk ve bazı vatandaşların müdahalesiyle yatıştırıldı .</sentence>
+<sentence num="9">Ata Türk'ün cenazesi ,öğle vakti kılınan namazın ardından götürüldüğü Cebeci Mezarlığı'nda toprağa verildi .</sentence>
+</doc>
+<doc>
+<id>152887</id>
+<sentence num="0">2005 09 20 17 :45 :00 .</sentence>
+<sentence num="1">Bu cenaze neden bayrağa sarıldı ?</sentence>
+<sentence num="2">Annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="3">adlı TV programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün cenazesi ,İstanbul'da toprağa verildi .</sentence>
+<sentence num="4">Ünlü simaları görmek isteyen çok sayıda vatandaş törene katılınca ,cenaze miting alanına döndü .</sentence>
+<sentence num="5">Ata'nın tabutunun Türk Bayrağı'na sarılması ise tartışmalara neden oldu .</sentence>
+<sentence num="6">ŞEHİT AİLELERİNDEN TEPKİ İzmir Şehit Aileleri Derneği Başkanı Yavuz Alphan ,televizyonda yayınlanan ''Gelinim Olur musun ?''</sentence>
+<sentence num="7">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün (24 )annesi Semra Yücel'in acısına saygı duyduklarını ,ancak ''Oğlum şehit oldu ''biçimindeki ifadesini doğru bulmadıklarını söyledi .</sentence>
+<sentence num="8">Alphan ,yaptığı açıklamada ,şehitliğin yüce bir makam olduğunu ,şehit aileleri olarak ve bu sıfatın gelişigüzel kullanılmasını kabullenemediklerini söyledi .</sentence>
+<sentence num="9">Hayatını kaybeden Ata Türk için ''şehit ''denemeyeceğini vurgulayan Alphan ,şöyle konuştu :''Annenin acısına saygı duyuyoruz .</sentence>
+<sentence num="10">Gencecik yavrusunu kaybetti ,Allah kendisine sabır versin .</sentence>
+<sentence num="11">Ancak gazetelerde (Benim babam subaydı ,oğlum da şehit oldu )dediğini okuduk .</sentence>
+<sentence num="12">Bunu gören dernek mensuplarımız duruma tepki gösteriyor .</sentence>
+<sentence num="13">Bu ifadeleri doğru bulmuyoruz .</sentence>
+<sentence num="14">Şehitlik yüce bir mertebedir .</sentence>
+<sentence num="15">Bu şekilde ölen birisine şehit denmeyeceğini herkes bilir .''</sentence>
+<sentence num="16">SEMRA HANIM NE DEMİŞTİ ?</sentence>
+<sentence num="17">Semra Yücel ,oğlu Ata'nın ölümünün ardından Üzülmüyorum .</sentence>
+<sentence num="18">Çünkü ben asker kızıyım .</sentence>
+<sentence num="19">Bir şehit vermem gerekiyordu ,verdim .</sentence>
+<sentence num="20">Bunca şehit varken benim de vermem gerekiyordu .</sentence>
+<sentence num="21">Ben Allah'tan büyük değilim ,demek ki yanına alması gerekiyordu demişti .</sentence>
+<sentence num="22">Bu sözlere şehit derneklerinden tepki gelmişti .</sentence>
+<sentence num="23">aa .</sentence>
+</doc>
+<doc>
+<id>153067</id>
+<sentence num="0">2005 09 21 09 :00 :00 .Ata'nın tabutuna Türk Bayrağı sarılmasıyla ilgili soruşturma başlatıldı .</sentence>
+<sentence num="1">İçişleri Bakanlığı ,Ata Türk isimli vatandaşın tabutuna yeşil örtü üzerine Türk Bayrağı örtülmesi ile ilgili olarak İstanbul Valiliği'nce Türk Bayrağı Kanunu ve Türk Bayrağı Tüzüğü'ne muhalefetten soruşturma başlatıldığını bildirdi .</sentence>
+<sentence num="2">Bakanlıktan yapılan yazılı açıklamada ,Adana'da vefat eden ve katıldığı bir televizyon programı nedeniyle kamuoyunda tanınan Ata Türk isimli vatandaşın İstanbul Fatih Camii'ndeki cenaze töreninde yakınlarının tabuta yeşil cenaze örtüsünün üzerine Türk Bayrağı örtmelerinin tespiti üzerine ,İstanbul Valiliği'nce dün 2896 sayılı Türk Bayrağı Kanunu ve 18697 sayılı Türk Bayrağı Tüzüğü'ne muhalefetten soruşturma başlatıldığını ve gerekli yasal işlemin yapıldığı belirtildi .</sentence>
+<sentence num="3">Açıklamada ,Türk Bayrağı Kanunu ve Türk Bayrağı Tüzüğü'ne göre ,kimlerin cenaze törenlerinde tabutlarına Türk Bayrağı örtüleceğinin hükme bağlandığı hatırlatılarak ,şöyle denildi :2983 Sayılı Türk Bayrağı Kanunu ve 17 Mart 1985 tarih ve 18697 Sayılı Türk Bayrağı Tüzüğü'ne göre ,kimlerin cenaze törenlerinde tabutlarına Türk Bayrağı örtüleceği hükme bağlanmıştır .</sentence>
+<sentence num="4">Türk Bayrağı Tüzüğü'nün 21 .maddesinde ;'Bayrak ,açılış törenlerinde Atatürk heykellerine ,yemin törenlerinde masalara örtülebilir .</sentence>
+<sentence num="5">Cumhurbaşkanlığı yapmış kişilerin ,şehitlerin ,Türk Silahlı Kuvvetleri'nin sivil personel dışındaki mensuplarının ,bunların emeklilerinin ,18'inci madde hükmüne göre makam odalarında Bayrak bulunan kamu görevlilerinin ,bu görevleri daha önce yapmış olanlarla aşağıda yazılı kimselerin cenaze törenlerinde tabutlarına Bayrak örtülebilir :A )Milletvekilleri ve milletvekilliği yapmış olanlar .</sentence>
+<sentence num="6">B )Temsilciler Meclisi ,Danışma Meclisi ve Cumhuriyet Senatosu üyeliği yapmış olanlar .</sentence>
+<sentence num="7">C )Milli Birlik Komitesi üyeliği yapmış olanlar .</sentence>
+<sentence num="8">D )Gaziler .</sentence>
+<sentence num="9">E )Yüksek yargı organları üyeleri ve emeklileri .</sentence>
+<sentence num="10">F )Sayıştay üyeleri ve emeklileri .</sentence>
+<sentence num="11">G )Hakim ve savcılarla emeklileri .</sentence>
+<sentence num="12">H )Yüksek öğretim kurumları öğretim üyeleri ve emeklileri .</sentence>
+<sentence num="13">İ )Atatürk Kültür ,Dil ve Tarih Yüksek Kurumu Yüksek Kurul üyeleriyle bu görevi yapmış olanlar .</sentence>
+<sentence num="14">J )Devlet sanatçıları .</sentence>
+<sentence num="15">K )Devlet madalyası sahipleri .</sentence>
+<sentence num="16">L )Kızılay ,Türk Hava Kurumu genel başkanları ve bu görevi yapmış olanlar .</sentence>
+<sentence num="17">M )Emniyet mensupları ve emeklileri .</sentence>
+<sentence num="18">N )Dünya ,Olimpiyat ve Avrupa şampiyonluğu kazanmış olmaları dolayısıyla 2913 sayılı Kanuna göre aylık bağlanmış sporcular .</sentence>
+<sentence num="19">O )Resmi okul müdürleri .</sentence>
+<sentence num="20">P )Basın şeref kartı sahipleri .</sentence>
+<sentence num="21">R )İşçi ve işveren sendikaları konfederasyon başkanları ve bu görevi yapmış olanlar .</sentence>
+<sentence num="22">S )Kamu kurumu niteliğindeki meslek kuruluşlarının en üst kuruluşunun başkanları ve bu görevi yapmış olanlar .</sentence>
+<sentence num="23">T )Bilimsel ,sanatsal ,kültürel ,sportif ve sosyal alanlarda üstün hizmet verdiği mülki amirlerince kabul edilen diğer Türk vatandaşları .</sentence>
+<sentence num="24">Ancak ,Devlet aleyhine veya yüz kızartıcı mahiyette bir suç işlemekten hüküm giymiş olanların tabutlarına ,affedilmiş olsalar bile ,Bayrak örtülemez 'denilmektedir .?</sentence>
+<sentence num="25">Yarışmacı Ata'nın cenazesi TBMM gündeminde ...</sentence>
+</doc>
+<doc>
+<id>153073</id>
+<sentence num="0">2005 09 21 09 :01 :00 .Ata'nın tabutuna Türk Bayrağı sarılması nedeniyle soruşturma başlatıldı .</sentence>
+<sentence num="1">Ata'nın tabutuna Türk Bayrağı sarılması nedeniyle soruşturma başlatıldı İstanbul Emniyet Müdürlüğü ,''Gelinim Olur Musun ?''</sentence>
+<sentence num="2">adlı TV programıyla tanınan ve Adana'daki bir otel odasında ölü bulunan Ata Türk'ün dün Fatih Camii'nde yapılan cenaze töreninde tabutuna Türk Bayrağı sarılması nedeniyle soruşturma başlattı .</sentence>
+<sentence num="3">İstanbul Emniyet Müdürlüğü Basın Protokol ve Halkla İlişkiler Şube Müdürlüğü'nden yapılan yazılı açıklamada ,''Adana'da vefat eden Semra Yücel'in oğlu Ata'nın cenazesinin ,dün Fatih Camii'nde öğle namazını müteakip yoğun bir katılımla kaldırıldığı ''hatırlatıldı .</sentence>
+<sentence num="4">Açıklamada ,şöyle denildi :''Yeşil cenaze örtüsünün üstüne Türk Bayrağı konulduğunun tespit edilmesi üzerine 2896 sayılı Türk Bayrağı Kanunu ve 17 Mart 1985 tarih ve 18697 sayılı Türk Bayrağı Tüzüğü'ne muhalefetten soruşturma başlatılmış olup ,gerekli yasal işlem yapılmıştır .''.</sentence>
+</doc>
+<doc>
+<id>153087</id>
+<sentence num="0">2005 09 21 09 :25 :00 .Türk bayraklı tabuta soruşturma Ata Türk'ün Türk bayrağına sarılı tabutu tartışma yarattı .</sentence>
+<sentence num="1">Ata'nın cenaze namazına yaklaşık bin kişi katılmıştı İstanbul Emniyet Müdürlüğü ,'Gelinim Olur Musun ?'</sentence>
+<sentence num="2">adlı TV programıyla tanınan Ata Türk'ün cenaze töreninde tabutuna Türk bayrağı sarılması nedeniyle soruşturma başlattı .</sentence>
+<sentence num="3">Emniyetin yazılı açıklamasında ,yeşil cenaze örtüsünün üstüne Türk bayrağı konulduğunun tespit edilmesi üzerine 2896 sayılı Türk Bayrağı Kanunu ve 17 mart 1985 tarih ve 18697 sayılı Türk Bayrağı Tüzüğü'ne muhalefetten soruşturma başlatılmış olup ,gerekli yasal işlem yapılmıştır ''ifadelerine yer verildi .</sentence>
+<sentence num="4">Adana'da bir otel odasında ölü bulunan Ata Türk'ün cenazesi ,dün Fatih camiinde kılınan cenaze namazının ardından toprağa verilmişti .</sentence>
+<sentence num="5">Cenaze namazına Ata'nın babası Hamit Türk ,annesi Semra Yücel ,yarışmaya beraber katıldıkları arkadaşlarının da aralarında bulunduğu yaklaşık bin kişi katılmıştı .</sentence>
+<sentence num="6">Ata'nın arkadaşları namazdan önce yanlarında getirdiği Türk bayrağını tabuta sarmıştı .</sentence>
+<sentence num="7">Ata'nın kanında uyuşturucu bulunmuştu Ata Türk'ün ölümüyle ilgili soruşturma ise sürüyor .</sentence>
+<sentence num="8">Yapılan otopside Türk'ün kanında aşırı miktarda 'extacy 'adlı uyuşturucu ve uyarıcı nitelikli ilaç ,az miktarda da esrar maddesine rastlandı .</sentence>
+<sentence num="9">Polis ,Ata Türk'ün ölmeden önce kimlerle görüştüğünü soruşturuyor .</sentence>
+<sentence num="10">Televizyon programıyla ünlenen Ata Türk ,geçtiğimiz pazartesi günü Adana'da bir otel odasında ölü bulunmuştu .</sentence>
+<sentence num="11">Ata Türk'ün alkol komasına girerek hayatını kaybettiği iddia edilmişti .</sentence>
+</doc>
+<doc>
+<id>153270</id>
+<sentence num="0">2005 09 21 12 :26 :00 .Ata'nın tabutuna Türk Bayrağı sarılmasına ilişkin soruşturma .</sentence>
+<sentence num="1">Ata'nın tabutuna Türk Bayrağı sarılmasına ilişkin soruşturma İçişleri Bakanlığı ,Ata Türk isimli vatandaşın tabutuna yeşil örtü üzerine Türk Bayrağı örtülmesi ile ilgili olarak İstanbul Valiliği'nce ''Türk Bayrağı Kanunu ve Türk Bayrağı Tüzüğü'ne muhalefetten ''soruşturma başlatıldığını bildirdi .</sentence>
+<sentence num="2">Bakanlıktan yapılan yazılı açıklamada ,Adana'da vefat eden ve katıldığı bir televizyon programı nedeniyle kamuoyunda tanınan Ata Türk isimli vatandaşın İstanbul Fatih Camii'ndeki cenaze töreninde yakınlarının tabuta yeşil cenaze örtüsünün üzerine Türk Bayrağı örtmelerinin tespiti üzerine ,İstanbul Valiliği'nce dün 2896 sayılı Türk Bayrağı Kanunu ve 18697 sayılı Türk Bayrağı Tüzüğü'ne muhalefetten soruşturma başlatıldığını ve gerekli yasal işlemin yapıldığı belirtildi .</sentence>
+</doc>
+<doc>
+<id>153282</id>
+<sentence num="0">2005 09 21 12 :35 :00 .Yarışmacı Ata'nın cenazesi TBMM gündeminde ...</sentence>
+<sentence num="1">CHP Kırşehir Milletvekili Hüseyin Bayındır ,bir otel odasında ölü bulunan Ata Türk'ün tabutunun hangi sıfatla Türk bayrağına sarıldığını sordu .</sentence>
+<sentence num="2">Bayındır ,İçişleri Bakanı Abdülkadir Aksu'nun cevaplandırması istemiyle TBMM Başkanlığı'na sunduğu önergede ,yasa ve tüzüklerde kimlerin tabutuna bayrak örtüleceğinin belirtildiğini ,bu hakkın sahiplerinin ;Cumhurbaşkanı ,milletvekili ,asker ,şehit ,devlet madalyası ,basın şeref kartı sahibi ve üstün hizmet verdiği mülki amirince kabul edilen sanatçı ,bilim adamı gibi Türk vatandaşları olduğunu kaydetti .</sentence>
+<sentence num="3">CHP'li Bayındır ,önergesinde şu sorulara da yer verdi :Şehitlik mertebesine ulaşmak Anadolu topraklarında vatanını savunarak iç ve dış güçler tarafından zalimce öldürülen evlatlarımızın mı yoksa bir otel odasında uyuşturucudan ölen birinin mi hakkı ?</sentence>
+<sentence num="4">Bu gibi programların Ata gibi daha birçok kişiyi psikolojik açıdan bunalıma sürüklediği ve sonunda ölümlerine sebep olduğu açıktır .</sentence>
+<sentence num="5">Bu asayiş sorunu konusunda önlem almayı düşünüyor musunuz ?.</sentence>
+</doc>
+<doc>
+<id>153292</id>
+<sentence num="0">2005 09 21 12 :46 :00 .Ata ,Meclis gündeminde .</sentence>
+<sentence num="1">Bayındır ,İçişleri Bakanı Abdülkadir Aksu'nun cevaplandırması istemiyle TBMM Başkanlığı'na sunduğu önergede ,yasa ve tüzüklerde kimlerin tabutuna bayrak örtüleceğinin belirtildiğini ,bu hakkın sahiplerinin ;Cumhurbaşkanı ,milletvekili ,asker ,şehit ,devlet madalyası ,basın şeref kartı sahibi ve üstün hizmet verdiği mülki amirince kabul edilen sanatçı ,bilim adamı gibi Türk vatandaşları olduğunu kaydetti .</sentence>
+<sentence num="2">CHP'li Bayındır ,önergesinde şu sorulara da yer verdi :Şehitlik mertebesine ulaşmak Anadolu topraklarında vatanını savunarak iç ve dış güçler tarafından zalimce öldürülen evlatlarımızın mı yoksa bir otel odasında uyuşturucudan ölen birinin mi hakkı ?</sentence>
+<sentence num="3">Bu gibi programların Ata gibi daha birçok kişiyi psikolojik açıdan bunalıma sürüklediği ve sonunda ölümlerine sebep olduğu açıktır .</sentence>
+<sentence num="4">Bu asayiş sorunu konusunda önlem almayı düşünüyor musunuz ?.</sentence>
+</doc>
+<doc>
+<id>153374</id>
+<sentence num="0">2005 09 21 14 :39 :00 .Ata Türk'ün cenazesine Asena tepkisi .</sentence>
+<sentence num="1">Gelininim Olur musun programının damadı Ata'nın uyuşturucu komasına girerek ölmesi sonucu annesinin oğluna şehit denilmesine ve tabutuna bayrak sarılmasına ,Edirne ve Isparta'lı Asena'lardan sert tepki geldi .</sentence>
+<sentence num="2">Edirne ve Isparta Ülkü Ocakları Başkanlığı Kadınlar Masası Başkanları Fatma Güneş ve Hatice Arslan ,vatan ve bayrak uğruna canını veren şehitlere Ata'nın yakınlarının hakaret ettiklerini ve devlet görevlilerinin de görevlerini yerine getirmediklerine iddia ederek ,şunları söylediler .</sentence>
+<sentence num="3">Bir ana'nın acısını anlıyoruz .</sentence>
+<sentence num="4">Ama bu ana da şehit analarına da saygı duyması gerekir .</sentence>
+<sentence num="5">Allah sabır versin .</sentence>
+<sentence num="6">Acılarını paylaşıyoruz .</sentence>
+<sentence num="7">Ama ,en büyük mertebe olan şehitlik mertebesine saygı duyması gerekir .</sentence>
+<sentence num="8">Burada en önemlisi Ata'nın tabutuna bayrağın sarılmasına kamu görevlilerinin engel olmamasıdır .</sentence>
+<sentence num="9">Şehitlere hakaret edenlerin ve bayrak istismarına göz yumanların cezalandırılmasını istiyoruz .</sentence>
+</doc>
+<doc>
+<id>153489</id>
+<sentence num="0">2005 09 21 16 :58 :00 .Tabuta Bayrak Sarılması Tartışması .</sentence>
+<sentence num="1">Türkiye 20'li yaşlarda gencecik insanların dramlarını tartışıyor .</sentence>
+<sentence num="2">Şöhretin peşine düşen ,bu insanlar ,son birkaç yıldır gündemde ...</sentence>
+<sentence num="3">Şimdi Keşke'ler birbiri ardına sıralanıyor .</sentence>
+<sentence num="4">Oysa bu dramların uyarısını TRT Starım Starsın Star adlı belgesel programda aylar önce yapmıştı .</sentence>
+<sentence num="5">24 yaşında bir otel odasında uyuşturucudan hayatını kaybeden Ata Türk'ün cenazesi de yaşadığı kaosun aynası oldu ..</sentence>
+<sentence num="6">Yeni bir gündem maddesi de bulundu ,tabuta konan Türk Bayrağı'yla ..</sentence>
+<sentence num="7">Ve Ata Türk'ün tabutuna sarılan bayrak soruşturma konusu oldu .</sentence>
+<sentence num="8">İstanbul Emniyet Müdürlüğü'nden yapılan açıklamada ,pazartesi günü Fatih Camii'nde düzenlenen cenaze töreninde ,yeşil cenaze örtüsünün üstüne Türk Bayrağı konulduğunun tespit edilmesi üzerine sorumlular hakkında Türk Bayrağı Kanunu ve Türk Bayrağı Tüzüğü'ne muhalefetten soruşturma başlatıldığı bildirildi .</sentence>
+<sentence num="9">Medyanın Cenazeye Düşündürücü İlgisi Cenaze töreni dakikalarca verildi bazı televizyonlarca ...</sentence>
+<sentence num="10">Ve bugün Şehit cenazelerine 1 dakikalık haberi çok görenler ,şimdi Ata şehit mi ,değil mi ?</sentence>
+<sentence num="11">yi tartıştırıyor .</sentence>
+<sentence num="12">Evet bizce de Ata şehit ...</sentence>
+<sentence num="13">O bir Raiting Şehidi Ve çok şanslı ,en azından 3 ay kadar daha tartışılacak ,konuşulacak .</sentence>
+<sentence num="14">Ya gerçek şehitler ?</sentence>
+<sentence num="15">onlar hiçbir zaman tanınmadı ,konuşulmadı ki ?</sentence>
+<sentence num="16">Çünkü şehit annelerinin sessiz gözyaşları raiting almadı ki ....</sentence>
+</doc>
+<doc>
+<id>153687</id>
+<sentence num="0">2005 09 22 07 :39 :00 .Katilleri Ata'nın cenazesindeydi .</sentence>
+<sentence num="1">Atları da vururlar !</sentence>
+<sentence num="2">İlk televizyon şehidimiz i verdik .</sentence>
+<sentence num="3">Şehit tir ;çünkü dağda nöbet tutan asker kadar ağır bir iş yaptı .</sentence>
+<sentence num="4">Şöhret çağının Ata Türk'ü ,kitleleri oyalamak misyonuyla ekranda doğdu .</sentence>
+<sentence num="5">Orada kısa ama renkli bir ömür sürdü .</sentence>
+<sentence num="6">Nöbette değilse de görevini hakkıyla yapmış olarak öldü .</sentence>
+<sentence num="7">Al bayrağa sarılarak gömüldü .</sentence>
+<sentence num="8">Bütün katiller gibi ,onun cenazesine de geldi katili ...</sentence>
+<sentence num="9">Kameralar eşliğinde toprağa verildi .</sentence>
+<sentence num="10">Tabutu başındaki son gösteri de Merhumu nasıl bilirdiniz ?</sentence>
+<sentence num="11">diye sorunca imam ;hep bir ağızdan haykırdı medyatik Ata nın ahfadı :Şöhreti severdi ,o yüzden cep kameralarımızla geldik .</sentence>
+<sentence num="12">Ata'mızı son bir kez doyasıya görüntüledik .</sentence>
+<sentence num="13">Gazilerimiz yok mu ?</sentence>
+<sentence num="14">Modern alışveriş merkezimizin orta yerinde 64 saattir uyumadan ,oturmadan tek parmağıyla bir arabaya dokunan o kadını hatırlasanıza ...</sentence>
+<sentence num="15">Araba ,en son yıkılanın olacak demişlerdi .</sentence>
+<sentence num="16">O da oğlunun karnını doyurabilmek için ölümcül yarışa girmişti .</sentence>
+<sentence num="17">Canlı yayında harabe halinde çökünce O paraya çok ihtiyacımız vardı diye inlemişti .</sentence>
+<sentence num="18">Büyük ödülü alabilmek için çocuklarının karşısında şaklabanlık yapmaya çalışan fukara babayı düşünsenize ...</sentence>
+<sentence num="19">Ya da taklit ettikleri popstarın kılığında gece yarısı bir yarış podyumunda dans etmeye çalışan makyajlı çocukları ?..</sentence>
+<sentence num="20">Ata'dan daha mı az zavallılardı ?</sentence>
+<sentence num="21">Şimdi utanmadan milli anne yi ya da meftun seyirciyi suçluyor televizyonun prensleri ...</sentence>
+<sentence num="22">Kolay hedef !..</sentence>
+<sentence num="23">Üstelik sektörü ayakta tutan zihniyeti sorgulamaktan daha risksiz ...</sentence>
+<sentence num="24">Reyting reklam geliri telefon hasılatı albüm satışı diye açtığı kollarıyla seyirciyi kuşatan ahtapotun ,son 5 yılda insanların çaresizliğinden ne kadar servet yaptığından söz etsek ya ...</sentence>
+<sentence num="25">Zavallı kurbanlar şimdi nerede ?</sentence>
+<sentence num="26">diye araştırırken ,onları kurban edenleri ,bu saçmalığın mucitlerini ,onlar gözyaşı döktükçe ekran başında el ovuşturup şükredenleri ,sistemin gönüllü tetikçilerini ,o küstah jüri üyelerini ,tiyatro ,müzik kariyerlerini bu bataklığa gömenleri hatırlatsak ya ?</sentence>
+<sentence num="27">Ata'nın cenazesini onlar kaldırsa daha yakışık almaz mıydı ?</sentence>
+<sentence num="28">O filmi hatırlıyor musunuz ?</sentence>
+<sentence num="29">Kriz dönemiydi .</sentence>
+<sentence num="30">Açlığın ,sefaletin kavurduğu Amerika'da dans yarışmaları düzenleniyordu .</sentence>
+<sentence num="31">Hiç oturmadan dans edebilen çiftlere ödül vaat ediliyordu .</sentence>
+<sentence num="32">Ayakta kalabilen son finalistlerden biri genç bir çiftti .</sentence>
+<sentence num="33">Yarışmanın organizatörü ,yorgunluktan çökmek üzere olan gençleri çağırmış Pistte evlenin ,daha çok ilgi çekersiniz demişti .</sentence>
+<sentence num="34">Genç kız Ya kazanırsak diye sorunca şu yanıtı almıştı :Bunca yıldır bu işin içindeyim ,hiç kazananı görmedim .</sentence>
+<sentence num="35">Sefil halde yarışmayı terk ettiklerinde ,delikanlı Yardım et diye inleyen genç kızın beynine sıkmıştı kurşunu ...</sentence>
+<sentence num="36">Polis sorduğunda nedenini şöyle açıklamıştı :Atları vururlar değil mi ?</sentence>
+<sentence num="37">Dışarıda gösteri h l sürüyordu .</sentence>
+<sentence num="38">Ata ,keyif verici bir hapla vurdu yaralı bedenini ...</sentence>
+<sentence num="39">Cenazesinin reytingi iyiydi .</sentence>
+<sentence num="40">Demek sürüyordu gösteri ...</sentence>
+<sentence num="41">Rahat uyu Ata'm ,sen ölsen de neferi olduğun gösteri toplumu ilelebet payidar kalacaktır .</sentence>
+<sentence num="42">Ardından ağlayan kitlelere ,Hele bir düşünelim bu rezilliğin kaymağını yiyenleri dedirtebilirsen ,yerin asıl o zaman şehadet mertebesi olacaktır .</sentence>
+<sentence num="43">Can Dündar Milliyet 22 .09 .2005 .</sentence>
+</doc>
+<doc>
+<id>154151</id>
+<sentence num="0">2005 09 22 18 :55 :00 .Ata'nın cenazesiyle ilgili gözaltı Ata'nın tabutuna Türk bayrağı saran kişi gözaltında .</sentence>
+<sentence num="1">Ata'nın cenazesinden ...</sentence>
+<sentence num="2">Adana'da aldığı uyuşturucu nedeniyle ölen televizyon yarışmacısı Ata'nın tabutuna Türk bayrağı saran kişi gözaltına alındı .</sentence>
+<sentence num="3">Cenazeye Türk bayrağı koyan kişinin Semra Yücel'in yeğeni Aydıner Gündüz olduğu belirlendi .</sentence>
+<sentence num="4">Polis Gündüz'ü evinde gözaltına aldı .</sentence>
+<sentence num="5">Televizyon yarışmacısı Ata'nın cenaze töreninde tabutun Türk bayrağına sarılması tepki çekmiş ,Türk bayrağı tüzüğüne muhalefetten dolayı soruşturma başlatılmıştı .</sentence>
+<sentence num="6">Ata geçtiğimiz pazar günü ölmüştü Özel bir televizyon kanalında yayınlanan 'Gelinim Olur musun ?'</sentence>
+<sentence num="7">yarışması damat adaylarından Ata Türk ,Adana'da ölü bulundu .</sentence>
+<sentence num="8">Ata Türk'ün ölümüyle ilgili soruşturma ise sürüyor .</sentence>
+<sentence num="9">Yapılan otopside Türk'ün kanında aşırı miktarda 'extacy 'adlı uyuşturucu ve uyarıcı nitelikli ilaç ,az miktarda da esrar maddesine rastlandı .</sentence>
+<sentence num="10">Polis ,Ata Türk'ün ölmeden önce kimlerle görüştüğünü soruşturuyor .</sentence>
+<sentence num="11">Televizyon programıyla ünlenen Ata Türk ,geçtiğimiz pazar günü Adana'da bir otel odasında ölü bulunmuştu .</sentence>
+<sentence num="12">Ata Türk'ün alkol komasına girerek hayatını kaybettiği iddia edilmişti .</sentence>
+</doc>
+<doc>
+<id>154239</id>
+<sentence num="0">2005 09 23 00 :00 :00 .Ata'nın cenazesine Türk bayrağı örten kişi serbest ...</sentence>
+<sentence num="1">Adana'daki bir otel odasında ölü bulunan Ata Türk'ün Fatih Camii'ndeki cenaze töreninde tabutuna Türk Bayrağı sarılmasına ilişkin gözaltına alınan 1 kişi ,ifadesinin ardından serbest bırakıldı .</sentence>
+<sentence num="2">İstanbul Emniyet Müdürlüğü'nce ,Türk Bayrağı Kanunu ve Türk Bayrağı Tüzüğü'ne muhalefetten başlatılan soruşturma çerçevesinde ,bayrağı tabuta sardığı iddia edilen A .E ,Fatih'teki evinde gözaltına alındı .</sentence>
+<sentence num="3">A .E ,Fatih Polis Merkezi'nde alınan ifadesinin ardından serbest bırakıldı .</sentence>
+</doc>
+<doc>
+<id>154263</id>
+<sentence num="0">2005 09 23 01 :40 :00 .Erdoğan Ata Türk olayını değerlendirdi :Şahadet hakkı bu kadar ucuz mu ?</sentence>
+<sentence num="1">Başbakan Recep Tayyip Erdoğan ,yabancı sermayenin medya olarak Türkiye'ye girmesi halinde dengelerin çok daha farklı şekilde oturacağını belirterek ,Yerli medyadan ,hepsini kastetmiyorum bazılarından ,daha da faydalı olanlar çıkacaktır dedi .</sentence>
+<sentence num="2">Fatih Altaylı'nın ATV'de canlı yayınlanan Teke Tek programına katılarak soruları cevaplandıran Erdoğan ,Uzan Grubu medya kuruluşlarının satışıyla ilgili ,Medya tekeli kırıldı şeklindeki açıklamalarının hatırlatılması üzerine ,satışla ilgili dünya devleri bazı yayın gruplarından kendisiyle görüşenler olduğunu belirtti .</sentence>
+<sentence num="3">Bunlardan huzursuzluk duymadığını ifade eden Erdoğan ,bu grupların ,Türkiye'den geleceğe ilişkin garanti beklediklerini anlattı .</sentence>
+<sentence num="4">Erdoğan ,Bizim onlara bu güveni vermemiz lazım .</sentence>
+<sentence num="5">Bu bir vakumlama yapıyor .</sentence>
+<sentence num="6">Radyolar ,arkasından televizyonlar gelecek .</sentence>
+<sentence num="7">Arkasından yatırımlar başlayacak ,televizyonlar kuracaklar veya mevcut televizyonları almaya çalışacaklar .</sentence>
+<sentence num="8">Yasalar gereği yüzde 25'ini alacaklar .</sentence>
+<sentence num="9">Bütün mesele güven meselesi dedi .</sentence>
+<sentence num="10">Televizyonların yabancılara satışında hissenin yüzde 25'te bırakılmaması gerektiğini dile getiren Erdoğan ,bunun adil olmadığını ifade etti .</sentence>
+<sentence num="11">Erdoğan ,Eğer Türkiye ,gerçekten rekabetçi ,birbirini kontrol eden ,küreselleşen dünyada yerini alacak bir hedefi belirlemişse bu konularda hiç çekinmemesi lazım görüşünü dile getirdi .</sentence>
+<sentence num="12">ATA TÜRK OLAYI Yabancı sermayenin medya olarak Türkiye'ye girmesi halinde dengelerin çok daha farklı şekilde oturacağını kaydeden Erdoğan ,şöyle devam etti :Yerli medyadan ,hepsini kastetmiyorum bazılarından ,daha da faydalı olanlar çıkacaktır .</sentence>
+<sentence num="13">Bazı şeyleri öyle topa tutuyorlar ki ülke çıkarı falan düşünmüyorlar .</sentence>
+<sentence num="14">Bir yerde terör eylemi oluyor ,bazı televizyonlar ,'güm ,güm ,güm '45 dakika 1 saat ...</sentence>
+<sentence num="15">Bir Ata Türk olayı oldu biliyorsunuz .</sentence>
+<sentence num="16">45 dakika ,1 saat haber mi olur ?</sentence>
+<sentence num="17">Ne ile meşhur olmuş bu insan ?</sentence>
+<sentence num="18">Şahadet hakkı bu kadar ucuz mu ?</sentence>
+<sentence num="19">Saygısızlık değil mi ?</sentence>
+<sentence num="20">Bayrak ...</sentence>
+<sentence num="21">Bunlar ne basit işler böyle ...</sentence>
+<sentence num="22">Peki bunun bir sebep netice ilişkisi yok mu ?</sentence>
+<sentence num="23">Ata Türk bence bir neticedir ,sebep değildir .</sentence>
+<sentence num="24">Sebep ,medyadaki çirkin yayınlardır ,o ne menem yayınlardır ...</sentence>
+<sentence num="25">Yabancılarla bu konuyu çok daha rahat halledersin .</sentence>
+<sentence num="26">Şu anda öyle programlarımız var ki yüzde 98'i Müslüman olan ülkede Türk örf ,adetlerine ,geleneklerine ,aile yapısına tamamen ters bir yayın politikasıyla ,magazin almış başını gidiyor .</sentence>
+<sentence num="27">Şundan da endişe ediyorum ;Meslek ahlakı diye de bir şey kalmadı .</sentence>
+<sentence num="28">Bu işin standardının oturması lazım .</sentence>
+<sentence num="29">Bunu başaramazsak nesillerimizi kaybederiz .</sentence>
+<sentence num="30">Temenni ederim ki RTÜK de bu konuda atılması gereken adımları atsın .</sentence>
+<sentence num="31">ALEVİLİĞİN TANIMI NOKTASINDAKİ SIKINTI Başbakan Erdoğan ,Alevi yurttaşların inanç özgürlüğü haklarıyla ilgili Başbakanlık aleyhine dava açılacağının belirtilmesi üzerine ,bu talebin ,Türkiye'nin ,yeni bir huzursuzluk kaynağına itilmesine neden olabileceğini söyledi .</sentence>
+<sentence num="32">Söz konusu isteklere sıcak bakmalarının mümkün olamayacağını belirten Erdoğan ,konuyla ilgili bir yasal düzenlemeye gitme niyetleri de olmadığını bildirdi .</sentence>
+<sentence num="33">Türkiye'de yaşayan Müslümanlar'ın bağlı oldukları yerin Diyanet İşleri Başkanlığı olduğunu ,farklı din mensubu azınlıkların hukuklarının korunduğunu anlatan Erdoğan ,Doğan (İzzettin Doğan )buralarda hangi kategoriye kendini sokuyor .</sentence>
+<sentence num="34">Onları azınlıklar içinde görmek gibi bir düşüncemiz olamaz .</sentence>
+<sentence num="35">Alevi vatandaşlarımızın da böyle bir düşüncesi olduğunu sanmıyorum .</sentence>
+<sentence num="36">Aleviliğin tanımı noktasındaki sıkıntılardan bu iş kaynaklanıyor dedi .</sentence>
+<sentence num="37">GÖZTEPE'YE CAMİ Başbakan Erdoğan ,bir başka soru üzerine de Göztepe'ye yapılması planlanan cami ile ilgili belediye meclisinde herhangi bir olumsuz yaklaşım olmadığını ,konunun ,İmar Komisyonu'ndan CHP'li ve ANAVATAN'lı üyelerin ittifakıyla geçtiğini söyledi .</sentence>
+<sentence num="38">Erdoğan ,cami olayı gündeme geldiği zaman buna medyanın yaklaşımının can sıkıcı olduğunu belirterek ,İhtiyaç olmayan bir yerde böyle bir talebin gelmesi söz konusu değil dedi .</sentence>
+<sentence num="39">İstanbul Büyükşehir Belediye Başkanı Kadir Topbaş'a konuyu tekrar değerlendirme talimatı verdiğini söyleyen Erdoğan ,Gazeteler kalkıyor ,sürmanşetten bunu haber yapıyor .</sentence>
+<sentence num="40">Böyle bir durum kaşınmaya başlandı ,bunlar yanlış şeyler .</sentence>
+<sentence num="41">Türkiye artık belli şeyleri aşmalı .</sentence>
+<sentence num="42">Kime bu düşmanlık ,niye yapıyorsunuz ,ihtiyaç olmasa niye yapılsın diye konuştu .</sentence>
+<sentence num="43">İMARZEDELER Başbakan Erdoğan ,bir başka soru üzerine el konulan İmar Bankası'nın bono satışlarından mağdur olanlara ödemeler konusunda yasanın karar vereceğini ,yasa karar vermeden bir adım atamayacaklarını söyledi .</sentence>
+<sentence num="44">Başbakan Erdoğan ,Öyle bir adımı biz atacak olursak ,zimmet bize çıkar .</sentence>
+<sentence num="45">Biz görevimizi yerine getiririz .</sentence>
+<sentence num="46">Bundan endişeleri olmasın .</sentence>
+<sentence num="47">Yasa 'öde 'derse ödeyeceğiz ,'öde 'demezse nasıl öderiz .</sentence>
+<sentence num="48">Yeni bir düzenleme olur mu ,olamaz mı ayrı konu .</sentence>
+<sentence num="49">Ama mevcut yasalar çerçevesinde kararları bekliyoruz ,ona göre neticeye gideceğiz diye konuştu .</sentence>
+</doc>
+<doc>
+<id>154274</id>
+<sentence num="0">2005 09 23 04 :49 :00 .Ata'nın cenazesine bayrak saran kişi serbest .</sentence>
+<sentence num="1">Ata Türk'ün tabutuna Türk bayrağı sarılmıştı Adana'daki bir otel odasında ölü bulunan Ata Türk'ün Fatih Camii'ndeki cenaze töreninde tabutuna Türk bayrağı sarılmasına ilişkin gözaltına alınan Aydın Ergündüz ifadesinin ardından serbest bırakıldı .</sentence>
+<sentence num="2">İstanbul Emniyet Müdürlüğü'nce ,Türk Bayrağı Kanunu ve Türk Bayrağı Tüzüğü'ne muhalefetten başlatılan soruşturma çerçevesinde ,bayrağı tabuta sardığı iddia edilen Ergündüz Fatih'teki evinde gözaltına alındı .</sentence>
+<sentence num="3">Savcılık tarafından tutuksuz yargınlanmak üzere serbest bırakılan Ergündüz ,o anki psikoloji ile yapılmış bir hareketti .</sentence>
+<sentence num="4">Herhangi bir kastım yoktu .</sentence>
+<sentence num="5">Şehit ailelerinden özür diliyorum .</sentence>
+<sentence num="6">Elbetteki Ata şehit değildir .</sentence>
+<sentence num="7">Semra hanım da acısı sırasında o sözleri sarfetti .</sentence>
+<sentence num="8">Bu yüzden tüm şehit ailelerinden özür diliyorum dedi .</sentence>
+<sentence num="9">Otelde ölü bulundu Özel bir televizyon kanalında yayınlanan 'Gelinim Olur musun ?'</sentence>
+<sentence num="10">yarışması damat adaylarından Ata Türk ,Adana'da ölü bulundu .</sentence>
+<sentence num="11">Ata Türk'ün ölümüyle ilgili soruşturma ise sürüyor .</sentence>
+<sentence num="12">Yapılan otopside Türk'ün kanında aşırı miktarda 'extacy 'adlı uyuşturucu ve uyarıcı nitelikli ilaç ,az miktarda da esrar maddesine rastlandı .</sentence>
+<sentence num="13">Polis ,Ata Türk'ün ölmeden önce kimlerle görüştüğünü soruşturuyor .</sentence>
+<sentence num="14">Televizyon programıyla ünlenen Ata Türk ,geçtiğimiz pazar günü Adana'da bir otel odasında ölü bulunmuştu .</sentence>
+<sentence num="15">Ata Türk'ün alkol komasına girerek hayatını kaybettiği iddia edilmişti .</sentence>
+</doc>
+<doc>
+<id>154493</id>
+<sentence num="0">2005 09 23 12 :10 :00 .Ata'nın vücudunda ecstacy ,eroin ve esrar bulgusuna rastlandı .</sentence>
+<sentence num="1">Annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="2">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün (24 )ölüm nedeninin uyuşturucu ve uyarıcı maddeye bağlı entoksikasyon olduğu bildirildi .</sentence>
+<sentence num="3">Adana Adli Tıp Kurumu tarafından hazırlanarak Adana Cumhuriyet Başsavcılığı'na gönderilen kan ,idrar ve patalojik toksoloji raporu sonuçlarına göre ,TV yarışmacısı Ata'nın cesedinde ,uyuşturucu nitelikli ecstacy hapında bulunan anfetamin ile eroin ve esrar bulgusuna yoğun miktarda rastlanıldığı belirtildi .</sentence>
+<sentence num="4">Raporda ,kanda etil ve metil alkole rastlanılmadığı kaydedildi .</sentence>
+<sentence num="5">TV yarışmacısı Ata'nın uyuşturucu ve uyarıcı maddeye bağlı entoksikasyon sonucu öldüğünün belirlendiği ifade edilen raporda ayrıca ,anal muayene sonucu tecavüz bulgusu ile başka toksit madde bulunamadığı bildirildi ?</sentence>
+<sentence num="6">Canlı yayında uyuşturucu kullanıp seks yapacak .</sentence>
+</doc>
+<doc>
+<id>154496</id>
+<sentence num="0">2005 09 23 12 :12 :00 .Adli Tıp Kurumu :Ata'nın ölüm nedeni uyuşturucu .</sentence>
+<sentence num="1">Adli Tıp Kurumu :Ata'nın ölüm nedeni uyuşturucu Annesi Semra Yücel ile katıldığı ''Gelinim Olur musun ?''</sentence>
+<sentence num="2">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'ün (24 )ölüm nedeninin ''uyuşturucu ve uyarıcı maddeye bağlı entoksikasyon ''olduğu bildirildi .</sentence>
+<sentence num="3">Adana Adli Tıp Kurumu tarafından hazırlanarak Adana Cumhuriyet Başsavcılığı'na gönderilen kan ,idrar ve patalojik toksoloji raporu sonuçlarına göre ,TV yarışmacısı Ata'nın cesedinde ,uyuşturucu nitelikli ecstacy hapında bulunan anfetamin ile eroin ve esrar bulgusuna yoğun miktarda rastlanıldığı belirtildi .</sentence>
+<sentence num="4">Raporda ,kanda etil ve metil alkole rastlanılmadığı kaydedildi .</sentence>
+</doc>
+<doc>
+<id>154501</id>
+<sentence num="0">2005 09 23 12 :23 :00 .Ata'nın Adli Tıp raporu .</sentence>
+<sentence num="1">Adana Adli Tıp Kurumu tarafından hazırlanarak Adana Cumhuriyet Başsavcılığı'na gönderilen kan ,idrar ve patalojik toksoloji raporu sonuçlarına göre ,TV yarışmacısı Ata'nın cesedinde ,uyuşturucu nitelikli ecstacy hapında bulunan anfetamin ile eroin ve esrar bulgusuna yoğun miktarda rastlanıldığı belirtildi .</sentence>
+<sentence num="2">Raporda ,kanda etil ve metil alkole rastlanılmadığı kaydedildi .</sentence>
+<sentence num="3">TV yarışmacısı Ata'nın uyuşturucu ve uyarıcı maddeye bağlı entoksikasyon sonucu öldüğünün belirlendiği ifade edilen raporda ayrıca ,anal muayene sonucu tecavüz bulgusu ile başka toksit madde bulunamadığı bildirildi .</sentence>
+</doc>
+<doc>
+<id>156183</id>
+<sentence num="0">2005 09 26 17 :10 :00 .Ata'nın ölümünde sorumluluğumuz yok .</sentence>
+<sentence num="1">Organizatör Hüseyin Karlı ve sanatçı Cansever'in Adana'da program yaptığı barın işletmecisi Ramazan Güler ,annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="2">yarışmasıyla tanınan Ata Türk'ün (24 )ölümüyle ilgilerinin bulunmadığını açıkladı .</sentence>
+<sentence num="3">Merkez Seyhan İlçesi'nde basın toplantısı düzenleyen organizatör Hüseyin Karlı ,TV Yarışmacısı Ata'yı ,ilk kez Adana'ya geldiğinde gördüğünü söyledi .</sentence>
+<sentence num="4">Adana'da program yapması için bağlantı kurduğu sanatçı Cansever'in ,yanında bir misafiri olduğunu söyleyip fazladan bir uçak bileti daha almasını istediğini belirten Karlı ,şöyle konuştu :Bana ,Ata'nın ölümünden sorumlu olduğum damgası vurulmaya çalışılıyor .</sentence>
+<sentence num="5">Ne Adres Bar'ın işletmecisi ,ne de ben bunu hak edecek davranışta bulunmadık .</sentence>
+<sentence num="6">Cansever ve Ata Türk'ün ,kaldıkları otelden başka bir bara gittiklerini tespit ettik .</sentence>
+<sentence num="7">Ata'nın kanında çıkan maddeleri nereden aldığını da bilmiyorum .</sentence>
+<sentence num="8">Ata ,barda sohbet ederken ,bana İlkay isimli kadınla olan ilişkisinin annesi tarafından onaylanmadığını ve bu yüzden stres yaşadığını da anlatmıştı .</sentence>
+<sentence num="9">Karlı ,Cumhuriyet Savcılığı talimatıyla kendisinden ve sanatçı Cansever ile Cansever'in basın danışmanı Erhan Arı'dan da uyuşturucu kullanıp kullanmadıklarının belirlenmesi amacıyla kan örneği alınacağını bildirdi .</sentence>
+<sentence num="10">Cansever'in program yaptığı barın işletmecisi Ramazan Güler de TV Yarışmacısı Ata'nın ölümüne üzüldüğünü söyledi .</sentence>
+<sentence num="11">Ata ile işletmeciliğini yaptığı barda tanıştığını belirten Güler ,şöyle dedi :Ata'nın ,Cansever ile birlikte uçak biletini aldım ama o olduğunu da bilmiyordum .</sentence>
+<sentence num="12">Buraya geldiğinde barda çalışan arkadaşlardan biri televizyonda annesi ile birlikte yarışmaya katılan kişi olduğunu söyledi .</sentence>
+<sentence num="13">Tanıştım ve biraz şakalaştık .</sentence>
+<sentence num="14">Burada bir bira içtikten sonra ayrıldı .</sentence>
+<sentence num="15">Daha sonra da arkadaşlar bana öldüğünü bildirdi .</sentence>
+<sentence num="16">Bizim bu kişinin ölümüyle bağlantımız ve ilgimiz yok .</sentence>
+<sentence num="17">Bu olay ,işlerimizi de olumsuz yönde etkiledi ..</sentence>
+</doc>
+<doc>
+<id>156186</id>
+<sentence num="0">2005 09 26 17 :11 :00 .Ata'nın ölümünde kim sorumlu ?</sentence>
+<sentence num="1">Organizatör Hüseyin Karlı ve sanatçı Cansever'in Adana'da program yaptığı barın işletmecisi Ramazan Güler ,annesi Semra Yücel ile katıldığı ''Gelinim Olur musun ?''</sentence>
+<sentence num="2">yarışmasıyla tanınan Ata Türk'ün (24 )ölümüyle ilgilerinin bulunmadığını açıkladı .</sentence>
+<sentence num="3">Merkez Seyhan İlçesi'nde basın toplantısı düzenleyen organizatör Hüseyin Karlı ,TV Yarışmacısı Ata'yı ,ilk kez Adana'ya geldiğinde gördüğünü söyledi .</sentence>
+<sentence num="4">Adana'da program yapması için bağlantı kurduğu sanatçı Cansever'in ,yanında bir misafiri olduğunu söyleyip fazladan bir uçak bileti daha almasını istediğini belirten Karlı ,şöyle konuştu :''Bana ,Ata'nın ölümünden sorumlu olduğum damgası vurulmaya çalışılıyor .</sentence>
+<sentence num="5">Ne Adres Bar'ın işletmecisi ,ne de ben bunu hak edecek davranışta bulunmadık .</sentence>
+<sentence num="6">Cansever ve Ata Türk'ün ,kaldıkları otelden başka bir bara gittiklerini tespit ettik .</sentence>
+<sentence num="7">Ata'nın kanında çıkan maddeleri nereden aldığını da bilmiyorum .</sentence>
+<sentence num="8">Ata ,barda sohbet ederken ,bana İlkay isimli kadınla olan ilişkisinin annesi tarafından onaylanmadığını ve bu yüzden stres yaşadığını da anlatmıştı .''</sentence>
+<sentence num="9">Karlı ,Cumhuriyet Savcılığı talimatıyla kendisinden ve sanatçı Cansever ile Cansever'in basın danışmanı Erhan Arı'dan da uyuşturucu kullanıp kullanmadıklarının belirlenmesi amacıyla kan örneği alınacağını bildirdi .</sentence>
+<sentence num="10">Cansever'in program yaptığı barın işletmecisi Ramazan Güler de TV Yarışmacısı Ata'nın ölümüne üzüldüğünü söyledi .</sentence>
+<sentence num="11">Ata ile işletmeciliğini yaptığı barda tanıştığını belirten Güler ,şöyle dedi :''Ata'nın ,Cansever ile birlikte uçak biletini aldım ama o olduğunu da bilmiyordum .</sentence>
+<sentence num="12">Buraya geldiğinde barda çalışan arkadaşlardan biri televizyonda annesi ile birlikte yarışmaya katılan kişi olduğunu söyledi .</sentence>
+<sentence num="13">Tanıştım ve biraz şakalaştık .</sentence>
+<sentence num="14">Burada bir bira içtikten sonra ayrıldı .</sentence>
+<sentence num="15">Daha sonra da arkadaşlar bana öldüğünü bildirdi .</sentence>
+<sentence num="16">Bizim bu kişinin ölümüyle bağlantımız ve ilgimiz yok .</sentence>
+<sentence num="17">Bu olay ,işlerimizi de olumsuz yönde etkiledi .''</sentence>
+<sentence num="18">AA .</sentence>
+</doc>
+<doc>
+<id>164303</id>
+<sentence num="0">2005 10 11 13 :30 :00 .Semra ,Ata ,Sinem üçgeni şimdi de Amerikan basınında .</sentence>
+<sentence num="1">Ata Türk isimli yarışmacının ölümü ile sonuçlanan gelinli kaynanalı yarışma programı şimde de Amerikan basınına konu oldu .</sentence>
+<sentence num="2">Türkiye'nin gündemini aylarca meşgul eden ve son olarak da Ata Türk isimli yarışmacının ölümüyle sonuçlanan gelinli kaynanalı yarışmalar şimdi de Amerikan kamuoyunu meşgul ediyor .</sentence>
+<sentence num="3">Semra Ata Sinem tartışması son olarak da Washington Post gazetesine taşındı .</sentence>
+<sentence num="4">Gazete ,oldukça geniş bir biçimde ele aldığı yarışmada ,kız erkekle karşılaşır türü programların Türkiye'de bir başka seviyeye taşınarak kız erkekle ve erkeğin annesiyle karşılaşır şekline oturtulduğunu belirtti .</sentence>
+<sentence num="5">Karl Vick imzalı Haberde ,Türkiye'de ailenen hemen bütün birlikteliklerde söz sahibi olduğu ve hatta genellikle belirleyici sözün sahibi olduğu aktarıldı .</sentence>
+<sentence num="6">Gelinim Olur musun ?</sentence>
+<sentence num="7">isimli yarışmanın finalinin yüzde 74'lük bir oranla izlendiği belirtilen haberde ,Türkiye ,gösterinin favori elemanlarından biri geçtiğimiz ay Akdeniz sahillerinde ucuz bir otel odasında ölü bulunmadan hemen önce bile tam olarak büyülenmişti ifadeleri yer aldı .</sentence>
+<sentence num="8">Haberde ,24 yaşındaki Ata Türk'ün aşırı dozda uyuşturucudan dolayı ölümü bir deri bir kemik olan genç adamı annesinden daha zorlu bir konuma getirdi denildi .</sentence>
+<sentence num="9">Ata Türk'ün annesi ,Semra Yücel'in oğlunda olmayan bir öz güven sahibi sert kadın olarak nitelendirildiği haberde Yücel'in sadece oğluna karşı değil ,yarışmacının yayınlandığı 13 hafta boyunca herşeye karşı baskın olduğu belirtildi .</sentence>
+<sentence num="10">Türkiye'nin Yücel'i oğlunun bir gelinle ilgili kararına değer vermeyen kadın olarak bildikleri belirtilen haberde ,Yücel'in oğluna Ben aşık olduğunda sana söylerim dediği de aktarıldı .</sentence>
+<sentence num="11">Ata Türk'ün cenazesine bayrak kaplı tabut ve gazetecilerle yaşanan kavganın damgasını vurduğu belirtilen haberde ,Başbakan Erdoğan'ın da Bu kişi ünlü olmak için ne yaptı ?</sentence>
+<sentence num="12">sözleriyle tapki gösterdiği belirtildi .</sentence>
+<sentence num="13">Yarışma formatının Büyük Anne adıyla Arjantin ,Ukrayna ,Hindistan ve Yunanistan'a satıldığı belirtilen haberde şimdi de Hayaller Gerçek Oluyor isimli yarışmada benzer bir biçim denendiği belirtildi .</sentence>
+<sentence num="14">Haberde ,şimdiki yarışmada da orta yaşlı bir annenin kameraya bakarak Uzun ,yeşil gözlü ,güzel bir gelin istiyorum dediği belirtildi .</sentence>
+<sentence num="15">Yarışmadaki çok küçük sorunlar nedeniyle yaşanan tartışmalardan da kesitler sunuldu .</sentence>
+<sentence num="16">Bir anne ile gelin adayı arasındaki birliktelik için kimin karar vereceği üzerine yaşanan tartışmaya değinen gazete ,Genç Ata ,dikkat çekici sarışın Sinem'in de ilişkilerinde kendilerinin karar vereceklerini söyledikleri ancak daha sonra Semra Yücel'in ağırlığını koyduğu belirtildi .</sentence>
+<sentence num="17">Ata Türk'ün ,ölümü ile final arasındaki dokuz ay boyunca şöhretin kıyılarında dolaştığı belirtilen haberde ,yarışmacının 18 Eylül'de En az 10 ekstazi içtiğinde ikinci sınıf bir şarkıcıyla Adana'da birlikte olduğu ifade edildi .</sentence>
+<sentence num="18">Semra Yücel'in komşuları ile yapılan röportajlara da yer verien haberde ,Yücel'in Evliliği ayarlanmış bir komşusunun Buralarda anneler seçicidir .</sentence>
+<sentence num="19">Ancak bizim türde evlilkler geride kaldı artık gençler kendileri seçmek istiyor .</sentence>
+<sentence num="20">Ancak eğer onlara yardım edersek de iyi olur dediği belirtildi .</sentence>
+</doc>
+<doc>
+<id>164779</id>
+<sentence num="0">2005 10 12 10 :25 :00 .RTÜK'ten gelin kaynana programı tepkisi !</sentence>
+<sentence num="1">Radyo ve Televizyon Üst Kurulu (RTÜK ),Direnç Yarışmaları olarak adlandırdığı Gelin Kaynana yarışmalarında ,yasal yetkiler çerçevesinde alınan önlemler ve uygulanan müeyyidelere rağmen duygusal ve fiziksel şiddet olaylarının yaşandığını bildirdi .</sentence>
+<sentence num="2">RTÜK televizyonlardan bu tür programlar konusunda sosyal sorumluluk beklendiğini belirtti .</sentence>
+<sentence num="3">RTÜK'ten yapılan açıklamada ,özellikle Ata Türk'ün ölümünden sora daha fazla eleştiri konusu olan Gelin Kaynana yarışmalarının ,TBMM Dilekçe Komisyonu toplantısında milletvekillerinin ,biliminsanlarının ,yayın kuruluşları ile kamu kuruluşlarının temsilcilerinin katılımıyla müzakere edildiği ,ortak çözümler için çalışmalar yapılmasının kabul gördüğü anımsatıldı .</sentence>
+<sentence num="4">RTÜK Direnç Yarışmaları konusunda kamuoyunun bilinçlendirilmesi için Üst Kurul'un talebi üzerine bir rapor hazırlandığını kaydetti .</sentence>
+<sentence num="5">Açıklamada ,bireylerin günde yaklaşık 4 saat televizyon izledikleri Türkiye'de ,halkın eğitim seviyesinin göz önüne alındığı da bildirildi .</sentence>
+<sentence num="6">Açıklamada ,Geçtiğimiz günlerde söz konusu yarışma programlarından birinin yarışmacısı olarak kamuoyunda tanınan bir gencimizin trajik ölümü ve ardından yaşanan tartışmalar ,alınan önlemlerin ne kadar yerinde olduğunu göstermiştir denilirken ,yeni yayın döneminde de bu tarz yarışmaların başladığı ifade edildi .</sentence>
+<sentence num="7">Yasal yetkiler çerçevesinde alınan önlemler ve uygulanan müeyyidelere rağmen programlarda duygusal ve fiziksel şiddet olaylarının yaşandığına işaret edilen açıklamada ,RTÜK'e göre televizyon kuruluşlarının sosyal sorumluluk ve kamu hizmeti anlayışı içinde hareket etmeleri kamuoyunun en doğal hakkıdır denildi .</sentence>
+<sentence num="8">Açıklamada ,RTÜK'ün yayın döneminde de direnç yarışmaları konusunda ,kamuoyunun hassiyetlerini göz önüne alarak kararlılıkla hareket edeceğine dikkat çekildi .</sentence>
+</doc>
+<doc>
+<id>170868</id>
+<sentence num="0">2005 10 23 12 :09 :00 .AKP'li vekiller 'gelin kaynana'ya el koydu .</sentence>
+<sentence num="1">AKP Uşak milletvekili Alim Tunç ve arkadaşları ,gelin kaynana içerikli yarışma programlarının topluma etkilerinin araştırılması için önerge verdi .</sentence>
+<sentence num="2">Önerge ,sunucuların seksi kıyafetlerinin de eleştirildiği gelin kaynana programıyla sınırlı kalmadı .</sentence>
+<sentence num="3">Ayrıca kadın programları ,mafya ve Güneydoğu temalı diziler de eleştirilerek mercek altına alınmaları gerektiği vurgulandı .</sentence>
+<sentence num="4">Önergede ,90'lı yıllarda özel televizyon kanallarının yaygınlaşmasıyla birlikte kültürel alanda yaşanan değişmelerin arttığı ,popüler kültür tartışmalarının yoğunluk kazandığı vurgulanarak Türkiye ile ilgili belgesel ve öğretici programlara ,kültür yayınlarına ,Türk müziği programlarına daha fazla yer verilmesi gerektiği belirtildi .</sentence>
+<sentence num="5">Önergede kadın programları da eleştirilerek şöyle dendi ...</sentence>
+<sentence num="6">Mahremiyeti yok etti Kadınları ve aile içi sorunları reyting malzemesine çeviren ve özel hayatların uluorta sergilendiği kadın programlarında bazı kadınların dertlerini anlatmaları ,kendilerini ifade etmeye çalışmaları karşısında toplum olarak hezeyana uğradık .</sentence>
+<sentence num="7">Söz konusu programlar ,toplumumuzun mahremiyet anlayışını kökten değiştirmekte ,evin içini genel izleyiciye açarak ,ailenin kutsallığını zedelemektedir .</sentence>
+<sentence num="8">Bu programlarda ,fedakarlık ,asalet gibi toplum değerleri ayaklar altına alınmakta ,ahlaksızlık ,sadakatsizlik ,entrika gibi kötülükler ikame edilmektedir .</sentence>
+<sentence num="9">Sadece bu yapımları değil ,psikiyatrik ve pedagojik açıdan topluma zararlı olacağını düşündüğümüz her türlü yapımı mercek altına alabilmeliyiz .</sentence>
+<sentence num="10">AKP'li vekiller önergede şöyle dedi :Evlilik kurumunun kutsallığına gölge düşüren eş bulma ve gelin kaynana programları ciddi bir biçimde gözden geçirilmeli ,sunuculuk görevini ısrarla en seksi kıyafetlerle sunanların yerine iletişim fakültelerinden mezun olmuş ,yetenekli ve bilgili gençler alınmalıdır .</sentence>
+<sentence num="11">AKP Uşak Milletvekili Alim Tunç :Önergeyi başta kadın arkadaşlarımız imzaladı .</sentence>
+<sentence num="12">Bir hekim olarak bu kaynana programlarındaki çocukların tavır ve davranışları dikkatimi çekiyor ,Ata'nın ölümü ,bize bu gençlerin şöhreti kaybettikleri zaman düştükleri boşluğu gösterdi .</sentence>
+<sentence num="13">Bunların gençlerin ruh hallerini bozduğu ,aile bağlarını zayıflattığı düşüncesindeyim .</sentence>
+<sentence num="14">Mafya dizileri de şiddeti artırıyor .</sentence>
+<sentence num="15">15 dakikalık şöhret Önergede Andy Warholl'un Bir zaman gelecek ,herkes 15 dakikalığına şöhret olacak sözleri hatırlatıldı ,Semra Hanım ,'şehit verdim 'diyor !</sentence>
+<sentence num="16">Evin en şöhretlisi Ata ,gencecik yaşında hayatını bir otel odasında aşırı dozdan kaybediverdi dendi .</sentence>
+<sentence num="17">Özellikle mafya dizilerinde sigara ,alkol ve uyuşturucu kullanımının teşvik edildiğine dikkat çekiliyor .</sentence>
+<sentence num="18">Kolay para olgusunu yerleştiren altın ve para ödüllü yarışmalar sınırlandırılmalı .</sentence>
+<sentence num="19">Kurtlar Vadisi'ne gönderme Yasadışılığı özendiriyor Mafya dizileri ,gerek içerdikleri aşırı şiddet görüntüleri ,gerekse verdikleri açık ve örtülü mesajlarla yasadışılığı özendirmekte ve hatta meşrulaştırmaktadır .</sentence>
+<sentence num="20">Kanlı mafya ve Güneydoğu bölgelerindeki ağalık sistemini övücü ,malum şivelerin kullanıldığı ,Türk isimlerini yok sayan aldatıcı dramalardan kesinlikle vazgeçilmelidir .</sentence>
+<sentence num="21">vatan .</sentence>
+</doc>
+<doc>
+<id>176105</id>
+<sentence num="0">2005 11 02 00 :00 :00 .Ata'nın ölümü öncesi hap temin eden bir kişi gözaltına alındı .</sentence>
+<sentence num="1">Ata'nın ölümü öncesi hap temin eden bir kişi gözaltına alındı Televizyon yarışmacısı Ata Türk'ün ölümüne neden olan uyuşturucu hapları temin ettiği belirtilen bir kişi Adana'da gözaltına alındı .</sentence>
+<sentence num="2">Adana Kaçakçılık ve Organize Suçlar Şube Müdürlüğü ,Tarsus'ta yaptıkları bir operasyonda ele geçirdikleri bazı kişilerin ifadelerinden faydalanarak ,televizyon yarışmacısı Ata Türk'e uyuşturucu temin eden Bülent D .adlı kişiye ulaştı .</sentence>
+<sentence num="3">Bunun üzerine Bülent D ,Adana'da kaldığı evde gözaltına alındı .</sentence>
+<sentence num="4">Televizyon yarışmacısı Türk'ün ölümüne neden olan uyuşturucuları temin ettiği bildirilen Bülent D'nin sorgulamasının sürdüğü kaydedildi .</sentence>
+</doc>
+<doc>
+<id>176457</id>
+<sentence num="0">2005 11 02 16 :20 :00 .Ata'ya hap temin eden bir kişi göz altına alındı .</sentence>
+<sentence num="1">Televizyon yarışmacısı Ata Türk'ün ölümüne neden olan uyuşturucu hapları temin ettiği belirtilen bir kişi Adana'da gözaltına alındı .</sentence>
+<sentence num="2">AA muhabirinin aldığı bilgiye göre ,Adana Kaçakçılık ve Organize Suçlar Şube Müdürlüğü ,Tarsus'ta yaptıkları bir operasyonda ele geçirdikleri bazı kişilerin ifadelerinden faydalanarak ,televizyon yarışmacısı Ata Türk'e uyuşturucu temin eden Bülent D .adlı kişiye ulaştı .</sentence>
+<sentence num="3">Bunun üzerine Bülent D ,Adana'da kaldığı evde gözaltına alındı .</sentence>
+<sentence num="4">Televizyon yarışmacısı Türk'ün ölümüne neden olan uyuşturucuları temin ettiği bildirilen Bülent D'nin sorgulamasının sürdüğü kaydedildi .</sentence>
+</doc>
+<doc>
+<id>176812</id>
+<sentence num="0">2005 11 03 18 :00 :00 .Ata'ya hap temin ettiği iddia edilen kişi tutuklandı .</sentence>
+<sentence num="1">Ata'ya hap temin ettiği iddia edilen kişi tutuklandı Annesi Semra Yücel ile katıldığı ''Gelinim Olur musun ?''</sentence>
+<sentence num="2">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'e (24 )uyuşturucu hap temin ettiği iddiasıyla gözaltına alınan zanlı ,tutuklandı .</sentence>
+</doc>
+<doc>
+<id>176818</id>
+<sentence num="0">2005 11 03 18 :21 :00 .Ata'ya hap temin eden kişi tutuklandı .</sentence>
+<sentence num="1">Annesi Semra Yücel ile katıldığı Gelinim Olur musun ?</sentence>
+<sentence num="2">programıyla tanınan ve Adana'da kaldığı otel odasında ölü bulunan Ata Türk'e (24 )uyuşturucu hap temin ettiği iddiasıyla gözaltına alınan zanlı ,tutuklandı .</sentence>
+<sentence num="3">Alınan bilgiye göre ,Adana'da kaldığı otel odasında ölü bulunan Ata'nın ölümüne neden olan uyuşturucu hapı temin ettiği iddiasıyla Kaçakçılık ve Organize Suçlar Şube Müdürlüğü ekiplerince gözaltına alınan Bülent D ,sorgulamasının ardından adliyeye sevk edildi .</sentence>
+<sentence num="4">Cumhuriyet Savcılığı'nca alınan ifadesinden sonra nöbetçi mahkemeye sevk edilen Bülent D ,tutuklanarak cezaevine gönderildi .</sentence>
+<sentence num="5">Ruhsatsız silah bulundurmak ve adam yaralamak suçlarından kaydı bulunan Bülent D'nin ,ifadesinde ,Ata'ya uyuşturucuyu kokteyl yaparak verdiğini söylediği öne sürüldü .</sentence>
+<sentence num="6">Adana Adli Tıp Kurumu tarafından hazırlanarak Adana Cumhuriyet Başsavcılığı'na gönderilen kan ,idrar ve patalojik toksoloji raporunda ,Ata'nın ,uyuşturucu ve uyarıcı maddeye bağlı entoksikasyon sonucu öldüğü belirtilmişti .</sentence>
+<sentence num="7">AA .</sentence>
+</doc>

@@ -1,0 +1,422 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 08 08 11 :55 :00 .zeytinburnu'nda bir binada patlama meydana geldi ..</sentence>
+<sentence num="1">zeytinburnu'nda bir binada patlama meydana geldi zeytinburnu'nda bir binada patlama meydana geldi .</sentence>
+<sentence num="2">yenidoğan mahallesi 48 .sokak üzerinde bulunan 5 katlı binada patlama oldu .</sentence>
+<sentence num="3">olay yerine polis ,itfaiye ve çok sayıda sağlık ekibi sevk edildi .</sentence>
+<sentence num="4">zeytinburnu'nda bir binada meydana gelen patlamada yaralananların olduğu bildirildi .</sentence>
+<sentence num="5">patlamanın meydana geldiği yenidoğan mahallesi 48 .sokak üzerindeki 5 katlı yılmaz apartmanı'na ilk ulaşan polis ekipleri ,olay yerinde yaralılar bulunduğunu belirterek ,ambulanslar gönderilmesini istediler .</sentence>
+</doc>
+<doc>
+<id>129346</id>
+<sentence num="0">2005 08 08 12 :10 :00 .Zeytinburnu'nda patlama !</sentence>
+<sentence num="1">Zeytinburnu'nda bir binada patlama meydana geldi .</sentence>
+<sentence num="2">İstanbul Emniyet Müdürü Celalettin Cerrah ,olay yerindeki incelemenin ardından patlamanın ,bir şeyin imali sırasında meydana geldiğinin sanıldığını açıkladı .</sentence>
+<sentence num="3">Cerrah ,binanın tabanında bulunan iki erkek cesedinin bacaklarının tamamen kopmuş olduğunu belirtti .</sentence>
+<sentence num="4">Olay yerine ilk ulaşan polis ekipleri ,olay yerinde yaralılar bulunduğunu belirterek ,ambulanslar gönderilmesini istediler .</sentence>
+<sentence num="5">Yenidoğan Mahallesi 42 6 .Sokak 55 numaradaki 5 katlı Gümüşkazma Apartmanı'nda meydana gelen patlamada ,2 kişinin hayatını kaybettiği ,6 kişinin de yaralanarak hastanelere kaldırıldığı belirtildi .'</sentence>
+<sentence num="6">BİRŞEY İMAL EDİLİYORDU ..'</sentence>
+<sentence num="7">İstanbul Emniyet Müdürü Celalettin Cerrah ,Olay yerinde ,kendileri bir şey imal ederken patlama meydana geldiği gibi bir izlenim var dedi .</sentence>
+<sentence num="8">Cerrah ,patlamanın meydana geldiği Zeytinburnu Yenidoğan Mahallesi 42 6 .Sokak 5 numaralı apartmana gelerek incelemelerde bulundu .</sentence>
+<sentence num="9">Burada yaklaşık 1 saat inceleme yapan Cerrah ,daha sonra basın mensuplarının sorularını yanıtladı .</sentence>
+<sentence num="10">Patlama meydana gelen evde belden aşağısı parçalanmış halde 2 erkek cesedinin bulunduğunu belirten Cerrah ,uzman ekiplerin incelemelerini sürdürdüğünü ,ilerleyen saatlerde daha ayrıntılı bilgi verebileceğini kaydetti .</sentence>
+<sentence num="11">Cerrah ,Olay yerinde ,kendileri bir şey imal ederken patlama meydana geldiği gibi bir izlenim var dedi .</sentence>
+<sentence num="12">Olay yerinden hastanelere 6 yaralı gittiğini ,aralarında durumu çok ağır olan bulunmadığını belirten Cerrah ,bir gazetecinin patlamanın doğalgaz kaynaklı olup olmadığı yönündeki sorusuna ise Doğalgaz olmadığını kesinlikle söyleyebilirim .</sentence>
+<sentence num="13">Ama diğer konuda ne olduğunu bilahare bilgi vereceğiz .</sentence>
+<sentence num="14">Uzman ekipler çalışmalarını sürdürüyor yanıtını verdi .</sentence>
+<sentence num="15">Binanın içinde ve merdivenlerinde hasarlar olduğunu belirten Cerrah ,bir gazetecinin cesetlerin içeriden çıkartılamadığı yönünde bir bilgi olduğunu söylenmesi üzerine ,Cumhuriyet Savcısı ve bomba ekipleri incelemelerini sürdürdüğü için cesetlerin çıkartılamadığını ifade etti .</sentence>
+<sentence num="16">Cerrah ,AKUT ekiplerinin de kendiliğinden olay yerine geldiğini ,ancak onların çalışma yapmasını gerektirecek bir durum olmadığını belirtti .</sentence>
+<sentence num="17">Bu arada ,daha önce patlama meydana gelen binanın Yılmaz Apartmanı değil ,Gümüşkazma apartmanı olduğu anlaşıldı .</sentence>
+<sentence num="18">İTFAİYE :DOĞALGAZ DEĞİL İstanbul Bölge İtfaiye Müdür Yardımcısı Salih Karataş ,Zeytinburnu'nda bir apartmanda meydana gelen patlamada 2 kişinin hayatını kaybettiğini ,6 kişinin de yaralandığını bildirdi .</sentence>
+<sentence num="19">Karataş ,gelen ilk bilgilerin aksine patlamanın doğalgazdan kaynaklanmadığını ,olayın nedeninin araştırıldığını söyledi .</sentence>
+<sentence num="20">Karataş ,Maalesef patlamada şu ana kadarki tespitlerimize göre 2 ölü ,6 yaralı var dedi .</sentence>
+<sentence num="21">Karataş ,patlamanın olduğu yerde ekiplerin çalışmalarını sürdürdüğünü kaydetti .</sentence>
+<sentence num="22">Bu arada ,yakındaki bir kasapta çalışan görgü tanıklarından Ahmet Kutluay ,patlamayı duyar duymaz binaya geldiğini ve içeriden 4 yaralı çıkardıklarını belirterek ,Ayrıca içeride 1 de ölü vardı .</sentence>
+<sentence num="23">Patlama binanın 2 .katında mutfak bölümünde olmuş .</sentence>
+<sentence num="24">Ben girdiğimde evde tavanlar dahi delinmişti .</sentence>
+<sentence num="25">Üstteki katı görebiliyordum dedi .</sentence>
+<sentence num="26">Yan binada oturduğunu söyleyen Lütfiye Fidan da patlama olduğu sırada kahvaltı yaptıklarını anlatarak ,Benim evimde de kapılar ,pencereler birbirine girdi .</sentence>
+<sentence num="27">Bütün eşya yıkıldı .</sentence>
+<sentence num="28">Çok güçlü bir patlamaydı diye konuştu .</sentence>
+<sentence num="29">Patlamanın binada büyük çapta hasara yol açtığı ayrıca çevredeki 4 binayı da etkilediği görüldü .</sentence>
+<sentence num="30">Polis ekipleri ,binanın çevresinde güvenlik çemberi oluşturdu .</sentence>
+<sentence num="31">Öte yandan ,olayda yaralananlardan Avniye Kaya (26 )ile Zeynep Baysu (46 ),İstanbul Üniversitesi (İÜ )Cerrahpaşa Tıp Fakültesi Hastanesi'nde ,3 yaşlarında bir kız çocuğunun da Haseki Eğitim ve Araştırma Hastanesi'nde tedavi altına alındığı öğrenildi .</sentence>
+</doc>
+<doc>
+<id>129366</id>
+<sentence num="0">2005 08 08 12 :27 :00 .Zeytinburnu'nda şüpheli patlama :İki ölü Patlamayla ilgili geniş çaplı soruşturma başlatıldı .</sentence>
+<sentence num="1">Cerrah ,olayla igili geniş çaplı soruşturma başlattıklarını söyledi İlgili Galeri Foto Galeri için tıklayınız İstanbul Zeytinburnu'nda bir binada meydana gelen patlamada iki kişi öldü ,altı kişi de yaralandı .</sentence>
+<sentence num="2">Emniyet Müdürlüğünden yapılan açıklamada ,patlamanın patlayıcı madde yapımı esnasında meydana geldiğinin değerlendirildiği belirtildi .</sentence>
+<sentence num="3">İstanbul Emniyet Müdürlüğü'nden yapılan açıklamada ,''olay yerinde yapılan incelemeler neticesinde ,söz konusu olayın ,patlayıcı madde yapımı esnasında meydana geldiği değerlendirilmiş ,ölen iki kişinin kimlik tespit çalışmaları ile birlikte araştırma ve soruşturmaya çok yönlü olarak devam edilmektedir ''denildi .</sentence>
+<sentence num="4">Patlama ,Yenidoğan mahallesinde beş katlı bir binada meydana geldi .</sentence>
+<sentence num="5">Patlamada iki kişi öldü ,beş kişi de yaralandı .</sentence>
+<sentence num="6">İstanbul Emniyet Müdürü Celalettin Cerrah ,öğle saatlerinde olayın ardından yaptığı açıklamada ,binada 'bir şey 'imal edildiği sırada meydana geldiğinin sanıldığını açıklamıştı .</sentence>
+<sentence num="7">Binanın enkazında iki erkek cesedinin bulunduğunu kaydeden Cerrah ,patlama doğalgaz kaynaklı değil .</sentence>
+<sentence num="8">İçeride birşeyler imal ederken olmuş .</sentence>
+<sentence num="9">Bu gelen ilk bilgi .</sentence>
+<sentence num="10">Akşama doğru daha detaylı bilgi verebilirim demişti .</sentence>
+<sentence num="11">Patlama binada büyük çapta hasara yol açarken ,çevredeki dört bina da olaydan etkilendi .</sentence>
+<sentence num="12">Polis ekipleri ,binanın çevresinde güvenlik çemberi oluşturdu .</sentence>
+<sentence num="13">Patlamanın sebebi doğalgaz değil İstanbul Gaz Dağıtım Sanayi ve Ticaret A .Ş .(İGDAŞ )de ,Zeytinburnu'nda meydana gelen patlamanın sebebinin doğalgaz olmadığını söyledi .</sentence>
+<sentence num="14">İGDAŞ Basın Müşavirliği'nden yapılan yazılı açıklamada ,''patlamadan hemen sonra olay yerine giden İGDAŞ 187 Doğalgaz Acil ekipleri ,yaptıkları inceleme sonucunda ,patlamanın gerçekleştiği dairede doğalgaz tesisatının bulunmadığını tespit etmişlerdir .</sentence>
+<sentence num="15">Ayrıca ,yan dairenin de doğalgaz tesisatının gazının sayaçtan kesik olduğunu belirlemişlerdir ''ifadeleri kullanıldı .</sentence>
+<sentence num="16">Haber ajansları ,verdikleri ilk haberlerinde olayla ilgili olarak yetkililerin doğalgaz patlaması ihtimali üzerinde durduklarını duyurmuştu .</sentence>
+</doc>
+<doc>
+<id>129373</id>
+<sentence num="0">2005 08 08 12 :34 :00 .Zeytinburnu'nda patlama :1 ölü ,4 yaralı .</sentence>
+<sentence num="1">Zeytinburnu'nda patlama :1 ölü ,4 yaralı Zeytinburnu'nda bir apartmanda meydana gelen patlamada ilk belirlemelere göre 1 kişi öldü ,4 kişi yaralandı .</sentence>
+<sentence num="2">Yenidoğan Mahallesi 42 6 .Sokak 55 numaradaki 5 katlı Yılmaz Apartmanı'nda meydana gelen patlamada ,1 kişinin hayatını kaybettiği ,4 kişinin de yaralanarak hastanelere kaldırıldığı belirtildi .</sentence>
+<sentence num="3">Bu arada ,patlamanın doğalgazdan kaynaklanmış olabileceği ifade edildi .</sentence>
+</doc>
+<doc>
+<id>129379</id>
+<sentence num="0">2005 08 08 12 :43 :00 .İstanbul'da Doğalgaz Patlaması .</sentence>
+<sentence num="1">İstanbul Zeytinburnu'nda 5 katlı bir binada meydana gelen patlamada 2 kişi öldü 4 kişi yaralandı .</sentence>
+<sentence num="2">Patlamanın doğalgazdan kaynaklandığı belirtildi .</sentence>
+<sentence num="3">Yenidoğan Mahallesi 48'inci Sokaktaki 5 katlı binada patlama oldu .</sentence>
+<sentence num="4">Patlamada ilk belirlemelere göre 2 kişi öldü 4 kişi yaralandı .</sentence>
+<sentence num="5">Olay yerine polis ,itfaiye ve çok sayıda sağlık ekibi sevk edildi .</sentence>
+<sentence num="6">Patlamanın binanın doğalgaz tesisatından kaynaklandığı bildirildi KJ :.</sentence>
+</doc>
+<doc>
+<id>129404</id>
+<sentence num="0">2005 08 08 13 :19 :00 .Zeytinburnu'nda patlama :.</sentence>
+<sentence num="1">Zeytinburnu'nda patlama :2 ölü ,6 yaralı İstanbul Bölge İtfaiye Müdür Yardım cısı Salih Karataş ,Zeytinburnu'nda bir apartmanda meydana gelen patlamada 2 kişinin öldüğünü ,6 kişinin de yaralandığını bildirdi .?</sentence>
+<sentence num="2">Patlamanın sebebi doğalgaz değil ?</sentence>
+<sentence num="3">İGDAŞ :Patlamanın nedeni doğalgaz değil Karataş ,gelen ilk bilgilerin aksine patlamanın doğalgazdan kaynaklanmadığını ,olayın nedeninin araştırıldığını söyledi .</sentence>
+<sentence num="4">Karataş ,''Maalesef patlamada şu ana kadarki tespitlerimize göre 2 ölü ,6 yaralı var ''dedi .</sentence>
+<sentence num="5">Karataş ,patlamanın olduğu yerde ekiplerin çalışmalarını sürdürdüğünü kaydetti .</sentence>
+<sentence num="6">Bu arada ,yakındaki bir kasapta çalışan görgü tanıklarından Ahmet Kutluay ,patlamayı duyar duymaz binaya geldiğini ve içeriden 4 yaralı çıkardıklarını belirterek ,''Ayrıca içeride 1 de ölü vardı .</sentence>
+<sentence num="7">Patlama binanın 2 .katında mutfak bölümünde olmuş .</sentence>
+<sentence num="8">Ben girdiğimde evde tavanlar dahi delinmişti .</sentence>
+<sentence num="9">Üstteki katı görebiliyordum ''dedi .</sentence>
+</doc>
+<doc>
+<id>129418</id>
+<sentence num="0">2005 08 08 13 :40 :00 .Patlama nedeni doğalgaz değilmiş .</sentence>
+<sentence num="1">Yenidoğan Mahallesi 48'inci sokaktaki beş katlı binada saat 12 .00 sıralarında bir patlama meydana geldi .</sentence>
+<sentence num="2">Patlamada iki kişi hayatını kaybetti ,altı kişi yaralandı .</sentence>
+<sentence num="3">Patlamanın meydana geldiği apartmanda büyük çapta hasara neden olan patlama çevredeki dört binayı da etkiledi .</sentence>
+<sentence num="4">Çok sayıda dairenin camları kırıldı .</sentence>
+<sentence num="5">Patlamanın nedeni doğalgaz değil İstanbul Emniyet Müdürü Celalettin Cerrah ,''Olay yerinde ,kendileri bir şey imal ederken patlama meydana geldiği gibi bir izlenim var ''dedi .</sentence>
+<sentence num="6">Cerrah ,patlamanın meydana geldiği Zeytinburnu Yenidoğan Mahallesi 42 6 .Sokak 5 numaralı apartmana gelerek incelemelerde bulundu .</sentence>
+<sentence num="7">Burada yaklaşık 1 saat inceleme yapan Cerrah ,daha sonra basın mensuplarının sorularını yanıtladı .</sentence>
+<sentence num="8">Patlama meydana gelen evde belden aşağısı parçalanmış halde 2 erkek cesedinin bulunduğunu belirten Cerrah ,uzman ekiplerin incelemelerini sürdürdüğünü ,ilerleyen saatlerde daha ayrıntılı bilgi verebileceğini kaydetti .</sentence>
+<sentence num="9">Cerrah ,''Olay yerinde ,kendileri bir şey imal ederken patlama meydana geldiği gibi bir izlenim var ''dedi .</sentence>
+<sentence num="10">Olay yerinden hastanelere 6 yaralı gittiğini ,aralarında durumu çok ağır olan bulunmadığını belirten Cerrah ,bir gazetecinin ''patlamanın doğalgaz kaynaklı olup olmadığı ''yönündeki sorusuna ise ''Doğalgaz olmadığını kesinlikle söyleyebilirim .</sentence>
+<sentence num="11">Ama diğer konuda ne olduğunu bilahare bilgi vereceğiz .</sentence>
+<sentence num="12">Uzman ekipler çalışmalarını sürdürüyor ''yanıtını verdi .</sentence>
+<sentence num="13">Binanın içinde ve merdivenlerinde hasarlar olduğunu belirten Cerrah ,bir gazetecinin ''cesetlerin içeriden çıkartılamadığı yönünde bir bilgi olduğunu ''söylenmesi üzerine ,Cumhuriyet Savcısı ve bomba ekipleri incelemelerini sürdürdüğü için cesetlerin çıkartılamadığını ifade etti .</sentence>
+<sentence num="14">Cerrah ,AKUT ekiplerinin de kendiliğinden olay yerine geldiğini ,ancak onların çalışma yapmasını gerektirecek bir durum olmadığını belirtti .</sentence>
+<sentence num="15">Bu arada ,daha önce patlama meydana gelen binanın Yılmaz Apartmanı değil ,Gümüşkazma apartmanı olduğu anlaşıldı .</sentence>
+<sentence num="16">İGDAŞ'TAN AÇIKLAMA İstanbul Gaz Dağıtım Sanayi ve Ticaret A .Ş .(İGDAŞ ),Zeytinburnu'nda meydana gelen patlamanın sebebinin doğalgaz olmadığını bildirdi .</sentence>
+<sentence num="17">İGDAŞ Basın Müşavirliği'nden yapılan yazılı açıklamada ,Zeytinburnu Yenidoğan Mahallesi 48 .Sokak'ta öğle saatlerinde meydana gelen patlamanın ,doğalgaz sıkışmasından kaynaklanmadığının tespit edildiği belirtildi .</sentence>
+<sentence num="18">Açıklamada ,şu ifadelere yer verildi :''Patlamadan hemen sonra olay yerine giden İGDAŞ 187 Doğalgaz Acil ekipleri ,yaptıkları inceleme sonucunda ,patlamanın gerçekleştiği dairede doğalgaz tesisatının bulunmadığını tespit etmişlerdir .</sentence>
+<sentence num="19">Ayrıca ,yan dairenin de doğalgaz tesisatının gazının sayaçtan kesik olduğunu belirlemişlerdir .''</sentence>
+<sentence num="20">Açıklamada ,polis ve itfaiyenin patlamaya ilişkin incelemelerinin devam ettiği vurgulandı .</sentence>
+</doc>
+<doc>
+<id>129435</id>
+<sentence num="0">2005 08 08 14 :04 :00 .Cerrah :Kendileri bir şey imal ederken patlama meydana geldiği izlenimi var .</sentence>
+<sentence num="1">Cerrah :Kendileri bir şey imal ederken patlama meydana geldiği izlenimi var İstanbul Emniyet Müdürü Celalettin Cerrah ,''Olay yerinde ,kendileri bir şey imal ederken patlama meydana geldiği gibi bir izlenim var ''dedi .</sentence>
+<sentence num="2">Cerrah ,patlamanın meydana geldiği Zeytinburnu Yenidoğan Mahallesi 42 6 .Sokak 5 numaralı apartmana gelerek incelemelerde bulundu .</sentence>
+<sentence num="3">Burada yaklaşık 1 saat inceleme yapan Cerrah ,daha sonra basın mensuplarının sorularını yanıtladı .</sentence>
+<sentence num="4">Patlama meydana gelen evde belden aşağısı parçalanmış halde 2 erkek cesedinin bulunduğunu belirten Cerrah ,uzman ekiplerin incelemelerini sürdürdüğünü ,ilerleyen saatlerde daha ayrıntılı bilgi verebileceğini kaydetti .</sentence>
+<sentence num="5">Cerrah ,''Olay yerinde ,kendileri bir şey imal ederken patlama meydana geldiği gibi bir izlenim var ''dedi .</sentence>
+<sentence num="6">Olay yerinden hastanelere 6 yaralı gittiğini ,aralarında durumu çok ağır olan bulunmadığını belirten Cerrah ,bir gazetecinin ''patlamanın doğalgaz kaynaklı olup olmadığı ''yönündeki sorusuna ise ''Doğalgaz olmadığını kesinlikle söyleyebilirim .</sentence>
+<sentence num="7">Ama diğer konuda ne olduğunu bilahare bilgi vereceğiz .</sentence>
+<sentence num="8">Uzman ekipler çalışmalarını sürdürüyor ''yanıtını verdi .</sentence>
+</doc>
+<doc>
+<id>129534</id>
+<sentence num="0">2005 08 08 16 :20 :00 .Zeytinburnu'nda patlama :2 ölü .</sentence>
+<sentence num="1">Zeytinburnu'nda 5 katlı bir binada patlama meydana geldi .</sentence>
+<sentence num="2">Patlamada gelen ilk bilgilere göre 2 kişi hayatını kaybetti ,6 kişi yaralandı .</sentence>
+<sentence num="3">Yenidoğan Mahallesi 48 .Sokak üzerinde bulunan 5 katlı binada patlama oldu .</sentence>
+<sentence num="4">Olay yerine polis ,itfaiye ve çok sayıda sağlık ekibi sevk edildi Saat 11 .50 sularında meydana gelen patlamanın meydana geldiği Yenidoğan Mahallesi 48 .Sokak üzerindeki 5 katlı Yılmaz Apartmanı'na ilk ulaşan polis ekipleri ,olay yerinde yaralılar bulunduğunu belirterek ,ambulanslar gönderilmesini istediler .</sentence>
+</doc>
+<doc>
+<id>129542</id>
+<sentence num="0">2005 08 08 16 :35 :00 .Zeytinburnu'ndaki patlamayla ilgili 5 yaralı tespit edildi .</sentence>
+<sentence num="1">Zeytinburnu'ndaki patlamayla ilgili 5 yaralı tespit edildi İstanbul İl Sağlık Müdürlüğü ,Zeytinburnu'nda bir apartmanda meydana gelen patlamaya ilişkin 4 hastanede 5 yaralı tespit etti .</sentence>
+<sentence num="2">İl Sağlık Müdürlüğü yetkilileri ,Zeytinburnu'ndaki bir apartmanda gerçekleşen patlamanın ardından ambulanslarla hastanelere 5 yaralı ulaştırıldığını belirttiler .</sentence>
+<sentence num="3">Yetkililer ,bu yaralıların İstanbul Üniversitesi (İÜ )Cerrahpaşa Tıp Fakültesi Hastanesi'ne kaldırılan Zeynep Baysu ile Avniye Kaya ,Yedikule Göğüs Hastalıkları Hastanesi'ne ulaştırılan Fadime Terzi ,Ermeni Hastanesi'ne kaldırılan Ali Beşir Ayşop ile Haseki Eğitim ve Araştırma Hastanesi'ne ulaştırılan 2 yaşındaki bir çocuk olduğunu bildirdiler .</sentence>
+</doc>
+<doc>
+<id>129627</id>
+<sentence num="0">2005 08 08 20 :00 :00 .İstanbul'daki patlama ,patyıcı madde yapımı sırasında meydana geldi .</sentence>
+<sentence num="1">İstanbul Emniyet Müdürlüğü ,Zeytinburnu'nda bir apartmandaki patlamanın ,patlayıcı madde yapımı esnasında meydana geldiğinin değerlendirildiğini bildirdi .</sentence>
+<sentence num="2">İstanbul Emniyet Müdürlüğü'nden yapılan yazılı açıklamada ,saat 11 .45 sıralarında Zeytinburnu Yenidoğan Mahallesi 42 6 Sokak'taki 5 numaralı apartmanın ikamet olarak kullanılan 3 numaralı dairesinde patlama olduğu hatırlatıldı .</sentence>
+<sentence num="3">Patlamada ,evde bulunan 2 kişinin öldüğü ,5 kişinin de çeşitli yerlerinden yaralandığı ,ayrıca binada maddi hasar meydana geldiği ifade edilen açıklamada ,şöyle denildi :Olay yerinde yapılan incelemeler neticesinde ,söz konusu olayın ,patlayıcı madde yapımı esnasında meydana geldiği değerlendirilmiş ,ölen 2 kişinin kimlik tespit çalışmaları ile birlikte araştırma ve soruşturmaya çok yönlü olarak devam edilmektedir ..</sentence>
+</doc>
+<doc>
+<id>129649</id>
+<sentence num="0">2005 08 08 21 :20 :00 .Polis patlamaya isim buldu .</sentence>
+<sentence num="1">İstanbul Emniyet Müdürlüğü'nden yapılan yazılı açıklamada ,saat 11 .45 sıralarında Zeytinburnu Yenidoğan Mahallesi 42 6 Sokak'taki 5 numaralı apartmanın ikamet olarak kullanılan 3 numaralı dairesinde patlama olduğu hatırlatıldı .</sentence>
+<sentence num="2">Patlamada ,evde bulunan 2 kişinin öldüğü ,5 kişinin de çeşitli yerlerinden yaralandığı ,ayrıca binada maddi hasar meydana geldiği ifade edilen açıklamada ,şöyle denildi :''Olay yerinde yapılan incelemeler neticesinde ,söz konusu olayın ,patlayıcı madde yapımı esnasında meydana geldiği değerlendirilmiş ,ölen 2 kişinin kimlik tespit çalışmaları ile birlikte araştırma ve soruşturmaya çok yönlü olarak devam edilmektedir .''</sentence>
+<sentence num="3">AA .</sentence>
+</doc>
+<doc>
+<id>129902</id>
+<sentence num="0">2005 08 09 11 :40 :00 .Vali Güler :Patlayıcıyı düzenek hale getirmek isteyen 2 kişi öldü .</sentence>
+<sentence num="1">İstanbul Valisi Muammer Güler ,Zeytinburnu'da bir apartmanda dün meydana gelen patlamaya ilişkin araştırmanın sürdüğünü belirterek ,Evde bir eylem hazırlığında bulunulduğu kesin dedi .</sentence>
+<sentence num="2">Vali Güler ,Donanma Komutanlığı'na atanan Kuzey Deniz Saha Komutanı Koramiral Muzaffer Metin Ataç'ın kendisine yaptığı veda ziyaretinde ,gazetecilerin Zeytinburnu'daki patlamaya ilişkin sorularını yanıtladı .</sentence>
+<sentence num="3">Olayla ilgili araştırmanın sürdüğünü belirten Güler ,şunları kaydetti :Çok kısa süre içinde ayrıntılı bilgi verme imkanımız olacak .</sentence>
+<sentence num="4">Tabi ki ,o evde bir eylem hazırlığında bulunulduğu kesin .</sentence>
+<sentence num="5">Patlayıcıyı düzenek haline getirmek isteyen 2 kişi patlama sonucu öldü ,evdekiler de yaralandı .</sentence>
+<sentence num="6">Konuyla ilgili çok derin bir araştırma sürdürülüyor .</sentence>
+<sentence num="7">Şu anda örgütsel bağlantıyı biz tahmin ediyoruz ,ama kesin bir şey tespit etmeden de bir açıklama yapmak istemiyorum .</sentence>
+<sentence num="8">Bölücü yıkıcı örgütlerle ilgisi var .</sentence>
+<sentence num="9">Bazı kesimler ,İstanbul'da ve ülkemizde huzuru bozmak için bir tertibin ,gayretin içinde .</sentence>
+<sentence num="10">Güvenlik güçlerimiz ,devletimiz bütün gücüyle bunu önlemeye çalışıyor .</sentence>
+<sentence num="11">Çabalar beyhudedir .</sentence>
+<sentence num="12">Son zamanlarda İstanbul'da 3 ayrı patlama meydana geldiği hatırlatılan Güler ,bölücü terör örgütünün her zaman bu anlamda bir gayretinin bulunduğunu söyledi .</sentence>
+<sentence num="13">Güler ,örgütün yalnız İstanbul'da değil ,Türkiye'nin birçok yerinde benzer saldırılarda bulunmaya çalıştığını ifade ederek ,Güvenlik güçleri de bununla ilgili çok yönlü bir çalışma içerisinde dedi .</sentence>
+<sentence num="14">Zeytinburnu'daki patlamada ölen kişilerin kimliklerinin belli olup olmadığı da sorulan Vali Güler ,Kimlikler belli değil ,ama bu olayın hiçbir netice vermeyeceği ,ülkemizin bütünlüğü açısından da herhangi bir netice vermeyeceği kesindir diye konuştu .</sentence>
+</doc>
+<doc>
+<id>129905</id>
+<sentence num="0">2005 08 09 11 :40 :00 .İstanbul Valisi :Zeytinburnu'ndaki evde eylem hazırlığında bulunulduğu kesin .</sentence>
+<sentence num="1">İstanbul Valisi :Zeytinburnu'ndaki evde eylem hazırlığında bulunulduğu kesin İstanbul Valisi Muammer Güler ,Zeytinburnu'da bir apartmanda dün meydana gelen patlamaya ilişkin araştırmanın sürdüğünü belirterek ,''Evde bir eylem hazırlığında bulunulduğu kesin ''dedi .</sentence>
+<sentence num="2">Vali Güler ,Donanma Komutanlığı'na atanan Kuzey Deniz Saha Komutanı Koramiral Muzaffer Metin Ataç'ın kendisine yaptığı veda ziyaretinde ,gazetecilerin Zeytinburnu'daki patlamaya ilişkin sorularını yanıtladı .</sentence>
+<sentence num="3">Olayla ilgili araştırmanın sürdüğünü belirten Güler ,şunları kaydetti :''Çok kısa süre içinde ayrıntılı bilgi verme imkanımız olacak .</sentence>
+<sentence num="4">Tabi ki ,o evde bir eylem hazırlığında bulunulduğu kesin .</sentence>
+<sentence num="5">Patlayıcıyı düzenek haline getirmek isteyen 2 kişi patlama sonucu öldü ,evdekiler de yaralandı .</sentence>
+<sentence num="6">Konuyla ilgili çok derin bir araştırma sürdürülüyor .</sentence>
+<sentence num="7">Şu anda örgütsel bağlantıyı biz tahmin ediyoruz ,ama kesin bir şey tespit etmeden de bir açıklama yapmak istemiyorum .</sentence>
+<sentence num="8">Bölücü yıkıcı örgütlerle ilgisi var .</sentence>
+<sentence num="9">Bazı kesimler ,İstanbul'da ve ülkemizde huzuru bozmak için bir tertibin ,gayretin içinde .</sentence>
+<sentence num="10">Güvenlik güçlerimiz ,devletimiz bütün gücüyle bunu önlemeye çalışıyor .</sentence>
+<sentence num="11">Çabalar beyhudedir .''.</sentence>
+</doc>
+<doc>
+<id>129929</id>
+<sentence num="0">2005 08 09 12 :04 :00 .Patlamada ölenler bölücü örgüt üyesi .</sentence>
+<sentence num="1">Patlamada iki kişi ölmüştü İstanbul Emniyet Müdürü Celalettin Cerrah ,dün Zeytinburnu'nda meydana gelen patlamayla ilgili olarak ölen iki kişinin bölücü terör örgütüne üye olduklarını açıkladı .</sentence>
+<sentence num="2">Cerrah ,patlamanın türü hakkında incelemelerin devam ettiğini belirtti .</sentence>
+<sentence num="3">Celalettin Cerrah ,herkesi teröre karşı duyarlı olması konusunda da uyardı .</sentence>
+<sentence num="4">İstanbul Valisi Muammer Güler de ,patlamaya ilişkin araştırmanın sürdüğünü belirterek ,''evde bir eylem hazırlığında bulunulduğu kesin ''dedi .</sentence>
+<sentence num="5">Örgütsel bağlantıyı tahmin ediyoruz diyen Vali Güler ,kesin bir şey tespit etmeden de bir açıklama yapmak istemediğini belirtti .</sentence>
+<sentence num="6">Bazı kesimlerin ,İstanbul'da ve Türkiye genelinde huzuru bozmak için bir tertibin ,gayretin içinde olduğunu söyleyen Muammer Güler ,güvenlik güçlerimiz ,devletimiz bütün gücüyle bunu önlemeye çalışıyor .</sentence>
+<sentence num="7">Çabalar beyhudedir ''dedi .</sentence>
+<sentence num="8">İstanbul Emniyet Müdürü Cerrah ,'Zeytinburnu'ndaki olayda ölen kişilerin kimliklerinin belirlenip belirlenmediği 'yönündeki soru üzerine de ''Teröristlerin kimliği nedir ?</sentence>
+<sentence num="9">Kimdir ?</sentence>
+<sentence num="10">Nereden gelmiştir ?</sentence>
+<sentence num="11">eğer bunları bize bırakırsanız biz çalışmalarımızı daha iyi yaparız ve sonuca daha çabuk ulaşırız ''dedi .</sentence>
+<sentence num="12">Patlamada iki kişi öldü İstanbul Zeytinburnu'nda bir binada dün meydana gelen patlamada iki kişi ölmüş ,altı kişi de yaralanmıştı .</sentence>
+<sentence num="13">Emniyet Müdürlüğünden yapılan açıklamada ,patlamanın patlayıcı madde yapımı esnasında meydana geldiği açıklanmıştı .</sentence>
+<sentence num="14">Patlama binada büyük çapta hasara yol açarken ,çevredeki dört bina da olaydan etkilenmişti .</sentence>
+</doc>
+<doc>
+<id>129962</id>
+<sentence num="0">2005 08 09 12 :35 :00 .Cerrah :Patlayıcıyı imal ederken ölenler bölücü terör örgütü üyesi .</sentence>
+<sentence num="1">İstanbul Emniyet Müdürü Celalettin Cerrah ,Zeytinburnu'nda dün meydana gelen patlamaya ilişkin ,Olay yerinde yapılan inceleme neticesinde patlayıcı düzeneği imal etmeye çalışırken patlamalar gerçekleştiği ve bölücü terör örgütüne mensup 2 kişinin olay yerinde öldüğü tespit edildi dedi .</sentence>
+<sentence num="2">İstanbul Emniyet Müdürlüğü'nde basın açıklaması yapan Cerrah ,kentte son zamanlarda meydana gelen bazı patlamalara ilişkin bilgi verdi .</sentence>
+<sentence num="3">Cerrah ,Zeytinburnu'nda dün meydana gelen patlamaya ilişkin şunları kaydetti :Dünkü olayla ilgili olay yerinde yapılan inceleme neticesinde patlayıcı düzeneği imal etmeye çalışırken patlamalar gerçekleştiği ve bölücü terör örgütüne mensup 2 kişinin olay yerinde öldüğünü arkadaşlar tespit etti .</sentence>
+<sentence num="4">Patlayıcı ile ilgili çalışmalarımız devam ediyor .</sentence>
+<sentence num="5">Nedeni nedir ?</sentence>
+<sentence num="6">Menşei nedir ?</sentence>
+<sentence num="7">Bununla ilgili de çalışmalarımız devam ediyor .</sentence>
+<sentence num="8">Bu konuyla ilgili bilgiyi daha sonra vereceğiz .</sentence>
+<sentence num="9">Cerrah ,vatandaşları da uyararak ,evlerini kiraya verirken daha dikkatli olmalarını ve en ufak bir şüphe hissettikleri takdirde polise başvurmalarını istedi .</sentence>
+<sentence num="10">İstanbul Emniyet Müdürü Celalettin Cerrah ,Yeni Galata Köprüsü'ndeki bir restoranda meydana gelen patlamaya ilişkin 1'i bayan 4 kişinin yakalandığını bildirdi .</sentence>
+<sentence num="11">Cerrah ,İstanbul Emniyet Müdürlüğü'nün Vatan Caddesi'ndeki kompleksinde yer alan Şehit Komiser Tevfik Fikret Erciyas Brifing Salonu'nda yaptığı açıklamada ,23 Temmuz 2005 tarihinde Yeni Galata Köprüsü'ndeki bir restoranda patlayan bombanın 2 kişinin yaralanmasına neden olduğunu hatırlattı .</sentence>
+<sentence num="12">Olaya ilişkin Terörle Mücadele Şube Müdürlüğü ve İstihbarat Şube Müdürlüğü'nün çalışma yürüttüğünü ifade eden Cerrah ,Yeni Galata Köprüsü'ndeki bir restoranda patlayan bombaya ilişkin bölücü terör örgütüne mensup 1'i bayan 4 kişi yakalandı dedi .</sentence>
+<sentence num="13">Yakalanan bayanın yaşı küçük olduğu için daha önce adli makamlara sevk edilerek tutuklandığını söyleyen Cerrah ,diğer 3 kişinin de bugün adliyeye gönderildiğini bildirdi .</sentence>
+<sentence num="14">Bu kişilerin kaldığı yerlerde yapılan aramalarda 1 kilo 800 gram plastik patlayıcı ,elektrikli fünyeler ,elektronik devre düzeneği ve uzaktan kumandalı devre düzeneğinin ele geçirildiğini kaydeden Cerrah ,Bu terör örgütüne ve diğer terör örgütlerine karşı mücadelemiz devam edecektir dedi .</sentence>
+<sentence num="15">Hiçbir şekilde İstanbul halkının canına ve malına zarar gelmesine müsaade etmeyeceklerini vurgulayan Cerrah ,Ancak bu tip olaylara karşı İstanbul halkı da mutlaka dikkatli davranmak zorundadır diye konuştu .</sentence>
+<sentence num="16">İstanbul halkının emniyet müdürlüğü ile işbirliğine devam etmesi halinde terör örgütleriyle mücadelenin en iyi şekilde ve en üst seviyede devam edeceğini belirten Cerrah ,terör örgütlerine bugün olduğu gibi darbe vurmaya ve mensuplarını yakalamaya devam edeceklerini bildirdi .</sentence>
+<sentence num="17">SORULAR İstanbul Emniyet Müdürü Cerrah ,Zeytinburnu'ndaki olayda ölen kişilerin kimliklerinin belirlenip belirlenmediği yönündeki soru üzerine de terör örgütleriyle yapılan mücadelede herkesin duyarlı davranması gerektiğini belirterek ,Teröristlerin kimliği nedir ?</sentence>
+<sentence num="18">Kimdir ?</sentence>
+<sentence num="19">Nereden gelmiştir ?</sentence>
+<sentence num="20">Eğer bunları bize bırakırsanız biz çalışmalarımızı daha iyi yaparız ve sonuca daha çabuk ulaşırız dedi .</sentence>
+<sentence num="21">Cerrah ,Atatürk Havalimanı önünde bir taksinin bagajında meydana gelen patlamaya ilişkin başka bir soru üzerine de ,bu konuda daha önceden gerekli açıklamaların yapıldığını söyleyerek ,şöyle konuştu :O konuda da laboratuvar neticesini bekliyoruz .</sentence>
+<sentence num="22">Ama yine lütfen bu konu çok önemli ;bazı konuları büyüterek vermemek gerekir .</sentence>
+<sentence num="23">Bundan hem ülkemiz ,hem milletimiz zarar görür .</sentence>
+<sentence num="24">Geçmişte Londra'da izlediğimiz bir konu vardır .</sentence>
+<sentence num="25">Madrid'te izlenen bir konu vardır .</sentence>
+<sentence num="26">Amerika'da izlenen bir konu vardır .</sentence>
+<sentence num="27">Hepimiz onlar gibi duyarlı olmamız gerekir diye düşünüyorum .</sentence>
+<sentence num="28">Zeytinburnu'ndaki olayda kullanılan bombanın cinsinin ne olduğu da sorulan Cerrah ,laboratuvar incelemesi gelmeden patlayıcıya ilişkin herhangi bir şey söylemenin zor olduğunu ifade etti .</sentence>
+<sentence num="29">YAZILI AÇIKLAMA Yeni Galata Köprüsü'nün altındaki bir restoranda meydana gelen patlamaya ilişkin yapılan yazılı açıklamada ,gözaltına alınan kişilerin üzerlerinde ve kaldıkları evlerde ele geçirilen malzemeler şöyle sıralandı :2 paket halinde 1 kilo 800 gram plastik patlayıcı ,2 adet elektrikli fünye ,4 adet elektronik devre düzeneği ,2 adet kordonsuz kol saati düzeneği ,1 adet uzaktan kumanda aleti ,1 adet fotoğraf makinesi ,1 adet ses kaydedici ,1 adet pil şarj cihazı ,5 adet walkman radyo ,çok miktarda kalem pil ,havya ,lehim ,lehim pastası ,hazırlanmış elektronik düzenek ,bir miktar civata ve çivi ,bir miktar tek telli kablo ,1 yan keski ,1 adet ambalaj bandı ,1 piknik tüpü ,1 adet dijital saat ,1 adet eylemde kullanıldığı tespit edilen çanta ,187 adet mühürlü boş sözde örgüte ait vergilendirme makbuzu ,3 adet kitap ve örgütsel doküman ,5 adet cep telefonu ,18 adet kırsalda çekilmiş örgüt mensuplarına ait fotoğraf ..</sentence>
+</doc>
+<doc>
+<id>129963</id>
+<sentence num="0">2005 08 09 12 :35 :00 .Cerrah :Patlayıcı düzeneği imal edilirken patlama olduğu kesin .</sentence>
+<sentence num="1">Cerrah :Patlayıcı düzeneği imal edilirken patlama olduğu kesin İstanbul Emniyet Müdürü Celalettin Cerrah ,Zeytinburnu'nda dün meydana gelen patlamaya ilişkin ,''Olay yerinde yapılan inceleme neticesinde patlayıcı düzeneği imal etmeye çalışırken patlamalar gerçekleştiği ve bölücü terör örgütüne mensup 2 kişinin olay yerinde öldüğü tespit edildi ''dedi .?</sentence>
+<sentence num="2">Zeytinburnu'nda şüpheli patlama :2 ölü İstanbul Emniyet Müdürlüğü'nde basın açıklaması yapan Cerrah ,kentte son zamanlarda meydana gelen bazı patlamalara ilişkin bilgi verdi .</sentence>
+<sentence num="3">Cerrah ,Zeytinburnu'nda dün meydana gelen patlamaya ilişkin şunları kaydetti :''Dünkü olayla ilgili olay yerinde yapılan inceleme neticesinde patlayıcı düzeneği imal etmeye çalışırken patlamalar gerçekleştiği ve bölücü terör örgütüne mensup 2 kişinin olay yerinde öldüğünü arkadaşlar tespit etti .</sentence>
+<sentence num="4">Patlayıcı ile ilgili çalışmalarımız devam ediyor .</sentence>
+<sentence num="5">Nedeni nedir ?</sentence>
+<sentence num="6">Menşei nedir ?</sentence>
+<sentence num="7">Bununla ilgili de çalışmalarımız devam ediyor .</sentence>
+<sentence num="8">Bu konuyla ilgili bilgiyi daha sonra vereceğiz .''.</sentence>
+</doc>
+<doc>
+<id>129979</id>
+<sentence num="0">2005 08 09 13 :00 :00 .Emniyetten evsahiplerine uyarı .</sentence>
+<sentence num="1">İstanbul Emniyet Müdürü Celalettin İstanbul Emniyet Müdürü Celalettin Cerrah ,İstanbul'da son günlerde yaşanan patlama olayları ile ilgili Vatan Emniyet Müdürlüğü'nde bir basın açıklaması yaptı .</sentence>
+<sentence num="2">Cerrah ,dün Zeytinburnu'nda 2 kişinin ölümü ve 5 kişinin yaralanması ile sonuçlanan olayla ilgili incelemelerin sürdüğünü açıkladı .</sentence>
+<sentence num="3">İlk incelemeler sonucunda patlamanın bomba düzeneği imal etmeye çalışırken meydana geldiğini kaydeden Cerrah ,Patlayıcı düzeneği imal ederken meydana gelen patlama sonucu bölücü örgüt üyesi 2 kişi öldü .</sentence>
+<sentence num="4">Olayla ilgili bugün de incelemeler sürüyor .</sentence>
+<sentence num="5">Vatandaşlarımız kiraya verecekleri ve satacakları evler konusunda daha duyarlı olsunlar .</sentence>
+<sentence num="6">Şahısları kontrol etsinler ve şüphelendikleri kişiler hakkında emniyete bilgi versinler .</sentence>
+<sentence num="7">Terör konusunda vatandaşlarımız kadar basın da duyarlı olmalı .</sentence>
+<sentence num="8">şeklinde konuştu .</sentence>
+<sentence num="9">Basın mensuplarının patlayıcının türü ve ölen şahısların kimlikleri konusundaki sorularına ise Cerrah ,Kimliğini ve nereden geldiklerini soruşturmanın selahiyeti açısından bize bırakın .</sentence>
+<sentence num="10">Bombanın türü hakkında da bilgi veremeyiz .</sentence>
+<sentence num="11">yanıtını verdi .</sentence>
+<sentence num="12">Celalettin Cerrah ,Galata Köprüsü altında Temmuz ayında meydana gelen patlama olayı ile ilgili 4 şahsın yakalandığını açıkladı .</sentence>
+<sentence num="13">Terör ve İstihbarat Şube Müdürlüklerinin koordineli çalışması sonucu bölücü örgüt adına faaliyette bulunan 4 şahsın yakalandığını kaydeden Cerrah ,Yakalanan kişilerin üzerlerinde ve evlerinde yapılan aramalarda çok sayıda malzeme ele geçirildi .</sentence>
+<sentence num="14">Bin 800 gram plastik patlayıcı madde ,2 adet elektrikli fünye ,4 adet elektronik devre düzeneği ,1 adet uzaktan kumanda aleti ,5 adet walkmen radyo ,1 adet eylemde kullanıldığı tespit edilen çanta ,187 adet sözde örgüte ait vergilendirme makbuzu ,örgütsel kitap ve dökümanlar ,1 adet fotoğraf makinesi ve ses kaydedici cihazı ele geçirilen malzemelerden bazıları .</sentence>
+<sentence num="15">Yakalanan Şahıslardan biri yaşı küçük olduğu için tutuklanmış ,diğerleri ise adliyeye sevkedilmiştir .</sentence>
+<sentence num="16">diye konuştu .</sentence>
+<sentence num="17">Emniyet Müdürü Cerrah ,Atatürk Havalimanı'ndaki patlamanın cinsiyle ilgili laboratuvar çalışmalarının sürdüğünü de sözlerine ekledi .</sentence>
+<sentence num="18">cihan .</sentence>
+</doc>
+<doc>
+<id>130230</id>
+<sentence num="0">2005 08 09 17 :50 :00 .Patlamalarda 'Bölücü Örgüt 'İzleri .</sentence>
+<sentence num="1">İstanbul Zeytinburnu'nda pazartesi günü meydana gelen patlamanın bomba yapımı sırasında gerçekleştiği kesinlik kazandı .</sentence>
+<sentence num="2">İstanbul Valisi Muammer Güler ülkenin huzurunu bozmaya yönelik tertipleri beyhude çabalar olarak nitelerken ,Emniyet Müdürü Celalettin Cerrah da vatandaşları uyardı :Evinizi kime kiraya verdiğinize dikkat edin .</sentence>
+<sentence num="3">Zeytinburnu Yenidoğan Mahallesi 48'inci sokakta bir evde meydana gelen patlamayla ilgili soruşturma sürüyor .</sentence>
+<sentence num="4">Bombanın türü ve kaynağı ile ilgili araştırmalar devam ederken polis patlamada ölen bombacıların kimliğini belirlemeye çalışıyor .</sentence>
+<sentence num="5">Vali Güler şöyle konuştu :O evde eylem hazırlığında elbette bulunulduğu kesin .</sentence>
+<sentence num="6">Bir patlayıcıyı bir düzenek haline getirmek isteyen iki kişinin patlama sonucu öldüğünü evdekilerin de yaralandığını biliyorsunuz ...</sentence>
+<sentence num="7">Bölücü yıkıcı örgütlerle ilgisi var elbetteki .</sentence>
+<sentence num="8">İstanbul Emniyet Müdürü Celalettin Cerrah da ,vatandaşları terörle mücadelede işbirliğine çağırdı :Bu tip olaylara karşı İstanbul halkı da dikkatli davranmak zorundadır .</sentence>
+<sentence num="9">Kiraya vereceği evleri kime verdiklerini ve şüphelendikleri takdirde süratle emniyet birimlerine 155'e bilgi vermelerini arzu ediyoruz .</sentence>
+<sentence num="10">Bu arada ,Galata Köprüsü'nde 23 Temmuz'da meydana gelen ve 2 kişinin yaralanmasına yolaçan patlamayla ilgili 4 kişi yakalandı .</sentence>
+<sentence num="11">Bölücü örgüt üyesi oldukları bildirilen bu kişilerle birlikte yaklaşık 2 kilo plastik patlayıcı ve bomba düzeneği yapımında kullanılan malzeme ele geçirildi .</sentence>
+</doc>
+<doc>
+<id>130487</id>
+<sentence num="0">2005 08 10 11 :06 :00 .Zeytinburnu patlamasında iki gözaltı .</sentence>
+<sentence num="1">Patlamada iki kişi ölmüştü Doğan Haber Ajansı ,Zeytinburnu'nda bir evde meydana gelen ve iki kişinin öldüğü patlama ile ilgili evin sahibiyle mahalle muhtarının gözaltına alındığını duyurdu .</sentence>
+<sentence num="2">DHA'nın haberine göre ,olayla ilgili soruşturmayı sürdüren polis ,patlamanın meydana geldiği evin kiralanmasıyla iligili işlemleri de incelemeye aldı .</sentence>
+<sentence num="3">Bu inceleme sonunda evi kiraya veren Mehmet Beşir Bayşuh'la Küçükçekmece Ziya Gökalp Mahallesi Muhtarı Nizamettin Ada gözaltına alındı .</sentence>
+<sentence num="4">Mahalle muhtarının gözaltına alınış nedeninin patlamada ölen iki kişinin üzerinden çıkan sahte kimliklerle ilgili usule uygun olmayan işlemler olduğu belirtildi .</sentence>
+<sentence num="5">Yasadışı örgütle bağlantılı oldukları tespit edilen ve patlamada ölen bu iki kişinin üzerinden çıkan sahte kimliklerin ,Küçükçekmece'den alınan belgelerle hazırlandığı belirtiliyor .</sentence>
+<sentence num="6">Patlamada iki kişi öldü İstanbul Zeytinburnu'nda iki gün önce ,bir apartmanda meydana gelen patlamada iki kişi ölmüş ,altı kişi de yaralanmıştı .</sentence>
+<sentence num="7">Patlama binada büyük çapta hasara yol açarken ,çevredeki dört bina da olaydan etkilenmişti .</sentence>
+<sentence num="8">İstanbul polisi ,patlamanın bomba imal edilmeye çalışılırken meydana geldiğini açıklamıştı .</sentence>
+<sentence num="9">İstanbul Emniyet Müdürü Celalettin Cerrah ,Zeytinburnu'nda meydana gelen patlamayla ilgili olarak ölen iki kişinin bölücü terör örgütüne üye olduklarını söylemişti .</sentence>
+<sentence num="10">İstanbul Valisi Muammer Güler de olayla ilgili yaptığı açıklamada ,patlamaya ilişkin araştırmanın sürdüğünü belirtmiş ve evde bir eylem hazırlığında bulunulduğunun kesin olduğunu ifade etmişti .</sentence>
+<sentence num="11">Örgütsel bağlantıyı tahmin ediyoruz diyen Vali Güler ,kesin bir şey tespit etmeden de bir açıklama yapmak istemediğini belirtmişti .</sentence>
+</doc>
+<doc>
+<id>130532</id>
+<sentence num="0">2005 08 10 12 :13 :00 .Muhtara ,sahte evrak gözaltısı .</sentence>
+<sentence num="1">İstanbul Zeytinburnu'nda iki gün önce ,bir apartmanda meydana gelen patlamada iki kişi ölmüş ,altı kişi de yaralanmıştı .</sentence>
+<sentence num="2">Patlama binada büyük çapta hasara yol açarken ,çevredeki dört bina da olaydan etkilenmişti .</sentence>
+<sentence num="3">İstanbul polisi ,patlamanın bomba imal edilmeye çalışılırken meydana geldiğini açıklamıştı .</sentence>
+<sentence num="4">İstanbul Emniyet Müdürü Celalettin Cerrah ,Zeytinburnu'nda meydana gelen patlamayla ilgili olarak ölen iki kişinin bölücü terör örgütüne üye olduklarını söylemişti .</sentence>
+<sentence num="5">İstanbul Valisi Muammer Güler de olayla ilgili yaptığı açıklamada ,patlamaya ilişkin araştırmanın sürdüğünü belirtmiş ve evde bir eylem hazırlığında bulunulduğunun kesin olduğunu ifade etmişti .</sentence>
+<sentence num="6">Örgütsel bağlantıyı tahmin ediyoruz diyen Vali Güler ,kesin bir şey tespit etmeden de bir açıklama yapmak istemediğini belirtmişti .</sentence>
+</doc>
+<doc>
+<id>130601</id>
+<sentence num="0">2005 08 10 13 :25 :00 .Patlamada Ölenlerin Kimlikleri .</sentence>
+<sentence num="1">İstanbul Zeytinburnu'ndaki bir evde bomba yapımı sırasında meydana gelen patlamada ölen 2 kişiden birinin kimliği belirlendi .</sentence>
+<sentence num="2">Yenidoğan Mahallesindeki bir apartman dairesinde meydana gelen patlamayla ilgili soruşturma sürüyor .</sentence>
+<sentence num="3">Patlamada ölenlerden birinin kimliğinin Erhan Türk olduğu belirlendi .</sentence>
+<sentence num="4">Cenazeyi almak üzere Adli Tıp Kurumuna gelen Erhan Türk'ün anne ve babası da bilgilerine başvurulmak üzere emniyet müdürlüğüne götürüldü .</sentence>
+<sentence num="5">Polis ,olayla ilgili olarak ev sahibi ile mahalle muhtarını da bilgilerine başvurmak için gözaltına aldı .</sentence>
+<sentence num="6">Bu arada basın mensuplarının patlamanın olduğu daireye girmesine izin verildi .</sentence>
+<sentence num="7">Bombanın salonun ortasında patladığı ,tavanda da çökme meydana geldiği görüldü .</sentence>
+</doc>
+<doc>
+<id>130655</id>
+<sentence num="0">2005 08 10 14 :44 :00 .Zeytinburnu'da patlama meydana gelen bina oturulamaz durumda .</sentence>
+<sentence num="1">Zeytinburnu'da patlama meydana gelen bina oturulamaz durumda Zeytinburnu Belediye Başkanı Murat Aydın ,önceki gün meydana gelen patlama sonucu 2 kişinin öldüğü ,5 kişinin de yaralandığı binanın ,ilk tespitlere göre oturulamaz durumda olduğunu bildirdi .</sentence>
+<sentence num="2">Yenidoğan Mahallesi 42 6 .Sokak 5 numaralı Gümüşkazma Apartmanı'nda incelemelerde bulunan Aydın ,teknik görevlilerin konuyla ilgili inceleme yaptığını belirterek ,ön rapora göre şu an binanın oturulamaz durumda olduğunu söyledi .</sentence>
+<sentence num="3">Aydın ,üniversiteden öğretim üyelerinin gelerek binada detaylı inceleme yapacağını kaydetti .</sentence>
+<sentence num="4">Patlamanın meydana geldiği dairenin bitişiğindeki hava boşluğu sayesinde binanın yıkılmaktan kurtulduğunu sandıklarını dile getiren Aydın ,''Teknik kişiler bu konuda bilgi verebilirler ama hava boşluğu rahatlatmış burayı ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>130705</id>
+<sentence num="0">2005 08 10 15 :30 :00 .Zeytinburnu'nda patlama meydana gelen bina ''oturulamaz ''durumda .</sentence>
+<sentence num="1">Zeytinburnu Belediye Başkanı Murat Aydın ,önceki gün meydana gelen patlama sonucu 2 kişinin öldüğü ,5 kişinin de yaralandığı binanın ,ilk tespitlere göre oturulamaz durumda olduğunu bildirdi .</sentence>
+<sentence num="2">Yenidoğan Mahallesi 42 6 .Sokak 5 numaralı Gümüşkazma Apartmanı'nda incelemelerde bulunan Aydın ,teknik görevlilerin konuyla ilgili inceleme yaptığını belirterek ,ön rapora göre şu an binanın oturulamaz durumda olduğunu söyledi .</sentence>
+<sentence num="3">Aydın ,üniversiteden öğretim üyelerinin gelerek binada detaylı inceleme yapacağını kaydetti .</sentence>
+<sentence num="4">Patlamanın meydana geldiği dairenin bitişiğindeki hava boşluğu sayesinde binanın yıkılmaktan kurtulduğunu sandıklarını dile getiren Aydın ,Teknik kişiler bu konuda bilgi verebilirler ama hava boşluğu rahatlatmış burayı diye konuştu .</sentence>
+<sentence num="5">Başkan Aydın ,bir soru üzerine ,dairede kalan ailenin 2 ay önce buraya yerleştiğini ,patlamada ölen kişilerin de burada misafir olarak bulunabileceklerini bildirdi .</sentence>
+<sentence num="6">İnsanların talep çok olduğu için yüksek fiyatlarla ev ve işyerlerini kiraya vermek istediklerini dile getiren Aydın ,ancak kiraya vermeden önce bu kişilerin hangi mahalleden geldiklerine ,muhtarlıkta kayıtlarının olup olmadığına da bakmaları gerektiğini söyledi .</sentence>
+<sentence num="7">Bu arada ,patlamanın meydana geldiği daire de oturanların ,2002 yılında Zeytunburnu Telsiz Mahallesi'nde ,2004 yılında da Zeytinburnu'ndaki başka bir mahallede oturdukları ,bu yılın Mayıs ayında bu adrese taşındıkları ve muhtarlığa kayıtlarını yaptırdıkları öğrenildi .</sentence>
+<sentence num="8">Öte yandan ,patlamanın meydana geldiği daire ile bitişiğindeki daireyi ayıran duvarın yıkıldığı ,ayrıca katın tabanı ve tavanın kısmen çöktüğü görüldü .</sentence>
+<sentence num="9">Olayın meydana geldiği evin duvarında kan izleri dikkat çekerken ,patlamanın şiddetiyle kopan bazı duvar parçalarının merdivenlere dağıldığı görüldü .</sentence>
+<sentence num="10">BİR BOMBACI TEŞHİS EDİLDİ Zeytinburnu'nda bir apartmanda meydana gelen patlamada ölenlerden biri ,yakınları tarafından Erhan Türk olarak teşhis edildi .</sentence>
+<sentence num="11">Olayda ölen 2 kişinin cesedinin bulunduğu Adli Tıp Kurumu'na başvuran bir kişi ,cesetlerden birinin kardeşi Erhan Türk'e (20 )ait olduğunu bildirdi .</sentence>
+<sentence num="12">Muhasebecilik yaptığı belirtilen Türk'ün cenazesi ,ailenin diğer üyelerince de kabullenildi .</sentence>
+<sentence num="13">Türk'ün cesedinin ,Adli Tıp Kurumu'ndaki işlemlerin ardından ailesi tarafından alınarak Sarıgazi'de toprağa verileceği belirtildi .</sentence>
+</doc>
+<doc>
+<id>130711</id>
+<sentence num="0">2005 08 10 15 :34 :00 .Zeytinburnu'ndaki patlamada ölenlerden biri Erhan Türk olarak teşhis edildi .</sentence>
+<sentence num="1">Zeytinburnu'ndaki patlamada ölenlerden biri Erhan Türk olarak teşhis edildi Zeytinburnu'nda bir apartmanda meydana gelen patlamada ölenlerden biri ,yakınları tarafından Erhan Türk olarak teşhis edildi .</sentence>
+<sentence num="2">Olayda ölen 2 kişinin cesedinin bulunduğu Adli Tıp Kurumu'na başvuran bir kişi ,cesetlerden birinin kardeşi Erhan Türk'e (20 )ait olduğunu bildirdi .</sentence>
+<sentence num="3">Muhasebecilik yaptığı belirtilen Türk'ün cenazesi ,ailenin diğer üyelerince de kabullenildi .</sentence>
+</doc>
+<doc>
+<id>130738</id>
+<sentence num="0">2005 08 10 16 :06 :00 .Ev sahibi tutuklandı Patlamada ölen eylemcilerin kimlikleri belirlendi .</sentence>
+<sentence num="1">Patlamada ölen iki kişinin kimlikleri belirlendi İlgili Galeri Foto Galeri için tıklayınız Doğan Haber Ajansı ,Zeytinburnu'ndaki patlamayla ilgili olarak gözaltına alınan ev sahibi Mehmet Beşir Bayşuh'un ,'yardım ve yataklık 'suçlamasıyla tutuklandığını duyurdu .</sentence>
+<sentence num="2">DHA'nın haberine göre ,patlama ile ilgili olarak evi kiraya veren Mehmet Beşir Bayşuh ile Küçükçekmece Ziya Gökalp Mahallesi Muhtarı Nizamettin Ada gözaltına alınmıştı .</sentence>
+<sentence num="3">Polis tarafından sorgulanan ev sahibi Mehmet Beşir Bayşuh ,'yardım ve yataklık 'suçlamasıyla tutuklandı .</sentence>
+<sentence num="4">Terör örgütüne yardım ve yataklık suçlamasıyla gözaltına alınan ev sahibi Mehmet Beşir Bayşuh'un da PKK eylemlerine bizzat katıldığı iddia edilmişti .</sentence>
+<sentence num="5">Mahalle muhtarının gözaltına alınış nedeninin patlamada ölen iki kişinin üzerinden çıkan sahte kimliklerle ilgili usule uygun olmayan işlemler olduğu belirtildi .</sentence>
+<sentence num="6">Aynı aileden gözaltına alınan yedi kişinin ve teröristlerin üzerinden çıkan sahte kimlikler için gerekli belgeleri hazırlayan Küçükçekmece Ziya Gökalp Mahallesi Muhtarı Nizamettin Ada'nın sorgusu devam ediyor .</sentence>
+<sentence num="7">Yasadışı örgütle bağlantılı oldukları tespit edilen ve patlamada ölen bu iki kişinin üzerinden çıkan sahte kimliklerin ,Küçükçekmece'den alınan belgelerle hazırlandığı belirtiliyor .</sentence>
+<sentence num="8">Bombacıların kimlikleri belirlendi Olayla ilgili soruşturmayı sürdüren polis ,patlamanın meydana geldiği evin kiralanmasıyla ilgili işlemleri de incelemeye aldı .</sentence>
+<sentence num="9">İstanbul Zeytinburnu'nda bomba yapımı sırasında meydana gelen patlamayla ilgili soruşturma sürüyor .</sentence>
+<sentence num="10">Patlamada ölenlerin kimlikleri de belirlendi .</sentence>
+<sentence num="11">Patlamada ölenlerin Erhan Türk ve Ziyaettin Yalvaç adlı teröristler oldukları ve birinin Van ,diğerinin Kars doğumlu olduğu açıklandı .</sentence>
+<sentence num="12">Terör örgütü PKK'nın bomba timi üyesi olduğu öğrenilen iki teröristin ,İstanbul Pendik'teki bir çöp bidonuna konulan bombayla bir anne ve kızının öldürülmesi ve Metris Cezaevi önüne bomba konulması eylemlerini gerçekleştirdiği iddia edildi .</sentence>
+<sentence num="13">İstanbul'a altı ay önce gelen iki teröristin ,Zeytinburnu'ndaki apartman dairesini hücre evi olarak kullandığı ,saldırılar için burada bomba hazırladıkları ,gelen bilgiler arasında .</sentence>
+<sentence num="14">İstanbul Zeytinburnu'nda geçtiğimiz pazartesi günü bir apartmanda meydana gelen patlamada iki kişi ölmüş ,altı kişi de yaralanmıştı .</sentence>
+<sentence num="15">Patlama binada büyük çapta hasara yol açarken ,çevredeki dört bina da olaydan etkilenmişti .</sentence>
+<sentence num="16">İstanbul polisi ,patlamanın bomba imal edilmeye çalışılırken meydana geldiğini açıklamıştı .</sentence>
+<sentence num="17">İstanbul Emniyet Müdürü Celalettin Cerrah ,Zeytinburnu'nda meydana gelen patlamayla ilgili olarak ölen iki kişinin bölücü terör örgütüne üye olduklarını söylemişti .</sentence>
+<sentence num="18">İstanbul Valisi Muammer Güler de olayla ilgili yaptığı açıklamada ,patlamaya ilişkin araştırmanın sürdüğünü belirtmiş ve evde bir eylem hazırlığında bulunulduğunun kesin olduğunu ifade etmişti .</sentence>
+<sentence num="19">Örgütsel bağlantıyı tahmin ediyoruz diyen Vali Güler ,kesin bir şey tespit etmeden de bir açıklama yapmak istemediğini belirtmişti .</sentence>
+</doc>
+<doc>
+<id>130841</id>
+<sentence num="0">2005 08 10 19 :30 :00 .Zeyinburnu'ndaki patlamayla ilgili 1 kişi tutuklandı ...</sentence>
+<sentence num="1">Zeytinburnu'nda bir apartmandaki patlamaya ilişkin gözaltına alınan bir kişi tutuklandı .</sentence>
+<sentence num="2">İstanbul Terörle Mücadele Şube Müdürlüğü'ndeki işlemleri tamamlanan Mehmet Beşir Bayşu ,Beşiktaş'taki İstanbul Adliyesi'ne sevk edildi .</sentence>
+<sentence num="3">Soruşturmayı yürüten Cumhuriyet Savcısı tarafından sorgulanan Bayşu ,yasadışı örgüte yardım ve yataklık etmek suçundan tutuklanması istemiyle nöbetçi mahkemeye gönderildi .</sentence>
+<sentence num="4">İstanbul Nöbetçi 11 .Ağır Ceza Mahkemesi'nde yeniden sorgusu yapılan Bayşu ,tutuklanarak cezaevine gönderildi .</sentence>
+<sentence num="5">Olayda yaralanan ve hastanede bir süre tedavi gören Bayşu'nun ,patlamanın meydana geldiği evi kiralayan kişi olduğu öğrenildi .</sentence>
+</doc>
+<doc>
+<id>130869</id>
+<sentence num="0">2005 08 10 21 :17 :00 .Evsahibi 'yataklıktan 'tutuklandı .</sentence>
+<sentence num="1">İstanbul Terörle Mücadele Şube Müdürlüğü'ndeki işlemleri tamamlanan Mehmet Beşir Bayşu ,Beşiktaş'taki İstanbul Adliyesi'ne sevk edildi .</sentence>
+<sentence num="2">Soruşturmayı yürüten Cumhuriyet Savcısı tarafından sorgulanan Bayşu ,yasadışı örgüte yardım ve yataklık etmek suçundan tutuklanması istemiyle nöbetçi mahkemeye gönderildi .</sentence>
+<sentence num="3">İstanbul Nöbetçi 11 .Ağır Ceza Mahkemesi'nde yeniden sorgusu yapılan Bayşu ,tutuklanarak cezaevine gönderildi .</sentence>
+<sentence num="4">Olayda yaralanan ve hastanede bir süre tedavi gören Bayşu'nun ,patlamanın meydana geldiği evi kiralayan kişi olduğu öğrenildi .</sentence>
+<sentence num="5">2 AY ÖNCE GELMİŞLER Zeytinburnu'nda önceki gün İstanbul'u kana bulamaya hazırlandıkları bomba ellerinde patlayınca yaşamını yitiren 2 kişinin ,Mardinli Bayşu Ailesi'nin oturduğu daireye misafir geldiği ortaya çıktı .</sentence>
+<sentence num="6">Bayşu Ailesi'nin yaklaşık 2 ay önce mahallelerine taşındıklarını belirten Yenidoğan Mahallesi Muhtarı Hüseyin Sarıyel ,'Aile 7 kişilikti .</sentence>
+<sentence num="7">Mehmet Beşir Bayşu'nun Mardin'den iki arkadaşının geldiğini öğrenmiştim .</sentence>
+<sentence num="8">Ölenlerin bu iki kişi olduğunu düşünüyorum .</sentence>
+<sentence num="9">Bayşu'nun eşi Zeynep Bayşu ,çocukları Abdurrahman ,Asya ,Şahin ve İdris ile gelini Avniye Bayşu yaralanmış 'dedi .</sentence>
+<sentence num="10">1 yıldır Zeytinburnu Nuripaşa Mahallesi'nde oturan Bayşu Ailesi'nin 2002'de Mardin'den geldikleri belirtildi .</sentence>
+<sentence num="11">İstanbul Emniyet Müdürü Celalettin Cerrah ,bölücü terör örgütüne mensup 2 kişinin öldüğünü saptadıklarını söyleyerek ,şöyle konuştu :'Laboratuvar incelemesi neticesinde patlayıcının miktarı belli olacak .</sentence>
+<sentence num="12">Terör örgütlerine karşı mücadelede hepimiz duyarlı olmalıyız .</sentence>
+<sentence num="13">Ev sahiplerinden evlerini kiraya verirken şüphelendikleri taktirde süratle 155 Polis İmdat Hattı'na bilgi vermelerini istiyoruz .'</sentence>
+<sentence num="14">AA .</sentence>
+</doc>
+<doc>
+<id>131080</id>
+<sentence num="0">2005 08 11 10 :42 :00 .Zeytinburnu'ndaki Patlama .</sentence>
+<sentence num="1">İstanbul Zeytinburnu'ndaki bir evde bomba yapımı sırasında meydana gelen patlamada ölen ikinci kişinin de kimliği belirlendi .</sentence>
+<sentence num="2">Bu arada ,bombanın patladığı evin sahibi tutuklandı .</sentence>
+<sentence num="3">Yenidoğan Mahallesindeki bir apartman dairesinde meydana gelen patlamayla ilgili soruşturma sürüyor .</sentence>
+<sentence num="4">Patlamada ölenlerin Erhan Türk ve Ziyaettin Yalvaç oldukları belirlendi .</sentence>
+<sentence num="5">Polis ,olayla ilgili olarak ev sahibi ile mahalle muhtarını da bilgilerine başvurmak için gözaltına aldı .</sentence>
+<sentence num="6">Sorgusunun ardından adliyeye sevkedilen ev sahibi tutuklandı .</sentence>
+<sentence num="7">Bu arada basın mensuplarının patlamanın olduğu daireye girmesine izin verildi .</sentence>
+<sentence num="8">Bombanın salonun ortasında patladığı ,tavanda da çökme meydana geldiği görüldü .</sentence>
+</doc>

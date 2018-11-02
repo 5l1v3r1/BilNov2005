@@ -1,0 +1,223 @@
+<doc>
+<id>0</id>
+<sentence num="0">2005 05 28 08 :50 :00 .otobüs aras nehri'ne uçtu ;7 ölü ,7 kayıp ,38 yaralı ..</sentence>
+<sentence num="1">cem bakırcı onur sağsöz menderes uray mukadder yardımcıel sarıkamış (kars ),(dha )istanbul'dan ığdır'a giden ve içinde 49 kişinin bulunduğu otobüs ,kars'ın sarıkamış ilçesi yakınlarında sürücünün yola düşen kayaya çarpmamak için direksiyon kırması sonucu aras nehri'ne uçtu .</sentence>
+<sentence num="2">yolcularının çoğunu nahcivan'a giden azerilerin oluşturduğu otobüstekilerden 7'si öldü ,38'i de yaralı kurtarıldı .</sentence>
+<sentence num="3">otobüsteki 7 kişiden henüz haber alınamazken bazılarının nehir sularında kaybolduğu sanılıyor .</sentence>
+<sentence num="4">ığdırlı tur şirketine ait 34 yj 9924 plakalı otobüsün sürücüsü 50 yaşındaki musa telek ,bu sabah saat 06 .45 sıralarında sarıkamış'ın karakurt bucağı yakınlarına geldiğinde ,heyelan nedeniyle yola düşen kayaya çarpmamak için direksiyon kırdı .</sentence>
+<sentence num="5">stabilize yolda aşırı hız nedeniyle sürücünün kontrolünden çıkan otobüs ,yol kenarında bulunan aras nehri'ne uçtu .</sentence>
+<sentence num="6">horasan'a 44 ,karakut'a 4 kilometre uzaklıkta meydana gelen kazada ,otobüs nehirin ortasına yan yatarken ,46 yolcu ve 3 personel olmak üzere otobüsteki 49 kişi kendilerini nehir sularında buldu .</sentence>
+<sentence num="7">çoğu uykuda olan yolcular ,can pazarında boğulmaktan kurtulmak için çırpınmaya başladı .</sentence>
+<sentence num="8">kazanın şokundan kurtulan yolcular kendilerini kıyıya atarken ,?</sentence>
+<sentence num="9">imdat 'çığlıkları atan diğer yolcuları kurtarmak için yeniden nehre girdiler .</sentence>
+<sentence num="10">bu arada bazı yolcular kıyıya çıkamayarak nehrin azgın sularıyla sürüklenip kayboldu .</sentence>
+<sentence num="11">yoldan geçen araçlardan inenler ,sudaki yolcuların çıkarılmasına yardım etti .</sentence>
+<sentence num="12">kurtarma ekipleri olay yerinde kazanın duyulması üzerine bölgeye jandarma birlikleri ,acil servis görevlileri ve ambulanslarla ,erzurum sivil savunma birlik müdürlüğü'nden 5'i dalgıç 14 personel sevkedildi .</sentence>
+<sentence num="13">sudan çıkarılan ve yolda bekleşen yaralılar ,ambulanslarla sarıkamış ,kars ,horasan ve erzurum'daki hastanelere nakledildi .</sentence>
+<sentence num="14">aras nehri'nde arama çalışması başlatan ekipler ,otobüste sıkışan fatma tuna'yu kurtardı ve kimlikleri saptanamayan 3 kişinin cesedini çıkardı .</sentence>
+<sentence num="15">erzurum numune hastanesi'nde 13'ü azeri 17 ,erzurum aziziye araştırma hastanesi'nde 4'ü azeri 7 ,sarıkamış devlet hastanesi'nde 8'i azeri 10 ,kars devlet hastanesi'nde ise 4 azeri olmak üzere toplam 29'u azeri 38 yolcu tedavi altına alındı .</sentence>
+<sentence num="16">numune hastanesi'nde tedavi altına alınan 54 yaşındaki azerbaycanlı gülşen abdulleyev'in bir ara kalbi durdu .</sentence>
+<sentence num="17">doktorlar kalp masajı yaparak gülşen abdulleyev'i hayata döndürmeyi başardı .</sentence>
+<sentence num="18">erzurum kriz merkezi otobüs sürücüsü musa telek ile birlikte 7 kişiden henüz haber alınamadığını bildirdi .</sentence>
+<sentence num="19">kaza yerine gelen ve kurtarma çalışmalarını izleyen kars valisi nevzat turhan ,henüz kesin olmamakla birlikte otobüste 49 kişinin bulunduğunu açıkladı .</sentence>
+<sentence num="20">otobüs firmalarının sürücü seçiminde gerekli hassasiyeti göstermediklerini söyleyen vali turhan ,karayollarında kontrol yapılmayan bölgelerde hız sınırının aşıldığını curguladı .</sentence>
+<sentence num="21">şoför ve personel kaçtı mı ?</sentence>
+<sentence num="22">vali turhan ,haber alınamayan 7 kişiden bazılarının aras nehri'nin bulanık sularında kaybolduğunun sanıldığını bildirdi .</sentence>
+<sentence num="23">otobüs sürücüsü musa telek ,ikinci şoför ve muavinin kazadan yara almadan kurtuldukları ve olay yerinden kaçtıkları öne sürüldü .</sentence>
+<sentence num="24">şoför musa telek'in 1983 yılında ehliyet aldığı ve trafik kayıtlarına göre 11 kez hız sınırını aştığı için ceza kesildiği belirlendi .</sentence>
+<sentence num="25">yaralı anlatıyor kazadan hafif yaralı kurtulan azeri hüseyin mehmetov ,?</sentence>
+<sentence num="26">horasan'da mola verdik ve yola çıktık .</sentence>
+<sentence num="27">sabahın erken saatleriydi .</sentence>
+<sentence num="28">otobüs vadide hızla gidiyordu .</sentence>
+<sentence num="29">aniden yol ortasındaki kayayı gören şoför ,direksiyon kırdı ama kontrolü kaybetti .</sentence>
+<sentence num="30">yoldan nehire düştük .</sentence>
+<sentence num="31">bu sırada uyuyan yolcular uyandı .</sentence>
+<sentence num="32">ortalık ana baba gününe döndü .</sentence>
+<sentence num="33">yolculardan bazıları takla attığı sırada çevreye savruldular .</sentence>
+<sentence num="34">iki çocuk vardı otobüste ,birini kurtardılar ama diğerini göremedimö dedi .?</sentence>
+<sentence num="35">bilecik'te trafik kazası :19 yaralı ...?</sentence>
+<sentence num="36">antalya'da trafik kazası :1 ölü ...?</sentence>
+<sentence num="37">6 kişilik aile çadırda ölü bulundu !?</sentence>
+<sentence num="38">hamamda ,kalp krizinden öldü .</sentence>
+</doc>
+<doc>
+<id>88130</id>
+<sentence num="0">2005 05 28 08 :52 :00 .Otobüs ,Aras Nehri'ne uçtu :21 yaralı .</sentence>
+<sentence num="1">Otobüs ,Aras Nehri'ne uçtu :21 yaralı Bir yolcu otobüsünün Aras Nehri'ne uçması sonucu ilk belirlemelere göre 21 kişi yaralandı .</sentence>
+<sentence num="2">İstanbul'dan Iğdır'a gitmekte olan Musa Pelek'in kullandığı 34 YJ 9924 plakalı yolcu otobüsü ,Karakurt mevkiinde Aras Nehri'ne uçtu .</sentence>
+<sentence num="3">Olayda ,ilk belirlemelere göre 21 kişi yaralandı .</sentence>
+<sentence num="4">Otobüste bulunan yolcuların kurtarılmasına çalışılıyor .</sentence>
+</doc>
+<doc>
+<id>88134</id>
+<sentence num="0">2005 05 28 09 :06 :00 .Yolcu otobüsü Aras Nehri'ne uçtu .</sentence>
+<sentence num="1">Sabah saat :06 .00 sıralarında meydana gelen kazada ,İstanbul'dan Iğdır'a gitmekte olan Musa Pelek'in kullandığı 34 YJ 9924 plakalı yolcu otobüsü ,Karakurt mevkiinde Aras Nehri'ne uçtu .</sentence>
+<sentence num="2">Yaralı yolcular Horasan ve Sarıkamış Devlet Hastaneleri'ne kaldırıldı .</sentence>
+<sentence num="3">Olay yerine gelen vincin otobüsü çıkartması bekleniyor .</sentence>
+<sentence num="4">Kazada ölen olup olmadığı konusunda henüz bir bilgi geçilmedi .</sentence>
+</doc>
+<doc>
+<id>88145</id>
+<sentence num="0">2005 05 28 09 :30 :00 .Aras Nehri'ne uçan otobüsten yaralı kurtarılan kadın öldü .</sentence>
+<sentence num="1">Aras Nehri'ne uçan otobüsten yaralı kurtarılan kadın öldü Aras Nehri'ne uçan yolcu otobüsünden yaralı kurtarılan bir kadın ,hayatını kaybetti .</sentence>
+<sentence num="2">İstanbul'dan Iğdır'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden yaralı kurtarılan kadın ,Sarıkamış Devlet Hastanesi'ne kaldırılırken öldü .</sentence>
+<sentence num="3">Arama ve kurtarma çalışmalarına katılmak üzere ,Erzurum Sivil Savunma Müdürlüğü'nden 5'i dalgıç 14 personelden oluşan bir ekip ,olay yerine gitti .</sentence>
+<sentence num="4">Otobüste bulunanların sayısı henüz tespit edilemedi .</sentence>
+<sentence num="5">Arama ve kurtarma çalışmaları için sivil savunma ekibi bekleniyor .</sentence>
+</doc>
+<doc>
+<id>88176</id>
+<sentence num="0">2005 05 28 10 :38 :00 .Otobüs kazasında ölü sayısı 6 oldu .</sentence>
+<sentence num="1">Erzurum'dan giden ve 5 dalgıcın yer aldığı sivil savunma ekibi arama çalışmalarını sürdürürken ,kazada yaralananların Kars ,Sarıkamış ve Horasan devlet hastanelerinde tedavileri sürüyor .</sentence>
+<sentence num="2">Sabah saatlerinde meydana gelen kazada ,Musa Pelek'in kullandığı bildirilen 34 YJ 9924 plakalı yolcu otobüsü ,Karakurt mevkiinde Aras Nehri'ne uçmuştu .</sentence>
+<sentence num="3">Edinilen bilgiye göre ,olay yerinde 3 kişinin hayatını kaybettiği kazada ,Erzurum'a sevkedilen yaralılardan Nahile Askerova da hayatını kaybetti .</sentence>
+<sentence num="4">Kaza sonrası nehirde akıntıya kapıldığı belirtilen 3 kişiden 2'sinin cesedi yapılan çalışma sonrası bulunurken ,diğer kayıp yolcunun aranmasına devam ediliyor .</sentence>
+</doc>
+<doc>
+<id>88177</id>
+<sentence num="0">2005 05 28 10 :38 :00 .Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü .</sentence>
+<sentence num="1">Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü Aras Nehri'ne uçan yolcu otobüsünden ,bir kadın yolcunun cesedi çıkarıldı .</sentence>
+<sentence num="2">İstanbul'dan Iğdır'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden ,dalgıçlar ,bir kadın yolcunun cesedini çıkardılar .</sentence>
+<sentence num="3">Erzurum'dan giden ve 5 dalgıcın yer aldığı sivil savunma ekibi arama çalışmalarını sürdürürken ,kazada yaralananların Kars ,Sarıkamış ve Horasan devlet hastanelerinde tedavileri sürüyor .</sentence>
+<sentence num="4">Sabah saatlerinde meydana gelen kazada ,Musa Pelek'in kullandığı bildirilen 34 YJ 9924 plakalı yolcu otobüsü ,Karakurt mevkiinde Aras Nehri'ne uçmuş ,ilk belirlemelere göre 1 kadın ,hastaneye götürülürken yaşamını yitirmiş ,20 kişi yaralanmıştı .</sentence>
+<sentence num="5">Çıkarılan kadın yolcuyla birlikte ,ölenlerin sayısı 2'ye yükseldi .</sentence>
+</doc>
+<doc>
+<id>88185</id>
+<sentence num="0">2005 05 28 11 :04 :00 .Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü ,37 yaralı .</sentence>
+<sentence num="1">Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü ,37 yaralı Kars'ın Sarıkamış İlçesi Kaymakamı Bayram Gale ,Aras Nehri'ne uçan otobüste belirlemelere göre iki kişinin öldüğü ,37 kişinin yaralandığını bildirdi .</sentence>
+<sentence num="2">Gale ,bir yolcu otobüsünün sabah saatlerinde Aras Nehri'ne uçtuğunu belirterek ,''Şu ana kadar yaptığımız belirlemelere göre kazada 2 kişi yaşamını yitirdi ''diye konuştu .</sentence>
+<sentence num="3">Kazada yaralanan 37 kişiden 4'nün Kars ,10'nun Sarıkamış devlet hastanelerinde tedavi altına alındığı ,diğer yaralıların ise Erzurum ve Horasan'a sevk edildiği kaydedildi .</sentence>
+</doc>
+<doc>
+<id>88206</id>
+<sentence num="0">2005 05 28 11 :25 :00 .Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü ,9 kayıp .</sentence>
+<sentence num="1">Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü ,9 kayıp Kars Valisi Nevzat Turhan ,Aras Nehri'ne uçan yolcu otobüsüyle ilgili olarak ,''Firma görevlilerinin ifadeleri doğrultusunda 9 kişi kayıp ''dedi .?</sentence>
+<sentence num="2">Bilecik'te trafik kazası meydana geldi :19 yaralı ?</sentence>
+<sentence num="3">Afyonkarahisar'da trafik kazası :14 yaralı Vali Turhan ,gazetecileri yaptığı açıklamada ,İstanbul'dan Nahcivan'a gitmekte olan Iğdırlı Turizm'e ait otobüsün ,Sarıkamış İlçesi'ne bağlı Karakurt Beldesi'ne 4 kilometre uzaklıktaki bölgede virajı alamayarak ,Aras Nehri'ne uçtuğunu ve yapılan ilk müdahalede ,35 kişinin yaralı olarak kurtarıldığını söyledi .</sentence>
+<sentence num="4">Yaralılardan 24'nün Horasan ve Erzurum devlet hastanelerinde 11'nin ise Sarıkamış ve Kars'ta tedavi altına alındığını bildiren Vali Turhan ,''Şu ana kadar 2 kişi öldü .</sentence>
+<sentence num="5">1 cesedin de aracın alt kısmında sıkışmış olduğu belirlendi ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>88209</id>
+<sentence num="0">2005 05 28 11 :38 :00 .Yaralı kurtarılan yolcu :Yoldan geçenler bizi kurtardı .</sentence>
+<sentence num="1">Yaralı kurtarılan yolcu :Yoldan geçenler bizi kurtardı Aras Nehri'ne uçan yolcu otobüsünden yaralı kurtarılan Nahcıvan uyruklu Vekil Caferov ,''Yoldan geçenler bizi kurtardı ''dedi .</sentence>
+<sentence num="2">Aras Nehri'ne uçan yolcu otobüsünde yaralanan ve Kars Devlet Hastanesi'nde tedavi altına alınan Caferov ,yaşadıklarını anlattı .</sentence>
+<sentence num="3">Kaza anında uyumaya çalıştığını ifade eden Caferov ,şunları söyledi :''Bir anda otobüs uçtu .</sentence>
+<sentence num="4">Ayağımı hissetmiyordum .</sentence>
+<sentence num="5">Suyun kenarında bir ağaç parçası vardı .</sentence>
+<sentence num="6">Ona tutunarak sudan çıktım .</sentence>
+<sentence num="7">Benim gibi diğer yaralılar da yardım için bağırıyorlardı .</sentence>
+<sentence num="8">O sırada yoldan geçenler durarak ,bizi kurtardılar .''.</sentence>
+</doc>
+<doc>
+<id>88255</id>
+<sentence num="0">2005 05 28 13 :15 :00 .Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü ,39 yaralı .</sentence>
+<sentence num="1">Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü ,39 yaralı Kars Valisi Nevzat Turhan ,Aras Nehri'ne uçan otobüste 3 kişinin öldüğünü ,39 kişinin yaralandığını söyledi .</sentence>
+<sentence num="2">Vali Turhan ,gazetecilere yaptığı açıklamada ,İstanbul'dan Iğdır bağlantılı olarak Nahcivan'a giden Iğdırlı Turizm'e ait 34 YJ 9924 plakalı yolcu otobüsünün sürücülerinin ,Musa Telek ve İsa Telek olduğunun belirlendiğini ifade etti .</sentence>
+<sentence num="3">Kazada 3 kişinin hayatını kaybettiğini belirten Vali Turhan ,yaralıların Erzurum ve Kars'taki hastanelerde tedavilerinin sürdüğünü ,bunlardan 6'sının durumlarının ağır olduğunu belirtti .</sentence>
+</doc>
+<doc>
+<id>88327</id>
+<sentence num="0">2005 05 28 16 :02 :00 .Aras'a uçan otobüste ölenlerin sayısı 6'ya yükseldi .</sentence>
+<sentence num="1">Aras'a uçan otobüste ölenlerin sayısı 6'ya yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayısı 6'ya yükseldi .</sentence>
+<sentence num="2">İstanbul'dan Iğdır bağlantılı olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünde arama ve kurtarma çalışmaları kapsamında ,dalgıçlar ,otobüste sıkıştığı fark edilen bir cesedi sudan çıkardı .</sentence>
+<sentence num="3">Sivil Savunma yetkilileri de otobüsün nehre uçtuğu bölgenin 20 kilometre uzağında Kağızman yolu bölgesinde bir kişinin daha cesedinin bulunduğunu ,ancak akıntı nedeniyle cesedi henüz sudan çıkaramadıklarını kaydettiler .</sentence>
+<sentence num="4">Yetkililer ,bu cesetlerle birlikte kazada ölenlerin sayısının 6'ya yükseldiğini bildirdiler .</sentence>
+<sentence num="5">Bu arada ,daha önce otobüste sıkıştığı belirtilen bir kişiye ait ceset de bulunduğu yerden çıkarıldı .</sentence>
+</doc>
+<doc>
+<id>88372</id>
+<sentence num="0">2005 05 28 18 :04 :00 .Aras'a uçan otobüste ölenlerin sayısı 7'ye yükseldi .</sentence>
+<sentence num="1">Aras'a uçan otobüste ölenlerin sayısı 7'ye yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayısı 7'ye yükseldi .</sentence>
+<sentence num="2">İstanbul'dan Iğdır bağlantılı olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsü ,çekiciyle sudan çıkarıldı .</sentence>
+<sentence num="3">Bu arada ,otobüstü sıkışan 1 kişinin daha cesedine ulaşıldı .</sentence>
+<sentence num="4">Emniyet yetkilileri ,kazada ölen Fatma Tuna ,Eşber Abbasova ve Şupika Fitrika'nın kimliklerinin belirlendiğini bildirdiler .</sentence>
+<sentence num="5">Daha önce de Nahile Askerova ,tedavi gördüğü Aziziye Araştırma Hastanesi'nde hayatını kaybetmişti .</sentence>
+<sentence num="6">Öte yandan ,Kars Valisi Nevzat Turhan ,İstanbul'dan yola çıkmadan otobüste gerekli denetimlerin yapıldığını belirterek ,''Gerekli denetimler yapılıyor ama bu tür üzücü kazalar maalesef yaşanıyor .</sentence>
+<sentence num="7">Ayrıca Karakurt bölgesinde jandarma ekiplerimiz ,otobüs sürücülerine ,dikkatli olmaları konusunda da uyarı yapıyor ''diye konuştu .</sentence>
+</doc>
+<doc>
+<id>88383</id>
+<sentence num="0">2005 05 28 18 :16 :00 .Aras nehrine otobüs uçtu :Yedi ölü Kayıp yedi kişinin bulunması için ise çalışmalar sürüyor .</sentence>
+<sentence num="1">Kayıp yedi kişinin aranmasına devam ediliyor Kars'ın Sarıkamış ilçesinde Aras nehrine bir otobüsün düşmesi sonucu ,ölenlerin sayısı yediye yükseldi .</sentence>
+<sentence num="2">Yaralıların ifadesine göre ,otobüs şoförü aniden yola düşen kaya parçasına çarpmamak için direksiyon kırdı .</sentence>
+<sentence num="3">Ancak stabilize yolda aşırı hızla ilerleyen otobüs ,sürücünün direksiyon hakimiyetini kaybetmesi sonucu nehre uçtu .</sentence>
+<sentence num="4">Yaralılar Erzurum ve Kars'taki hastanelerde tedavi altına alınırken ,kayıp altı kişiyi arama çalışmaları ise sürüyor .</sentence>
+<sentence num="5">Otobüs sürücüsü ile ikinci şoför ve muavinin kazadan yara almadan kurtuldukları ve olay yerinden kaçtıkları öne sürüldü .</sentence>
+<sentence num="6">Trafik kayıtlarından otobüs sürücüsünün daha önce de 11 kez hız sınırını aştığı ortaya çıktı .</sentence>
+</doc>
+<doc>
+<id>88428</id>
+<sentence num="0">2005 05 28 19 :30 :00 .Aras Nehri'ne uçan otobüsün şöförü gözaltında ...</sentence>
+<sentence num="1">Kars'ın Sarıkamış İlçesi Kaymakamı Bayram Gale ,Aras Nehri'ne uçan otobüsün sürücüsünün gözaltında olduğunu bildirdi .</sentence>
+<sentence num="2">Gale ,AA muhabirine yaptığı açıklamada ,otobüs sürücüsü Musa Telek'in Sarıkamış'ta gözaltında tutulduğunu belirten Gale ,şunları kaydetti :Kazanın meydana geliş sebebi de henüz belirlenemedi .</sentence>
+<sentence num="3">Kazadan kısa süre önce otobüs mola verdiği sırada sürücünün ağır bir kahvaltı sonrası direksiyona geçtiği ve dikkatinin dağıldığı yönündeki iddiaları henüz doğrulanmadı .</sentence>
+<sentence num="4">Yaralıların ifadeleri sonrası kaza nedeni aydınlanacak .</sentence>
+<sentence num="5">Kaymakam Gale ,Aras Nehri'ne uçan otobüste ölen ve kimlikleri henüz belirlenemeyen 3 kişinin kimlik tespit çalışmasının devam ettiğini de söyledi .</sentence>
+</doc>
+<doc>
+<id>88755</id>
+<sentence num="0">2005 05 29 16 :18 :00 .Aras Nehri'nde kaybolan bir kadının cesedine daha ulaşıldı .</sentence>
+<sentence num="1">Aras Nehri'nde kaybolan bir kadının cesedine daha ulaşıldı Kars'ın Sarıkamış İlçesi'nde Aras Nehri'ne yolcu otobüsünün uçması sonucu nehirde kaybolan bir kadının daha cesedine ulaşıldığı bildirildi .</sentence>
+<sentence num="2">Kars Valisi Nevzat Turhan ,Erzurum Sivil Savunma Arama Kurtarma Birlik Müdürlüğü ekiplerince sürdürülen çalışmalar sonucu ,dün Aras Nehri'ne yolcu otobüsünün uçması sonucu kaybolan ve kimliği henüz belirlenemeyen bir kadının cesedine ulaşıldığını söyledi .</sentence>
+<sentence num="3">Kaza yerine 20 kilometre uzaklıkta ,Kağızman yolunda bulunan cesedin otopsi yapılmak üzere Kars Devlet Hastanesi morguna kaldırıldığını belirten Vali Turhan ,kaybolan Hüseyin Dağcı'nın (7 )bulunmasına yönelik çalışmaların da sürdürüldüğünü ifade etti .</sentence>
+<sentence num="4">Turhan ,yeni bulunan cesetle birlikte ölü sayısının 8'e yükseldiğini kaydetti .</sentence>
+</doc>
+<doc>
+<id>88814</id>
+<sentence num="0">2005 05 29 18 :35 :00 .Kars'taki kazada ölü sayısı dokuz oldu .</sentence>
+<sentence num="1">Kayır yolcuları arama çalışmaları sürüyor Kars'ın Sarıkamış ilçesinde Aras nehrine uçan yolcu otobüsünden yaralı kurtarılarak Erzurum'da tedavi altına alınan bir kişinin daha öldüğü ,ölü sayısının dokuza yükseldiği bildirildi .</sentence>
+<sentence num="2">Kars Valisi Nevzat Turhan ,Aras nehrine uçan yolcu otobüsünden yaralı kurtarılan Gülşen Abdullahyev'in yaşamını yitirmesiyle ölü sayısının dokuza yükseldiğini ,bugün Aras nehrinde bulunan kadın cesedinin de Vesile Aliyeva'ya ait olduğunun tespit edildiğini söyledi .</sentence>
+<sentence num="3">Son bilgilere göre ölü sayısının dokuz ,yaralı sayısının 43 olduğunu ifade eden Turhan ,kayıp Hüseyin Dağcı'nın bulunmasına yönelik çalışmaların sürdürüldüğünü kaydetti .</sentence>
+<sentence num="4">Bugün kaza yerine 20 kilometre uzaklıkta ,Kağızman yolunda nehirde kaybolan bir kadının daha cesedine ulaşılmasıyla ölü sayısı sekize yükselmişti .</sentence>
+<sentence num="5">Yaralılar Erzurum ve Kars'taki hastanelerde tedavi altına alınırken ,kayıpları arama çalışmaları ise sürüyor .</sentence>
+<sentence num="6">Şoför ve muavin kaçtı Otobüs sürücüsü ile ikinci şoför ve muavinin kazadan yara almadan kurtuldukları ve olay yerinden kaçtıkları öne sürüldü .</sentence>
+<sentence num="7">Trafik kayıtlarından otobüs sürücüsünün daha önce de 11 kez hız sınırını aştığı ortaya çıktı .</sentence>
+<sentence num="8">Dün İstanbul'dan Iğdır bağlantılı olarak Nahçıvan'a giderken Kars'ın Sarıkamış ilçesi sınırlarında Aras Nehri'ne uçan otobüsün yolcularından sekizi ölmüş ,38'i yaralanmıştı .</sentence>
+</doc>
+<doc>
+<id>88872</id>
+<sentence num="0">2005 05 29 22 :44 :00 .Trafik Kazaları Durmak Bilmiyor .</sentence>
+<sentence num="1">Kars'ın Sarıkamış İlçesi'nde bir otobüsün Aras nehrine uçması sonucu meydana gelen kazada ölenlerin sayısı 9'e çıktı .</sentence>
+<sentence num="2">Kazadan yaralı kurtulan ve Erzurum'da tedavi altına alınan Gülşen Abdullahyev yaşamını yitirdi .</sentence>
+<sentence num="3">Aras nehrinde bulunan kadın cesedinin ise Azerbaycan uyruklu Vesile Aliyeva'ya ait olduğu belirlendi .</sentence>
+<sentence num="4">Bir kişinin ise halen kayıp olduğu sanılıyor .</sentence>
+<sentence num="5">Kazada yaralanan 42 kişinin tedavileri Kars ve Erzurum'daki hastanelerde devam ediyor .</sentence>
+<sentence num="6">Muğla'nın Köyceğiz ilçesi yakınlarında ise İngiliz turistleri taşıyan minibüsün kamyonla çarpışması sonucu ,biri turist 2 kişi öldü ,10'u turist 12 kişi yaralandı .</sentence>
+<sentence num="7">Kazada ,minibüsü kullananan İngiliz turist Charlie Harris ve kamyon sürücüsü Ayhan Uzunoğlu hayatını kaybetti .</sentence>
+<sentence num="8">10'u İngiliz turist ,toplam 12 yaralı Muğla ve Köyceğiz Devlet hastanelerinde tedavi altına alındı .</sentence>
+<sentence num="9">Öteyandan Diyarbakır'da meydana gelen trafik kazasında ,2 kişi öldü ,2 kişi yaralandı .</sentence>
+<sentence num="10">Diyarbakır Silvan Karayolu 12'nci kilometresinde meydana gelen kazada ,Süleyman Alcan yönetimindeki 21 DA 267 plakalı minibüs ile Yeni Zelanda plakalı bir motosiklet çarpıştı .</sentence>
+<sentence num="11">Kazada ,motosiklette bulunan Yeni Zelanda uyruklu Neil ve Carol Bıskopt hayatını kaybetti .</sentence>
+<sentence num="12">Yaralanan iki kişi Dicle Üniversitesi Tıp Fakültesi Araştırma ve Uygulama Hastanesi'nde tedavi altına alındı .</sentence>
+</doc>
+<doc>
+<id>88893</id>
+<sentence num="0">2005 05 30 00 :00 :00 .Aras Nehri'ne uçan otobüs ...</sentence>
+<sentence num="1">Ölü sayısı 9'a yükseldi .</sentence>
+<sentence num="2">Kars'ın Sarıkamış İlçesi'nde Aras Nehri'ne uçan yolcu otobüsünden yaralı kurtarılarak Erzurum'da tedavi altına alınan bir kişinin daha öldüğü ,ölü sayısının 9'a yükseldiği bildirildi .</sentence>
+<sentence num="3">Kars Valisi Nevzat Turhan ,AA muhabirine yaptığı açıklamada ,Aras Nehri'ne uçan yolcu otobüsünden yaralı kurtarılan Gülşen Abdullahyev'in yaşamını yitirmesiyle ölü sayısının 9'a yükseldiğini ,bugün Aras Nehri'nde bulunan kadın cesedinin de Vesile Aliyeva'ya ait olduğunun tespit edildiğini söyledi .</sentence>
+<sentence num="4">Son bilgilere göre ölü sayısının 9 ,yaralı sayısının 43 olduğunu ifade eden Turhan ,kayıp Hüseyin Dağcı'nın bulunmasına yönelik çalışmaların sürdürüldüğünü kaydetti .</sentence>
+</doc>
+<doc>
+<id>92258</id>
+<sentence num="0">2005 06 03 16 :20 :00 .Aras Nehri'nde ceset bulundu .</sentence>
+<sentence num="1">Kars'ın Sarıkamış İlçesi'nde Aras Nehri kenarında bir erkek cesedi bulundu .</sentence>
+<sentence num="2">Edinilen bilgiye göre ,Sarıkamış İlçesi Akkoz Köyü yakınlarında köylüler tarafından Aras Nehri kenarında bulunan 25 yaşlarındaki erkek cesedinin kime ait olduğunun belirlenmesine çalışılıyor .</sentence>
+<sentence num="3">Emniyet yetkilileri ,cesedin ,28 Mayıs'da Aras Nehri'ne yuvarlanan ve 9 kişinin öldüğü 38 kişinin yaralandığı otobüsün yolcularından olma ihtimali üzerine durduklarını bildirildiler .</sentence>
+</doc>
+<doc>
+<id>171376</id>
+<sentence num="0">2005 10 24 12 :39 :00 .Aras Nehri yakınlarında 5 bin kuş öldü .</sentence>
+<sentence num="1">Aras Nehri yakınlarında 5 bin kuş öldü İran'ın Batı Azerbaycan eyaleti sınırları içinde yer alan Aras nehrinin yakınlarında 5 bin civarında göçmen kuşun öldüğü bildirildi .</sentence>
+<sentence num="2">İran öğrenci ajansı İSNA'nın haberine göre ,Batı Azerbaycan eyaletinde günde ortalama 70 göçmen kuş ölüyor .</sentence>
+<sentence num="3">Son günlerde Aras nehri yakınlarında yaklaşık 5 bin kuşun öldüğü kaydedilen haberde ,''kuş gribinin İran'da görülme ihtimalinin günden güne arttığı ''ifade edildi .</sentence>
+</doc>
+<doc>
+<id>200827</id>
+<sentence num="0">2005 12 16 14 :31 :00 .Kars'ta trafik kazası :7 yaralı .</sentence>
+<sentence num="1">Kars'ta trafik kazası :7 yaralı Kars'ın Digor İlçesi'nde meydana gelen trafik kazasında 7 kişi yaralandı .</sentence>
+<sentence num="2">Digor İlçesi'ne bağlı Kocaköy'den Kars'a gelmekte olan Nesim Çalışçı'nın kullandığı 36 M 0960 plakalı yolcu minibüsü ,Digor Kars karayolunun kaygan olması nedeniyle şarampole yuvarlandı .</sentence>
+<sentence num="3">Kazada yaralanan Yeter Özçeken (42 ),Miyese Kaya (75 ),Zeytun Çelimli (72 ),Turan Çağın (40 ),Yusuf Çalışçı (24 ),Emre Özçakır (8 )ve adı belirlenemeyen 1 .5 yaşındaki çocuk Kars Devlet Hastanesi'nde tedavi altına alındılar .</sentence>
+</doc>
